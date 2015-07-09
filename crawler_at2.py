@@ -1,9 +1,11 @@
 __author__ = 'torresal'
 
 import os,re, subprocess
-#/home/ubuntu/dump_ingest/2015-07-09_v0
+
+#stpath is the prefix of the file path containing the .json files#
 stpath = "/home/ubuntu/dump_ingest/2015-07-09_v0"
-#insert path to file#
+#pypath is the prefix of the file path containing the .py files#
+pypath = "/home/ubuntu/dump_ingest/ingest_scripts"
 
 for (root,dirs,files) in os.walk(stpath):
       files.sort()
@@ -15,7 +17,7 @@ for (root,dirs,files) in os.walk(stpath):
         if match:
             t, id = match.groups()
             #print ('match',t, id)
-            i ="/home/ubuntu/dump_ingest/ingest_scripts/{}_ingest.py" .format(t)
+            i ="{}/{}_ingest.py" .format(pypath,t)
             p = "{}/{}/{}_{}.json" .format(stpath,t,t, id)
             subprocess.call('python {} {}' .format(i,p), shell=True)
             #print('python {} {}' .format(i,p))
