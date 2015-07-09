@@ -1,8 +1,8 @@
 __author__ = 'torresal'
 
 import os,re, subprocess
-#/home/ubuntu/dump_ingest/2015-07-02_v0/reports
-stpath = "/home/ubuntu/dump_ingest/2015-07-02_v0"
+#/home/ubuntu/dump_ingest/2015-07-09_v0
+stpath = "/home/ubuntu/dump_ingest/2015-07-09_v0"
 #insert path to file#
 
 for (root,dirs,files) in os.walk(stpath):
@@ -15,9 +15,10 @@ for (root,dirs,files) in os.walk(stpath):
         if match:
             t, id = match.groups()
             #print ('match',t, id)
-            i ="{}_ingest.py {}_{}.json" .format(t, t, id)
-            subprocess.call('python /home/ubuntu/dump_ingest/ingest_scripts/{}/{}' .format(t,i), shell=True)
-            #print('python /home/ubuntu/dump_ingest/ingest_scripts/report/{}' .format(i))
+            i ="/home/ubuntu/dump_ingest/ingest_scripts/{}_ingest.py" .format(t)
+            p = "{}/{}/{}_{}.json" .format(stpath,t,t, id)
+            subprocess.call('python {} {}' .format(i,p), shell=True)
+            #print('python {} {}' .format(i,p))
 
 
 
