@@ -1,27 +1,24 @@
-__author__ = 'torresal'
+__author__ = 'Dexter Tan, torresal'
 
-import os,re, subprocess
+import os,subprocess, sys
 
-#stpath is the prefix of the file path containing the .json files#
-stpath = "/home/ubuntu/dump_ingest/2015-07-09_v0"
-#pypath is the prefix of the file path containing the .py files#
-pypath = "/home/ubuntu/dump_ingest/ingest_scripts"
+#Pass in location of JSON files by command line argument
+dump_directory = sys.argv[1]
 
-for (root,dirs,files) in os.walk(stpath):
+#Master ingest script
+ingest_file = "/home/ubuntu/dump_ingest/general_ingest.py"
+
+#Correct dump_directory
+if not dump_directory.endswith("/"):
+    dump_directory+"/"
+
+for (root,dirs,files) in os.walk(dump_directory):
       files.sort()
       for file in files:
-        dir_path = os.path.join(root, file)
-        #extracts the root, dirs, files from iven path#
-        #print(dir_path)
-        match =  re.search(r'.*/(.*?)_(.*?)\.json$', dir_path)
-        if match:
-            t, id = match.groups()
-            #print ('match',t, id)
-            i ="{}/{}_ingest.py" .format(pypath,t)
-            p = "{}/{}/{}_{}.json" .format(stpath,t,t, id)
-            subprocess.call('python {} {}' .format(i,p), shell=True)
-            #print('python {} {}' .format(i,p))
-
-
+        fileType = file.split("_")[0]
+        filePath = os.path.join(root, file)  
+        v = 'python {} {} {}' .format(ingest_file, fileType, filePath)
+        subprocess.call(v, shell=True)
+        
 
 
