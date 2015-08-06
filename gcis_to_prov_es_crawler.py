@@ -2,9 +2,15 @@ import os, sys, datetime, subprocess
 
 #from datetime import datetime
 startTime = datetime.datetime.now()
-gcisDir = sys.argv[1]
+
+if len(sys.argv) > 1:
+    gcisDir = sys.argv[1]
+else:
+    gcisDir = "GCIS_DUMP/GCIS_%s_v0" %datetime.date.today()
+#print gcisDir
+
 prov_es_json_file = "/home/ubuntu/dump_ingest/gcis_to_prov_es_json.py"
-topDirectory = "PROV_ES_" + str(datetime.date.today()) + "_v"
+topDirectory = "PROV_ES_DUMP/PROV_ES_" + str(datetime.date.today()) + "_v"
 dirCount = 0
 #print topDirectory
 while os.path.isdir(topDirectory + str(dirCount)):
@@ -22,9 +28,9 @@ for (root, dirs, files) in os.walk(gcisDir):
         subprocess.check_call(shellCall, shell=True)
         fileEnd = datetime.datetime.now()
 
-time_elapsed = (datetime.now() - startTime)
+time_elapsed = (datetime.datetime.now() - startTime)
 
 log = open("prov_es_dump_log.txt", 'w')
 
-log.write("{} prov_es_dump finished. time elapsed: {}\n".format(datetime.now(), time_elapsed))
+log.write("{} prov_es_dump finished. time elapsed: {}\n".format(datetime.datetime.now(), time_elapsed))
 log.close()

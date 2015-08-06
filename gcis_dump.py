@@ -40,7 +40,7 @@ reqList = [
 #setup directories for file storage
 
 dirCount = 0
-topDirectory = "GCIS_"+str(datetime.date.today()) + "_v"
+topDirectory = "GCIS_DUMP/GCIS_"+str(datetime.date.today()) + "_v"
 
 while os.path.isdir(topDirectory + str(dirCount)):
     dirCount += 1
