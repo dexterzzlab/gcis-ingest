@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".publisher": "Nature Publishing Group",
+        ".reference_type": "0",
+        "Author": "Kunreuther, Howard\rHeal, Geoffrey\rAllen, Myles\rEdenhofer, Ottmar\rField, Christopher B.\rYohe, Gary",
+        "DOI": "10.1038/nclimate1740",
+        "ISSN": "1758-678X",
+        "Issue": "5",
+        "Journal": "Nature Climate Change",
+        "Pages": "447-450",
+        "Title": "Risk management and climate change",
+        "Type of Article": "Perspective",
+        "Volume": "3",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4051",
+        "_uuid": "98b06127-7ea5-415a-98cb-ee5a1b5f11dc",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/nclimate1740",
+    "href": "http://data.globalchange.gov/reference/98b06127-7ea5-415a-98cb-ee5a1b5f11dc.json",
+    "identifier": "98b06127-7ea5-415a-98cb-ee5a1b5f11dc",
+    "uri": "/reference/98b06127-7ea5-415a-98cb-ee5a1b5f11dc"
+}

@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".place_published": "Fairbanks, Alaska, USA",
+        ".publisher": "Alaska Center for Climate Change Assessment and Policy",
+        ".reference_type": "0",
+        "Author": "Lindsey, S.",
+        "Issue": "Spring 2011",
+        "Journal": "Alaska Climate Dispatch",
+        "Pages": "1-5",
+        "Publication": "Alaska Climate Dispatch",
+        "Title": "Spring breakup and ice-jam flooding in Alaska",
+        "URL": "http://accap.uaf.edu/sites/default/files/2011a_Spring_Dispatch.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "1583",
+        "_uuid": "6ca055db-9671-4dbc-9d65-aa72ac9e9510",
+        "reftype": "Electronic Article"
+    },
+    "child_publication": "/generic/0c44b443-3caa-44fa-982f-97f967d6344b",
+    "href": "http://data.globalchange.gov/reference/6ca055db-9671-4dbc-9d65-aa72ac9e9510.json",
+    "identifier": "6ca055db-9671-4dbc-9d65-aa72ac9e9510",
+    "uri": "/reference/6ca055db-9671-4dbc-9d65-aa72ac9e9510"
+}

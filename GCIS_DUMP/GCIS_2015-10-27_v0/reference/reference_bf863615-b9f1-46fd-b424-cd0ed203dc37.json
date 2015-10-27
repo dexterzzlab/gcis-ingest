@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Preston, B.L.\rWestaway, R.M.\rYuen, E.J.",
+        "DOI": "10.1007/s11027-010-9270-x",
+        "ISSN": "1381-2386",
+        "Issue": "4",
+        "Journal": "Mitigation and Adaptation Strategies for Global Change",
+        "Pages": "407-438",
+        "Title": "Climate adaptation planning in practice: An evaluation of adaptation plans from three developed nations",
+        "Volume": "16",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "2530",
+        "_uuid": "bf863615-b9f1-46fd-b424-cd0ed203dc37",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s11027-010-9270-x",
+    "href": "http://data.globalchange.gov/reference/bf863615-b9f1-46fd-b424-cd0ed203dc37.json",
+    "identifier": "bf863615-b9f1-46fd-b424-cd0ed203dc37",
+    "uri": "/reference/bf863615-b9f1-46fd-b424-cd0ed203dc37"
+}

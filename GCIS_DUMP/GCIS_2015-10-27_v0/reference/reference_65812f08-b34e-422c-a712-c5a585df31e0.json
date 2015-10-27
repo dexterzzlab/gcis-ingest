@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "City of Santa Cruz, ",
+        "Institution": "The City of Santa Cruz",
+        "Pages": "50",
+        "Place Published": "Santa Cruz, CA",
+        "Title": "Climate Adaptation Plan",
+        "URL": "www.cityofsantacruz.com/Modules/ShowDocument.aspx?documentid=23643",
+        "Volume": "2012",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 11: Urban Systems FINAL\"]",
+        "_record_number": "251",
+        "_uuid": "65812f08-b34e-422c-a712-c5a585df31e0",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/citysantacruz-cap-2012",
+    "href": "http://data.globalchange.gov/reference/65812f08-b34e-422c-a712-c5a585df31e0.json",
+    "identifier": "65812f08-b34e-422c-a712-c5a585df31e0",
+    "uri": "/reference/65812f08-b34e-422c-a712-c5a585df31e0"
+}

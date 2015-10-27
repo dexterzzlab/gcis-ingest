@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Maciolek, J. A.",
+        "Issue": "3",
+        "Journal": "Bulletin of Marine Science",
+        "Notes": "Maciolek, J. A. (1983). Distribution and biology of Indo-Pacific insular hypogeal shrimps. <i>Bulletin of Marine Science, 33</i>, 606-618",
+        "Pages": "606-618",
+        "Title": "Distribution and biology of Indo-Pacific insular hypogeal shrimps",
+        "Volume": "33",
+        "Year": "1983",
+        "_chapter": "[\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "1833",
+        "_uuid": "d5c23d76-d1cb-40f9-97e1-3cad982b9b83",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/distribution-and-biology-of-indopacific-insular-hypogeal-shrimps",
+    "href": "http://data.globalchange.gov/reference/d5c23d76-d1cb-40f9-97e1-3cad982b9b83.json",
+    "identifier": "d5c23d76-d1cb-40f9-97e1-3cad982b9b83",
+    "uri": "/reference/d5c23d76-d1cb-40f9-97e1-3cad982b9b83"
+}

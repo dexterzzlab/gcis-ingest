@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Bradley, B.A.\rBlumenthal, D.M.\rWilcove, D.S.\rZiska, L.H.",
+        "DOI": "10.1007/j.tree.2009.12.003",
+        "ISSN": "0169-5347",
+        "Issue": "5",
+        "Journal": "Trends in Ecology & Evolution",
+        "Pages": "310-318",
+        "Title": "Predicting plant invasions in an era of global change",
+        "Volume": "25",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "1306",
+        "_uuid": "17c95a67-dc99-48c3-8c6e-2f43eee149c6",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.tree.2009.12.003",
+    "href": "http://data.globalchange.gov/reference/17c95a67-dc99-48c3-8c6e-2f43eee149c6.json",
+    "identifier": "17c95a67-dc99-48c3-8c6e-2f43eee149c6",
+    "uri": "/reference/17c95a67-dc99-48c3-8c6e-2f43eee149c6"
+}

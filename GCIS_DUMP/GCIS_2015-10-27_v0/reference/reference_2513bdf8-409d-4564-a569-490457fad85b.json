@@ -1,0 +1,28 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Accession Number": "WOS:000301864000019",
+        "Alternate Journal": "Front. Ecol. Environ.",
+        "Author": "Howarth, Robert\rSwaney, Dennis\rBillen, Gilles\rGarnier, Josette\rHong, Bongghi\rHumborg, Christoph\rJohnes, Penny\rM\u00f6rth, Carl-Magnus\rMarino, Roxanne",
+        "DOI": "10.1890/100178",
+        "Date": "Feb",
+        "ISSN": "1540-9295",
+        "Issue": "1",
+        "Journal": "Frontiers in Ecology and the Environment",
+        "Keywords": "mississippi river; large watersheds; northeastern usa; united-states; export; ecosystems; eutrophication; hypoxia; cycles; yields",
+        "Language": "English",
+        "Pages": "37-43",
+        "Title": "Nitrogen fluxes from the landscape are controlled by net anthropogenic nitrogen inputs and by climate",
+        "Type of Article": "Article",
+        "Volume": "10",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "3588",
+        "_uuid": "2513bdf8-409d-4564-a569-490457fad85b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/100178",
+    "href": "http://data.globalchange.gov/reference/2513bdf8-409d-4564-a569-490457fad85b.json",
+    "identifier": "2513bdf8-409d-4564-a569-490457fad85b",
+    "uri": "/reference/2513bdf8-409d-4564-a569-490457fad85b"
+}

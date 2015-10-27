@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/office-management-budget.json",
+    "identifier": "office-management-budget",
+    "name": "Office of Management and Budget",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/office-management-budget",
+    "url": "http://www.whitehouse.gov/omb/"
+}

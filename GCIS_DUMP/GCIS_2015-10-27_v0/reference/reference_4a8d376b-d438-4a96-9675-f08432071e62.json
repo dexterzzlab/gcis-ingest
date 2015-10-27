@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Agrawal, A.",
+        "Institution": "Natural Resources and Environment, University of Michigan",
+        "Pages": "47",
+        "Title": "The Role of Local Institutions in Adaptation to Climate Change. International Forestry Research and Institutions Program (IFRI) Working Paper # W08I-3",
+        "URL": "http://www.worldfishcenter.org/sites/default/files/The%20role%20of%20local%20institutions%20in%20adaptation%20to%20climate%20change.pdf",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "1480",
+        "_uuid": "4a8d376b-d438-4a96-9675-f08432071e62",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/ifri-workingpaper-w08i-3-2008",
+    "href": "http://data.globalchange.gov/reference/4a8d376b-d438-4a96-9675-f08432071e62.json",
+    "identifier": "4a8d376b-d438-4a96-9675-f08432071e62",
+    "uri": "/reference/4a8d376b-d438-4a96-9675-f08432071e62"
+}

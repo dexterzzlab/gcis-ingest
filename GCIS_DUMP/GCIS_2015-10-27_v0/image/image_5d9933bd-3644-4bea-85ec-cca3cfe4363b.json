@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-10-22T15:37:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "The number of papers classified as predicting, implying, or providing supporting evidence for future global cooling, warming, and neutral categories. Bars indicate number of articles published per year. Squares indicate cumulative number of articles published. For the period 1965 through 1979, the literature survey found seven papers suggesting further cooling, 20 neutral, and 44 warming. Even in the early years of the study of climate change, more science studies were discussing concerns about global warming than global cooling. (Figure source: Peterson et al. 200814).",
+            "chapter_identifier": "appendix-faqs",
+            "create_dt": "2013-10-22T15:37:00",
+            "identifier": "published-climate-change-research-papers",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 18,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Published Climate Change Research Papers",
+            "url": "http://nca2014.globalchange.gov/report/appendices/faqs/graphics/published-climate-change-research-papers",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "47/81/71a69eea1730b38fbfa48ef9390f/caq_published_reports_v4.png",
+            "href": "http://data.globalchange.gov/assets/47/81/71a69eea1730b38fbfa48ef9390f/caq_published_reports_v4.png",
+            "identifier": "7b97869d-f9a1-4aa0-9d52-b4fda88c9ce5",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "7af4722f4229586f96204fe4ec4fcd33521d1a19",
+            "size": 98109,
+            "thumbnail": "47/81/71a69eea1730b38fbfa48ef9390f/.thumb-7b97869d-f9a1-4aa0-9d52-b4fda88c9ce5.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/47/81/71a69eea1730b38fbfa48ef9390f/.thumb-7b97869d-f9a1-4aa0-9d52-b4fda88c9ce5.png",
+            "uri": "/file/7b97869d-f9a1-4aa0-9d52-b4fda88c9ce5",
+            "url": "/assets/47/81/71a69eea1730b38fbfa48ef9390f/caq_published_reports_v4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/5d9933bd-3644-4bea-85ec-cca3cfe4363b.json",
+    "identifier": "5d9933bd-3644-4bea-85ec-cca3cfe4363b",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "1979-12-31T23:59:59",
+    "time_start": "1965-01-01T00:00:00",
+    "title": "Published Climate Change Research Papers",
+    "uri": "/image/5d9933bd-3644-4bea-85ec-cca3cfe4363b",
+    "url": null,
+    "usage_limits": null
+}

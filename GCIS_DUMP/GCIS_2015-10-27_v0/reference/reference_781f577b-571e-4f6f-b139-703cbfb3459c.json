@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"24\" /><run start=\"25\" /></field></record>",
+        "Author": "American Physical Society,",
+        "Institution": "American Physical Society",
+        "Pages": "100",
+        "Title": "Direct Air Capture of CO2  with Chemicals: A Technology Assessment for the APS Panel on Public Affairs",
+        "URL": "http://www.aps.org/policy/reports/assessments/upload/dac2011.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "4078",
+        "_uuid": "781f577b-571e-4f6f-b139-703cbfb3459c",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/aps-direct-2011",
+    "href": "http://data.globalchange.gov/reference/781f577b-571e-4f6f-b139-703cbfb3459c.json",
+    "identifier": "781f577b-571e-4f6f-b139-703cbfb3459c",
+    "uri": "/reference/781f577b-571e-4f6f-b139-703cbfb3459c"
+}

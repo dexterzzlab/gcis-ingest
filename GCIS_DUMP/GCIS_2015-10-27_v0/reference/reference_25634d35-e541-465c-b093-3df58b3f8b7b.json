@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Wilkinson, P.\rSmith, K.R.\rDavies, M.\rAdair, H.\rArmstrong, B.G.\rBarrett, M.\rBruce, N.\rHaines, A.\rHamilton, I.\rOreszczyn, T.",
+        "DOI": "10.1016/S0140-6736(09)61713-X",
+        "ISSN": "0140-6736",
+        "Issue": "9705",
+        "Journal": "The Lancet",
+        "Pages": "1917-1929",
+        "Title": "Public health benefits of strategies to reduce greenhouse-gas emissions: Household energy",
+        "Volume": "374",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "3432",
+        "_uuid": "25634d35-e541-465c-b093-3df58b3f8b7b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/S0140-6736(09)61713-X",
+    "href": "http://data.globalchange.gov/reference/25634d35-e541-465c-b093-3df58b3f8b7b.json",
+    "identifier": "25634d35-e541-465c-b093-3df58b3f8b7b",
+    "uri": "/reference/25634d35-e541-465c-b093-3df58b3f8b7b"
+}

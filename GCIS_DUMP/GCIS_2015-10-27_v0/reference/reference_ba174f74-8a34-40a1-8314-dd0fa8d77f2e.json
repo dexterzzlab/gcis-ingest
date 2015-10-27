@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "We analyse global temperature and sea-level data for the past few decades and compare them to projections published in the third and fourth assessment reports of the Intergovernmental Panel on Climate Change (IPCC). The results show that global temperature continues to increase in good agreement with the best estimates of the IPCC, especially if we account for the effects of short-term variability due to the El Ni\u00f1o/Southern Oscillation, volcanic activity and solar variability. The rate of sea-level rise of the past few decades, on the other hand, is greater than projected by the IPCC models. This suggests that IPCC sea-level projections for the future may also be biased low.",
+        "Author": "Rahmstorf, S.\rG. Foster\rA. Cazenave",
+        "DOI": "10.1088/1748-9326/7/4/044035",
+        "ISSN": "1748-9326",
+        "Issue": "4",
+        "Journal": "Environmental Research Letters",
+        "Pages": "044035",
+        "Title": "Comparing climate projections to observations up to 2011",
+        "URL": "http://iopscience.iop.org/1748-9326/7/4/044035/pdf/1748-9326_7_4_044035.pdf",
+        "Volume": "7",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "2577",
+        "_uuid": "ba174f74-8a34-40a1-8314-dd0fa8d77f2e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1088/1748-9326/7/4/044035",
+    "href": "http://data.globalchange.gov/reference/ba174f74-8a34-40a1-8314-dd0fa8d77f2e.json",
+    "identifier": "ba174f74-8a34-40a1-8314-dd0fa8d77f2e",
+    "uri": "/reference/ba174f74-8a34-40a1-8314-dd0fa8d77f2e"
+}

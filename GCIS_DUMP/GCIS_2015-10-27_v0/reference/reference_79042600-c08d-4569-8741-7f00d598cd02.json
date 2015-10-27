@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Gaines, S. D.\rGaylord, B.\rLargier, J. L.",
+        "DOI": "10.1890/1051-0761(2003)013[0032:ACOIMR]2.0.CO;2",
+        "ISSN": "1051-0761",
+        "Issue": "sp1",
+        "Journal": "Ecological Applications",
+        "Pages": "S32-S46",
+        "Title": "Avoiding current oversights in marine reserve design",
+        "URL": "http://www.esajournals.org/doi/pdf/10.1890/1051-0761%282003%29013%5B0032%3AACOIMR%5D2.0.CO%3B2",
+        "Volume": "13",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "139",
+        "_uuid": "79042600-c08d-4569-8741-7f00d598cd02",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/1051-0761(2003)013%5B0032:ACOIMR%5D2.0.CO;2",
+    "href": "http://data.globalchange.gov/reference/79042600-c08d-4569-8741-7f00d598cd02.json",
+    "identifier": "79042600-c08d-4569-8741-7f00d598cd02",
+    "uri": "/reference/79042600-c08d-4569-8741-7f00d598cd02"
+}

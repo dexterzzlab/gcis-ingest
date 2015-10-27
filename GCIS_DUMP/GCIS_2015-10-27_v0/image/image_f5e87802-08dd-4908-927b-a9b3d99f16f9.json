@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "The 2010\u20132011 La Ni\u00f1a caused unusually high rainfall and flooding in some regions of the Southern Hemisphere, with major effects on ecosystems and thereby on the carbon cycle. This map shows the change in water mass over continents between the beginning of 2010 and mid-2011 (shades of blue indicate increases). (Source: Boening et al., 2012)",
+            "chapter_identifier": "crosscutting-priorities-serve-science-society",
+            "create_dt": null,
+            "identifier": "water-mass-change-2010-11-la-nina",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 23,
+            "report_identifier": "usgcrp-ocpfy2016",
+            "source_citation": "Boening, C., J.K. Willis, F.W. Landerer, R.S. Nerem, and J. Fasullo. 2012. The 2011 La Ni\u00f1a: So strong, the oceans fell. Geophysical Research Letters 39, L19602",
+            "submission_dt": "2012-10-04T00:00:00",
+            "time_end": null,
+            "time_start": null,
+            "title": "Water mass change during 2010-11 La Nina",
+            "url": "http://dx.doi.org/10.1029/2012GL053055",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "7a/e6/a5bc4e71fd9aba38ff1c052ff70f/HL35_La-Nina-greening-noSL.pdf",
+            "href": "http://data.globalchange.gov/assets/7a/e6/a5bc4e71fd9aba38ff1c052ff70f/HL35_La-Nina-greening-noSL.pdf",
+            "identifier": "caaaab67-eeb5-4386-80d8-708e81362945",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "application/pdf",
+            "sha1": "795b50f4e24ef90e21ca0e006deef03fda8b4869",
+            "size": 4842971,
+            "thumbnail": "7a/e6/a5bc4e71fd9aba38ff1c052ff70f/.thumb-caaaab67-eeb5-4386-80d8-708e81362945.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/7a/e6/a5bc4e71fd9aba38ff1c052ff70f/.thumb-caaaab67-eeb5-4386-80d8-708e81362945.png",
+            "uri": "/file/caaaab67-eeb5-4386-80d8-708e81362945",
+            "url": "/assets/7a/e6/a5bc4e71fd9aba38ff1c052ff70f/HL35_La-Nina-greening-noSL.pdf"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/f5e87802-08dd-4908-927b-a9b3d99f16f9.json",
+    "identifier": "f5e87802-08dd-4908-927b-a9b3d99f16f9",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Satellite measurements of cropland greenness",
+    "uri": "/image/f5e87802-08dd-4908-927b-a9b3d99f16f9",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

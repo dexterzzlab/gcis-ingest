@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2003",
+        "Author": "MDOT,",
+        "Place Published": "Augusta, ME",
+        "Publisher": "Maine Department of Transportation, Prepared Guertin Elkerton & Associates",
+        "Title": "Bridge Design Guide",
+        "URL": "http://www.maine.gov/mdot/technicalpubs/bdg.htm",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"RG 10 Coasts\"]",
+        "_record_number": "1858",
+        "_uuid": "a6c54272-7833-4387-a562-229e9e98b233",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/01919495-9589-47a3-b4b1-6c32a51b8b8c",
+    "href": "http://data.globalchange.gov/reference/a6c54272-7833-4387-a562-229e9e98b233.json",
+    "identifier": "a6c54272-7833-4387-a562-229e9e98b233",
+    "uri": "/reference/a6c54272-7833-4387-a562-229e9e98b233"
+}

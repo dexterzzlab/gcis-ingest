@@ -1,0 +1,15 @@
+{
+    "computing_environment": null,
+    "data_usage": null,
+    "duration": null,
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/e7bdf318-nca3-heating-cooling-degree-day-data-r1-process.json",
+    "identifier": "e7bdf318-nca3-heating-cooling-degree-day-data-r1-process",
+    "methodology": null,
+    "notes": "The image uses data from 1970 to 2010 from the Heating & Cooling Degree Day Dataset of the NOAA National Climatic Data Center.",
+    "output_artifacts": null,
+    "software": null,
+    "start_time": null,
+    "uri": "/activity/e7bdf318-nca3-heating-cooling-degree-day-data-r1-process",
+    "visualization_software": null
+}

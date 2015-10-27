@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "McGranahan, G.\rD. Balk\rB. Anderson",
+        "DOI": "10.1177/0956247807076960",
+        "Issue": "1",
+        "Journal": "Environment & Urbanization",
+        "Pages": "17-37",
+        "Title": "The rising tide: Assessing the risks of climate change and human settlements in low elevation coastal zones",
+        "URL": "http://eau.sagepub.com/content/19/1/17.full.pdf+html",
+        "Volume": "19",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "1941",
+        "_uuid": "65b90ca8-fd21-4d15-9631-bae1dc6a63b6",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1177/0956247807076960",
+    "href": "http://data.globalchange.gov/reference/65b90ca8-fd21-4d15-9631-bae1dc6a63b6.json",
+    "identifier": "65b90ca8-fd21-4d15-9631-bae1dc6a63b6",
+    "uri": "/reference/65b90ca8-fd21-4d15-9631-bae1dc6a63b6"
+}

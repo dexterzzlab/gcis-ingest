@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "The White House,",
+        "Institution": "Office of Management and Budget",
+        "Pages": "34",
+        "Place Published": "Washington, D.C.",
+        "Title": "Federal Climate Change Expenditures: Report to Congress",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\",\"RF 12\"]",
+        "_record_number": "3041",
+        "_uuid": "a4a93b6c-3dca-4e13-ab7f-f89b6b2f2e31",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/whitehouse-fcce-2010",
+    "href": "http://data.globalchange.gov/reference/a4a93b6c-3dca-4e13-ab7f-f89b6b2f2e31.json",
+    "identifier": "a4a93b6c-3dca-4e13-ab7f-f89b6b2f2e31",
+    "uri": "/reference/a4a93b6c-3dca-4e13-ab7f-f89b6b2f2e31"
+}

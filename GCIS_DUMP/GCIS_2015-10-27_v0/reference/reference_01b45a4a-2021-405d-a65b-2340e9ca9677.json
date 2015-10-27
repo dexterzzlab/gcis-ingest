@@ -1,0 +1,17 @@
+{
+    "attrs": {
+        ".reference_type": "9",
+        "Editor": "Solecki, W.\rRosenzweig, C.",
+        "Title": "U.S. Cities and Climate Change: Urban, Infrastructure, and Vulnerability Issues, Technical Input Report Series, U.S. National Climate Assessment",
+        "URL": "http://data.globalchange.gov/report/usgcrp-cities-2012",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"Ch. 13: Land Use and Land Cover Change FINAL\",\"RG 10 Coasts\",\"RG 6 Northwest\",\"Ch. 11: Urban Systems FINAL\",\"Ch. 28: Adaptation FINAL\",\"RF 12\",\"Ch. 3: Water Resources FINAL\",\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "2897",
+        "_uuid": "01b45a4a-2021-405d-a65b-2340e9ca9677",
+        "reftype": "Edited Book"
+    },
+    "child_publication": "/report/usgcrp-cities-2012",
+    "href": "http://data.globalchange.gov/reference/01b45a4a-2021-405d-a65b-2340e9ca9677.json",
+    "identifier": "01b45a4a-2021-405d-a65b-2340e9ca9677",
+    "uri": "/reference/01b45a4a-2021-405d-a65b-2340e9ca9677"
+}

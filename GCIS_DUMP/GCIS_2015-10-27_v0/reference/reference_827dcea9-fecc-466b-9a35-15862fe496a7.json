@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Bates, K.A.\rSwan, R.S.",
+        "ISBN": "9781594602887",
+        "Place Published": "Durham, NC",
+        "Publisher": "Carolina Academic Press",
+        "Reviewer": "827dcea9-fecc-466b-9a35-15862fe496a7",
+        "Title": "Through the Eye of Katrina: Social Justice in the United States",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 11: Urban Systems FINAL\"]",
+        "_record_number": "1669",
+        "_uuid": "827dcea9-fecc-466b-9a35-15862fe496a7",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/1ea2a38f-c7aa-4360-b365-68153be21331",
+    "href": "http://data.globalchange.gov/reference/827dcea9-fecc-466b-9a35-15862fe496a7.json",
+    "identifier": "827dcea9-fecc-466b-9a35-15862fe496a7",
+    "uri": "/reference/827dcea9-fecc-466b-9a35-15862fe496a7"
+}

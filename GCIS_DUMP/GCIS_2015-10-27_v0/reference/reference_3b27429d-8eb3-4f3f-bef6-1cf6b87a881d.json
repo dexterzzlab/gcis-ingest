@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2013",
+        "Author": "CIG,",
+        "Publisher": "Joint Institute for the Study of the Atmosphere and Ocean (JISAO) Center for Science in the Earth System",
+        "Title": "Seasonal to Interannual Forecasts",
+        "URL": "http://cses.washington.edu/cig/fpt/seasonalfc.shtml",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4479",
+        "_uuid": "3b27429d-8eb3-4f3f-bef6-1cf6b87a881d",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/f9c58ee6-fbcd-40e5-b69e-59cda007402a",
+    "href": "http://data.globalchange.gov/reference/3b27429d-8eb3-4f3f-bef6-1cf6b87a881d.json",
+    "identifier": "3b27429d-8eb3-4f3f-bef6-1cf6b87a881d",
+    "uri": "/reference/3b27429d-8eb3-4f3f-bef6-1cf6b87a881d"
+}

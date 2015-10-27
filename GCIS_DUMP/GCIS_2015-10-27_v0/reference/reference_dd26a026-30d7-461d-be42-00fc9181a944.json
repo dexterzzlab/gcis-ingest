@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Williams, B.K.\rBrown, E.D.",
+        "Institution": "U.S. Department of the Interior, Adaptive Management Working Group",
+        "Pages": "136",
+        "Place Published": "Washington, D.C.",
+        "Title": "Adaptive Management: The U.S. Department of the Interior Applications Guide ",
+        "URL": "http://www.doi.gov/ppa/upload/DOI-Adaptive-Management-Applications-Guide-WebOptimized.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "3437",
+        "_uuid": "dd26a026-30d7-461d-be42-00fc9181a944",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/doi-adaptivemanagement-2012",
+    "href": "http://data.globalchange.gov/reference/dd26a026-30d7-461d-be42-00fc9181a944.json",
+    "identifier": "dd26a026-30d7-461d-be42-00fc9181a944",
+    "uri": "/reference/dd26a026-30d7-461d-be42-00fc9181a944"
+}

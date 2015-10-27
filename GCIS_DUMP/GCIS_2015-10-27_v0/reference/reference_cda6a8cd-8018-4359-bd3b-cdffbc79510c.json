@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".publisher": "U.S. Department of Commerce, National Oceanic and Atmospheric Administration",
+        ".reference_type": "0",
+        "Author": "DOC,",
+        "Issue": "134",
+        "Pages": "41217-41219",
+        "Title": "Technical Inputs and Assessment Capacity on Topics Related to 2013 U.S. National Climate Assessment. Wednesday, July 13, 2011",
+        "URL": "http://www.gpo.gov/fdsys/pkg/FR-2011-07-13/html/2011-17379.htm",
+        "Volume": "76",
+        "Year": "2011",
+        "_chapter": "[\"Appendix 2: IQA FINAL\"]",
+        "_record_number": "4624",
+        "_uuid": "cda6a8cd-8018-4359-bd3b-cdffbc79510c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/technical-inputs-assessment-capacity-topics-related-to-2013",
+    "href": "http://data.globalchange.gov/reference/cda6a8cd-8018-4359-bd3b-cdffbc79510c.json",
+    "identifier": "cda6a8cd-8018-4359-bd3b-cdffbc79510c",
+    "uri": "/reference/cda6a8cd-8018-4359-bd3b-cdffbc79510c"
+}

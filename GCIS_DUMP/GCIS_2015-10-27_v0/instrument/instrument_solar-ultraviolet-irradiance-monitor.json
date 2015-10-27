@@ -1,0 +1,8 @@
+{
+    "description": "Solar irradiance monitor",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/solar-ultraviolet-irradiance-monitor.json",
+    "identifier": "solar-ultraviolet-irradiance-monitor",
+    "name": "Solar Ultraviolet Irradiance Monitor",
+    "uri": "/instrument/solar-ultraviolet-irradiance-monitor"
+}

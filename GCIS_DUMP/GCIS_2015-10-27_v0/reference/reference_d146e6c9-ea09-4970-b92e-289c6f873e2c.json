@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Neiman, P.J.\rRalph, F.M.\rWick, G.A.\rLundquist, J.D.\rDettinger, M.D.",
+        "DOI": "10.1175/2007JHM855.1",
+        "ISSN": "1525-7541",
+        "Issue": "1",
+        "Journal": "Journal of Hydrometeorology",
+        "Pages": "22-47",
+        "Title": "Meteorological characteristics and overland precipitation impacts of atmospheric rivers affecting the west coast of North America based on eight years of SSM/I satellite observations",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/2007JHM855.1",
+        "Volume": "9",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "2192",
+        "_uuid": "d146e6c9-ea09-4970-b92e-289c6f873e2c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/2007JHM855.1",
+    "href": "http://data.globalchange.gov/reference/d146e6c9-ea09-4970-b92e-289c6f873e2c.json",
+    "identifier": "d146e6c9-ea09-4970-b92e-289c6f873e2c",
+    "uri": "/reference/d146e6c9-ea09-4970-b92e-289c6f873e2c"
+}

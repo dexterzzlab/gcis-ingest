@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/indicator-sea-surface-temperature.json",
+    "identifier": "indicator-sea-surface-temperature",
+    "in_library": null,
+    "publication_year": 2015,
+    "report_type_identifier": "indicator",
+    "summary": "Key Points:\r\n\r\n1. Changes in sea surface temperatures reflect the overall warming trend in the climate system and, in turn, influence weather and climate patterns worldwide. The bars on the graph show the number of degrees by which the average sea surface temperature for each year differs from the average sea surface temperature during the last century. \r\n\r\n2. During the past three decades, sea surface temperatures have exceeded the last century\u2019s average every year.\r\n\r\n3. Sea surface temperature data can be used to understand the response of the ocean to global warming and, in turn, how that response may influence other changes in climate.\r\n\r\nFull Summary:\r\n\r\nOver 70% of Earth\u2019s surface area is ocean, which plays a major role in regulating Earth\u2019s climate system. Much of the heat trapped by increasing atmospheric greenhouse gas levels is absorbed by the ocean, causing ocean temperatures to rise. Changes in sea surface temperatures influence atmospheric circulation and the amount of water vapor present in the air, thereby affecting weather and climate patterns worldwide. \r\n\r\nThe bars on the graph show the number of degrees by which the average sea surface temperature for each year differs from the average sea surface temperature during the last century. During the past three decades, global average sea surface temperatures have exceeded the last century\u2019s average every year and have been higher than at any other time since records began. The data shown represent temperatures in the upper 10 meters of the ocean and were drawn from the National Oceanic and Atmospheric Administration (NOAA) Merged Land\u2013Ocean Surface Temperature Analysis (MLOST) dataset. \r\n\r\nSea surface temperature data can be used to understand the response of the ocean to global warming and, in turn, how that response may influence other changes in climate.\r\n",
+    "title": "Indicator: Sea Surface Temperatures",
+    "topic": null,
+    "uri": "/report/indicator-sea-surface-temperature",
+    "url": "http://www.globalchange.gov/browse/indicators/indicator-sea-surface-temperatures"
+}

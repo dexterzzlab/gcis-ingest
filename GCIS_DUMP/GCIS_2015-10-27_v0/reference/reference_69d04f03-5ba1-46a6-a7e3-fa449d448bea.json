@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Backer, L.C.\rMoore, Stephanie K.",
+        "Book Title": "Environmental Pollution and Its Relation to Climate Change",
+        "Editor": "El-Nemr, A.",
+        "ISBN": "9781617617942",
+        "Publisher": "Nova Science Pub",
+        "Reviewer": "69d04f03-5ba1-46a6-a7e3-fa449d448bea",
+        "Title": "Harmful algal blooms: Future threats in a warmer world",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "821",
+        "_uuid": "69d04f03-5ba1-46a6-a7e3-fa449d448bea",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/72f62e3e-3777-42fe-a2f8-5951e43aeeee",
+    "href": "http://data.globalchange.gov/reference/69d04f03-5ba1-46a6-a7e3-fa449d448bea.json",
+    "identifier": "69d04f03-5ba1-46a6-a7e3-fa449d448bea",
+    "uri": "/reference/69d04f03-5ba1-46a6-a7e3-fa449d448bea"
+}

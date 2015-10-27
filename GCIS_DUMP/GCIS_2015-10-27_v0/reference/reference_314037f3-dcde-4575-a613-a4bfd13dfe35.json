@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "NSTPRC",
+        "Book Title": "Transportation for Tomorrow: Report of the National Surface Transportation Policy and Revenue Study Commission",
+        "Number of Volumes": "3",
+        "Pages": "2-1 - 2-18",
+        "Publisher": "National Surface Transportation Policy and Revenue Study Commission",
+        "Reviewer": "314037f3-dcde-4575-a613-a4bfd13dfe35",
+        "Title": "Ch. 2: What are the future demands on the surface transportation system?",
+        "URL": "http://transportationfortomorrow.com/final_report/index.htm",
+        "Volume": "1",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 5: Transportation FINAL\"]",
+        "_record_number": "3926",
+        "_uuid": "314037f3-dcde-4575-a613-a4bfd13dfe35",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/nstprsc-transportationfortomorrow-2007",
+    "href": "http://data.globalchange.gov/reference/314037f3-dcde-4575-a613-a4bfd13dfe35.json",
+    "identifier": "314037f3-dcde-4575-a613-a4bfd13dfe35",
+    "uri": "/reference/314037f3-dcde-4575-a613-a4bfd13dfe35"
+}

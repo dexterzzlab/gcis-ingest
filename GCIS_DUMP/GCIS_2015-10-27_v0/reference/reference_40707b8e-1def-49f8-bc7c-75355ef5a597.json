@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "During the past \u223c50 years, the number and area of lakes have declined in several regions in boreal forests. However, there has been substantial finer-scale heterogeneity; some lakes decreased in area, some showed no trend, and others increased. The objective of this study was to identify the primary mechanisms underlying heterogeneous trends in closed-basin lake area. Eight lake characteristics (\u03b418O, electrical conductivity, surface\u00a0:\u00a0volume index, bank slope, floating mat width, peat depth, thaw depth at shoreline, and thaw depth at the forest boundary) were compared for 15 lake pairs in Alaskan boreal forest where one lake had decreased in area since \u223c1950, and the other had not. Mean differences in characteristics between paired lakes were used to identify the most likely of nine mechanistic scenarios that combined three potential mechanisms for decreasing lake area (talik drainage, surface water evaporation, and terrestrialization) with three potential mechanisms for nondecreasing lake area (subpermafrost groundwater recharge through an open talik, stable permafrost, and thermokarst). A priori expectations of the direction of mean differences between decreasing and nondecreasing paired lakes were generated for each scenario. Decreasing lakes had significantly greater electrical conductivity, greater surface\u00a0:\u00a0volume indices, shallower bank slopes, wider floating mats, greater peat depths, and shallower thaw depths at the forest boundary. These results indicated that the most likely scenario was terrestrialization as the mechanism for lake area reduction combined with thermokarst as the mechanism for nondecreasing lake area. Terrestrialization and thermokarst may have been enhanced by recent warming which has both accelerated permafrost thawing and lengthened the growing season, thereby increasing plant growth, floating mat encroachment, transpiration rates, and the accumulation of organic matter in lake basins. The transition to peatlands associated with terrestrialization may provide a transient increase in carbon storage enhancing the role of northern ecosystems as major stores of global carbon.",
+        "Author": "Roach, Jennifer\rGriffith, Brad\rVerbyla, Dave\rJones, Jeremy",
+        "DOI": "10.1111/j.1365-2486.2011.02446.x",
+        "ISSN": "1365-2486",
+        "Issue": "8",
+        "Journal": "Global Change Biology",
+        "Keywords": "Alaska; boreal forest; carbon; Climate change; drying; fire regime; lakes; peat; permafrost; terrestrialization; water resouces; WETLANDS",
+        "Pages": "2567-2583",
+        "Title": "Mechanisms influencing changes in lake area in Alaskan boreal forest",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2486.2011.02446.x/pdf",
+        "Volume": "17",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "2644",
+        "_uuid": "40707b8e-1def-49f8-bc7c-75355ef5a597",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1365-2486.2011.02446.x",
+    "href": "http://data.globalchange.gov/reference/40707b8e-1def-49f8-bc7c-75355ef5a597.json",
+    "identifier": "40707b8e-1def-49f8-bc7c-75355ef5a597",
+    "uri": "/reference/40707b8e-1def-49f8-bc7c-75355ef5a597"
+}

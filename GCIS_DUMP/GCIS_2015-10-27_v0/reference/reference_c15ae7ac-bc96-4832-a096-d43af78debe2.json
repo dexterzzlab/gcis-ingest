@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Grossman-Clarke, S.\rZehnder, J.A.\rLoridan, T.\rGrimmond, C.S.B.",
+        "DOI": "10.1175/2010JAMC2362.1",
+        "ISSN": "1558-8424",
+        "Issue": "8",
+        "Journal": "Journal of Applied Meteorology and Climatology",
+        "Pages": "1649-1664",
+        "Title": "Contribution of land use changes to near-surface air temperatures during recent summer extreme heat events in the Phoenix metropolitan area",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/2010JAMC2362.1",
+        "Volume": "49",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "461",
+        "_uuid": "c15ae7ac-bc96-4832-a096-d43af78debe2",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/2010JAMC2362.1",
+    "href": "http://data.globalchange.gov/reference/c15ae7ac-bc96-4832-a096-d43af78debe2.json",
+    "identifier": "c15ae7ac-bc96-4832-a096-d43af78debe2",
+    "uri": "/reference/c15ae7ac-bc96-4832-a096-d43af78debe2"
+}

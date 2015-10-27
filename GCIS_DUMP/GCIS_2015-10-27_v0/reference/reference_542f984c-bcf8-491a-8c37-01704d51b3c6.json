@@ -1,0 +1,28 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Accession Number": "ISI:000224297500009",
+        "Alternate Journal": "Global Change Biol",
+        "Author": "Wilmking, M.\rJuday, G. P.\rBarber, V. A.\rZald, H. S. J.",
+        "Author Address": "Wilmking, M; Univ Alaska, Dept Forest Sci, Fairbanks, AK 99775 USA; Univ Alaska, Dept Forest Sci, Fairbanks, AK 99775 USA; Univ Alaska, Dept Forest Sci, Fairbanks, AK 99775 USA; US Forest Serv, Pacific NW Res Stn, USDA, Corvallis, OR 97333 USA",
+        "DOI": "10.1111/J.1365-2486.2004.00826.X",
+        "Date": "Oct",
+        "ISSN": "1354-1013",
+        "Issue": "10",
+        "Journal": "Global Change Biology",
+        "Keywords": "alaska; carbon uptake; climate change; cluster analysis; dendrochronology; threshold effects; treeline; white spruce; northern-hemisphere; deciduous forest; boreal conifers; interior alaska; global climate; tundra ecotone; vegetation; reconstruction; 20th-century; fluctuations",
+        "Language": "English",
+        "Pages": "1724-1736",
+        "Title": "Recent climate warming forces contrasting growth responses of white spruce at treeline in Alaska through temperature thresholds",
+        "Volume": "10",
+        "Year": "2004",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "3448",
+        "_uuid": "542f984c-bcf8-491a-8c37-01704d51b3c6",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/J.1365-2486.2004.00826.X",
+    "href": "http://data.globalchange.gov/reference/542f984c-bcf8-491a-8c37-01704d51b3c6.json",
+    "identifier": "542f984c-bcf8-491a-8c37-01704d51b3c6",
+    "uri": "/reference/542f984c-bcf8-491a-8c37-01704d51b3c6"
+}

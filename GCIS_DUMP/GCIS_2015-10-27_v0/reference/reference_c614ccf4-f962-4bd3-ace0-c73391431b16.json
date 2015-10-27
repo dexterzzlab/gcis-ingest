@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "5",
+        "Newspaper": "Texas A&M Forest Service",
+        "Place Published": "College Station, TX",
+        "Reporter": "TFS,",
+        "Section": "September 29, 2011",
+        "Title": "Dangerous wildfire conditions predicted for Friday",
+        "URL": "http://txforestservice.tamu.edu/main/popup.aspx?id=14644",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 10: Energy Water Land FINAL\"]",
+        "_record_number": "3029",
+        "_uuid": "c614ccf4-f962-4bd3-ace0-c73391431b16",
+        "reftype": "Newspaper Article"
+    },
+    "child_publication": "/generic/909732af-7c52-4900-ac83-5f0edb3b9d18",
+    "href": "http://data.globalchange.gov/reference/c614ccf4-f962-4bd3-ace0-c73391431b16.json",
+    "identifier": "c614ccf4-f962-4bd3-ace0-c73391431b16",
+    "uri": "/reference/c614ccf4-f962-4bd3-ace0-c73391431b16"
+}

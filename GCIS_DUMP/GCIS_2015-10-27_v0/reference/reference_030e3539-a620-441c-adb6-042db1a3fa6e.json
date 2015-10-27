@@ -1,0 +1,30 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Extremes of the hydrologic cycle will accompany global warming, causing precipitation intensity to increase, particularly in middle and high latitudes. During the twentieth century, the frequency of major storms has already increased, and the total precipitation increase over this time period has primarily come from the greater number of heavy events. The Great Lakes region is projected to experience a rise these extreme precipitation events.; For southern Wisconsin, the precipitation rate of the 10 wettest days was Simulated using a suite of seven global climate models from the UN Intergovernmental Panel on Climate Change (IPCC) Fourth Assessment Report. For each ranking, the precipitation rate of these very heavy events increases in the future. Overall, the models project that extreme precipitation events will become 10% to 40% stronger in southern Wisconsin, resulting in greater potential for flooding, and for the waterborne diseases that often accompany high discharge into Lake Michigan.; Using 6.4 cm (2.5 in) of daily precipitation as the threshold for initiating combined sewer overflow into Lake Michigan, the frequency of these events is expected to rise by 50% to 120% by the end of this century. The combination of future thermal and hydrologic changes may affect the usability of recreational beaches. Chicago beach closures are dependent on the magnitude of recent precipitation (within the past 24 hours), lake temperature, and lake stage. Projected increases in heavy rainfall, warmer lake waters, and lowered lake levels would all be expected to contribute to beach contamination in the future.; The Great Lakes serve as a drinking water source for more than 40 million people. Ongoing studies and past events illustrate a strong connection between rain events and the amount of pollutants entering the Great Lakes. Extreme precipitation under global warming projections may overwhelm the combined sewer systems and lead to overflow events that can threaten both human health and recreation in the region.",
+        "Alternate Journal": "Am J Prev Med",
+        "Author": "Patz, J. A.\rVavrus, S. J.\rUejio, C. K.\rMcLellan, S. L.",
+        "Author Address": "Patz, JA; Univ Wisconsin, Ctr Sustainabil & Global Environm SAGE, Dept Populat Hlth Sci, 1710 Univ Ave,Room 258, Madison, WI 53726 USA; Univ Wisconsin, Ctr Sustainabil & Global Environm SAGE, Dept Populat Hlth Sci, 1710 Univ Ave,Room 258, Madison, WI 53726 USA; Univ Wisconsin, Ctr Sustainabil & Global Environm SAGE, Dept Populat Hlth Sci, Madison, WI 53726 USA",
+        "DOI": "10.1016/j.amepre.2008.08.026",
+        "Date": "Nov",
+        "ISSN": "0749-3797",
+        "Issue": "5",
+        "Journal": "American Journal of Preventive Medicine",
+        "Keywords": "escherichia-coli concentrations; microbial source tracking; fecal indicator bacteria; united-states; recreational waters; gastrointestinal illness; hydrological cycle; huntington-beach; nonpoint sources; nearshore water",
+        "Language": "English",
+        "Notes": "365HN; Times Cited:19; Cited References Count:76",
+        "Pages": "451-458",
+        "Title": "Climate change and waterborne disease risk in the Great Lakes region of the US",
+        "URL": "http://www.ajpmonline.org/article/S0749-3797(08)00702-2/fulltext",
+        "Volume": "35",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"RG 3 Midwest\",\"Overview\",\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "2443",
+        "_uuid": "030e3539-a620-441c-adb6-042db1a3fa6e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.amepre.2008.08.026",
+    "href": "http://data.globalchange.gov/reference/030e3539-a620-441c-adb6-042db1a3fa6e.json",
+    "identifier": "030e3539-a620-441c-adb6-042db1a3fa6e",
+    "uri": "/reference/030e3539-a620-441c-adb6-042db1a3fa6e"
+}

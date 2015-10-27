@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Sale, M. J.\rS.-C. Kao\rM. Ashfaq\rD. P. Kaiser\rR. Martinez\rC. Webb\rY. Wei ",
+        "Date": "October 2012",
+        "Institution": "Technical Manual 2011/251. Oak Ridge National Laboratory",
+        "Pages": "210",
+        "Place Published": "Oak Ridge, TN",
+        "Series Title": "Technical Manual 2011/251",
+        "Title": "Assessment of the Effects of Climate Change on Federal Hydropower",
+        "URL": "http://nhaap.ornl.gov/sites/default/files/9505_FY12_Assessment_Report.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "4595",
+        "_uuid": "82a85bc9-154e-4f5c-8fee-60bc7a5abbe7",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/ornl-tm-2011-251",
+    "href": "http://data.globalchange.gov/reference/82a85bc9-154e-4f5c-8fee-60bc7a5abbe7.json",
+    "identifier": "82a85bc9-154e-4f5c-8fee-60bc7a5abbe7",
+    "uri": "/reference/82a85bc9-154e-4f5c-8fee-60bc7a5abbe7"
+}

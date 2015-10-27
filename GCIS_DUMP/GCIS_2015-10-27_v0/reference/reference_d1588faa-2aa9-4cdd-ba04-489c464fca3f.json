@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Cao, G.\rGiambelluca, T. W.\rStevens, D. E.\rSchroeder, T. A.",
+        "DOI": "10.1175/jcli4033.1",
+        "Issue": "7",
+        "Journal": "Journal of Climate",
+        "Pages": "1145-1160",
+        "Title": "Inversion variability in the Hawaiian trade wind regime",
+        "Volume": "20",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "1008",
+        "_uuid": "d1588faa-2aa9-4cdd-ba04-489c464fca3f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/jcli4033.1",
+    "href": "http://data.globalchange.gov/reference/d1588faa-2aa9-4cdd-ba04-489c464fca3f.json",
+    "identifier": "d1588faa-2aa9-4cdd-ba04-489c464fca3f",
+    "uri": "/reference/d1588faa-2aa9-4cdd-ba04-489c464fca3f"
+}

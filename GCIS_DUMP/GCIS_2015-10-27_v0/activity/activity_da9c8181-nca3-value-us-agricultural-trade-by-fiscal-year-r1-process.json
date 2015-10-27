@@ -1,0 +1,15 @@
+{
+    "computing_environment": null,
+    "data_usage": null,
+    "duration": null,
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/da9c8181-nca3-value-us-agricultural-trade-by-fiscal-year-r1-process.json",
+    "identifier": "da9c8181-nca3-value-us-agricultural-trade-by-fiscal-year-r1-process",
+    "methodology": null,
+    "notes": "The image uses Exports and Imports data from the dataset \u201cValue of U.S. agricultural trade, by fiscal year.\" The dataset is a product of the Economic Research Service of the United States Department of Agriculture.",
+    "output_artifacts": null,
+    "software": null,
+    "start_time": null,
+    "uri": "/activity/da9c8181-nca3-value-us-agricultural-trade-by-fiscal-year-r1-process",
+    "visualization_software": null
+}

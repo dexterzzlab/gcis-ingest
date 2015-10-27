@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".publisher": "Blackwell Publishing Ltd",
+        ".reference_type": "0",
+        "Author": "Bostrom, Ann\rMorgan, M. Granger\rFischhoff, Baruch\rRead, Daniel",
+        "DOI": "10.1111/j.1539-6924.1994.tb00065.x",
+        "ISSN": "1539-6924",
+        "Issue": "6",
+        "Journal": "Risk Analysis",
+        "Keywords": "Climate change\rglobal warming\rmental model\rrisk communication\rdecision making",
+        "Pages": "959-970",
+        "Title": "What do people know about global climate change? 1. Mental models",
+        "Volume": "14",
+        "Year": "1994",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4472",
+        "_uuid": "91d24b8e-07b2-4c30-afd4-1ce2b03c3b39",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1539-6924.1994.tb00065.x",
+    "href": "http://data.globalchange.gov/reference/91d24b8e-07b2-4c30-afd4-1ce2b03c3b39.json",
+    "identifier": "91d24b8e-07b2-4c30-afd4-1ce2b03c3b39",
+    "uri": "/reference/91d24b8e-07b2-4c30-afd4-1ce2b03c3b39"
+}

@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "American Meteorological Society",
+        ".reference_type": "0",
+        "Access Date": "2013/06/06",
+        "Author": "Gutowski, W. J.\rTakle, E. S.\rKozak, K. A.\rPatton, J. C.\rArritt, R. W.\rChristensen, J. H.",
+        "DOI": "10.1175/2007jhm817.1",
+        "Date": "2007/12/01",
+        "ISSN": "1525-755X",
+        "Issue": "6",
+        "Journal": "Journal of Hydrometeorology",
+        "Pages": "1382-1396",
+        "Title": "A possible constraint on regional precipitation intensity changes under global warming",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/2007JHM817.1",
+        "Volume": "8",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "3693",
+        "_uuid": "67698645-2640-4f83-9c78-56fd8dd26265",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/2007jhm817.1",
+    "href": "http://data.globalchange.gov/reference/67698645-2640-4f83-9c78-56fd8dd26265.json",
+    "identifier": "67698645-2640-4f83-9c78-56fd8dd26265",
+    "uri": "/reference/67698645-2640-4f83-9c78-56fd8dd26265"
+}

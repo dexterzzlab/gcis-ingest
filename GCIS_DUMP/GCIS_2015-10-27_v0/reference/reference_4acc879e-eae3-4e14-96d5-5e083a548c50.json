@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "NRC,",
+        "ISBN": "0-309-25619-4",
+        "Number of Pages": "280",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "National Research Council. The National Academies Press",
+        "Reviewer": "4acc879e-eae3-4e14-96d5-5e083a548c50",
+        "Title": "Sustainable Water and Environmental Management in the California Bay-Delta",
+        "URL": "http://www.nap.edu/catalog.php?record_id=13394",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "2312",
+        "_uuid": "4acc879e-eae3-4e14-96d5-5e083a548c50",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/305e4144-39d2-4d84-8843-3f502ab890e0",
+    "href": "http://data.globalchange.gov/reference/4acc879e-eae3-4e14-96d5-5e083a548c50.json",
+    "identifier": "4acc879e-eae3-4e14-96d5-5e083a548c50",
+    "uri": "/reference/4acc879e-eae3-4e14-96d5-5e083a548c50"
+}

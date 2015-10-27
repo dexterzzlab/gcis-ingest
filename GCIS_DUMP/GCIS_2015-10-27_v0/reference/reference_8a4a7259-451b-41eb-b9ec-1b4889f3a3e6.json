@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "SEGCC,",
+        "Institution": "Scientific Expert Group on Climate Change, Sigma Xi and the United Nations Foundation",
+        "Pages": "144",
+        "Place Published": "Research Triangle Park, NC and Washington, D.C.",
+        "Series Editor": "Bierbaum, R.\rHoldren, J.P.\rMacCracken, M.\rMoss, R.H.\rRaven, P.H.\rSchellnhuber, H.J.",
+        "Title": "Confronting Climate Change: Avoiding the Unmanageable and Managing the Unavoidable. Report Prepared for the United Nations Commission on Sustainable Development",
+        "URL": "http://www.globalproblems-globalsolutions-files.org/unf_website/PDF/climate%20_change_avoid_unmanagable_manage_unavoidable.pdf",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\",\"RF 12\"]",
+        "_record_number": "2806",
+        "_uuid": "8a4a7259-451b-41eb-b9ec-1b4889f3a3e6",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/sigmaxi-confclimch-2007",
+    "href": "http://data.globalchange.gov/reference/8a4a7259-451b-41eb-b9ec-1b4889f3a3e6.json",
+    "identifier": "8a4a7259-451b-41eb-b9ec-1b4889f3a3e6",
+    "uri": "/reference/8a4a7259-451b-41eb-b9ec-1b4889f3a3e6"
+}

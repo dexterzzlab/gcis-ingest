@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "9",
+        "Editor": "Davoudi, S.\rCrawford, J.\rMehmood, A.",
+        "ISBN": "978-1-84407-662-8",
+        "Number of Pages": "344",
+        "Publisher": "Routledge",
+        "Title": "Planning for Climate Change: Strategies for Mitigation and Adaptation for Spatial Planners",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "1273",
+        "_uuid": "74183b01-377a-478f-a730-83f6fe20c324",
+        "reftype": "Edited Book"
+    },
+    "child_publication": "/book/0527682d-4b36-41dd-9f64-7cb2d89fc066",
+    "href": "http://data.globalchange.gov/reference/74183b01-377a-478f-a730-83f6fe20c324.json",
+    "identifier": "74183b01-377a-478f-a730-83f6fe20c324",
+    "uri": "/reference/74183b01-377a-478f-a730-83f6fe20c324"
+}

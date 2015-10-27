@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Smith, J.B.\rVogel, Jason M.\rCruce, Terri L. \rSeidel, Stephen\rHolsinger, Heather A.",
+        "Date": "March 2010",
+        "Institution": "Pew Center on Global Climate Change",
+        "Place Published": "Arlington, VA",
+        "Title": "Adapting to Climate Change: A Call for Federal Leadership",
+        "URL": "http://www.c2es.org/docUploads/adaptation-federal-leadership.pdf",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "2875",
+        "_uuid": "aa52764e-83e8-4f65-9268-73540db95323",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/c2es-adaptingtoclimchfed-2010",
+    "href": "http://data.globalchange.gov/reference/aa52764e-83e8-4f65-9268-73540db95323.json",
+    "identifier": "aa52764e-83e8-4f65-9268-73540db95323",
+    "uri": "/reference/aa52764e-83e8-4f65-9268-73540db95323"
+}

@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"75\" /><run start=\"76\" /></field></record>",
+        "Author": "Long, S. P.\rAinsworth, E. A.\rLeakey, A. D. B.\rNosberger, J.\rOrt, D. R.",
+        "DOI": "10.1126/science.1114722",
+        "Date": "Jun 30",
+        "ISSN": "0036-8075",
+        "Issue": "5782",
+        "Journal": "Science",
+        "Pages": "1918-1921",
+        "Title": "Food for thought: Lower-than-expected crop yield stimulation with rising CO2 concentrations",
+        "Volume": "312",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "717",
+        "_uuid": "4ecb2812-1d3f-4474-b84b-39d27a6669d0",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1114722",
+    "href": "http://data.globalchange.gov/reference/4ecb2812-1d3f-4474-b84b-39d27a6669d0.json",
+    "identifier": "4ecb2812-1d3f-4474-b84b-39d27a6669d0",
+    "uri": "/reference/4ecb2812-1d3f-4474-b84b-39d27a6669d0"
+}

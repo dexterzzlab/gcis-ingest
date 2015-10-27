@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "USGCRP,",
+        "Institution": "U.S. Global Change Research Program",
+        "Pages": "35",
+        "Place Published": "Washington, D.C.",
+        "Title": "The National Climate Assessment NCA Report Series, Volume 1. Midwest Regional Workshop: February 22-24, 2010 Chicago, Illinois",
+        "URL": "http://downloads.globalchange.gov/nca/workshop-reports/midwest-regional-workshop-report.pdf",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 30: NCA Long-Term Process FINAL\"]",
+        "_record_number": "3241",
+        "_uuid": "3825c75b-9b8f-44ff-a260-24d0e0d849ce",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usgcrp-nca-midwestworkshop-2010",
+    "href": "http://data.globalchange.gov/reference/3825c75b-9b8f-44ff-a260-24d0e0d849ce.json",
+    "identifier": "3825c75b-9b8f-44ff-a260-24d0e0d849ce",
+    "uri": "/reference/3825c75b-9b8f-44ff-a260-24d0e0d849ce"
+}

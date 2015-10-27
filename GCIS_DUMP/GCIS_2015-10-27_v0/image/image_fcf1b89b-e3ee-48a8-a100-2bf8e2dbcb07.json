@@ -1,0 +1,86 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/3807.json",
+            "id": 3807,
+            "organization": {
+                "country_code": "GR",
+                "identifier": "national-centre-scientific-research-demokritos",
+                "name": "National Centre of Scientific Research Demokritos",
+                "organization_type_identifier": "national",
+                "url": "http://www.demokritos.gr/"
+            },
+            "organization_uri": "/organization/national-centre-scientific-research-demokritos",
+            "person": {
+                "first_name": "Efthimios",
+                "id": 2235,
+                "last_name": "Tagaris",
+                "middle_name": null,
+                "orcid": "0000-0001-7988-9073",
+                "url": null
+            },
+            "person_id": 2235,
+            "person_uri": "/person/2235",
+            "role_type_identifier": "point_of_contact",
+            "uri": "/contributor/3807"
+        }
+    ],
+    "create_dt": "2014-02-21T11:01:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Ground-level ozone is an air pollutant that is harmful to human health and which\r\n    generally increases with rising temperatures. The map shows projected\r\n    changes in average annualground level\r\n    ozone pollution concentration in 2050 as compared to 2001, using a mid-range emissions scenario (A1B, which assumes gradual\r\n    reductions from current emissions trends beginning around mid-century). (Figure source: adapted from Tagaris et al.\r\n    2009<tbib>c275ae44-75e4-4974-81ea-fe7119474ffb</tbib>).",
+            "chapter_identifier": "southeast",
+            "create_dt": "2014-02-21T11:01:01",
+            "identifier": "groundlevel-ozone",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 10,
+            "report_identifier": "nca3",
+            "source_citation": "adapted from Tagaris et al. 2009<tbib>c275ae44-75e4-4974-81ea-fe7119474ffb</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Ground-level Ozone",
+            "url": "http://nca2014.globalchange.gov/report/regions/southeast/graphics/ground-level-ozone",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "40/a5/16e7e7d0ae426945ba91407580ce/SE_ground-level_ozone_V3.png",
+            "href": "http://data.globalchange.gov/assets/40/a5/16e7e7d0ae426945ba91407580ce/SE_ground-level_ozone_V3.png",
+            "identifier": "6a081b0d-0d82-410f-bb0d-a313e7d20a4c",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "9a0ae579eb3bf150e37a0a9fad654fbc0ffa037e",
+            "size": 46340,
+            "thumbnail": "40/a5/16e7e7d0ae426945ba91407580ce/.thumb-6a081b0d-0d82-410f-bb0d-a313e7d20a4c.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/40/a5/16e7e7d0ae426945ba91407580ce/.thumb-6a081b0d-0d82-410f-bb0d-a313e7d20a4c.png",
+            "uri": "/file/6a081b0d-0d82-410f-bb0d-a313e7d20a4c",
+            "url": "/assets/40/a5/16e7e7d0ae426945ba91407580ce/SE_ground-level_ozone_V3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/fcf1b89b-e3ee-48a8-a100-2bf8e2dbcb07.json",
+    "identifier": "fcf1b89b-e3ee-48a8-a100-2bf8e2dbcb07",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Ground-level Ozone",
+    "uri": "/image/fcf1b89b-e3ee-48a8-a100-2bf8e2dbcb07",
+    "url": null,
+    "usage_limits": null
+}

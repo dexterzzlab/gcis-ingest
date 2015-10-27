@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/king-county-washington.json",
+    "identifier": "king-county-washington",
+    "name": "King County, Washington State",
+    "organization_type_identifier": "county",
+    "uri": "/organization/king-county-washington",
+    "url": "http://www.kingcounty.gov"
+}

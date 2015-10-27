@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Accession Number": "20",
+        "Author": "Jansen, E.\rOverpeck, J.T.\rBriffa, K.R.\rDuplessy, J.C.\rJoos, F.\rMasson-Delmotte, V.\rOlago, D.\rOtto-Bliesner, B.\rPeltier, W.R.\rRahmstorf, S.\rRamesh, R.\rRaynaud, D.\rRind, D.\rSolomina, O.\rVillalba, R.\rZhang, D.",
+        "Book Title": "Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change",
+        "Chapter": "Chapter 6",
+        "Editor": "Solomon, S.\rQin, D.\rManning, M.\rChen, Z.\rMarquis, M.\rAveryt, K.B.\rTignor, M.\rMiller, H.L.",
+        "Pages": "433-497",
+        "Place Published": "Cambridge, UK and New York, NY",
+        "Publisher": "Cambridge University Press",
+        "Reviewer": "11dc1346-c458-4cf2-a3c1-f75b60c337cb",
+        "Title": "Ch. 6: Palaeoclimate",
+        "URL": "http://www.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4-wg1-chapter6.pdf",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\"]",
+        "_record_number": "1246",
+        "_uuid": "11dc1346-c458-4cf2-a3c1-f75b60c337cb",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/ipcc-ar4-wg1",
+    "href": "http://data.globalchange.gov/reference/11dc1346-c458-4cf2-a3c1-f75b60c337cb.json",
+    "identifier": "11dc1346-c458-4cf2-a3c1-f75b60c337cb",
+    "uri": "/reference/11dc1346-c458-4cf2-a3c1-f75b60c337cb"
+}

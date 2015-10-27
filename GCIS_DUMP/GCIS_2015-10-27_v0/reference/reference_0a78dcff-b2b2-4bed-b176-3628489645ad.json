@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"italic\" start=\"53\" /></field></record>",
+        "Author": "R\u00e9gni\u00e8re, J.\rBentz, B.",
+        "DOI": "10.1016/j.jinsphys.2007.02.007",
+        "ISSN": "0022-1910",
+        "Issue": "6",
+        "Journal": "Journal of Insect Physiology",
+        "Pages": "559-572",
+        "Title": "Modeling cold tolerance in the mountain pine beetle, Dendroctonus ponderosae",
+        "Volume": "53",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "2606",
+        "_uuid": "0a78dcff-b2b2-4bed-b176-3628489645ad",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.jinsphys.2007.02.007",
+    "href": "http://data.globalchange.gov/reference/0a78dcff-b2b2-4bed-b176-3628489645ad.json",
+    "identifier": "0a78dcff-b2b2-4bed-b176-3628489645ad",
+    "uri": "/reference/0a78dcff-b2b2-4bed-b176-3628489645ad"
+}

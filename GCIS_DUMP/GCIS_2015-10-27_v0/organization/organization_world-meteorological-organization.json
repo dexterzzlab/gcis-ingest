@@ -1,0 +1,9 @@
+{
+    "country_code": null,
+    "href": "http://data.globalchange.gov/organization/world-meteorological-organization.json",
+    "identifier": "world-meteorological-organization",
+    "name": "World Meteorological Organization",
+    "organization_type_identifier": "intergovernmental",
+    "uri": "/organization/world-meteorological-organization",
+    "url": "https://www.wmo.int/pages/index_en.html"
+}

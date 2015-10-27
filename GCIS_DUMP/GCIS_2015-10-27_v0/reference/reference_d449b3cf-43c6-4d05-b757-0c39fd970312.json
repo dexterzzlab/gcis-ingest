@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Fawcett, Allen A.\rCalvin, Katherine V.\rde la Chesnaye, Francisco C.\rReilly, John M.\rWeyant, John P.",
+        "DOI": "10.1016/j.eneco.2009.10.015",
+        "Date": "12//",
+        "ISSN": "0140-9883",
+        "Issue": "0",
+        "Journal": "Energy Economics",
+        "Keywords": "Climate Policy\rCap-and-Trade\rEMF",
+        "Pages": "S198-S211",
+        "Title": "Overview of EMF 22 U.S. transition scenarios",
+        "Volume": "31, Supplement 2",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "4510",
+        "_uuid": "d449b3cf-43c6-4d05-b757-0c39fd970312",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.eneco.2009.10.015",
+    "href": "http://data.globalchange.gov/reference/d449b3cf-43c6-4d05-b757-0c39fd970312.json",
+    "identifier": "d449b3cf-43c6-4d05-b757-0c39fd970312",
+    "uri": "/reference/d449b3cf-43c6-4d05-b757-0c39fd970312"
+}

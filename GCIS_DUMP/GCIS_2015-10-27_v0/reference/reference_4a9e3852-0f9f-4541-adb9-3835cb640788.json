@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "AON Benfield,",
+        "Institution": "AON Benfield: Impact Forecasting",
+        "Pages": "95",
+        "Title": "Annual Global Climate and Catastrophe Report. Impact Forecasting - 2012.",
+        "URL": "http://thoughtleadership.aonbenfield.com/Documents/20130124_if_annual_global_climate_catastrophe_report.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "3765",
+        "_uuid": "4a9e3852-0f9f-4541-adb9-3835cb640788",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/aonbenfield-annglobclim-2012",
+    "href": "http://data.globalchange.gov/reference/4a9e3852-0f9f-4541-adb9-3835cb640788.json",
+    "identifier": "4a9e3852-0f9f-4541-adb9-3835cb640788",
+    "uri": "/reference/4a9e3852-0f9f-4541-adb9-3835cb640788"
+}

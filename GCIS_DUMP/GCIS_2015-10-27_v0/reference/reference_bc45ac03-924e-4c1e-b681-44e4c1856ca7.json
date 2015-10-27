@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Brown, C.",
+        "DOI": "10.1061/(ASCE)WR.1943-5452.65",
+        "Issue": "2",
+        "Journal": "Journal of Water Resources Planning and Management",
+        "Pages": "143-145",
+        "Title": "The end of reliability",
+        "Volume": "136",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\",\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "630",
+        "_uuid": "bc45ac03-924e-4c1e-b681-44e4c1856ca7",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1061/(ASCE)WR.1943-5452.65",
+    "href": "http://data.globalchange.gov/reference/bc45ac03-924e-4c1e-b681-44e4c1856ca7.json",
+    "identifier": "bc45ac03-924e-4c1e-b681-44e4c1856ca7",
+    "uri": "/reference/bc45ac03-924e-4c1e-b681-44e4c1856ca7"
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".publisher": "Transportation Research Board",
+        ".reference_type": "0",
+        "Author": "Meyer, M. D.\rAmekudzi, A.\rO\u2019Har, J. P.",
+        "DOI": "10.3141/2160-02",
+        "Journal": "Transportation Research Record: Journal of the Transportation Research Board",
+        "Pages": "12-20",
+        "Title": "Transportation asset management systems and climate change",
+        "Volume": "2160",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 5: Transportation FINAL\"]",
+        "_record_number": "2010",
+        "_uuid": "571317dc-83dd-44db-849a-ddee7802b9a6",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.3141/2160-02",
+    "href": "http://data.globalchange.gov/reference/571317dc-83dd-44db-849a-ddee7802b9a6.json",
+    "identifier": "571317dc-83dd-44db-849a-ddee7802b9a6",
+    "uri": "/reference/571317dc-83dd-44db-849a-ddee7802b9a6"
+}

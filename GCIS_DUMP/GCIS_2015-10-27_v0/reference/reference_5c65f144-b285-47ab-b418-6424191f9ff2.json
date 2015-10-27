@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Hettinger, A.\rSanford, E.\rHill, T.M.\rRussell, A.D.\rSato, K.N.S.\rHoey, J.\rForsch, M.\rPage, H.N.\rGaylord, B.",
+        "DOI": "10.1890/12-0567.1",
+        "ISSN": "0012-9658",
+        "Issue": "12",
+        "Journal": "Ecology",
+        "Pages": "2758-2768",
+        "Title": "Persistent carry-over effects of planktonic exposure to ocean acidification in the Olympia oyster",
+        "Volume": "93",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\"]",
+        "_record_number": "1255",
+        "_uuid": "5c65f144-b285-47ab-b418-6424191f9ff2",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/12-0567.1",
+    "href": "http://data.globalchange.gov/reference/5c65f144-b285-47ab-b418-6424191f9ff2.json",
+    "identifier": "5c65f144-b285-47ab-b418-6424191f9ff2",
+    "uri": "/reference/5c65f144-b285-47ab-b418-6424191f9ff2"
+}

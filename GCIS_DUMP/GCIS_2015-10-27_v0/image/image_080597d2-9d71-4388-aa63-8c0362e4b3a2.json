@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-07-26T07:53:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Climate change is likely to affect human society and the natural environment in many ways. The National Climate Assessment\u2019s sectoral impacts chapters examine these impacts by category in detail. (Figure source: adapted from Phillipe Rekacewicz UNEP/GRID-Arendal 2012, \u201cVital Climate Graphics\u201d collection19).",
+            "chapter_identifier": "appendix-faqs",
+            "create_dt": "2013-07-26T07:53:00",
+            "identifier": "potential-effects-of-climate-change",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 25,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Potential Effects of Climate Change",
+            "url": "http://nca2014.globalchange.gov/report/appendices/faqs/graphics/potential-effects-climate-change",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "54/be/a5090bc5763aed5533a86e871e2b/caq_potential_climate_changes_impact_v4.png",
+            "href": "http://data.globalchange.gov/assets/54/be/a5090bc5763aed5533a86e871e2b/caq_potential_climate_changes_impact_v4.png",
+            "identifier": "f006f228-64bd-45ff-aa48-414d8ec660a4",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "85e5ca6f5606286224743313d24d6f961f901d5d",
+            "size": 218618,
+            "thumbnail": "54/be/a5090bc5763aed5533a86e871e2b/.thumb-f006f228-64bd-45ff-aa48-414d8ec660a4.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/54/be/a5090bc5763aed5533a86e871e2b/.thumb-f006f228-64bd-45ff-aa48-414d8ec660a4.png",
+            "uri": "/file/f006f228-64bd-45ff-aa48-414d8ec660a4",
+            "url": "/assets/54/be/a5090bc5763aed5533a86e871e2b/caq_potential_climate_changes_impact_v4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/080597d2-9d71-4388-aa63-8c0362e4b3a2.json",
+    "identifier": "080597d2-9d71-4388-aa63-8c0362e4b3a2",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Potential Effects of Climate Change",
+    "uri": "/image/080597d2-9d71-4388-aa63-8c0362e4b3a2",
+    "url": null,
+    "usage_limits": null
+}

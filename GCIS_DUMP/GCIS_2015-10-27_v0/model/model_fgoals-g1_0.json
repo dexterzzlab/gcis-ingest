@@ -1,0 +1,12 @@
+{
+    "description": "The development of LASG/IAP Earth System Model FGOALS aims to provide a powerful scientific tool to simulate the realistic climate, and the anthropogenic influence on climate change, to understand the role of biogeochemistry processes in the evolution of the earth climate system. Based on the climate system model FGOALS, both a dynamic global vegetation module (VEGAS) in land component and a biogeochemical tracer module in ocean component have been successfully coupled into FGOALS framework, so that the FGOALS has become an Earth System Model involved with a completed carbon cycle.  FGOALS has been applied to many researches, including studying the forming and variation of climate and the associated dynamics, carbon cycle processes, seasonal and intra-seasonal prediction, et al. And this model is carrying out IPCC scenarios integrations to provide the scientific numerical results of anthropogenic impact on climate change.\n",
+    "description_attribution": "http://www.lasg.ac.cn/FGOALS/ArticleShow2.asp?BigClass=Models%20Documentation&ArticleID=4224\n",
+    "href": "http://data.globalchange.gov/model/fgoals-g1_0.json",
+    "identifier": "fgoals-g1_0",
+    "name": "Flexible Global Ocean\u2013Atmosphere\u2013Land System Model, gridpoint version 1.0",
+    "project_identifier": "cmip3",
+    "reference_url": "http://www-pcmdi.llnl.gov/ipcc/model_documentation/FGOALS-g1.0.htm",
+    "uri": "/model/fgoals-g1_0",
+    "version": null,
+    "website": null
+}

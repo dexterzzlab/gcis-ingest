@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Tester, P.A.\rFeldman, R.L.\rNau, A.W.\rKibler, S.R.\rWayne Litaker, R.",
+        "DOI": "10.1016/j.toxicon.2010.02.026",
+        "ISSN": "0041-0101",
+        "Issue": "5",
+        "Journal": "Toxicon",
+        "Pages": "698-710",
+        "Title": "Ciguatera fish poisoning and sea surface temperatures in the Caribbean Sea and the West Indies",
+        "Volume": "56",
+        "Year": "2010",
+        "_chapter": "[\"RG 2 Southeast\",\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "3023",
+        "_uuid": "659613d7-c0e0-4f84-88b9-7e18e9815bab",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.toxicon.2010.02.026",
+    "href": "http://data.globalchange.gov/reference/659613d7-c0e0-4f84-88b9-7e18e9815bab.json",
+    "identifier": "659613d7-c0e0-4f84-88b9-7e18e9815bab",
+    "uri": "/reference/659613d7-c0e0-4f84-88b9-7e18e9815bab"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Wobus, C.\rLawson, M.\rJones, R.\rSmith, J.\rMartinich, J.",
+        "DOI": "10.1111/jfr3.12043",
+        "ISSN": "1753-318X",
+        "Journal": "Journal of Flood Risk Management",
+        "Keywords": "Climate change\rmodelling\rprecipitation",
+        "Title": "Estimating monetary damages from flooding in the United States under a changing climate",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/jfr3.12043/pdf",
+        "Volume": "in press",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "4138",
+        "_uuid": "74559127-705c-4983-8329-2df1fadd2563",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/jfr3.12043",
+    "href": "http://data.globalchange.gov/reference/74559127-705c-4983-8329-2df1fadd2563.json",
+    "identifier": "74559127-705c-4983-8329-2df1fadd2563",
+    "uri": "/reference/74559127-705c-4983-8329-2df1fadd2563"
+}

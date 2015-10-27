@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Jones, G.V.",
+        "Book Title": "Acta Hort. (ISHS). VII International Symposium on Grapevine Physiology and Biotechnology",
+        "Editor": "Williams, L.E.",
+        "ISBN": "978-90-66057-18-0 ",
+        "Pages": "41-60",
+        "Place Published": "Belgium",
+        "Publisher": "International Society for Horticultural Science",
+        "Reviewer": "cd6d6378-e215-4219-acad-88791b9a54eb",
+        "Title": "Climate Change in the Western United States Growing Regions",
+        "URL": "http://www.actahort.org/books/689/689_2.htm",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "3683",
+        "_uuid": "cd6d6378-e215-4219-acad-88791b9a54eb",
+        "reftype": "Book Section"
+    },
+    "child_publication": null,
+    "href": "http://data.globalchange.gov/reference/cd6d6378-e215-4219-acad-88791b9a54eb.json",
+    "identifier": "cd6d6378-e215-4219-acad-88791b9a54eb",
+    "uri": "/reference/cd6d6378-e215-4219-acad-88791b9a54eb"
+}

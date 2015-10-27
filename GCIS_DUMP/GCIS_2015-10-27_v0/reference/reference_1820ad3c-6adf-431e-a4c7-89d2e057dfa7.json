@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Alternate Journal": "Nature",
+        "Author": "Bousquet, P.\rCiais, P.\rMiller, J. B.\rDlugokencky, E. J.\rHauglustaine, D. A.\rPrigent, C.\rVan der Werf, G. R.\rPeylin, P.\rBrunke, E. G.\rCarouge, C.\rLangenfelds, R. L.\rLathiere, J.\rPapa, F.\rRamonet, M.\rSchmidt, M.\rSteele, L. P.\rTyler, S. C.\rWhite, J.",
+        "DOI": "10.1038/nature05132",
+        "Date": "Sep",
+        "ISSN": "0028-0836",
+        "Issue": "7110",
+        "Journal": "Nature",
+        "Keywords": "interannual growth-rate; isotopic composition; ch4; emissions; transport; air; co2; inversion; pinatubo; period",
+        "Language": "English",
+        "Pages": "439-443",
+        "Title": "Contribution of anthropogenic and natural sources to atmospheric methane variability",
+        "Type of Article": "Article",
+        "Volume": "443",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "458",
+        "_uuid": "1820ad3c-6adf-431e-a4c7-89d2e057dfa7",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/nature05132",
+    "href": "http://data.globalchange.gov/reference/1820ad3c-6adf-431e-a4c7-89d2e057dfa7.json",
+    "identifier": "1820ad3c-6adf-431e-a4c7-89d2e057dfa7",
+    "uri": "/reference/1820ad3c-6adf-431e-a4c7-89d2e057dfa7"
+}

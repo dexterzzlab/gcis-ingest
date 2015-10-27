@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Marshall, Paul\rSchuttenberg, Heidi",
+        "ISBN": "1-876945-40-0",
+        "Number of Pages": "163",
+        "Place Published": "Australia",
+        "Publisher": "Great Barrier Reef Marine Park Authority, IUCN Global Marine Programme, and U.S. National Oceanic and Atmospheric Administration",
+        "Reviewer": "8bf4f54e-f85d-48b8-b537-0800b545a58c",
+        "Title": "A Reef Manager's Guide to Coral Bleaching",
+        "URL": "http://data.iucn.org/dbtw-wpd/edocs/2006-043.pdf",
+        "Year": "2006",
+        "_chapter": "[\"RF 11\",\"Appendix 4: FAQs FINAL\"]",
+        "_record_number": "4164",
+        "_uuid": "8bf4f54e-f85d-48b8-b537-0800b545a58c",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/d6f69088-1025-4ce7-b0e1-54ab6403a951",
+    "href": "http://data.globalchange.gov/reference/8bf4f54e-f85d-48b8-b537-0800b545a58c.json",
+    "identifier": "8bf4f54e-f85d-48b8-b537-0800b545a58c",
+    "uri": "/reference/8bf4f54e-f85d-48b8-b537-0800b545a58c"
+}

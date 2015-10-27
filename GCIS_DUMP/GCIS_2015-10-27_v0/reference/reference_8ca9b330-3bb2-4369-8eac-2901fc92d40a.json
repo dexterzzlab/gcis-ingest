@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "City of Lewes, ",
+        "Institution": "Delaware Sea Grant College Program, ICLEI-Local Governments for Sustainability, and University of Delaware Sustainable Coastal Communities Program",
+        "Pages": "164",
+        "Title": "The\u00a0City\u00a0of\u00a0Lewes\u00a0Hazard\u00a0Mitigation\u00a0and\u00a0Climate\u00a0Adaptation\u00a0Action\u00a0Plan",
+        "URL": "http://www.deseagrant.org/sites/default/files/attachments/Lewes%20Hazard%20Mitigation%20and%20Climate%20Adaptation%20Action%20Plan.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "827",
+        "_uuid": "8ca9b330-3bb2-4369-8eac-2901fc92d40a",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/deseagrant-lewesactionplan-2011",
+    "href": "http://data.globalchange.gov/reference/8ca9b330-3bb2-4369-8eac-2901fc92d40a.json",
+    "identifier": "8ca9b330-3bb2-4369-8eac-2901fc92d40a",
+    "uri": "/reference/8ca9b330-3bb2-4369-8eac-2901fc92d40a"
+}

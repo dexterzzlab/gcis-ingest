@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "9",
+        ".section": "448",
+        "Editor": "Pidgeon, N.\rKasperson, R.E.\rSlovic, P.",
+        "ISBN": "9780521520447",
+        "Place Published": "Cambridge, UK",
+        "Publisher": "Cambridge University Press",
+        "Title": "The Social Amplification of Risk",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4474",
+        "_uuid": "22794d87-a8e7-417f-876d-32dfe7b6628e",
+        "reftype": "Edited Book"
+    },
+    "child_publication": "/book/d865b891-7f62-4364-a57c-f904daaecbf8",
+    "href": "http://data.globalchange.gov/reference/22794d87-a8e7-417f-876d-32dfe7b6628e.json",
+    "identifier": "22794d87-a8e7-417f-876d-32dfe7b6628e",
+    "uri": "/reference/22794d87-a8e7-417f-876d-32dfe7b6628e"
+}

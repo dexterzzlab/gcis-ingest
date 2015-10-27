@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Ferda\u00f1a, Z.\rNewkirk, S.\rWhelchel, A.W.\rGilmer, B.\rBeck, M.W.\r",
+        "Book Title": "Building Resilience to Climate Change: Ecosystem-Based Adaptation and Lessons From the Field",
+        "Editor": "Andrade P\u00e9rez, \u00c1.\rHerrera Fern\u00e1ndez, B.\rCazzolla Gatti, R.",
+        "Pages": "73-87",
+        "Place Published": "Gland, Swizterland",
+        "Publisher": "IUCN, International Union for Conservation of Nature",
+        "Reviewer": "417521de-541f-44bd-8747-ac306ede3d83",
+        "Title": "Ch. 6: Adapting to climate change: Building interactive decision support to meet management objectives for coastal conservation and hazard mitigation on Long Island, New York, USA",
+        "URL": "http://data.iucn.org/dbtw-wpd/edocs/2010-050.pdf",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "47",
+        "_uuid": "417521de-541f-44bd-8747-ac306ede3d83",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/64c0429d-0187-4d7c-9e3a-efb183737277",
+    "href": "http://data.globalchange.gov/reference/417521de-541f-44bd-8747-ac306ede3d83.json",
+    "identifier": "417521de-541f-44bd-8747-ac306ede3d83",
+    "uri": "/reference/417521de-541f-44bd-8747-ac306ede3d83"
+}

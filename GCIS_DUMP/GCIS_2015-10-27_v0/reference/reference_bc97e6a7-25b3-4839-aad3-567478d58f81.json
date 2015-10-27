@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Jacob, K.\rRosenzweig, C.\rHorton, R.\rMajor, D.\rGornitz, V.",
+        "Institution": "State of New York, Metropolitan Transportation Authority",
+        "Pages": "48",
+        "Place Published": "New York, NY",
+        "Title": "MTA Adaptations to Climate Change:  A Categorical Imperative",
+        "Type": "State agency report",
+        "URL": "http://www.mta.info/sustainability/pdf/Jacob_et%20al_MTA_Adaptation_Final_0309.pdf",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 5: Transportation FINAL\",\"RF 6\"]",
+        "_record_number": "1134",
+        "_uuid": "bc97e6a7-25b3-4839-aad3-567478d58f81",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/mta-adapttoclimch-2008",
+    "href": "http://data.globalchange.gov/reference/bc97e6a7-25b3-4839-aad3-567478d58f81.json",
+    "identifier": "bc97e6a7-25b3-4839-aad3-567478d58f81",
+    "uri": "/reference/bc97e6a7-25b3-4839-aad3-567478d58f81"
+}

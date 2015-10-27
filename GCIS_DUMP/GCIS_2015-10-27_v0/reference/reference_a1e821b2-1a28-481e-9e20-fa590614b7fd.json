@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Maibach, E.W.\rChadwick, A.\rMcBride, D.\rChuk, M.\rEbi, K.L.\rBalbus, J.",
+        "DOI": "10.1371/journal.pone.0002838",
+        "ISSN": "1932-6203",
+        "Issue": "7",
+        "Journal": "PLoS ONE",
+        "Pages": "e2838",
+        "Title": "Climate change and local public health in the United States: Preparedness, programs and perceptions of local public health department directors",
+        "Volume": "3",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 11: Urban Systems FINAL\"]",
+        "_record_number": "1855",
+        "_uuid": "a1e821b2-1a28-481e-9e20-fa590614b7fd",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1371/journal.pone.0002838",
+    "href": "http://data.globalchange.gov/reference/a1e821b2-1a28-481e-9e20-fa590614b7fd.json",
+    "identifier": "a1e821b2-1a28-481e-9e20-fa590614b7fd",
+    "uri": "/reference/a1e821b2-1a28-481e-9e20-fa590614b7fd"
+}

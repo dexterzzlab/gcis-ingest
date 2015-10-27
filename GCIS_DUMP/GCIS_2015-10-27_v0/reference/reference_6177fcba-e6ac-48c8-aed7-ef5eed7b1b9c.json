@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Younger, M.\rMorrow-Almeida, H.R.\rVindigni, S.M.\rDannenberg, A.L.",
+        "DOI": "10.1016/j.amepre.2008.08.017",
+        "ISSN": "0749-3797",
+        "Issue": "5",
+        "Journal": "American Journal of Preventive Medicine",
+        "Pages": "517-526",
+        "Title": "The built environment, climate change, and health: Opportunities for co-benefits",
+        "Volume": "35",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "3514",
+        "_uuid": "6177fcba-e6ac-48c8-aed7-ef5eed7b1b9c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.amepre.2008.08.017",
+    "href": "http://data.globalchange.gov/reference/6177fcba-e6ac-48c8-aed7-ef5eed7b1b9c.json",
+    "identifier": "6177fcba-e6ac-48c8-aed7-ef5eed7b1b9c",
+    "uri": "/reference/6177fcba-e6ac-48c8-aed7-ef5eed7b1b9c"
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Ebi, K.\rTeisberg, T.\rKalkstein, L.\rRobinson, L.\rWeiher, R.",
+        "ISSN": "1044-3983",
+        "Issue": "5",
+        "Journal": "Epidemiology",
+        "Pages": "S35",
+        "Title": "Heat watch/warning systems save lives: Estimated costs and benefits for Philadelphia 1995-1998: ISEE-165",
+        "Volume": "14",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "833",
+        "_uuid": "6a6219a6-397f-4ed7-8b22-34c5d7030aa8",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/heat-watchwarning-systems-save-lives-estimated-costs-and-benefits-for-philadelphia-19951998-isee165",
+    "href": "http://data.globalchange.gov/reference/6a6219a6-397f-4ed7-8b22-34c5d7030aa8.json",
+    "identifier": "6a6219a6-397f-4ed7-8b22-34c5d7030aa8",
+    "uri": "/reference/6a6219a6-397f-4ed7-8b22-34c5d7030aa8"
+}

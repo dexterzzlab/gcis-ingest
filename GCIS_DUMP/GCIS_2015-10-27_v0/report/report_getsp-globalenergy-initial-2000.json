@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/getsp-globalenergy-initial-2000.json",
+    "identifier": "getsp-globalenergy-initial-2000",
+    "in_library": null,
+    "publication_year": 2000,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Global Energy Technology Strategy: Addressing Climate Change. Initial Findings from an International Public-Private Collaboration",
+    "topic": null,
+    "uri": "/report/getsp-globalenergy-initial-2000",
+    "url": "http://www.globalchange.umd.edu/data/gtsp/docs/GTSP-indfind.pdf"
+}

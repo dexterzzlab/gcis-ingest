@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".publisher": "Taylor & Francis",
+        ".reference_type": "0",
+        "Access Date": "2013/07/26",
+        "Author": "Salvesen, David",
+        "DOI": "10.1080/08920750590917585",
+        "Date": "2005/03/16",
+        "ISSN": "0892-0753",
+        "Issue": "2",
+        "Journal": "Coastal Management",
+        "Pages": "181-195",
+        "Title": "The Coastal Barrier Resources Act: Has it discouraged coastal development?",
+        "Volume": "33",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "3794",
+        "_uuid": "2483713b-af09-475c-b46e-b2ce042747a8",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1080/08920750590917585",
+    "href": "http://data.globalchange.gov/reference/2483713b-af09-475c-b46e-b2ce042747a8.json",
+    "identifier": "2483713b-af09-475c-b46e-b2ce042747a8",
+    "uri": "/reference/2483713b-af09-475c-b46e-b2ce042747a8"
+}

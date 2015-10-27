@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Horne, Jed",
+        "ISBN": "0812976509",
+        "Number of Pages": "464",
+        "Place Published": "New York",
+        "Publisher": "Random House Trade Paperbacks",
+        "Reviewer": "01c146e7-1a6a-42b5-aabf-cf0d9d5191b9",
+        "Title": "Breach of Faith: Hurricane Katrina and the Near Death of a Great American City",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 11: Urban Systems FINAL\"]",
+        "_record_number": "3578",
+        "_uuid": "01c146e7-1a6a-42b5-aabf-cf0d9d5191b9",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/b9b3cdae-ffd2-42c8-9cd9-329ad48ec19d",
+    "href": "http://data.globalchange.gov/reference/01c146e7-1a6a-42b5-aabf-cf0d9d5191b9.json",
+    "identifier": "01c146e7-1a6a-42b5-aabf-cf0d9d5191b9",
+    "uri": "/reference/01c146e7-1a6a-42b5-aabf-cf0d9d5191b9"
+}

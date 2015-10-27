@@ -1,0 +1,8 @@
+{
+    "description": "Multi-purpose imaging MW radiometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/microwave-radiation-imager.json",
+    "identifier": "microwave-radiation-imager",
+    "name": "MicroWave Radiation Imager",
+    "uri": "/instrument/microwave-radiation-imager"
+}

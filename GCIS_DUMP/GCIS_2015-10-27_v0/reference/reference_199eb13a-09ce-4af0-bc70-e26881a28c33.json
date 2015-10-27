@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Anderson, B.G.\rBell, M.L.",
+        "DOI": "10.1097/EDE.0b013e318190ee08",
+        "ISSN": "1044-3983",
+        "Issue": "2",
+        "Journal": "Epidemiology",
+        "Pages": "205-213",
+        "Title": "Weather-related mortality: How heat, cold, and heat waves affect mortality in the United States",
+        "Volume": "20",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "1799",
+        "_uuid": "199eb13a-09ce-4af0-bc70-e26881a28c33",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1097/EDE.0b013e318190ee08",
+    "href": "http://data.globalchange.gov/reference/199eb13a-09ce-4af0-bc70-e26881a28c33.json",
+    "identifier": "199eb13a-09ce-4af0-bc70-e26881a28c33",
+    "uri": "/reference/199eb13a-09ce-4af0-bc70-e26881a28c33"
+}

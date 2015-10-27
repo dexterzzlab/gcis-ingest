@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Khan, S.A.\rWahr, J.\rBevis, M.\rVelicogna, I.\rKendrick, E.",
+        "DOI": "10.1029/2010GL042460",
+        "ISSN": "1944-8007",
+        "Issue": "6",
+        "Journal": "Geophysical Research Letters",
+        "Pages": "L06501",
+        "Title": "Spread of ice mass loss into northwest Greenland observed by GRACE and GPS",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2010GL042460/pdf",
+        "Volume": "37",
+        "Year": "2010",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "1581",
+        "_uuid": "7098e3ef-f883-4207-aa4a-e20cbd563354",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2010GL042460",
+    "href": "http://data.globalchange.gov/reference/7098e3ef-f883-4207-aa4a-e20cbd563354.json",
+    "identifier": "7098e3ef-f883-4207-aa4a-e20cbd563354",
+    "uri": "/reference/7098e3ef-f883-4207-aa4a-e20cbd563354"
+}

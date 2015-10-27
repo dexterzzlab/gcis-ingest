@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Groves, D. G.\rM. Davis\rR. Wilkinson \rR. Lempert",
+        "Issue": "4",
+        "Journal": "Water Resources IMPACT",
+        "Title": "Planning for climate change in the Inland Empire: Southern California",
+        "Volume": "10",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4066",
+        "_uuid": "fe1cfd05-78d0-46d8-b506-eb347fe57c92",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/planning-for-climate-change-in-the-inland-empire-southern-california",
+    "href": "http://data.globalchange.gov/reference/fe1cfd05-78d0-46d8-b506-eb347fe57c92.json",
+    "identifier": "fe1cfd05-78d0-46d8-b506-eb347fe57c92",
+    "uri": "/reference/fe1cfd05-78d0-46d8-b506-eb347fe57c92"
+}

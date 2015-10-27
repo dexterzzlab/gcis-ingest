@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "EIA,",
+        "Institution": "Department of Energy, Energy Information Administration ",
+        "Title": "Annual Energy Outlook. DOE/EIA-0383(2008) ",
+        "URL": "http://www.eia.gov/oiaf/aeo/pdf/0383%282008%29.pdf",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 4: Energy Supply and Use FINAL\",\"RF 6\"]",
+        "_record_number": "87",
+        "_uuid": "4b3a36af-895d-4151-9fbc-206d991558cb",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/aeo2008",
+    "href": "http://data.globalchange.gov/reference/4b3a36af-895d-4151-9fbc-206d991558cb.json",
+    "identifier": "4b3a36af-895d-4151-9fbc-206d991558cb",
+    "uri": "/reference/4b3a36af-895d-4151-9fbc-206d991558cb"
+}

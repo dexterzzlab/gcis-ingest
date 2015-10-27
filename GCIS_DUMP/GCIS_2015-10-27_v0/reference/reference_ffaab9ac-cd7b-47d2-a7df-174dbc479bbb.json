@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Raff, D.A.\rPruitt, T.\rBrekke, L.D.",
+        "DOI": "10.5194/hess-13-2119-2009",
+        "ISSN": "1027-5606",
+        "Issue": "11",
+        "Journal": "Hydrology and Earth System Sciences",
+        "Pages": "2119-2136",
+        "Title": "A framework for assessing flood frequency based on climate projection information",
+        "URL": "http://www.hydrol-earth-syst-sci.net/13/2119/2009/hess-13-2119-2009.pdf",
+        "Volume": "13",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "2571",
+        "_uuid": "ffaab9ac-cd7b-47d2-a7df-174dbc479bbb",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.5194/hess-13-2119-2009",
+    "href": "http://data.globalchange.gov/reference/ffaab9ac-cd7b-47d2-a7df-174dbc479bbb.json",
+    "identifier": "ffaab9ac-cd7b-47d2-a7df-174dbc479bbb",
+    "uri": "/reference/ffaab9ac-cd7b-47d2-a7df-174dbc479bbb"
+}

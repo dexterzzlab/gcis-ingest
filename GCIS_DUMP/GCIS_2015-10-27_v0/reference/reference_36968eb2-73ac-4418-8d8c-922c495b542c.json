@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Gray, M.J., \rL.M. Smith, \rR.I. Leyva",
+        "DOI": "10.1007/s10980-005-1129-3",
+        "ISSN": "0921-2973",
+        "Issue": "7",
+        "Journal": "Landscape Ecology",
+        "Pages": "719-729",
+        "Title": "Influence of agricultural landscape structure on a Southern High Plains, USA, amphibian assemblage",
+        "URL": "http://link.springer.com/content/pdf/10.1007%2Fs10980-005-1129-3",
+        "Volume": "19",
+        "Year": "2004",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\"]",
+        "_record_number": "960",
+        "_uuid": "36968eb2-73ac-4418-8d8c-922c495b542c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10980-005-1129-3",
+    "href": "http://data.globalchange.gov/reference/36968eb2-73ac-4418-8d8c-922c495b542c.json",
+    "identifier": "36968eb2-73ac-4418-8d8c-922c495b542c",
+    "uri": "/reference/36968eb2-73ac-4418-8d8c-922c495b542c"
+}

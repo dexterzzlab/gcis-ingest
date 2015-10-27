@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Chen, J.L.\rWilson, C.R.\rBlankenship, D.\rTapley, B.D.",
+        "DOI": "10.1038/ngeo694",
+        "ISSN": "1752-0894",
+        "Issue": "12",
+        "Journal": "Nature Geoscience",
+        "Pages": "859-862",
+        "Title": "Accelerated Antarctic ice loss from satellite gravity measurements",
+        "Volume": "2",
+        "Year": "2009",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "29",
+        "_uuid": "642b5cc3-bd0c-4e58-8c51-172456c098dc",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/ngeo694",
+    "href": "http://data.globalchange.gov/reference/642b5cc3-bd0c-4e58-8c51-172456c098dc.json",
+    "identifier": "642b5cc3-bd0c-4e58-8c51-172456c098dc",
+    "uri": "/reference/642b5cc3-bd0c-4e58-8c51-172456c098dc"
+}

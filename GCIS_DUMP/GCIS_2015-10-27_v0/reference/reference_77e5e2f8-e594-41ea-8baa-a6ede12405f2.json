@@ -1,0 +1,16 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Fleming, P.\rRufo-Hill, J.",
+        "Title": "Seattle Public Utilities and Sea Level Rise, Summary Document ",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "1514",
+        "_uuid": "77e5e2f8-e594-41ea-8baa-a6ede12405f2",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/seattlepubutilities-sea-level-rise-2012",
+    "href": "http://data.globalchange.gov/reference/77e5e2f8-e594-41ea-8baa-a6ede12405f2.json",
+    "identifier": "77e5e2f8-e594-41ea-8baa-a6ede12405f2",
+    "uri": "/reference/77e5e2f8-e594-41ea-8baa-a6ede12405f2"
+}

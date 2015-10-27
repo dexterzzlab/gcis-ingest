@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Craine, J.M.\rElmore, A.J.\rOlson, KC\rTolleson, D.",
+        "DOI": "10.1111/j.1365-2486.2009.02060.x",
+        "ISSN": "1365-2486",
+        "Issue": "10",
+        "Journal": "Global Change Biology",
+        "Pages": "2901-2911",
+        "Title": "Climate change and cattle nutritional stress",
+        "Volume": "16",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "273",
+        "_uuid": "4192437a-d6c8-4b61-b051-8b2e0721279a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1365-2486.2009.02060.x",
+    "href": "http://data.globalchange.gov/reference/4192437a-d6c8-4b61-b051-8b2e0721279a.json",
+    "identifier": "4192437a-d6c8-4b61-b051-8b2e0721279a",
+    "uri": "/reference/4192437a-d6c8-4b61-b051-8b2e0721279a"
+}

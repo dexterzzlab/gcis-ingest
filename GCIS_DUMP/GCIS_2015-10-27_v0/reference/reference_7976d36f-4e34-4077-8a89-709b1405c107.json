@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Lawler, J. J.\rShafer, S. L.\rWhite, D.\rKareiva, Peter\rMaurer, E. P.\rBlaustein, A. R.\rBartlein, P. J.",
+        "DOI": "10.1890/08-0823.1",
+        "ISSN": "0012-9658",
+        "Issue": "3",
+        "Journal": "Ecology",
+        "Pages": "588-597",
+        "Title": "Projected climate-induced faunal change in the western hemisphere",
+        "Volume": "90",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "1333",
+        "_uuid": "7976d36f-4e34-4077-8a89-709b1405c107",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/08-0823.1",
+    "href": "http://data.globalchange.gov/reference/7976d36f-4e34-4077-8a89-709b1405c107.json",
+    "identifier": "7976d36f-4e34-4077-8a89-709b1405c107",
+    "uri": "/reference/7976d36f-4e34-4077-8a89-709b1405c107"
+}

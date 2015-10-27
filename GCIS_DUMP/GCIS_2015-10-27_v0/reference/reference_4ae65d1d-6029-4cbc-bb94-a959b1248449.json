@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Epstein, P.",
+        "DOI": "10.1890/09-0761.1",
+        "ISSN": "0012-9658",
+        "Issue": "3",
+        "Journal": "Ecology",
+        "Pages": "925-928",
+        "Title": "The ecology of climate change and infectious diseases: Comment",
+        "Volume": "91",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "561",
+        "_uuid": "4ae65d1d-6029-4cbc-bb94-a959b1248449",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/09-0761.1",
+    "href": "http://data.globalchange.gov/reference/4ae65d1d-6029-4cbc-bb94-a959b1248449.json",
+    "identifier": "4ae65d1d-6029-4cbc-bb94-a959b1248449",
+    "uri": "/reference/4ae65d1d-6029-4cbc-bb94-a959b1248449"
+}

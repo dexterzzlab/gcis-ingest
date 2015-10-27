@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        ".section": "21",
+        "Author": "Ogunwole, Stella U. ",
+        "Date": "February 2006",
+        "Institution": "U.S. Census Bureau",
+        "Place Published": "Washington, D.C.",
+        "Title": "We the People: American Indians and Alaska Natives in the United States. Census 2000 Special Reports. CENSR-28",
+        "URL": "http://www.census.gov/prod/2006pubs/censr-28.pdf",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\"]",
+        "_record_number": "3886",
+        "_uuid": "0cdea60b-a8b2-474d-82df-108a16189380",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/census-censr-28",
+    "href": "http://data.globalchange.gov/reference/0cdea60b-a8b2-474d-82df-108a16189380.json",
+    "identifier": "0cdea60b-a8b2-474d-82df-108a16189380",
+    "uri": "/reference/0cdea60b-a8b2-474d-82df-108a16189380"
+}

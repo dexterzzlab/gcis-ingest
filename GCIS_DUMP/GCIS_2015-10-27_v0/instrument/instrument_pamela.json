@@ -1,0 +1,8 @@
+{
+    "description": "Space environment monitor",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/pamela.json",
+    "identifier": "pamela",
+    "name": "Pamela",
+    "uri": "/instrument/pamela"
+}

@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Date": "September 23, 2013",
+        "Access Year": "2013",
+        "Author": "DOE,",
+        "Publisher": "U.S. Department of Energy, National Renewable Energy Lab",
+        "Title": "Installed Wind Capacity",
+        "URL": "http://www.windpoweringamerica.gov/wind_installed_capacity.asp",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\"]",
+        "_record_number": "4295",
+        "_uuid": "c2f462e0-3fed-425c-a620-6431f94cef58",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/6ce481ae-0c66-4c30-bc0e-c608ad02d4c9",
+    "href": "http://data.globalchange.gov/reference/c2f462e0-3fed-425c-a620-6431f94cef58.json",
+    "identifier": "c2f462e0-3fed-425c-a620-6431f94cef58",
+    "uri": "/reference/c2f462e0-3fed-425c-a620-6431f94cef58"
+}

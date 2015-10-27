@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        ".publisher": "Springer Netherlands",
+        ".reference_type": "0",
+        "Alternate Journal": "Climatic Change",
+        "Author": "Dittmer, Kyle",
+        "DOI": "10.1007/s10584-013-0745-0",
+        "Date": "October 2013",
+        "ISSN": "0165-0009",
+        "Issue": "3",
+        "Journal": "Climatic Change",
+        "Language": "English",
+        "Pages": "627-641",
+        "Title": "Changing streamflow on Columbia basin tribal lands\u2014climate change and salmon",
+        "URL": "http://link.springer.com/content/pdf/10.1007%2Fs10584-013-0745-0.pdf",
+        "Volume": "120",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\",\"Ch. 1: Overview FINAL\"]",
+        "_record_number": "3906",
+        "_uuid": "7bc1ebe9-955f-4c9f-a54c-f718e354d5ca",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-013-0745-0",
+    "href": "http://data.globalchange.gov/reference/7bc1ebe9-955f-4c9f-a54c-f718e354d5ca.json",
+    "identifier": "7bc1ebe9-955f-4c9f-a54c-f718e354d5ca",
+    "uri": "/reference/7bc1ebe9-955f-4c9f-a54c-f718e354d5ca"
+}

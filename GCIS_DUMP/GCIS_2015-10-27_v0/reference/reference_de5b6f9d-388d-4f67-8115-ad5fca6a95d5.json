@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Balbus, J.M.\rMalina, C.",
+        "DOI": "10.1097/JOM.0b013e318193e12e",
+        "ISSN": "1076-2752",
+        "Issue": "1",
+        "Journal": "Journal of Occupational and Environmental Medicine",
+        "Pages": "33-37",
+        "Title": "Identifying vulnerable subpopulations for climate change health effects in the United States",
+        "Volume": "51",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "873",
+        "_uuid": "de5b6f9d-388d-4f67-8115-ad5fca6a95d5",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1097/JOM.0b013e318193e12e",
+    "href": "http://data.globalchange.gov/reference/de5b6f9d-388d-4f67-8115-ad5fca6a95d5.json",
+    "identifier": "de5b6f9d-388d-4f67-8115-ad5fca6a95d5",
+    "uri": "/reference/de5b6f9d-388d-4f67-8115-ad5fca6a95d5"
+}

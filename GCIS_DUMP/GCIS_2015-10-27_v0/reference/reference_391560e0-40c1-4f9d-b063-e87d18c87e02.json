@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Littell, J.S.\rMcKenzie, D.\rPeterson, D.L.\rWesterling, A.L.",
+        "DOI": "10.1890/07-1183.1",
+        "ISSN": "1051-0761",
+        "Issue": "4",
+        "Journal": "Ecological Applications",
+        "Pages": "1003-1021",
+        "Title": "Climate and wildfire area burned in western US ecoprovinces, 1916-2003",
+        "Volume": "19",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"Ch. 9: Human Health FINAL\",\"RF 10\",\"Overview\",\"RG 5 Southwest\",\"Ch. 7: Forests FINAL\",\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "257",
+        "_uuid": "391560e0-40c1-4f9d-b063-e87d18c87e02",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/07-1183.1",
+    "href": "http://data.globalchange.gov/reference/391560e0-40c1-4f9d-b063-e87d18c87e02.json",
+    "identifier": "391560e0-40c1-4f9d-b063-e87d18c87e02",
+    "uri": "/reference/391560e0-40c1-4f9d-b063-e87d18c87e02"
+}

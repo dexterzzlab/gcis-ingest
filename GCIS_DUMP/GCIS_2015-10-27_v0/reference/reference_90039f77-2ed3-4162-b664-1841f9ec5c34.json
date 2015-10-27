@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Cheung, W.W.L.\rLam, V.W.Y.\rSarmiento, J.L.\rKearney, K.\rWatson, REG\rZeller, D.\rPauly, D.",
+        "DOI": "10.1111/j.1365-2486.2009.01995.x",
+        "ISSN": "1365-2486",
+        "Issue": "1",
+        "Journal": "Global Change Biology",
+        "Pages": "24-35",
+        "Title": "Large-scale redistribution of maximum fisheries catch potential in the global ocean under climate change",
+        "Volume": "16",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\"]",
+        "_record_number": "1038",
+        "_uuid": "90039f77-2ed3-4162-b664-1841f9ec5c34",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1365-2486.2009.01995.x",
+    "href": "http://data.globalchange.gov/reference/90039f77-2ed3-4162-b664-1841f9ec5c34.json",
+    "identifier": "90039f77-2ed3-4162-b664-1841f9ec5c34",
+    "uri": "/reference/90039f77-2ed3-4162-b664-1841f9ec5c34"
+}

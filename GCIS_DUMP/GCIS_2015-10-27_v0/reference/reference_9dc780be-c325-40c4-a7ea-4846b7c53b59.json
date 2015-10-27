@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Accession Number": "WOS:000287853000019",
+        "Author": "Spooner, D. E.\rXenopoulos, M. A.\rSchneider, C.\rWoolnough, D. A.",
+        "DOI": "10.1111/j.1365-2486.2010.02372.x",
+        "Date": "Apr",
+        "ISSN": "1354-1013",
+        "Issue": "4",
+        "Journal": "Global Change Biology",
+        "Keywords": "biodiversity; climate change; discharge; extirpation; fish; functional; redundancy; habitat modeling; host-specificity; mussel; simulation; fresh-water; species richness; extinction risk; dreissena-polymorpha; mussel assemblages; aquatic ecosystem; severe drought; coastal-plain; united-states; zebra mussels",
+        "Pages": "1720-1732",
+        "Title": "Coextirpation of host-affiliate relationships in rivers: The role of climate change, water withdrawal, and host-specificity",
+        "Type of Article": "Article",
+        "Volume": "17",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "2913",
+        "_uuid": "9dc780be-c325-40c4-a7ea-4846b7c53b59",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1365-2486.2010.02372.x",
+    "href": "http://data.globalchange.gov/reference/9dc780be-c325-40c4-a7ea-4846b7c53b59.json",
+    "identifier": "9dc780be-c325-40c4-a7ea-4846b7c53b59",
+    "uri": "/reference/9dc780be-c325-40c4-a7ea-4846b7c53b59"
+}

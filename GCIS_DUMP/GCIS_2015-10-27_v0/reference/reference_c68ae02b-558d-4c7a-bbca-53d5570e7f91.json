@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Roth, D.",
+        "Institution": "National Weather Service",
+        "Pages": "80",
+        "Place Published": "Camp Springs, MD",
+        "Title": "Texas Hurricane History",
+        "URL": "http://www.srh.noaa.gov/images/lch/tropical/txhurricanehistory.pdf",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\"]",
+        "_record_number": "2695",
+        "_uuid": "c68ae02b-558d-4c7a-bbca-53d5570e7f91",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/nws-txhurricanehist-2010",
+    "href": "http://data.globalchange.gov/reference/c68ae02b-558d-4c7a-bbca-53d5570e7f91.json",
+    "identifier": "c68ae02b-558d-4c7a-bbca-53d5570e7f91",
+    "uri": "/reference/c68ae02b-558d-4c7a-bbca-53d5570e7f91"
+}

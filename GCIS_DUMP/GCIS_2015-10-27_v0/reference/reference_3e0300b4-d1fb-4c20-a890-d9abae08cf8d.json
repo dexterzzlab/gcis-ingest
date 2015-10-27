@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "NWF,",
+        "Institution": "National Wildlife Federation",
+        "Pages": "4",
+        "Title": "Quick guide to Climate-Smart Conservation",
+        "URL": "http://www.nwf.org/~/media/PDFs/Global-Warming/Climate-Smart-Conservation/Climate-Smart_Conservation_Quick_Guide.pdf",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "4710",
+        "_uuid": "3e0300b4-d1fb-4c20-a890-d9abae08cf8d",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/nwf-quickguide-2013",
+    "href": "http://data.globalchange.gov/reference/3e0300b4-d1fb-4c20-a890-d9abae08cf8d.json",
+    "identifier": "3e0300b4-d1fb-4c20-a890-d9abae08cf8d",
+    "uri": "/reference/3e0300b4-d1fb-4c20-a890-d9abae08cf8d"
+}

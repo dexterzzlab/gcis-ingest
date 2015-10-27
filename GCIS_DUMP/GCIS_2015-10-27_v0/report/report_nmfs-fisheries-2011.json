@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/nmfs-fisheries-2011.json",
+    "identifier": "nmfs-fisheries-2011",
+    "in_library": null,
+    "publication_year": 2012,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Fisheries of the United States 2011",
+    "topic": null,
+    "uri": "/report/nmfs-fisheries-2011",
+    "url": "http://www.st.nmfs.noaa.gov/st1/fus/fus11/FUS_2011.pdf"
+}

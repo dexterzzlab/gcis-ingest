@@ -1,0 +1,12 @@
+{
+    "description": "RADARSAT-2 is a jointly-funded satellite mission of CSA (Canadian Space Agency) and MDA (MacDonald Dettwiler Associates Ltd. of Richmond, BC), representing a Canadian government/industry partnership [or PPP (Public Private Partnership)] in a commercial venture. In Feb. 1998, CSA awarded a contract to MDA to built RADARSAT-2. The contract calls for MDA to develop, own and operate RADARSAT-2 and related infrastructure (including data distribution). CSA provides a fixed financial contribution to MDA (about 75%), in exchange for imagery allocation from the S/C to government agencies. Also, ORBIMAGE, an affiliate of Orbital Sciences Corporation (OSC), Dulles, VA, is a significant participant in this program as the exclusive distributor of RADARSAT-2 imagery to U.S. customers.",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/r/radarsat-2",
+    "end_date": "2015-04-01T00:00:00",
+    "href": "http://data.globalchange.gov/platform/radarsat-2.json",
+    "identifier": "radarsat-2",
+    "name": "RADARSAT-2",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "2007-12-14T00:00:00",
+    "uri": "/platform/radarsat-2",
+    "url": "http://www.asc-csa.gc.ca/eng/satellites/radarsat2/default.asp"
+}

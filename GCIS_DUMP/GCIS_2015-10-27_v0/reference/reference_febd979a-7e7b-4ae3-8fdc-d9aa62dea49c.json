@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".publisher": "Public Library of Science",
+        ".reference_type": "0",
+        "Abstract": "<sec> <title>Background</title> <p>Tidal marshes will be threatened by increasing rates of sea-level rise (SLR) over the next century. Managers seek guidance on whether existing and restored marshes will be resilient under a range of potential future conditions, and on prioritizing marsh restoration and conservation activities.</p> </sec> <sec> <title>Methodology</title> <p>Building upon established models, we developed a hybrid approach that involves a mechanistic treatment of marsh accretion dynamics and incorporates spatial variation at a scale relevant for conservation and restoration decision-making. We applied this model to San Francisco Bay, using best-available elevation data and estimates of sediment supply and organic matter accumulation developed for 15 Bay subregions. Accretion models were run over 100 years for 70 combinations of starting elevation, mineral sediment, organic matter, and SLR assumptions. Results were applied spatially to evaluate eight Bay-wide climate change scenarios.</p> </sec> <sec> <title>Principal Findings</title> <p>Model results indicated that under a high rate of SLR (1.65 m/century), short-term restoration of diked subtidal baylands to mid marsh elevations (\u22120.2 m MHHW) could be achieved over the next century with sediment concentrations greater than 200 mg/L. However, suspended sediment concentrations greater than 300 mg/L would be required for 100-year mid marsh sustainability (i.e., no elevation loss). Organic matter accumulation had minimal impacts on this threshold. Bay-wide projections of marsh habitat area varied substantially, depending primarily on SLR and sediment assumptions. Across all scenarios, however, the model projected a shift in the mix of intertidal habitats, with a loss of high marsh and gains in low marsh and mudflats.</p> </sec> <sec> <title>Conclusions/Significance</title> <p>Results suggest a bleak prognosis for long-term natural tidal marsh sustainability under a high-SLR scenario. To minimize marsh loss, we recommend conserving adjacent uplands for marsh migration, redistributing dredged sediment to raise elevations, and concentrating restoration efforts in sediment-rich areas. To assist land managers, we developed a web-based decision support tool (<ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"http://www.prbo.org/sfbayslr\" xlink:type=\"simple\">www.prbo.org/sfbayslr</ext-link>).</p> </sec>",
+        "Author": "Stralberg, Diana\rBrennan, Matthew\rCallaway, John C.\rWood, Julian K.\rSchile, Lisa M.\rJongsomjit, Dennis\rKelly, Maggi\rParker, V. Thomas\rCrooks, Stephen",
+        "DOI": "10.1371/journal.pone.0027388",
+        "Issue": "11",
+        "Journal": "PLoS ONE",
+        "Pages": "e27388",
+        "Title": "Evaluating tidal marsh sustainability in the face of sea-level rise: A hybrid modeling approach applied to San Francisco Bay",
+        "URL": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0027388&representation=PDF",
+        "Volume": "6",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "3856",
+        "_uuid": "febd979a-7e7b-4ae3-8fdc-d9aa62dea49c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1371/journal.pone.0027388",
+    "href": "http://data.globalchange.gov/reference/febd979a-7e7b-4ae3-8fdc-d9aa62dea49c.json",
+    "identifier": "febd979a-7e7b-4ae3-8fdc-d9aa62dea49c",
+    "uri": "/reference/febd979a-7e7b-4ae3-8fdc-d9aa62dea49c"
+}

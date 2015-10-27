@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Cohen, Marc J.\rTirado, Cristina\rAberman, Noora-Lisa\rThompson, Brian",
+        "Institution": "International Food Policy Research Institute, Food and Agriculture Organization of the United Nations",
+        "Pages": "86",
+        "Title": "Impact of climate change and bioenergy on nutrition",
+        "URL": "ftp://ftp.fao.org/docrep/fao/010/ai799e/ai799e00.pdf",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "878",
+        "_uuid": "0da20a61-8e46-4547-ae2d-18e927ea9224",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/fao-impact-climch-bioenergy-2008",
+    "href": "http://data.globalchange.gov/reference/0da20a61-8e46-4547-ae2d-18e927ea9224.json",
+    "identifier": "0da20a61-8e46-4547-ae2d-18e927ea9224",
+    "uri": "/reference/0da20a61-8e46-4547-ae2d-18e927ea9224"
+}

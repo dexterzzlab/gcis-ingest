@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "Springer Vienna",
+        ".reference_type": "0",
+        "Alternate Journal": "Theor Appl Climatol",
+        "Author": "Balling, Robert C., Jr.\rGoodrich, Gregory B.",
+        "DOI": "10.1007/s00704-010-0353-0",
+        "Date": "2011/06/01",
+        "ISSN": "0177-798X",
+        "Issue": "3-4",
+        "Journal": "Theoretical and Applied Climatology",
+        "Language": "English",
+        "Pages": "415-421",
+        "Title": "Spatial analysis of variations in precipitation intensity in the USA",
+        "Volume": "104",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "3701",
+        "_uuid": "ec044f41-ca74-426c-873f-db2d4faaaf93",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s00704-010-0353-0",
+    "href": "http://data.globalchange.gov/reference/ec044f41-ca74-426c-873f-db2d4faaaf93.json",
+    "identifier": "ec044f41-ca74-426c-873f-db2d4faaaf93",
+    "uri": "/reference/ec044f41-ca74-426c-873f-db2d4faaaf93"
+}

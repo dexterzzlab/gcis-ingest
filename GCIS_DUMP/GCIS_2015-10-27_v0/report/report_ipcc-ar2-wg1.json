@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/ipcc-ar2-wg1.json",
+    "identifier": "ipcc-ar2-wg1",
+    "in_library": null,
+    "publication_year": 1995,
+    "report_type_identifier": "assessment",
+    "summary": null,
+    "title": "The Science of Climate Change. Contribution of Working Group I to the Second Assessment Report of the Intergovernmental Panel on Climate Change. Summary for Policymakers and Technical Summary",
+    "topic": null,
+    "uri": "/report/ipcc-ar2-wg1",
+    "url": "https://www.ipcc.ch/ipccreports/sar/wg_I/ipcc_sar_wg_I_full_report.pdf"
+}

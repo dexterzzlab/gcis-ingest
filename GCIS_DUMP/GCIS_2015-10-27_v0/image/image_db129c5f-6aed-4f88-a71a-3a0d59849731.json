@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-10-21T13:33:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "The maps show the current and projected probability of establishment of tick populations (Ixodes scapularis) that transmit Lyme disease. Projections are shown for 2020, 2050, and 2080. The projected expansion of tick habitat includes much of the eastern half of the country by 2080. For some areas around the Gulf Coast, the probability of tick population establishment is projected to decrease by 2080. (Figure source: adapted from Brownstein et al. 2005<tbib>c50c2ea8-a6e8-4d12-80cc-272598748b84</tbib>).",
+            "chapter_identifier": "human-health",
+            "create_dt": "2013-10-21T13:33:00",
+            "identifier": "projected-changes-in-tick-habitat",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 5,
+            "report_identifier": "nca3",
+            "source_citation": "adapted from Brownstein et al. 2005<tbib>c50c2ea8-a6e8-4d12-80cc-272598748b84</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Projected Changes in Tick Habitat",
+            "url": "http://nca2014.globalchange.gov/highlights/report-findings/human-health/graphics/projected-changes-tick-habitat",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "83/af/b52df06b3b8fc0b9903e354830ca/health_9-5_2080.png",
+            "href": "http://data.globalchange.gov/assets/83/af/b52df06b3b8fc0b9903e354830ca/health_9-5_2080.png",
+            "identifier": "e72b5394-2e84-4ca2-991f-9987668065d6",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "7362a89c7348e14d925f3fc432a2e1737be8b949",
+            "size": 284011,
+            "thumbnail": "83/af/b52df06b3b8fc0b9903e354830ca/.thumb-e72b5394-2e84-4ca2-991f-9987668065d6.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/83/af/b52df06b3b8fc0b9903e354830ca/.thumb-e72b5394-2e84-4ca2-991f-9987668065d6.png",
+            "uri": "/file/e72b5394-2e84-4ca2-991f-9987668065d6",
+            "url": "/assets/83/af/b52df06b3b8fc0b9903e354830ca/health_9-5_2080.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/db129c5f-6aed-4f88-a71a-3a0d59849731.json",
+    "identifier": "db129c5f-6aed-4f88-a71a-3a0d59849731",
+    "lat_max": "49.38",
+    "lat_min": "24.50",
+    "lon_max": "-66.95",
+    "lon_min": "-124.80",
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2080-12-31T23:59:59",
+    "time_start": "2080-01-01T00:00:00",
+    "title": "Changes in Tick Habitat - 2080",
+    "uri": "/image/db129c5f-6aed-4f88-a71a-3a0d59849731",
+    "url": null,
+    "usage_limits": null
+}

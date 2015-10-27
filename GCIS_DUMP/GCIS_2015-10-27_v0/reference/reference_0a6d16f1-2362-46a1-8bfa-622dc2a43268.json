@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        ".publisher": "Springer Netherlands",
+        ".reference_type": "0",
+        "Alternate Journal": "Climatic Change",
+        "Author": "Cochran, Patricia\rHuntington, Orville H.\rPungowiyi, Caleb\rTom, Stanley\rChapin, F. Stuart, III\rHuntington, Henry P.\rMaynard, Nancy G.\rTrainor, Sarah F.",
+        "DOI": "10.1007/s10584-013-0735-2",
+        "Date": "October 2013",
+        "Epub Date": "26 March 2013",
+        "ISSN": "0165-0009",
+        "Issue": "3",
+        "Journal": "Climatic Change",
+        "Language": "English",
+        "Pages": "557-567",
+        "Title": "Indigenous frameworks for observing and responding to climate change in Alaska",
+        "Volume": "120",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"Ch. 12: Indigenous FINAL\",\"Ch. 1: Overview FINAL\",\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "3820",
+        "_uuid": "0a6d16f1-2362-46a1-8bfa-622dc2a43268",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-013-0735-2",
+    "href": "http://data.globalchange.gov/reference/0a6d16f1-2362-46a1-8bfa-622dc2a43268.json",
+    "identifier": "0a6d16f1-2362-46a1-8bfa-622dc2a43268",
+    "uri": "/reference/0a6d16f1-2362-46a1-8bfa-622dc2a43268"
+}

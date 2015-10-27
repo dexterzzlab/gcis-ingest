@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/wsdot-civa-2011.json",
+    "identifier": "wsdot-civa-2011",
+    "in_library": null,
+    "publication_year": 2011,
+    "report_type_identifier": "assessment",
+    "summary": null,
+    "title": "Climate Impacts Vulnerability Assessment",
+    "topic": null,
+    "uri": "/report/wsdot-civa-2011",
+    "url": "http://www.wsdot.wa.gov/NR/rdonlyres/B290651B-24FD-40EC-BEC3-EE5097ED0618/0/WSDOTClimateImpactsVulnerabilityAssessmentforFHWAFinal.pdf"
+}

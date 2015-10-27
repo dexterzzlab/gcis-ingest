@@ -1,0 +1,8 @@
+{
+    "description": "Limb-scanning SW spectrometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/limb-viewing-hyperspectral-imager-vnir.json",
+    "identifier": "limb-viewing-hyperspectral-imager-vnir",
+    "name": "Limb Viewing Hyperspectral Imager VNIR",
+    "uri": "/instrument/limb-viewing-hyperspectral-imager-vnir"
+}

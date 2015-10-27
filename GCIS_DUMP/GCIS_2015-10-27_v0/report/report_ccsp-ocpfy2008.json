@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2008.json",
+    "identifier": "ccsp-ocpfy2008",
+    "in_library": 1,
+    "publication_year": 2007,
+    "report_type_identifier": "report",
+    "summary": "A report by the Climate Change Science Program and the Subcommittee on Global Change Research. A supplement to the President's Fiscal Year 2008 Budget. Published 2007.",
+    "title": "Our Changing Planet: The U.S. Climate Change Science Program for Fiscal Year 2008",
+    "topic": null,
+    "uri": "/report/ccsp-ocpfy2008",
+    "url": null
+}

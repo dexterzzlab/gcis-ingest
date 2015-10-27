@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Lombard, F.\rde Roacha, R. E.\rBijma, J.\rGattuso, J.-P.",
+        "DOI": "10.5194/bg-7-247-2010",
+        "Journal": "Biogeosciences",
+        "Pages": "247-255",
+        "Title": "Effect of carbonate ion concentration and irradiance on calcification in planktonic foraminifera",
+        "URL": "http://epic.awi.de/21680/1/Lom2010a.pdf",
+        "Volume": "7",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "576",
+        "_uuid": "f53f8c01-62a4-49e4-8157-903ca4cfad4b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.5194/bg-7-247-2010,%202010",
+    "href": "http://data.globalchange.gov/reference/f53f8c01-62a4-49e4-8157-903ca4cfad4b.json",
+    "identifier": "f53f8c01-62a4-49e4-8157-903ca4cfad4b",
+    "uri": "/reference/f53f8c01-62a4-49e4-8157-903ca4cfad4b"
+}

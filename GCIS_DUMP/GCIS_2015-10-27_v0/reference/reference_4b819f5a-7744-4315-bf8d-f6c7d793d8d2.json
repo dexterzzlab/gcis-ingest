@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Logan, J. A.\rW. W. Macfarlane\rL. Willcox",
+        "DOI": "10.1890/09-0655.1",
+        "Issue": "4",
+        "Journal": "Ecological Application",
+        "Label": "IN; ",
+        "Pages": "895-902",
+        "Title": "Whitebark pine vulnerability to climate change induced mountain pine beetle disturbance in the Greater Yellowstone Ecosystem",
+        "URL": "http://www.esajournals.org/doi/pdf/10.1890/09-0655.1",
+        "Volume": "20",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "1810",
+        "_uuid": "4b819f5a-7744-4315-bf8d-f6c7d793d8d2",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/09-0655.1",
+    "href": "http://data.globalchange.gov/reference/4b819f5a-7744-4315-bf8d-f6c7d793d8d2.json",
+    "identifier": "4b819f5a-7744-4315-bf8d-f6c7d793d8d2",
+    "uri": "/reference/4b819f5a-7744-4315-bf8d-f6c7d793d8d2"
+}

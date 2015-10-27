@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "NRC,",
+        "Number of Pages": "352",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "National Research Council. The National Academies Press ",
+        "Reviewer": "cc5a2c8a-9a3d-4d25-8ec7-012a33c89fef",
+        "Title": "Beach Nourishment and Protection. National Research Council, Marine Board, Committee on Beach Nourishment and Protection",
+        "URL": "http://www.nap.edu/catalog.php?record_id=4984",
+        "Year": "1995",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "2280",
+        "_uuid": "cc5a2c8a-9a3d-4d25-8ec7-012a33c89fef",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/nrc-beachnourishment-1995",
+    "href": "http://data.globalchange.gov/reference/cc5a2c8a-9a3d-4d25-8ec7-012a33c89fef.json",
+    "identifier": "cc5a2c8a-9a3d-4d25-8ec7-012a33c89fef",
+    "uri": "/reference/cc5a2c8a-9a3d-4d25-8ec7-012a33c89fef"
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "9",
+        "Editor": "Griffis, R. \rHoward, J.",
+        "ISBN": "9781610914345",
+        "Number of Pages": "288",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "Island Press",
+        "Title": "Oceans and Marine Resources in a Changing Climate: Technical Input to the 2013 National Climate Assessment.",
+        "URL": "http://cakex.org/virtual-library/oceans-and-marine-resources-changing-climate-technical-input-2013-national-climate-a",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\"]",
+        "_record_number": "3861",
+        "_uuid": "018aba6e-7bff-4124-ae9a-f2521e683bd1",
+        "reftype": "Edited Book"
+    },
+    "child_publication": "/report/usgcrp-ti-oceans-marine-2013",
+    "href": "http://data.globalchange.gov/reference/018aba6e-7bff-4124-ae9a-f2521e683bd1.json",
+    "identifier": "018aba6e-7bff-4124-ae9a-f2521e683bd1",
+    "uri": "/reference/018aba6e-7bff-4124-ae9a-f2521e683bd1"
+}

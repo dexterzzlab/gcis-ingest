@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/ceres-availability-2005.json",
+    "identifier": "ceres-availability-2005",
+    "in_library": null,
+    "publication_year": 2005,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Availability and Affordability of Insurance Under Climate Change: A Growing Challenge for the U.S.",
+    "topic": null,
+    "uri": "/report/ceres-availability-2005",
+    "url": "http://energy.lbl.gov/ea/mills/EMills/PUBS/PDF/ceres-insur_report.pdf"
+}

@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/usgcrp-frameworksnca-2014.json",
+    "identifier": "usgcrp-frameworksnca-2014",
+    "in_library": 1,
+    "publication_year": 2014,
+    "report_type_identifier": "workshop_report",
+    "summary": null,
+    "title": "Frameworks for Evaluating the National Climate Assessment: Workshop Report",
+    "topic": null,
+    "uri": "/report/usgcrp-frameworksnca-2014",
+    "url": "http://downloads.globalchange.gov/nca/workshop-reports/NCA-Evaluation-Frameworks-Workshop-Report-2014-final.pdf"
+}

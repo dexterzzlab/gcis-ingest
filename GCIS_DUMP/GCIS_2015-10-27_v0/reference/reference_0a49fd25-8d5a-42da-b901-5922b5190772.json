@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Hallegatte, St\u00e9phane\rAnkur Shah\rRobert Lempert\rCasey Brown\rStuart Gill",
+        "DOI": "10.1596/1813-9450-6193",
+        "Report Number": "1813-9450",
+        "Series Title": "The World Bank Policy Research Working Paper",
+        "Title": "Investment Decision Making Under Deep Uncertainty: Application to Climate Change",
+        "URL": "http://elibrary.worldbank.org/content/workingpaper/10.1596/1813-9450-6193",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4053",
+        "_uuid": "0a49fd25-8d5a-42da-b901-5922b5190772",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/worldbank-investment-2012",
+    "href": "http://data.globalchange.gov/reference/0a49fd25-8d5a-42da-b901-5922b5190772.json",
+    "identifier": "0a49fd25-8d5a-42da-b901-5922b5190772",
+    "uri": "/reference/0a49fd25-8d5a-42da-b901-5922b5190772"
+}

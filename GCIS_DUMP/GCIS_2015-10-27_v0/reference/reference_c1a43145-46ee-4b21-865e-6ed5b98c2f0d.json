@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"42\" /><run start=\"43\" /><run face=\"subscript\" start=\"56\" /><run start=\"57\" /></field></record>",
+        "Author": "Ziska, L.H.",
+        "DOI": "10.1614/0043-1745(2001)049[0622:CICABA]2.0.CO;2",
+        "Issue": "5",
+        "Journal": "Weed Science",
+        "Pages": "622-627",
+        "Title": "Changes in competitive ability between a C4 crop and a C3 weed with elevated carbon dioxide",
+        "URL": "http://www.bioone.org/doi/pdf/10.1614/0043-1745%282001%29049%5B0622%3ACICABA%5D2.0.CO%3B2",
+        "Volume": "49",
+        "Year": "2001",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "3550",
+        "_uuid": "c1a43145-46ee-4b21-865e-6ed5b98c2f0d",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1614/0043-1745(2001)049%5B0622:CICABA%5D2.0.CO;2",
+    "href": "http://data.globalchange.gov/reference/c1a43145-46ee-4b21-865e-6ed5b98c2f0d.json",
+    "identifier": "c1a43145-46ee-4b21-865e-6ed5b98c2f0d",
+    "uri": "/reference/c1a43145-46ee-4b21-865e-6ed5b98c2f0d"
+}

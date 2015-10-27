@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "In examining intense precipitation over the central United States, the authors consider only days with precipitation when the daily total is above 12.7 mm and focus only on these days and multiday events constructed from such consecutive precipitation days. Analyses show that over the central United States, a statistically significant redistribution in the spectra of intense precipitation days/events during the past decades has occurred. Moderately heavy precipitation events (within a 12.7\u201325.4 mm day\u22121 range) became less frequent compared to days and events with precipitation totals above 25.4 mm. During the past 31 yr (compared to the 1948\u201378 period), significant increases occurred in the frequency of \u201cvery heavy\u201d (the daily rain events above 76.2 mm) and extreme precipitation events (defined as daily and multiday rain events with totals above 154.9 mm or 6 in.), with up to 40% increases in the frequency of days and multiday extreme rain events. Tropical cyclones associated with extreme precipitation do not significantly contribute to the changes reported in this study. With time, the internal precipitation structure (e.g., mean and maximum hourly precipitation rates within each preselected range of daily or multiday event totals) did not noticeably change. Several possible causes of observed changes in intense precipitation over the central United States are discussed and/or tested.",
+        "Author": "Groisman, P.Y.\rKnight, R.W.\rKarl, T.R.",
+        "DOI": "10.1175/JHM-D-11-039.1",
+        "ISSN": "1525-755X",
+        "Journal": "Journal of Hydrometeorology",
+        "Keywords": "North America, ; Hydrologic cycle, ; Extreme events, ; Precipitation, ; In situ observations",
+        "Pages": "47-66",
+        "Title": "Changes in intense precipitation over the central United States",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/JHM-D-11-039.1",
+        "Volume": "13",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"Ch. 3: Water Resources FINAL\",\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "211",
+        "_uuid": "5d909426-fab3-4dc8-af56-e5fe414ca97a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/JHM-D-11-039.1",
+    "href": "http://data.globalchange.gov/reference/5d909426-fab3-4dc8-af56-e5fe414ca97a.json",
+    "identifier": "5d909426-fab3-4dc8-af56-e5fe414ca97a",
+    "uri": "/reference/5d909426-fab3-4dc8-af56-e5fe414ca97a"
+}

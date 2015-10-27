@@ -1,0 +1,8 @@
+{
+    "description": "GNSS receiver",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/satellite-to-satellite-tracking-instrument.json",
+    "identifier": "satellite-to-satellite-tracking-instrument",
+    "name": "Satellite-to-Satellite Tracking Instrument",
+    "uri": "/instrument/satellite-to-satellite-tracking-instrument"
+}

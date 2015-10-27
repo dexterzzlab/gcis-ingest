@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Kofinas, G. P.\rChapin, F. S., III\rBurnSilver, S.\rSchmidt, J. I.\rFresco, N. L.\rKielland, K.\rMartin, S.\rSpringsteen, A.\rRupp, T. S.",
+        "DOI": "10.1139/X10-108",
+        "ISSN": "0045-5067",
+        "Issue": "7",
+        "Journal": "Canadian Journal of Forest Research",
+        "Keywords": "Athabascan; Climate change; native; Rural; Tribal",
+        "Pages": "1347-1359",
+        "Title": "Resilience of Athabascan subsistence systems to interior Alaska's changing climate",
+        "URL": "http://www.nrcresearchpress.com/doi/pdf/10.1139/X10-108",
+        "Volume": "40",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "1437",
+        "_uuid": "6d7cc16a-7168-46d1-b22b-75244d6bc079",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1139/X10-108",
+    "href": "http://data.globalchange.gov/reference/6d7cc16a-7168-46d1-b22b-75244d6bc079.json",
+    "identifier": "6d7cc16a-7168-46d1-b22b-75244d6bc079",
+    "uri": "/reference/6d7cc16a-7168-46d1-b22b-75244d6bc079"
+}

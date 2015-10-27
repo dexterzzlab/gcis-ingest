@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Vrac, M.\rStein, M.L.\rHayhoe, K.\rLiang, X.Z.",
+        "DOI": "10.1029/2007GL030295",
+        "ISSN": "0094-8276",
+        "Issue": "18",
+        "Journal": "Geophysical Research Letters",
+        "Pages": "L18701",
+        "Title": "A general method for validating statistical downscaling methods under future climate change",
+        "Volume": "34",
+        "Year": "2007",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "3311",
+        "_uuid": "e36170cd-72ef-43fb-9b65-949a72a17436",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2007GL030295",
+    "href": "http://data.globalchange.gov/reference/e36170cd-72ef-43fb-9b65-949a72a17436.json",
+    "identifier": "e36170cd-72ef-43fb-9b65-949a72a17436",
+    "uri": "/reference/e36170cd-72ef-43fb-9b65-949a72a17436"
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "3",
+        "Author": "Squires, M.F.\rLawrimore, JH\rHeim, R.R.\rRobinson, D.A.\rGerbush, M.\rEstilow, T.\rTabor, C.\rWilson, A.",
+        "Conference Location": "San Francisco, CA",
+        "Conference Name": "American Geophysical Union, Fall Meeting 2009",
+        "Date": "December 14-18, 2009",
+        "Keywords": "Atmospheric Composition and structure; cryosphere; informatics; GIS Science; Snow",
+        "Title": "Development of new snowstorm indices and databases at the National Climatic Data Center",
+        "URL": "http://adsabs.harvard.edu/abs/2009AGUFMIN13A1076S",
+        "Year of Conference": "2009",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "2916",
+        "_uuid": "104b2c2b-6ff6-4f34-9c1e-e1c722f1187b",
+        "reftype": "Conference Proceedings"
+    },
+    "child_publication": "/generic/988c3152-7bd2-45d1-8aaa-fbddc02277bc",
+    "href": "http://data.globalchange.gov/reference/104b2c2b-6ff6-4f34-9c1e-e1c722f1187b.json",
+    "identifier": "104b2c2b-6ff6-4f34-9c1e-e1c722f1187b",
+    "uri": "/reference/104b2c2b-6ff6-4f34-9c1e-e1c722f1187b"
+}

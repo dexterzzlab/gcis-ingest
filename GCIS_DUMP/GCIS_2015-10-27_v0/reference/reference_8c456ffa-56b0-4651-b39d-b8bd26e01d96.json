@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Lobell, D.B.\rField, C.B.\rCahill, K.N.\rBonfils, C.",
+        "DOI": "10.1016/j.agrformet.2006.10.006",
+        "ISSN": "0168-1923",
+        "Issue": "2",
+        "Journal": "Agricultural and Forest Meteorology",
+        "Pages": "208-218",
+        "Title": "Impacts of future climate change on California perennial crop yields: Model projections with climate and crop uncertainties",
+        "Volume": "141",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"Ch. 13: Land Use and Land Cover Change FINAL\",\"RG 5 Southwest\"]",
+        "_record_number": "914",
+        "_uuid": "8c456ffa-56b0-4651-b39d-b8bd26e01d96",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.agrformet.2006.10.006",
+    "href": "http://data.globalchange.gov/reference/8c456ffa-56b0-4651-b39d-b8bd26e01d96.json",
+    "identifier": "8c456ffa-56b0-4651-b39d-b8bd26e01d96",
+    "uri": "/reference/8c456ffa-56b0-4651-b39d-b8bd26e01d96"
+}

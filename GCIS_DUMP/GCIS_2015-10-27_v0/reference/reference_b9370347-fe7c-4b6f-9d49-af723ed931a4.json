@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Reid, C.E.\rGamble, J.L.",
+        "DOI": "10.1007/s10393-009-0261-x",
+        "ISSN": "1612-9202",
+        "Issue": "3",
+        "Journal": "EcoHealth",
+        "Pages": "458-470",
+        "Title": "Aeroallergens, allergic disease, and climate change: Impacts and adaptation",
+        "URL": "http://link.springer.com/content/pdf/10.1007%2Fs10393-009-0261-x ",
+        "Volume": "6",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "2611",
+        "_uuid": "b9370347-fe7c-4b6f-9d49-af723ed931a4",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10393-009-0261-x",
+    "href": "http://data.globalchange.gov/reference/b9370347-fe7c-4b6f-9d49-af723ed931a4.json",
+    "identifier": "b9370347-fe7c-4b6f-9d49-af723ed931a4",
+    "uri": "/reference/b9370347-fe7c-4b6f-9d49-af723ed931a4"
+}

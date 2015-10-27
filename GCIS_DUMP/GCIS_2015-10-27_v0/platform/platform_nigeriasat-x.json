@@ -1,0 +1,12 @@
+{
+    "description": "NASRDA (National Space Research & Development Agency) of Abuja, Nigeria has continued its association with SSTL, with two parallel projects - the and NigeriaSat-2. Like NigeriaSat-1, NX is based on the SSTL-100, but is being developed by a team of 26 Nigerian trainee engineers at SSTL's facilities in England. The Nigerian engineers will completely manage the total lifecycle of the NX and will be responsible for the delivery of the satellite to full flight specification.",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/n/nigeriasat-x",
+    "end_date": "2018-08-01T00:00:00",
+    "href": "http://data.globalchange.gov/platform/nigeriasat-x.json",
+    "identifier": "nigeriasat-x",
+    "name": "NigeriaSat-X",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "2011-08-17T00:00:00",
+    "uri": "/platform/nigeriasat-x",
+    "url": "http://www.nasrda.net"
+}

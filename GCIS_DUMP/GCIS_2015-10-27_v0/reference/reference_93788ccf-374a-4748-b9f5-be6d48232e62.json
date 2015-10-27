@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Knight, D.B.\rDavis, R.E.",
+        "DOI": "10.1029/2009JD012511",
+        "ISSN": "0148-0227",
+        "Issue": "D23",
+        "Journal": "Journal of Geophysical Research",
+        "Pages": "D23102",
+        "Title": "Contribution of tropical cyclones to extreme rainfall events in the southeastern United States",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2009JD012511/pdf",
+        "Volume": "114",
+        "Year": "2009",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "462",
+        "_uuid": "93788ccf-374a-4748-b9f5-be6d48232e62",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2009JD012511",
+    "href": "http://data.globalchange.gov/reference/93788ccf-374a-4748-b9f5-be6d48232e62.json",
+    "identifier": "93788ccf-374a-4748-b9f5-be6d48232e62",
+    "uri": "/reference/93788ccf-374a-4748-b9f5-be6d48232e62"
+}

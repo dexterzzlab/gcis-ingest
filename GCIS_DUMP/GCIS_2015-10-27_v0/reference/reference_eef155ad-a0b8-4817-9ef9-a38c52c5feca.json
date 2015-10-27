@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Burkett, V.R.",
+        "Book Title": "Sudden and Disruptive Climate Change: Exploring the Real Risks and How We Can Avoid Them",
+        "Editor": "MacCracken, M.C.\rMoore, F.\rTopping, J.C., Jr.",
+        "ISBN": "9781844074778",
+        "Pages": "101-118",
+        "Place Published": "London, UK and Sterling, VA",
+        "Publisher": "Earthscan Publications",
+        "Reviewer": "eef155ad-a0b8-4817-9ef9-a38c52c5feca",
+        "Title": "Ch. 8: The northern Gulf of Mexico coast: Human development patterns, declining ecosystems, and escalating vulnerability to storms and sea level rise",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "1189",
+        "_uuid": "eef155ad-a0b8-4817-9ef9-a38c52c5feca",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/0e6d600c-a99d-41b9-856a-0509c24111d6",
+    "href": "http://data.globalchange.gov/reference/eef155ad-a0b8-4817-9ef9-a38c52c5feca.json",
+    "identifier": "eef155ad-a0b8-4817-9ef9-a38c52c5feca",
+    "uri": "/reference/eef155ad-a0b8-4817-9ef9-a38c52c5feca"
+}

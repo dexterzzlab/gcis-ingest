@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Mass, C.\rSkalenakis, A.\rWarner, M.",
+        "DOI": "10.1175/2010JHM1341.1",
+        "ISSN": "1525-7541",
+        "Journal": "Journal of Hydrometeorology",
+        "Pages": "310-318",
+        "Title": "Extreme precipitation over the west coast of North America: Is there a trend?",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/2010JHM1341.1",
+        "Volume": "12",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "1901",
+        "_uuid": "49d8bcd1-1adb-4617-b2db-f7fa9c5987d2",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/2010JHM1341.1",
+    "href": "http://data.globalchange.gov/reference/49d8bcd1-1adb-4617-b2db-f7fa9c5987d2.json",
+    "identifier": "49d8bcd1-1adb-4617-b2db-f7fa9c5987d2",
+    "uri": "/reference/49d8bcd1-1adb-4617-b2db-f7fa9c5987d2"
+}

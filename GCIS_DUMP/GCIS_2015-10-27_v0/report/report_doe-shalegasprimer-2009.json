@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/doe-shalegasprimer-2009.json",
+    "identifier": "doe-shalegasprimer-2009",
+    "in_library": null,
+    "publication_year": 2009,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Modern Shale Gas Development in the United States: A Primer",
+    "topic": null,
+    "uri": "/report/doe-shalegasprimer-2009",
+    "url": "http://energy.gov/sites/prod/files/2013/03/f0/ShaleGasPrimer_Online_4-2009.pdf"
+}

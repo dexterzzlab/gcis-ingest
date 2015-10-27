@@ -1,0 +1,8 @@
+{
+    "description": "Radar scatterometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/active-microwave-instrumentation-wind-mode.json",
+    "identifier": "active-microwave-instrumentation-wind-mode",
+    "name": "Active Microwave Instrumentation. Wind mode",
+    "uri": "/instrument/active-microwave-instrumentation-wind-mode"
+}

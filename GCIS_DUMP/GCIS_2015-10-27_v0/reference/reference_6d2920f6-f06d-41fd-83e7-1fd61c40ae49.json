@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Recently documented trends in the existing records of hurricane intensity and their relationship to increasing sea surface temperatures suggest that hurricane intensity may be increasing due to global warming. However, it is presently being argued that the existing global hurricane records are too inconsistent to accurately measure trends. As a first step in addressing this debate, we constructed a more homogeneous global record of hurricane intensity and found that previously documented trends in some ocean basins are well supported, but in others the existing records contain trends that may be inflated or spurious.",
+        "Accession Number": "125",
+        "Author": "Kossin, J.P.\rK.R. Knapp\rD.J. Vimont\rR.J. Murnane\rB.A. Harper",
+        "Author Address": "Kossin, JP (reprint author), Univ Wisconsin, Cooperat Inst Meteorol Satellite Studies, Madison, WI 53706 USA; Univ Wisconsin, Cooperat Inst Meteorol Satellite Studies, Madison, WI 53706 USA; NOAA, Natl Climat Data Ctr, Asheville, NC 28801 USA; Univ Wisconsin, Dept Atmospher & Ocean Sci, Madison, WI 53706 USA; Bermuda Inst Ocean Sci, Risk Predict Initiat, Garrett Pk, MD 20896 USA; Syst Engn Australia Pty Ltd, Bridgeman Downs, Qld 4035, Australia",
+        "DOI": "10.1029/2006GL028836",
+        "Date": "FEB 28 2007",
+        "ISSN": "1944-8007",
+        "Issue": "4",
+        "Journal": "Geophysical Research Letters",
+        "Keywords": "TROPICAL CYCLONES; INTENSITY; INCREASE",
+        "Language": "English",
+        "Pages": "L04815",
+        "Title": "A globally consistent reanalysis of hurricane variability and trends",
+        "URL": "http://www.agu.org/pubs/crossref/2007/2006GL028836.shtml",
+        "Volume": "34",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "795",
+        "_uuid": "6d2920f6-f06d-41fd-83e7-1fd61c40ae49",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2006GL028836",
+    "href": "http://data.globalchange.gov/reference/6d2920f6-f06d-41fd-83e7-1fd61c40ae49.json",
+    "identifier": "6d2920f6-f06d-41fd-83e7-1fd61c40ae49",
+    "uri": "/reference/6d2920f6-f06d-41fd-83e7-1fd61c40ae49"
+}

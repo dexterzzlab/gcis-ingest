@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Rode, Karyn D.\rAmstrup, Steven C.\rRegehr, Eric V.",
+        "DOI": "10.1890/08-1036.1",
+        "ISSN": "1051-0761",
+        "Issue": "3",
+        "Journal": "Ecological Applications",
+        "Pages": "768-782",
+        "Title": "Reduced body size and cub recruitment in polar bears associated with sea ice decline",
+        "Volume": "20",
+        "Year": "2010",
+        "_chapter": "[\"RF 10\",\"Ch. 8: Ecosystems FINAL\",\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "2655",
+        "_uuid": "5781be6e-3f37-4b18-9230-957fb4c7bfd2",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/08-1036.1",
+    "href": "http://data.globalchange.gov/reference/5781be6e-3f37-4b18-9230-957fb4c7bfd2.json",
+    "identifier": "5781be6e-3f37-4b18-9230-957fb4c7bfd2",
+    "uri": "/reference/5781be6e-3f37-4b18-9230-957fb4c7bfd2"
+}

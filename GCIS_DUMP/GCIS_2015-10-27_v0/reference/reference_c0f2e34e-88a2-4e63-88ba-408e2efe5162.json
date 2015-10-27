@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Huang, Ling-Ya\rWang, Yu-Chun\rLiu, Chung-Ming\rWu, Trong-Neng\rChou, Chang-Hung\rSung, Fung-Chang\rWu, Chin-Ching",
+        "DOI": "10.1186/1471-2458-11-726",
+        "ISSN": "1471-2458",
+        "Issue": "1",
+        "Journal": "BMC Public Health",
+        "Pages": "726",
+        "Title": "Water outage increases the risk of gastroenteritis and eyes and skin diseases",
+        "URL": "http://www.biomedcentral.com/content/pdf/1471-2458-11-726.pdf",
+        "Volume": "11",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "3600",
+        "_uuid": "c0f2e34e-88a2-4e63-88ba-408e2efe5162",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1186/1471-2458-11-726",
+    "href": "http://data.globalchange.gov/reference/c0f2e34e-88a2-4e63-88ba-408e2efe5162.json",
+    "identifier": "c0f2e34e-88a2-4e63-88ba-408e2efe5162",
+    "uri": "/reference/c0f2e34e-88a2-4e63-88ba-408e2efe5162"
+}

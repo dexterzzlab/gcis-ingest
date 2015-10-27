@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "Kluwer Academic Publishers",
+        ".reference_type": "0",
+        "Alternate Journal": "Climatic Change",
+        "Author": "Weber, Elke U.",
+        "DOI": "10.1007/s10584-006-9060-3",
+        "Date": "2006/07/01",
+        "ISSN": "0165-0009",
+        "Issue": "1-2",
+        "Journal": "Climatic Change",
+        "Language": "English",
+        "Pages": "103-120",
+        "Title": "Experience-based and description-based perceptions of long-term risk: Why global warming does not scare us (yet)",
+        "Volume": "77",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4055",
+        "_uuid": "63c55f87-6814-43dc-bf5d-3b2ffc82ca81",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-006-9060-3",
+    "href": "http://data.globalchange.gov/reference/63c55f87-6814-43dc-bf5d-3b2ffc82ca81.json",
+    "identifier": "63c55f87-6814-43dc-bf5d-3b2ffc82ca81",
+    "uri": "/reference/63c55f87-6814-43dc-bf5d-3b2ffc82ca81"
+}

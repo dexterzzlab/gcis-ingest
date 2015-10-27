@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Nelson, J. L.\rZavaleta, E. S.\rChapin, F. S., III",
+        "DOI": "10.1007/s10021-007-9114-z",
+        "ISSN": "1432-9840, 1435-0629",
+        "Issue": "1",
+        "Journal": "Ecosystems",
+        "Keywords": "fire regime",
+        "Pages": "156-171",
+        "Title": "Boreal fire effects on subsistence resources in Alaska and adjacent Canada",
+        "Volume": "11",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "2196",
+        "_uuid": "2258ba1e-80ff-49a5-bac7-2274d31a508d",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10021-007-9114-z",
+    "href": "http://data.globalchange.gov/reference/2258ba1e-80ff-49a5-bac7-2274d31a508d.json",
+    "identifier": "2258ba1e-80ff-49a5-bac7-2274d31a508d",
+    "uri": "/reference/2258ba1e-80ff-49a5-bac7-2274d31a508d"
+}

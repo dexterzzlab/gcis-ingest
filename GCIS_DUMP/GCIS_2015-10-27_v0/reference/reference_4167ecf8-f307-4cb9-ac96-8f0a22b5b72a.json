@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Solecki, W.\rL. Tryhorn\rA. DeGaetano\rD. Major",
+        "Book Title": "Responding to Climate Change in New York State: The ClimAID Integrated Assessment for Effective Climate Change Adaptation in New York State",
+        "Editor": "C. Rosenzweig\rW. Solecki\rA. DeGaetano\rM. O'Grady\rS. Hassol\rP. Grabhorn",
+        "ISBN": "978-1-936842-00-1",
+        "Pages": "50-62",
+        "Place Published": "New York, New York",
+        "Publisher": "Blackwell Publishing",
+        "Reviewer": "4167ecf8-f307-4cb9-ac96-8f0a22b5b72a",
+        "Series Title": "Annals of the New York Academy of Sciences",
+        "Title": "Ch. 2: Vulnerability and adaptation",
+        "URL": "http://www.nyserda.ny.gov/-/media/Files/Publications/Research/Environmental/EMEP/climaid/11-18-response-to-climate-change-in-nys-chapter2.ashx",
+        "Volume": "1244",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "2896",
+        "_uuid": "4167ecf8-f307-4cb9-ac96-8f0a22b5b72a",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/nyserda-report-11-18",
+    "href": "http://data.globalchange.gov/reference/4167ecf8-f307-4cb9-ac96-8f0a22b5b72a.json",
+    "identifier": "4167ecf8-f307-4cb9-ac96-8f0a22b5b72a",
+    "uri": "/reference/4167ecf8-f307-4cb9-ac96-8f0a22b5b72a"
+}

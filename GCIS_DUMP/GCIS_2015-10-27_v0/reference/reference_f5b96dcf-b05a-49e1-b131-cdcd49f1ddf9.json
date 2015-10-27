@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"14\" /><run start=\"15\" /></field></record>",
+        "Author": "Monnin, E.\rInderm\u00fchle, A.\rD\u00e4llenbach, A.\rFl\u00fcckiger, J.\rStauffer, B.\rStocker, T.F.\rRaynaud, D.\rBarnola, J.M.",
+        "DOI": "10.1126/science.291.5501.112",
+        "ISSN": "0036-8075",
+        "Issue": "5501",
+        "Journal": "Science",
+        "Pages": "112-114",
+        "Title": "Atmospheric CO2 concentrations over the last glacial termination",
+        "Volume": "291",
+        "Year": "2001",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "2070",
+        "_uuid": "f5b96dcf-b05a-49e1-b131-cdcd49f1ddf9",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.291.5501.112",
+    "href": "http://data.globalchange.gov/reference/f5b96dcf-b05a-49e1-b131-cdcd49f1ddf9.json",
+    "identifier": "f5b96dcf-b05a-49e1-b131-cdcd49f1ddf9",
+    "uri": "/reference/f5b96dcf-b05a-49e1-b131-cdcd49f1ddf9"
+}

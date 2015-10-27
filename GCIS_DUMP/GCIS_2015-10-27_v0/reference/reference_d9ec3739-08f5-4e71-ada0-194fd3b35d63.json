@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Diaz, R.J.\rRosenberg, R.",
+        "DOI": "10.1126/science.1156401",
+        "ISSN": "0036-8075",
+        "Issue": "5891",
+        "Journal": "Science",
+        "Pages": "926-929",
+        "Title": "Spreading dead zones and consequences for marine ecosystems",
+        "Volume": "321",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "1582",
+        "_uuid": "d9ec3739-08f5-4e71-ada0-194fd3b35d63",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1156401",
+    "href": "http://data.globalchange.gov/reference/d9ec3739-08f5-4e71-ada0-194fd3b35d63.json",
+    "identifier": "d9ec3739-08f5-4e71-ada0-194fd3b35d63",
+    "uri": "/reference/d9ec3739-08f5-4e71-ada0-194fd3b35d63"
+}

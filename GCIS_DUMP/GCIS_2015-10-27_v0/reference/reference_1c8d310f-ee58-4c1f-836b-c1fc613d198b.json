@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "EPA,",
+        "Book Title": "Inventory of US Greenhouse Gas Emissions and Sinks: 1990-2011. EPA 430-R-13-001",
+        "Pages": "A-254 - A-303",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "U.S. Environmental Protection Agency",
+        "Reviewer": "1c8d310f-ee58-4c1f-836b-c1fc613d198b",
+        "Title": "Annex 3.12. Methodology for estimating net carbon stock changes in forest land remaining forest lands.",
+        "URL": "http://www.epa.gov/climatechange/Downloads/ghgemissions/US-GHG-Inventory-2011-Annex_Complete_Report.pdf",
+        "Year": "2013",
+        "_chapter": "[\"RF 10\",\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "4155",
+        "_uuid": "1c8d310f-ee58-4c1f-836b-c1fc613d198b",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/epa-greenhousegasinventory-1990-2011",
+    "href": "http://data.globalchange.gov/reference/1c8d310f-ee58-4c1f-836b-c1fc613d198b.json",
+    "identifier": "1c8d310f-ee58-4c1f-836b-c1fc613d198b",
+    "uri": "/reference/1c8d310f-ee58-4c1f-836b-c1fc613d198b"
+}

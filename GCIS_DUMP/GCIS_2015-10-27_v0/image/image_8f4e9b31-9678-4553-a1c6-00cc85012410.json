@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-14T13:41:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "The U.S. Pacific Islands region includes our 50th state, Hawai\u2018i, as well as the Territories of Guam, American Samoa, the Commonwealth of the Northern Mariana Islands (CNMI), the Republic of Palau (RP), the Federated States of Micronesia (FSM), and the Republic of the Marshall Islands (RMI). Citizens of Guam and CNMI are U.S. citizens, and citizens of American Samoa are U.S. nationals. Through the Compacts of Free Association, citizens of RP, FSM, and RMI have the right to travel to the U.S. without visas to maintain \u201chabitual residence\u201d and to pursue education and employment. The map shows three sub-regions used in this assessment and the islands that comprise the Pacific Remote Islands National Monument. Shaded areas indicate each island\u2019s Exclusive Economic Zone (EEZ) (Figure source: Keener et al. 2012<tbib>7350d7b3-6e95-4375-ba23-26756b441fc2</tbib>).",
+            "chapter_identifier": "hawaii",
+            "create_dt": "2013-11-14T13:41:00",
+            "identifier": "us-pacific-islands-region",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 1,
+            "report_identifier": "nca3",
+            "source_citation": "Keener et al. 2012<tbib>7350d7b3-6e95-4375-ba23-26756b441fc2</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "U.S. Pacific Islands Region",
+            "url": "http://nca2014.globalchange.gov/report/regions/hawaii-and-pacific-islands/graphics/us-pacific-islands-region",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "dd/42/6ac18fa1a7d230c45d9a44cabde3/hi_region_map_v2.png",
+            "href": "http://data.globalchange.gov/assets/dd/42/6ac18fa1a7d230c45d9a44cabde3/hi_region_map_v2.png",
+            "identifier": "3c25fcb7-7f44-470c-92b6-a5333f78cd71",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "dcce5b273fbf91f47d94813d4b0266e0a06355e5",
+            "size": 128143,
+            "thumbnail": "dd/42/6ac18fa1a7d230c45d9a44cabde3/.thumb-3c25fcb7-7f44-470c-92b6-a5333f78cd71.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/dd/42/6ac18fa1a7d230c45d9a44cabde3/.thumb-3c25fcb7-7f44-470c-92b6-a5333f78cd71.png",
+            "uri": "/file/3c25fcb7-7f44-470c-92b6-a5333f78cd71",
+            "url": "/assets/dd/42/6ac18fa1a7d230c45d9a44cabde3/hi_region_map_v2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/8f4e9b31-9678-4553-a1c6-00cc85012410.json",
+    "identifier": "8f4e9b31-9678-4553-a1c6-00cc85012410",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "U.S. Pacific Islands Region",
+    "uri": "/image/8f4e9b31-9678-4553-a1c6-00cc85012410",
+    "url": null,
+    "usage_limits": null
+}

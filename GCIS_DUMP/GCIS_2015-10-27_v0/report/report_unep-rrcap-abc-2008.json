@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/unep-rrcap-abc-2008.json",
+    "identifier": "unep-rrcap-abc-2008",
+    "in_library": null,
+    "publication_year": 2008,
+    "report_type_identifier": "assessment",
+    "summary": null,
+    "title": "Atmospheric Brown Clouds: Regional Assessment Report with Focus on Asia",
+    "topic": null,
+    "uri": "/report/unep-rrcap-abc-2008",
+    "url": "http://www.rrcap.ait.asia/abc/impact/"
+}

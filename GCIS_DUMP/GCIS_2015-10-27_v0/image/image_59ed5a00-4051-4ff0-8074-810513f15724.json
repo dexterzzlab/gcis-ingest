@@ -1,0 +1,113 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/4215.json",
+            "id": 4215,
+            "organization": {
+                "country_code": "US",
+                "identifier": "us-army-corps-engineers",
+                "name": "U.S. Army Corps of Engineers",
+                "organization_type_identifier": "federal",
+                "url": "http://www.usace.army.mil/"
+            },
+            "organization_uri": "/organization/us-army-corps-engineers",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "contributing_agency",
+            "uri": "/contributor/4215"
+        },
+        {
+            "href": "http://data.globalchange.gov/contributor/3905.json",
+            "id": 3905,
+            "organization": {
+                "country_code": "US",
+                "identifier": "us-geological-survey",
+                "name": "U.S. Geological Survey",
+                "organization_type_identifier": "federal",
+                "url": "http://www.usgs.gov/"
+            },
+            "organization_uri": "/organization/us-geological-survey",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "contributing_agency",
+            "uri": "/contributor/3905"
+        },
+        {
+            "href": "http://data.globalchange.gov/contributor/4197.json",
+            "id": 4197,
+            "organization": {
+                "country_code": "US",
+                "identifier": "national-weather-service",
+                "name": "National Weather Service",
+                "organization_type_identifier": "federal",
+                "url": "http://www.weather.gov"
+            },
+            "organization_uri": "/organization/national-weather-service",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "contributing_agency",
+            "uri": "/contributor/4197"
+        }
+    ],
+    "create_dt": null,
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "USGS, USACE, and NOAA\u2019s National Weather Service collaborated to create this Flood Inundation Mapper. (Source: USGS)",
+            "chapter_identifier": "leveraging-global-change-research-areas-societal-need",
+            "create_dt": null,
+            "identifier": "flood-inundation-mapper",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 14,
+            "report_identifier": "usgcrp-ocpfy2014",
+            "source_citation": "Flood Inundation Mapper created by USGS, USACE, and the National Weather Service of NOAA. Image produced by USGCRP staff in 2013. http://wimcloud.usgs.gov/apps/FIM/FloodInundationMapper.html",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Flood Inundation Mapper",
+            "url": null,
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "71/a7/ffd5cbc5c39f6122f9fafeb8de40/Box_14_Forecasting_Flood_Mapper_Higher_Res.png",
+            "href": "http://data.globalchange.gov/assets/71/a7/ffd5cbc5c39f6122f9fafeb8de40/Box_14_Forecasting_Flood_Mapper_Higher_Res.png",
+            "identifier": "ed65c2ac-522a-40b4-8d13-f55efcabbbb9",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "6705ed43c2ea2f52047953cae18707aadd11665f",
+            "size": 34180901,
+            "thumbnail": "71/a7/ffd5cbc5c39f6122f9fafeb8de40/.thumb-ed65c2ac-522a-40b4-8d13-f55efcabbbb9.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/71/a7/ffd5cbc5c39f6122f9fafeb8de40/.thumb-ed65c2ac-522a-40b4-8d13-f55efcabbbb9.png",
+            "uri": "/file/ed65c2ac-522a-40b4-8d13-f55efcabbbb9",
+            "url": "/assets/71/a7/ffd5cbc5c39f6122f9fafeb8de40/Box_14_Forecasting_Flood_Mapper_Higher_Res.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/59ed5a00-4051-4ff0-8074-810513f15724.json",
+    "identifier": "59ed5a00-4051-4ff0-8074-810513f15724",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Flood Inundation Mapper",
+    "uri": "/image/59ed5a00-4051-4ff0-8074-810513f15724",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

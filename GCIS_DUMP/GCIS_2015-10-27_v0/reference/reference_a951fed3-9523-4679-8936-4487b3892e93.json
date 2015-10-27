@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Cambardella, C.A. \rHatfield, J.L.",
+        "Book Title": "Land Use and the Carbon Cycle: Advances in Integrated Science, Management and Policy",
+        "Editor": "Brown, D.G.\rRobinson, D.T.\rFrench, N.H.\rReed, B.C.",
+        "ISBN": "9781107011243",
+        "Pages": "381-401",
+        "Publisher": "Cambridge University Press",
+        "Reviewer": "a951fed3-9523-4679-8936-4487b3892e93",
+        "Title": "Ch. 15: Soil carbon dynamics in agricultural systems",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 13: Land Use and Land Cover Change FINAL\"]",
+        "_record_number": "4178",
+        "_uuid": "a951fed3-9523-4679-8936-4487b3892e93",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/ddaadc62-d4cb-4fe2-84ac-eadf2ce7d522",
+    "href": "http://data.globalchange.gov/reference/a951fed3-9523-4679-8936-4487b3892e93.json",
+    "identifier": "a951fed3-9523-4679-8936-4487b3892e93",
+    "uri": "/reference/a951fed3-9523-4679-8936-4487b3892e93"
+}

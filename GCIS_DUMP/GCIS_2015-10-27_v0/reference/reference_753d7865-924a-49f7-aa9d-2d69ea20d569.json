@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "INFORMS",
+        ".reference_type": "0",
+        "Access Date": "2013/11/01",
+        "Author": "Dillon, Robin L.\rTinsley, Catherine H.",
+        "DOI": "10.1287/mnsc.1080.0869",
+        "Date": "2008/08/01",
+        "ISSN": "0025-1909",
+        "Issue": "8",
+        "Journal": "Management Science",
+        "Pages": "1425-1440",
+        "Title": "How near-misses influence decision making under risk: A missed opportunity for learning",
+        "URL": "http://pubsonline.informs.org/doi/abs/10.1287/mnsc.1080.0869",
+        "Volume": "54",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4487",
+        "_uuid": "753d7865-924a-49f7-aa9d-2d69ea20d569",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1287/mnsc.1080.0869",
+    "href": "http://data.globalchange.gov/reference/753d7865-924a-49f7-aa9d-2d69ea20d569.json",
+    "identifier": "753d7865-924a-49f7-aa9d-2d69ea20d569",
+    "uri": "/reference/753d7865-924a-49f7-aa9d-2d69ea20d569"
+}

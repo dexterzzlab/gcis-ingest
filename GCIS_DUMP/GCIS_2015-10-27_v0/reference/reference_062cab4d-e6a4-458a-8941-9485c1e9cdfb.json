@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Temperature (T) and equivalent temperature (TE) trends over the United States from 1979 to 2005 and their correlation to land cover types are investigated using National Centers for Environmental Prediction North American Regional Reanalysis data, the Advanced Very High Resolution Radiometer (AVHRR) land use/cover classification, the National Land Cover Database (NLCD) 1992\u20132001 Retrofit Land Cover Change and the Normalised Difference Vegetation Index (NDVI) derived from AVHRR. Even though most of the magnitude of TE is explained by T, the moisture component induces larger trends and variability of TE relative to T. The contrast between pronounced temporal and spatial differences between T and TE at the near-surface level (2 m) and minor-to-no differences at 300\u2013200 mb is a consistent pattern. This study therefore demonstrates that in addition to temperature, atmospheric heat content may help to quantify the differences between surface and tropospheric heating trends, and hence the impact of land cover types on the surface temperature changes. Correlations of T and TE with NDVI reveal that TE shows a stronger relationship to vegetation cover than T, especially during the growing season, with values that are significantly different and of opposite signs (\u22120.31 for Tvs NDVI; 0.49 for TEvs NDVI). Our results suggest that land cover types influence both moisture availability and temperature in the lower atmosphere and that TE is larger in areas with higher physical evaporation and transpiration rates. As a result, TE can be used as an additional metric for analysing near-surface heating trends with respect to land cover types. Moreover, TE can be tested as a complementary variable for assessing the impact of land surface and boundary layer processes in re-analysis and weather/climate model studies. ",
+        "Author": "Fall, S.\rDiffenbaugh, N.S.\rNiyogi, D.\rPielke, R.A., Sr\rRochon, G.",
+        "DOI": "10.1002/joc.2094",
+        "ISSN": "1097-0088",
+        "Issue": "13",
+        "Journal": "International Journal of Climatology",
+        "Keywords": "temperature;; equivalent temperature;; heat content;; NARR;; AVHRR;; NLCD;; NDVI",
+        "Pages": "2045-2054",
+        "Title": "Temperature and equivalent temperature over the United States (1979\u20132005)",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1002/joc.2094/pdf",
+        "Volume": "30",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 13: Land Use and Land Cover Change FINAL\"]",
+        "_record_number": "1646",
+        "_uuid": "062cab4d-e6a4-458a-8941-9485c1e9cdfb",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/joc.2094",
+    "href": "http://data.globalchange.gov/reference/062cab4d-e6a4-458a-8941-9485c1e9cdfb.json",
+    "identifier": "062cab4d-e6a4-458a-8941-9485c1e9cdfb",
+    "uri": "/reference/062cab4d-e6a4-458a-8941-9485c1e9cdfb"
+}

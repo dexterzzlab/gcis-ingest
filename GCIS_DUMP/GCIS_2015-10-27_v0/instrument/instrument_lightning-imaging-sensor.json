@@ -1,0 +1,8 @@
+{
+    "description": "Lightning imager",
+    "description_attribution": "http://database.eohandbook.com/database/instrumentsummary.aspx?instrumentID=110",
+    "href": "http://data.globalchange.gov/instrument/lightning-imaging-sensor.json",
+    "identifier": "lightning-imaging-sensor",
+    "name": "Lightning Imaging Sensor",
+    "uri": "/instrument/lightning-imaging-sensor"
+}

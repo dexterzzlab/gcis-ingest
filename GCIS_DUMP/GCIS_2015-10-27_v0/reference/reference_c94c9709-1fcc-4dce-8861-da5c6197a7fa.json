@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Accession Number": "201",
+        "Author": "CCSP,",
+        "Book Title": "Effects of Climate Change on Energy Production and Use in the United States. A Report by the U.S. Climate Change Science Program and the subcommittee on Global Change Research",
+        "Editor": "Wilbanks, T.J.\rBhatt, V.\rBilello, D.E.\rBull, S.R.\rEkmann, J.\rHorak, W.C.\rHuang, Y.J.\rLevine, M.D.\rSale, M.J.\rSchmalzer, D.K.\rScott, M.J.",
+        "Pages": "x-xii",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "Department of Energy, Office of Biological & Environmental Research",
+        "Reviewer": "c94c9709-1fcc-4dce-8861-da5c6197a7fa",
+        "Title": "Executive Summary",
+        "URL": "http://downloads.globalchange.gov/sap/sap4-5/sap4-5-final-all.pdf",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 4: Energy Supply and Use FINAL\"]",
+        "_record_number": "3422",
+        "_uuid": "c94c9709-1fcc-4dce-8861-da5c6197a7fa",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/ccsp-sap-4_5-2008",
+    "href": "http://data.globalchange.gov/reference/c94c9709-1fcc-4dce-8861-da5c6197a7fa.json",
+    "identifier": "c94c9709-1fcc-4dce-8861-da5c6197a7fa",
+    "uri": "/reference/c94c9709-1fcc-4dce-8861-da5c6197a7fa"
+}

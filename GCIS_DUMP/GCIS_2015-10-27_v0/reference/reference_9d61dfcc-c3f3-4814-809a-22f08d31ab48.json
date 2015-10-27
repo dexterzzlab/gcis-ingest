@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Article Number": "41",
+        "Author": "Bell, M.\rDavis, D.\rCifuentes, L.\rKrupnick, A.\rMorgenstern, R.\rThurston, G.",
+        "DOI": "10.1186/1476-069x-7-41",
+        "ISSN": "1476-069X",
+        "Issue": "1",
+        "Journal": "Environmental Health",
+        "Pages": "1-18",
+        "Title": "Ancillary human health benefits of improved air quality resulting from climate change mitigation",
+        "Volume": "7",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "85",
+        "_uuid": "9d61dfcc-c3f3-4814-809a-22f08d31ab48",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1186/1476-069x-7-41",
+    "href": "http://data.globalchange.gov/reference/9d61dfcc-c3f3-4814-809a-22f08d31ab48.json",
+    "identifier": "9d61dfcc-c3f3-4814-809a-22f08d31ab48",
+    "uri": "/reference/9d61dfcc-c3f3-4814-809a-22f08d31ab48"
+}

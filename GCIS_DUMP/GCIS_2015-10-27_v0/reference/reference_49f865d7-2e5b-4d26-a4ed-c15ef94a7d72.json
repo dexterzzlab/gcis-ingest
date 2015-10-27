@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "ABSTRACT: Eelgrass Z<i>ostera marina</i> L. distribution patterns in the mid-Atlantic region of the USA have shown complex changes, with recovery from losses in the 1930s varying between the coastal lagoons and Chesapeake Bay. Restoration efforts in the coastal bays of Virginia introduced <i>Z. marina</i> back to this system, and expansion since 2005 has averaged 66% yr<sup>&#x2212;1</sup>. In contrast, Chesapeake Bay has experienced 2% expansion and has undergone 2 significant die-off events, in 2005 and 2010. We used a temperature-dependent light model to show that from 2005 to 2010 during daylight periods in the summer, coastal bay beds received at least 100% of their light requirements 24% of the time, while beds in the lower Chesapeake Bay only met this 6% of the time. Summer light attenuation (<i>K</i><sub>d</sub>) and temperatures from continuous monitoring at 2 additional Chesapeake Bay sites in 2010 suggest that the greater tidal range and proximity of the coastal bays to cooler ocean waters may ameliorate influences of exposure to stressful high water temperature conditions compared to Chesapeake Bay. A temperature difference of 1&#xb0;C combined with a <i>K</i><sub>d</sub> difference of 0.5 m<sup>&#x2212;1</sup> at 1 m depth results in a 30% difference in available light as a proportion of community light requirements. These differences are critical between survival and decline in these perennial populations growing near the southern limits of their range. Without an increase in available light, Chesapeake Bay populations may be severely reduced or eliminated, while coastal bay populations, because of their proximity to cooler Atlantic waters, may become the refuge populations for this region.",
+        "Author": "Moore, K.A.\rShields, E.C.\rParrish, D.B.\rOrth, R.J.",
+        "DOI": "10.3354/meps09578",
+        "Date": "February 23, 2012",
+        "ISSN": "0171-8630",
+        "Journal": "Marine Ecology Progress Series",
+        "Pages": "247-258",
+        "Title": "Eelgrass survival in two contrasting systems: Role of turbidity and summer water temperatures",
+        "URL": "http://www.int-res.com/articles/theme/m448p247.pdf",
+        "Volume": "448",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\"]",
+        "_record_number": "4690",
+        "_uuid": "49f865d7-2e5b-4d26-a4ed-c15ef94a7d72",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.3354/meps09578",
+    "href": "http://data.globalchange.gov/reference/49f865d7-2e5b-4d26-a4ed-c15ef94a7d72.json",
+    "identifier": "49f865d7-2e5b-4d26-a4ed-c15ef94a7d72",
+    "uri": "/reference/49f865d7-2e5b-4d26-a4ed-c15ef94a7d72"
+}

@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Berg, Edward E.\rHenry, J. David\rFastie, Christopher L.\rDe Volder, Andrew D.\rMatsuoka, Steven M.",
+        "DOI": "10.1016/j.foreco.2006.02.038",
+        "Date": "Jun 1",
+        "ISSN": "0378-1127",
+        "Issue": "3",
+        "Journal": "Forest Ecology and Management",
+        "Label": "IN",
+        "Pages": "219-232",
+        "Title": "Spruce beetle outbreaks on the Kenai Peninsula, Alaska, and Kluane National Park and Reserve, Yukon Territory: Relationship to summer temperatures and regional differences in disturbance regimes",
+        "Volume": "227",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "1586",
+        "_uuid": "6ba3ecba-b23e-4bc3-9cee-3fda6c3936b6",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.foreco.2006.02.038",
+    "href": "http://data.globalchange.gov/reference/6ba3ecba-b23e-4bc3-9cee-3fda6c3936b6.json",
+    "identifier": "6ba3ecba-b23e-4bc3-9cee-3fda6c3936b6",
+    "uri": "/reference/6ba3ecba-b23e-4bc3-9cee-3fda6c3936b6"
+}

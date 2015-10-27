@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Pfeifer, R.A.\rM. Habeck",
+        "Book Title": "Effects of Climate Change and Variability on Agricultural Production Systems",
+        "Editor": "Doering, Otto C., III \rJ.C. Randolph\rJane Southworth\rRebecca A. Pfeifer",
+        "ISBN": "9781402070280",
+        "Pages": "159-177",
+        "Publisher": "Kluwer Academic Publishers",
+        "Reviewer": "071bdf37-99d9-47e9-a89f-830cbb28f60c",
+        "Title": "Farm-level economic impacts of climate change",
+        "Year": "2002",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "3956",
+        "_uuid": "071bdf37-99d9-47e9-a89f-830cbb28f60c",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/0260d3c1-cd9f-4a8d-a63f-50af49a961ad",
+    "href": "http://data.globalchange.gov/reference/071bdf37-99d9-47e9-a89f-830cbb28f60c.json",
+    "identifier": "071bdf37-99d9-47e9-a89f-830cbb28f60c",
+    "uri": "/reference/071bdf37-99d9-47e9-a89f-830cbb28f60c"
+}

@@ -1,0 +1,95 @@
+{
+    "attributes": "Northeast, temperature, projections, emissions scenarios",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2523.json",
+            "id": 2523,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Laura",
+                "id": 1101,
+                "last_name": "Stevens",
+                "middle_name": null,
+                "orcid": "0000-0002-8842-702X",
+                "url": "http://www.cicsnc.org/people/laura-stevens"
+            },
+            "person_id": 1101,
+            "person_uri": "/person/1101",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2523"
+        }
+    ],
+    "create_dt": "2013-11-15T15:03:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Projected number of days per year with a maximum temperature greater than 90\u00b0F averaged between 2041 and 2070, compared to 1971-2000, assuming continued increases in global emissions (A2) and substantial reductions in future emissions (B1). (Figure source: NOAA NCDC / CICS-NC).",
+            "chapter_identifier": "northeast",
+            "create_dt": "2013-11-18T13:24:45",
+            "identifier": "projected-increases-in-the-number-of-days-over-90f",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 2,
+            "report_identifier": "nca3",
+            "source_citation": "NOAA NCDC / CICS-NC",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Projected Increases in the Number of Days over 90\u00b0F.",
+            "url": "http://nca2014.globalchange.gov/report/regions/northeast/graphics/projected-increases-number-days-over-90%C2%B0f",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "34/ae/04e4cf1407e0b1ba25681a73584e/16-2b.png",
+            "href": "http://data.globalchange.gov/assets/34/ae/04e4cf1407e0b1ba25681a73584e/16-2b.png",
+            "identifier": "66d4dfdd-efb8-424f-ad48-154e81217d74",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "274caddeec9c192ab3d0318b605334457fad08c3",
+            "size": 35528,
+            "thumbnail": "34/ae/04e4cf1407e0b1ba25681a73584e/.thumb-66d4dfdd-efb8-424f-ad48-154e81217d74.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/34/ae/04e4cf1407e0b1ba25681a73584e/.thumb-66d4dfdd-efb8-424f-ad48-154e81217d74.png",
+            "uri": "/file/66d4dfdd-efb8-424f-ad48-154e81217d74",
+            "url": "/assets/34/ae/04e4cf1407e0b1ba25681a73584e/16-2b.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/92d4c92b-8bba-4cd7-af61-58d339ae33be.json",
+    "identifier": "92d4c92b-8bba-4cd7-af61-58d339ae33be",
+    "lat_max": "47.44",
+    "lat_min": "37.31",
+    "lon_max": "-67.06",
+    "lon_min": "-82.56",
+    "parents": [
+        {
+            "activity_uri": "/activity/92d4c92b-nca3-cmip3-downscaled-r201304-process",
+            "label": "dataset nca3-cmip3-downscaled-r201304",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-cmip3-downscaled-r201304"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2070-12-31T23:59:59",
+    "time_start": "1971-01-01T00:00:00",
+    "title": "Projected Increases in the Number of Days over 90\u00b0F: Lower Emissions (B1)",
+    "uri": "/image/92d4c92b-8bba-4cd7-af61-58d339ae33be",
+    "url": null,
+    "usage_limits": null
+}

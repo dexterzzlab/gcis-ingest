@@ -1,0 +1,8 @@
+{
+    "description": "High-resolution nadir-scanning SW spectrometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/backscatter-ultraviolet-instrument.json",
+    "identifier": "backscatter-ultraviolet-instrument",
+    "name": "Backscatter Ultraviolet instrument",
+    "uri": "/instrument/backscatter-ultraviolet-instrument"
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "CIG,",
+        "Institution": "Climate Impacts Group, Center for Science in the Earth System, Joint Institute for the Study of the Atmosphere and Oceans, University of Washington",
+        "Pages": "414",
+        "Place Published": "Seattle, Washington",
+        "Series Editor": "M. McGuire Elsner\rJ. Littell\rL. Whitely Binder",
+        "Title": "The Washington Climate Change Impacts Assessment: Evaluating Washington's Future in a Changing Climate",
+        "URL": "http://cses.washington.edu/db/pdf/wacciareport681.pdf",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "1783",
+        "_uuid": "219520b8-3d2e-40bf-8c39-fb51ded544d8",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/uwash-waclimch-2009",
+    "href": "http://data.globalchange.gov/reference/219520b8-3d2e-40bf-8c39-fb51ded544d8.json",
+    "identifier": "219520b8-3d2e-40bf-8c39-fb51ded544d8",
+    "uri": "/reference/219520b8-3d2e-40bf-8c39-fb51ded544d8"
+}

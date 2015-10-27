@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Wolshon, B.",
+        "Issue": "1",
+        "Journal": "The Bridge",
+        "Pages": "27-34",
+        "Title": "Evacuation planning and engineering for Hurricane Katrina",
+        "Volume": "36",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"RG 10 Coasts\"]",
+        "_record_number": "3465",
+        "_uuid": "0a0f472f-b0f7-4b38-832b-48995c243699",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/evacuation-planning-and-engineering-for-hurricane-katrina",
+    "href": "http://data.globalchange.gov/reference/0a0f472f-b0f7-4b38-832b-48995c243699.json",
+    "identifier": "0a0f472f-b0f7-4b38-832b-48995c243699",
+    "uri": "/reference/0a0f472f-b0f7-4b38-832b-48995c243699"
+}

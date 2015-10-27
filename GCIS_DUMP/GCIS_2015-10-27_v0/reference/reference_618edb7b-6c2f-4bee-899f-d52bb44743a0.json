@@ -1,0 +1,31 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "BACKGROUND: Heat-related mortality is a matter of great public health concern, especially in the light of climate change. Although many studies have found associations between high temperatures and mortality, more research is needed to project the future impacts of climate change on heat-related mortality.; OBJECTIVES: We conducted a systematic review of research and methods for projecting future heat-related mortality under climate change scenarios.; DATA SOURCES AND EXTRACTION: A literature search was conducted in August 2010, using the electronic databases PubMed, Scopus, Science Direct, Pro Quest, and Web of Science. The search was limited to peer-reviewed journal articles published in English from January 1980 through July 2010.; DATA SYNTHESIS: Fourteen studies fulfilled the inclusion criteria. Most projections showed that climate change would result in a substantial increase in heat-related mortality. Projecting heat-related mortality requires understanding historical temperature mortality relationships and considering the future changes in climate, population, and acclimatization. Further research is needed to provide a stronger theoretical framework for projections, including a better understanding of socioeconomic development, adaptation strategies, land-use patterns, air pollution, and mortality displacement.; CONCLUSIONS: Scenario-based projection research will meaningfully contribute to assessing and managing the potential impacts of climate change on heat-related mortality.",
+        "Accession Number": "ISI:000297711200019",
+        "Alternate Journal": "Environ Health Persp",
+        "Author": "Huang, Cunrui\rBarnett, Adrian Gerard\rWang, Xiaoming\rVaneckova, Pavla\rFitzGerald, Gerard\rTong, Shilu",
+        "Author Address": "Huang, CR; Queensland Univ Technol, Sch Publ Hlth, Victoria Pk Rd, Brisbane, Qld 4059, Australia; Queensland Univ Technol, Sch Publ Hlth, Victoria Pk Rd, Brisbane, Qld 4059, Australia; Queensland Univ Technol, Sch Publ Hlth, Brisbane, Qld 4059, Australia; Queensland Univ Technol, Inst Hlth & Biomed Innovat, Brisbane, Qld 4059, Australia; Commonwealth Sci & Ind Res Org, CSIRO Climate Adaptat Flagship & CSIRO Ecosyst, Melbourne, Vic, Australia",
+        "DOI": "10.1289/Ehp.1103456",
+        "Date": "Dec",
+        "ISSN": "0091-6765",
+        "Issue": "12",
+        "Journal": "Environmental Health Perspectives",
+        "Keywords": "climate change; heat wave; mortality; projection; public health; scenario; high ambient-temperature; us cities; public-health; united-states; model construction; warning systems; impacts; wave; deaths; stress",
+        "Language": "English",
+        "Notes": "857IH; Times Cited:0; Cited References Count:94",
+        "Pages": "1681-1690",
+        "Title": "Projecting future heat-related mortality under climate change scenarios: A systematic review",
+        "URL": "http://ehp.niehs.nih.gov/wp-content/uploads/119/12/ehp.1103456.pdf",
+        "Volume": "119",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Ch. 16: Northeast FINAL\",\"Overview\"]",
+        "_record_number": "3599",
+        "_uuid": "618edb7b-6c2f-4bee-899f-d52bb44743a0",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1289/Ehp.1103456",
+    "href": "http://data.globalchange.gov/reference/618edb7b-6c2f-4bee-899f-d52bb44743a0.json",
+    "identifier": "618edb7b-6c2f-4bee-899f-d52bb44743a0",
+    "uri": "/reference/618edb7b-6c2f-4bee-899f-d52bb44743a0"
+}

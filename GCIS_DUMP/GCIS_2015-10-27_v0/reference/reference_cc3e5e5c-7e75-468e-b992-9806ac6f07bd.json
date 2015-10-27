@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Pinkerton, K.E.\rRom, W.N.\rAkpinar-Elci, M.\rBalmes, J.R.\rBayram, H.\rBrandli, O.\rHollingsworth, J.W.\rKinney, P.L.\rMargolis, H.G.\rMartin, W.J.\rSasser, E. N.\rSmith, K. R.\rTakaro, T. K. ",
+        "DOI": "10.1513/pats.201201-015ST",
+        "ISSN": "1546-3222",
+        "Issue": "1",
+        "Journal": "Proceedings of the American Thoracic Society",
+        "Pages": "3-8",
+        "Title": "An official American Thoracic Society workshop report: Climate change and human health",
+        "URL": "http://www.atsjournals.org/doi/pdf/10.1513/pats.201201-015ST",
+        "Volume": "9",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "2502",
+        "_uuid": "cc3e5e5c-7e75-468e-b992-9806ac6f07bd",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1513/pats.201201-015ST",
+    "href": "http://data.globalchange.gov/reference/cc3e5e5c-7e75-468e-b992-9806ac6f07bd.json",
+    "identifier": "cc3e5e5c-7e75-468e-b992-9806ac6f07bd",
+    "uri": "/reference/cc3e5e5c-7e75-468e-b992-9806ac6f07bd"
+}

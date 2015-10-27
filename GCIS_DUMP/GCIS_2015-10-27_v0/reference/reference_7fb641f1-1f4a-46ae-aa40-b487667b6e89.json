@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Loveland, T.R.\rSohl, T.L.\rStehman, S.V.\rGallant, A.L.\rSayler, K.L.\rNapton, D.E.",
+        "Issue": "10",
+        "Journal": "Photogrammetric Engineering & Remote Sensing",
+        "Pages": "1091-1099",
+        "Title": "A strategy for estimating the rates of recent United States land cover changes",
+        "URL": "http://www.sdakotabirds.com/feathers_and_folly/Sohl_Pubs/2002_PERS_Loveland_Trends_Strategy.pdf",
+        "Volume": "68",
+        "Year": "2002",
+        "_chapter": "[\"Ch. 13: Land Use and Land Cover Change FINAL\"]",
+        "_record_number": "1614",
+        "_uuid": "7fb641f1-1f4a-46ae-aa40-b487667b6e89",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/a-strategy-for-estimating-the-rates-of-recent-united-states-land-cover-changes",
+    "href": "http://data.globalchange.gov/reference/7fb641f1-1f4a-46ae-aa40-b487667b6e89.json",
+    "identifier": "7fb641f1-1f4a-46ae-aa40-b487667b6e89",
+    "uri": "/reference/7fb641f1-1f4a-46ae-aa40-b487667b6e89"
+}

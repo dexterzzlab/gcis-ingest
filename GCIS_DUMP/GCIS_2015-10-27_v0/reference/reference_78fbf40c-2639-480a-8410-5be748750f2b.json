@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Rosenzweig, C.\rSolecki, W.D.\rBlake, R.\rBowman, M.\rFaris, C.\rGornitz, V.\rHorton, R.\rJacob, K.\rLeBlanc, A.\rLeichenko, R.\rLinkin, M.\rMajor, D.\rO\u2019Grady, M.\rPatrick, L.\rSussman, E.\rYohe, G.\rZimmerman, R.",
+        "DOI": "10.1007/s10584-010-0002-8",
+        "ISSN": "0165-0009",
+        "Issue": "1",
+        "Journal": "Climatic Change",
+        "Pages": "93-127",
+        "Title": "Developing coastal adaptation to climate change in the New York City infrastructure-shed: Process, approach, tools, and strategies",
+        "URL": "http://www.ccrun.org/sites/ccrun/files/attached_files/2011_Rosenzweig_etal.pdf",
+        "Volume": "106",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"Ch. 16: Northeast FINAL\",\"RG 10 Coasts\",\"Ch. 5: Transportation FINAL\"]",
+        "_record_number": "2690",
+        "_uuid": "78fbf40c-2639-480a-8410-5be748750f2b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-010-0002-8",
+    "href": "http://data.globalchange.gov/reference/78fbf40c-2639-480a-8410-5be748750f2b.json",
+    "identifier": "78fbf40c-2639-480a-8410-5be748750f2b",
+    "uri": "/reference/78fbf40c-2639-480a-8410-5be748750f2b"
+}

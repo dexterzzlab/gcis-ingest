@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "GAO,",
+        "Institution": "U.S. Government Accountability Office",
+        "Pages": "95",
+        "Title": "Climate Change: Improvements Needed to Clarify National Priorities and Better Align Them with Federal Funding Decisions. GAO-11-317",
+        "URL": "http://www.gao.gov/assets/320/318556.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\",\"RF 12\"]",
+        "_record_number": "349",
+        "_uuid": "16d4822c-1a6b-47c0-bb81-ff1b1b0ae87b",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/gao-11-317",
+    "href": "http://data.globalchange.gov/reference/16d4822c-1a6b-47c0-bb81-ff1b1b0ae87b.json",
+    "identifier": "16d4822c-1a6b-47c0-bb81-ff1b1b0ae87b",
+    "uri": "/reference/16d4822c-1a6b-47c0-bb81-ff1b1b0ae87b"
+}

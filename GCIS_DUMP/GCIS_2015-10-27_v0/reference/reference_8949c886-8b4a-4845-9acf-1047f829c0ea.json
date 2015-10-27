@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2013",
+        "Author": "NOAA, ",
+        "Publisher": "National Oceanic and Atmospheric Administration ",
+        "Title": "Billion Dollar Weather/Climate Disasters",
+        "URL": "http://www.ncdc.noaa.gov/billions",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"RF 2\",\"Ch. 4: Energy Supply and Use FINAL\"]",
+        "_record_number": "2240",
+        "_uuid": "8949c886-8b4a-4845-9acf-1047f829c0ea",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/6312fe4d-7d71-48a8-94e0-b86dce958a4f",
+    "href": "http://data.globalchange.gov/reference/8949c886-8b4a-4845-9acf-1047f829c0ea.json",
+    "identifier": "8949c886-8b4a-4845-9acf-1047f829c0ea",
+    "uri": "/reference/8949c886-8b4a-4845-9acf-1047f829c0ea"
+}

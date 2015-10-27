@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Whyte, Kyle Powys",
+        "DOI": "10.1089/env.2011.4401",
+        "ISSN": "1939-4071",
+        "Issue": "4",
+        "Journal": "Environmental Justice",
+        "Pages": "185-186",
+        "Title": "The recognition dimensions of environmental justice in Indian Country",
+        "Volume": "4",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\"]",
+        "_record_number": "3883",
+        "_uuid": "0862f97f-214c-483a-bb02-23d2e3b3d06f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1089/env.2011.4401",
+    "href": "http://data.globalchange.gov/reference/0862f97f-214c-483a-bb02-23d2e3b3d06f.json",
+    "identifier": "0862f97f-214c-483a-bb02-23d2e3b3d06f",
+    "uri": "/reference/0862f97f-214c-483a-bb02-23d2e3b3d06f"
+}

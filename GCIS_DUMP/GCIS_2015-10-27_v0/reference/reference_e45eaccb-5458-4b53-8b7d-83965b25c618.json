@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Kulesa, G.",
+        "Book Title": "The Potential Impacts of Climate Change on Transportation, Summary and Discussion Papers, Federal Research Partnership Workshop, October 1-2, 2002",
+        "Pages": "199-208",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "U.S. Department of Transportation Center for Climate Change and Environmental Forecasting",
+        "Reviewer": "e45eaccb-5458-4b53-8b7d-83965b25c618",
+        "Title": "Weather and aviation: How does weather affect the safety and operations of airports and aviation, and how does FAA work to manage weather-related effects?",
+        "URL": "http://climate.dot.gov/documents/workshop1002/workshop.pdf",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 5: Transportation FINAL\"]",
+        "_record_number": "1793",
+        "_uuid": "e45eaccb-5458-4b53-8b7d-83965b25c618",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/dot-climatechange-environmentalforecasting-2002",
+    "href": "http://data.globalchange.gov/reference/e45eaccb-5458-4b53-8b7d-83965b25c618.json",
+    "identifier": "e45eaccb-5458-4b53-8b7d-83965b25c618",
+    "uri": "/reference/e45eaccb-5458-4b53-8b7d-83965b25c618"
+}

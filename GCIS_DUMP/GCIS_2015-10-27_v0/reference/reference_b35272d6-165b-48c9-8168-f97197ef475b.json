@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "8",
+        "Author": "The Nature Conservancy,",
+        "Date": "Spring 2011",
+        "Magazine": "North Carolina Afield",
+        "Pages": "12",
+        "Publisher": "The North Carolina Chapter of The Nature Conservancy",
+        "Title": "Alligator River National Wildlife Refuge grows",
+        "URL": "http://www.nature.org/ourinitiatives/regions/northamerica/unitedstates/northcarolina/afield-spring-2011.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "4453",
+        "_uuid": "b35272d6-165b-48c9-8168-f97197ef475b",
+        "reftype": "Magazine Article"
+    },
+    "child_publication": "/generic/b565dfa8-ca85-4c01-b63d-5dd57e4ae54e",
+    "href": "http://data.globalchange.gov/reference/b35272d6-165b-48c9-8168-f97197ef475b.json",
+    "identifier": "b35272d6-165b-48c9-8168-f97197ef475b",
+    "uri": "/reference/b35272d6-165b-48c9-8168-f97197ef475b"
+}

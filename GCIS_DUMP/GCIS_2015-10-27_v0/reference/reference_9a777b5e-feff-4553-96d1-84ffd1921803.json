@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Frumhoff, P.C.\rMcCarthy, J.J.\rMelillo, J.M.\rMoser, S.C.\rWuebbles, D.J.\rWake, C.\rSpanger-Siegfried, E.",
+        "DOI": "10.1007/s11027-007-9138-x",
+        "ISSN": "1381-2386",
+        "Issue": "5-6",
+        "Journal": "Mitigation and Adaptation Strategies for Global Change",
+        "Keywords": "Climate change; ; Assessment; ; Northeast climate impacts assessment; ",
+        "Pages": "419-423",
+        "Title": "An integrated climate change assessment for the Northeast United States",
+        "Volume": "13",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "974",
+        "_uuid": "9a777b5e-feff-4553-96d1-84ffd1921803",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s11027-007-9138-x",
+    "href": "http://data.globalchange.gov/reference/9a777b5e-feff-4553-96d1-84ffd1921803.json",
+    "identifier": "9a777b5e-feff-4553-96d1-84ffd1921803",
+    "uri": "/reference/9a777b5e-feff-4553-96d1-84ffd1921803"
+}

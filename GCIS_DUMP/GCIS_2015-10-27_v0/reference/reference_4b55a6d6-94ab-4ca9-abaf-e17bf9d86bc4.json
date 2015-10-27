@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Suddick, E. C.\rDavidson, E. A., Eds.",
+        "Institution": "North American Nitrogen Center of the International Nitrogen Initiative (NANC-INI), Woods Hole Research Center",
+        "Place Published": "Falmouth, MA",
+        "Title": "The Role of Nitrogen in Climate Change and the Impacts of Nitrogen-Climate Interactions on Terrestrial and Aquatic Ecosystems, Agriculture, and Human Health in the United States: A Technical Report Submitted to the US National Climate Assessment",
+        "URL": "http://www.whrc.org/resources/publications/pdf/SuddicketalWHRC.12.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "2987",
+        "_uuid": "4b55a6d6-94ab-4ca9-abaf-e17bf9d86bc4",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/nca-rolenitrogen-2012",
+    "href": "http://data.globalchange.gov/reference/4b55a6d6-94ab-4ca9-abaf-e17bf9d86bc4.json",
+    "identifier": "4b55a6d6-94ab-4ca9-abaf-e17bf9d86bc4",
+    "uri": "/reference/4b55a6d6-94ab-4ca9-abaf-e17bf9d86bc4"
+}

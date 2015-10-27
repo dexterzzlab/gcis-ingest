@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Galea, S.\rBrewin, C.R.\rGruber, M.\rJones, R.T.\rKing, D.W.\rKing, L.A.\rMcNally, R.J.\rUrsano, R.J.\rPetukhova, M.\rKessler, R.C.",
+        "DOI": "10.1001/archpsyc.64.12.1427",
+        "Issue": "12",
+        "Journal": "Archives of General Psychiatry",
+        "Pages": "1427-1434",
+        "Title": "Exposure to hurricane-related stressors and mental illness after Hurricane Katrina",
+        "URL": "http://archpsyc.jamanetwork.com/data/Journals/PSYCH/11853/yoa70049_1427_1434.pdf",
+        "Volume": "64",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "682",
+        "_uuid": "0e71e17a-442f-46d8-b62f-cc3213f85208",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1001/archpsyc.64.12.1427",
+    "href": "http://data.globalchange.gov/reference/0e71e17a-442f-46d8-b62f-cc3213f85208.json",
+    "identifier": "0e71e17a-442f-46d8-b62f-cc3213f85208",
+    "uri": "/reference/0e71e17a-442f-46d8-b62f-cc3213f85208"
+}

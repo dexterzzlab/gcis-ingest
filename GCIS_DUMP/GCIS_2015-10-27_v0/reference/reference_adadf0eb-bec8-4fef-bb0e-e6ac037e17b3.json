@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Selin, H.\rVanDeveer, S.D.",
+        "DOI": "10.1111/j.1541-1338.2007.00265.x",
+        "ISSN": "1541-1338",
+        "Issue": "1",
+        "Journal": "Review of Policy Research",
+        "Pages": "1-27",
+        "Title": "Political science and prediction: What's next for U.S. climate change policy?",
+        "URL": "http://pubpages.unh.edu/~sdv/US-Climate-Policy.pdf",
+        "Volume": "24",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\",\"RF 12\"]",
+        "_record_number": "2808",
+        "_uuid": "adadf0eb-bec8-4fef-bb0e-e6ac037e17b3",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1541-1338.2007.00265.x",
+    "href": "http://data.globalchange.gov/reference/adadf0eb-bec8-4fef-bb0e-e6ac037e17b3.json",
+    "identifier": "adadf0eb-bec8-4fef-bb0e-e6ac037e17b3",
+    "uri": "/reference/adadf0eb-bec8-4fef-bb0e-e6ac037e17b3"
+}

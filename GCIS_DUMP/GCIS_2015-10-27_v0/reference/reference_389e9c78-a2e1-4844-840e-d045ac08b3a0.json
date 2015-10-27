@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Ford, J.D.\rKeskitalo, E.C.H.\rSmith, T.\rPearce, T.\rBerrang-Ford, L.\rDuerden, F.\rSmit, B.",
+        "DOI": "10.1002/wcc.48",
+        "ISSN": "1757-7799",
+        "Issue": "3",
+        "Journal": "Wiley Interdisciplinary Reviews: Climate Change",
+        "Pages": "374-392",
+        "Title": "Case study and analogue methodologies in climate change vulnerability research",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1002/wcc.48/pdf",
+        "Volume": "1",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "187",
+        "_uuid": "389e9c78-a2e1-4844-840e-d045ac08b3a0",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/wcc.48",
+    "href": "http://data.globalchange.gov/reference/389e9c78-a2e1-4844-840e-d045ac08b3a0.json",
+    "identifier": "389e9c78-a2e1-4844-840e-d045ac08b3a0",
+    "uri": "/reference/389e9c78-a2e1-4844-840e-d045ac08b3a0"
+}

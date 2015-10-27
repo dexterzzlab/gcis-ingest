@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"italic\" start=\"82\" /><run start=\"87\" /></field></record>",
+        "Author": "Allen, M.",
+        "DOI": "10.1002/wcc.145",
+        "ISSN": "1757-7799",
+        "Issue": "6",
+        "Journal": "Wiley Interdisciplinary Reviews: Climate Change",
+        "Pages": "931 pp.",
+        "Title": "In defense of the traditional null hypothesis: Remarks on the Trenberth and Curry WIREs opinion articles",
+        "Volume": "2",
+        "Year": "2011",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "937",
+        "_uuid": "e45f2961-587f-4871-949d-b07336a34104",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/wcc.145",
+    "href": "http://data.globalchange.gov/reference/e45f2961-587f-4871-949d-b07336a34104.json",
+    "identifier": "e45f2961-587f-4871-949d-b07336a34104",
+    "uri": "/reference/e45f2961-587f-4871-949d-b07336a34104"
+}

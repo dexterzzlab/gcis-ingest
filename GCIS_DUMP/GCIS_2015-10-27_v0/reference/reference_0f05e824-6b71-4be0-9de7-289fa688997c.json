@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "NRC,",
+        "ISBN": "0-309-25237-7",
+        "Number of Pages": "72",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "National Research Council. The National Academies Press",
+        "Reviewer": "0f05e824-6b71-4be0-9de7-289fa688997c",
+        "Title": "A Review of the U.S. Global Change Research Program\u2019s Strategic Plan",
+        "URL": "http://www.nap.edu/catalog.php?record_id=13330",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "2305",
+        "_uuid": "0f05e824-6b71-4be0-9de7-289fa688997c",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/nrc-usgcrp-2011",
+    "href": "http://data.globalchange.gov/reference/0f05e824-6b71-4be0-9de7-289fa688997c.json",
+    "identifier": "0f05e824-6b71-4be0-9de7-289fa688997c",
+    "uri": "/reference/0f05e824-6b71-4be0-9de7-289fa688997c"
+}

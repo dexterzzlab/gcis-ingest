@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "P\u00e9pin, L.\rD. Raynaud\rJ.-M. Barnola\rM. F. Loutre ",
+        "DOI": "10.1029/2001JD900117",
+        "Issue": "D23",
+        "Journal": "Journal of Geophysical Research",
+        "Pages": "31,885-31,892",
+        "Title": "Hemispheric roles of climate forcings during glacial-interglacial transitions as deduced from the Vostok record and LLN-2D model experiments",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2001JD900117/pdf",
+        "Volume": "106",
+        "Year": "2001",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "2462",
+        "_uuid": "787915a7-6f2f-4500-89f1-fa1ed8892928",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2001JD900117",
+    "href": "http://data.globalchange.gov/reference/787915a7-6f2f-4500-89f1-fa1ed8892928.json",
+    "identifier": "787915a7-6f2f-4500-89f1-fa1ed8892928",
+    "uri": "/reference/787915a7-6f2f-4500-89f1-fa1ed8892928"
+}

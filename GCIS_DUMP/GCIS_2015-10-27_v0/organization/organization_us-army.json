@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/us-army.json",
+    "identifier": "us-army",
+    "name": "U.S. Army",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/us-army",
+    "url": "http://www.army.mil"
+}

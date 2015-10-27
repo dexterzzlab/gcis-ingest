@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"6\" /><run start=\"7\" /></field></record>",
+        "Author": "Prinn, R.G.",
+        "Book Title": "The Global Carbon Cycle: Integrating Humans, Climate, and the Natural World",
+        "Editor": "Field, C.B.\rRaupach, M.R.",
+        "ISBN": "9781559635264",
+        "Pages": "205-216",
+        "Place Published": "Washington, D.C., USA",
+        "Publisher": "Island Press",
+        "Reviewer": "e7a95f56-ba30-4584-8565-fe22602dcd6f",
+        "Title": "Non-CO2 greenhouse gases",
+        "Year": "2004",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "2534",
+        "_uuid": "e7a95f56-ba30-4584-8565-fe22602dcd6f",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/a59cd79f-343b-4b2a-bea2-fdfa78fa8128",
+    "href": "http://data.globalchange.gov/reference/e7a95f56-ba30-4584-8565-fe22602dcd6f.json",
+    "identifier": "e7a95f56-ba30-4584-8565-fe22602dcd6f",
+    "uri": "/reference/e7a95f56-ba30-4584-8565-fe22602dcd6f"
+}

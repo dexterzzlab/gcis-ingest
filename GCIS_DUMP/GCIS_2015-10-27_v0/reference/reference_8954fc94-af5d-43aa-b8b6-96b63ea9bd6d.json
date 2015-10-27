@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2013",
+        "Author": "C2ES,",
+        "Publisher": "Center for Climate and Energy Solutions",
+        "Title": "Climate Action Plans",
+        "URL": "http://www.c2es.org/us-states-regions/policy-maps/action-plan",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "4560",
+        "_uuid": "8954fc94-af5d-43aa-b8b6-96b63ea9bd6d",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/7d5d7f93-6142-4afb-a26a-da057d1d142a",
+    "href": "http://data.globalchange.gov/reference/8954fc94-af5d-43aa-b8b6-96b63ea9bd6d.json",
+    "identifier": "8954fc94-af5d-43aa-b8b6-96b63ea9bd6d",
+    "uri": "/reference/8954fc94-af5d-43aa-b8b6-96b63ea9bd6d"
+}

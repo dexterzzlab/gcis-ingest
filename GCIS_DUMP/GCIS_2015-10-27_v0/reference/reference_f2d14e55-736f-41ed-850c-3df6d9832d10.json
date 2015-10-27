@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Access Date": "1979",
+        "Author": "Klopatek, Jeffrey M.\rOlson, Richard J.\rEmerson, Craig J.\rJoness, Jan L.",
+        "DOI": "10.1017/S0376892900003039",
+        "ISSN": "1469-4387",
+        "Issue": "03",
+        "Journal": "Environmental Conservation",
+        "Pages": "191-199",
+        "Title": "Land-use conflicts with natural vegetation in the United States",
+        "Volume": "6",
+        "Year": "1979",
+        "_chapter": "[\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "4145",
+        "_uuid": "f2d14e55-736f-41ed-850c-3df6d9832d10",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1017/S0376892900003039",
+    "href": "http://data.globalchange.gov/reference/f2d14e55-736f-41ed-850c-3df6d9832d10.json",
+    "identifier": "f2d14e55-736f-41ed-850c-3df6d9832d10",
+    "uri": "/reference/f2d14e55-736f-41ed-850c-3df6d9832d10"
+}

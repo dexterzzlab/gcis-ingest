@@ -1,0 +1,15 @@
+{
+    "computing_environment": "Linux (Red Hat Enterprise Linux Server release 6.4)",
+    "data_usage": "Multi-model mean CMIP3 (higher emissions scenario) fall precipitation projections were plotted for the United States, for 2041-2070 relative to 1970-1999.",
+    "duration": "100 hours",
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/30595a8b-nca3-cmip3-r201205-process.json",
+    "identifier": "30595a8b-nca3-cmip3-r201205-process",
+    "methodology": "1. For each model at each grid point, the mean fall precipitation under the higher emissions scenario (A2) was calculated.\r\n2. For each model, these data were re-gridded to a common grid.\r\n3. For each model at each grid point, the mean fall precipitation under the higher emissions scenario (A2) was calculated for two periods: 1970-1999 and 2041-2070.\r\n4. At each grid point, the mean fall precipitation for the two periods was computed by averaging the following models:\r\nCCSM3, CGCM3.1 (T47), CNRM-CM3, CSIRO-Mk3.0, ECHAM5/MPI-OM, ECHO-G, GFDL-CM2.0, GFDL-CM2.1, INM-CM3.0, IPSL-CM4, MIROC3.2 (medres), MRI-CGCM2.3.2, PCM, UKMO-HadCM3, and UKMO-HadGEM1\r\n5. At each grid point, the difference in projected fall precipitation was calculated for 2041-2070 minus 1970-1999.\r\n6. Data were plotted for grid points in the United States with hatching/white-out applied as follows:\r\nIf less than 50% of the models show a statistically significant change, then those grid points are whited out. If more than 50% of the models show a statistically significant change, but less than 67% of the models agree on the sign of the change, then those grid points are shaded. If more than 50% of the models show a statistically significant change, and more than 67% of the models agree on the sign of the change, then shading is overlaid with hatching for those grid points.",
+    "notes": "Python",
+    "output_artifacts": "gridded_data_CMIP3_2041_2070_a2_precip.dat\r\nplot_north_american_precip.py\r\nCMIP3_2041_2070_a2_precip.eps\r\nCMIP3_2041_2070_a2_precip_categories.eps\r\n4-4_d.png\r\nEnergy_seasonal precip_cmip3_v5.png",
+    "software": "Python (v2.7.6)",
+    "start_time": null,
+    "uri": "/activity/30595a8b-nca3-cmip3-r201205-process",
+    "visualization_software": "Python (v2.7.6), Matplotlib (v1.3.1), Basemap (v1.0.7)"
+}

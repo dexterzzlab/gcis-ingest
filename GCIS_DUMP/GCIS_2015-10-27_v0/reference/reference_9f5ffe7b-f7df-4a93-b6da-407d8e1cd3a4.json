@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Bierbaum, R.M.\rBrown, D.G.\rMcAlpine, J.L.",
+        "ISBN": "9781597265560",
+        "Number of Pages": "256",
+        "Place Published": "Ann Arbor",
+        "Publisher": "University of Michigan Press",
+        "Reviewer": "9f5ffe7b-f7df-4a93-b6da-407d8e1cd3a4",
+        "Title": "Coping with Climate Change: National Summit Proceedings",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\",\"RF 12\"]",
+        "_record_number": "468",
+        "_uuid": "9f5ffe7b-f7df-4a93-b6da-407d8e1cd3a4",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/24b6bb9b-adf4-4f84-975a-236411084777",
+    "href": "http://data.globalchange.gov/reference/9f5ffe7b-f7df-4a93-b6da-407d8e1cd3a4.json",
+    "identifier": "9f5ffe7b-f7df-4a93-b6da-407d8e1cd3a4",
+    "uri": "/reference/9f5ffe7b-f7df-4a93-b6da-407d8e1cd3a4"
+}

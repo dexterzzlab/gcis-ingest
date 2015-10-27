@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "32",
+        "Author": "Kunkel, K. E.\rStevens, L. E.\rStevens, S. E.\rSun, L.\rJanssen, E.\rWuebbles, D.\rRedmond, K.T.\rDobson, J.G.",
+        "Pages": "87",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "National Oceanic and Atmospheric Administration, National Environmental Satellite, Data, and Information Service",
+        "Title": "Regional Climate Trends and Scenarios for the U.S. National Climate Assessment: Part 5. Climate of the Southwest U.S. NOAA Technical Report NESDIS 142-5",
+        "URL": "http://www.nesdis.noaa.gov/technical_reports/NOAA_NESDIS_Tech_Report_142-5-Climate_of_the_Southwest_U.S.pdf",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"Ch. 4: Energy Supply and Use FINAL\"]",
+        "_record_number": "1413",
+        "_uuid": "966bf116-8d6d-41f2-96be-4b66d3e729db",
+        "reftype": "Government Document"
+    },
+    "child_publication": "/report/noaa-techreport-nesdis-142-5",
+    "href": "http://data.globalchange.gov/reference/966bf116-8d6d-41f2-96be-4b66d3e729db.json",
+    "identifier": "966bf116-8d6d-41f2-96be-4b66d3e729db",
+    "uri": "/reference/966bf116-8d6d-41f2-96be-4b66d3e729db"
+}

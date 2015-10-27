@@ -1,0 +1,8 @@
+{
+    "description": "Non-scanning MW radiometer",
+    "description_attribution": "http://database.eohandbook.com/database/instrumentsummary.aspx?instrumentID=882",
+    "href": "http://data.globalchange.gov/instrument/advanced-microwave-radiometer.json",
+    "identifier": "advanced-microwave-radiometer",
+    "name": "Advanced Microwave Radiometer",
+    "uri": "/instrument/advanced-microwave-radiometer"
+}

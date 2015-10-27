@@ -1,0 +1,12 @@
+{
+    "description": "RapidEye is a full end-to-end commercial Earth Observation system comprising a constellation of five minisatellites, a dedicated SCC (Spacecraft Control Center), a data downlink ground station service, and a full ground segment designed to plan, acquire and process up to 5 million km of imagery every day to generate unique land information products.",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/r/rapideye",
+    "end_date": "2019-08-01T00:00:00",
+    "href": "http://data.globalchange.gov/platform/rapideye.json",
+    "identifier": "rapideye",
+    "name": "RapidEye",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "2008-08-29T00:00:00",
+    "uri": "/platform/rapideye",
+    "url": "http://www.rapideye.de/"
+}

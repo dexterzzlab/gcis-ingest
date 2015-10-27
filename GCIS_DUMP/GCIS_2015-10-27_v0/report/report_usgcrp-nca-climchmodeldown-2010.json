@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/usgcrp-nca-climchmodeldown-2010.json",
+    "identifier": "usgcrp-nca-climchmodeldown-2010",
+    "in_library": 1,
+    "publication_year": 2010,
+    "report_type_identifier": "workshop_report",
+    "summary": "The National Climate Assessment (NCA) Report Series summarizes regional, sectoral, and process-related workshops and discussions being held as part of the Third NCA process.   This workshop focused on questions, issues, and methodological perspectives regarding the use of mathematical models for the NCA, as well as the complexities that arise when applying data and models to multiple spatial and temporal scales. The workshop was held in Arlington, VA on December 8-10, 2010. Volume 7 of the NCA Report Series summarizes the discussions and outcomes of this workshop.",
+    "title": "National Climate Assessment - Climate Change Modeling and Downscaling",
+    "topic": "Modeling,Physical Climate",
+    "uri": "/report/usgcrp-nca-climchmodeldown-2010",
+    "url": null
+}

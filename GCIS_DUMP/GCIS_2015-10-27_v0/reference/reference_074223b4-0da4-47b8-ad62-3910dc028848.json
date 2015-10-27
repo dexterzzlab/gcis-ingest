@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Kaschner, K.\rTittensor, D.P.\rReady, J.\rGerrodette, T.\rWorm, B.",
+        "DOI": "10.1371/journal.pone.0019653",
+        "ISSN": "1932-6203",
+        "Issue": "5",
+        "Journal": "PLoS ONE",
+        "Pages": "e19653",
+        "Title": "Current and future patterns of global marine mammal biodiversity",
+        "URL": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0019653",
+        "Volume": "6",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "490",
+        "_uuid": "074223b4-0da4-47b8-ad62-3910dc028848",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1371/journal.pone.0019653",
+    "href": "http://data.globalchange.gov/reference/074223b4-0da4-47b8-ad62-3910dc028848.json",
+    "identifier": "074223b4-0da4-47b8-ad62-3910dc028848",
+    "uri": "/reference/074223b4-0da4-47b8-ad62-3910dc028848"
+}

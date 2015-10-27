@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "9",
+        "Editor": "Willows, R.I.\rConnell, R.K.",
+        "ISBN": "0-9544830-0-6",
+        "Number of Pages": "166",
+        "Place Published": "Oxford, UK",
+        "Publisher": "UK Climate Impacts Programme",
+        "Title": "Climate Adaptation: Risk, Uncertainty and Decision-Making. UKCIP Technical Report",
+        "URL": "http://www.ukcip.org.uk/wordpress/wp-content/PDFs/UKCIP-Risk-framework.pdf",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\",\"RF 12\"]",
+        "_record_number": "3447",
+        "_uuid": "5dce5300-d368-4ad2-9681-bbb4f24a7d50",
+        "reftype": "Edited Book"
+    },
+    "child_publication": null,
+    "href": "http://data.globalchange.gov/reference/5dce5300-d368-4ad2-9681-bbb4f24a7d50.json",
+    "identifier": "5dce5300-d368-4ad2-9681-bbb4f24a7d50",
+    "uri": "/reference/5dce5300-d368-4ad2-9681-bbb4f24a7d50"
+}

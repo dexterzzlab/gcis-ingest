@@ -1,0 +1,8 @@
+{
+    "description": "Imaging radar (SAR)",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/synthetic-aperture-radar-csa-c-band-2.json",
+    "identifier": "synthetic-aperture-radar-csa-c-band-2",
+    "name": "Synthetic Aperture Radar (CSA) C band",
+    "uri": "/instrument/synthetic-aperture-radar-csa-c-band-2"
+}

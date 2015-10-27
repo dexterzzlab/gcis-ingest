@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Christensen, K.",
+        "Institution": "Hualapai Tribe Department of Natural Resources",
+        "Place Published": "Peach Springs, AZ",
+        "Title": "Cooperative Drought Contingency Plan - Hualapai Reservation",
+        "URL": "http://hualapai.org/resources/Aministration/droughtplan.rev3BOR.pdf",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\",\"Ch. 1: Overview FINAL\"]",
+        "_record_number": "466",
+        "_uuid": "9f68d45c-f1ef-41f9-8593-b848ad8e08bb",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/hualapai-cdcp-2003",
+    "href": "http://data.globalchange.gov/reference/9f68d45c-f1ef-41f9-8593-b848ad8e08bb.json",
+    "identifier": "9f68d45c-f1ef-41f9-8593-b848ad8e08bb",
+    "uri": "/reference/9f68d45c-f1ef-41f9-8593-b848ad8e08bb"
+}

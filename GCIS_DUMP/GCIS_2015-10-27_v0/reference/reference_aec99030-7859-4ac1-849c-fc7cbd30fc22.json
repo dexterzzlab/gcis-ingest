@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".publisher": "Springer New York",
+        ".reference_type": "0",
+        "Author": "Cole, J.J.\rPrairie, Y.T.\rCaraco, N.F.\rMcDowell, W.H.\rTranvik, L.J.\rStriegl, R.G.\rDuarte, C.M.\rKortelainen, P.\rDowning, J.A.\rMiddelburg, J.J.\rMelack, J.",
+        "DOI": "10.1007/s10021-006-9013-8",
+        "ISSN": "1432-9840",
+        "Issue": "1",
+        "Journal": "Ecosystems",
+        "Keywords": "Biomedical and Life Sciences",
+        "Pages": "172-185",
+        "Title": "Plumbing the global carbon cycle: Integrating inland waters into the terrestrial carbon budget",
+        "Volume": "10",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "1277",
+        "_uuid": "aec99030-7859-4ac1-849c-fc7cbd30fc22",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10021-006-9013-8",
+    "href": "http://data.globalchange.gov/reference/aec99030-7859-4ac1-849c-fc7cbd30fc22.json",
+    "identifier": "aec99030-7859-4ac1-849c-fc7cbd30fc22",
+    "uri": "/reference/aec99030-7859-4ac1-849c-fc7cbd30fc22"
+}

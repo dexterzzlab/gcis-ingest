@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Garrett, K.A.\rDendy, S.P.\rFrank, E.E.\rRouse, M.N.\rTravers, S.E.",
+        "DOI": "10.1146/annurev.phyto.44.070505.143420",
+        "ISSN": "0066-4286",
+        "Issue": "1",
+        "Journal": "Annual Review Phytopathology",
+        "Pages": "489-509",
+        "Title": "Climate change effects on plant disease: Genomes to ecosystems",
+        "Volume": "44",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "299",
+        "_uuid": "f5b6b86e-3f7b-4860-bab5-2f6d52bb5516",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1146/annurev.phyto.44.070505.143420",
+    "href": "http://data.globalchange.gov/reference/f5b6b86e-3f7b-4860-bab5-2f6d52bb5516.json",
+    "identifier": "f5b6b86e-3f7b-4860-bab5-2f6d52bb5516",
+    "uri": "/reference/f5b6b86e-3f7b-4860-bab5-2f6d52bb5516"
+}

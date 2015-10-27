@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "EPA,",
+        "Institution": "U.S. Environmental Protection Agency",
+        "Place Published": "Washington, D.C.",
+        "Title": "Inventory of US Greenhouse Gas Emissions and Sinks: 1990-2011",
+        "URL": "http://www.epa.gov/climatechange/Downloads/ghgemissions/US-GHG-Inventory-2013-Main-Text.pdf",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Ch. 15: Biogeochemical FINAL\",\"Ch. 27: Mitigation FINAL\",\"RF 12\",\"Ch. 7: Forests FINAL\",\"Ch. 10: Energy Water Land FINAL\"]",
+        "_record_number": "4086",
+        "_uuid": "13e4d075-f7bd-4fd4-a41f-a1f0cd93356d",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/epa-greenhousegasinventory-1990-2011",
+    "href": "http://data.globalchange.gov/reference/13e4d075-f7bd-4fd4-a41f-a1f0cd93356d.json",
+    "identifier": "13e4d075-f7bd-4fd4-a41f-a1f0cd93356d",
+    "uri": "/reference/13e4d075-f7bd-4fd4-a41f-a1f0cd93356d"
+}

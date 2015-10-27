@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Hammar-Klose, E.\rThieler, E.",
+        "Institution": "U.S. Geological Survey",
+        "Title": "National Assessment of Coastal Vulnerability to Future Sea-Level Rise: Preliminary Results for the US Atlantic, Pacific and Gulf of Mexico Coasts. US Reports 99\u2013593, 00-178, and 00-179",
+        "URL": "http://woodshole.er.usgs.gov/project-pages/cvi/",
+        "Year": "2001",
+        "_chapter": "[\"RG 2 Southeast\",\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "1144",
+        "_uuid": "487b04ce-2b8a-4abe-ae9c-c03672fdaef5",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usgs-natassessment-2001",
+    "href": "http://data.globalchange.gov/reference/487b04ce-2b8a-4abe-ae9c-c03672fdaef5.json",
+    "identifier": "487b04ce-2b8a-4abe-ae9c-c03672fdaef5",
+    "uri": "/reference/487b04ce-2b8a-4abe-ae9c-c03672fdaef5"
+}

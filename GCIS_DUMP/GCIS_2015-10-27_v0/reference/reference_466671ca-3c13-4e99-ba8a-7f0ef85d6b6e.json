@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".publisher": "Nature Publishing Group",
+        ".reference_type": "0",
+        "Author": "Vecchi, Gabriel A.\rSoden, Brian J.",
+        "DOI": "10.1038/nature06423",
+        "Date": "December 13 2007",
+        "ISSN": "0028-0836",
+        "Issue": "7172",
+        "Journal": "Nature",
+        "Pages": "1066-1070",
+        "Title": "Effect of remote sea surface temperature change on tropical cyclone potential intensity",
+        "Volume": "450",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"RF 2\"]",
+        "_record_number": "4622",
+        "_uuid": "466671ca-3c13-4e99-ba8a-7f0ef85d6b6e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/nature06423",
+    "href": "http://data.globalchange.gov/reference/466671ca-3c13-4e99-ba8a-7f0ef85d6b6e.json",
+    "identifier": "466671ca-3c13-4e99-ba8a-7f0ef85d6b6e",
+    "uri": "/reference/466671ca-3c13-4e99-ba8a-7f0ef85d6b6e"
+}

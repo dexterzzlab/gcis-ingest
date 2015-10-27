@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Martinich, J.\rNeumann, J.\rLudwig, L.\rJantarasami, L.",
+        "DOI": "10.1007/s11027-011-9356-0",
+        "ISSN": "1381-2386",
+        "Journal": "Mitigation and Adaptation Strategies for Global Change",
+        "Pages": "169-185",
+        "Title": "Risks of sea level rise to disadvantaged communities in the United States",
+        "URL": "http://link.springer.com/content/pdf/10.1007%2Fs11027-011-9356-0",
+        "Volume": "18",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"RG 10 Coasts\",\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "1893",
+        "_uuid": "8b9be5aa-a391-4ed6-a26e-20959b4417ac",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s11027-011-9356-0",
+    "href": "http://data.globalchange.gov/reference/8b9be5aa-a391-4ed6-a26e-20959b4417ac.json",
+    "identifier": "8b9be5aa-a391-4ed6-a26e-20959b4417ac",
+    "uri": "/reference/8b9be5aa-a391-4ed6-a26e-20959b4417ac"
+}

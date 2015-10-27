@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2012-10-05T08:18:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Generalized Adaptation Process\r\n    (Figure source: adapted from NRC\r\n    2010<tbib>65ce3b87-d63b-4582-a9b5-f25510b64e97</tbib>).",
+            "chapter_identifier": "adaptation",
+            "create_dt": "2012-10-05T08:18:00",
+            "identifier": "adaptation-process",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 3,
+            "report_identifier": "nca3",
+            "source_citation": "adapted from NRC, 2010",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Adaptation Process",
+            "url": "http://nca2014.globalchange.gov/report/response-strategies/adaptation/graphics/adaptation-process",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "c1/66/140140ec4189a57ff96a6e1ed230/adapt_adaptation_process_13905_v1.png",
+            "href": "http://data.globalchange.gov/assets/c1/66/140140ec4189a57ff96a6e1ed230/adapt_adaptation_process_13905_v1.png",
+            "identifier": "12593639-a3b6-4549-a283-ba958b52824a",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "03a88a711e58bb03a4508859a8a62c4ecfd950ce",
+            "size": 148760,
+            "thumbnail": "c1/66/140140ec4189a57ff96a6e1ed230/.thumb-12593639-a3b6-4549-a283-ba958b52824a.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/c1/66/140140ec4189a57ff96a6e1ed230/.thumb-12593639-a3b6-4549-a283-ba958b52824a.png",
+            "uri": "/file/12593639-a3b6-4549-a283-ba958b52824a",
+            "url": "/assets/c1/66/140140ec4189a57ff96a6e1ed230/adapt_adaptation_process_13905_v1.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/39c4a2b0-011a-4fb9-8fbe-f5750c3f3e17.json",
+    "identifier": "39c4a2b0-011a-4fb9-8fbe-f5750c3f3e17",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Generalized Adaptation Process",
+    "uri": "/image/39c4a2b0-011a-4fb9-8fbe-f5750c3f3e17",
+    "url": null,
+    "usage_limits": null
+}

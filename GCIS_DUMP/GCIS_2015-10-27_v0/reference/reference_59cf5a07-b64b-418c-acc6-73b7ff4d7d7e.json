@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Cayan, D\rKunkel, K.\rCastro, C.\rGershunov, A.\rBarsugli, J.\rRay, A.\rOverpeck, J.\rAnderson, M.\rRussell, J.\rRajagopalan, B.\rRangwala, I.\rDuffy, P",
+        "Book Title": "Assessment of Climate Change in the Southwest United States: A Report Prepared for the National Climate Assessment",
+        "Editor": "Garfin, G.\rJardine, A.\rMerideth, R.\rBlack, Mary\rLeRoy, Sarah",
+        "ISBN": "9781610914468",
+        "Pages": "153-196",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "Island Press",
+        "Reviewer": "59cf5a07-b64b-418c-acc6-73b7ff4d7d7e",
+        "Title": "Ch. 6: Future climate: Projected average",
+        "URL": "http://swccar.org/sites/all/themes/files/SW-NCA-color-FINALweb.pdf",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "199",
+        "_uuid": "59cf5a07-b64b-418c-acc6-73b7ff4d7d7e",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/c9625c65-c20f-4163-87fe-cebf734f7836",
+    "href": "http://data.globalchange.gov/reference/59cf5a07-b64b-418c-acc6-73b7ff4d7d7e.json",
+    "identifier": "59cf5a07-b64b-418c-acc6-73b7ff4d7d7e",
+    "uri": "/reference/59cf5a07-b64b-418c-acc6-73b7ff4d7d7e"
+}

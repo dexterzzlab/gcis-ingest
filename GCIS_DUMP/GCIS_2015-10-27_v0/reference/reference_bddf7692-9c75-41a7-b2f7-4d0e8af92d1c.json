@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Slovic, Paul\rBaruch Fischhoff\rSarah Lichtenstein",
+        "Book Title": "Advances in Consumer Research",
+        "Editor": "Monroe, Kent B.",
+        "Pages": "497-502",
+        "Place Published": "Ann Arbor, MI",
+        "Publisher": "Association for Consumer Research",
+        "Reviewer": "bddf7692-9c75-41a7-b2f7-4d0e8af92d1c",
+        "Title": "Fact and fears: Societal perception of risk",
+        "Year": "1981",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4466",
+        "_uuid": "bddf7692-9c75-41a7-b2f7-4d0e8af92d1c",
+        "reftype": "Book Section"
+    },
+    "child_publication": null,
+    "href": "http://data.globalchange.gov/reference/bddf7692-9c75-41a7-b2f7-4d0e8af92d1c.json",
+    "identifier": "bddf7692-9c75-41a7-b2f7-4d0e8af92d1c",
+    "uri": "/reference/bddf7692-9c75-41a7-b2f7-4d0e8af92d1c"
+}

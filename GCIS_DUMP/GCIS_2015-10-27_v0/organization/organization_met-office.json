@@ -1,0 +1,9 @@
+{
+    "country_code": "UK",
+    "href": "http://data.globalchange.gov/organization/met-office.json",
+    "identifier": "met-office",
+    "name": "Met Office",
+    "organization_type_identifier": "national",
+    "uri": "/organization/met-office",
+    "url": "http://www.metoffice.gov.uk/"
+}

@@ -1,0 +1,61 @@
+{
+    "attributes": "Ocean heat content, observed, global",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-08-20T08:40:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "This figure summarizes some of the many datasets documenting changes in the Earth\u2019s climate, all of which are consistent with a warming planet. In all figures except the lower two in the right column, data are plotted relative to averages over the period 1960-1999 (Figure source: updated from Kennedy et al. 20102).",
+            "chapter_identifier": "appendix-faqs",
+            "create_dt": "2013-08-20T08:40:00",
+            "identifier": "caq-indicators-of-warming-from-multiple-data-sets",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 3,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Indicators of Warming from Multiple Data Sets",
+            "url": "http://nca2014.globalchange.gov/report/appendices/faqs/graphics/indicators-warming-multiple-data-sets",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "95/77/b7b2ab9e2a086e62f530848a5eeb/faq-3_ocean-heat.png",
+            "href": "http://data.globalchange.gov/assets/95/77/b7b2ab9e2a086e62f530848a5eeb/faq-3_ocean-heat.png",
+            "identifier": "5ff1e4ec-da4f-4d70-bd9a-013d3d34e40a",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "b295420cbc1da56bbd5ae4034ff31ab727cd3ad9",
+            "size": 59384,
+            "thumbnail": "95/77/b7b2ab9e2a086e62f530848a5eeb/.thumb-5ff1e4ec-da4f-4d70-bd9a-013d3d34e40a.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/95/77/b7b2ab9e2a086e62f530848a5eeb/.thumb-5ff1e4ec-da4f-4d70-bd9a-013d3d34e40a.png",
+            "uri": "/file/5ff1e4ec-da4f-4d70-bd9a-013d3d34e40a",
+            "url": "/assets/95/77/b7b2ab9e2a086e62f530848a5eeb/faq-3_ocean-heat.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/984292e0-19bd-4926-87db-cb3b7f3d69f8.json",
+    "identifier": "984292e0-19bd-4926-87db-cb3b7f3d69f8",
+    "lat_max": "90.00",
+    "lat_min": "-90.00",
+    "lon_max": "180.00",
+    "lon_min": "-180.00",
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2011-12-31T23:59:59",
+    "time_start": "1945-01-01T00:00:00",
+    "title": "Indicators of Warming from Multiple Data Sets - Ocean Heat Content",
+    "uri": "/image/984292e0-19bd-4926-87db-cb3b7f3d69f8",
+    "url": null,
+    "usage_limits": null
+}

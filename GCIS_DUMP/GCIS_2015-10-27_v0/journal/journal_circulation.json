@@ -1,0 +1,12 @@
+{
+    "country": null,
+    "href": "http://data.globalchange.gov/journal/circulation.json",
+    "identifier": "circulation",
+    "notes": null,
+    "online_issn": "1524-4539",
+    "print_issn": "0009-7322",
+    "publisher": "Lippincott Williams & Wilkins",
+    "title": "Circulation",
+    "uri": "/journal/circulation",
+    "url": "http://circ.ahajournals.org/"
+}

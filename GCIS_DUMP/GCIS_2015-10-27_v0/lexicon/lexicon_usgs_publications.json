@@ -1,0 +1,7 @@
+{
+    "description": "USGS Publications Database",
+    "href": "http://data.globalchange.gov/lexicon/usgs_publications.json",
+    "identifier": "usgs_publications",
+    "uri": "/lexicon/usgs_publications",
+    "url": "http://pubs.er.usgs.gov"
+}

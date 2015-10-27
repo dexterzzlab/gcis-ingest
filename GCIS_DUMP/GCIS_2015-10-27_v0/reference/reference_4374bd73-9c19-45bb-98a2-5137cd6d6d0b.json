@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Lister, S.A.",
+        "Institution": "Congressional Research Service Report for Congress",
+        "Pages": "24",
+        "Title": "Hurricane Katrina: The Public Health and Medical Response",
+        "URL": "http://fpc.state.gov/documents/organization/54255.pdf",
+        "Volume": "21",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Appendix 1: Process FINAL\"]",
+        "_record_number": "865",
+        "_uuid": "4374bd73-9c19-45bb-98a2-5137cd6d6d0b",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/crs-pubhealth-2005",
+    "href": "http://data.globalchange.gov/reference/4374bd73-9c19-45bb-98a2-5137cd6d6d0b.json",
+    "identifier": "4374bd73-9c19-45bb-98a2-5137cd6d6d0b",
+    "uri": "/reference/4374bd73-9c19-45bb-98a2-5137cd6d6d0b"
+}

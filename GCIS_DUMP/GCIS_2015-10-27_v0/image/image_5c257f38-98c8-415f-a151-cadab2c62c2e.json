@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-07-09T16:19:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "The 36-day-old clams in the photos are a single species, Mercenaria mercenaria, grown in the laboratory under varying levels of carbon dioxide (CO<sub>2</sub>) in the air. CO<sub>2</sub> is absorbed from the air by ocean water, acidifying the water and thus reducing the ability of juvenile clams to grow their shells. As seen in the photos, where CO<sub>2</sub> levels rise progressively from left to right, 36-day-old clams (measured in microns) grown under elevated CO<sub>2</sub> levels are smaller than those grown under lower CO<sub>2</sub> levels. The highest CO<sub>2</sub> level, about 1500 parts per million (ppm; far right), is higher than most projections for the end of this century but could occur locally in some estuaries. (Figure source: Talmage and Gobler 2010<tbib>93174a81-1212-49a4-a2f8-ed8286e05bda</tbib>).",
+            "chapter_identifier": "oceans-marine-resources",
+            "create_dt": "2013-07-09T16:19:00",
+            "identifier": "ocean-acidification-reduces-size-of-clams",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 3,
+            "report_identifier": "nca3",
+            "source_citation": "Talmage and Gobler 2010<tbib>93174a81-1212-49a4-a2f8-ed8286e05bda</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Ocean Acidification Reduces Size of Clams",
+            "url": "http://nca2014.globalchange.gov/highlights/report-findings/oceans/graphics/ocean-acidification-reduces-size-clams",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "60/d2/f85a4c55c77c0a5b46a5a581d8ae/oceans_clam_series_v2_750ppm.png",
+            "href": "http://data.globalchange.gov/assets/60/d2/f85a4c55c77c0a5b46a5a581d8ae/oceans_clam_series_v2_750ppm.png",
+            "identifier": "5dcbd5f5-aa13-4b70-b97d-307cfb2c4244",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "6389a309ad677109db40d41fb5e571ecea636751",
+            "size": 298309,
+            "thumbnail": "60/d2/f85a4c55c77c0a5b46a5a581d8ae/.thumb-5dcbd5f5-aa13-4b70-b97d-307cfb2c4244.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/60/d2/f85a4c55c77c0a5b46a5a581d8ae/.thumb-5dcbd5f5-aa13-4b70-b97d-307cfb2c4244.png",
+            "uri": "/file/5dcbd5f5-aa13-4b70-b97d-307cfb2c4244",
+            "url": "/assets/60/d2/f85a4c55c77c0a5b46a5a581d8ae/oceans_clam_series_v2_750ppm.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/5c257f38-98c8-415f-a151-cadab2c62c2e.json",
+    "identifier": "5c257f38-98c8-415f-a151-cadab2c62c2e",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Ocean Acidification Causes Clams to Shrink - 750 ppm",
+    "uri": "/image/5c257f38-98c8-415f-a151-cadab2c62c2e",
+    "url": null,
+    "usage_limits": null
+}

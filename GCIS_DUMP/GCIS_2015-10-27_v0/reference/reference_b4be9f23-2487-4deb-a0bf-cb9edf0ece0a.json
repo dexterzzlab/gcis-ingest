@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "NRC,",
+        "Book Title": "Groundwater Fluxes Across Interfaces",
+        "ISBN": "978-0-309-09113-8",
+        "Pages": "32-41",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "National Research Council, The National Academies Press",
+        "Reviewer": "b4be9f23-2487-4deb-a0bf-cb9edf0ece0a",
+        "Title": "Ch. 3: Interactions of groundwater with climate",
+        "URL": "http://www.nap.edu/catalog.php?record_id=10891",
+        "Year": "2004",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "3627",
+        "_uuid": "b4be9f23-2487-4deb-a0bf-cb9edf0ece0a",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/6cf5731b-bcbe-4765-aa89-ec79ac54926a",
+    "href": "http://data.globalchange.gov/reference/b4be9f23-2487-4deb-a0bf-cb9edf0ece0a.json",
+    "identifier": "b4be9f23-2487-4deb-a0bf-cb9edf0ece0a",
+    "uri": "/reference/b4be9f23-2487-4deb-a0bf-cb9edf0ece0a"
+}

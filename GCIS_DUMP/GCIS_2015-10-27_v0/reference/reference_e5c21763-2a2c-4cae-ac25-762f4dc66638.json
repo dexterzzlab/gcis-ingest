@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        ".publisher": "NRC Research Press",
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"italic\" start=\"64\" /><run start=\"75\" /></field></record>",
+        "Access Date": "2013/11/13",
+        "Author": "Juanes, Francis\rGephard, Stephen\rBeland, Kenneth F.",
+        "DOI": "10.1139/f04-207",
+        "Date": "2004/12/01",
+        "ISSN": "0706-652X",
+        "Issue": "12",
+        "Journal": "Canadian Journal of Fisheries and Aquatic Sciences",
+        "Pages": "2392-2400",
+        "Title": "Long-term changes in migration timing of adult Atlantic salmon (Salmo salar) at the southern edge of the species distribution",
+        "URL": "http://www.nrcresearchpress.com/doi/pdf/10.1139/f04-207",
+        "Volume": "61",
+        "Year": "2004",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\"]",
+        "_record_number": "4572",
+        "_uuid": "e5c21763-2a2c-4cae-ac25-762f4dc66638",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1139/f04-207",
+    "href": "http://data.globalchange.gov/reference/e5c21763-2a2c-4cae-ac25-762f4dc66638.json",
+    "identifier": "e5c21763-2a2c-4cae-ac25-762f4dc66638",
+    "uri": "/reference/e5c21763-2a2c-4cae-ac25-762f4dc66638"
+}

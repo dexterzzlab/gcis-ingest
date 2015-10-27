@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Brown, Daniel G.\rPolsky, Colin\rBolstad, Paul\rBrody, Samuel D.\rHulse, David\rKroh, Roger\rLoveland, Thomas R.\rThomson, Allison",
+        "Book Title": "Climate Change Impacts in the United States: The Third National Climate Assessment",
+        "DOI": "(doi)",
+        "Editor": "Melillo, Jerry M.\rTerese (T.C.) Richmond,\rYohe, Gary W.",
+        "Pages": "13-1\u2013nn",
+        "Place Published": "Washington, DC",
+        "Publisher": "U.S. Global Change Research Program",
+        "Reviewer": "8cbef4be-90a3-4191-b203-4f967eb0e8a4",
+        "Title": "Ch. 13: Land Use and Land Cover Change",
+        "URL": "http://nca2014.globalchange.gov/report/sectors/land-use-and-land-cover-change",
+        "Year": "2014",
+        "_chapter": "[\"Ch. 0: About this Report FINAL\"]",
+        "_record_number": "4723",
+        "_uuid": "8cbef4be-90a3-4191-b203-4f967eb0e8a4",
+        "reftype": "Book Section"
+    },
+    "child_publication": null,
+    "href": "http://data.globalchange.gov/reference/8cbef4be-90a3-4191-b203-4f967eb0e8a4.json",
+    "identifier": "8cbef4be-90a3-4191-b203-4f967eb0e8a4",
+    "uri": "/reference/8cbef4be-90a3-4191-b203-4f967eb0e8a4"
+}

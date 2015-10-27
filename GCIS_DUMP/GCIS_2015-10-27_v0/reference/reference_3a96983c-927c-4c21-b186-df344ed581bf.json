@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Needham, H.F.\rCarter, L.\rKeim, B.D. ",
+        "Institution": "Southern Climate Impacts Planning Program (SCIPP)",
+        "Pages": "20",
+        "Title": "Gulf Coast Climate Needs Assessment Interviews",
+        "URL": "http://www.southernclimate.org/publications/Gulf_Coast_Assessment_Final.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "2189",
+        "_uuid": "3a96983c-927c-4c21-b186-df344ed581bf",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/scipp-gulfcoast-2012",
+    "href": "http://data.globalchange.gov/reference/3a96983c-927c-4c21-b186-df344ed581bf.json",
+    "identifier": "3a96983c-927c-4c21-b186-df344ed581bf",
+    "uri": "/reference/3a96983c-927c-4c21-b186-df344ed581bf"
+}

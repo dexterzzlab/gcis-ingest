@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Bromirski, Peter D.\rMiller, Arthur J.\rFlick, Reinhard E.\rAuad, Guillermo",
+        "DOI": "10.1029/2010JC006759",
+        "ISSN": "0148-0227",
+        "Issue": "C7",
+        "Journal": "Journal of Geophysical Research",
+        "Pages": "C07005",
+        "Title": "Dynamical suppression of sea level rise along the Pacific coast of North America: Indications for imminent acceleration",
+        "URL": "http://www.agu.org/pubs/crossref/2011/2010JC006759.shtml",
+        "Volume": "116",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "549",
+        "_uuid": "0f4ef7fe-7cee-4813-89e0-6fe02141c0f4",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2010JC006759",
+    "href": "http://data.globalchange.gov/reference/0f4ef7fe-7cee-4813-89e0-6fe02141c0f4.json",
+    "identifier": "0f4ef7fe-7cee-4813-89e0-6fe02141c0f4",
+    "uri": "/reference/0f4ef7fe-7cee-4813-89e0-6fe02141c0f4"
+}

@@ -1,0 +1,30 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Accession Number": "ISI:000281568700014",
+        "Alternate Journal": "Biogeochemistry",
+        "Author": "Raymond, P. A.\rSaiers, J. E.",
+        "Author Address": "Raymond, PA; Yale Univ, Sch Forestry & Environm Studies, New Haven, CT 06511 USA; Yale Univ, Sch Forestry & Environm Studies, New Haven, CT 06511 USA; Yale Univ, Sch Forestry & Environm Studies, New Haven, CT 06511 USA",
+        "DOI": "10.1007/s10533-010-9416-7",
+        "Date": "Sep",
+        "ISSN": "0168-2563",
+        "Issue": "1-3",
+        "Journal": "Biogeochemistry",
+        "Keywords": "precipitation; climate change; doc; dom; dissolved organic-carbon; northeastern united-states; drinking-water; climate-change; new-york; episodic acidification; precambrian shield; changing climate; nutrient loss; snake river",
+        "Label": "IN",
+        "Language": "English",
+        "Pages": "197-209",
+        "Title": "Event controlled DOC export from forested watersheds",
+        "URL": "<Go to ISI>://000281568700014",
+        "Volume": "100",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "2591",
+        "_uuid": "e82fa1b5-8cd2-426f-a5ae-4f44bba8c5d0",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10533-010-9416-7",
+    "href": "http://data.globalchange.gov/reference/e82fa1b5-8cd2-426f-a5ae-4f44bba8c5d0.json",
+    "identifier": "e82fa1b5-8cd2-426f-a5ae-4f44bba8c5d0",
+    "uri": "/reference/e82fa1b5-8cd2-426f-a5ae-4f44bba8c5d0"
+}

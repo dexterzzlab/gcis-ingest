@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Post, E.\rPedersen, C.\rWilmers, C.C.\rForchhammer, M.C.",
+        "DOI": "10.1098/rspb.2008.0463",
+        "ISSN": "0962-8452",
+        "Issue": "1646",
+        "Journal": "Proceedings of the Royal Society B: Biological Sciences",
+        "Pages": "2005-2013",
+        "Title": "Warming, plant phenology and the spatial dimension of trophic mismatch for large herbivores",
+        "URL": "http://rspb.royalsocietypublishing.org/content/275/1646/2005.full.pdf+html",
+        "Volume": "275",
+        "Year": "2008",
+        "_chapter": "[\"RF 10\",\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "2521",
+        "_uuid": "f85d6a82-f5ae-462a-9585-36ba367fa84c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1098/rspb.2008.0463",
+    "href": "http://data.globalchange.gov/reference/f85d6a82-f5ae-462a-9585-36ba367fa84c.json",
+    "identifier": "f85d6a82-f5ae-462a-9585-36ba367fa84c",
+    "uri": "/reference/f85d6a82-f5ae-462a-9585-36ba367fa84c"
+}

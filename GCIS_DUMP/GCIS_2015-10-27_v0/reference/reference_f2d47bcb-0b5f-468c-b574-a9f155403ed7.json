@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Mader, T.L.",
+        "ISSN": "0021-8812",
+        "Issue": "14 suppl 2",
+        "Journal": "Journal of Animal Science",
+        "Pages": "E110-E119",
+        "Title": "Environmental stress in confined beef cattle",
+        "URL": "http://www.animal-science.org/content/81/14_suppl_2/E110.full.pdf",
+        "Volume": "81",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "1842",
+        "_uuid": "f2d47bcb-0b5f-468c-b574-a9f155403ed7",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/environmental-stress-in-confined-beef-cattle",
+    "href": "http://data.globalchange.gov/reference/f2d47bcb-0b5f-468c-b574-a9f155403ed7.json",
+    "identifier": "f2d47bcb-0b5f-468c-b574-a9f155403ed7",
+    "uri": "/reference/f2d47bcb-0b5f-468c-b574-a9f155403ed7"
+}

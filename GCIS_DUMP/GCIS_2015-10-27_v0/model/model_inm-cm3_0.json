@@ -1,0 +1,12 @@
+{
+    "description": null,
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/model/inm-cm3_0.json",
+    "identifier": "inm-cm3_0",
+    "name": "Institute of Numerical Mathematics Climate Model Version 3.0",
+    "project_identifier": "cmip3",
+    "reference_url": "http://www-pcmdi.llnl.gov/ipcc/model_documentation/INM_CM3.0.htm",
+    "uri": "/model/inm-cm3_0",
+    "version": null,
+    "website": null
+}

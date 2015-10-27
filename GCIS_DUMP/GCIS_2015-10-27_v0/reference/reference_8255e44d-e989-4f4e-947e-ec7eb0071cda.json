@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Ford, J.D.\rBerrang-Ford, L.",
+        "DOI": "10.1017/S0032247408008048",
+        "ISSN": "1475-3057",
+        "Issue": "234",
+        "Journal": "Polar Record",
+        "Pages": "225-236",
+        "Title": "Food security in Igloolik, Nunavut: An exploratory study",
+        "Volume": "45",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\"]",
+        "_record_number": "722",
+        "_uuid": "8255e44d-e989-4f4e-947e-ec7eb0071cda",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1017/S0032247408008048",
+    "href": "http://data.globalchange.gov/reference/8255e44d-e989-4f4e-947e-ec7eb0071cda.json",
+    "identifier": "8255e44d-e989-4f4e-947e-ec7eb0071cda",
+    "uri": "/reference/8255e44d-e989-4f4e-947e-ec7eb0071cda"
+}

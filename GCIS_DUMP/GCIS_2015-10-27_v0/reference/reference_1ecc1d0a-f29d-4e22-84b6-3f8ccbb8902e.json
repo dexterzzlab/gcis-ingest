@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "5",
+        "Issue Date": "May 17, 2012",
+        "Newspaper": "Metroland News",
+        "Place Published": "Albany, NY",
+        "Reporter": "Halloran, Amy ",
+        "Title": "Growing Uncertainties: Climate change is forcing farmers in the Northeast to rethink their seasonal strategies",
+        "URL": "http://metroland.net/2012/05/17/growing-uncertainties/",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "3989",
+        "_uuid": "1ecc1d0a-f29d-4e22-84b6-3f8ccbb8902e",
+        "reftype": "Newspaper Article"
+    },
+    "child_publication": "/generic/75d15b9f-26bb-4234-8163-6592c147b754",
+    "href": "http://data.globalchange.gov/reference/1ecc1d0a-f29d-4e22-84b6-3f8ccbb8902e.json",
+    "identifier": "1ecc1d0a-f29d-4e22-84b6-3f8ccbb8902e",
+    "uri": "/reference/1ecc1d0a-f29d-4e22-84b6-3f8ccbb8902e"
+}

@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Numbers of reported Lyme disease cases have increased dramatically over the past decade in the northeastern United States, but the year-to-year variability is sizable (average standard deviation ~30% of the mean). An improved understanding of the causes of such variability would aid in prevention and control of the disease, which is transmitted by a spirochete carried in the \u201cblack-legged\u201d tick, Ixodes scapularis. In this study, the variability in reported Lyme disease incidence between 1993 and 2001 in seven northeastern US states was analyzed as an outcome of weather variability. For all seven states analyzed, significant (p < 0.05) positive relations were found for the correlation of early summer disease incidence with the June moisture index (Palmer Hydrological Drought Index) in the region 2 years previously. The correlations may reflect enhanced nymph tick survival in wetter conditions. Few significant relations were found with same-year moisture index, which suggests that moisture has a greater effect on nymph tick survival following the insect\u2019s blood meal than before. In some states, significant correlations were observed related to warmer winter weather a year and a half prior to disease incidence, which may have been due to higher survival and activity levels of the white-footed mouse, the main host for Lyme disease-infected ticks.",
+        "Author": "Subak, Susan",
+        "DOI": "10.1093/aje/kwg014",
+        "Date": "March 15, 2003",
+        "Issue": "6",
+        "Journal": "American Journal of Epidemiology",
+        "Pages": "531-538",
+        "Title": "Effects of climate on variability in Lyme disease incidence in the northeastern United States",
+        "URL": "http://aje.oxfordjournals.org/content/157/6/531.full.pdf+html",
+        "Volume": "157",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "3982",
+        "_uuid": "8856aecc-549d-44b6-99ef-61d2d2d24905",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1093/aje/kwg014",
+    "href": "http://data.globalchange.gov/reference/8856aecc-549d-44b6-99ef-61d2d2d24905.json",
+    "identifier": "8856aecc-549d-44b6-99ef-61d2d2d24905",
+    "uri": "/reference/8856aecc-549d-44b6-99ef-61d2d2d24905"
+}

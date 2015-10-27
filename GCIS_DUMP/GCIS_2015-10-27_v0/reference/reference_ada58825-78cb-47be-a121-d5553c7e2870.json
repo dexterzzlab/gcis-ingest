@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Jokiel, P.L.\rBrown, E.K.",
+        "DOI": "10.1111/j.1365-2486.2004.00836.x",
+        "ISSN": "1365-2486",
+        "Issue": "10",
+        "Journal": "Global Change Biology",
+        "Pages": "1627-1641",
+        "Title": "Global warming, regional trends and inshore environmental conditions influence coral bleaching in Hawaii",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2486.2004.00836.x/pdf",
+        "Volume": "10",
+        "Year": "2004",
+        "_chapter": "[\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "790",
+        "_uuid": "ada58825-78cb-47be-a121-d5553c7e2870",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1365-2486.2004.00836.x",
+    "href": "http://data.globalchange.gov/reference/ada58825-78cb-47be-a121-d5553c7e2870.json",
+    "identifier": "ada58825-78cb-47be-a121-d5553c7e2870",
+    "uri": "/reference/ada58825-78cb-47be-a121-d5553c7e2870"
+}

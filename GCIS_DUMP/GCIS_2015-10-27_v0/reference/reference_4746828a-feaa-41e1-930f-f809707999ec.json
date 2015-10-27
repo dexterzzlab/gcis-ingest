@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Hall, J.W.\rLempert, R.J.\rKeller, K.\rHackbarth, A.\rMijere, C.\rMcInerney, D.J.",
+        "DOI": "10.1111/j.1539-6924.2012.01802.x",
+        "ISSN": "1539-6924",
+        "Issue": "10",
+        "Journal": "Risk Analysis",
+        "Pages": "1657-1672",
+        "Title": "Robust climate policies under uncertainty: A comparison of robust decision making and info-gap methods",
+        "Volume": "32",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\",\"RF 12\"]",
+        "_record_number": "1473",
+        "_uuid": "4746828a-feaa-41e1-930f-f809707999ec",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1539-6924.2012.01802.x",
+    "href": "http://data.globalchange.gov/reference/4746828a-feaa-41e1-930f-f809707999ec.json",
+    "identifier": "4746828a-feaa-41e1-930f-f809707999ec",
+    "uri": "/reference/4746828a-feaa-41e1-930f-f809707999ec"
+}

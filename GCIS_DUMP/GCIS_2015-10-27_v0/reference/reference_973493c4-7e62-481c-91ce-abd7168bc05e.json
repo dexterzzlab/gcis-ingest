@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".publisher": "Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.",
+        ".reference_type": "0",
+        "Author": "Boyce, Daniel G.\rLewis, Marlon R.\rWorm, Boris",
+        "DOI": "10.1038/nature09268",
+        "Date": "07/29/print",
+        "ISSN": "0028-0836",
+        "Issue": "7306",
+        "Journal": "Nature",
+        "Pages": "591-596",
+        "Title": "Global phytoplankton decline over the past century",
+        "URL": "http://www.nature.com/nature/journal/v466/n7306/pdf/nature09268.pdf",
+        "Volume": "466",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\"]",
+        "_record_number": "4377",
+        "_uuid": "973493c4-7e62-481c-91ce-abd7168bc05e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/nature09268",
+    "href": "http://data.globalchange.gov/reference/973493c4-7e62-481c-91ce-abd7168bc05e.json",
+    "identifier": "973493c4-7e62-481c-91ce-abd7168bc05e",
+    "uri": "/reference/973493c4-7e62-481c-91ce-abd7168bc05e"
+}

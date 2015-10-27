@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Burkett, V.",
+        "DOI": "10.1016/j.enpol.2011.09.016",
+        "Date": "December",
+        "ISSN": "0301-4215",
+        "Issue": "12",
+        "Journal": "Energy Policy",
+        "Pages": "7719-7725",
+        "Title": "Global climate change implications for coastal and offshore oil and gas development",
+        "Volume": "39",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 4: Energy Supply and Use FINAL\",\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "770",
+        "_uuid": "b5558bf8-6c04-4011-8f1e-30ce8e0743b4",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.enpol.2011.09.016",
+    "href": "http://data.globalchange.gov/reference/b5558bf8-6c04-4011-8f1e-30ce8e0743b4.json",
+    "identifier": "b5558bf8-6c04-4011-8f1e-30ce8e0743b4",
+    "uri": "/reference/b5558bf8-6c04-4011-8f1e-30ce8e0743b4"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Wu, L.\rWang, B.\rBraun, S.A.",
+        "DOI": "10.1002/joc.1573",
+        "ISSN": "1097-0088",
+        "Issue": "6",
+        "Journal": "International Journal of Climatology",
+        "Pages": "727-731",
+        "Title": "Implications of tropical cyclone power dissipation index",
+        "Volume": "28",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "3490",
+        "_uuid": "2e67c2b3-076e-4932-802c-6b289032302f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/joc.1573",
+    "href": "http://data.globalchange.gov/reference/2e67c2b3-076e-4932-802c-6b289032302f.json",
+    "identifier": "2e67c2b3-076e-4932-802c-6b289032302f",
+    "uri": "/reference/2e67c2b3-076e-4932-802c-6b289032302f"
+}

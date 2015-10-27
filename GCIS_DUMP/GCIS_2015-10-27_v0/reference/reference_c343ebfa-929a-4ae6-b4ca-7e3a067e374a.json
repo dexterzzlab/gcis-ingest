@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Groffman, Peter M.\rKareiva, Peter\rCarter, Shawn\rGrimm, Nancy B.\rLawler, Josh\rMack, Michelle\rMatzek, Virginia\rTallis, Heather",
+        "Book Title": "Climate Change Impacts in the United States: The Third National Climate Assessment",
+        "DOI": "(doi)",
+        "Editor": "Melillo, Jerry M.\rTerese (T.C.) Richmond,\rYohe, Gary W.",
+        "Pages": "8-1\u2013nn",
+        "Place Published": "Washington, DC",
+        "Publisher": "U.S. Global Change Research Program",
+        "Reviewer": "c343ebfa-929a-4ae6-b4ca-7e3a067e374a",
+        "Title": "Ch. 8: Ecosystems, Biodiversity, and Ecosystem Services",
+        "URL": "http://nca2014.globalchange.gov/report/sectors/ecosystems",
+        "Year": "2014",
+        "_chapter": "[\"Ch. 0: About this Report FINAL\"]",
+        "_record_number": "4719",
+        "_uuid": "c343ebfa-929a-4ae6-b4ca-7e3a067e374a",
+        "reftype": "Book Section"
+    },
+    "child_publication": null,
+    "href": "http://data.globalchange.gov/reference/c343ebfa-929a-4ae6-b4ca-7e3a067e374a.json",
+    "identifier": "c343ebfa-929a-4ae6-b4ca-7e3a067e374a",
+    "uri": "/reference/c343ebfa-929a-4ae6-b4ca-7e3a067e374a"
+}

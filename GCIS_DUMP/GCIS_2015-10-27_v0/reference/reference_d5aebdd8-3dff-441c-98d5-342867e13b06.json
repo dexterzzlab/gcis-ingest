@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "AGU",
+        ".reference_type": "0",
+        "Abstract": "We obtain new insights into the reliability of long-term historical Atlantic tropical cyclone (&#8216;TC&#8217;) counts through the use of a statistical model that relates variations in annual Atlantic TC counts to climate state variables. We find that the existence of a substantial undercount bias in late 19th through mid 20th century TC counts is inconsistent with the statistical relationship between TC counts and climate.",
+        "Author": "Mann, Michael E.\rSabbatelli, Thomas A.\rNeu, Urs",
+        "DOI": "10.1029/2007GL031781",
+        "ISSN": "0094-8276",
+        "Issue": "22",
+        "Journal": "Geophysical Research Letters",
+        "Keywords": "hurricanes; tropical cyclones; biases; 3374 Atmospheric Processes: Tropical meteorology; 3305 Atmospheric Processes: Climate change and variability; 3265 Mathematical Geophysics: Stochastic processes",
+        "Pages": "L22707",
+        "Title": "Evidence for a modest undercount bias in early historical Atlantic tropical cyclone counts",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2007GL031781/pdf",
+        "Volume": "34",
+        "Year": "2007",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "1867",
+        "_uuid": "d5aebdd8-3dff-441c-98d5-342867e13b06",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2007GL031781",
+    "href": "http://data.globalchange.gov/reference/d5aebdd8-3dff-441c-98d5-342867e13b06.json",
+    "identifier": "d5aebdd8-3dff-441c-98d5-342867e13b06",
+    "uri": "/reference/d5aebdd8-3dff-441c-98d5-342867e13b06"
+}

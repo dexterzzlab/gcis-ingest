@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"italic\" start=\"25\" /><run start=\"41\" /></field></record>",
+        "Author": "McLellan, S. L.\rHollis, E. J.\rDepas, M. M.\rVan Dyke, M.\rHarris, J.\rScopel, C. O.",
+        "DOI": "10.3394/0380-1330(2007)33[566:DAFOEC]2.0.CO;2",
+        "ISSN": "0380-1330",
+        "Journal": "Journal of Great Lakes Research",
+        "Pages": "566-580",
+        "Title": "Distribution and fate of Escherichia coli in Lake Michigan following contamination with urban stormwater and combined sewer overflows",
+        "URL": "http://www.bioone.org/doi/pdf/10.3394/0380-1330%282007%2933%5B566%3ADAFOEC%5D2.0.CO%3B2",
+        "Volume": "33",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "1958",
+        "_uuid": "5a66bdda-d5f3-4eb0-83d1-64cb86216182",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.3394/0380-1330(2007)33%5B566:DAFOEC%5D2.0.CO;2",
+    "href": "http://data.globalchange.gov/reference/5a66bdda-d5f3-4eb0-83d1-64cb86216182.json",
+    "identifier": "5a66bdda-d5f3-4eb0-83d1-64cb86216182",
+    "uri": "/reference/5a66bdda-d5f3-4eb0-83d1-64cb86216182"
+}

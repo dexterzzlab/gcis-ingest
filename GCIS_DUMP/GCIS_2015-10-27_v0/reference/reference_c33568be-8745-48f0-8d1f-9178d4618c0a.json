@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Souch, C.\rGrimmond, S.",
+        "DOI": "10.1191/0309133306pp484pr",
+        "ISSN": "0309-1333",
+        "Issue": "2",
+        "Journal": "Progress in Physical Geography",
+        "Pages": "270-279",
+        "Title": "Applied climatology: Urban climate",
+        "Volume": "30",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 13: Land Use and Land Cover Change FINAL\"]",
+        "_record_number": "2904",
+        "_uuid": "c33568be-8745-48f0-8d1f-9178d4618c0a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1191/0309133306pp484pr",
+    "href": "http://data.globalchange.gov/reference/c33568be-8745-48f0-8d1f-9178d4618c0a.json",
+    "identifier": "c33568be-8745-48f0-8d1f-9178d4618c0a",
+    "uri": "/reference/c33568be-8745-48f0-8d1f-9178d4618c0a"
+}

@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "American Institute of Biological Sciences",
+        ".reference_type": "0",
+        "Access Date": "2013/11/18",
+        "Author": "Paerl, Hans W.\rValdes, Lexia M.\rPinckney, James L.\rPiehler, Michael F.\rDyble, Julianne\rMoisander, Pia H.",
+        "DOI": "10.1641/0006-3568(2003)053[0953:PPAIOE]2.0.CO;2",
+        "Date": "2003/10/01",
+        "ISSN": "0006-3568",
+        "Issue": "10",
+        "Journal": "BioScience",
+        "Pages": "953-964",
+        "Title": "Phytoplankton photopigments as indicators of estuarine and coastal eutrophication",
+        "URL": "http://www.bioone.org/doi/pdf/10.1641/0006-3568%282003%29053%5B0953%3APPAIOE%5D2.0.CO%3B2",
+        "Volume": "53",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "4605",
+        "_uuid": "5819afc3-b206-4954-bb40-720b27092350",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1641/0006-3568(2003)053%5B0953:PPAIOE%5D2.0.CO;2",
+    "href": "http://data.globalchange.gov/reference/5819afc3-b206-4954-bb40-720b27092350.json",
+    "identifier": "5819afc3-b206-4954-bb40-720b27092350",
+    "uri": "/reference/5819afc3-b206-4954-bb40-720b27092350"
+}

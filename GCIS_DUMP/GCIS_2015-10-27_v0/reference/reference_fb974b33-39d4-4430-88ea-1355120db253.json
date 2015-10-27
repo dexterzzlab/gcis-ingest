@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Crowell, Mark\rCoulton, Kevin\rJohnson, Cheryl\rWestcott, Jonathan\rBellomo, Doug\rEdelman, Scott\rHirsch, Emily",
+        "DOI": "10.2112/JCOASTRES-D-09-00076.1",
+        "Database Provider": "http://worldcat.org",
+        "ISSN": "0749-0208",
+        "Issue": "2",
+        "Journal": "Journal of Coastal Research ",
+        "Language": "English",
+        "Name of Database": "/z-wcorg/",
+        "Pages": "201-211",
+        "Title": "An estimate of the U.S. population living in 100-year coastal flood hazard areas",
+        "Volume": "262",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "644",
+        "_uuid": "fb974b33-39d4-4430-88ea-1355120db253",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.2112/JCOASTRES-D-09-00076.1",
+    "href": "http://data.globalchange.gov/reference/fb974b33-39d4-4430-88ea-1355120db253.json",
+    "identifier": "fb974b33-39d4-4430-88ea-1355120db253",
+    "uri": "/reference/fb974b33-39d4-4430-88ea-1355120db253"
+}

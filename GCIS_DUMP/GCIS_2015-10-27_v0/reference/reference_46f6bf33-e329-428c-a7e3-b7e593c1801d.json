@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "DOE,",
+        "Institution": "Energy Information Administration, Office of Integrated Analysis and Forecasting",
+        "Pages": "83",
+        "Place Published": "Washington, D.C.",
+        "Title": "The National Energy Modeling System: An Overview 2009",
+        "URL": "http://www.eia.doe.gov/oiaf/aeo/overview/",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "1149",
+        "_uuid": "46f6bf33-e329-428c-a7e3-b7e593c1801d",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/doe-eia-0581-2009",
+    "href": "http://data.globalchange.gov/reference/46f6bf33-e329-428c-a7e3-b7e593c1801d.json",
+    "identifier": "46f6bf33-e329-428c-a7e3-b7e593c1801d",
+    "uri": "/reference/46f6bf33-e329-428c-a7e3-b7e593c1801d"
+}

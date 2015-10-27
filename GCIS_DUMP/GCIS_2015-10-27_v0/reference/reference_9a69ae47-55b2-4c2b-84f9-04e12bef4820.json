@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Background: As a result of increasing urbanisation, people face the prospect of living in environments with few green spaces. There is increasing evidence for a positive relation between green space in people\u2019s living environment and self-reported indicators of physical and mental health. This study investigates whether physician-assessed morbidity is also related to green space in people\u2019s living environment.Methods: Morbidity data were derived from electronic medical records of 195 general practitioners in 96 Dutch practices, serving a population of 345\u2009143 people. Morbidity was classified by the general practitioners according to the International Classification of Primary Care. The percentage of green space within a 1\u2009km and 3\u2009km radius around the postal code coordinates was derived from an existing database and was calculated for each household. Multilevel logistic regression analyses were performed, controlling for demographic and socioeconomic characteristics.Results: The annual prevalence rate of 15 of the 24 disease clusters was lower in living environments with more green space in a 1 km radius. The relation was strongest for anxiety disorder and depression. The relation was stronger for children and people with a lower socioeconomic status. Furthermore, the relation was strongest in slightly urban areas and not apparent in very strongly urban areas.Conclusion: This study indicates that the previously established relation between green space and a number of self-reported general indicators of physical and mental health can also be found for clusters of specific physician-assessed morbidity. The study stresses the importance of green space close to home for children and lower socioeconomic groups.",
+        "Author": "Maas, J\rVerheij, R A\rde Vries, S\rSpreeuwenberg, P\rSchellevis, F G\rGroenewegen, P P",
+        "DOI": "10.1136/jech.2008.079038",
+        "Date": "December 1, 2009",
+        "ISSN": "1470-2738",
+        "Issue": "12",
+        "Journal": "Journal of Epidemiology & Community Health",
+        "Pages": "967-973",
+        "Title": "Morbidity is related to a green living environment",
+        "URL": "http://jech.bmj.com/content/63/12/967.full.pdf+html",
+        "Volume": "63",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "4683",
+        "_uuid": "9a69ae47-55b2-4c2b-84f9-04e12bef4820",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1136/jech.2008.079038",
+    "href": "http://data.globalchange.gov/reference/9a69ae47-55b2-4c2b-84f9-04e12bef4820.json",
+    "identifier": "9a69ae47-55b2-4c2b-84f9-04e12bef4820",
+    "uri": "/reference/9a69ae47-55b2-4c2b-84f9-04e12bef4820"
+}

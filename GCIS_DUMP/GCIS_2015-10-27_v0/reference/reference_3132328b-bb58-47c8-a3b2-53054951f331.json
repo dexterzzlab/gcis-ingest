@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Neal, Edward G.\rHood, Eran\rSmikrud, Kathy",
+        "DOI": "10.1029/2010GL042385",
+        "ISSN": "0094-8276",
+        "Issue": "6",
+        "Journal": "Geophysical Research Letters",
+        "Keywords": "circulation; glaciers",
+        "Pages": "1-5",
+        "Title": "Contribution of glacier runoff to freshwater discharge into the Gulf of Alaska",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2010GL042385/pdf",
+        "Volume": "37",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "2183",
+        "_uuid": "3132328b-bb58-47c8-a3b2-53054951f331",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2010GL042385",
+    "href": "http://data.globalchange.gov/reference/3132328b-bb58-47c8-a3b2-53054951f331.json",
+    "identifier": "3132328b-bb58-47c8-a3b2-53054951f331",
+    "uri": "/reference/3132328b-bb58-47c8-a3b2-53054951f331"
+}

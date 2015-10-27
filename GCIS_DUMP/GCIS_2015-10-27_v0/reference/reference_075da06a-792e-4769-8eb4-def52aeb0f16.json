@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Sussman, E.",
+        "Issue": "2",
+        "Journal": "Sustainable Development Law & Policy",
+        "Pages": "11",
+        "Title": "Case study: Climate change adaptation planning guidance for local governments in the United States",
+        "Volume": "9",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "2993",
+        "_uuid": "075da06a-792e-4769-8eb4-def52aeb0f16",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/case-study-climate-change-adaptation-planning-guidance-for-local-governments-in-the-united-states",
+    "href": "http://data.globalchange.gov/reference/075da06a-792e-4769-8eb4-def52aeb0f16.json",
+    "identifier": "075da06a-792e-4769-8eb4-def52aeb0f16",
+    "uri": "/reference/075da06a-792e-4769-8eb4-def52aeb0f16"
+}

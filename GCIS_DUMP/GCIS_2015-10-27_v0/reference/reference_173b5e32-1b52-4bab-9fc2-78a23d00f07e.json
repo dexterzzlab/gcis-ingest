@@ -1,0 +1,30 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Accession Number": "WOS:000228377000004",
+        "Alternate Journal": "Geophys. Res. Lett.",
+        "Article Number": "L07809",
+        "Author": "Prinn, R. G.\rHuang, J.\rWeiss, R. F.\rCunnold, D. M.\rFraser, P. J.\rSimmonds, P. G.\rMcCulloch, A.\rHarth, C.\rReimann, S.\rSalameh, P.\rO'Doherty, S.\rWang, R. H. J.\rPorter, L. W.\rMiller, B. R.\rKrummel, P. B.",
+        "DOI": "10.1029/2004gl022228",
+        "Date": "Apr",
+        "ISSN": "1944-8007",
+        "Issue": "7",
+        "Journal": "Geophysical Research Letters",
+        "Keywords": "methyl chloroform emissions; tropospheric oh; wildfires; chemistry; history; gases; co",
+        "Language": "English",
+        "Pages": "L07809",
+        "Title": "Evidence for variability of atmospheric hydroxyl radicals over the past quarter century",
+        "Type of Article": "Article",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2004GL022228/pdf",
+        "Volume": "32",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "2536",
+        "_uuid": "173b5e32-1b52-4bab-9fc2-78a23d00f07e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2004gl022228",
+    "href": "http://data.globalchange.gov/reference/173b5e32-1b52-4bab-9fc2-78a23d00f07e.json",
+    "identifier": "173b5e32-1b52-4bab-9fc2-78a23d00f07e",
+    "uri": "/reference/173b5e32-1b52-4bab-9fc2-78a23d00f07e"
+}

@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Meeting a greenhouse gas (GHG) reduction target of 80% below 1990 levels in the year 2050 requires detailed long-term planning due to complexity, inertia, and path dependency in the energy system. A detailed investigation of supply and demand alternatives is conducted to assess requirements for future California energy systems that can meet the 2050 GHG target. Two components are developed here that build novel analytic capacity and extend previous studies: (1) detailed bottom-up projections of energy demand across the building, industry and transportation sectors; and (2) a high-resolution variable renewable resource capacity planning model (SWITCH) that minimizes the cost of electricity while meeting GHG policy goals in the 2050 timeframe. Multiple pathways exist to a low-GHG future, all involving increased efficiency, electrification, and a dramatic shift from fossil fuels to low-GHG energy. The electricity system is found to have a diverse, cost-effective set of options that meet aggressive GHG reduction targets. This conclusion holds even with increased demand from transportation and heating, but the optimal levels of wind and solar deployment depend on the temporal characteristics of the resulting load profile. Long-term policy support is found to be a key missing element for the successful attainment of the 2050 GHG target in California.",
+        "Author": "Wei, Max\rJames, H. Nelson\rJeffery, B. Greenblatt\rAna, Mileva\rJosiah, Johnston\rMichael, Ting\rChristopher, Yang\rChris, Jones\rJames, E. McMahon\rDaniel, M. Kammen",
+        "DOI": "10.1088/1748-9326/8/1/014038",
+        "ISSN": "1748-9326",
+        "Issue": "1",
+        "Journal": "Environmental Research Letters",
+        "Pages": "014038",
+        "Title": "Deep carbon reductions in California require electrification and integration across economic sectors",
+        "URL": "http://iopscience.iop.org/1748-9326/8/1/014038/pdf/1748-9326_8_1_014038.pdf",
+        "Volume": "8",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"Ch. 4: Energy Supply and Use FINAL\",\"RG 5 Southwest\"]",
+        "_record_number": "4009",
+        "_uuid": "0733dc3f-1365-42f3-898e-bffd91746f09",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1088/1748-9326/8/1/014038",
+    "href": "http://data.globalchange.gov/reference/0733dc3f-1365-42f3-898e-bffd91746f09.json",
+    "identifier": "0733dc3f-1365-42f3-898e-bffd91746f09",
+    "uri": "/reference/0733dc3f-1365-42f3-898e-bffd91746f09"
+}

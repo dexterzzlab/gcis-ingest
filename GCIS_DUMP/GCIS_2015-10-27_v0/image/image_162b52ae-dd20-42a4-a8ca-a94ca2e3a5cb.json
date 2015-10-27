@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "A coastal ecosystem restoration project in New York City integrates revegetation (a \r\nform of green infrastructure) with bulkheads and riprap (gray or built infrastructure). Investments \r\nin coastal ecosystem conservation and restoration can protect coastal waterfronts and \r\ninfrastructure, while providing additional benefits, such as habitat for commercial and recreational \r\nfish, birds, and other animal and plant species, that are not offered by built infrastructure. \r\n(Photo credit: Department of City Planning, New York City, reprinted with permission).",
+            "chapter_identifier": "coastal-zone",
+            "create_dt": null,
+            "identifier": "ecosystem-restoration",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 6,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Ecosystem Restoration",
+            "url": "http://nca2014.globalchange.gov/report/regions/coasts/graphics/ecosystem-restoration",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "a6/d8/97797cad3e271aa33e5337938de8/Coastal_ecosystem_restoration_V4.png",
+            "href": "http://data.globalchange.gov/assets/a6/d8/97797cad3e271aa33e5337938de8/Coastal_ecosystem_restoration_V4.png",
+            "identifier": "03f87eda-95af-4846-89d0-f355a8794a8c",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "d069f890b483ac0033b60b1c1c18f56ba19d7f86",
+            "size": 279157,
+            "thumbnail": "a6/d8/97797cad3e271aa33e5337938de8/.thumb-03f87eda-95af-4846-89d0-f355a8794a8c.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/a6/d8/97797cad3e271aa33e5337938de8/.thumb-03f87eda-95af-4846-89d0-f355a8794a8c.png",
+            "uri": "/file/03f87eda-95af-4846-89d0-f355a8794a8c",
+            "url": "/assets/a6/d8/97797cad3e271aa33e5337938de8/Coastal_ecosystem_restoration_V4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/162b52ae-dd20-42a4-a8ca-a94ca2e3a5cb.json",
+    "identifier": "162b52ae-dd20-42a4-a8ca-a94ca2e3a5cb",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Ecosystem Restoration",
+    "uri": "/image/162b52ae-dd20-42a4-a8ca-a94ca2e3a5cb",
+    "url": null,
+    "usage_limits": null
+}

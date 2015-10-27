@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Hinzman, Larry D.\rBettez, Neil D.\rBolton, W. Robert\rChapin, F. Stuart, III\rDyurgerov, Mark B.\rFastie, Chris L.\rGriffith, Brad\rHollister, Robert D.\rHope, Allen\rHuntington, Henry P.\rJensen, Anne M.\rJia, Gensuo J.\rJorgenson, Torre\rKane, Douglas L.\rKlein, David R.\rKofinas, Gary\rLynch, Amanda H.\rLloyd, Andrea H.\rMcGuire, A. David\rNelson, Frederick E.\rOechel, Walter C.\rOsterkamp, Thomas E.\rRacine, Charles H.\rRomanovsky, Vladimir E.\rStone, Robert S.\rStow, Douglas A.\rSturm, Matthew\rTweedie, Craig E.\rVourlitis, George L.\rWalker, Marilyn D.\rWalker, Donald A.\rWebber, Patrick J.\rWelker, Jeffrey M.\rWinker, Kevin S.\rYoshikawa, Kenji",
+        "DOI": "10.1007/s10584-005-5352-2",
+        "ISSN": "0165-0009",
+        "Issue": "3",
+        "Journal": "Climatic Change",
+        "Pages": "251-298",
+        "Title": "Evidence and implications of recent climate change in Northern Alaska and other Arctic regions",
+        "URL": "http://www.springerlink.com/index/10.1007/s10584-005-5352-2",
+        "Volume": "72",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\",\"Ch. 1: Overview FINAL\",\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "661",
+        "_uuid": "ab52be13-af0f-4dad-ba10-db328e20159d",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-005-5352-2",
+    "href": "http://data.globalchange.gov/reference/ab52be13-af0f-4dad-ba10-db328e20159d.json",
+    "identifier": "ab52be13-af0f-4dad-ba10-db328e20159d",
+    "uri": "/reference/ab52be13-af0f-4dad-ba10-db328e20159d"
+}

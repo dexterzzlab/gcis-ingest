@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-07-31T08:56:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "(Photo) Bleached brain coral; (Maps) The global extent and severity of mass coral bleaching have increased worldwide over the last decade. Red dots indicate severe bleaching. (Figure source: Marshall and Schuttenberg 2006;15 Photo credit: NOAA).",
+            "chapter_identifier": "appendix-faqs",
+            "create_dt": "2013-07-31T08:56:00",
+            "identifier": "coral-bleaching",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 20,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Coral Bleaching",
+            "url": "http://nca2014.globalchange.gov/report/appendices/faqs/graphics/coral-bleaching",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "0c/98/05d8237d06693a3b1c57fe7e95b6/faq-20_coral.png",
+            "href": "http://data.globalchange.gov/assets/0c/98/05d8237d06693a3b1c57fe7e95b6/faq-20_coral.png",
+            "identifier": "f9240c49-4532-4657-9536-909f5d8c29cd",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "4512fcbf69052459fe34a3a56379226bba52943d",
+            "size": 2111099,
+            "thumbnail": "0c/98/05d8237d06693a3b1c57fe7e95b6/.thumb-f9240c49-4532-4657-9536-909f5d8c29cd.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/0c/98/05d8237d06693a3b1c57fe7e95b6/.thumb-f9240c49-4532-4657-9536-909f5d8c29cd.png",
+            "uri": "/file/f9240c49-4532-4657-9536-909f5d8c29cd",
+            "url": "/assets/0c/98/05d8237d06693a3b1c57fe7e95b6/faq-20_coral.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/a8e576e7-75e0-4ea2-bc6c-d9a3959de291.json",
+    "identifier": "a8e576e7-75e0-4ea2-bc6c-d9a3959de291",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Coral Bleaching - Brain Coral",
+    "uri": "/image/a8e576e7-75e0-4ea2-bc6c-d9a3959de291",
+    "url": null,
+    "usage_limits": null
+}

@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/anl-esd-09-1.json",
+    "identifier": "anl-esd-09-1",
+    "in_library": null,
+    "publication_year": 2011,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Consumptive Water Use in the Production of Ethanol and Petroleum Gasoline \u2013 2011 Update. ANL/ESD/09-1 \u2013 Update",
+    "topic": null,
+    "uri": "/report/anl-esd-09-1",
+    "url": "http://greet.es.anl.gov/files/consumptive-water"
+}

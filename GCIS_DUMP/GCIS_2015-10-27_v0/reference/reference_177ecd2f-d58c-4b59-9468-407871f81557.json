@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Schaller, M.F.\rFan, Y.",
+        "DOI": "10.1029/2008JD010636",
+        "ISSN": "0148-0227",
+        "Issue": "D4",
+        "Journal": "Journal of Geophysical Research",
+        "Pages": "1-21",
+        "Title": "River basins as groundwater exporters and importers: Implications for water cycle and climate modeling",
+        "Volume": "114",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "2760",
+        "_uuid": "177ecd2f-d58c-4b59-9468-407871f81557",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2008JD010636",
+    "href": "http://data.globalchange.gov/reference/177ecd2f-d58c-4b59-9468-407871f81557.json",
+    "identifier": "177ecd2f-d58c-4b59-9468-407871f81557",
+    "uri": "/reference/177ecd2f-d58c-4b59-9468-407871f81557"
+}

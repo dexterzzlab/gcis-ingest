@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "This paper describes a new compilation of both direct and geodetic mass-balance measurements, develops a procedure to reduce diverse balance measurements over different time-spans to common time-spans, and presents updated estimates of global average balance of small glaciers based on the enlarged compilation. Although geodetic measurements are fewer than direct measurements, they cover four times as many balance years. Direct and geodetic measurements are unbiased with respect to one another, but differences are often substantial. The statistical procedure can be understood by imagining that an n-year balance measurement is an average of a series of 1 year measurements. The series is hypothetical but we can calculate the uncertainty of each of its elements if, in addition to its measured average, we can also estimate its standard deviation. For this claim to be valid, the annual series must be stationary and normally distributed with independent (roughly, uncorrelated) elements, for which there is reasonable evidence. The need to know the standard deviation means that annual direct measurements from a nearby glacier, or equally reliable information about variability, are indispensable. Given this information, the new methodology results in moderately more negative balances. This is probably because tidewater glaciers are better represented in the geodetic data. In any case, the most recent published estimate of global average balance, 0.8-1.0 mm a(-1) of sea-level equivalent for 2001-04, is now increased substantially to 1.1-1.4 mm a(-1) for 2001-05.",
+        "Accession Number": "WOS:000279990100015",
+        "Author": "Cogley, J. G.",
+        "DOI": "10.3189/172756409787769744",
+        "Date": "2009",
+        "ISSN": "0260-3055",
+        "Issue": "50",
+        "Journal": "Annals of Glaciology",
+        "Notes": "Times Cited: 41",
+        "Pages": "96-100",
+        "Title": "Geodetic and direct mass-balance measurements: Comparison and joint analysis",
+        "Volume": "50",
+        "Year": "2009",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "753",
+        "_uuid": "e941c8c5-8433-42c0-aa28-09c8737053ac",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.3189/172756409787769744",
+    "href": "http://data.globalchange.gov/reference/e941c8c5-8433-42c0-aa28-09c8737053ac.json",
+    "identifier": "e941c8c5-8433-42c0-aa28-09c8737053ac",
+    "uri": "/reference/e941c8c5-8433-42c0-aa28-09c8737053ac"
+}

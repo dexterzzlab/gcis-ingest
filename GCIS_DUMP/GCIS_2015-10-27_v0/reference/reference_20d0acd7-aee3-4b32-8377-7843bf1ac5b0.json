@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2012",
+        "Author": "USGS,",
+        "Place Published": "Reston, VA",
+        "Publisher": "U.S. Geological Survey",
+        "Title": "The Puget Sound Ecosystem Portfolio Model: A Regional Analysis to Support Land Use and Restoration Planning",
+        "URL": "http://geography.wr.usgs.gov/pugetSound/index.html",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "3665",
+        "_uuid": "20d0acd7-aee3-4b32-8377-7843bf1ac5b0",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/537eca8c-0f9a-48ee-ad7d-186fa9d434b0",
+    "href": "http://data.globalchange.gov/reference/20d0acd7-aee3-4b32-8377-7843bf1ac5b0.json",
+    "identifier": "20d0acd7-aee3-4b32-8377-7843bf1ac5b0",
+    "uri": "/reference/20d0acd7-aee3-4b32-8377-7843bf1ac5b0"
+}

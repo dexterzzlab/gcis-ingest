@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/ornl-climchinfrastructure-2012.json",
+    "identifier": "ornl-climchinfrastructure-2012",
+    "in_library": null,
+    "publication_year": 2012,
+    "report_type_identifier": "technical_input",
+    "summary": null,
+    "title": "Climate Change and Infrastructure, Urban Systems, and Vulnerabilities. Technical Report to the U.S. Department of Energy in Support of the National Climate Assessment",
+    "topic": null,
+    "uri": "/report/ornl-climchinfrastructure-2012",
+    "url": "http://www.esd.ornl.gov/eess/Infrastructure.pdf"
+}

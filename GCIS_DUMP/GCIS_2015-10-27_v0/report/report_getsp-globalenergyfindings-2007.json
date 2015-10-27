@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/getsp-globalenergyfindings-2007.json",
+    "identifier": "getsp-globalenergyfindings-2007",
+    "in_library": null,
+    "publication_year": 2007,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Global Energy Technology Strategy: Addressing Climate Change. Phase 2 Findings from an International Public-Private Sponsored Research Program",
+    "topic": null,
+    "uri": "/report/getsp-globalenergyfindings-2007",
+    "url": "http://www.globalchange.umd.edu/data/gtsp/docs/gtsp_2007_final.pdf"
+}

@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Climate change\u2013driven shifts in streamflow timing have been documented for western North America and are expected to continue with increased warming. These changes will likely have the greatest implications on already short and overcommitted water supplies in the region. This study investigated changes in western North American streamflow timing over the 1948\u20132008 period, including the very recent warm decade not previously considered, through (i) trends in streamflow timing measures, (ii) two second-order linear models applied simultaneously over the region to test for the acceleration of these changes, and (iii) changes in runoff regimes. Basins were categorized by the percentage of snowmelt-derived runoff to enable the comparison of groups of streams with similar runoff characteristics and to quantify shifts in snowmelt-dominated regimes. Results indicate that streamflow has continued to shift to earlier in the water year, most notably for those basins with the largest snowmelt runoff component. However, an acceleration of these streamflow timing changes for the recent warm decades is not clearly indicated. Most coastal rain-dominated and some interior basins have experienced later timing. The timing changes are connected to area-wide warmer temperatures, especially in March and January, and to precipitation shifts that bear subregional signatures. Notably, a set of the most vulnerable basins has experienced runoff regime changes, such that basins that were snowmelt dominated at the beginning of the observational period shifted to mostly rain dominated in later years. These most vulnerable regions for regime shifts are in the California Sierra Nevada, eastern Washington, Idaho, and northeastern New Mexico. Snowmelt regime changes may indicate that the time available for adaptation of water supply systems to climatic changes in vulnerable regions are shorter than previously recognized.",
+        "Author": "Fritze, H.\rStewart, I.T.\rPebesma, E.J.",
+        "DOI": "10.1175/2011JHM1360.1",
+        "ISSN": "1525-755X",
+        "Issue": "5",
+        "Journal": "Journal of Hydrometeorology",
+        "Keywords": "Snowmelt, ; Decadal variability, ; North America, ; Runoff, ; Climate change, ; Streamflow",
+        "Pages": "989-1006",
+        "Title": "Shifts in Western North American snowmelt runoff regimes for the recent warm decades",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/2011JHM1360.1",
+        "Volume": "12",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\",\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "1532",
+        "_uuid": "cc98a8b5-74b3-4df2-8961-7799768da2ed",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/2011JHM1360.1",
+    "href": "http://data.globalchange.gov/reference/cc98a8b5-74b3-4df2-8961-7799768da2ed.json",
+    "identifier": "cc98a8b5-74b3-4df2-8961-7799768da2ed",
+    "uri": "/reference/cc98a8b5-74b3-4df2-8961-7799768da2ed"
+}

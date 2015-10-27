@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "McIsaac, G. F.\rDavid, M. B.\rGertner, G. Z.\rGoolsby, D. A.",
+        "Author Address": "Univ Illinois, Dept Nat Resources & Environm Studies, Urbana, IL 61801 USA. US Geol Survey, Denver Fed Ctr, Denver, CO 80225 USA.; McIsaac, GF (reprint author), Univ Illinois, Dept Nat Resources & Environm Studies, W-503 Turner Hall,1102 S Goodwin Ave, Urbana, IL 61801 USA",
+        "DOI": "10.2134/jeq2002.1610",
+        "Date": "Sep-Oct",
+        "ISSN": "0047-2425",
+        "Issue": "5",
+        "Journal": "Journal of Environmental Quality",
+        "Keywords": "gulf-of-mexico; soil organic-matter; corn yield; illinois; tillage; hypoxia; ammonia; budgets; trends; models",
+        "Language": "English",
+        "Pages": "1610-1622",
+        "Title": "Relating net nitrogen input in the Mississippi River basin to nitrate flux in the lower Mississippi River: A comparison of approaches",
+        "Volume": "31",
+        "Year": "2002",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\",\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "1948",
+        "_uuid": "f68f6208-6991-4325-8854-881c76072096",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.2134/jeq2002.1610",
+    "href": "http://data.globalchange.gov/reference/f68f6208-6991-4325-8854-881c76072096.json",
+    "identifier": "f68f6208-6991-4325-8854-881c76072096",
+    "uri": "/reference/f68f6208-6991-4325-8854-881c76072096"
+}

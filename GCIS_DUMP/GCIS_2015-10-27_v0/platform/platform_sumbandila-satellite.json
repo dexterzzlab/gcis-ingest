@@ -1,0 +1,12 @@
+{
+    "description": "ZASat-002 is a pathfinder mission of the University of Stellenbosch, SunSpace (Pty) Ltd. (a spin-off company of the University of Stellenbosch), and SAC (Satellite Application Center) of CSIR (Council for Scientific and Industrial Research), Pretoria, South Africa. In May 2005, the DST (Department of Science and Technology) of the South African Government commissioned Stellenbosch University to develop the ZASat pathfinder satellite program, a technology demonstration in conjunction with the South African industry. The ZASat program was officially announced by the SA Department of Science and Technology (DST) on October 3, 2005. ZASat become in fact a National Space Program Initiative, consisting of two parts:",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/s/sumbandilasat",
+    "end_date": "2012-01-24T00:00:00",
+    "href": "http://data.globalchange.gov/platform/sumbandila-satellite.json",
+    "identifier": "sumbandila-satellite",
+    "name": "Sumbandila Satellite",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "2009-09-18T00:00:00",
+    "uri": "/platform/sumbandila-satellite",
+    "url": "http://www.amatsa.org.za/SumbandilaSat.htm"
+}

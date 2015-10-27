@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Merrifield, M.A.\rThompson, P.R.\rLander, M.",
+        "DOI": "10.1029/2012GL052032",
+        "ISSN": "0094-8276",
+        "Issue": "13",
+        "Journal": "Geophysical Research Letters",
+        "Pages": "L13602",
+        "Title": "Multidecadal sea level anomalies and trends in the western tropical Pacific",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2012GL052032/pdf",
+        "Volume": "39",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "2006",
+        "_uuid": "0fd3c22b-8b49-472d-959c-92c4742ac794",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2012GL052032",
+    "href": "http://data.globalchange.gov/reference/0fd3c22b-8b49-472d-959c-92c4742ac794.json",
+    "identifier": "0fd3c22b-8b49-472d-959c-92c4742ac794",
+    "uri": "/reference/0fd3c22b-8b49-472d-959c-92c4742ac794"
+}

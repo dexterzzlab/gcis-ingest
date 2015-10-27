@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Harley, C.D.G.",
+        "DOI": "10.1126/science.1210199",
+        "ISSN": "0036-8075",
+        "Issue": "6059",
+        "Journal": "Science",
+        "Pages": "1124-1127",
+        "Title": "Climate change, keystone predation, and biodiversity loss",
+        "Volume": "334",
+        "Year": "2011",
+        "_chapter": "[\"RF 10\",\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "342",
+        "_uuid": "6b73bfcc-2f4e-4c88-816d-b2dc1e62b2bd",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1210199",
+    "href": "http://data.globalchange.gov/reference/6b73bfcc-2f4e-4c88-816d-b2dc1e62b2bd.json",
+    "identifier": "6b73bfcc-2f4e-4c88-816d-b2dc1e62b2bd",
+    "uri": "/reference/6b73bfcc-2f4e-4c88-816d-b2dc1e62b2bd"
+}

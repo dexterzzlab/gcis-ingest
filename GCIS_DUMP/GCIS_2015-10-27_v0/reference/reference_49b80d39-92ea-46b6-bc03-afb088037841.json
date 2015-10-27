@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Jones, G.S.\rStott, P.A.",
+        "DOI": "10.1029/2011GL049324",
+        "ISSN": "1944-8007",
+        "Issue": "21",
+        "Journal": "Geophysical Research Letters",
+        "Pages": "L21702",
+        "Title": "Sensitivity of the attribution of near surface temperature warming to the choice of observational dataset",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2011GL049324/pdf",
+        "Volume": "38",
+        "Year": "2011",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "1525",
+        "_uuid": "49b80d39-92ea-46b6-bc03-afb088037841",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2011GL049324",
+    "href": "http://data.globalchange.gov/reference/49b80d39-92ea-46b6-bc03-afb088037841.json",
+    "identifier": "49b80d39-92ea-46b6-bc03-afb088037841",
+    "uri": "/reference/49b80d39-92ea-46b6-bc03-afb088037841"
+}

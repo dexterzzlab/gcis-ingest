@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/ucdavis-tahoe-state-of-lake-2012.json",
+    "identifier": "ucdavis-tahoe-state-of-lake-2012",
+    "in_library": null,
+    "publication_year": 2012,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Tahoe: State of the Lake Report",
+    "topic": null,
+    "uri": "/report/ucdavis-tahoe-state-of-lake-2012",
+    "url": "http://terc.ucdavis.edu/stateofthelake/sotl-reports/2012/sotl2012.pdf"
+}

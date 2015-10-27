@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": "1 month",
+    "href": "http://data.globalchange.gov/report/eia-electricpowermonthly-2013.json",
+    "identifier": "eia-electricpowermonthly-2013",
+    "in_library": null,
+    "publication_year": 2013,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Electric Power Monthly with Data for December 2012. February 2013",
+    "topic": null,
+    "uri": "/report/eia-electricpowermonthly-2013",
+    "url": "http://www.eia.gov/electricity/monthly/current_year/february2013.pdf"
+}

@@ -1,0 +1,8 @@
+{
+    "definition": "Reports providing information on the observed weather conditions at a fixed observation station.",
+    "href": "http://data.globalchange.gov/gcmd_keyword/020585ff-91fb-421b-ba24-305d657c2231.json",
+    "identifier": "020585ff-91fb-421b-ba24-305d657c2231",
+    "label": "PRESENT WEATHER",
+    "parent_identifier": "89554e78-d69d-4a38-b7f1-78d9e1e4aa57",
+    "uri": "/gcmd_keyword/020585ff-91fb-421b-ba24-305d657c2231"
+}

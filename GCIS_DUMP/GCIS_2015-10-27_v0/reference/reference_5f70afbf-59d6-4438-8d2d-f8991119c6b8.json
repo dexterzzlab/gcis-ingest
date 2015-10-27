@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Willis, J.K.\rChurch, J.A.",
+        "DOI": "10.1126/science.1220366",
+        "ISSN": "0036-8075",
+        "Issue": "6081",
+        "Journal": "Science",
+        "Pages": "550-551",
+        "Title": "Regional sea-level projection",
+        "Volume": "336",
+        "Year": "2012",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "3445",
+        "_uuid": "5f70afbf-59d6-4438-8d2d-f8991119c6b8",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1220366",
+    "href": "http://data.globalchange.gov/reference/5f70afbf-59d6-4438-8d2d-f8991119c6b8.json",
+    "identifier": "5f70afbf-59d6-4438-8d2d-f8991119c6b8",
+    "uri": "/reference/5f70afbf-59d6-4438-8d2d-f8991119c6b8"
+}

@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"italic\" start=\"11\" /><run start=\"35\" /></field></record>",
+        "Author": "McLaughlin, J. A.\rDePaola, A.\rBopp, C. A.\rMartinek, K. A.\rNapolilli, N. P.\rAllison, C. G.\rMurray, S. L.\rThompson, E. C.\rBird, M. M.\rMiddaugh, J. P.",
+        "DOI": "10.1056/NEJMoa051594",
+        "Issue": "14",
+        "Journal": "New England Journal of Medicine",
+        "Pages": "1463-1470",
+        "Title": "Outbreak of Vibrio parahaemolyticus gastroenteritis associated with Alaskan oysters",
+        "URL": "http://www.nejm.org/doi/pdf/10.1056/NEJMoa051594",
+        "Volume": "353",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "1956",
+        "_uuid": "7965c0b9-f4c0-43c4-8c4c-8e918935f88e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1056/NEJMoa051594",
+    "href": "http://data.globalchange.gov/reference/7965c0b9-f4c0-43c4-8c4c-8e918935f88e.json",
+    "identifier": "7965c0b9-f4c0-43c4-8c4c-8e918935f88e",
+    "uri": "/reference/7965c0b9-f4c0-43c4-8c4c-8e918935f88e"
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "National Heart Lung and Blood Institute Working Group,",
+        "DOI": "10.1378/chest.108.5.1380",
+        "Journal": "Chest",
+        "Pages": "1380-92",
+        "Title": "Respiratory diseases disproportionately affecting minorities",
+        "URL": "http://journal.publications.chestnet.org/data/Journals/CHEST/21724/1380.pdf",
+        "Volume": "108",
+        "Year": "1995",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "2150",
+        "_uuid": "79a37f77-26ef-4bdb-b5d4-2f7f2de1e288",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1378/chest.108.5.1380",
+    "href": "http://data.globalchange.gov/reference/79a37f77-26ef-4bdb-b5d4-2f7f2de1e288.json",
+    "identifier": "79a37f77-26ef-4bdb-b5d4-2f7f2de1e288",
+    "uri": "/reference/79a37f77-26ef-4bdb-b5d4-2f7f2de1e288"
+}

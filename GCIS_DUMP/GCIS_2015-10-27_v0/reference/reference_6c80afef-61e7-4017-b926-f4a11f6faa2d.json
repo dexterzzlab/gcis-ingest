@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2012",
+        "Author": "NCDC,",
+        "Place Published": "Asheville, NC",
+        "Publisher": "NOAA's National Climatic Data Center",
+        "Title": "State Climate Extremes Committee -  Records",
+        "URL": "http://vlb.ncdc.noaa.gov/extremes/scec/records",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\"]",
+        "_record_number": "2182",
+        "_uuid": "6c80afef-61e7-4017-b926-f4a11f6faa2d",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/3872f1da-ea8b-43dd-94cc-f1ad6231ba43",
+    "href": "http://data.globalchange.gov/reference/6c80afef-61e7-4017-b926-f4a11f6faa2d.json",
+    "identifier": "6c80afef-61e7-4017-b926-f4a11f6faa2d",
+    "uri": "/reference/6c80afef-61e7-4017-b926-f4a11f6faa2d"
+}

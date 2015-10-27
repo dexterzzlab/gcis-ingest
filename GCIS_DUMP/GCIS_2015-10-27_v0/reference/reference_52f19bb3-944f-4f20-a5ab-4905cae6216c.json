@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "Springer-Verlag",
+        ".reference_type": "0",
+        "Alternate Journal": "Demography",
+        "Author": "Lichter, Daniel T.\rParisi, Domenico\rGrice, Steven Michael\rTaquino, Michael C.",
+        "DOI": "10.1353/dem.2007.0030",
+        "Date": "2007/08/01",
+        "ISSN": "0070-3370",
+        "Issue": "3",
+        "Journal": "Demography",
+        "Language": "English",
+        "Pages": "563-581",
+        "Title": "National estimates of racial segregation in rural and small-town America",
+        "Volume": "44",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 14: Rural Communities FINAL\"]",
+        "_record_number": "4631",
+        "_uuid": "52f19bb3-944f-4f20-a5ab-4905cae6216c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1353/dem.2007.0030",
+    "href": "http://data.globalchange.gov/reference/52f19bb3-944f-4f20-a5ab-4905cae6216c.json",
+    "identifier": "52f19bb3-944f-4f20-a5ab-4905cae6216c",
+    "uri": "/reference/52f19bb3-944f-4f20-a5ab-4905cae6216c"
+}

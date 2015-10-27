@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "We use a physically plausible four parameter linear response equation to relate 2,000 years of global temperatures and sea level. We estimate likelihood distributions of equation parameters using Monte Carlo inversion, which then allows visualization of past and future sea level scenarios. The model has good predictive power when calibrated on the pre-1990 period and validated against the high rates of sea level rise from the satellite altimetry. Future sea level is projected from intergovernmental panel on climate change (IPCC) temperature scenarios and past sea level from established multi-proxy reconstructions assuming that the established relationship between temperature and sea level holds from 200 to 2100 ad. Over the last 2,000 years minimum sea level (\u221219 to \u221226 cm) occurred around 1730 ad, maximum sea level (12\u201321 cm) around 1150 ad. Sea level 2090\u20132099 is projected to be 0.9 to 1.3 m for the A1B scenario, with low probability of the rise being within IPCC confidence limits.",
+        "Author": "Grinsted, Aslak\rMoore, J. C.\rJevrejeva, S.",
+        "DOI": "10.1007/s00382-008-0507-2",
+        "ISSN": "0930-7575",
+        "Issue": "4",
+        "Journal": "Climate Dynamics",
+        "Pages": "461-472",
+        "Title": "Reconstructing sea level from paleo and projected temperatures 200 to 2100 AD",
+        "URL": "http://link.springer.com/article/10.1007/s00382-008-0507-2/fulltext.html",
+        "Volume": "34",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "1394",
+        "_uuid": "ac97f688-72c3-4587-9023-d34f3bc3f22c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s00382-008-0507-2",
+    "href": "http://data.globalchange.gov/reference/ac97f688-72c3-4587-9023-d34f3bc3f22c.json",
+    "identifier": "ac97f688-72c3-4587-9023-d34f3bc3f22c",
+    "uri": "/reference/ac97f688-72c3-4587-9023-d34f3bc3f22c"
+}

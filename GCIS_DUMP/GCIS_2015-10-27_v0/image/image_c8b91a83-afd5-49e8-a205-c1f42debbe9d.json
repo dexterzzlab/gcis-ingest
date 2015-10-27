@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-10-28T13:19:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Scientists whose research was key to understanding the greenhouse effect and the impact of human activities on climate.",
+            "chapter_identifier": "appendix-faqs",
+            "create_dt": null,
+            "identifier": "early-scientists-who-established-the-scientific-basis-for-climate-change",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 10,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Early Scientists who Established the Scientific Basis for Climate Change",
+            "url": "http://nca2014.globalchange.gov/report/appendices/faqs/graphics/early-scientists-who-established-scientific-basis-climate-change",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "d6/94/c4ef836d0f38708c6093f5145791/faq-10_callendar.png",
+            "href": "http://data.globalchange.gov/assets/d6/94/c4ef836d0f38708c6093f5145791/faq-10_callendar.png",
+            "identifier": "cd558fd2-8142-437f-933d-ee1b151ed758",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "41936601274ba6e966cf713c8a980a1432311392",
+            "size": 299696,
+            "thumbnail": "d6/94/c4ef836d0f38708c6093f5145791/.thumb-cd558fd2-8142-437f-933d-ee1b151ed758.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/d6/94/c4ef836d0f38708c6093f5145791/.thumb-cd558fd2-8142-437f-933d-ee1b151ed758.png",
+            "uri": "/file/cd558fd2-8142-437f-933d-ee1b151ed758",
+            "url": "/assets/d6/94/c4ef836d0f38708c6093f5145791/faq-10_callendar.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/c8b91a83-afd5-49e8-a205-c1f42debbe9d.json",
+    "identifier": "c8b91a83-afd5-49e8-a205-c1f42debbe9d",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Early Scientists who Established the Scientific Basis for Climate Change  - Guy Callendar",
+    "uri": "/image/c8b91a83-afd5-49e8-a205-c1f42debbe9d",
+    "url": null,
+    "usage_limits": null
+}

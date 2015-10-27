@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Lamb, H.H.",
+        "Pages": "378",
+        "Publisher": "Methuen",
+        "Reviewer": "32508832-5fcc-4864-890f-d986430ba5a8",
+        "Title": "Climate, History, and the Modern World",
+        "Year": "1982",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "4242",
+        "_uuid": "32508832-5fcc-4864-890f-d986430ba5a8",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/f42ec8da-6c5a-4def-ab6f-ac176fe73382",
+    "href": "http://data.globalchange.gov/reference/32508832-5fcc-4864-890f-d986430ba5a8.json",
+    "identifier": "32508832-5fcc-4864-890f-d986430ba5a8",
+    "uri": "/reference/32508832-5fcc-4864-890f-d986430ba5a8"
+}

@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/cdc-nathealthstatreport32.json",
+    "identifier": "cdc-nathealthstatreport32",
+    "in_library": null,
+    "publication_year": 2011,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Asthma Prevalence, Health Care Use, and Mortality: United States, 2005\u20132009. National health statistics reports. Number 32",
+    "topic": null,
+    "uri": "/report/cdc-nathealthstatreport32",
+    "url": "http://www.cdc.gov/nchs/data/nhsr/nhsr032.pdf"
+}

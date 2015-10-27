@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/world-bank.json",
+    "identifier": "world-bank",
+    "name": "The World Bank",
+    "organization_type_identifier": "international",
+    "uri": "/organization/world-bank",
+    "url": "http://www.worldbank.org"
+}

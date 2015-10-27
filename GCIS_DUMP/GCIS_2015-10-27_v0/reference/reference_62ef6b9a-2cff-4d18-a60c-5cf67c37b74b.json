@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"34\" /><run start=\"35\" /></field></record>",
+        "Author": "H\u00f6gy, P.\rFangmeier, A.",
+        "DOI": "10.1016/j.jcs.2008.01.006",
+        "ISSN": "0733-5210",
+        "Issue": "3",
+        "Journal": "Journal of Cereal Science",
+        "Pages": "580-591",
+        "Title": "Effects of elevated atmospheric CO2 on grain quality of wheat",
+        "Volume": "48",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "601",
+        "_uuid": "62ef6b9a-2cff-4d18-a60c-5cf67c37b74b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.jcs.2008.01.006",
+    "href": "http://data.globalchange.gov/reference/62ef6b9a-2cff-4d18-a60c-5cf67c37b74b.json",
+    "identifier": "62ef6b9a-2cff-4d18-a60c-5cf67c37b74b",
+    "uri": "/reference/62ef6b9a-2cff-4d18-a60c-5cf67c37b74b"
+}

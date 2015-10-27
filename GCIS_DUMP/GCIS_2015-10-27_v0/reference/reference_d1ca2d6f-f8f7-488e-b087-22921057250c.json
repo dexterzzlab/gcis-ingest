@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Barber, N.L.",
+        "Institution": "U.S. Geological Survey",
+        "Pages": "2",
+        "Title": "Summary of Estimated Water Use in the United States in 2005. U.S. Geological Survey Fact Sheet 2009\u20133098",
+        "URL": "http://pubs.usgs.gov/fs/2009/3098/pdf/2009-3098.pdf",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\"]",
+        "_record_number": "1626",
+        "_uuid": "d1ca2d6f-f8f7-488e-b087-22921057250c",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usgs-factsheet-2009-3098",
+    "href": "http://data.globalchange.gov/reference/d1ca2d6f-f8f7-488e-b087-22921057250c.json",
+    "identifier": "d1ca2d6f-f8f7-488e-b087-22921057250c",
+    "uri": "/reference/d1ca2d6f-f8f7-488e-b087-22921057250c"
+}

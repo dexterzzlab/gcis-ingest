@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"57\" /><run start=\"58\" /></field></record>",
+        "Author": "Robertson, G.P.",
+        "Book Title": "The Global Carbon Cycle: Integrating Humans, Climate, and the Natural World",
+        "Editor": "Field, C.B.\rRaupach, M.R.",
+        "ISBN": "978-1559635271",
+        "Keywords": "LTER book section; CASMGS",
+        "Pages": "493-506",
+        "Place Published": "Washington, D.C., USA",
+        "Publisher": "Island Press",
+        "Reviewer": "722fdb1b-02e3-474a-94e8-fd50ed33f0b2",
+        "Title": "Abatement of nitrous oxide, methane, and the other non-CO2 greenhouse gases: The need for a systems approach",
+        "Year": "2004",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "2645",
+        "_uuid": "722fdb1b-02e3-474a-94e8-fd50ed33f0b2",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/a59cd79f-343b-4b2a-bea2-fdfa78fa8128",
+    "href": "http://data.globalchange.gov/reference/722fdb1b-02e3-474a-94e8-fd50ed33f0b2.json",
+    "identifier": "722fdb1b-02e3-474a-94e8-fd50ed33f0b2",
+    "uri": "/reference/722fdb1b-02e3-474a-94e8-fd50ed33f0b2"
+}

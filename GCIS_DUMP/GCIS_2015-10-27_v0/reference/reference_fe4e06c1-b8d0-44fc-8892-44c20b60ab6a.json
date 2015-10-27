@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Adger, W.N.\rDessai, S.\rGoulden, M.\rHulme, M.\rLorenzoni, I.\rNelson, D.R.\rNaess, L.O.\rWolf, J.\rWreford, A.",
+        "DOI": "10.1007/s10584-008-9520-z",
+        "ISSN": "0165-0009",
+        "Issue": "3-4",
+        "Journal": "Climatic Change",
+        "Pages": "335-354",
+        "Title": "Are there social limits to adaptation to climate change?",
+        "Volume": "93",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "106",
+        "_uuid": "fe4e06c1-b8d0-44fc-8892-44c20b60ab6a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-008-9520-z",
+    "href": "http://data.globalchange.gov/reference/fe4e06c1-b8d0-44fc-8892-44c20b60ab6a.json",
+    "identifier": "fe4e06c1-b8d0-44fc-8892-44c20b60ab6a",
+    "uri": "/reference/fe4e06c1-b8d0-44fc-8892-44c20b60ab6a"
+}

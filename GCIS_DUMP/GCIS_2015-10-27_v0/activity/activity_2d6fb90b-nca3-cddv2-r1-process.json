@@ -1,0 +1,15 @@
+{
+    "computing_environment": "UNIX",
+    "data_usage": "Average annual temperature change was plotted as a time series for the contiguous United States, for 1901-2012 (relative to the 1901-1960 average temperature).",
+    "duration": null,
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/2d6fb90b-nca3-cddv2-r1-process.json",
+    "identifier": "2d6fb90b-nca3-cddv2-r1-process",
+    "methodology": "Annual mean temperatures were averaged for all grid points in the contiguous U.S. and plotted as a time series from 1901 to 2012.",
+    "notes": "Python",
+    "output_artifacts": "Custom python codes written by Michael Wehner\r\nCAQ_average annual temp_conus_original_v2.png\r\nCAQ_average annual temp_conus_V5.png",
+    "software": "Python",
+    "start_time": null,
+    "uri": "/activity/2d6fb90b-nca3-cddv2-r1-process",
+    "visualization_software": "Python (XMGRACE)"
+}

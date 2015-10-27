@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Stumpf, Richard P.\rWynne, Timothy T.\rBaker, David B.\rFahnenstiel, Gary L.",
+        "DOI": "10.1371/journal.pone.0042444",
+        "Date": "08/2012",
+        "Issue": "8",
+        "Journal": "PLoS ONE",
+        "Pages": "e42444",
+        "Title": "Interannual variability of cyanobacterial blooms in Lake Erie",
+        "URL": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0042444&representation=PDF",
+        "Volume": "7",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "4587",
+        "_uuid": "14805742-c72e-4476-be2b-b2ea8c9822dd",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1371/journal.pone.0042444",
+    "href": "http://data.globalchange.gov/reference/14805742-c72e-4476-be2b-b2ea8c9822dd.json",
+    "identifier": "14805742-c72e-4476-be2b-b2ea8c9822dd",
+    "uri": "/reference/14805742-c72e-4476-be2b-b2ea8c9822dd"
+}

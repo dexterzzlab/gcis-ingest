@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Revell, D.L.\rBattalio, R.\rSpear, B.\rRuggiero, P.\rVandever, J.",
+        "DOI": "10.1007/s10584-011-0315-2",
+        "ISSN": "0165-0009",
+        "Issue": "1 Supplement",
+        "Journal": "Climatic Change",
+        "Pages": "251-276",
+        "Title": "A methodology for predicting future coastal hazards due to sea-level rise on the California Coast",
+        "Volume": "109",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "2622",
+        "_uuid": "d37ad258-9d4e-4e80-b99a-4ec70c2bd115",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-011-0315-2",
+    "href": "http://data.globalchange.gov/reference/d37ad258-9d4e-4e80-b99a-4ec70c2bd115.json",
+    "identifier": "d37ad258-9d4e-4e80-b99a-4ec70c2bd115",
+    "uri": "/reference/d37ad258-9d4e-4e80-b99a-4ec70c2bd115"
+}

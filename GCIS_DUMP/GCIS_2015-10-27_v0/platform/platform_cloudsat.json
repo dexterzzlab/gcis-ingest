@@ -1,0 +1,12 @@
+{
+    "description": "A NASA/CSA (USA/Canada) cooperative research mission in the ESSP (Earth System Science Pathfinder) program to study the effects of clouds on climate and weather. CloudSat's primary goal is to furnish data needed to evaluate and improve the way clouds are represented in global models, thereby contributing to better predictions of clouds and thus to their poorly understood role in climate change and the cloud-climate feedback [focused on understanding the role of optically thick clouds on the Earth's radiation budget (a balance of solar energy reaching the Earth and lost to space that ultimately controls the temperature of the Earth)].",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/c-missions/cloudsat",
+    "end_date": "2015-10-01T00:00:00",
+    "href": "http://data.globalchange.gov/platform/cloudsat.json",
+    "identifier": "cloudsat",
+    "name": "CloudSat",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "2006-04-28T00:00:00",
+    "uri": "/platform/cloudsat",
+    "url": "http://cloudsat.atmos.colostate.edu/"
+}

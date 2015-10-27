@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "NETL,",
+        "Date": "March 2013",
+        "Institution": "National Energy Technology Laboratory, U.S. Department of Energy",
+        "Pages": "2",
+        "Title": "Demonstration of a Coal-Based Transport Gasifier",
+        "URL": "http://www.netl.doe.gov/File%20Library/Research/Coal/major%20demonstrations/ccpi/NT42391.pdf",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 10: Energy Water Land FINAL\"]",
+        "_record_number": "4531",
+        "_uuid": "35d44e61-180e-4428-ad06-13a1a9afa0df",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/netl-demonstration-2013",
+    "href": "http://data.globalchange.gov/reference/35d44e61-180e-4428-ad06-13a1a9afa0df.json",
+    "identifier": "35d44e61-180e-4428-ad06-13a1a9afa0df",
+    "uri": "/reference/35d44e61-180e-4428-ad06-13a1a9afa0df"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Alexandrov, V.A.\rHoogenboom, G.",
+        "DOI": "10.1007/s007040070015",
+        "ISSN": "0177-798X",
+        "Issue": "1-2",
+        "Journal": "Theoretical and Applied Climatology",
+        "Pages": "45-63",
+        "Title": "Vulnerability and adaptation assessments of agricultural crops under climate change in the Southeastern USA",
+        "Volume": "67",
+        "Year": "2000",
+        "_chapter": "[\"RG 2 Southeast\",\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "1767",
+        "_uuid": "457227bf-a153-4910-bc43-f9de8b7dda8f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s007040070015",
+    "href": "http://data.globalchange.gov/reference/457227bf-a153-4910-bc43-f9de8b7dda8f.json",
+    "identifier": "457227bf-a153-4910-bc43-f9de8b7dda8f",
+    "uri": "/reference/457227bf-a153-4910-bc43-f9de8b7dda8f"
+}

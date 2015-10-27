@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "McKenzie, D.\rHessl, A.E.\rPeterson, D.L.",
+        "DOI": "10.1139/x00-191",
+        "ISSN": "0045-5067",
+        "Issue": "3",
+        "Journal": "Canadian Journal of Forest Research",
+        "Pages": "526-538",
+        "Title": "Recent growth of conifer species of western North America: Assessing spatial patterns of radial growth trends",
+        "URL": "http://www.nrcresearchpress.com/doi/pdf/10.1139/x00-191",
+        "Volume": "31",
+        "Year": "2001",
+        "_chapter": "[\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "1952",
+        "_uuid": "502637e1-7bd6-47bf-a427-af3f44ac7017",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1139/x00-191",
+    "href": "http://data.globalchange.gov/reference/502637e1-7bd6-47bf-a427-af3f44ac7017.json",
+    "identifier": "502637e1-7bd6-47bf-a427-af3f44ac7017",
+    "uri": "/reference/502637e1-7bd6-47bf-a427-af3f44ac7017"
+}

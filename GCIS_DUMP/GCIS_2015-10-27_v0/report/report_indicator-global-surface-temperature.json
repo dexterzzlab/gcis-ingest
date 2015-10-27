@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/indicator-global-surface-temperature.json",
+    "identifier": "indicator-global-surface-temperature",
+    "in_library": null,
+    "publication_year": 2015,
+    "report_type_identifier": "indicator",
+    "summary": "Key Points:\r\n\r\n1. This long-term record of global temperature is a key indicator of warming in the climate system. The bars on the graph show the number of degrees by which the average global temperature for each year differs from the average global temperature during the last century.  \r\n\r\n2. Since 1880, the average global temperature has increased by more than 1.5\u00b0F. Since the 1980s, average temperatures have exceeded the last century\u2019s average every year. \r\n\r\n3. Changes in global temperatures over the past century provide one important line of evidence for the effects of increasing greenhouse gas emissions. Such evidence can inform national and international policy discussions. \r\n\r\nFull Summary:\r\n\r\nLong-term observations of global temperature demonstrate the warming trend in the climate system. Since 1880, the average annual global temperature has increased by more than 1.5\u00b0F. Since the 1980s, average annual temperatures have exceeded the last century\u2019s average every year. \r\n\r\nThe bars on the graph show the number of degrees by which the average global temperature for each year differs from the average global temperature during the last century. Global average temperatures include air temperatures measured on land and sea surface temperatures measured from ships and buoys worldwide. The data shown in the graph were drawn from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network (GHCN) and International Comprehensive Ocean-Atmosphere Data Set (ICOADS). \r\n\r\nChanges in global temperatures over the past century provide one important line of evidence for the effects of increasing greenhouse gas emissions. Such evidence can inform national and international policy discussions.\r\n",
+    "title": "Indicator: Global Surface Temperatures",
+    "topic": null,
+    "uri": "/report/indicator-global-surface-temperature",
+    "url": "http://www.globalchange.gov/browse/indicators/indicator-global-surface-temperatures"
+}

@@ -1,0 +1,71 @@
+{
+    "attributes": null,
+    "caption": null,
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "e9/68/6c6b922dcc957fd42b0abff7a321/Chlorophyll_Concen_Anom_3_30_2015_2.jpg",
+            "href": "http://data.globalchange.gov/assets/e9/68/6c6b922dcc957fd42b0abff7a321/Chlorophyll_Concen_Anom_3_30_2015_2.jpg",
+            "identifier": "647ad929-3892-466b-a1f1-d661d2010765",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "dea6918ce97d41508cef57365c2129a95480a7a4",
+            "size": 3146090,
+            "thumbnail": "e9/68/6c6b922dcc957fd42b0abff7a321/.thumb-647ad929-3892-466b-a1f1-d661d2010765.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/e9/68/6c6b922dcc957fd42b0abff7a321/.thumb-647ad929-3892-466b-a1f1-d661d2010765.png",
+            "uri": "/file/647ad929-3892-466b-a1f1-d661d2010765",
+            "url": "/assets/e9/68/6c6b922dcc957fd42b0abff7a321/Chlorophyll_Concen_Anom_3_30_2015_2.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/indicator-ocean-chlorophyll-concentrations/figure/indicator-ocean-chlorophyll-concentrations.json",
+    "identifier": "indicator-ocean-chlorophyll-concentrations",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": null,
+            "description": null,
+            "identifier": "f2964575-7891-4cc8-85d0-92f9518b72f6",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": null,
+            "url": null,
+            "usage_limits": "Free to use with credit to USGCRP."
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 1,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "table indicator-ocean-chlorophyll-concentrations-data-pilot",
+            "note": "",
+            "publication_type_identifier": "table",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/indicator-ocean-chlorophyll-concentrations/table/indicator-ocean-chlorophyll-concentrations-data-pilot"
+        }
+    ],
+    "references": [],
+    "report_identifier": "indicator-ocean-chlorophyll-concentrations",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": "2014-12-31T00:00:00",
+    "time_start": "1998-01-01T00:00:00",
+    "title": null,
+    "uri": "/report/indicator-ocean-chlorophyll-concentrations/figure/indicator-ocean-chlorophyll-concentrations",
+    "url": null,
+    "usage_limits": "Free to use with credit to USGCRP."
+}

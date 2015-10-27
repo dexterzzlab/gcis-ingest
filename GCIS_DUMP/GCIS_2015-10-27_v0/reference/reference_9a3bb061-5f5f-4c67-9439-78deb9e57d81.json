@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Friedenberg, N.A.\rPowell, J.A.\rAyres, M.P.",
+        "DOI": "10.1111/j.1461-0248.2007.01048.x",
+        "Issue": "7",
+        "Journal": "Ecology Letters",
+        "Pages": "564-573",
+        "Title": "Synchrony's double edge: Transient dynamics and the Allee effect in stage structured populations",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2007.01048.x/pdf",
+        "Volume": "10",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "1637",
+        "_uuid": "9a3bb061-5f5f-4c67-9439-78deb9e57d81",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1461-0248.2007.01048.x",
+    "href": "http://data.globalchange.gov/reference/9a3bb061-5f5f-4c67-9439-78deb9e57d81.json",
+    "identifier": "9a3bb061-5f5f-4c67-9439-78deb9e57d81",
+    "uri": "/reference/9a3bb061-5f5f-4c67-9439-78deb9e57d81"
+}

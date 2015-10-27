@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2010-07-29T00:00:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "The left panel shows an image of clouds over the United States captured by the weather satellite GOES-13 (20:45 UTC, July 29, 2010). The other two panels show model simulations of cloudiness for the same date and approximate time, first excluding (middle) and then including (right) the effects of thunderstorm clouds on the climate system. Cloud cover in the right panel matches the satellite image much more closely, demonstrating that the new modeling approach better represents the real world\u2014and thus enables greater confidence in regional climate predictions. (Source: Adapted from Alapaty et al., 2012)",
+            "chapter_identifier": "crosscutting-priorities-serve-science-society",
+            "create_dt": null,
+            "identifier": "thunderstorm-clouds-regional-climate-models",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 19,
+            "report_identifier": "usgcrp-ocpfy2016",
+            "source_citation": "Adapted from Figure 1 of paper: Alapaty, K., J.A. Herwehe, T.L. Otte, C.G. Nolte, O.R. Bullock, M.S. Mallard, J.S. Kain, and J. Dudhia. 2012.  Introducing subgrid-scale cloud feedbacks to radiation for regional meteorological and climate modeling. Geophysical Research Letters 39, L24808",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Thunderstorm clouds in regional climate models",
+            "url": "http://dx.doi.org/10.1029/2012GL054031",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "46/d0/8544700891299d69a9ca15b43a75/HL30_thunderstorm-clouds-regional-models-3panel_b.png",
+            "href": "http://data.globalchange.gov/assets/46/d0/8544700891299d69a9ca15b43a75/HL30_thunderstorm-clouds-regional-models-3panel_b.png",
+            "identifier": "2966f186-7992-43ee-9005-204d10cc7746",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "81538b883427d95bddb66636719551980b9c5fa2",
+            "size": 160129,
+            "thumbnail": "46/d0/8544700891299d69a9ca15b43a75/.thumb-2966f186-7992-43ee-9005-204d10cc7746.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/46/d0/8544700891299d69a9ca15b43a75/.thumb-2966f186-7992-43ee-9005-204d10cc7746.png",
+            "uri": "/file/2966f186-7992-43ee-9005-204d10cc7746",
+            "url": "/assets/46/d0/8544700891299d69a9ca15b43a75/HL30_thunderstorm-clouds-regional-models-3panel_b.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/9f07dd84-3ba2-4354-879c-fd14a2bd963c.json",
+    "identifier": "9f07dd84-3ba2-4354-879c-fd14a2bd963c",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Model simulations of cloudiness excluding the effects of thunderstorm clouds on the climate system",
+    "uri": "/image/9f07dd84-3ba2-4354-879c-fd14a2bd963c",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

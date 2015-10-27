@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Larsen, P. H.\rGoldsmith, S.\rSmith, O.\rWilson, M. L.\rStrzepek, K.\rChinowsky, P.\rSaylor, B.",
+        "DOI": "10.1016/j.gloenvcha.2008.03.005",
+        "ISSN": "0959-3780",
+        "Issue": "3",
+        "Journal": "Global Environmental Change",
+        "Keywords": "forestry; permafrost",
+        "Pages": "442-457",
+        "Title": "Estimating future costs for Alaska public infrastructure at risk from climate change",
+        "URL": "http://linkinghub.elsevier.com/retrieve/pii/S0959378008000216",
+        "Volume": "18",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 5: Transportation FINAL\",\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "649",
+        "_uuid": "269e8640-18d1-4f61-aa0f-55eb3fbea2d2",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.gloenvcha.2008.03.005",
+    "href": "http://data.globalchange.gov/reference/269e8640-18d1-4f61-aa0f-55eb3fbea2d2.json",
+    "identifier": "269e8640-18d1-4f61-aa0f-55eb3fbea2d2",
+    "uri": "/reference/269e8640-18d1-4f61-aa0f-55eb3fbea2d2"
+}

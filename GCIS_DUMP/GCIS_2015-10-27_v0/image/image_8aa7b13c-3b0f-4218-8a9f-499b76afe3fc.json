@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "USGCRP\u2019s organizational structure.",
+            "chapter_identifier": "appendices",
+            "create_dt": null,
+            "identifier": "structure-us-global-change-research-program",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 27,
+            "report_identifier": "usgcrp-ocpfy2016",
+            "source_citation": "Created by the USGCRP National Coordination Office, May 2015",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Structure of the U.S. Global Change Research Program",
+            "url": null,
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "19/b0/f80432f7e6db7be1c85bfff315cd/Appendix_About-USGCRP-org-chart-UDPATED_no-IWGs_05-05-15.png",
+            "href": "http://data.globalchange.gov/assets/19/b0/f80432f7e6db7be1c85bfff315cd/Appendix_About-USGCRP-org-chart-UDPATED_no-IWGs_05-05-15.png",
+            "identifier": "eb9ffe6d-f4e1-4e72-9014-b90c8ed6892e",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "fde2d610e89d2f14733c046018eaf6938b0764aa",
+            "size": 96240,
+            "thumbnail": "19/b0/f80432f7e6db7be1c85bfff315cd/.thumb-eb9ffe6d-f4e1-4e72-9014-b90c8ed6892e.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/19/b0/f80432f7e6db7be1c85bfff315cd/.thumb-eb9ffe6d-f4e1-4e72-9014-b90c8ed6892e.png",
+            "uri": "/file/eb9ffe6d-f4e1-4e72-9014-b90c8ed6892e",
+            "url": "/assets/19/b0/f80432f7e6db7be1c85bfff315cd/Appendix_About-USGCRP-org-chart-UDPATED_no-IWGs_05-05-15.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/8aa7b13c-3b0f-4218-8a9f-499b76afe3fc.json",
+    "identifier": "8aa7b13c-3b0f-4218-8a9f-499b76afe3fc",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Structure of the U.S. Global Change Research Program",
+    "uri": "/image/8aa7b13c-3b0f-4218-8a9f-499b76afe3fc",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

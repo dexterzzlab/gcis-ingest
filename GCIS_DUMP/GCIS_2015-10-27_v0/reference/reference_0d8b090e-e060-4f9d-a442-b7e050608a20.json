@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Observations show snowpack has declined across much of the western United States over the period 1950\u201399. This reduction has important social and economic implications, as water retained in the snowpack from winter storms forms an important part of the hydrological cycle and water supply in the region. A formal model-based detection and attribution (D\u2013A) study of these reductions is performed. The detection variable is the ratio of 1 April snow water equivalent (SWE) to water-year-to-date precipitation (P), chosen to reduce the effect of P variability on the results. Estimates of natural internal climate variability are obtained from 1600 years of two control simulations performed with fully coupled ocean\u2013atmosphere climate models. Estimates of the SWE/P response to anthropogenic greenhouse gases, ozone, and some aerosols are taken from multiple-member ensembles of perturbation experiments run with two models. The D\u2013A shows the observations and anthropogenically forced models have greater SWE/P reductions than can be explained by natural internal climate variability alone. Model-estimated effects of changes in solar and volcanic forcing likewise do not explain the SWE/P reductions. The mean model estimate is that about half of the SWE/P reductions observed in the west from 1950 to 1999 are the result of climate changes forced by anthropogenic greenhouse gases, ozone, and aerosols.",
+        "Author": "Pierce, D.W.\rBarnett, T.P.\rHidalgo, H.G.\rDas, T.\rBonfils, C.\rSanter, B.D.\rBala, G.\rDettinger, M.D.\rCayan, D.R.\rMirin, A.\rWood, A. W. \rNozawa, T.",
+        "DOI": "10.1175/2008JCLI2405.1",
+        "ISSN": "1520-0442",
+        "Issue": "23",
+        "Journal": "Journal of Climate",
+        "Keywords": "Snowpack, ; Hydrologic cycle, ; Trends, ; Coupled models, ; Greenhouse gases",
+        "Pages": "6425-6444",
+        "Title": "Attribution of declining western US snowpack to human effects",
+        "URL": "http://journals.ametsoc.org/doi/abs/10.1175/2008JCLI2405.1",
+        "Volume": "21",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"Ch. 28: Adaptation FINAL\",\"Ch. 3: Water Resources FINAL\",\"Appendix 3: Climate Science FINAL\",\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "2495",
+        "_uuid": "0d8b090e-e060-4f9d-a442-b7e050608a20",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/2008JCLI2405.1",
+    "href": "http://data.globalchange.gov/reference/0d8b090e-e060-4f9d-a442-b7e050608a20.json",
+    "identifier": "0d8b090e-e060-4f9d-a442-b7e050608a20",
+    "uri": "/reference/0d8b090e-e060-4f9d-a442-b7e050608a20"
+}

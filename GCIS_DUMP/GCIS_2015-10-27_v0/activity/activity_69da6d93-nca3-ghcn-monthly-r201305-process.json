@@ -1,0 +1,15 @@
+{
+    "computing_environment": "Linux (Red Hat Enterprise Linux Server release 6.4); Mac OS X (darwin x86_64 m64)",
+    "data_usage": "Decadal average temperature anomalies (difference between the decade and the 1901-1960 average temperature) for the Alaska region were plotted as a bar graph. Note: the far right bar contains data for 12 years (2001-2012).",
+    "duration": "6 hours",
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/69da6d93-nca3-ghcn-monthly-r201305-process.json",
+    "identifier": "69da6d93-nca3-ghcn-monthly-r201305-process",
+    "methodology": "Annual mean temperatures were averaged for all gridpoints in the Alaska region. Decadal averages were then calculated. Finally the 1901-1960 average temperature was subtracted from the decadal average temperature.",
+    "notes": "Fortran 95 was used to perform numerical calculations. IDL was used to visualize the data.",
+    "output_artifacts": "grid-mntp-1880-current-v3.2.1.dat\r\nread-t2m.f\r\ndecade-t2m.f\r\nAlaska-decade-t2m\r\ntemp_precip_decadal_averages.pro\r\nAK.dec_avg.temp_ANN.txt\r\ntemp_precip_decadal_barchart.pro\r\nAK_temp_anom_1901-2012_ANN.eps",
+    "software": "Fortran 95; g95 compiler (gcc version 4.0.3); IDL (version 8.0)",
+    "start_time": null,
+    "uri": "/activity/69da6d93-nca3-ghcn-monthly-r201305-process",
+    "visualization_software": "IDL (version 8.0)"
+}

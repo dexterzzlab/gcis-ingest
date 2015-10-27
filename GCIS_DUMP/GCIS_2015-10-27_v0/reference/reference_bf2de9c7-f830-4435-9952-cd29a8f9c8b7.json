@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Ebi, K.L.\rMcGregor, G.",
+        "DOI": "10.1289/ehp.11463",
+        "Issue": "11",
+        "Journal": "Environmental Health Perspectives",
+        "Pages": "1449-1455",
+        "Title": "Climate change, tropospheric ozone and particulate matter, and health impacts",
+        "URL": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2592262/",
+        "Volume": "116",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "347",
+        "_uuid": "bf2de9c7-f830-4435-9952-cd29a8f9c8b7",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1289/ehp.11463",
+    "href": "http://data.globalchange.gov/reference/bf2de9c7-f830-4435-9952-cd29a8f9c8b7.json",
+    "identifier": "bf2de9c7-f830-4435-9952-cd29a8f9c8b7",
+    "uri": "/reference/bf2de9c7-f830-4435-9952-cd29a8f9c8b7"
+}

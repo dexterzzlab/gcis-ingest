@@ -1,0 +1,12 @@
+{
+    "description": "HY-2 is a second generation ocean observation/monitoring satellite series approved by CNSA (China National Space Administration) Beijing in Feb. 2007. The HY-2A mission represents a follow-up of the HY-1A and HY-1B missions.",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/h/hy-2a",
+    "end_date": "2014-12-01T00:00:00",
+    "href": "http://data.globalchange.gov/platform/ocean-dynamics-satellite-a.json",
+    "identifier": "ocean-dynamics-satellite-a",
+    "name": "Ocean dynamics satellite A",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "2011-08-16T00:00:00",
+    "uri": "/platform/ocean-dynamics-satellite-a",
+    "url": "http://www.naoas.gov.cn/"
+}

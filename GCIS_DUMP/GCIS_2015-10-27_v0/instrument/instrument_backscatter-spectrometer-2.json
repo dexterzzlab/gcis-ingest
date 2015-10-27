@@ -1,0 +1,8 @@
+{
+    "description": "High-resolution nadir-scanning SW spectrometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/backscatter-spectrometer-2.json",
+    "identifier": "backscatter-spectrometer-2",
+    "name": "Backscatter spectrometer/2",
+    "uri": "/instrument/backscatter-spectrometer-2"
+}

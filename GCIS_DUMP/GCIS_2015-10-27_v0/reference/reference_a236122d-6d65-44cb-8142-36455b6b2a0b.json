@@ -1,0 +1,31 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Objectives. This study examined whether differences in heat alone, as opposed to public health interventions or other factors, accounted for the reduction in heat-related deaths and paramedic emergency medical service (EMS) runs between 1995 and 1999 during 2 heat waves occurring in Milwaukee, Wis.; Methods. Two previously described prediction models were adapted to compare expected and observed heat-related morbidity and mortality in 1999 based on the city's 1995 experience.; Results. Both models showed that heat-related deaths and EMS runs in 1999 were at least 49% lower than levels predicted by the 1995 relation between heat and heat-related deaths or EMS runs.; Conclusions. Reductions in heat-related morbidity and mortality in 1999 were not attributable to differences in heat levels alone. Changes in public health preparedness and response may also have contributed to these reductions.",
+        "Accession Number": "ISI:000175222200037",
+        "Alternate Journal": "Am J Public Health",
+        "Author": "Weisskopf, M. G.\rAnderson, H. A.\rFoldy, S.\rHanrahan, L. P.\rBlair, K.\rTorok, T. J.\rRumm, P. D.",
+        "Author Address": "Weisskopf, MG; Harvard Univ, Sch Publ Hlth, Dept Nutr, 665 Huntington Ave, Boston, MA 02115 USA; Harvard Univ, Sch Publ Hlth, Dept Nutr, 665 Huntington Ave, Boston, MA 02115 USA; Ctr Dis Control & Prevent, Epidemiol Program Off, Epidem Intelligence Serv, Atlanta, GA USA; Wisconsin Dept Hlth & Family Serv, Madison, WI USA; City Milwaukee Hlth Dept, Milwaukee, WI USA; Med Coll Wisconsin, Dept Family & Community Med, Milwaukee, WI 53226 USA; Ctr Dis Control & Prevent, Div Appl Publ Hlth Training, Atlanta, GA USA",
+        "DOI": "10.2105/AJPH.92.5.830",
+        "Date": "May",
+        "ISSN": "0090-0036",
+        "Issue": "5",
+        "Journal": "American Journal of Public Health",
+        "Keywords": "st-louis; chicago; deaths",
+        "Language": "English",
+        "Notes": "545MV; Times Cited:59; Cited References Count:26",
+        "Pages": "830-833",
+        "Title": "Heat wave morbidity and mortality, Milwaukee, Wis, 1999 vs 1995: An improved response?",
+        "URL": "http://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.92.5.830",
+        "Volume": "92",
+        "Year": "2002",
+        "_chapter": "[\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "3384",
+        "_uuid": "a236122d-6d65-44cb-8142-36455b6b2a0b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.2105/AJPH.92.5.830",
+    "href": "http://data.globalchange.gov/reference/a236122d-6d65-44cb-8142-36455b6b2a0b.json",
+    "identifier": "a236122d-6d65-44cb-8142-36455b6b2a0b",
+    "uri": "/reference/a236122d-6d65-44cb-8142-36455b6b2a0b"
+}

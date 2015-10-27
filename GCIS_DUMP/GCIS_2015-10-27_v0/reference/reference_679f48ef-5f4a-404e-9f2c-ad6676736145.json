@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Smith, Kirk R.\rJerrett, Michael\rAnderson, H. Ross\rBurnett, Richard T.\rStone, Vicki\rDerwent, Richard\rAtkinson, Richard W.\rCohen, Aaron\rShonkoff, Seth B.\rKrewski, Daniel\rPope, C. Arden\rThun, Michael J.\rThurston, George",
+        "DOI": "10.1016/S0140-6736(09)61716-5",
+        "ISSN": "0140-6736",
+        "Issue": "9707",
+        "Journal": "The Lancet",
+        "Pages": "2091-2103",
+        "Title": "Public health benefits of strategies to reduce greenhouse-gas emissions: Health implications of short-lived greenhouse pollutants",
+        "Volume": "374",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "4231",
+        "_uuid": "679f48ef-5f4a-404e-9f2c-ad6676736145",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/S0140-6736(09)61716-5",
+    "href": "http://data.globalchange.gov/reference/679f48ef-5f4a-404e-9f2c-ad6676736145.json",
+    "identifier": "679f48ef-5f4a-404e-9f2c-ad6676736145",
+    "uri": "/reference/679f48ef-5f4a-404e-9f2c-ad6676736145"
+}

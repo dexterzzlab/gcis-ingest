@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Weber, E.U.\rStern, P.C.",
+        "DOI": "10.1037/a0023253",
+        "ISSN": "1935-990X",
+        "Issue": "4",
+        "Journal": "American Psychologist",
+        "Pages": "315-328",
+        "Title": "Public understanding of climate change in the United States",
+        "Volume": "66",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "3370",
+        "_uuid": "eeb21741-5c70-43d0-a4ea-7a6c7bd679bb",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1037/a0023253",
+    "href": "http://data.globalchange.gov/reference/eeb21741-5c70-43d0-a4ea-7a6c7bd679bb.json",
+    "identifier": "eeb21741-5c70-43d0-a4ea-7a6c7bd679bb",
+    "uri": "/reference/eeb21741-5c70-43d0-a4ea-7a6c7bd679bb"
+}

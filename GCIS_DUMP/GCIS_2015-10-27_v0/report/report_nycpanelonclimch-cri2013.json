@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/nycpanelonclimch-cri2013.json",
+    "identifier": "nycpanelonclimch-cri2013",
+    "in_library": null,
+    "publication_year": 2013,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Climate Risk Information 2013: Observations, Climate Change Projections, and Maps. NPCC2. Prepared for use by the City of New York Special Initiative on Rebuilding and Resiliency",
+    "topic": null,
+    "uri": "/report/nycpanelonclimch-cri2013",
+    "url": "http://ccrun.org/ccrun_files/attached_files/NPCC%20Climate%20Risk%20Information%202013%20Report%206.11%20version_0.pdf"
+}

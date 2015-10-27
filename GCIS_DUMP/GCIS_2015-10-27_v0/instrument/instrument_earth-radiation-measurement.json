@@ -1,0 +1,8 @@
+{
+    "description": "Broad-band radiometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/earth-radiation-measurement.json",
+    "identifier": "earth-radiation-measurement",
+    "name": "Earth Radiation Measurement",
+    "uri": "/instrument/earth-radiation-measurement"
+}

@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Nearing, M.A.\rJetten, V.\rBaffaut, C.\rCerdan, O.\rCouturier, A.\rHernandez, M.\rLe Bissonnais, Y.\rNichols, M.H.\rNunes, J.P.\rRenschler, C.S.\rSouche\u2019re, V.\rvan Oost, K.",
+        "DOI": "10.1016/j.catena.2005.03.007",
+        "ISSN": "0341-8162",
+        "Issue": "2",
+        "Journal": "Catena",
+        "Pages": "131-154",
+        "Title": "Modeling response of soil erosion and runoff to changes in precipitation and cover",
+        "URL": "http://ddr.nal.usda.gov/dspace/bitstream/10113/6784/1/IND43978149.pdf",
+        "Volume": "61",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "2185",
+        "_uuid": "b126b36f-e46e-422f-9467-fac4965635d9",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.catena.2005.03.007",
+    "href": "http://data.globalchange.gov/reference/b126b36f-e46e-422f-9467-fac4965635d9.json",
+    "identifier": "b126b36f-e46e-422f-9467-fac4965635d9",
+    "uri": "/reference/b126b36f-e46e-422f-9467-fac4965635d9"
+}

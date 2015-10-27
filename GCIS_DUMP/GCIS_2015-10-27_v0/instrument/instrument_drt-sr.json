@@ -1,0 +1,8 @@
+{
+    "description": "Data collection system",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/drt-sr.json",
+    "identifier": "drt-sr",
+    "name": "DRT-S&R",
+    "uri": "/instrument/drt-sr"
+}

@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/wasde-501.json",
+    "identifier": "wasde-501",
+    "in_library": null,
+    "publication_year": 2011,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "World Agricultural Supply and Demand Estimates",
+    "topic": null,
+    "uri": "/report/wasde-501",
+    "url": "http://usda.mannlib.cornell.edu/usda/waob/wasde//2010s/2011/wasde-12-09-2011.pdf"
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"italic\" start=\"35\" /><run start=\"54\" /></field></record>",
+        "Author": "Cameron, M.F.\rBengtson, J.L.\rBoveng, P.L.\rJansen, J.K.\rKelly, B.P.\rDahle, S.P.\rLogerwell, E.A.\rOverland, J.E.\rSabine, C.L.\rWaring, G.T.\rWilder, J.M.",
+        "Date": "December 2010",
+        "Institution": "U.S. Department of Commerce, National Oceanic and Atmospheric Administration, National Marine Fisheries Service, Alaska Fisheries Science Center",
+        "Pages": "246",
+        "Title": "Status Review of the Bearded Seal (Erignathus barbatus). NOAA Technical Memorandum NMFS-AFSC-211",
+        "URL": "http://www.afsc.noaa.gov/Publications/AFSC-TM/NOAA-TM-AFSC-211.pdf",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "4670",
+        "_uuid": "734c57f7-27ec-4dfa-adba-e8d2c078964c",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/nmfs-afsc-211",
+    "href": "http://data.globalchange.gov/reference/734c57f7-27ec-4dfa-adba-e8d2c078964c.json",
+    "identifier": "734c57f7-27ec-4dfa-adba-e8d2c078964c",
+    "uri": "/reference/734c57f7-27ec-4dfa-adba-e8d2c078964c"
+}

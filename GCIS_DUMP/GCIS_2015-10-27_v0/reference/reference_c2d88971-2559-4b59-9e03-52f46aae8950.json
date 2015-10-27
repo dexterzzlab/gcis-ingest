@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Golub, Alla\rHertel, Thomas\rLee, Huey-Lin\rRose, Steven\rSohngen, Brent",
+        "DOI": "10.1016/j.reseneeco.2009.04.007",
+        "ISSN": "0928-7655",
+        "Issue": "4",
+        "Journal": "Resource and Energy Economics",
+        "Keywords": "Climate change\rLand use change\rNon-CO2 greenhouse gas\rMarginal abatement cost\rComputable general equilibrium\rForest carbon sequestration",
+        "Pages": "299-319",
+        "Title": "The opportunity cost of land use and the global potential for greenhouse gas mitigation in agriculture and forestry",
+        "Volume": "31",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 10: Energy Water Land FINAL\"]",
+        "_record_number": "3965",
+        "_uuid": "c2d88971-2559-4b59-9e03-52f46aae8950",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.reseneeco.2009.04.007",
+    "href": "http://data.globalchange.gov/reference/c2d88971-2559-4b59-9e03-52f46aae8950.json",
+    "identifier": "c2d88971-2559-4b59-9e03-52f46aae8950",
+    "uri": "/reference/c2d88971-2559-4b59-9e03-52f46aae8950"
+}

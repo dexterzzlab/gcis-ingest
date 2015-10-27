@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Beratan, K.K.\rKarl, H.A.",
+        "Book Title": "Restoring Lands - Coordinating Science, Politics and Action: Complexities of Climate and Governance",
+        "DOI": "10.1007/978-94-007-2549-2",
+        "Editor": "Karl, H. A.\rScarlett, L.\rVargas-Moreno, J.C.\rFlaxman, M.",
+        "ISBN": "978-94-007-2549-2",
+        "Pages": "183-216",
+        "Place Published": "Dordrecht, Netherlands",
+        "Publisher": "Springer",
+        "Reviewer": "6d9810e4-53cb-4e6d-857b-4c912a1c6440",
+        "Title": "Ch. 10: Managing the science-policy interface in a complex and contentious world",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\",\"RF 12\"]",
+        "_record_number": "1087",
+        "_uuid": "6d9810e4-53cb-4e6d-857b-4c912a1c6440",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/5e3b5313-71b5-49e9-9590-67f16a9a6f67",
+    "href": "http://data.globalchange.gov/reference/6d9810e4-53cb-4e6d-857b-4c912a1c6440.json",
+    "identifier": "6d9810e4-53cb-4e6d-857b-4c912a1c6440",
+    "uri": "/reference/6d9810e4-53cb-4e6d-857b-4c912a1c6440"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "Multi-purpose imaging Vis/IR radiometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/multispectral-imager-vis-system.json",
+    "identifier": "multispectral-imager-vis-system",
+    "name": "Multispectral Imager (VIS) system",
+    "uri": "/instrument/multispectral-imager-vis-system"
+}

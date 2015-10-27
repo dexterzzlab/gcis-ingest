@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/us-census-bureau.json",
+    "identifier": "us-census-bureau",
+    "name": "U.S. Census Bureau",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/us-census-bureau",
+    "url": "https://www.census.gov"
+}

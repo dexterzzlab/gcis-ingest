@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".publisher": "Copernicus Publications",
+        ".reference_type": "0",
+        "Author": "Cavalieri, D. J.\rParkinson, C. L.",
+        "DOI": "10.5194/tc-6-881-2012",
+        "ISSN": "1994-0424",
+        "Issue": "4",
+        "Journal": "The Cryosphere",
+        "Notes": "TC",
+        "Pages": "881-889",
+        "Title": "Arctic sea ice variability and trends, 1979-2010",
+        "URL": "http://www.the-cryosphere.net/6/881/2012/tc-6-881-2012.pdf",
+        "Volume": "6",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "3713",
+        "_uuid": "c7f4468c-6579-42ce-9726-5ec57274137b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.5194/tc-6-881-2012",
+    "href": "http://data.globalchange.gov/reference/c7f4468c-6579-42ce-9726-5ec57274137b.json",
+    "identifier": "c7f4468c-6579-42ce-9726-5ec57274137b",
+    "uri": "/reference/c7f4468c-6579-42ce-9726-5ec57274137b"
+}

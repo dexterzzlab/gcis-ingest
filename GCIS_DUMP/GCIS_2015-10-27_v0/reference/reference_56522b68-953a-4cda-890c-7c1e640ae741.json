@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Stern, P.C.\rFineberg, H.V.\rEbrary, Inc",
+        "Number of Pages": "250",
+        "Publisher": "National Academy Press",
+        "Reviewer": "56522b68-953a-4cda-890c-7c1e640ae741",
+        "Title": "Understanding Risk: Informing Decisions in a Democratic Society",
+        "URL": "http://www.nap.edu/openbook.php?isbn=030905396X",
+        "Year": "1996",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "2951",
+        "_uuid": "56522b68-953a-4cda-890c-7c1e640ae741",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/nrc-understandingrisk-1996",
+    "href": "http://data.globalchange.gov/reference/56522b68-953a-4cda-890c-7c1e640ae741.json",
+    "identifier": "56522b68-953a-4cda-890c-7c1e640ae741",
+    "uri": "/reference/56522b68-953a-4cda-890c-7c1e640ae741"
+}

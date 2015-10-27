@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Hanemann, M.\rLambe, D. \rFarber, D.",
+        "Institution": "California Energy Commission PIER Program, Sacramento, CEC",
+        "Title": "Climate Vulnerability and Adaptation Study for California: Legal Analysis of Barriers to Adaptation for California's Water Sector. Research paper CEC 500-2012-019",
+        "URL": "http://www.energy.ca.gov/2012publications/CEC-500-2012-019/CEC-500-2012-019.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "386",
+        "_uuid": "4ff13ad9-eb13-4783-8202-dd39827dca89",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/cec-500-2012-019",
+    "href": "http://data.globalchange.gov/reference/4ff13ad9-eb13-4783-8202-dd39827dca89.json",
+    "identifier": "4ff13ad9-eb13-4783-8202-dd39827dca89",
+    "uri": "/reference/4ff13ad9-eb13-4783-8202-dd39827dca89"
+}

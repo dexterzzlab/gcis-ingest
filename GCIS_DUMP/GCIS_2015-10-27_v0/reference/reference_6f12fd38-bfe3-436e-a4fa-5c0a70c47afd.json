@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "U.S. Census Bureau,",
+        "Document Number": "13 April 2012",
+        "Institution": "U.S. Census Bureau, U.S. Department of Commerce",
+        "Pages": "22",
+        "Place Published": "Washington, D.C.",
+        "Title": "The 2012 Statistical Abstract: Arts, Recreation & Travel",
+        "URL": "http://www.census.gov/prod/2011pubs/12statab/arts.pdf",
+        "Volume": "2012",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "3130",
+        "_uuid": "6f12fd38-bfe3-436e-a4fa-5c0a70c47afd",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/census-saart-2012",
+    "href": "http://data.globalchange.gov/reference/6f12fd38-bfe3-436e-a4fa-5c0a70c47afd.json",
+    "identifier": "6f12fd38-bfe3-436e-a4fa-5c0a70c47afd",
+    "uri": "/reference/6f12fd38-bfe3-436e-a4fa-5c0a70c47afd"
+}

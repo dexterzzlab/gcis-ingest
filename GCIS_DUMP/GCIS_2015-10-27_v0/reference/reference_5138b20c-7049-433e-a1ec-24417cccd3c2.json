@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Seneviratne, S.I.\rN. Nicholls\rD. Easterling\rC.M. Goodess\rS. Kanae\rJ. Kossin\rY. Luo\rJ. Marengo\rK. McInnes\rM. Rahimi\rM. Reichstein\rA. Sorteberg\rC. Vera\rX. Zhang",
+        "Book Title": "Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation. A Special Report of Working Groups I and II of the Intergovernmental Panel on Climate Change (IPCC)",
+        "Editor": "Field, C.B.\rV. Barros\rT.F. Stocker\rQ. Dahe\rD.J. Dokken\rK.L. Ebi\rM.D. Mastrandrea\rK.J. Mach\rG.-K. Plattner\rS.K. Allen\rM. Tignor\rP.M. Midgley",
+        "ISBN": "978-1-107-02506-6",
+        "Pages": "109-230",
+        "Place Published": "Cambridge, UK, and New York, NY, USA",
+        "Publisher": "Cambridge University Press",
+        "Reviewer": "5138b20c-7049-433e-a1ec-24417cccd3c2",
+        "Title": "Ch. 3: Changes in climate extremes and their impacts on the natural physical environment",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"RG 10 Coasts\",\"Ch. 2: Our Changing Climate FINAL\",\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "2812",
+        "_uuid": "5138b20c-7049-433e-a1ec-24417cccd3c2",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/ipcc-srex",
+    "href": "http://data.globalchange.gov/reference/5138b20c-7049-433e-a1ec-24417cccd3c2.json",
+    "identifier": "5138b20c-7049-433e-a1ec-24417cccd3c2",
+    "uri": "/reference/5138b20c-7049-433e-a1ec-24417cccd3c2"
+}

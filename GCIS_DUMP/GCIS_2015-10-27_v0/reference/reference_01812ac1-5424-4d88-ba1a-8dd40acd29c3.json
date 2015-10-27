@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Modern climate change is dominated by human influences, which are now large enough to exceed the bounds of natural variability. The main source of global climate change is human-induced changes in atmospheric composition. These perturbations primarily result from emissions associated with energy use, but on local and regional scales, urbanization and land use changes are also important. Although there has been progress in monitoring and understanding climate change, there remain many scientific, technical, and institutional impediments to precisely planning for, adapting to, and mitigating the effects of climate change. There is still considerable uncertainty about the rates of change that can be expected, but it is clear that these changes will be increasingly manifested in important and tangible ways, such as changes in extremes of temperature and precipitation, decreases in seasonal and perennial snow and ice extent, and sea level rise. Anthropogenic climate change is now likely to continue for many centuries. We are venturing into the unknown with climate, and its associated impacts could be quite disruptive.",
+        "Author": "Karl, Thomas R.\rTrenberth, Kevin E.",
+        "DOI": "10.1126/science.1090228",
+        "Date": "December 5, 2003",
+        "Issue": "5651",
+        "Journal": "Science",
+        "Pages": "1719-1723",
+        "Title": "Modern global climate change",
+        "Volume": "302",
+        "Year": "2003",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "4703",
+        "_uuid": "01812ac1-5424-4d88-ba1a-8dd40acd29c3",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1090228",
+    "href": "http://data.globalchange.gov/reference/01812ac1-5424-4d88-ba1a-8dd40acd29c3.json",
+    "identifier": "01812ac1-5424-4d88-ba1a-8dd40acd29c3",
+    "uri": "/reference/01812ac1-5424-4d88-ba1a-8dd40acd29c3"
+}

@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Moore, Sue E.\rHuntington, Henry P.",
+        "DOI": "10.1890/06-0571.1",
+        "ISSN": "1051-0761",
+        "Issue": "sp2",
+        "Journal": "Ecological Applications",
+        "Pages": "S157-S165-S157-S165",
+        "Title": "Arctic marine mammals and climate change: Impacts and resilience",
+        "URL": "http://www.esajournals.org/doi/abs/10.1890/06-0571.1",
+        "Volume": "18",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\",\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "2077",
+        "_uuid": "1bfc4e28-48d5-4e4a-9e25-4fa931517b67",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/06-0571.1",
+    "href": "http://data.globalchange.gov/reference/1bfc4e28-48d5-4e4a-9e25-4fa931517b67.json",
+    "identifier": "1bfc4e28-48d5-4e4a-9e25-4fa931517b67",
+    "uri": "/reference/1bfc4e28-48d5-4e4a-9e25-4fa931517b67"
+}

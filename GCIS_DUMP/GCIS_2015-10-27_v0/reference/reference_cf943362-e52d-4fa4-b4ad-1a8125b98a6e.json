@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Chou, W.C.\rWu, J.L., \rWang, Y.C.\rHuang, H. \rSung, F.C. \rChuang, C.Y.",
+        "DOI": "10.1016/j.scitotenv.2010.09.001",
+        "Issue": "1",
+        "Journal": "Science of The Total Environment",
+        "Pages": "43-51",
+        "Title": "Modeling the impact of climate variability on diarrhea-associated diseases in Taiwan",
+        "Volume": "409",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "1123",
+        "_uuid": "cf943362-e52d-4fa4-b4ad-1a8125b98a6e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.scitotenv.2010.09.001",
+    "href": "http://data.globalchange.gov/reference/cf943362-e52d-4fa4-b4ad-1a8125b98a6e.json",
+    "identifier": "cf943362-e52d-4fa4-b4ad-1a8125b98a6e",
+    "uri": "/reference/cf943362-e52d-4fa4-b4ad-1a8125b98a6e"
+}

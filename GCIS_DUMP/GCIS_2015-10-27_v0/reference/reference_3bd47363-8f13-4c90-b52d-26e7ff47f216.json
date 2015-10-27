@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".publisher": "American Academy of Pediatrics Committee of Environmental Health",
+        ".reference_type": "0",
+        "Author": "AAP,",
+        "DOI": "10.1542/peds.2007-2645",
+        "Issue": "5",
+        "Journal": "Pediatrics",
+        "Pages": "1149-1152 ",
+        "Title": "Global climate change and children's health",
+        "URL": "http://pediatrics.aappublications.org/content/120/5/1149.full",
+        "Volume": "120",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "4249",
+        "_uuid": "3bd47363-8f13-4c90-b52d-26e7ff47f216",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1542/peds.2007-2645",
+    "href": "http://data.globalchange.gov/reference/3bd47363-8f13-4c90-b52d-26e7ff47f216.json",
+    "identifier": "3bd47363-8f13-4c90-b52d-26e7ff47f216",
+    "uri": "/reference/3bd47363-8f13-4c90-b52d-26e7ff47f216"
+}

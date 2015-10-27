@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Accession Number": "WOS:000262587900047",
+        "Author": "Van Mantgem, P. J.\rStephenson, N. L.\rByrne, J. C.\rDaniels, L. D.\rFranklin, J. F.\rFule, P. Z.\rHarmon, M. E.\rLarson, A. J.\rSmith, J. M.\rTaylor, A. H.\rVeblen, T. T.",
+        "DOI": "10.1126/science.1165000",
+        "Date": "Jan",
+        "ISSN": "0036-8075",
+        "Issue": "5913",
+        "Journal": "Science",
+        "Label": "IN",
+        "Pages": "521-524",
+        "Title": "Widespread increase of tree mortality rates in the western United States",
+        "Volume": "323",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"RF 10\",\"Ch. 8: Ecosystems FINAL\",\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "3265",
+        "_uuid": "9c23a870-58cf-49f6-9c6f-01cb94e4bb5a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1165000",
+    "href": "http://data.globalchange.gov/reference/9c23a870-58cf-49f6-9c6f-01cb94e4bb5a.json",
+    "identifier": "9c23a870-58cf-49f6-9c6f-01cb94e4bb5a",
+    "uri": "/reference/9c23a870-58cf-49f6-9c6f-01cb94e4bb5a"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".publisher": "U.S. Department of Commerce",
+        ".reference_type": "0",
+        "Author": "DOC,",
+        "Issue": "41",
+        "Journal": "Federal Register",
+        "Pages": "11427-11429",
+        "Title": "National Climate Assessment Development and Advisory Committee; Request for Nominations and Notice of Meeting",
+        "URL": "http://www.gpo.gov/fdsys/pkg/FR-2011-03-02/pdf/2011-4562.pdf",
+        "Volume": "76",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 30: NCA Long-Term Process FINAL\"]",
+        "_record_number": "4163",
+        "_uuid": "4209379a-9240-4057-a795-9fcab161646e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/national-climate-assessment-development-advisory-committee-request-nominations",
+    "href": "http://data.globalchange.gov/reference/4209379a-9240-4057-a795-9fcab161646e.json",
+    "identifier": "4209379a-9240-4057-a795-9fcab161646e",
+    "uri": "/reference/4209379a-9240-4057-a795-9fcab161646e"
+}

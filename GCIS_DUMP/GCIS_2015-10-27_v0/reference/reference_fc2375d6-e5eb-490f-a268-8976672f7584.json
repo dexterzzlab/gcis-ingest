@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Feagin, R.A.\rMartinez, M.L.\rMendoza-Gonzalez, G.\rCostanza, R.",
+        "Issue": "4",
+        "Journal": "Ecology and Society",
+        "Pages": "14",
+        "Title": "Salt marsh zonal migration and ecosystem service change in response to global sea level rise: A case study from an urban region",
+        "URL": "http://www.ecologyandsociety.org/vol15/iss4/art14/",
+        "Volume": "15",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "1488",
+        "_uuid": "fc2375d6-e5eb-490f-a268-8976672f7584",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/salt-marsh-zonal-migration-and-ecosystem-service-change-in-response-to-global-sea-level-rise-a-case-study-from-an-urban-region",
+    "href": "http://data.globalchange.gov/reference/fc2375d6-e5eb-490f-a268-8976672f7584.json",
+    "identifier": "fc2375d6-e5eb-490f-a268-8976672f7584",
+    "uri": "/reference/fc2375d6-e5eb-490f-a268-8976672f7584"
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Sivakumar, M. V. K.\rHansen, J.",
+        "ISBN": "978-3-540-44649-1",
+        "Notes": "Sivakumar, M. V. K., & Hansen, J. (eds). (2007). Climate prediction and agriculture: Advances and challenges. Springer",
+        "Number of Pages": "307",
+        "Publisher": "Springer",
+        "Reviewer": "ca2a1adf-0f5a-4838-aa81-fc0c44f50369",
+        "Title": "Climate Prediction and Agriculture: Advances and Challenges",
+        "Year": "2007",
+        "_chapter": "[\"RG 8 Hawaii\",\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "2861",
+        "_uuid": "ca2a1adf-0f5a-4838-aa81-fc0c44f50369",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/d74e99dc-8740-4014-942a-72e0b6e8c35b",
+    "href": "http://data.globalchange.gov/reference/ca2a1adf-0f5a-4838-aa81-fc0c44f50369.json",
+    "identifier": "ca2a1adf-0f5a-4838-aa81-fc0c44f50369",
+    "uri": "/reference/ca2a1adf-0f5a-4838-aa81-fc0c44f50369"
+}

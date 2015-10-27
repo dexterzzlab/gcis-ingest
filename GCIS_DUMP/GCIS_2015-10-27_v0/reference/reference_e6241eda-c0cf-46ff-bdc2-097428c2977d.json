@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Vitousek, P.M.\rField, C.B.",
+        "Book Title": "Global Biogeochemical Cycles in the Climate System",
+        "Editor": "Schulze E.D.\rS.P. Harrison\rM. Heimann\rE.A. Holland\rJ. Lloyd\rI.C. Prentice\rD. Schimel",
+        "ISBN": "978-0-12-631260-7",
+        "Pages": "217-225",
+        "Reviewer": "e6241eda-c0cf-46ff-bdc2-097428c2977d",
+        "Title": "Input/output balances and nitrogen limitation in terrestrial ecosystems",
+        "Year": "2001",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "4611",
+        "_uuid": "e6241eda-c0cf-46ff-bdc2-097428c2977d",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/c272240f-79b7-4f9a-8c1d-0284bdde2a99",
+    "href": "http://data.globalchange.gov/reference/e6241eda-c0cf-46ff-bdc2-097428c2977d.json",
+    "identifier": "e6241eda-c0cf-46ff-bdc2-097428c2977d",
+    "uri": "/reference/e6241eda-c0cf-46ff-bdc2-097428c2977d"
+}

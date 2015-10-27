@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/indicator-forest-cover.json",
+    "identifier": "indicator-forest-cover",
+    "in_library": null,
+    "publication_year": 2015,
+    "report_type_identifier": "indicator",
+    "summary": "Key Points:\r\n\r\n1.\tThis indicator measures different types of forest cover and their locations throughout the contiguous United States. Forest cover is affected by climate factors, such as drought or increased rainfall, and human factors, such as changes in land use or management.  \r\n\r\n2.\tForests accounted for about 29% of the land area in the contiguous United States in 2011.\r\n\r\n3.\tForest cover data can inform decisions about wildfire control, forest production and preservation, invasive species management, and climate change mitigation strategies.\r\n\r\nFull Summary:\r\n\r\nAs of 2011, forests accounted for about 29% of the land area in the contiguous United States. Human activities\u2014such as fire suppression, changes in grazing patterns, abandonment of agricultural lands, and timber harvest\u2014affect forest cover. Climate, windstorms, fire, insects, and pests also can affect forest cover in some areas. For example, drought can cause tree death and impede tree regrowth. On the other hand, in regions where increased rainfall and soil moisture limit tree growth, forest cover may increase with drought. \r\n\r\nData to visually represent forest cover were obtained from the National Land Cover Dataset (NLCD) produced by the Multi-Resolution Land Characteristics Consortium (MRLC). In this indicator, forest cover is defined as areas where trees are dominantly greater than 16 feet tall and make up greater than 20% of the total vegetation cover. In addition to forest cover, this indicator also shows cover by woody wetlands. \r\n\r\nForest cover data can inform decisions about wildfire control, forest production and preservation, and invasive species management. Because forests may be used for carbon sequestration, forest cover data can also inform climate change mitigation strategies. In addition to considering forest cover, monitoring the condition of forests through the use of vegetation indices (such as year-to-year variability in peak greenness) may provide further insights.\r\n",
+    "title": "Indicator: Forest Cover",
+    "topic": null,
+    "uri": "/report/indicator-forest-cover",
+    "url": "http://www.globalchange.gov/browse/indicators/indicator-forest-cover"
+}

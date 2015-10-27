@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Maes, M.\rMeyer, F.\rThompson, P.\rPeeters, D.\rCosyns, P.",
+        "DOI": "10.1111/j.1600-0447.1994.tb01612.x",
+        "ISSN": "1600-0447",
+        "Issue": "5",
+        "Journal": "Acta Psychiatrica Scandinavica",
+        "Pages": "391-396",
+        "Title": "Synchronized annual rhythms in violent suicide rate, ambient temperature and the light-dark span",
+        "Volume": "90",
+        "Year": "1994",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "1847",
+        "_uuid": "83c98464-a66f-4c93-8698-a45966ccc96b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1600-0447.1994.tb01612.x",
+    "href": "http://data.globalchange.gov/reference/83c98464-a66f-4c93-8698-a45966ccc96b.json",
+    "identifier": "83c98464-a66f-4c93-8698-a45966ccc96b",
+    "uri": "/reference/83c98464-a66f-4c93-8698-a45966ccc96b"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "EPA,",
+        "Book Title": "Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990-2007",
+        "Pages": "268-332",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "U.S. Environmental Protection Agency",
+        "Reviewer": "737d3e93-4c05-43fa-8cb2-6c2d358c7d95",
+        "Title": "Ch. 7: Land use, land-use change, and forestry",
+        "URL": "http://www.epa.gov/climatechange/Downloads/ghgemissions/US-GHG-Inventory-2012-Chapter-7-LULUCF.pdf",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "3638",
+        "_uuid": "737d3e93-4c05-43fa-8cb2-6c2d358c7d95",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/epa-greenhousegasinventory-1990-2007",
+    "href": "http://data.globalchange.gov/reference/737d3e93-4c05-43fa-8cb2-6c2d358c7d95.json",
+    "identifier": "737d3e93-4c05-43fa-8cb2-6c2d358c7d95",
+    "uri": "/reference/737d3e93-4c05-43fa-8cb2-6c2d358c7d95"
+}

@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Alessa, Lilian\rKliskey, Andrew\rBusey, Robert\rHinzman, Larry\rWhite, Dan",
+        "DOI": "10.1016/j.gloenvcha.2008.01.004",
+        "ISSN": "09593780",
+        "Issue": "2",
+        "Journal": "Global Environmental Change",
+        "Notes": "(Na\u2019ia); (Anaru)",
+        "Pages": "256-270",
+        "Title": "Freshwater vulnerabilities and resilience on the Seward Peninsula: Integrating multiple dimensions of landscape change",
+        "Volume": "18",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "745",
+        "_uuid": "3800bb8e-2dea-4285-9aaf-42f7eecc3e0d",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.gloenvcha.2008.01.004",
+    "href": "http://data.globalchange.gov/reference/3800bb8e-2dea-4285-9aaf-42f7eecc3e0d.json",
+    "identifier": "3800bb8e-2dea-4285-9aaf-42f7eecc3e0d",
+    "uri": "/reference/3800bb8e-2dea-4285-9aaf-42f7eecc3e0d"
+}

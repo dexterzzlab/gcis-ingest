@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Holstius, David M.\rReid, Colleen E.\rJesdale, Bill M.\rMorello-Frosch, Rachel",
+        "DOI": "10.1289/ehp.110451",
+        "Issue": "9",
+        "Journal": "Environmental Health Perspectives",
+        "Pages": "1340-1345",
+        "Title": "Birth weight following pregnancy during the 2003 southern California wildfires",
+        "URL": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3440113/pdf/ehp.1104515.pdf",
+        "Volume": "120",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "4201",
+        "_uuid": "d2b28363-411c-4444-9b05-8204ff607e36",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1289/ehp.1104515",
+    "href": "http://data.globalchange.gov/reference/d2b28363-411c-4444-9b05-8204ff607e36.json",
+    "identifier": "d2b28363-411c-4444-9b05-8204ff607e36",
+    "uri": "/reference/d2b28363-411c-4444-9b05-8204ff607e36"
+}

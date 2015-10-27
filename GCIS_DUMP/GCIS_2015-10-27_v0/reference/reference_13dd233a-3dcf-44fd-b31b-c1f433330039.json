@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Accession Number": "WOS:000267888700012",
+        "Alternate Journal": "ICES J. Mar. Sci.",
+        "Author": "Rabalais, N. N.\rTurner, R. E.\rDiaz, R. J.\rJustic, D.",
+        "DOI": "10.1093/icesjms/fsp047",
+        "Date": "Aug",
+        "ISSN": "1054-3139",
+        "Issue": "7",
+        "Journal": "ICES Journal of Marine Science",
+        "Keywords": "climate change; coastal; estuaries; eutrophication; Gulf of Mexico; hypoxia; nutrients; stratification; tropical storms; gulf-of-mexico; mississippi river-basin; climate-change; marine; ecosystems; continental-shelf; dissolved-oxygen; summer hypoxia; human; impact; nitrogen; nutrient",
+        "Language": "English",
+        "Pages": "1528-1537",
+        "Title": "Global change and eutrophication of coastal waters",
+        "Type of Article": "Article",
+        "URL": "http://icesjms.oxfordjournals.org/content/66/7/1528.full.pdf+html",
+        "Volume": "66",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "2563",
+        "_uuid": "13dd233a-3dcf-44fd-b31b-c1f433330039",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1093/icesjms/fsp047",
+    "href": "http://data.globalchange.gov/reference/13dd233a-3dcf-44fd-b31b-c1f433330039.json",
+    "identifier": "13dd233a-3dcf-44fd-b31b-c1f433330039",
+    "uri": "/reference/13dd233a-3dcf-44fd-b31b-c1f433330039"
+}

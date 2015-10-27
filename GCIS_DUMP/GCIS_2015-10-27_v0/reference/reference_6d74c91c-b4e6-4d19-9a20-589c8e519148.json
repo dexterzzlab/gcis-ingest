@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"italic\" start=\"47\" /><run start=\"70\" /></field></record>",
+        "Author": "Morin, C.W.\rComrie, A.C.",
+        "DOI": "10.1007/s00484-010-0349-6",
+        "ISSN": "0020-7128",
+        "Issue": "5",
+        "Journal": "International Journal of Biometeorology",
+        "Pages": "517-529",
+        "Title": "Modeled response of the West Nile virus vector Culex quinquefasciatus to changing climate using the dynamic mosquito simulation model",
+        "Volume": "54",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "2086",
+        "_uuid": "6d74c91c-b4e6-4d19-9a20-589c8e519148",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s00484-010-0349-6",
+    "href": "http://data.globalchange.gov/reference/6d74c91c-b4e6-4d19-9a20-589c8e519148.json",
+    "identifier": "6d74c91c-b4e6-4d19-9a20-589c8e519148",
+    "uri": "/reference/6d74c91c-b4e6-4d19-9a20-589c8e519148"
+}

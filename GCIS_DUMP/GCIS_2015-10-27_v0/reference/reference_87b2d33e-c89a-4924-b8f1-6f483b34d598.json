@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Beier, P.\rBrost, B.",
+        "DOI": "10.1111/j.1523-1739.2009.01422.x",
+        "ISSN": "1523-1739",
+        "Issue": "3",
+        "Journal": "Conservation Biology",
+        "Pages": "701-710",
+        "Title": "Use of land facets to plan for climate change: Conserving the arenas, not the actors",
+        "Volume": "24",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "1746",
+        "_uuid": "87b2d33e-c89a-4924-b8f1-6f483b34d598",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1523-1739.2009.01422.x",
+    "href": "http://data.globalchange.gov/reference/87b2d33e-c89a-4924-b8f1-6f483b34d598.json",
+    "identifier": "87b2d33e-c89a-4924-b8f1-6f483b34d598",
+    "uri": "/reference/87b2d33e-c89a-4924-b8f1-6f483b34d598"
+}

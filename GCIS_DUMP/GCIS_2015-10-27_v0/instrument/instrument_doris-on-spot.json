@@ -1,0 +1,8 @@
+{
+    "description": "Radio-positioning system",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/doris-on-spot.json",
+    "identifier": "doris-on-spot",
+    "name": "Doppler Orbitography and Radio-positioning Integrated by Satellite (on SPOT)",
+    "uri": "/instrument/doris-on-spot"
+}

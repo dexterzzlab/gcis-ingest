@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "This map shows projected changes in the annual frequency of tropical cyclone formation, averaged from the output of seven models, under the combined conditions of 1) a 2\u00b0C increase in sea surface temperatures, and 2) a doubling of atmospheric carbon dioxide concentrations relative to the present day. Dots denote areas where at least five of the seven models agree on the direction (increase or decrease) of the change in frequency. Although localized increases are projected, the models point to an overall global decrease in the formation of tropical cyclones. (Source: Zhao et al., 2013)",
+            "chapter_identifier": "crosscutting-priorities-serve-science-society",
+            "create_dt": null,
+            "identifier": "future-change-hurricane-frequency",
+            "lat_max": "40",
+            "lat_min": "-40",
+            "lon_max": "180",
+            "lon_min": "-180",
+            "ordinal": 18,
+            "report_identifier": "usgcrp-ocpfy2016",
+            "source_citation": "Figure 3 of paper: Zhao, M., I.M. Held, G. Vecchi, E. Scoccimarro, H. Wang, M. Wehner, Y.-K. Lim, T. LaRow, S.J. Camargo, K. Walsh, S. Gualdi, A. Kumar, and S. Schubert. 2013. Robust direct effect of increasing atmospheric CO2 concentration on global tropical cyclone frequency - a multi-model inter-comparison. CLIVAR Variations 11, 17\u201323",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Future change in hurricane frequency",
+            "url": "http://www.usclivar.org/sites/default/files/USCLIVAR_VARIATIONS_11_3_Fall2013.pdf#page=17 ",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "38/f0/7b36aff5468d6bb6081bb62276ce/HL29_future-hurricane-frequency-map.png",
+            "href": "http://data.globalchange.gov/assets/38/f0/7b36aff5468d6bb6081bb62276ce/HL29_future-hurricane-frequency-map.png",
+            "identifier": "ea1b656d-9a74-46cb-a59d-8ce23c2da476",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "6045b05b67e176e4fd131791a241098520ca9f55",
+            "size": 128004,
+            "thumbnail": "38/f0/7b36aff5468d6bb6081bb62276ce/.thumb-ea1b656d-9a74-46cb-a59d-8ce23c2da476.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/38/f0/7b36aff5468d6bb6081bb62276ce/.thumb-ea1b656d-9a74-46cb-a59d-8ce23c2da476.png",
+            "uri": "/file/ea1b656d-9a74-46cb-a59d-8ce23c2da476",
+            "url": "/assets/38/f0/7b36aff5468d6bb6081bb62276ce/HL29_future-hurricane-frequency-map.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/95f1a71f-70ae-4252-bf61-f21b34eb2d7b.json",
+    "identifier": "95f1a71f-70ae-4252-bf61-f21b34eb2d7b",
+    "lat_max": "40",
+    "lat_min": "-40",
+    "lon_max": "180",
+    "lon_min": "-180",
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Future change in hurricane frequency",
+    "uri": "/image/95f1a71f-70ae-4252-bf61-f21b34eb2d7b",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

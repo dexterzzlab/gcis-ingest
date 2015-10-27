@@ -1,0 +1,17 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "NOAA,",
+        "Title": "NOAA\u2019s List of Coastal Counties for the Bureau of the Census. Statistical Abstract Series",
+        "URL": "http://www.census.gov/geo/landview/lv6help/coastal_cty.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "3642",
+        "_uuid": "81e5b87a-58b3-4e0e-9980-691c5653f9e1",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/noaa-list-2012",
+    "href": "http://data.globalchange.gov/reference/81e5b87a-58b3-4e0e-9980-691c5653f9e1.json",
+    "identifier": "81e5b87a-58b3-4e0e-9980-691c5653f9e1",
+    "uri": "/reference/81e5b87a-58b3-4e0e-9980-691c5653f9e1"
+}

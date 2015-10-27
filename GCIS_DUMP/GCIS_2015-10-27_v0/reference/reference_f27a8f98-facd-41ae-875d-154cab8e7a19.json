@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "USGCRP",
+        "Date": "2-21-2012",
+        "Institution": "U.S. Global Change Research Program",
+        "Pages": "5",
+        "Title": "Guidance on Information Quality Assurance to Chapter Authors of the National Climate Assessment: Question Tools",
+        "URL": "http://downloads.usgcrp.gov/NCA/Question-Tools---2-21-12.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Appendix 2: IQA FINAL\"]",
+        "_record_number": "4618",
+        "_uuid": "f27a8f98-facd-41ae-875d-154cab8e7a19",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usgcrp-guidanceiqa-2012",
+    "href": "http://data.globalchange.gov/reference/f27a8f98-facd-41ae-875d-154cab8e7a19.json",
+    "identifier": "f27a8f98-facd-41ae-875d-154cab8e7a19",
+    "uri": "/reference/f27a8f98-facd-41ae-875d-154cab8e7a19"
+}

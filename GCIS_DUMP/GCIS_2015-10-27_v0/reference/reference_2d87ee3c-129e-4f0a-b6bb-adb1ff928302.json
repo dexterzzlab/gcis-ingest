@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "SCIPP,",
+        "Institution": "Southern Climate Impacts and Planning Program (SCIPP), Oklahoma Climatological Survey, University of Oklahoma and Louisiana State University, and the National Oceanic and Atmospheric Administration",
+        "Pages": "20",
+        "Title": "Southern Climate Impacts and Planning Program Regional Integrated Sciences and Assessments Program 4th Annual Report: May 1, 2011 - April 30, 2012: Norman, OK and Baton Rouge, LA",
+        "URL": "http://www.southernclimate.org/publications/SCIPP_2011-2012_Annual_Report.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "2795",
+        "_uuid": "2d87ee3c-129e-4f0a-b6bb-adb1ff928302",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/scipp-4annreport-2012",
+    "href": "http://data.globalchange.gov/reference/2d87ee3c-129e-4f0a-b6bb-adb1ff928302.json",
+    "identifier": "2d87ee3c-129e-4f0a-b6bb-adb1ff928302",
+    "uri": "/reference/2d87ee3c-129e-4f0a-b6bb-adb1ff928302"
+}

@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-08-21T11:52:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "The Santa Cruz Watershed Ecosystem Portfolio Model is a regional land-use planning tool that integrates ecological, economic, and social information and values relevant to decision-makers and stakeholders. The tool is a map-based set of evaluation tools for planners and stakeholders, and is meant to help in balancing disparate interests within a regional context. Projections for climate change can be added to tools such as this one and used to simulate impacts of climate change and generate scenarios of climate change sensitivity; such an application is under development for this tool (Figure source: USGS 2012<tbib>d4622f7e-aca7-42e6-95da-90579a187c30</tbib>).",
+            "chapter_identifier": "decision-support",
+            "create_dt": "2013-08-21T11:52:00",
+            "identifier": "land-use-planning-tool-for-the-upper-santa-cruz-watershed",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 5,
+            "report_identifier": "nca3",
+            "source_citation": "USGS 2012<tbib>d4622f7e-aca7-42e6-95da-90579a187c30</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Land-use Planning Tool for the Upper Santa Cruz Watershed.",
+            "url": "http://nca2014.globalchange.gov/report/response-strategies/decision-support/graphics/land-use-planning-tool-upper-santa-cruz",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "52/bc/1afe2f98ab364367d136e45a47cb/ds_planning_tool_screen_capture_v3.png",
+            "href": "http://data.globalchange.gov/assets/52/bc/1afe2f98ab364367d136e45a47cb/ds_planning_tool_screen_capture_v3.png",
+            "identifier": "11084a7a-e1fa-40ac-ab11-47ada8e6807f",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "33994cfd3954dcac23c2a065b6f5c59887f89cba",
+            "size": 1099057,
+            "thumbnail": "52/bc/1afe2f98ab364367d136e45a47cb/.thumb-11084a7a-e1fa-40ac-ab11-47ada8e6807f.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/52/bc/1afe2f98ab364367d136e45a47cb/.thumb-11084a7a-e1fa-40ac-ab11-47ada8e6807f.png",
+            "uri": "/file/11084a7a-e1fa-40ac-ab11-47ada8e6807f",
+            "url": "/assets/52/bc/1afe2f98ab364367d136e45a47cb/ds_planning_tool_screen_capture_v3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/84daccd7-c988-41f4-958e-6a4434acd11e.json",
+    "identifier": "84daccd7-c988-41f4-958e-6a4434acd11e",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Land use planning tool for the Upper Santa Cruz Watershed.",
+    "uri": "/image/84daccd7-c988-41f4-958e-6a4434acd11e",
+    "url": null,
+    "usage_limits": null
+}

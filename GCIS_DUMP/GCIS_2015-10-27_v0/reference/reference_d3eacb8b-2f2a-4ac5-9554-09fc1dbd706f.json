@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Staudt, A.\rGlick, P.\rMizejewski, D.\rInkley, D. ",
+        "Institution": "National Wildlife Federation and Asthma and Allergy Foundation of America",
+        "Pages": "12",
+        "Title": "Extreme Allergies and Global Warming",
+        "URL": "http://www.nwf.org/~/media/PDFs/Global-Warming/Reports/NWF_AllergiesFinal.ashx",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "2941",
+        "_uuid": "d3eacb8b-2f2a-4ac5-9554-09fc1dbd706f",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/nwf-extreme-2010",
+    "href": "http://data.globalchange.gov/reference/d3eacb8b-2f2a-4ac5-9554-09fc1dbd706f.json",
+    "identifier": "d3eacb8b-2f2a-4ac5-9554-09fc1dbd706f",
+    "uri": "/reference/d3eacb8b-2f2a-4ac5-9554-09fc1dbd706f"
+}

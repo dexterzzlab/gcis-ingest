@@ -1,0 +1,12 @@
+{
+    "description": "HadCM3 is a coupled climate model that has been used extensively for climate prediction, detection and attribution, and other climate sensitivity studies.\nHadCM3 stands for the Hadley Centre Coupled Model version 3. It was developed in 1999 and was the first unified model climate configuration not to require flux adjustments (artificial adjustments applied to climate model simulations to prevent them drifting into unrealistic climate states).",
+    "description_attribution": "http://www.metoffice.gov.uk/research/modelling-systems/unified-model/climate-models/hadcm3",
+    "href": "http://data.globalchange.gov/model/ukmo-hadcm3.json",
+    "identifier": "ukmo-hadcm3",
+    "name": "United Kingdom Met Office, Hadley Centre, Climate Model Version 3",
+    "project_identifier": "cmip3",
+    "reference_url": "http://www-pcmdi.llnl.gov/ipcc/model_documentation/HadCM3.htm",
+    "uri": "/model/ukmo-hadcm3",
+    "version": null,
+    "website": "http://www.metoffice.gov.uk/research/modelling-systems/unified-model/climate-models/hadcm3"
+}

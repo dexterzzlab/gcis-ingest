@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Bobbink, R.\rHicks, K.\rGalloway, J.\rSpranger, T.\rAlkemade, R.\rAshmore, M.\rBustamante, M.\rCinderby, S.\rDavidson, E.\rDentener, F.\rEmmett, B.\rErisman, J. W.\rFenn, M.\rGilliam, F.\rNordin, A.\rPardo, L.\rDe Vries, W.",
+        "DOI": "10.1890/08-1140.1",
+        "Date": "Jan",
+        "ISSN": "1051-0761",
+        "Issue": "1",
+        "Journal": "Ecological Applications",
+        "Pages": "30-59",
+        "Title": "Global assessment of nitrogen deposition effects on terrestrial plant diversity: A synthesis",
+        "Volume": "20",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "761",
+        "_uuid": "1976b4f5-aef5-4149-ad9c-ce7025296992",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/08-1140.1",
+    "href": "http://data.globalchange.gov/reference/1976b4f5-aef5-4149-ad9c-ce7025296992.json",
+    "identifier": "1976b4f5-aef5-4149-ad9c-ce7025296992",
+    "uri": "/reference/1976b4f5-aef5-4149-ad9c-ce7025296992"
+}

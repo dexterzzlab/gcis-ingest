@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Kennedy, J.J.\rP.W. Thorne\rT.C. Peterson\rR.A. Reudy\rP.A. Stott\rD.E. Parker\rS.A. Good\rH.A. Titchner\rK.M. Willett",
+        "DOI": "10.1175/BAMS-91-7-StateoftheClimate",
+        "ISSN": "1520-0477",
+        "Issue": "7",
+        "Journal": "Bulletin of the American Meteorological Society",
+        "Pages": "S26-27",
+        "Title": "How do we know the world has warmed?  [in \u201cState of the Climate in 2009\u201d]",
+        "URL": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-91-7-StateoftheClimate",
+        "Volume": "91",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"Appendix 4: FAQs FINAL\",\"NCA Report Citations\",\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "856",
+        "_uuid": "25578196-95d0-4ac7-b889-0e863985423d",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/report/bams-state-of-the-climate-2009",
+    "href": "http://data.globalchange.gov/reference/25578196-95d0-4ac7-b889-0e863985423d.json",
+    "identifier": "25578196-95d0-4ac7-b889-0e863985423d",
+    "uri": "/reference/25578196-95d0-4ac7-b889-0e863985423d"
+}

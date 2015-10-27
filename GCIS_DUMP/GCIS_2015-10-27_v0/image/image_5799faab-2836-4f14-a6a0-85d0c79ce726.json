@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-09-13T13:53:45",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "The figure shows a conceptual climate envelope analysis of forest vulnerability under current and projected future ranges of variability in climate parameters (temperature and precipitation, or alternatively drought duration and intensity). Climate models project increasing temperatures across the U.S. in coming decades, but a range of increasing or decreasing precipitation depending on region. Episodic droughts (where evaporation far exceeds precipitation) are also expected to increase in duration and/or intensity (see Ch. 2: Our Changing Climate). The overall result will be increased vulnerability of forests to periodic widespread regional mortality events resulting from trees exceeding their physiological stress thresholds.<tbib>878be8a3-989e-497d-af88-5417df6ab074</tbib> (Figure source: Allen et al. 2010<tbib>878be8a3-989e-497d-af88-5417df6ab074</tbib>).",
+            "chapter_identifier": "forests",
+            "create_dt": "2013-09-13T13:53:45",
+            "identifier": "forest-vulnerability-to-changing-climate",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 3,
+            "report_identifier": "nca3",
+            "source_citation": "Allen et al. 2010<tbib>878be8a3-989e-497d-af88-5417df6ab074</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Forest Vulnerability to Changing Climate",
+            "url": "http://nca2014.globalchange.gov/report/sectors/forests/graphics/forest-vulnerability-changing-climate",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "2d/d7/21fca6a2386783a30310be5d2d69/forests_climate_envelope_analysis_v3.png",
+            "href": "http://data.globalchange.gov/assets/2d/d7/21fca6a2386783a30310be5d2d69/forests_climate_envelope_analysis_v3.png",
+            "identifier": "bb867067-cd2c-4ff6-b001-98d14b60485e",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "5e57acb9a3bd5159054270828798710ac24730b2",
+            "size": 147907,
+            "thumbnail": "2d/d7/21fca6a2386783a30310be5d2d69/.thumb-bb867067-cd2c-4ff6-b001-98d14b60485e.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/2d/d7/21fca6a2386783a30310be5d2d69/.thumb-bb867067-cd2c-4ff6-b001-98d14b60485e.png",
+            "uri": "/file/bb867067-cd2c-4ff6-b001-98d14b60485e",
+            "url": "/assets/2d/d7/21fca6a2386783a30310be5d2d69/forests_climate_envelope_analysis_v3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/5799faab-2836-4f14-a6a0-85d0c79ce726.json",
+    "identifier": "5799faab-2836-4f14-a6a0-85d0c79ce726",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Forest Vulnerability to Changing Climate",
+    "uri": "/image/5799faab-2836-4f14-a6a0-85d0c79ce726",
+    "url": null,
+    "usage_limits": null
+}

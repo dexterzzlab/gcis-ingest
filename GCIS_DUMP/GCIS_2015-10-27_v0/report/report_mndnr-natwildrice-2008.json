@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/mndnr-natwildrice-2008.json",
+    "identifier": "mndnr-natwildrice-2008",
+    "in_library": null,
+    "publication_year": 2008,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Natural Wild Rice in Minnesota. A Wild Rice Study Document Submitted to the Minnesota Legislature by the Minnesota Department of Natural Resoures",
+    "topic": null,
+    "uri": "/report/mndnr-natwildrice-2008",
+    "url": "http://files.dnr.state.mn.us/fish_wildlife/wildlife/shallowlakes/natural-wild-rice-in-minnesota.pdf"
+}

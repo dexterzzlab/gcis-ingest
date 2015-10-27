@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Degu, Ahmed Mohamed\rHossain, Faisal\rNiyogi, Dev\rPielke, Roger, Sr.\rShepherd, J. Marshall\rVoisin, Nathalie\rChronis, Themis",
+        "DOI": "10.1029/2010gl046482",
+        "ISSN": "1944-8007",
+        "Issue": "4",
+        "Journal": "Geophysical Research Letters",
+        "Keywords": "large dams\rartificial reservoirs\rclimate\rprecipitation\rreanalysis\r1632 Land cover change\r1808 Dams\r1817 Extreme events\r1807 Climate impacts\r1804 Catchment",
+        "Pages": "L04405",
+        "Title": "The influence of large dams on surrounding climate and precipitation patterns",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2010GL046482/pdf",
+        "Volume": "38",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "3714",
+        "_uuid": "4a4eb060-31d3-412f-89b2-228f03d21757",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2010gl046482",
+    "href": "http://data.globalchange.gov/reference/4a4eb060-31d3-412f-89b2-228f03d21757.json",
+    "identifier": "4a4eb060-31d3-412f-89b2-228f03d21757",
+    "uri": "/reference/4a4eb060-31d3-412f-89b2-228f03d21757"
+}

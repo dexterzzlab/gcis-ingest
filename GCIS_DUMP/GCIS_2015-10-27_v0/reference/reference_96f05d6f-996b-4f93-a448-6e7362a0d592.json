@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Background\u00a0 High intakes of red or processed meat may increase the risk of mortality. Our objective was to determine the relations of red, white, and processed meat intakes to risk for total and cause-specific mortality.Methods\u00a0 The study population included the National Institutes of Health\u2013AARP (formerly known as the American Association of Retired Persons) Diet and Health Study cohort of half a million people aged 50 to 71 years at baseline. Meat intake was estimated from a food frequency questionnaire administered at baseline. Cox proportional hazards regression models estimated hazard ratios (HRs) and 95% confidence intervals (CIs) within quintiles of meat intake. The covariates included in the models were age, education, marital status, family history of cancer (yes/no) (cancer mortality only), race, body mass index, 31-level smoking history, physical activity, energy intake, alcohol intake, vitamin supplement use, fruit consumption, vegetable consumption, and menopausal hormone therapy among women. Main outcome measures included total mortality and deaths due to cancer, cardiovascular disease, injuries and sudden deaths, and all other causes.Results\u00a0 There were 47\u00a0976 male deaths and 23\u00a0276 female deaths during 10 years of follow-up. Men and women in the highest vs lowest quintile of red (HR, 1.31 [95% CI, 1.27-1.35], and HR, 1.36 [95% CI, 1.30-1.43], respectively) and processed meat (HR, 1.16 [95% CI, 1.12-1.20], and HR, 1.25 [95% CI, 1.20-1.31], respectively) intakes had elevated risks for overall mortality. Regarding cause-specific mortality, men and women had elevated risks for cancer mortality for red (HR, 1.22 [95% CI, 1.16-1.29], and HR, 1.20 [95% CI, 1.12-1.30], respectively) and processed meat (HR, 1.12 [95% CI, 1.06-1.19], and HR, 1.11 [95% CI 1.04-1.19], respectively) intakes. Furthermore, cardiovascular disease risk was elevated for men and women in the highest quintile of red (HR, 1.27 [95% CI, 1.20-1.35], and HR, 1.50 [95% CI, 1.37-1.65], respectively) and processed meat (HR, 1.09 [95% CI, 1.03-1.15], and HR, 1.38 [95% CI, 1.26-1.51], respectively) intakes. When comparing the highest with the lowest quintile of white meat intake, there was an inverse association for total mortality and cancer mortality, as well as all other deaths for both men and women.Conclusion\u00a0 Red and processed meat intakes were associated with modest increases in total mortality, cancer mortality, and cardiovascular disease mortality.",
+        "Author": "Sinha, R.\rCross, A. J.\rGraubard, B. I.\rLeitzmann, M. F.\rSchatzkin, A.",
+        "DOI": "10.1001/archinternmed.2009.6",
+        "ISSN": "0003-9926",
+        "Issue": "6",
+        "Journal": "Archives of Internal Medicine",
+        "Notes": "10.1001/archinternmed.2009.6",
+        "Pages": "562-571",
+        "Title": "Meat intake and mortality: A prospective study of over half a million people",
+        "URL": "http://archinte.jamanetwork.com/data/Journals/INTEMED/9894/ioi80207_562_571.pdf",
+        "Volume": "169",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "4583",
+        "_uuid": "96f05d6f-996b-4f93-a448-6e7362a0d592",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1001/archinternmed.2009.6",
+    "href": "http://data.globalchange.gov/reference/96f05d6f-996b-4f93-a448-6e7362a0d592.json",
+    "identifier": "96f05d6f-996b-4f93-a448-6e7362a0d592",
+    "uri": "/reference/96f05d6f-996b-4f93-a448-6e7362a0d592"
+}

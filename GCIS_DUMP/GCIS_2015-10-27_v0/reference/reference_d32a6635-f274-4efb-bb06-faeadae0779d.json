@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Petit, J.R.\rJouzel, J.\rRaynaud, D.\rBarkov, N.I.\rBarnola, J.-M.\rBasile, I.\rBender, M.\rChappellaz, J.\rDavis, M.\rDelaygue, G.\rDelmotte, M.\rKotlyakov, V. M.\rLegrand, M.\rLipenkov, V.Y.\rLorius, C.\rP\u00e9pin, L.\rRitz, C.\rSaltzman, E.\rStievenard, M.",
+        "DOI": "10.1038/20859",
+        "ISSN": "0028-0836",
+        "Issue": "6735",
+        "Journal": "Nature",
+        "Pages": "429-436",
+        "Title": "Climate and atmospheric history of the past 420,000 years from the Vostok ice core, Antarctica",
+        "Volume": "399",
+        "Year": "1999",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "2482",
+        "_uuid": "d32a6635-f274-4efb-bb06-faeadae0779d",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/20859",
+    "href": "http://data.globalchange.gov/reference/d32a6635-f274-4efb-bb06-faeadae0779d.json",
+    "identifier": "d32a6635-f274-4efb-bb06-faeadae0779d",
+    "uri": "/reference/d32a6635-f274-4efb-bb06-faeadae0779d"
+}

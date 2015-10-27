@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "McCabe, Gregory J.\rLegates, David R.\rLins, Harry F.",
+        "DOI": "10.1029/2009JD012866",
+        "ISSN": "2156-2202",
+        "Issue": "D7",
+        "Journal": "Journal of Geophysical Research: Atmospheres",
+        "Keywords": "dry events\rclimate change\rsouthwestern United States\r1616 Climate variability\r1833 Hydroclimatology\r1812 Drought\r1807 Climate impacts",
+        "Pages": "D07108",
+        "Title": "Variability and trends in dry day frequency and dry event length in the southwestern United States",
+        "Volume": "115",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 4: Energy Supply and Use FINAL\"]",
+        "_record_number": "4346",
+        "_uuid": "048341be-3547-43df-af3b-a20ead2e48f5",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2009JD012866",
+    "href": "http://data.globalchange.gov/reference/048341be-3547-43df-af3b-a20ead2e48f5.json",
+    "identifier": "048341be-3547-43df-af3b-a20ead2e48f5",
+    "uri": "/reference/048341be-3547-43df-af3b-a20ead2e48f5"
+}

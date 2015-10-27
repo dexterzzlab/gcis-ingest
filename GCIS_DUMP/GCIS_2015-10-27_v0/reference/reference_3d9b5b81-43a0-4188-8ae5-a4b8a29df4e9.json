@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "H. John Heinz III Center for Science Energy and the Environment,",
+        "Date": "April 2000",
+        "Pages": "205",
+        "Place Published": "Washington, DC, USA",
+        "Title": "Evaluation of Erosion Hazards",
+        "URL": "http://www.fema.gov/pdf/library/erosion.pdf",
+        "Year": "2000",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"RG 10 Coasts\"]",
+        "_record_number": "657",
+        "_uuid": "3d9b5b81-43a0-4188-8ae5-a4b8a29df4e9",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/heinz-center-erosion-2000",
+    "href": "http://data.globalchange.gov/reference/3d9b5b81-43a0-4188-8ae5-a4b8a29df4e9.json",
+    "identifier": "3d9b5b81-43a0-4188-8ae5-a4b8a29df4e9",
+    "uri": "/reference/3d9b5b81-43a0-4188-8ae5-a4b8a29df4e9"
+}

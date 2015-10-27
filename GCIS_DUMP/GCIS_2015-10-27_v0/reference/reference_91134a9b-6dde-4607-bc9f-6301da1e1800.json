@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Hoegh-Guldberg, O.\rBruno, J.F.",
+        "DOI": "10.1126/science.1189930",
+        "ISSN": "0036-8075",
+        "Issue": "5985",
+        "Journal": "Science",
+        "Pages": "1523-1528",
+        "Title": "The impact of climate change on the world\u2019s marine ecosystems",
+        "Volume": "328",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Ch. 25: Coastal Zone FINAL\",\"RG 10 Coasts\"]",
+        "_record_number": "884",
+        "_uuid": "91134a9b-6dde-4607-bc9f-6301da1e1800",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1189930",
+    "href": "http://data.globalchange.gov/reference/91134a9b-6dde-4607-bc9f-6301da1e1800.json",
+    "identifier": "91134a9b-6dde-4607-bc9f-6301da1e1800",
+    "uri": "/reference/91134a9b-6dde-4607-bc9f-6301da1e1800"
+}

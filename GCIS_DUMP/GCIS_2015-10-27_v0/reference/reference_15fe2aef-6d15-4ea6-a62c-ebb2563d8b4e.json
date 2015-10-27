@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".publisher": "Springer",
+        ".reference_type": "0",
+        "Author": "Weiss, Jeremy L.\rOverpeck, J. T.\rStrauss, B.",
+        "DOI": "10.1007/s10584-011-0024-x",
+        "ISSN": "0165-0009",
+        "Issue": "3-4",
+        "Journal": "Climatic Change",
+        "Pages": "635-645",
+        "Title": "Implications of recent sea level rise science for low-elevation areas in coastal cities of the conterminous U.S.A. A letter",
+        "Volume": "105",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "3383",
+        "_uuid": "15fe2aef-6d15-4ea6-a62c-ebb2563d8b4e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-011-0024-x",
+    "href": "http://data.globalchange.gov/reference/15fe2aef-6d15-4ea6-a62c-ebb2563d8b4e.json",
+    "identifier": "15fe2aef-6d15-4ea6-a62c-ebb2563d8b4e",
+    "uri": "/reference/15fe2aef-6d15-4ea6-a62c-ebb2563d8b4e"
+}

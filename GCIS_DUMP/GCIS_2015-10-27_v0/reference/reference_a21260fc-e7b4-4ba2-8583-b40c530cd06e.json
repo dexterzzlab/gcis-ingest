@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "EIA,",
+        "Department/Division": "U.S. Department of Energy",
+        "Institution": "US. Energy Information Administration, U.S. Department of Energy ",
+        "Pages": "408",
+        "Place Published": "Washington, DC",
+        "Title": "Annual Energy Review 2008. DOE/EIA-0384(2008)",
+        "Type": "statistical report",
+        "URL": "http://www.eia.gov/totalenergy/data/annual/archive/038408.pdf",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "4108",
+        "_uuid": "a21260fc-e7b4-4ba2-8583-b40c530cd06e",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/aer2008",
+    "href": "http://data.globalchange.gov/reference/a21260fc-e7b4-4ba2-8583-b40c530cd06e.json",
+    "identifier": "a21260fc-e7b4-4ba2-8583-b40c530cd06e",
+    "uri": "/reference/a21260fc-e7b4-4ba2-8583-b40c530cd06e"
+}

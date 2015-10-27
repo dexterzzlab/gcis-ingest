@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "USGCRP,",
+        "Date": "September 2011",
+        "Institution": "U.S. Global Change Research Program",
+        "Pages": "5",
+        "Title": "Frequently Asked Questions \u2013 Sept 2011; Preliminary Guidance on Information Quality Assurance in Preparing Technical Input for the National Climate Assessment",
+        "URL": "http://globalchange.gov/images/NCA/nca-info-quality-assurance-faq.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Appendix 2: IQA FINAL\"]",
+        "_record_number": "4616",
+        "_uuid": "8cf0fd3f-3a09-4b54-9d62-4534e49d1f6d",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usgcrp-faqstiprepnca-2011",
+    "href": "http://data.globalchange.gov/reference/8cf0fd3f-3a09-4b54-9d62-4534e49d1f6d.json",
+    "identifier": "8cf0fd3f-3a09-4b54-9d62-4534e49d1f6d",
+    "uri": "/reference/8cf0fd3f-3a09-4b54-9d62-4534e49d1f6d"
+}

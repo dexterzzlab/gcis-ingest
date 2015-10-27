@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Water temperatures are increasing in many streams and rivers throughout the US. We analyzed historical records from 40 sites and found that 20 major streams and rivers have shown statistically significant, long-term warming. Annual mean water temperatures increased by 0.009-0.077 degrees C yr(-1), and rates of warming were most rapid in, but not confined to, urbanizing areas. Long-term increases in stream water temperatures were typically correlated with increases in air temperatures. If stream temperatures were to continue to increase at current rates, due to global warming and urbanization, this could have important effects on eutrophication, ecosystem processes such as biological productivity and stream metabolism, contaminant toxicity, and loss of aquatic biodiversity.",
+        "Alternate Journal": "Front Ecol Environ",
+        "Author": "Kaushal, S. S.\rLikens, G. E.\rJaworski, N. A.\rPace, M. L.\rSides, A. M.\rSeekell, D.\rBelt, K. T.\rSecor, D. H.\rWingate, R. L.",
+        "Author Address": "Kaushal, SS; Univ Maryland, Chesapeake Biol Lab, Ctr Environm Sci, Solomons, MD 20688 USA; Univ Maryland, Chesapeake Biol Lab, Ctr Environm Sci, Solomons, MD 20688 USA; Univ Maryland, Chesapeake Biol Lab, Ctr Environm Sci, Solomons, MD 20688 USA; Cary Inst Ecosyst Studies, Millbrook, NY USA; US EPA, Sanford, FL USA; Univ Vermont, Rubenstein Sch Environm & Nat Resources, Burlington, VT USA; US Forest Serv, USDA, No Res Stn, Baltimore, MD USA; Univ Maryland Baltimore Cty, Baltimore, MD 21228 USA",
+        "DOI": "10.1890/090037",
+        "Date": "Nov",
+        "ISSN": "1540-9295",
+        "Issue": "9",
+        "Journal": "Frontiers in Ecology and the Environment",
+        "Keywords": "long-term water; climate-change; land-use; trends; urbanization; impact",
+        "Language": "English",
+        "Notes": "679KG; Times Cited:14; Cited References Count:21",
+        "Pages": "461-466",
+        "Title": "Rising stream and river temperatures in the United States",
+        "Volume": "8",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "1460",
+        "_uuid": "dd8ab4ea-4ced-4289-bfb3-b7022b8617e0",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/090037",
+    "href": "http://data.globalchange.gov/reference/dd8ab4ea-4ced-4289-bfb3-b7022b8617e0.json",
+    "identifier": "dd8ab4ea-4ced-4289-bfb3-b7022b8617e0",
+    "uri": "/reference/dd8ab4ea-4ced-4289-bfb3-b7022b8617e0"
+}

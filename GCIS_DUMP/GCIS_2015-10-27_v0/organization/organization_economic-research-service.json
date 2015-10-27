@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/economic-research-service.json",
+    "identifier": "economic-research-service",
+    "name": "U.S. Department of Agriculture Economic Research Service",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/economic-research-service",
+    "url": "http://www.ers.usda.gov"
+}

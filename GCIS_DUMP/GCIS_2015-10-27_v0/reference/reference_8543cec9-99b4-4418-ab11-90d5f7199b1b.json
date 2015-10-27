@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2013",
+        "Author": "C2ES,",
+        "Place Published": "Arlington, VA",
+        "Publisher": "Center for Climate and Energy Solutions",
+        "Title": "State and Local Climate Adaptation",
+        "URL": "http://www.c2es.org/us-states-regions/policy-maps/adaptation",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\",\"RF 12\"]",
+        "_record_number": "1589",
+        "_uuid": "8543cec9-99b4-4418-ab11-90d5f7199b1b",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/7de6bfc9-55fa-4d12-ae80-486561b3802c",
+    "href": "http://data.globalchange.gov/reference/8543cec9-99b4-4418-ab11-90d5f7199b1b.json",
+    "identifier": "8543cec9-99b4-4418-ab11-90d5f7199b1b",
+    "uri": "/reference/8543cec9-99b4-4418-ab11-90d5f7199b1b"
+}

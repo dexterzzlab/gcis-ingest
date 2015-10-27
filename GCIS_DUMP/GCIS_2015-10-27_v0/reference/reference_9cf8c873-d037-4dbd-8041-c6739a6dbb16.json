@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Weil, E.\rCroquer, A.\rUrreiztieta, I.\r",
+        "Issue": "2-3",
+        "Journal": "Caribbean Journal of Science",
+        "Pages": "221-246",
+        "Title": "Temporal variability and impact of coral diseases and bleaching in La Parguera, Puerto Rico from 2003\u20132007",
+        "URL": "http://caribjsci.org/45_2_3/45_221-246.pdf",
+        "Volume": "45",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\",\"Appendix 1: Process FINAL\"]",
+        "_record_number": "3379",
+        "_uuid": "9cf8c873-d037-4dbd-8041-c6739a6dbb16",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/temporal-variability-and-impact-of-coral-diseases-and-bleaching-in-la-parguera-puerto-rico-from-20032007",
+    "href": "http://data.globalchange.gov/reference/9cf8c873-d037-4dbd-8041-c6739a6dbb16.json",
+    "identifier": "9cf8c873-d037-4dbd-8041-c6739a6dbb16",
+    "uri": "/reference/9cf8c873-d037-4dbd-8041-c6739a6dbb16"
+}

@@ -1,0 +1,95 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2525.json",
+            "id": 2525,
+            "organization": {
+                "country_code": "US",
+                "identifier": "national-climatic-data-center",
+                "name": "National Oceanic and Atmospheric Administration National Climatic Data Center",
+                "organization_type_identifier": "federal",
+                "url": "http://www.ncdc.noaa.gov"
+            },
+            "organization_uri": "/organization/national-climatic-data-center",
+            "person": {
+                "first_name": "Xungang",
+                "id": 1457,
+                "last_name": "Yin",
+                "middle_name": null,
+                "orcid": null,
+                "url": null
+            },
+            "person_id": 1457,
+            "person_uri": "/person/1457",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2525"
+        }
+    ],
+    "create_dt": "2012-09-19T16:43:13",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Average change in soil moisture compared to 1971-2000, as projected for the middle of this century (2041-2070) and late this century (2071-2100) under two emissions scenarios, a lower scenario (B1) and a higher scenario (A2).<tbib>0b3b2ff4-9ee7-45fe-8d0c-895076013715</tbib><sup>,</sup><tbib>f312de7c-ebe1-447f-93c5-c2ddec528464</tbib><sup>,</sup><tbib>a71d11d2-beed-43b3-8417-372422c035f6</tbib><sup>,</sup><tbib>dcf754dd-dd36-474c-8f78-981b0bc507d5</tbib><sup>,</sup><tbib>ec534395-9d19-446f-90c4-a181c9ed31f0</tbib><sup>,</sup><tbib>66b53949-2796-4cb3-ba86-0d0509f128fb</tbib><sup>,</sup><tbib>9c0b6ae6-4bb4-4a27-b6ec-1b0c2dc1cc93</tbib> The future drying of soils in most areas simulated by this sophisticated hydrologic model (Variable Infiltration Capacity or VIC model) is consistent with the future drought increases using the simpler Palmer Drought Severity Index (PDSI) metric. Only the western U.S. is displayed because model simulations were only run for this area. (Figure source: NOAA NCDC / CICS-NC).",
+            "chapter_identifier": "our-changing-climate",
+            "create_dt": "2012-09-19T16:43:13",
+            "identifier": "projected-changes-in-soil-moisture-for-the-western-us",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 22,
+            "report_identifier": "nca3",
+            "source_citation": "NOAA NCDC / CICS-NC",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Projected Changes in Soil Moisture for the Western U.S.",
+            "url": "http://nca2014.globalchange.gov/highlights/report-findings/future-climate/graphics/projected-changes-soil-moisture",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "55/2d/880fd8bcd307162fa40eefb689d3/cs_soil_moisture_mid-century_a2.png",
+            "href": "http://data.globalchange.gov/assets/55/2d/880fd8bcd307162fa40eefb689d3/cs_soil_moisture_mid-century_a2.png",
+            "identifier": "986d0de5-2c4d-4110-8049-f7725c02c7f4",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "d48f09a24b083d7c67f877964e4de233d37c8ded",
+            "size": 73937,
+            "thumbnail": "55/2d/880fd8bcd307162fa40eefb689d3/.thumb-986d0de5-2c4d-4110-8049-f7725c02c7f4.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/55/2d/880fd8bcd307162fa40eefb689d3/.thumb-986d0de5-2c4d-4110-8049-f7725c02c7f4.png",
+            "uri": "/file/986d0de5-2c4d-4110-8049-f7725c02c7f4",
+            "url": "/assets/55/2d/880fd8bcd307162fa40eefb689d3/cs_soil_moisture_mid-century_a2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/b5ab5f96-26ab-45d6-b282-646a4663f5ab.json",
+    "identifier": "b5ab5f96-26ab-45d6-b282-646a4663f5ab",
+    "lat_max": "50",
+    "lat_min": "25",
+    "lon_max": "-90",
+    "lon_min": "-125",
+    "parents": [
+        {
+            "activity_uri": "/activity/b5ab5f96-nca3-water-projections-r201208-process",
+            "label": "dataset nca3-water-projections-r201208",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-water-projections-r201208"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2099-12-31T23:59:59",
+    "time_start": "1971-01-01T00:00:00",
+    "title": "Pattern of Projected Changes in Soil Moisture - Mid-Century Changes: Higher Emissions (A2)",
+    "uri": "/image/b5ab5f96-26ab-45d6-b282-646a4663f5ab",
+    "url": null,
+    "usage_limits": null
+}

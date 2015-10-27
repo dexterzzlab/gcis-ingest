@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Davidson, E. A.",
+        "DOI": "10.1088/1748-9326/7/2/024005",
+        "Issue": "2",
+        "Journal": "Environmental Research Letters",
+        "Pages": "1-7",
+        "Title": "Representative concentration pathways and mitigation scenarios for nitrous oxide",
+        "URL": "http://iopscience.iop.org/1748-9326/7/2/024005/pdf/1748-9326_7_2_024005.pdf",
+        "Volume": "7",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "1434",
+        "_uuid": "5e813380-eaa6-4f7d-920f-976378f8b163",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1088/1748-9326/7/2/024005",
+    "href": "http://data.globalchange.gov/reference/5e813380-eaa6-4f7d-920f-976378f8b163.json",
+    "identifier": "5e813380-eaa6-4f7d-920f-976378f8b163",
+    "uri": "/reference/5e813380-eaa6-4f7d-920f-976378f8b163"
+}

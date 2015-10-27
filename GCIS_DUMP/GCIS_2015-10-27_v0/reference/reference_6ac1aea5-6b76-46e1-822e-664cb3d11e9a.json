@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Accession Number": "25",
+        "Author": "Clarke, L.\rEdmonds, J.\rJacoby, H.\rPitcher, H.\rReilly, J\rRichels, R.",
+        "Institution": "U.S. Department of Energy, Office of Biological & Environmental Research",
+        "Pages": "154",
+        "Place Published": "Washington, D.C.",
+        "Title": "Scenarios of Greenhouse Gas Emissions and Atmospheric Concentrations\u2013US Climate Change Science Program Synthesis and Assessment Product 2.1a. Sub-report 2.1A of Synthesis and Assessment Product 2.1",
+        "URL": "http://downloads.globalchange.gov/sap/sap2-1a/sap2-1a-final-all.pdf",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 4: Energy Supply and Use FINAL\",\"Ch. 27: Mitigation FINAL\",\"Ch. 10: Energy Water Land FINAL\"]",
+        "_record_number": "1497",
+        "_uuid": "6ac1aea5-6b76-46e1-822e-664cb3d11e9a",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/ccsp-sap-2_1a-2007",
+    "href": "http://data.globalchange.gov/reference/6ac1aea5-6b76-46e1-822e-664cb3d11e9a.json",
+    "identifier": "6ac1aea5-6b76-46e1-822e-664cb3d11e9a",
+    "uri": "/reference/6ac1aea5-6b76-46e1-822e-664cb3d11e9a"
+}

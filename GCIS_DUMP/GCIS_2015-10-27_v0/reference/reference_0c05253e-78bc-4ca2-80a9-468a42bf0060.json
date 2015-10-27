@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Over the past 50 years, retreating glaciers and ice caps contributed 0:5mmyr\u2b1a\u2b1a1 to sea-level rise1, and one third of this contribution is believed to come from ice masses bordering the Gulf of Alaska2,3. However, these estimates of ice loss in Alaska are based on measurements of a limited number of glaciers that are extrapolated to constrain ice wastage in the many thousands of others. Uncertainties in these estimates arise, for example, from the complex pattern of decadal elevation changes at the scale of individual glaciers and mountain ranges4\u20137. Here we combine a comprehensive glacier inventory with elevation changes derived from sequential digital elevation models. We find that between 1962 and 2006, Alaskan glaciers lost 41:9\u2b1a8:6 km3 yr\u2b1a\u2b1a1 of water, and contributed 0:12 \u2b1a 0:02mmyr\u2b1a\u2b1a1 to sea-level rise, 34% less than estimated earlier2,3. Reasons for our lower values include the higher spatial resolution of our glacier inventory as well as the reduction of ice thinning underneath debris and at the glacier margins, which were not resolved in earlier work. We suggest that estimates of mass loss from glaciers and ice caps in other mountain regions could be subject to similar revisions.",
+        "Author": "Berthier, E.\rSchiefer, E.\rClarke, G.K.C.\rMenounos, B.\rR\u00e9my, F.",
+        "DOI": "10.1038/ngeo737",
+        "ISSN": "1752-0894, 1752-0908",
+        "Issue": "2",
+        "Journal": "Nature Geoscience",
+        "Keywords": "Climate Data; climate science; cryosphere; glaciers",
+        "Pages": "92-95",
+        "Title": "Contribution of Alaskan glaciers to sea-level rise derived from satellite imagery",
+        "URL": "http://www.nature.com/doifinder/10.1038/ngeo737",
+        "Volume": "3",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "457",
+        "_uuid": "0c05253e-78bc-4ca2-80a9-468a42bf0060",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/ngeo737",
+    "href": "http://data.globalchange.gov/reference/0c05253e-78bc-4ca2-80a9-468a42bf0060.json",
+    "identifier": "0c05253e-78bc-4ca2-80a9-468a42bf0060",
+    "uri": "/reference/0c05253e-78bc-4ca2-80a9-468a42bf0060"
+}

@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Future scenarios of natural gas supply and demand (top left) are generated using an integrated assessment model. This information serves as input (open arrow) to an infrastructure model, which projects required pipeline growth, new storage needs, and other infrastructural changes for each scenario (bottom). Finally, output from climate models (top right) is used to evaluate (shaded arrow) the resilience of each configuration produced by the infrastructure model. This multi-model approach helps to capture the complex dynamics that link human and natural systems. (Source: DOE)",
+            "chapter_identifier": "crosscutting-priorities-serve-science-society",
+            "create_dt": null,
+            "identifier": "modeling-energy-sector-risks-opportunities",
+            "lat_max": "49.371742",
+            "lat_min": "24.545219",
+            "lon_max": "-66.957802",
+            "lon_min": "-124.762146",
+            "ordinal": 25,
+            "report_identifier": "usgcrp-ocpfy2016",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Modeling energy sector risks and opportunities",
+            "url": null,
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "f7/f1/dba248de6c8a65d553072b92cda0/HL38_connected-models-energy-sector-DOE_a.png",
+            "href": "http://data.globalchange.gov/assets/f7/f1/dba248de6c8a65d553072b92cda0/HL38_connected-models-energy-sector-DOE_a.png",
+            "identifier": "3ca3addf-20c7-4d17-8919-9587aff5d159",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "edbcaee2b8805a6039340967f8386e627743e379",
+            "size": 94118,
+            "thumbnail": "f7/f1/dba248de6c8a65d553072b92cda0/.thumb-3ca3addf-20c7-4d17-8919-9587aff5d159.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/f7/f1/dba248de6c8a65d553072b92cda0/.thumb-3ca3addf-20c7-4d17-8919-9587aff5d159.png",
+            "uri": "/file/3ca3addf-20c7-4d17-8919-9587aff5d159",
+            "url": "/assets/f7/f1/dba248de6c8a65d553072b92cda0/HL38_connected-models-energy-sector-DOE_a.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/06db4824-5025-4964-9856-a14de61f9a9d.json",
+    "identifier": "06db4824-5025-4964-9856-a14de61f9a9d",
+    "lat_max": "49.371742",
+    "lat_min": "24.545219",
+    "lon_max": "-66.957802",
+    "lon_min": "-124.762146",
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Future scenarios of natural gas supply and demand ",
+    "uri": "/image/06db4824-5025-4964-9856-a14de61f9a9d",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

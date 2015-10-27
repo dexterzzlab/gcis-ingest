@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Jacob, D. J.\rWinner, D. A.",
+        "DOI": "10.1016/j.atmosenv.2008.09.051",
+        "ISSN": "1352-2310",
+        "Issue": "1",
+        "Journal": "Atmospheric Environment",
+        "Pages": "51-63",
+        "Title": "Effect of climate change on air quality",
+        "URL": "http://www.sciencedirect.com/science/article/pii/S1352231008008571",
+        "Volume": "43",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Ch. 15: Biogeochemical FINAL\",\"Overview\",\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "577",
+        "_uuid": "afbd60ab-ba9f-4547-88e3-968bc3a4b949",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.atmosenv.2008.09.051",
+    "href": "http://data.globalchange.gov/reference/afbd60ab-ba9f-4547-88e3-968bc3a4b949.json",
+    "identifier": "afbd60ab-ba9f-4547-88e3-968bc3a4b949",
+    "uri": "/reference/afbd60ab-ba9f-4547-88e3-968bc3a4b949"
+}

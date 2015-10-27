@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2000.json",
+    "identifier": "usgcrp-ocpfy2000",
+    "in_library": 1,
+    "publication_year": 1999,
+    "report_type_identifier": "report",
+    "summary": "A report by the U.S. Global Change Research Program and the Subcommittee on Global Change Research. A supplement to the President's Fiscal Year 2000 Budget. Published 1999",
+    "title": "Our Changing Planet: The Fiscal Year 2000 U.S. Global Change Research Program",
+    "topic": null,
+    "uri": "/report/usgcrp-ocpfy2000",
+    "url": null
+}

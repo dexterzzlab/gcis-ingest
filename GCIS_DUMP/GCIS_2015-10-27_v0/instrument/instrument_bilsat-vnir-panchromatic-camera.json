@@ -1,0 +1,8 @@
+{
+    "description": "High resolution optical imager",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/bilsat-vnir-panchromatic-camera.json",
+    "identifier": "bilsat-vnir-panchromatic-camera",
+    "name": "BILSAT VNIR Panchromatic camera",
+    "uri": "/instrument/bilsat-vnir-panchromatic-camera"
+}

@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Peery, M.Z.\rGuti\u00e9rrez, R.J.\rKirby, R.\rLeDee, O.E.\rLaHaye, W.",
+        "DOI": "10.1111/j.1365-2486.2011.02564.x",
+        "ISSN": "1365-2486",
+        "Issue": "3",
+        "Journal": "Global Change Biology",
+        "Pages": "865-880",
+        "Title": "Climate change and spotted owls: Potentially contrasting responses in the Southwestern United States",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2486.2011.02564.x/pdf",
+        "Volume": "18",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "2454",
+        "_uuid": "7325cba8-9aa6-4b1e-9078-6136dc50a427",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1365-2486.2011.02564.x",
+    "href": "http://data.globalchange.gov/reference/7325cba8-9aa6-4b1e-9078-6136dc50a427.json",
+    "identifier": "7325cba8-9aa6-4b1e-9078-6136dc50a427",
+    "uri": "/reference/7325cba8-9aa6-4b1e-9078-6136dc50a427"
+}

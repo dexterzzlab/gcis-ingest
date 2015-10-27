@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Showers, W.B.",
+        "Book Title": "Evolution of Insect Pests: Patterns of Variation",
+        "Editor": "Kim, K.C.\rMcPheron, B.A.",
+        "ISBN": "9780471600770",
+        "Pages": "287-309",
+        "Place Published": "New York",
+        "Publisher": "Wiley and Sons, Inc.",
+        "Reviewer": "8cbbcb87-b5d8-44f0-adc9-cdee759391c4",
+        "Title": "Diversity and variation of European corn borer populations",
+        "URL": "http://books.google.com/books?id=KEEgAQAAMAAJ",
+        "Year": "1993",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "4308",
+        "_uuid": "8cbbcb87-b5d8-44f0-adc9-cdee759391c4",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/b7ac16d9-899b-4d83-9714-f69d83d39c3f",
+    "href": "http://data.globalchange.gov/reference/8cbbcb87-b5d8-44f0-adc9-cdee759391c4.json",
+    "identifier": "8cbbcb87-b5d8-44f0-adc9-cdee759391c4",
+    "uri": "/reference/8cbbcb87-b5d8-44f0-adc9-cdee759391c4"
+}

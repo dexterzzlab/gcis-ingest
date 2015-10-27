@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Evidence is presented of a reduction in relative humidity over low-latitude and midlatitude land areas over a period of about 10 years leading up to 2008, based on monthly anomalies in surface air temperature and humidity from comprehensive European Centre for Medium-Range Weather Forecasts reanalyses (ERA-40 and ERA-Interim) and from Climatic Research Unit and Hadley Centre analyses of monthly station temperature data (CRUTEM3) and synoptic humidity observations (HadCRUH). The data sets agree well for both temperature and humidity variations for periods and places of overlap, although the average warming over land is larger for the fully sampled ERA data than for the spatially and temporally incomplete CRUTEM3 data. Near-surface specific humidity varies similarly over land and sea, suggesting that the recent reduction in relative humidity over land may be due to limited moisture supply from the oceans, where evaporation has been limited by sea surface temperatures that have not risen in concert with temperatures over land. Continental precipitation from the reanalyses is compared with a new gauge-based Global Precipitation Climatology Centre (GPCC) data set, with the combined gauge and satellite products of the Global Precipitation Climatology Project (GPCP) and the Climate Prediction Center (CPC), Merged Analysis of Precipitation (CMAP), and with CPC's independent gauge analysis of precipitation over land (PREC/L). The reanalyses agree best with the new GPCC and latest GPCP data sets, with ERA-Interim significantly better than ERA-40 at capturing monthly variability. Shifts over time in the differences among the precipitation data sets make it difficult to assess their longer-term variations and any link with longer-term variations in humidity. ",
+        "Author": "Simmons, A.J.\rWillett, K.M.\rJones, P.D.\rThorne, P.W.\rDee, D.P.",
+        "DOI": "10.1029/2009JD012442",
+        "ISSN": "0148-0227",
+        "Issue": "D01110",
+        "Journal": "Journal of Geophysical Research",
+        "Pages": "1-21",
+        "Title": "Low-frequency variations in surface atmospheric humidity, temperature, and precipitation: Inferences from reanalyses and monthly gridded observational data sets",
+        "Volume": "115",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"RF 2\"]",
+        "_record_number": "2857",
+        "_uuid": "c4467c67-2f80-4897-85ec-286f942c2558",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2009JD012442",
+    "href": "http://data.globalchange.gov/reference/c4467c67-2f80-4897-85ec-286f942c2558.json",
+    "identifier": "c4467c67-2f80-4897-85ec-286f942c2558",
+    "uri": "/reference/c4467c67-2f80-4897-85ec-286f942c2558"
+}

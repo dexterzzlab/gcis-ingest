@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Griffith, B.\rMcGuire, A. D.",
+        "Book Title": "Preliminary Review of Adaptation Options for Climate-Sensitive Ecosystems and Resources - A Report by the U.S. Climate Change Science Program and the Subcommittee on Global Change Research",
+        "Editor": "Julius, S. H.\rWest, J. M.",
+        "Pages": "A-25 - A-31",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "U.S. Environmental Protection Agency",
+        "Reviewer": "23031d9f-78b1-4ec3-a04e-9a472f7e8be6",
+        "Title": "A3.1 National wildlife refuges case study - Alaska and the Central Flyway",
+        "URL": "http://downloads.globalchange.gov/sap/sap4-4/sap4-4-final-report-all.pdf",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "1155",
+        "_uuid": "23031d9f-78b1-4ec3-a04e-9a472f7e8be6",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/ccsp-sap-4_4-2008",
+    "href": "http://data.globalchange.gov/reference/23031d9f-78b1-4ec3-a04e-9a472f7e8be6.json",
+    "identifier": "23031d9f-78b1-4ec3-a04e-9a472f7e8be6",
+    "uri": "/reference/23031d9f-78b1-4ec3-a04e-9a472f7e8be6"
+}

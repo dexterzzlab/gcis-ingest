@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Amato, A.D.\rRuth, M.\rKirshen, P.\rHorwitz, J.",
+        "DOI": "10.1007/s10584-005-5931-2",
+        "ISSN": "0165-0009",
+        "Issue": "1-2",
+        "Journal": "Climatic Change",
+        "Pages": "175-201",
+        "Title": "Regional energy demand responses to climate change: Methodology and application to the Commonwealth of Massachusetts",
+        "Volume": "71",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "1417",
+        "_uuid": "bb3836e8-c40f-4f74-8f40-07626cf01f6e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-005-5931-2",
+    "href": "http://data.globalchange.gov/reference/bb3836e8-c40f-4f74-8f40-07626cf01f6e.json",
+    "identifier": "bb3836e8-c40f-4f74-8f40-07626cf01f6e",
+    "uri": "/reference/bb3836e8-c40f-4f74-8f40-07626cf01f6e"
+}

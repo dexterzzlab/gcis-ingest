@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Cutter, Susan L.\rSolecki, William\rBragado, Nancy\rCarmin, JoAnn\rFragkias, Michail\rRuth, Matthias\rWilbanks, Thomas",
+        "Book Title": "Climate Change Impacts in the United States: The Third National Climate Assessment",
+        "DOI": "(doi)",
+        "Editor": "Melillo, Jerry M.\rTerese (T.C.) Richmond,\rYohe, Gary W.",
+        "Pages": "11-1\u2013nn",
+        "Place Published": "Washington, DC",
+        "Publisher": "U.S. Global Change Research Program",
+        "Reviewer": "5a79e12b-b65c-40ef-8f80-7bcb04d57a1d",
+        "Title": "Ch. 11: Urban Systems, Infrastructure, and Vulnerability",
+        "URL": "http://nca2014.globalchange.gov/report/sectors/urban",
+        "Year": "2014",
+        "_chapter": "[\"Ch. 0: About this Report FINAL\"]",
+        "_record_number": "4722",
+        "_uuid": "5a79e12b-b65c-40ef-8f80-7bcb04d57a1d",
+        "reftype": "Book Section"
+    },
+    "child_publication": null,
+    "href": "http://data.globalchange.gov/reference/5a79e12b-b65c-40ef-8f80-7bcb04d57a1d.json",
+    "identifier": "5a79e12b-b65c-40ef-8f80-7bcb04d57a1d",
+    "uri": "/reference/5a79e12b-b65c-40ef-8f80-7bcb04d57a1d"
+}

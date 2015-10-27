@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "Royal Swedish Academy of Sciences",
+        ".reference_type": "0",
+        "Access Date": "2013/07/29",
+        "Author": "Costanza, Robert\rP\u00e9rez-Maqueo, Octavio\rMartinez, M. Luisa\rSutton, Paul\rAnderson, Sharolyn J.\rMulder, Kenneth",
+        "DOI": "10.1579/0044-7447(2008)37[241:tvocwf]2.0.co;2",
+        "Date": "2008/06/01",
+        "ISSN": "0044-7447",
+        "Issue": "4",
+        "Journal": "AMBIO: A Journal of the Human Environment",
+        "Pages": "241-248",
+        "Title": "The value of coastal wetlands for hurricane protection",
+        "URL": "http://www.bioone.org/doi/pdf/10.1579/0044-7447%282008%2937%5B241%3ATVOCWF%5D2.0.CO%3B2",
+        "Volume": "37",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"RG 10 Coasts\"]",
+        "_record_number": "3860",
+        "_uuid": "9783171c-8e73-4d50-a6d6-32d8b7773a11",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1579/0044-7447(2008)37%5B241:tvocwf%5D2.0.co;2",
+    "href": "http://data.globalchange.gov/reference/9783171c-8e73-4d50-a6d6-32d8b7773a11.json",
+    "identifier": "9783171c-8e73-4d50-a6d6-32d8b7773a11",
+    "uri": "/reference/9783171c-8e73-4d50-a6d6-32d8b7773a11"
+}

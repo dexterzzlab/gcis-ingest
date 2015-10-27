@@ -1,0 +1,12 @@
+{
+    "description": "The new version of the global coupled atmosphere-ocean general circulation model (MRI-CGCM2), developed at the Meteorological Research Institute (MRI), is intended to enable examination of transient future climate changes associated with anthropogenic forcings such as the increase of greenhouse gases and sulfate aerosols. It is important for a climate model to be able to reproduce the present climate system realistically, including individual physical process components and interactions between them. For simulating the transient response of the climate system to specific influences, such as the IPCC scenario of an increase in greenhouse gases and aerosols, it is necessary for the model to simulate adequately not only the mean climate but also its variability.\n",
+    "description_attribution": "http://www.mri-jma.go.jp/Dep/cl/cl4/publications/yukimoto_pap2001.pdf",
+    "href": "http://data.globalchange.gov/model/mri-cgcm2_3_2.json",
+    "identifier": "mri-cgcm2_3_2",
+    "name": "Meteorological Research Institute Coupled Global Climate Model Version 2.3.2",
+    "project_identifier": "cmip3",
+    "reference_url": "http://www-pcmdi.llnl.gov/ipcc/model_documentation/MRI-GCGM2.3.2.htm",
+    "uri": "/model/mri-cgcm2_3_2",
+    "version": null,
+    "website": "http://www.mri-jma.go.jp/Dep/cl/cl4/publications/yukimoto_pap2001.pdf"
+}

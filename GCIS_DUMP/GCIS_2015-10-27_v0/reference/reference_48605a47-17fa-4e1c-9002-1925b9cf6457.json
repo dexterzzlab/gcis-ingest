@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "NOAA,",
+        "Institution": "NOAA\u2019s Office of Public and Constituent Affairs",
+        "Title": "National Ocean Report",
+        "URL": "http://www.publicaffairs.noaa.gov/oceanreport/tourism.html",
+        "Year": "1998",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"RG 10 Coasts\"]",
+        "_record_number": "2233",
+        "_uuid": "48605a47-17fa-4e1c-9002-1925b9cf6457",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/noaa-nor1998",
+    "href": "http://data.globalchange.gov/reference/48605a47-17fa-4e1c-9002-1925b9cf6457.json",
+    "identifier": "48605a47-17fa-4e1c-9002-1925b9cf6457",
+    "uri": "/reference/48605a47-17fa-4e1c-9002-1925b9cf6457"
+}

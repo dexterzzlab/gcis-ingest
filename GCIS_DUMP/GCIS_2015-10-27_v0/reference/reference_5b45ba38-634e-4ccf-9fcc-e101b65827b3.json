@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2013",
+        "Author": "USGCRP,",
+        "Publisher": "The U.S. Global Change Research Program",
+        "Title": "Scenarios for Climate Assessment and Adaptation",
+        "URL": "http://scenarios.globalchange.gov",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4063",
+        "_uuid": "5b45ba38-634e-4ccf-9fcc-e101b65827b3",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/78d8a69b-6bb7-4032-a0ce-c2dc6b9292e5",
+    "href": "http://data.globalchange.gov/reference/5b45ba38-634e-4ccf-9fcc-e101b65827b3.json",
+    "identifier": "5b45ba38-634e-4ccf-9fcc-e101b65827b3",
+    "uri": "/reference/5b45ba38-634e-4ccf-9fcc-e101b65827b3"
+}

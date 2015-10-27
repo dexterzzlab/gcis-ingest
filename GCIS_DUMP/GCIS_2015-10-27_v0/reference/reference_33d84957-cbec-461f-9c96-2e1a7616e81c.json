@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Nardone, A.\rB. Ronchi\rN. Lacetera\rM. S. Ranieri\rU. Bernabucci",
+        "DOI": "10.1016/j.livsci.2010.02.011",
+        "Issue": "9594",
+        "Journal": "Livestock Science",
+        "Pages": "57-69",
+        "Title": "Effects of climate change on animal production and sustainability of livestock systems",
+        "URL": "http://dspace.unitus.it/bitstream/2067/1339/1/LIVSCI%201108%20Nardone%20et%20al%202010.pdf",
+        "Volume": "130",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\",\"RG 4 Great Plains\"]",
+        "_record_number": "2136",
+        "_uuid": "33d84957-cbec-461f-9c96-2e1a7616e81c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.livsci.2010.02.011",
+    "href": "http://data.globalchange.gov/reference/33d84957-cbec-461f-9c96-2e1a7616e81c.json",
+    "identifier": "33d84957-cbec-461f-9c96-2e1a7616e81c",
+    "uri": "/reference/33d84957-cbec-461f-9c96-2e1a7616e81c"
+}

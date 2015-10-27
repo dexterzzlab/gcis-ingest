@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Schimel, D.S.",
+        "DOI": "10.1111/j.1365-2486.1995.tb00008.x",
+        "ISSN": "1365-2486",
+        "Issue": "1",
+        "Journal": "Global Change Biology",
+        "Pages": "77-91",
+        "Title": "Terrestrial ecosystems and the carbon cycle",
+        "Volume": "1",
+        "Year": "1995",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "2764",
+        "_uuid": "4f2b13fe-2d6e-496f-a58e-8fd54225bd86",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1365-2486.1995.tb00008.x",
+    "href": "http://data.globalchange.gov/reference/4f2b13fe-2d6e-496f-a58e-8fd54225bd86.json",
+    "identifier": "4f2b13fe-2d6e-496f-a58e-8fd54225bd86",
+    "uri": "/reference/4f2b13fe-2d6e-496f-a58e-8fd54225bd86"
+}

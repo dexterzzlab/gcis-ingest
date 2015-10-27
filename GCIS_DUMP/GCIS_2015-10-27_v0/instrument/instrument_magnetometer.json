@@ -1,0 +1,8 @@
+{
+    "description": "Magnetometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/magnetometer.json",
+    "identifier": "magnetometer",
+    "name": "Magnetometer",
+    "uri": "/instrument/magnetometer"
+}

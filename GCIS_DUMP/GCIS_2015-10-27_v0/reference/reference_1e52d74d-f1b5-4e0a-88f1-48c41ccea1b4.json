@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".publisher": "The Resilience Alliance",
+        ".reference_type": "0",
+        "Abstract": "The concept of resilience has evolved considerably since Holling&#8217;s (1973) seminal paper. Different interpretations of what is meant by resilience, however, cause confusion. Resilience of a system needs to be considered in terms of the attributes that govern the system&#8217;s dynamics. Three related attributes of social&#8211;ecological systems (SESs) determine their future trajectories: resilience, adaptability, and transformability. Resilience (the capacity of a system to absorb disturbance and reorganize while undergoing change so as to still retain essentially the same function, structure, identity, and feedbacks) has four components&#8212;latitude, resistance, precariousness, and panarchy&#8212;most readily portrayed using the metaphor of a stability landscape. Adaptability is the capacity of actors in the system to influence resilience (in a SES, essentially to manage it). There are four general ways in which this can be done, corresponding to the four aspects of resilience. Transformability is the capacity to create a fundamentally new system when ecological, economic, or social structures make the existing system untenable. The implications of this interpretation of SES dynamics for sustainability science include changing the focus from seeking optimal states and the determinants of maximum sustainable yield (the MSY paradigm), to resilience analysis, adaptive resource management, and adaptive governance.",
+        "Article Number": "5",
+        "Author": "Walker, Brian\rHolling, C. S.\rCarpenter, Stephen R.\rKinzig, Ann P.",
+        "ISSN": "1708-3087",
+        "Issue": "2",
+        "Journal": "Ecology and Society",
+        "Keywords": "adaptability, adaptive cycles, alternate states, dynamics, regime shift, resilience, social-ecological, stability, systems, thresholds, transformability, transformation",
+        "Title": "Resilience, adaptability and transformability in social\u2013ecological systems",
+        "URL": "http://www.ecologyandsociety.org/vol9/iss2/art5/print.pdf",
+        "Volume": "9",
+        "Year": "2004",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "3800",
+        "_uuid": "1e52d74d-f1b5-4e0a-88f1-48c41ccea1b4",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/resilience-adaptability-and-transformability-in-socialecological-systems",
+    "href": "http://data.globalchange.gov/reference/1e52d74d-f1b5-4e0a-88f1-48c41ccea1b4.json",
+    "identifier": "1e52d74d-f1b5-4e0a-88f1-48c41ccea1b4",
+    "uri": "/reference/1e52d74d-f1b5-4e0a-88f1-48c41ccea1b4"
+}

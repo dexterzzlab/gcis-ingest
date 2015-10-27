@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Lal, P.\rAlavalapati, J.R.R.\rMercer, E.D.",
+        "DOI": "10.1007/s11027-011-9295-9",
+        "ISSN": "1381-2386",
+        "Issue": "7",
+        "Journal": "Mitigation and Adaptation Strategies for Global Change",
+        "Pages": "819-844",
+        "Title": "Socio-economic impacts of climate change on rural United States",
+        "URL": "http://www.srs.fs.usda.gov/pubs/ja/2011/ja_2011_lal_002.pdf",
+        "Volume": "16",
+        "Year": "2011",
+        "_chapter": "[\"RG 9 Rural\",\"Ch. 14: Rural Communities FINAL\"]",
+        "_record_number": "1557",
+        "_uuid": "75a38932-a8a4-4eeb-b94c-bbb65b580efe",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s11027-011-9295-9",
+    "href": "http://data.globalchange.gov/reference/75a38932-a8a4-4eeb-b94c-bbb65b580efe.json",
+    "identifier": "75a38932-a8a4-4eeb-b94c-bbb65b580efe",
+    "uri": "/reference/75a38932-a8a4-4eeb-b94c-bbb65b580efe"
+}

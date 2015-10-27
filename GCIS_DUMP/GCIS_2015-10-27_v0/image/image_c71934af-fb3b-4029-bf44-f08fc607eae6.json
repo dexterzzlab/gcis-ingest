@@ -1,0 +1,61 @@
+{
+    "attributes": "Sea ice, observed, Arctic",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-08-20T08:40:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "This figure summarizes some of the many datasets documenting changes in the Earth\u2019s climate, all of which are consistent with a warming planet. In all figures except the lower two in the right column, data are plotted relative to averages over the period 1960-1999 (Figure source: updated from Kennedy et al. 20102).",
+            "chapter_identifier": "appendix-faqs",
+            "create_dt": "2013-08-20T08:40:00",
+            "identifier": "caq-indicators-of-warming-from-multiple-data-sets",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 3,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Indicators of Warming from Multiple Data Sets",
+            "url": "http://nca2014.globalchange.gov/report/appendices/faqs/graphics/indicators-warming-multiple-data-sets",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "bf/96/b9ea8e0d0be8b2089015cbc3797a/faq-3_september.png",
+            "href": "http://data.globalchange.gov/assets/bf/96/b9ea8e0d0be8b2089015cbc3797a/faq-3_september.png",
+            "identifier": "3d289188-b3c8-438d-ad47-e0d0c8221765",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "7e84da049aacc9ab965a21afcd7896b53a2242b7",
+            "size": 48271,
+            "thumbnail": "bf/96/b9ea8e0d0be8b2089015cbc3797a/.thumb-3d289188-b3c8-438d-ad47-e0d0c8221765.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/bf/96/b9ea8e0d0be8b2089015cbc3797a/.thumb-3d289188-b3c8-438d-ad47-e0d0c8221765.png",
+            "uri": "/file/3d289188-b3c8-438d-ad47-e0d0c8221765",
+            "url": "/assets/bf/96/b9ea8e0d0be8b2089015cbc3797a/faq-3_september.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/c71934af-fb3b-4029-bf44-f08fc607eae6.json",
+    "identifier": "c71934af-fb3b-4029-bf44-f08fc607eae6",
+    "lat_max": "90.00",
+    "lat_min": "66.56",
+    "lon_max": "180.00",
+    "lon_min": "-180.00",
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2011-12-31T23:59:59",
+    "time_start": "1953-01-01T00:00:00",
+    "title": "Indicators of Warming from Multiple Data Sets - September Arctic Sea-Ice Extent",
+    "uri": "/image/c71934af-fb3b-4029-bf44-f08fc607eae6",
+    "url": null,
+    "usage_limits": null
+}

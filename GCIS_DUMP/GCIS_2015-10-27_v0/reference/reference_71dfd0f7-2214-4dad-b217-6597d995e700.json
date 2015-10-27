@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Clow, D.W.",
+        "DOI": "10.1175/2009JCLI2951.1",
+        "ISSN": "1520-0442",
+        "Issue": "9",
+        "Journal": "Journal of Climate",
+        "Pages": "2293-2306",
+        "Title": "Changes in the timing of snowmelt and streamflow in Colorado: A response to recent warming",
+        "Volume": "23",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 14: Rural Communities FINAL\"]",
+        "_record_number": "218",
+        "_uuid": "71dfd0f7-2214-4dad-b217-6597d995e700",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/2009JCLI2951.1",
+    "href": "http://data.globalchange.gov/reference/71dfd0f7-2214-4dad-b217-6597d995e700.json",
+    "identifier": "71dfd0f7-2214-4dad-b217-6597d995e700",
+    "uri": "/reference/71dfd0f7-2214-4dad-b217-6597d995e700"
+}

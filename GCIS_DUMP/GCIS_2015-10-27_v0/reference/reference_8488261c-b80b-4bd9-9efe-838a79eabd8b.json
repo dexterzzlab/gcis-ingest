@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "The World Bank,",
+        "Institution": "The World Bank, The International Bank for Reconstruction and Development",
+        "Pages": "136",
+        "Place Published": "Washington, D.C.",
+        "Title": "Economics of Adaptation to Climate Change: Social Synthesis Report. The International Bank for Reconstruction and Development",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "3654",
+        "_uuid": "8488261c-b80b-4bd9-9efe-838a79eabd8b",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/worldbank-econ-2010",
+    "href": "http://data.globalchange.gov/reference/8488261c-b80b-4bd9-9efe-838a79eabd8b.json",
+    "identifier": "8488261c-b80b-4bd9-9efe-838a79eabd8b",
+    "uri": "/reference/8488261c-b80b-4bd9-9efe-838a79eabd8b"
+}

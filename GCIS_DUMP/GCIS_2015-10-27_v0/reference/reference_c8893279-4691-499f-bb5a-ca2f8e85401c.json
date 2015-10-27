@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Hudiburg, T.W.\rLaw, B.E.\rWirth, C.\rLuyssaert, S.",
+        "DOI": "10.1038/nclimate1264",
+        "ISSN": "1758-678X",
+        "Issue": "8",
+        "Journal": "Nature Climate Change",
+        "Pages": "419-423",
+        "Title": "Regional carbon dioxide implications of forest bioenergy production",
+        "Volume": "1",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "3601",
+        "_uuid": "c8893279-4691-499f-bb5a-ca2f8e85401c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/nclimate1264",
+    "href": "http://data.globalchange.gov/reference/c8893279-4691-499f-bb5a-ca2f8e85401c.json",
+    "identifier": "c8893279-4691-499f-bb5a-ca2f8e85401c",
+    "uri": "/reference/c8893279-4691-499f-bb5a-ca2f8e85401c"
+}

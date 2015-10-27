@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "A quality assessment of daily manual snowfall data has been undertaken for all U.S. long-term stations and their suitability for climate research. The assessment utilized expert judgment on the quality of each station. Through this process, the authors have identified a set of stations believed to be suitable for analysis of trends. Since the 1920s, snowfall has been declining in the West and the mid-Atlantic coast. In some places during recent years the decline has been more precipitous, strongly trending downward along the southern margins of the seasonal snow region, the southern Missouri River basin, and parts of the Northeast. Snowfall has been increasing since the 1920s in the lee of the Rocky Mountains, the Great Lakes\u2013northern Ohio Valley, and parts of the north-central United States. These areas that are in opposition to the overall pattern of declining snowfall seem to be associated with specific dynamical processes, such as upslope snow and lake-effect snow that may be responding to changes in atmospheric circulation.",
+        "Author": "Kunkel, K.E.\rM. Palecki\rL. Ensor\rK.G. Hubbard\rD. Robinson\rK. Redmond\rD. Easterling",
+        "DOI": "10.1175/2008JTECHA1138.1",
+        "ISSN": "1520-0426",
+        "Journal": "Journal of Atmospheric and Oceanic Technology",
+        "Keywords": "Snowfall, Lake effects, Atmospheric circulation",
+        "Pages": "33-44",
+        "Title": "Trends in twentieth-century US snowfall using a quality-controlled dataset",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/2008JTECHA1138.1",
+        "Volume": "26",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "1699",
+        "_uuid": "ea2c3f43-b493-4001-8489-959c0f55080a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/2008JTECHA1138.1",
+    "href": "http://data.globalchange.gov/reference/ea2c3f43-b493-4001-8489-959c0f55080a.json",
+    "identifier": "ea2c3f43-b493-4001-8489-959c0f55080a",
+    "uri": "/reference/ea2c3f43-b493-4001-8489-959c0f55080a"
+}

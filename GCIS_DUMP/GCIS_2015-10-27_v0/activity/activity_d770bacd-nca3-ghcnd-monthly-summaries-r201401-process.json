@@ -1,0 +1,15 @@
+{
+    "computing_environment": "Linux (CentOS release 6.4)",
+    "data_usage": "The map displays the difference between the average annual mean temperature across Alaska for the period 1991-2012, minus that for the period 1951-1980.",
+    "duration": "16 hours",
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/d770bacd-nca3-ghcnd-monthly-summaries-r201401-process.json",
+    "identifier": "d770bacd-nca3-ghcnd-monthly-summaries-r201401-process",
+    "methodology": "At each grid point across Alaska, annual mean temperature was averaged for the period 1951-1980. A second average temperature was calculated for the period 1991-2012. At each gridpoint, the difference between the 1991-2012 temperature and the 1951-1980 temperature was calculated, and plotted on a map.",
+    "notes": "Fortran 95",
+    "output_artifacts": "northam.52i.latest.FLs.52i.tar.gz\r\nreadmonthly.f95\r\ntemperaturechange_AK_HI_includestimates.txt\r\nAK Temp Diffs.eps\r\nAK Temp Diffs.ai\r\nak_temp_diffs-edit.png",
+    "software": "Fortran 95; lf95 compiler (Lahey/Fujitsu Linux64 Fortran compiler release L8.10b)",
+    "start_time": null,
+    "uri": "/activity/d770bacd-nca3-ghcnd-monthly-summaries-r201401-process",
+    "visualization_software": "ArcGIS (v10.1)"
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2013",
+        "Author": "The White House,",
+        "Date Cited": "June 25, 2013",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "The White House",
+        "Title": "The President\u2019s Climate Action Plan",
+        "URL": "http://www.whitehouse.gov/share/climate-action-plan",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\",\"Ch. 27: Mitigation FINAL\",\"RF 12\"]",
+        "_record_number": "4093",
+        "_uuid": "42cebeae-0f6b-4950-97cf-9251b0db8798",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/72aad74b-d0ff-4cc4-aac5-3260accfafff",
+    "href": "http://data.globalchange.gov/reference/42cebeae-0f6b-4950-97cf-9251b0db8798.json",
+    "identifier": "42cebeae-0f6b-4950-97cf-9251b0db8798",
+    "uri": "/reference/42cebeae-0f6b-4950-97cf-9251b0db8798"
+}

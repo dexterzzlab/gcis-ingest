@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "USACE,",
+        "Institution": "U.S. Army Corps of Engineers, Alaska District",
+        "Pages": "64",
+        "Place Published": "Anchorage, Alaska",
+        "Title": "Revised Environmental Assessment: Finding of No Significant Impact: Newtok Evacuation Center: Mertarvik, Nelson Island, Alaska",
+        "URL": "http://www.commerce.state.ak.us/dcra/planning/pub/Newtok_Evacuation_Center_EA_&_FONSI_July_08.pdf",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "3111",
+        "_uuid": "eb665690-7f10-4f69-a31b-7496fa92d9ac",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usace-revisedea-2008",
+    "href": "http://data.globalchange.gov/reference/eb665690-7f10-4f69-a31b-7496fa92d9ac.json",
+    "identifier": "eb665690-7f10-4f69-a31b-7496fa92d9ac",
+    "uri": "/reference/eb665690-7f10-4f69-a31b-7496fa92d9ac"
+}

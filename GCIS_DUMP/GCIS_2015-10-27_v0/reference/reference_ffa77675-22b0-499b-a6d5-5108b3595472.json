@@ -1,0 +1,31 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Accession Number": "21764754",
+        "Alternate Journal": "Science",
+        "Author": "Pan, Y.\rBirdsey, R. A.\rFang, J.\rHoughton, R.\rKauppi, P. E.\rKurz, W. A.\rPhillips, O. L.\rShvidenko, A.\rLewis, S. L.\rCanadell, J. G.\rCiais, P.\rJackson, R. B.\rPacala, S. W.\rMcGuire, A. D.\rPiao, S.\rRautiainen, A.\rSitch, S.\rHayes, D.",
+        "Author Address": "U.S. Department of Agriculture Forest Service, Newtown Square, PA 19073, USA. ypan@fs.fed.us",
+        "DOI": "10.1126/science.1201609",
+        "Date": "Aug 19",
+        "Epub Date": "2011/07/19",
+        "ISSN": "1095-9203 (Electronic); 0036-8075 (Linking)",
+        "Issue": "6045",
+        "Journal": "Science",
+        "Keywords": "Atmosphere; Biomass; Carbon/analysis; Carbon Dioxide/analysis; *Carbon Sequestration; Climate Change; Conservation of Natural Resources; *Ecosystem; *Trees; Tropical Climate",
+        "Language": "eng",
+        "Pages": "988-93",
+        "Title": "A large and persistent carbon sink in the world\u2019s forests",
+        "Type of Article": "Research Support, Non-U.S. Gov't; Research Support, U.S. Gov't, Non-P.H.S.",
+        "URL": "http://www.lter.uaf.edu/pdf/1545_Pan_Birdsey_2011.pdf",
+        "Volume": "333",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 7: Forests FINAL\",\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "2411",
+        "_uuid": "ffa77675-22b0-499b-a6d5-5108b3595472",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1201609",
+    "href": "http://data.globalchange.gov/reference/ffa77675-22b0-499b-a6d5-5108b3595472.json",
+    "identifier": "ffa77675-22b0-499b-a6d5-5108b3595472",
+    "uri": "/reference/ffa77675-22b0-499b-a6d5-5108b3595472"
+}

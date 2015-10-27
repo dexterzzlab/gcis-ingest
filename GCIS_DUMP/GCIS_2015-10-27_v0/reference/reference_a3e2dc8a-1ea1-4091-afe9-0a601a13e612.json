@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2013",
+        "Author": "City of Tulsa,",
+        "Publisher": "City of Tulsa, OK",
+        "Title": "Rooftop to River. The Tulsa Program",
+        "URL": "http://www.smartcommunities.ncat.org/articles/rooftop/program.shtml",
+        "Year": "1994",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "4440",
+        "_uuid": "a3e2dc8a-1ea1-4091-afe9-0a601a13e612",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/62e7061c-2a63-46aa-858d-e99e56fb819c",
+    "href": "http://data.globalchange.gov/reference/a3e2dc8a-1ea1-4091-afe9-0a601a13e612.json",
+    "identifier": "a3e2dc8a-1ea1-4091-afe9-0a601a13e612",
+    "uri": "/reference/a3e2dc8a-1ea1-4091-afe9-0a601a13e612"
+}

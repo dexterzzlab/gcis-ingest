@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Oregon Climate Change Research Institute,",
+        "Institution": "College of Oceanic and Atmospheric Sciences, Oregon State University",
+        "Place Published": "Corvallis, OR",
+        "Series Editor": "Dello, K.D.\rMote, P.W.",
+        "Title": "Oregon Climate Assessment Report",
+        "URL": "http://occri.net/wp-content/uploads/2011/01/OCAR2010_v1.2.pdf",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "2363",
+        "_uuid": "2ac1bce9-7e8e-41f5-a3ed-617646370b8c",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/oregonstateu-ocar-2010",
+    "href": "http://data.globalchange.gov/reference/2ac1bce9-7e8e-41f5-a3ed-617646370b8c.json",
+    "identifier": "2ac1bce9-7e8e-41f5-a3ed-617646370b8c",
+    "uri": "/reference/2ac1bce9-7e8e-41f5-a3ed-617646370b8c"
+}

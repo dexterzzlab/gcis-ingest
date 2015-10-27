@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Lapina, Irina\rCarlson, Matthew L.",
+        "Institution": "University of Alaska Anchorage",
+        "Keywords": "forestry",
+        "Pages": "64",
+        "Place Published": "Anchorage, AK",
+        "Title": "Non-Native Plant Species of Susitna, Matanuska, and Copper River Basins: Summary of Survey Findings and Recommendations for Control Actions",
+        "URL": "http://www.uaa.alaska.edu/enri/publications/upload/Non-native_Plants_final-report.pdf",
+        "Year": "2004",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "1184",
+        "_uuid": "91968476-e4e2-4ac9-b016-b4cd2507b689",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/aknhp-nonnative-2004",
+    "href": "http://data.globalchange.gov/reference/91968476-e4e2-4ac9-b016-b4cd2507b689.json",
+    "identifier": "91968476-e4e2-4ac9-b016-b4cd2507b689",
+    "uri": "/reference/91968476-e4e2-4ac9-b016-b4cd2507b689"
+}

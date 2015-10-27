@@ -1,0 +1,15 @@
+{
+    "computing_environment": null,
+    "data_usage": null,
+    "duration": null,
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/65878d6c-arctic-sea-ice-extent-process.json",
+    "identifier": "65878d6c-arctic-sea-ice-extent-process",
+    "methodology": "Data exported to .csv from ftp://sidads.colorado.edu/DATASETS/NOAA/G02135/Sep/N_09_area.txt. \"Extent\" plotted after being converted from square kilometers to square miles.   \r\n\r\nData used are for the month of September, from 1979 to 2014. \r\n\r\nData was accessed on October 8, 2014.",
+    "notes": null,
+    "output_artifacts": null,
+    "software": null,
+    "start_time": null,
+    "uri": "/activity/65878d6c-arctic-sea-ice-extent-process",
+    "visualization_software": null
+}

@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Hoekema, D.J.\rSridhar, V.",
+        "DOI": "10.1029/2010WR009697",
+        "ISSN": "1944-7973",
+        "Issue": "7",
+        "Journal": "Water Resources Research",
+        "Pages": "W07536",
+        "Title": "Relating climatic attributes and water resources allocation: A study using surface water supply and soil moisture indices in the Snake River Basin, Idaho",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2010WR009697/pdf",
+        "Volume": "47",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "1420",
+        "_uuid": "16a8ee91-c236-48bc-aced-859d789891cb",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2010WR009697",
+    "href": "http://data.globalchange.gov/reference/16a8ee91-c236-48bc-aced-859d789891cb.json",
+    "identifier": "16a8ee91-c236-48bc-aced-859d789891cb",
+    "uri": "/reference/16a8ee91-c236-48bc-aced-859d789891cb"
+}

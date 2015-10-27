@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Arata, J. A.\rSievert, P. R.\rNaughton, M. B.",
+        "Institution": "U.S. Geological Survey",
+        "Pages": "80",
+        "Title": "Status assessment of Laysan and black-footed albatrosses, North Pacific Ocean, 1923-2005. Scientific Investigations Report 2009-5131",
+        "URL": "http://pubs.usgs.gov/sir/2009/5131/pdf/sir20095131.pdf",
+        "Year": "2009",
+        "_chapter": "[\"RG 8 Hawaii\",\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "1605",
+        "_uuid": "8b18bcf4-9fc7-443b-9590-5182783f40cc",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usgs-sciinvesrep-2009-5131",
+    "href": "http://data.globalchange.gov/reference/8b18bcf4-9fc7-443b-9590-5182783f40cc.json",
+    "identifier": "8b18bcf4-9fc7-443b-9590-5182783f40cc",
+    "uri": "/reference/8b18bcf4-9fc7-443b-9590-5182783f40cc"
+}

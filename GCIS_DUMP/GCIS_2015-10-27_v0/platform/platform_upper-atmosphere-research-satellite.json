@@ -1,0 +1,12 @@
+{
+    "description": "UARS is the first NASA mission in the ESE (Earth Science Enterprise) program, formerly known as `Mission to Planet Earth'. UARS is also the first mission dedicated to the study the physical and chemical processes taking place in Earth's upper atmosphere. As such, it represents the first stage of a long-term, international program of space research into global atmospheric change.",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/u/uars",
+    "end_date": "2005-12-14T00:00:00",
+    "href": "http://data.globalchange.gov/platform/upper-atmosphere-research-satellite.json",
+    "identifier": "upper-atmosphere-research-satellite",
+    "name": "Upper Atmosphere Research Satellite",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "1991-09-15T00:00:00",
+    "uri": "/platform/upper-atmosphere-research-satellite",
+    "url": "http://umpgal.gsfc.nasa.gov/"
+}

@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Fetterer, F.\rK. Knowles\rW. Meier\rM. Savoie",
+        "DOI": "10.7265/N5QJ7F7W",
+        "Institution": "National Snow and Ice Data Center",
+        "Place Published": "Boulder, CO",
+        "Title": "Sea Ice Index. [Monthly Sea Ice Extent and Area]. Updated 2013",
+        "URL": "http://nsidc.org/data/G02135",
+        "Year": "2002",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "4549",
+        "_uuid": "5ca69fe1-86e2-48e2-acc4-363efaf4402a",
+        "reftype": "Report"
+    },
+    "child_publication": "/dataset/nsidc-g02135",
+    "href": "http://data.globalchange.gov/reference/5ca69fe1-86e2-48e2-acc4-363efaf4402a.json",
+    "identifier": "5ca69fe1-86e2-48e2-acc4-363efaf4402a",
+    "uri": "/reference/5ca69fe1-86e2-48e2-acc4-363efaf4402a"
+}

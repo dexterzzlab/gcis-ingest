@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"italic\" start=\"86\" /><run start=\"100\" /></field></record>",
+        "Author": "Jarvis, J.C.\rMoore, K.A.",
+        "DOI": "10.1007/s10750-010-0258-z",
+        "ISSN": "0018-8158",
+        "Issue": "1",
+        "Journal": "Hydrobiologia",
+        "Pages": "55-68",
+        "Title": "The role of seedlings and seed bank viability in the recovery of Chesapeake Bay, USA, Zostera marina populations following a large-scale decline",
+        "Volume": "649",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "1481",
+        "_uuid": "697b2dc9-5ef5-44da-bc24-5b1ada3e0b45",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10750-010-0258-z",
+    "href": "http://data.globalchange.gov/reference/697b2dc9-5ef5-44da-bc24-5b1ada3e0b45.json",
+    "identifier": "697b2dc9-5ef5-44da-bc24-5b1ada3e0b45",
+    "uri": "/reference/697b2dc9-5ef5-44da-bc24-5b1ada3e0b45"
+}

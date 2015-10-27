@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "FDEP,",
+        "Institution": "Florida Department of Environmental Protection, Bureau of Beaches and Coastal Systems, Division of Water Resource Management",
+        "Pages": "76",
+        "Title": "Critically Eroded Beaches in Florida",
+        "URL": "http://www.dep.state.fl.us/beaches/publications/pdf/critical-erosion-report-2012.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"RG 10 Coasts\"]",
+        "_record_number": "487",
+        "_uuid": "47938f30-66de-447b-8edd-1d9f9cfb4152",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/fldep-critically-2012",
+    "href": "http://data.globalchange.gov/reference/47938f30-66de-447b-8edd-1d9f9cfb4152.json",
+    "identifier": "47938f30-66de-447b-8edd-1d9f9cfb4152",
+    "uri": "/reference/47938f30-66de-447b-8edd-1d9f9cfb4152"
+}

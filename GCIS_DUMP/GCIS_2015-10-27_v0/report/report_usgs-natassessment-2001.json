@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/usgs-natassessment-2001.json",
+    "identifier": "usgs-natassessment-2001",
+    "in_library": null,
+    "publication_year": 2001,
+    "report_type_identifier": "assessment",
+    "summary": null,
+    "title": "National Assessment of Coastal Vulnerability to Future Sea-Level Rise: Preliminary Results for the US Atlantic, Pacific and Gulf of Mexico Coasts. US Reports 99\u2013593, 00-178, and 00-179",
+    "topic": null,
+    "uri": "/report/usgs-natassessment-2001",
+    "url": "http://woodshole.er.usgs.gov/project-pages/cvi/"
+}

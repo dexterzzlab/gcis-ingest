@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Accession Number": "403",
+        "Author": "Hayhoe, K.\rWuebbles, D.",
+        "Institution": "City of Chicago",
+        "Pages": "175",
+        "Place Published": "Chicago, IL",
+        "Title": "Climate Change and Chicago: Projections and Potential Impacts",
+        "URL": "http://www.chicagoclimateaction.org/",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "274",
+        "_uuid": "5dab78cb-6f89-4f1e-9254-438536cda54a",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/chicagoclimaction-climchchicago-2008",
+    "href": "http://data.globalchange.gov/reference/5dab78cb-6f89-4f1e-9254-438536cda54a.json",
+    "identifier": "5dab78cb-6f89-4f1e-9254-438536cda54a",
+    "uri": "/reference/5dab78cb-6f89-4f1e-9254-438536cda54a"
+}

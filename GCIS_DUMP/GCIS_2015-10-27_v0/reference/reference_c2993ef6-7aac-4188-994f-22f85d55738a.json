@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "EPA,",
+        "Document Number": "EPA/600/R-10/077F",
+        "Institution": "U.S. Environmental Protection Agency",
+        "Place Published": "Washington, DC",
+        "Series Title": "Global Change Research Program, National Center for Environmental Assessment",
+        "Title": "Climate Change Vulnerability Assessments: Four Case Studies of Water Utility Practices",
+        "URL": "http://cfpub.epa.gov/ncea/global/recordisplay.cfm?deid=233808",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\",\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "330",
+        "_uuid": "c2993ef6-7aac-4188-994f-22f85d55738a",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/epa-climchvulnerability-2011",
+    "href": "http://data.globalchange.gov/reference/c2993ef6-7aac-4188-994f-22f85d55738a.json",
+    "identifier": "c2993ef6-7aac-4188-994f-22f85d55738a",
+    "uri": "/reference/c2993ef6-7aac-4188-994f-22f85d55738a"
+}

@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Butler, B.J.",
+        "Institution": "US Department of Agriculture, Forest Service, Northern Research Station",
+        "Pages": "72",
+        "Place Published": "Newtown Square, PA",
+        "Title": "Family forest owners of the United States, 2006. A Technical Document Supporting the Forest Service 2010 RPA Assessment. Gen. Tech. Rep. NRS-27",
+        "URL": "http://www.nrs.fs.fed.us/pubs/gtr/gtr_nrs27.pdf",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "690",
+        "_uuid": "9b0386a7-0420-4061-9091-00aef01d6cc2",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usfs-gtr-nrs-27",
+    "href": "http://data.globalchange.gov/reference/9b0386a7-0420-4061-9091-00aef01d6cc2.json",
+    "identifier": "9b0386a7-0420-4061-9091-00aef01d6cc2",
+    "uri": "/reference/9b0386a7-0420-4061-9091-00aef01d6cc2"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Brown, D.L.\rSchafft, K.A.",
+        "ISBN": "9780745641287",
+        "Number of Pages": "224",
+        "Place Published": "Cambridge, UK, Malden, MA",
+        "Publisher": "Polity Press",
+        "Reviewer": "9051aa9f-e32e-48a5-9696-b1771064883d",
+        "Title": "Rural People and Communities in the 21st Century: Resilience and Transformation",
+        "URL": "http://books.google.com/books?id=ZODb_USsxCEC",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 14: Rural Communities FINAL\"]",
+        "_record_number": "1485",
+        "_uuid": "9051aa9f-e32e-48a5-9696-b1771064883d",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/58156695-3a4f-400f-9096-7e189b67cd32",
+    "href": "http://data.globalchange.gov/reference/9051aa9f-e32e-48a5-9696-b1771064883d.json",
+    "identifier": "9051aa9f-e32e-48a5-9696-b1771064883d",
+    "uri": "/reference/9051aa9f-e32e-48a5-9696-b1771064883d"
+}

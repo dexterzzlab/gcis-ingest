@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Kok, H.\rPapendick, R.I.\rSaxton, K.E.",
+        "DOI": "10.2489/jswc.64.4.253",
+        "ISSN": "0022-4561",
+        "Issue": "4",
+        "Journal": "Journal of Soil and Water Conservation",
+        "Pages": "253-264",
+        "Title": "STEEP: Impact of long-term conservation farming research and education in Pacific Northwest wheatlands",
+        "URL": "http://www.jswconline.org/content/64/4/253.full.pdf+html",
+        "Volume": "64",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "1607",
+        "_uuid": "e164067c-dec3-4a07-8375-7a24e51246c9",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.2489/jswc.64.4.253",
+    "href": "http://data.globalchange.gov/reference/e164067c-dec3-4a07-8375-7a24e51246c9.json",
+    "identifier": "e164067c-dec3-4a07-8375-7a24e51246c9",
+    "uri": "/reference/e164067c-dec3-4a07-8375-7a24e51246c9"
+}

@@ -1,0 +1,12 @@
+{
+    "description": "ECHAM5 is the 5th generation of the ECHAM general circulation model. Depending on the configuration the model resolves the atmosphere up to 10 hPa for tropospheric studies, or up to 0.01 hPa for middle atmosphere studies (often referred to as MAECHAM5).\n",
+    "description_attribution": "http://www.mpimet.mpg.de/en/wissenschaft/modelle/echam/echam5.html",
+    "href": "http://data.globalchange.gov/model/echam5_mpi-om.json",
+    "identifier": "echam5_mpi-om",
+    "name": "European Centre for Medium-Range Weather Forecasts, Hamburg Generation 5 / Max Planck Institute\n",
+    "project_identifier": "cmip3",
+    "reference_url": "http://www-pcmdi.llnl.gov/ipcc/model_documentation/ECHAM5_MPI-OM.htm",
+    "uri": "/model/echam5_mpi-om",
+    "version": null,
+    "website": null
+}

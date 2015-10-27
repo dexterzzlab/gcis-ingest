@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"21\" /><run start=\"22\" /></field></record>",
+        "Author": "Cavigelli, Michel A. \rStephen J. Del Grosso\rMark A. Liebig\rClifford S. Snyder\rPaul E. Fixen\rRodney T. Venterea\rApril B. Leytem\rJean E. McLain\rDexter B. Watts",
+        "Book Title": "Technical Input Report for the National Climate Assessment: Biogeochemical Cycles and Biogenic Greenhouse Gases From North American Terrestrial Ecosystems",
+        "Editor": "W. M. Post \rR. T.  Venterea",
+        "Place Published": "Washington, D.C.",
+        "Reviewer": "8fb33490-146b-46ee-a3e4-4a76acdc8346",
+        "Title": "Ch. 4: Agricultural N2O emissions: Context, status, and trajectory",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "55",
+        "_uuid": "8fb33490-146b-46ee-a3e4-4a76acdc8346",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/ornl-biogeochem-2012",
+    "href": "http://data.globalchange.gov/reference/8fb33490-146b-46ee-a3e4-4a76acdc8346.json",
+    "identifier": "8fb33490-146b-46ee-a3e4-4a76acdc8346",
+    "uri": "/reference/8fb33490-146b-46ee-a3e4-4a76acdc8346"
+}

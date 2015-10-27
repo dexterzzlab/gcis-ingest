@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Total annual precipitation amount (mm) as predicted by MMF (a,c) and CAM (b,d) for the Tropical Western Pacific (TWP) and Southern Great Plains (SGP) regions for 1999. Locations of the two Atmospheric Radiation Measurement (ARM) sites are circled. The observed precipitation amounts are 358 and 1,031 mm for the TWP and SGP sites, respectively. Credit: M. Ovtchinnikov, T. Ackerman, and R. Marchand, DOE / Pacific Northwest National Laboratory; and M. Khairoutdinov, Colorado State University (reproduced from the Journal of Climate with permission from the American Meteorological Society).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "5f/a3/69022a61f833e5337e976d8f7a99/our_changing_planet_2008_70_20090708_1338985525.jpg",
+            "href": "http://data.globalchange.gov/assets/5f/a3/69022a61f833e5337e976d8f7a99/our_changing_planet_2008_70_20090708_1338985525.jpg",
+            "identifier": "9550c041-489f-40d8-8a01-fb0e006c360e",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "055cbed0ef51d8aeb255f907ee1ca55ee52abd59",
+            "size": 58346,
+            "thumbnail": "5f/a3/69022a61f833e5337e976d8f7a99/.thumb-9550c041-489f-40d8-8a01-fb0e006c360e.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/5f/a3/69022a61f833e5337e976d8f7a99/.thumb-9550c041-489f-40d8-8a01-fb0e006c360e.png",
+            "uri": "/file/9550c041-489f-40d8-8a01-fb0e006c360e",
+            "url": "/assets/5f/a3/69022a61f833e5337e976d8f7a99/our_changing_planet_2008_70_20090708_1338985525.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2008/figure/total-precipitation-tropical-western-pacific-southern-great-plains-1999.json",
+    "identifier": "total-precipitation-tropical-western-pacific-southern-great-plains-1999",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2008",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Annual Precipitation, Tropical Western Pacific and Southern Great Plains",
+    "uri": "/report/ccsp-ocpfy2008/figure/total-precipitation-tropical-western-pacific-southern-great-plains-1999",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

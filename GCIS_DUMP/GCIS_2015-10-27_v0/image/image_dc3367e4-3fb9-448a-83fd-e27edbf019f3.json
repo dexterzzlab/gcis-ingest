@@ -1,0 +1,78 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": null,
+            "chapter_identifier": null,
+            "create_dt": null,
+            "identifier": "indicator-annual-greenhouse-gas-index",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 1,
+            "report_identifier": "indicator-annual-greenhouse-gas-index",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": "2013-12-31T23:59:59",
+            "time_start": "1979-01-01T00:00:00",
+            "title": null,
+            "url": null,
+            "usage_limits": "Free to use with credit to USGCRP."
+        }
+    ],
+    "files": [
+        {
+            "file": "51/d7/547e5bba829cb1d44499c90c4c77/aggi_10_15_2014.jpg",
+            "href": "http://data.globalchange.gov/assets/51/d7/547e5bba829cb1d44499c90c4c77/aggi_10_15_2014.jpg",
+            "identifier": "a397d08d-e546-4d18-a055-ac3a7cd61ad4",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "fc514d56db6bb2a018c904ce8d2d892d23255200",
+            "size": 1117090,
+            "thumbnail": "51/d7/547e5bba829cb1d44499c90c4c77/.thumb-a397d08d-e546-4d18-a055-ac3a7cd61ad4.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/51/d7/547e5bba829cb1d44499c90c4c77/.thumb-a397d08d-e546-4d18-a055-ac3a7cd61ad4.png",
+            "uri": "/file/a397d08d-e546-4d18-a055-ac3a7cd61ad4",
+            "url": "/assets/51/d7/547e5bba829cb1d44499c90c4c77/aggi_10_15_2014.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/dc3367e4-3fb9-448a-83fd-e27edbf019f3.json",
+    "identifier": "dc3367e4-3fb9-448a-83fd-e27edbf019f3",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [
+        {
+            "activity_uri": "/activity/dc3367e4-indicator-annual-greenhouse-gas-index-process",
+            "label": "dataset noaa-esrl-annual-greenhouse-gas-index",
+            "note": "",
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/noaa-esrl-annual-greenhouse-gas-index"
+        },
+        {
+            "activity_uri": null,
+            "label": "table indicator-annual-greenhouse-gas-index-data-pilot",
+            "note": "",
+            "publication_type_identifier": "table",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/indicator-annual-greenhouse-gas-index/table/indicator-annual-greenhouse-gas-index-data-pilot"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": null,
+    "uri": "/image/dc3367e4-3fb9-448a-83fd-e27edbf019f3",
+    "url": null,
+    "usage_limits": "Free to use with credit to USGCRP."
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Anguelovski, I.\rCarmin, J.",
+        "DOI": "10.1016/J.cosust.2010.12017",
+        "ISSN": "1877-3435",
+        "Issue": "3",
+        "Journal": "Current Opinion in Environmental Sustainability",
+        "Title": "Something borrowed, everything new: Innovation and institutionalization in urban climate governance",
+        "Volume": "3",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "1563",
+        "_uuid": "2057b98c-431e-4058-87c0-ee4759fb8894",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.cosust.2010.12.017",
+    "href": "http://data.globalchange.gov/reference/2057b98c-431e-4058-87c0-ee4759fb8894.json",
+    "identifier": "2057b98c-431e-4058-87c0-ee4759fb8894",
+    "uri": "/reference/2057b98c-431e-4058-87c0-ee4759fb8894"
+}

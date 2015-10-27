@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Fabry, V. J.\rJ.B. McClintock\rJ.T. Mathis\rJ.M. Grebmeier",
+        "DOI": "10.5670/oceanog.2009.105",
+        "Issue": "4",
+        "Journal": "Oceanography",
+        "Keywords": "Arctic; Marine; ocean acidification",
+        "Pages": "160-171",
+        "Title": "Ocean acidification at high latitudes: The bellwether",
+        "URL": "http://www.tos.org/oceanography/archive/22-4_fabry.pdf",
+        "Volume": "22",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "1204",
+        "_uuid": "843b91bd-a79c-4a3b-8511-37b69d27445f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.5670/oceanog.2009.105",
+    "href": "http://data.globalchange.gov/reference/843b91bd-a79c-4a3b-8511-37b69d27445f.json",
+    "identifier": "843b91bd-a79c-4a3b-8511-37b69d27445f",
+    "uri": "/reference/843b91bd-a79c-4a3b-8511-37b69d27445f"
+}

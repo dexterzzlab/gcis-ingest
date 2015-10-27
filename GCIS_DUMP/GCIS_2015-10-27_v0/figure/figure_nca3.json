@@ -1,0 +1,52 @@
+{
+    "attributes": null,
+    "caption": "o reduce the changes occurring in climate, we would need to stabilize atmospheric levels of carbon dioxide, not simply stabilize current emission levels of carbon dioxide. Just stabilizing emissions still leads to increasing amounts of carbon dioxide in the atmosphere, because emissions are greater than the sinks that remove it (blue lines). To stabilize levels of atmospheric carbon dioxide, emissions would need to be reduced significantly, on the order of 80% or more compared to the present day (green lines). The lower graph shows how carbon dioxide concentrations would be expected to evolve depending upon emissions for one illustrative case, but this applies for any chosen target. (Figure source: NRC 201125).",
+    "chapter": {
+        "doi": "10.7930/J0G15XS3",
+        "identifier": "appendix-faqs",
+        "number": 34,
+        "report_identifier": "nca3",
+        "sort_key": 340,
+        "title": "Appendix 4: Frequently Asked Questions",
+        "url": "http://nca2014.globalchange.gov/report/appendices/faqs"
+    },
+    "chapter_identifier": "appendix-faqs",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "09/12/fd48aab2d144c327f1e3b3b75ee0/CAQ_emissions_concentrations_V2.png",
+            "href": "http://data.globalchange.gov/assets/09/12/fd48aab2d144c327f1e3b3b75ee0/CAQ_emissions_concentrations_V2.png",
+            "identifier": "130aab74-08f8-4a0d-ac3b-3c1fa96cfe20",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "2c2560e8ecc5b84b71545e6a928fd9a76abfdbd2",
+            "size": 134797,
+            "thumbnail": "09/12/fd48aab2d144c327f1e3b3b75ee0/.thumb-130aab74-08f8-4a0d-ac3b-3c1fa96cfe20.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/09/12/fd48aab2d144c327f1e3b3b75ee0/.thumb-130aab74-08f8-4a0d-ac3b-3c1fa96cfe20.png",
+            "uri": "/file/130aab74-08f8-4a0d-ac3b-3c1fa96cfe20",
+            "url": "/assets/09/12/fd48aab2d144c327f1e3b3b75ee0/CAQ_emissions_concentrations_V2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-faqs/figure/emissions-reductions-and-carbon-dioxide-concentrations.json",
+    "identifier": "emissions-reductions-and-carbon-dioxide-concentrations",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 28,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Emissions Reductions and Carbon Dioxide Concentrations",
+    "uri": "/report/nca3/chapter/appendix-faqs/figure/emissions-reductions-and-carbon-dioxide-concentrations",
+    "url": "http://nca2014.globalchange.gov/report/appendices/faqs/graphics/emissions-reductions-and-carbon-dioxide-concentrations",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

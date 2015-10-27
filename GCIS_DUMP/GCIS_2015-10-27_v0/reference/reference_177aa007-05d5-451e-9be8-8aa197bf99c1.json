@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Biggs, R.\rCarpenter, S.R.\rBrock, W.A.",
+        "DOI": "10.1073/pnas.0811729106",
+        "ISSN": "0027-8424",
+        "Issue": "3",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Pages": "826-831",
+        "Title": "Turning back from the brink: Detecting an impending regime shift in time to avert it",
+        "Volume": "106",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "1710",
+        "_uuid": "177aa007-05d5-451e-9be8-8aa197bf99c1",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.0811729106",
+    "href": "http://data.globalchange.gov/reference/177aa007-05d5-451e-9be8-8aa197bf99c1.json",
+    "identifier": "177aa007-05d5-451e-9be8-8aa197bf99c1",
+    "uri": "/reference/177aa007-05d5-451e-9be8-8aa197bf99c1"
+}

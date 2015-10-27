@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "CONTEXT. Contamination of local waterways may occur through release of partially treated sewage. The Environmental Protection Agency has recently reviewed regulatory standards for this practice. However, the health effects of these events have not been well studied.OBJECTIVE. Our goal was to identify any increase in visits to a pediatric emergency department for diarrheal illness after sewage bypass into Lake Michigan.METHODS. The study was conducted as a retrospective, observational time-series analysis in a tertiary care children's hospital emergency department with an annual volume of \u223c45000 visits. We collected data for 2002\u20132004 pertaining to the daily number of emergency department visits for children (aged <19 years) for diarrheal illness (using specified International Classification of Diseases, Ninth Edition codes as a reference). Daily diarrheal illness visits were the dependent variable in a time-series model. The primary independent variable was the occurrence of a sewage-bypass event in the 3 to 7 preceding days. Potential confounders included the season and daily rainfall. Separate models were created for visits from people living in zip codes that used Lake Michigan drinking water and those who used other water sources.RESULTS. Over the 3-year study period, there was a mean of 5.0 \u00b1 3.8 (SD) daily visits for diarrheal illness from people who lived in zip codes that used Lake Michigan drinking water and 1.2 \u00b1 1.4 (SD) from outside that area. There were 6 sewage-bypass events identified. After adjusting for the season and rainfall, there was a significant increase of 2.5 to 2.7 visits only from people who lived in zip codes that used Lake Michigan drinking water after the 2 largest of the 6 bypass events.CONCLUSIONS. Emergency department visits for diarrheal illness increased significantly after 2 events of release of partially treated sewage into area waterways. These data suggest a potentially harmful effect of such practices.",
+        "Author": "Redman, Ryan L.\rNenn, Cheryl A.\rEastwood, Daniel\rGorelick, Marc H.",
+        "DOI": "10.1542/peds.2007-0283",
+        "Date": "December 1, 2007",
+        "Issue": "6",
+        "Journal": "Pediatrics",
+        "Pages": "e1472-e1475",
+        "Title": "Pediatric emergency department visits for diarrheal illness increased after release of undertreated sewage",
+        "URL": "http://www.pediatricsdigest.mobi/content/120/6/e1472.full.pdf+html",
+        "Volume": "120",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "3985",
+        "_uuid": "e52bc134-c185-4db4-815d-1bf6608797a7",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1542/peds.2007-0283",
+    "href": "http://data.globalchange.gov/reference/e52bc134-c185-4db4-815d-1bf6608797a7.json",
+    "identifier": "e52bc134-c185-4db4-815d-1bf6608797a7",
+    "uri": "/reference/e52bc134-c185-4db4-815d-1bf6608797a7"
+}

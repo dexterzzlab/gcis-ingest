@@ -1,0 +1,79 @@
+{
+    "attributes": null,
+    "caption": null,
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "bc/be/19d71ca813ec45d6c5be8e15406f/sea_surface_temp_v5_11_3_14.jpg",
+            "href": "http://data.globalchange.gov/assets/bc/be/19d71ca813ec45d6c5be8e15406f/sea_surface_temp_v5_11_3_14.jpg",
+            "identifier": "f967240c-87f3-454d-9e22-e15be48d7216",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "d52a3df817df04a7b15f370b9e21ec779b4eec8c",
+            "size": 844429,
+            "thumbnail": "bc/be/19d71ca813ec45d6c5be8e15406f/.thumb-f967240c-87f3-454d-9e22-e15be48d7216.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/bc/be/19d71ca813ec45d6c5be8e15406f/.thumb-f967240c-87f3-454d-9e22-e15be48d7216.png",
+            "uri": "/file/f967240c-87f3-454d-9e22-e15be48d7216",
+            "url": "/assets/bc/be/19d71ca813ec45d6c5be8e15406f/sea_surface_temp_v5_11_3_14.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/indicator-sea-surface-temperature/figure/indicator-sea-surface-temperature.json",
+    "identifier": "indicator-sea-surface-temperature",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": null,
+            "description": null,
+            "identifier": "0b601a5b-b506-4319-860e-f71d532900f2",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": null,
+            "url": null,
+            "usage_limits": "Free to use with credit to USGCRP."
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 1,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "image 0b601a5b-b506-4319-860e-f71d532900f2",
+            "note": "",
+            "publication_type_identifier": "image",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/image/0b601a5b-b506-4319-860e-f71d532900f2"
+        },
+        {
+            "activity_uri": null,
+            "label": "table indicator-sea-surface-temperature-data-pilot",
+            "note": "",
+            "publication_type_identifier": "table",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/indicator-sea-surface-temperature/table/indicator-sea-surface-temperature-data-pilot"
+        }
+    ],
+    "references": [],
+    "report_identifier": "indicator-sea-surface-temperature",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": "2014-06-30T23:59:59",
+    "time_start": "1880-01-01T00:00:00",
+    "title": null,
+    "uri": "/report/indicator-sea-surface-temperature/figure/indicator-sea-surface-temperature",
+    "url": null,
+    "usage_limits": "Free to use with credit to USGCRP."
+}

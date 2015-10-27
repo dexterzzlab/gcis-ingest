@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Kennedy, J.J.\rRayner, N.A.\rSmith, R.O.\rParker, D.E.\rSaunby, M.",
+        "DOI": "10.1029/2010JD015220",
+        "ISSN": "2156-2202",
+        "Journal": "Journal of Geophysical Research: Atmospheres",
+        "Pages": "D14104",
+        "Title": "Reassessing biases and other uncertainties in sea surface temperature observations measured in situ since 1850: 2. Biases and homogenization",
+        "Volume": "116",
+        "Year": "2011",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "1378",
+        "_uuid": "ffb1495a-8eac-482b-b3d7-4c142a1953d7",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2010JD015220",
+    "href": "http://data.globalchange.gov/reference/ffb1495a-8eac-482b-b3d7-4c142a1953d7.json",
+    "identifier": "ffb1495a-8eac-482b-b3d7-4c142a1953d7",
+    "uri": "/reference/ffb1495a-8eac-482b-b3d7-4c142a1953d7"
+}

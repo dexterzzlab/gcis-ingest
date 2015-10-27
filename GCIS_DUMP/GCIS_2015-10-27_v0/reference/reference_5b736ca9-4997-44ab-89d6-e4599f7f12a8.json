@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Seager, R.\rVecchi, G.A.",
+        "DOI": "10.1073/pnas.0910856107",
+        "ISSN": "0027-8424",
+        "Issue": "50",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Pages": "21277-21282",
+        "Title": "Greenhouse warming and the 21st century hydroclimate of southwestern North America",
+        "URL": "http://www.pnas.org/content/107/50/21277.full.pdf",
+        "Volume": "107",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "2802",
+        "_uuid": "5b736ca9-4997-44ab-89d6-e4599f7f12a8",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.0910856107",
+    "href": "http://data.globalchange.gov/reference/5b736ca9-4997-44ab-89d6-e4599f7f12a8.json",
+    "identifier": "5b736ca9-4997-44ab-89d6-e4599f7f12a8",
+    "uri": "/reference/5b736ca9-4997-44ab-89d6-e4599f7f12a8"
+}

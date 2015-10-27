@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Bouchama, A.\rDehbi, M.\rMohamed, G.\rMatthies, F.\rShoukri, M.\rMenne, B.",
+        "DOI": "10.1001/archinte.167.20.ira70009",
+        "Issue": "20",
+        "Journal": "Archives of Internal Medicine",
+        "Pages": "2170-2176",
+        "Title": "Prognostic factors in heat wave related deaths: A meta-analysis",
+        "Volume": "167",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "1326",
+        "_uuid": "e7927819-0782-42ff-a491-6e125f61600e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1001/archinte.167.20.ira70009",
+    "href": "http://data.globalchange.gov/reference/e7927819-0782-42ff-a491-6e125f61600e.json",
+    "identifier": "e7927819-0782-42ff-a491-6e125f61600e",
+    "uri": "/reference/e7927819-0782-42ff-a491-6e125f61600e"
+}

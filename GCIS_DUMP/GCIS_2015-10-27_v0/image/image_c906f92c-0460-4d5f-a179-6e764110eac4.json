@@ -1,0 +1,95 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/4298.json",
+            "id": 4298,
+            "organization": {
+                "country_code": "US",
+                "identifier": "goddard-institute-space-studies",
+                "name": "Goddard Institute for Space Studies",
+                "organization_type_identifier": "federal",
+                "url": "http://www.giss.nasa.gov"
+            },
+            "organization_uri": "/organization/goddard-institute-space-studies",
+            "person": {
+                "first_name": "Drew T.",
+                "id": 2261,
+                "last_name": "Shindell",
+                "middle_name": null,
+                "orcid": "0000-0001-9925-8500",
+                "url": "http://www.giss.nasa.gov/staff/dshindell/"
+            },
+            "person_id": 2261,
+            "person_uri": "/person/2261",
+            "role_type_identifier": "lead_author",
+            "uri": "/contributor/4298"
+        }
+    ],
+    "create_dt": null,
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Modeled (top panel) and observed (bottom two panels) changes in atmospheric aerosol loads between 1980 and 2000. A decrease over Europe and North America (blue) and an increase over southeastern and eastern Asia (red)\u2014evident in all three panels\u2014contributed to localized warming and cooling, respectively, during this period. (Credit: Shindell et al., 2013, Atmos. Chem. Phys.)",
+            "chapter_identifier": "federal-investments-in-global-change-research",
+            "create_dt": null,
+            "identifier": "changes-atmospheric-aerosol-loads",
+            "lat_max": "90",
+            "lat_min": "-90",
+            "lon_max": "180",
+            "lon_min": "-180",
+            "ordinal": 6,
+            "report_identifier": "usgcrp-ocpfy2015",
+            "source_citation": "Shindell, T. D. et al., Radiative Forcing in the ACCMIP Historical and Future Climate Simulations, 2949 Atmos. Chem. Phys., 13, 2939\u20132974, 2013 www.atmos-chem-phys.net/13/2939/2013/. Data for the Advanced Very High Resolution Radiometer (AVHRR) Global Aerosol Climatology Project comes from Geogdzhayev et al., 2005 and the data for the AVHRR NOAA comes from Zhao et al., 2008",
+            "submission_dt": "2013-03-15T00:00:00",
+            "time_end": "2000-12-31T23:59:00",
+            "time_start": "1980-01-01T00:00:00",
+            "title": "Changes in Atmospheric Aerosol Loads",
+            "url": null,
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source. "
+        }
+    ],
+    "files": [
+        {
+            "file": "45/be/872c098bfb211e1035099c3fea18/Shindell_avhrr_gacp.png",
+            "href": "http://data.globalchange.gov/assets/45/be/872c098bfb211e1035099c3fea18/Shindell_avhrr_gacp.png",
+            "identifier": "8de26eed-e669-435f-b64a-2036870e4a54",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "afae64953c7c8238cd1071e4d6f4eea0c561ea5a",
+            "size": 356464,
+            "thumbnail": "45/be/872c098bfb211e1035099c3fea18/.thumb-8de26eed-e669-435f-b64a-2036870e4a54.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/45/be/872c098bfb211e1035099c3fea18/.thumb-8de26eed-e669-435f-b64a-2036870e4a54.png",
+            "uri": "/file/8de26eed-e669-435f-b64a-2036870e4a54",
+            "url": "/assets/45/be/872c098bfb211e1035099c3fea18/Shindell_avhrr_gacp.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/c906f92c-0460-4d5f-a179-6e764110eac4.json",
+    "identifier": "c906f92c-0460-4d5f-a179-6e764110eac4",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Radiative forcing in the ACCMIP historical and future climate simulations",
+            "note": "",
+            "publication_type_identifier": "article",
+            "relationship": "cito:cites",
+            "url": "/article/10.5194/acp-13-2939-2013"
+        }
+    ],
+    "position": "Bottom",
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Changes in Atmospheric Aerosol Loads (AVHRR GACP)",
+    "uri": "/image/c906f92c-0460-4d5f-a179-6e764110eac4",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source. "
+}

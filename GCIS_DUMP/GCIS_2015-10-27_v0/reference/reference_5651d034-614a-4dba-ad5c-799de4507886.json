@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "A new homogeneous climate division monthly precipitation dataset [based on full network estimated precipitation (FNEP)] was created as an alternative to the National Climatic Data Center (NCDC) climate division dataset. These alternative climate division monthly precipitation values were estimated using an equal-weighted average of Cooperative Observer Program stations that contained serially complete time series. Missing station observations were estimated by a procedure that was optimized through testing on U.S.; Historical Climate Network stations. Inhomogeneities in the NCDC dataset arise from two principal causes. The pre-1931 estimation of NCDC climate division monthly precipitation from statewide averages led to a significant time series discontinuity in several climate divisions. From 1931 to the present, NCDC climate division averages have been calculated from a subset of available station data within each climate division, and temporal changes in the location of available stations have caused artificial changes in the time series. The; FNEP climate division dataset is recommended over theNCDCdataset for studies involving climate trends or long-term climate variability. According to the FNEP data, the 1895\u20132009 linear precipitation trend is positive across most of the United States, and trends exceed 10% per century across the southern plains and the Corn Belt. Remaining inhomogeneities from changes in gauge technology and station location may be responsible for an artificial trend of 1%\u20133% per century. ",
+        "Author": "McRoberts, D.B.\rJ.W. Nielsen-Gammon",
+        "DOI": "10.1175/2010JAMC2626.1",
+        "ISSN": "1558-8424",
+        "Issue": "6",
+        "Journal": "Journal of Applied Meteorology and Climatology",
+        "Pages": "1187-1199",
+        "Title": "A new homogenized climate division precipitation dataset for analysis of climate variability and climate change",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/2010JAMC2626.1",
+        "Volume": "50",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "1970",
+        "_uuid": "5651d034-614a-4dba-ad5c-799de4507886",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/2010JAMC2626.1",
+    "href": "http://data.globalchange.gov/reference/5651d034-614a-4dba-ad5c-799de4507886.json",
+    "identifier": "5651d034-614a-4dba-ad5c-799de4507886",
+    "uri": "/reference/5651d034-614a-4dba-ad5c-799de4507886"
+}

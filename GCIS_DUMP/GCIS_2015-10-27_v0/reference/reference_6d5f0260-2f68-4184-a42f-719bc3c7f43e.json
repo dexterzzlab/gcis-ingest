@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "3",
+        "Author": "Brunner, Ron\rJohn Nordgren",
+        "Conference Location": "Portland, OR",
+        "Conference Name": "Kresge Grantees and Practitioners Workshop On Climate Change Adaptation",
+        "Date": "April 6, 2012",
+        "Pages": "12",
+        "Place Published": "Troy, Michigan",
+        "Publisher": "The Kresge Foundation",
+        "Title": "Climate adaptation as an evolutionary process: A white paper",
+        "URL": "http://kresge.org/sites/default/files/climate-adaptation-evolutionary-process.pdf",
+        "Year of Conference": "2012",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "3826",
+        "_uuid": "6d5f0260-2f68-4184-a42f-719bc3c7f43e",
+        "reftype": "Conference Proceedings"
+    },
+    "child_publication": "/report/kresgefoundation-climateattribution-2012",
+    "href": "http://data.globalchange.gov/reference/6d5f0260-2f68-4184-a42f-719bc3c7f43e.json",
+    "identifier": "6d5f0260-2f68-4184-a42f-719bc3c7f43e",
+    "uri": "/reference/6d5f0260-2f68-4184-a42f-719bc3c7f43e"
+}

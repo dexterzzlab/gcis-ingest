@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Yuill, B.\rLavoie, D.\rReed, D.J.",
+        "DOI": "10.2112/SI54-012.1",
+        "ISSN": "1551-5036",
+        "Journal": "Journal of Coastal Research",
+        "Pages": "23-36",
+        "Title": "Understanding subsidence processes in coastal Louisiana",
+        "Volume": "54",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "3522",
+        "_uuid": "8712f79b-218f-4f08-b4a9-2401d8aa1b14",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.2112/SI54-012.1",
+    "href": "http://data.globalchange.gov/reference/8712f79b-218f-4f08-b4a9-2401d8aa1b14.json",
+    "identifier": "8712f79b-218f-4f08-b4a9-2401d8aa1b14",
+    "uri": "/reference/8712f79b-218f-4f08-b4a9-2401d8aa1b14"
+}

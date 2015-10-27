@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Morris, Roger K. A.",
+        "DOI": "10.1016/j.ocecoaman.2012.04.019",
+        "ISSN": "0964-5691",
+        "Journal": "Ocean & Coastal Management",
+        "Pages": "59-66",
+        "Title": "Managed realignment: A sediment management perspective",
+        "Volume": "65",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "3786",
+        "_uuid": "e0428e22-14a2-43e5-b4b6-74c8cb185143",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.ocecoaman.2012.04.019",
+    "href": "http://data.globalchange.gov/reference/e0428e22-14a2-43e5-b4b6-74c8cb185143.json",
+    "identifier": "e0428e22-14a2-43e5-b4b6-74c8cb185143",
+    "uri": "/reference/e0428e22-14a2-43e5-b4b6-74c8cb185143"
+}

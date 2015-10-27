@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Hammer, S.A.\rParshall, L. \rLeichenko, R. \rVancura, P.\rPanero, M. ",
+        "Book Title": "Responding to Climate Change in New York State: The ClimAID Integrated Assessment for Effective Climate Change Adaptation in New York State",
+        "Editor": "C. Rosenzweig \rW. Solecki \rA. DeGaetano \rM. O'Grady \rS. Hassol \rP. Grabhorn",
+        "ISBN": "978-1-936842-00-1",
+        "Pages": "225-298",
+        "Place Published": "Abany, NY",
+        "Publisher": "New York State Energy Research and Development Authority  (NYSERDA)",
+        "Reviewer": "ec576bd0-5bdf-4929-88c5-8dd9ab855fdd",
+        "Title": "Ch. 8: Energy",
+        "URL": "www.nyserda.ny.gov/climaid",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "231",
+        "_uuid": "ec576bd0-5bdf-4929-88c5-8dd9ab855fdd",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/nyserda-report-11-18",
+    "href": "http://data.globalchange.gov/reference/ec576bd0-5bdf-4929-88c5-8dd9ab855fdd.json",
+    "identifier": "ec576bd0-5bdf-4929-88c5-8dd9ab855fdd",
+    "uri": "/reference/ec576bd0-5bdf-4929-88c5-8dd9ab855fdd"
+}

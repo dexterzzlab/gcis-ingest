@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "McMichael, A.J.\rPowles, J.W.\rButler, C.D.\rUauy, R.",
+        "DOI": "10.1016/S0140-6736(07)61256-2",
+        "ISSN": "0140-6736",
+        "Issue": "9594",
+        "Journal": "The Lancet",
+        "Pages": "1253-1263",
+        "Title": "Food, livestock production, energy, climate change, and health",
+        "URL": "http://www.gci.org.uk/Documents/mcmichael_etal_meat_heat.pdf",
+        "Volume": "370",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "1960",
+        "_uuid": "57fae9c0-cace-4737-968b-e306340b804a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/S0140-6736(07)61256-2",
+    "href": "http://data.globalchange.gov/reference/57fae9c0-cace-4737-968b-e306340b804a.json",
+    "identifier": "57fae9c0-cace-4737-968b-e306340b804a",
+    "uri": "/reference/57fae9c0-cace-4737-968b-e306340b804a"
+}

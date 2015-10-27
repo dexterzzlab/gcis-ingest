@@ -1,0 +1,95 @@
+{
+    "attributes": "Temperature, projections, CMIP3, B1",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/3258.json",
+            "id": 3258,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Andrew",
+                "id": 1948,
+                "last_name": "Buddenberg",
+                "middle_name": null,
+                "orcid": "0000-0003-2047-6527",
+                "url": null
+            },
+            "person_id": 1948,
+            "person_uri": "/person/1948",
+            "role_type_identifier": "analyst",
+            "uri": "/contributor/3258"
+        }
+    ],
+    "create_dt": "2013-11-19T16:38:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Maps show projected change in average surface air temperature in the later part of this century (2071-2099) relative to the later part of the last century (1970-1999) under a scenario that assumes substantial reductions in heat trapping gases (B1) and a higher emissions scenario that assumes continued increases in global emissions (A2). (See Appendix 3: Climate Science, Supplemental Message 5 for a discussion of temperature changes under a wider range of future scenarios for various periods of this century). (Figure source: NOAA NCDC / CICS-NC).",
+            "chapter_identifier": "our-changing-climate",
+            "create_dt": "2013-11-20T13:41:01",
+            "identifier": "projected-temperature-change",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 8,
+            "report_identifier": "nca3",
+            "source_citation": "NOAA NCDC / CICS-NC",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Projected Temperature Change",
+            "url": "http://nca2014.globalchange.gov/highlights/report-findings/future-climate/graphics/projected-temperature-change",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "e2/60/2eb40b5835cbd30256c383ad976a/cs_projected_temperature_change_sres_v7_left.png",
+            "href": "http://data.globalchange.gov/assets/e2/60/2eb40b5835cbd30256c383ad976a/cs_projected_temperature_change_sres_v7_left.png",
+            "identifier": "d0c7bac4-b303-4eb4-8384-ac1c972d5940",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "d763a4b0f202505f0d51435183d837ea44da8800",
+            "size": 159980,
+            "thumbnail": "e2/60/2eb40b5835cbd30256c383ad976a/.thumb-d0c7bac4-b303-4eb4-8384-ac1c972d5940.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/e2/60/2eb40b5835cbd30256c383ad976a/.thumb-d0c7bac4-b303-4eb4-8384-ac1c972d5940.png",
+            "uri": "/file/d0c7bac4-b303-4eb4-8384-ac1c972d5940",
+            "url": "/assets/e2/60/2eb40b5835cbd30256c383ad976a/cs_projected_temperature_change_sres_v7_left.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/d8685f80-21fa-4e37-8c86-bf1829376f8a.json",
+    "identifier": "d8685f80-21fa-4e37-8c86-bf1829376f8a",
+    "lat_max": "72",
+    "lat_min": "18",
+    "lon_max": "-66",
+    "lon_min": "-169",
+    "parents": [
+        {
+            "activity_uri": "/activity/d8685f80-nca3-cmip3-r201205-process",
+            "label": "dataset nca3-cmip3-r201205",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-cmip3-r201205"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2099-12-31T23:59:59",
+    "time_start": "1970-01-01T00:00:00",
+    "title": "Projected Temperature Change - Lower Emissions (B1)",
+    "uri": "/image/d8685f80-21fa-4e37-8c86-bf1829376f8a",
+    "url": null,
+    "usage_limits": null
+}

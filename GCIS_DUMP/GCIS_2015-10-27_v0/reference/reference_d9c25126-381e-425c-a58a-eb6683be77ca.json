@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "King, R.O.",
+        "Institution": "Library of  Congress Congressional Research Service",
+        "Pages": "45",
+        "Place Published": "Washington, D.C.",
+        "Title": "Federal Flood Insurance: The Repetitive Loss Problem. CRS Report for Congress. Order Code RL32972",
+        "URL": "http://digital.library.unt.edu/ark:/67531/metacrs7693/m1/1/high_res_d/RL32972_2005Jun30.pdf",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "693",
+        "_uuid": "d9c25126-381e-425c-a58a-eb6683be77ca",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/crs-reploss-2005",
+    "href": "http://data.globalchange.gov/reference/d9c25126-381e-425c-a58a-eb6683be77ca.json",
+    "identifier": "d9c25126-381e-425c-a58a-eb6683be77ca",
+    "uri": "/reference/d9c25126-381e-425c-a58a-eb6683be77ca"
+}

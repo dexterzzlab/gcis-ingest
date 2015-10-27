@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Progress in urban climatology over the two decades since the first publication of the International Journal of Climatology is reviewed. It is emphasized that urban climatology during this period has benefited from conceptual advances made in microclimatology and boundary-layer climatology in general. The role of scale, heterogeneity, dynamic source areas for turbulent fluxes and the complexity introduced by the roughness sublayer over the tall, rigid roughness elements of cities is described. The diversity of urban heat islands, depending on the medium sensed and the sensing technique, is explained. The review focuses on two areas within urban climatology. First, it assesses advances in the study of selected urban climatic processes relating to urban atmospheric turbulence (including surface roughness) and exchange processes for energy and water, at scales of consideration ranging from individual facets of the urban environment, through streets and city blocks to neighbourhoods. Second, it explores the literature on the urban temperature field. The state of knowledge about urban heat islands around 1980 is described and work since then is assessed in terms of similarities to and contrasts with that situation. Finally, the main advances are summarized and recommendations for urban climate work in the future are made. Copyright \u00a9 2003 Royal Meteorological Society.",
+        "Author": "Arnfield, A.J.",
+        "DOI": "10.1002/joc.859",
+        "ISSN": "1097-0088",
+        "Issue": "1",
+        "Journal": "International Journal of Climatology",
+        "Keywords": "urban climate;; urban energy budget;; urban water budget;; urban heat island;; urban atmospheric turbulence;; urban roughness;; spatial heterogeneity",
+        "Pages": "1-26",
+        "Title": "Two decades of urban climate research: A review of turbulence, exchanges of energy and water, and the urban heat island",
+        "Volume": "23",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 13: Land Use and Land Cover Change FINAL\"]",
+        "_record_number": "1713",
+        "_uuid": "71fd8e9a-5d84-4d79-bff0-35da4ee4e999",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/joc.859",
+    "href": "http://data.globalchange.gov/reference/71fd8e9a-5d84-4d79-bff0-35da4ee4e999.json",
+    "identifier": "71fd8e9a-5d84-4d79-bff0-35da4ee4e999",
+    "uri": "/reference/71fd8e9a-5d84-4d79-bff0-35da4ee4e999"
+}

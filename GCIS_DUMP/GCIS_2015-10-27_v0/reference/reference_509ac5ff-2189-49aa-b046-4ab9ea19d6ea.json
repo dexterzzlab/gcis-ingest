@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Schuur, Edward A. G.\rAbbott, Benjamin",
+        "DOI": "10.1038/480032a",
+        "ISSN": "0028-0836",
+        "Issue": "7375",
+        "Journal": "Nature",
+        "Keywords": "fire regime; permafrost",
+        "Pages": "32-33",
+        "Title": "Climate change: High risk of permafrost thaw",
+        "URL": "http://www.seas.harvard.edu/climate/eli/Courses/EPS134/Sources/19-Biosphere-feedbacks-amazon-rainforest-and-permafrost/permafrost/Schuur-Abbott-2011_High-risk-of-permafrost-thaw.pdf",
+        "Volume": "480",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "2789",
+        "_uuid": "509ac5ff-2189-49aa-b046-4ab9ea19d6ea",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/480032a",
+    "href": "http://data.globalchange.gov/reference/509ac5ff-2189-49aa-b046-4ab9ea19d6ea.json",
+    "identifier": "509ac5ff-2189-49aa-b046-4ab9ea19d6ea",
+    "uri": "/reference/509ac5ff-2189-49aa-b046-4ab9ea19d6ea"
+}

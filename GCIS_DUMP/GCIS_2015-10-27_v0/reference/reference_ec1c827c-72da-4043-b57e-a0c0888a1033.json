@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Roff, D.",
+        "Book Title": "Diapause and Life Cycle Strategies in Insects",
+        "Editor": "Brown, V.K.\rHodek, I.",
+        "ISBN": "9789061931331",
+        "Pages": "253-270",
+        "Place Published": "The Hague, Netherlands",
+        "Publisher": "Kluwer",
+        "Reviewer": "ec1c827c-72da-4043-b57e-a0c0888a1033",
+        "Title": "Phenological adaptation in a seasonal environment: A theoretical perspective",
+        "URL": "http://books.google.com/books?id=f0ogAQAAMAAJ",
+        "Year": "1983",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "4306",
+        "_uuid": "ec1c827c-72da-4043-b57e-a0c0888a1033",
+        "reftype": "Book Section"
+    },
+    "child_publication": null,
+    "href": "http://data.globalchange.gov/reference/ec1c827c-72da-4043-b57e-a0c0888a1033.json",
+    "identifier": "ec1c827c-72da-4043-b57e-a0c0888a1033",
+    "uri": "/reference/ec1c827c-72da-4043-b57e-a0c0888a1033"
+}

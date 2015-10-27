@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Mote, P.W.",
+        "ISSN": "0029-344X",
+        "Issue": "4",
+        "Journal": "Northwest Science",
+        "Pages": "271-282",
+        "Title": "Trends in temperature and precipitation in the Pacific Northwest during the twentieth century",
+        "URL": "http://research.wsulibs.wsu.edu/xmlui/bitstream/handle/2376/1032/v77%20p271%20Mote.PDF?sequence=1",
+        "Volume": "77",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "2108",
+        "_uuid": "1cc2413f-71dc-42c1-a71d-114f80057264",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/trends-in-temperature-and-precipitation-in-the-pacific-northwest-during-the-twentieth-century",
+    "href": "http://data.globalchange.gov/reference/1cc2413f-71dc-42c1-a71d-114f80057264.json",
+    "identifier": "1cc2413f-71dc-42c1-a71d-114f80057264",
+    "uri": "/reference/1cc2413f-71dc-42c1-a71d-114f80057264"
+}

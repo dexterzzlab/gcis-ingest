@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"31\" /><run start=\"32\" /></field></record>",
+        "Abstract": "An increase in photosynthetic activity of the northern hemisphere terrestrial vegetation, as derived from satellite observations, has been reported in previous studies. The amplitude of the seasonal cycle of the annually detrended atmospheric CO2 in the northern hemisphere (an indicator of biospheric activity) also increased during that period. We found, by analyzing the annually detrended CO2 record by season, that early summer (June) CO2 concentrations indeed decreased from 1985 to 1991, and they have continued to decrease from 1994 up to 2002. This decrease indicates accelerating springtime net CO2 uptake. However, the CO2 minimum concentration in late summer (an indicator of net growing-season uptake) showed no positive trend since 1994, indicating that lower net CO2 uptake during summer cancelled out the enhanced uptake during spring. Using a recent satellite normalized difference vegetation index data set and climate data, we show that this lower summer uptake is probably the result of hotter and drier summers in both mid and high latitudes, demonstrating that a warming climate does not necessarily lead to higher CO2 growing-season uptake, even in high-latitude ecosystems that are considered to be temperature limited.",
+        "Author": "Angert, A.\rBiraud, S.\rBonfils, C.\rHenning, C. C.\rBuermann, W.\rPinzon, J.\rTucker, C. J.\rFung, I.",
+        "DOI": "10.1073/pnas.0501647102",
+        "Date": "August 2, 2005",
+        "Issue": "31",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Pages": "10823-10827",
+        "Title": "Drier summers cancel out the CO2 uptake enhancement induced by warmer springs",
+        "URL": "http://www.pnas.org/content/102/31/10823.full.pdf+html",
+        "Volume": "102",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "4152",
+        "_uuid": "7305d5e6-53ac-4ad0-8a05-6dce08bd8ee6",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.0501647102",
+    "href": "http://data.globalchange.gov/reference/7305d5e6-53ac-4ad0-8a05-6dce08bd8ee6.json",
+    "identifier": "7305d5e6-53ac-4ad0-8a05-6dce08bd8ee6",
+    "uri": "/reference/7305d5e6-53ac-4ad0-8a05-6dce08bd8ee6"
+}

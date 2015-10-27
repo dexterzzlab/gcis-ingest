@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Francis, R.A.\rFalconi, S.M.\rNateghi, R.\rGuikema, S.D.",
+        "DOI": "10.1007/s10584-010-0001-9",
+        "ISSN": "0165-0009",
+        "Issue": "1",
+        "Journal": "Climatic Change",
+        "Pages": "31-55",
+        "Title": "Probabilistic life cycle analysis model for evaluating electric power infrastructure risk mitigation investments",
+        "Volume": "106",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"RG 10 Coasts\"]",
+        "_record_number": "1324",
+        "_uuid": "e9bc4af5-c2c2-409a-93d2-b2b6dcdb6528",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-010-0001-9",
+    "href": "http://data.globalchange.gov/reference/e9bc4af5-c2c2-409a-93d2-b2b6dcdb6528.json",
+    "identifier": "e9bc4af5-c2c2-409a-93d2-b2b6dcdb6528",
+    "uri": "/reference/e9bc4af5-c2c2-409a-93d2-b2b6dcdb6528"
+}

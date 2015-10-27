@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "American Meteorological Society",
+        ".reference_type": "0",
+        "Access Date": "2013/08/05",
+        "Author": "Harding, Keith J.\rSnyder, Peter K.",
+        "DOI": "10.1175/jhm-d-11-098.1",
+        "Date": "2012/12/01",
+        "ISSN": "1525-755X",
+        "Issue": "6",
+        "Journal": "Journal of Hydrometeorology",
+        "Pages": "1667-1686",
+        "Title": "Modeling the atmospheric response to irrigation in the Great Plains. Part I: General impacts on precipitation and the energy budget",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/JHM-D-11-098.1",
+        "Volume": "13",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 13: Land Use and Land Cover Change FINAL\"]",
+        "_record_number": "4182",
+        "_uuid": "b45f2481-fdae-4097-8ea4-140545034690",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/jhm-d-11-098.1",
+    "href": "http://data.globalchange.gov/reference/b45f2481-fdae-4097-8ea4-140545034690.json",
+    "identifier": "b45f2481-fdae-4097-8ea4-140545034690",
+    "uri": "/reference/b45f2481-fdae-4097-8ea4-140545034690"
+}

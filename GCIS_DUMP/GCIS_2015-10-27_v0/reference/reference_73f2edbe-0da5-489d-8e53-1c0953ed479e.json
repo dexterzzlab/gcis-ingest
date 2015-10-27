@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Turner, John\rComiso, Josefino C.\rMarshall, Gareth J.\rLachlan-Cope, Tom A.\rBracegirdle, Tom\rMaksym, Ted\rMeredith, Michael P.\rWang, Zhaomin\rOrr, Andrew",
+        "DOI": "10.1029/2009gl037524",
+        "ISSN": "1944-8007",
+        "Issue": "8",
+        "Journal": "Geophysical Research Letters",
+        "Keywords": "sea ice\rozone\r0750 Sea ice\r1610 Atmosphere\r1621 Cryospheric change",
+        "Pages": "L08502",
+        "Title": "Non-annular atmospheric circulation change induced by stratospheric ozone depletion and its role in the recent increase of Antarctic sea ice extent",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2009GL037524/pdf",
+        "Volume": "36",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "3752",
+        "_uuid": "73f2edbe-0da5-489d-8e53-1c0953ed479e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2009gl037524",
+    "href": "http://data.globalchange.gov/reference/73f2edbe-0da5-489d-8e53-1c0953ed479e.json",
+    "identifier": "73f2edbe-0da5-489d-8e53-1c0953ed479e",
+    "uri": "/reference/73f2edbe-0da5-489d-8e53-1c0953ed479e"
+}

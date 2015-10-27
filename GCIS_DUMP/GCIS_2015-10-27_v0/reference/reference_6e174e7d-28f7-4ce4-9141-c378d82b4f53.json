@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        ".reference_type": "9",
+        "Editor": "Markon, Carl J.\rTrainor, Sarah F.\rChapin, F.S., III",
+        "Number of Pages": "148",
+        "Title": "The United States National Climate Assessment \u2013 Alaska Technical Regional Report. U.S. Geological Survey Circular 1379",
+        "URL": "http://pubs.usgs.gov/circ/1379/pdf/circ1379.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "1883",
+        "_uuid": "6e174e7d-28f7-4ce4-9141-c378d82b4f53",
+        "reftype": "Edited Book"
+    },
+    "child_publication": "/report/usgs-alaska-technicalregionreport-circular1379",
+    "href": "http://data.globalchange.gov/reference/6e174e7d-28f7-4ce4-9141-c378d82b4f53.json",
+    "identifier": "6e174e7d-28f7-4ce4-9141-c378d82b4f53",
+    "uri": "/reference/6e174e7d-28f7-4ce4-9141-c378d82b4f53"
+}

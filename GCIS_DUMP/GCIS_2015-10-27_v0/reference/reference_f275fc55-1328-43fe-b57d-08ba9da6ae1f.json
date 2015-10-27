@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Qian, T.\rDai, A.\rTrenberth, K.E.",
+        "DOI": "10.1175/JCLI4262.1",
+        "ISSN": "1520-0442",
+        "Issue": "18",
+        "Journal": "Journal of Climate",
+        "Pages": "4599-4614",
+        "Title": "Hydroclimatic trends in the Mississippi River basin from 1948 to 2004",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/JCLI4262.1",
+        "Volume": "20",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "2560",
+        "_uuid": "f275fc55-1328-43fe-b57d-08ba9da6ae1f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/JCLI4262.1",
+    "href": "http://data.globalchange.gov/reference/f275fc55-1328-43fe-b57d-08ba9da6ae1f.json",
+    "identifier": "f275fc55-1328-43fe-b57d-08ba9da6ae1f",
+    "uri": "/reference/f275fc55-1328-43fe-b57d-08ba9da6ae1f"
+}

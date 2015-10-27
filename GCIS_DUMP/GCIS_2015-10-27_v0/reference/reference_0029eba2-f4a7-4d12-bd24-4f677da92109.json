@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "O\u2019Neill, M.S.\rKinney, P.L.\rCohen, A.J.",
+        "DOI": "10.1080/15287390801997625",
+        "Issue": "9-10",
+        "Journal": "Journal of Toxicology and Environmental Health, Part A",
+        "Pages": "570-577",
+        "Title": "Environmental equity in air quality management: Local and international implications for human health and climate change",
+        "Volume": "71",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "3636",
+        "_uuid": "0029eba2-f4a7-4d12-bd24-4f677da92109",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1080/15287390801997625",
+    "href": "http://data.globalchange.gov/reference/0029eba2-f4a7-4d12-bd24-4f677da92109.json",
+    "identifier": "0029eba2-f4a7-4d12-bd24-4f677da92109",
+    "uri": "/reference/0029eba2-f4a7-4d12-bd24-4f677da92109"
+}

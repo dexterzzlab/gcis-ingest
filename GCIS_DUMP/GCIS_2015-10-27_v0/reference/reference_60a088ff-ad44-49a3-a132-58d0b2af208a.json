@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "USDA,",
+        "Institution": "U.S. Department of Agriculture, National Agricultural Statistics Service",
+        "Pages": "529",
+        "Place Published": "Washington, D.C.",
+        "Title": "Agricultural Statistics 2008",
+        "URL": "http://www.nass.usda.gov/Publications/Ag_Statistics/2008/2008.pdf",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "4597",
+        "_uuid": "60a088ff-ad44-49a3-a132-58d0b2af208a",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/nass-agstat2008",
+    "href": "http://data.globalchange.gov/reference/60a088ff-ad44-49a3-a132-58d0b2af208a.json",
+    "identifier": "60a088ff-ad44-49a3-a132-58d0b2af208a",
+    "uri": "/reference/60a088ff-ad44-49a3-a132-58d0b2af208a"
+}

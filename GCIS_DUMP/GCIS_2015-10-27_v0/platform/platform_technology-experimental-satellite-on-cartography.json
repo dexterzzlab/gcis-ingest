@@ -1,0 +1,12 @@
+{
+    "description": "TES is an ISRO-developed experimental satellite in LEO to demonstrate and validate in-orbit technologies that could be used in the future satellites of ISRO (Indian Space Research Organization). A main goal is to carry out. However, the imagery is only being made available for Indian government and defense uses (test of an independent indigenous military photoreconnaissance capability; however, there is no commercial sale of TES imagery). The TES mission is classified.",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/t/tes",
+    "end_date": "2012-05-31T00:00:00",
+    "href": "http://data.globalchange.gov/platform/technology-experimental-satellite-on-cartography.json",
+    "identifier": "technology-experimental-satellite-on-cartography",
+    "name": "Technology Experimental Satellite on Cartography",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "2001-10-22T00:00:00",
+    "uri": "/platform/technology-experimental-satellite-on-cartography",
+    "url": "http://www.isro.org/"
+}

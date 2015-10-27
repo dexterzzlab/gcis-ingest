@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Velicogna, I.\rWahr, J.",
+        "DOI": "10.1002/grl.50527",
+        "ISSN": "1944-8007",
+        "Issue": "12",
+        "Journal": "Geophysical Research Letters",
+        "Keywords": "ice mass balance\rsea level\rtime variable gravity\r0762 Mass balance\r0758 Remote sensing\r1217 Time variable gravity\r1641 Sea level change",
+        "Pages": "3055-3063",
+        "Title": "Time-variable gravity observations of ice sheet mass balance: Precision and limitations of the GRACE satellite data",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1002/grl.50527/pdf",
+        "Volume": "40",
+        "Year": "2013",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "4267",
+        "_uuid": "b21d6677-8e22-4714-b8c3-9eac39a15cc0",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/grl.50527",
+    "href": "http://data.globalchange.gov/reference/b21d6677-8e22-4714-b8c3-9eac39a15cc0.json",
+    "identifier": "b21d6677-8e22-4714-b8c3-9eac39a15cc0",
+    "uri": "/reference/b21d6677-8e22-4714-b8c3-9eac39a15cc0"
+}

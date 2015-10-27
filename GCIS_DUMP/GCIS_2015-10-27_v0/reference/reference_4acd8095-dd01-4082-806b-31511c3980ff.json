@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Raynaud, Dominique\rBarnola, Jean-Marc\rSouchez, Roland\rLorrain, Reginald\rPetit, Jean-Robert\rDuval, Paul\rLipenkov, Vladimir Y.",
+        "DOI": "10.1038/43639b",
+        "ISSN": "0028-0836",
+        "Issue": "7047",
+        "Journal": "Nature",
+        "Pages": "39-40",
+        "Title": "Palaeoclimatology: The record for marine isotopic stage 11",
+        "Volume": "436",
+        "Year": "2005",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "2592",
+        "_uuid": "4acd8095-dd01-4082-806b-31511c3980ff",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/43639b",
+    "href": "http://data.globalchange.gov/reference/4acd8095-dd01-4082-806b-31511c3980ff.json",
+    "identifier": "4acd8095-dd01-4082-806b-31511c3980ff",
+    "uri": "/reference/4acd8095-dd01-4082-806b-31511c3980ff"
+}

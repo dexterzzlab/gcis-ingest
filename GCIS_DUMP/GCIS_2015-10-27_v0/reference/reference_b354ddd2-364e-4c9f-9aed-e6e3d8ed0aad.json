@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Wu, C.\rGonsamo, A.\rChen, J.M.\rKurz, W.A.\rPrice, D.T.\rLafleur, P.M.\rJassal, R.S.\rDragoni, D.\rBohrer, G.\rGough, C.M.\rVerma, S.B.\rSuyker, A.E.\rMunger, J.W.",
+        "DOI": "10.1016/j.gloplacha.2012.05.021",
+        "ISSN": "0921-8181",
+        "Journal": "Global and Planetary Change",
+        "Pages": "179-190",
+        "Title": "Interannual and spatial impacts of phenological transitions, growing season length, and spring and autumn temperatures on carbon sequestration: A North America flux data synthesis",
+        "Volume": "92-93",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\",\"RG 4 Great Plains\"]",
+        "_record_number": "3487",
+        "_uuid": "b354ddd2-364e-4c9f-9aed-e6e3d8ed0aad",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.gloplacha.2012.05.021",
+    "href": "http://data.globalchange.gov/reference/b354ddd2-364e-4c9f-9aed-e6e3d8ed0aad.json",
+    "identifier": "b354ddd2-364e-4c9f-9aed-e6e3d8ed0aad",
+    "uri": "/reference/b354ddd2-364e-4c9f-9aed-e6e3d8ed0aad"
+}

@@ -1,0 +1,9 @@
+{
+    "country_code": "UK",
+    "href": "http://data.globalchange.gov/organization/met-office-hadley-centre.json",
+    "identifier": "met-office-hadley-centre",
+    "name": "Met Office Hadley Centre",
+    "organization_type_identifier": "national",
+    "uri": "/organization/met-office-hadley-centre",
+    "url": "http://www.metoffice.gov.uk/climate-guide/science/science-behind-climate-change/hadley"
+}

@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/usgcrp-cities-2012.json",
+    "identifier": "usgcrp-cities-2012",
+    "in_library": null,
+    "publication_year": 2012,
+    "report_type_identifier": "technical_input",
+    "summary": null,
+    "title": "U.S. Cities and Climate Change: Urban, Infrastructure, and Vulnerability Issues, Technical Input Report Series, U.S. National Climate Assessment 2011-0101",
+    "topic": "Land Use & Land Cover,Water Resources,Infrastructure,Adaptation",
+    "uri": "/report/usgcrp-cities-2012",
+    "url": null
+}

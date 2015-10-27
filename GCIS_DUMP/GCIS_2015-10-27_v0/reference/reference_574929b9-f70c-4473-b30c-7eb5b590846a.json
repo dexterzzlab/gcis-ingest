@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "Springer-Verlag",
+        ".reference_type": "0",
+        "Author": "Silva, Humberto R.\rPhelan, Patrick E.\rGolden, Jay S.",
+        "DOI": "10.1007/s00484-009-0247-y",
+        "Date": "2010/01/01",
+        "ISSN": "0020-7128",
+        "Issue": "1",
+        "Journal": "International Journal of Biometeorology",
+        "Keywords": "Health vulnerability\rHeat wave\rUrban heat island\rMorbidity\rEmergency medical dispatch\rNumerical modeling",
+        "Language": "English",
+        "Pages": "13-22",
+        "Title": "Modeling effects of urban heat island mitigation strategies on heat-related morbidity: A case study for Phoenix, Arizona, USA",
+        "Volume": "54",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "4497",
+        "_uuid": "574929b9-f70c-4473-b30c-7eb5b590846a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s00484-009-0247-y",
+    "href": "http://data.globalchange.gov/reference/574929b9-f70c-4473-b30c-7eb5b590846a.json",
+    "identifier": "574929b9-f70c-4473-b30c-7eb5b590846a",
+    "uri": "/reference/574929b9-f70c-4473-b30c-7eb5b590846a"
+}

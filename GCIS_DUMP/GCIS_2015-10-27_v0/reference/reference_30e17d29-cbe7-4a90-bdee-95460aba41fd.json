@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Alvarez-Filip, L.\rDulvy, N.K.\rGill, J.A.\rC\u00f4t\u00e9, I.M.\rWatkinson, A.R.",
+        "DOI": "10.1098/rspb.2009.0339",
+        "ISSN": "0962-8452",
+        "Issue": "1669",
+        "Journal": "Proceedings of the Royal Society B: Biological Sciences",
+        "Pages": "3019-3025",
+        "Title": "Flattening of Caribbean coral reefs: Region-wide declines in architectural complexity",
+        "URL": "http://rspb.royalsocietypublishing.org/content/276/1669/3019.full.pdf+html",
+        "Volume": "276",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\",\"Appendix 1: Process FINAL\"]",
+        "_record_number": "706",
+        "_uuid": "30e17d29-cbe7-4a90-bdee-95460aba41fd",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1098/rspb.2009.0339",
+    "href": "http://data.globalchange.gov/reference/30e17d29-cbe7-4a90-bdee-95460aba41fd.json",
+    "identifier": "30e17d29-cbe7-4a90-bdee-95460aba41fd",
+    "uri": "/reference/30e17d29-cbe7-4a90-bdee-95460aba41fd"
+}

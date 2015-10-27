@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Anyamba, A.\rLinthicum, K.J.\rSmall, J.L.\rCollins, K.M.\rTucker, C.J.\rPak, E.W.\rBritch, S.C.\rEastman, J.R.\rPinzon, J.E.\rRussell, K.L.",
+        "DOI": "10.1371/journal.pntd.0001465",
+        "ISSN": "1935-2735",
+        "Issue": "1",
+        "Journal": "PLoS Neglected Tropical Diseases",
+        "Pages": "e1465",
+        "Title": "Climate teleconnections and recent patterns of human and animal disease outbreaks",
+        "Volume": "6",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "381",
+        "_uuid": "36688aa5-56eb-4990-a27e-063b3ec3b201",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1371/journal.pntd.0001465",
+    "href": "http://data.globalchange.gov/reference/36688aa5-56eb-4990-a27e-063b3ec3b201.json",
+    "identifier": "36688aa5-56eb-4990-a27e-063b3ec3b201",
+    "uri": "/reference/36688aa5-56eb-4990-a27e-063b3ec3b201"
+}

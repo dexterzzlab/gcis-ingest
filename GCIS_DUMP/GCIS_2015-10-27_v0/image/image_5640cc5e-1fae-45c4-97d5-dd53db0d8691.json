@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-10-21T14:15:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "This graph depicts the changes in carbon dioxide (CO<sub>2</sub>) emissions over time as a function of five driving forces: 1) the amount of CO<sub>2</sub> produced per unit of energy (CO<sub>2</sub> intensity); 2) the amount of energy used per unit of gross domestic product (energy intensity); 3) structural changes in the economy; 4) per capita income; and 5) population. Although CO<sub>2</sub> intensity and especially energy intensity have decreased significantly and the structure of the U.S. economy has changed, total CO<sub>2</sub> emissions have continued to rise as a result of the growth in both population and per capita income. (Baldwin and Sue Wing, 2013<tbib>4ae74fe5-51c5-4235-b9ab-3648489a2d9c</tbib>).",
+            "chapter_identifier": "mitigation",
+            "create_dt": "2013-10-21T14:15:00",
+            "identifier": "drivers-of-us-fossil-emissions",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 2,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Drivers of U.S. Fossil Emissions",
+            "url": "http://nca2014.globalchange.gov/report/response-strategies/mitigation/graphics/drivers-us-fossil-emissions",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "c8/4d/09f6e625adb24a235ec9bf1dea83/mitigation_fossil-emissions-patterns_v7.png",
+            "href": "http://data.globalchange.gov/assets/c8/4d/09f6e625adb24a235ec9bf1dea83/mitigation_fossil-emissions-patterns_v7.png",
+            "identifier": "50294ab8-82e7-48ed-9124-c2f7a0c527bc",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "8e6a966a3faa27da6090a5219d9e3d21e1fc367c",
+            "size": 41445,
+            "thumbnail": "c8/4d/09f6e625adb24a235ec9bf1dea83/.thumb-50294ab8-82e7-48ed-9124-c2f7a0c527bc.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/c8/4d/09f6e625adb24a235ec9bf1dea83/.thumb-50294ab8-82e7-48ed-9124-c2f7a0c527bc.png",
+            "uri": "/file/50294ab8-82e7-48ed-9124-c2f7a0c527bc",
+            "url": "/assets/c8/4d/09f6e625adb24a235ec9bf1dea83/mitigation_fossil-emissions-patterns_v7.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/5640cc5e-1fae-45c4-97d5-dd53db0d8691.json",
+    "identifier": "5640cc5e-1fae-45c4-97d5-dd53db0d8691",
+    "lat_max": "49.38",
+    "lat_min": "24.50",
+    "lon_max": "-66.95",
+    "lon_min": "-124.80",
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2008-12-31T23:59:59",
+    "time_start": "1963-01-01T00:00:00",
+    "title": "Drivers of U.S. Fossil Emissions",
+    "uri": "/image/5640cc5e-1fae-45c4-97d5-dd53db0d8691",
+    "url": null,
+    "usage_limits": null
+}

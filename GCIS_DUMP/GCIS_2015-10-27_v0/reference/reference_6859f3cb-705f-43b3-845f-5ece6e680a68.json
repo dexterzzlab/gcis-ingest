@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Rhodes, J.\rChan, C.\rPaxson, C.\rRouse, C.E.\rWaters, M.\rFussell, E.",
+        "DOI": "10.1111/j.1939-0025.2010.01027.x",
+        "ISSN": "1939-0025",
+        "Issue": "2",
+        "Journal": "American Journal of Orthopsychiatry",
+        "Pages": "237-247",
+        "Title": "The impact of Hurricane Katrina on the mental and physical health of low-income parents in New Orleans",
+        "Volume": "80",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "2627",
+        "_uuid": "6859f3cb-705f-43b3-845f-5ece6e680a68",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1939-0025.2010.01027.x",
+    "href": "http://data.globalchange.gov/reference/6859f3cb-705f-43b3-845f-5ece6e680a68.json",
+    "identifier": "6859f3cb-705f-43b3-845f-5ece6e680a68",
+    "uri": "/reference/6859f3cb-705f-43b3-845f-5ece6e680a68"
+}

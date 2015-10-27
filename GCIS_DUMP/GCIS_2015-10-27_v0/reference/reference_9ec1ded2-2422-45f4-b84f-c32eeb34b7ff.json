@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Many biological, hydrological, and geological processes are interactively linked in ecosystems. These ecological phenomena normally vary within bounded ranges, but rapid, nonlinear changes to markedly different conditions can be triggered by even small differences if threshold values arc exceeded. Intrinsic and extrinsic ecological thresholds can lead to effects that cascade among systems, precluding accurate modeling and prediction of system response to climate change. Ten case studies from North America illustrate how charges in climate can lead to rapid, threshold-type responses within ecological communities;, the case studies also highlight the role of human activities that alter the rate or direction of system response to climate change. Understanding and anticipating nonlinear dynamics are important aspects of adaptation planning since responses of biological resources to changes in the physical climate system are not necessarily proportional and sometimes, as in the case of complex ecological systems, inherently nonlinear. Published by Elsevier B.V.",
+        "Accession Number": "254",
+        "Author": "Burkett, V.R.\rWilcox, D.A.\rStottlemyer, R.\rBarrow, W.\rFagre, D.\rBaron, J.\rPrice, J.\rNielsen, J.L.\rAllen, C.D.\rPeterson, D.L.\rRuggerone, G.\rDoyle, T.",
+        "Author Address": "Burkett, VR (reprint author), US Geol Survey, Natl Wetlands Res Ctr, 700 Cajundome Blvd, Lafayette, LA 70506 USA; US Geol Survey, Natl Wetlands Res Ctr, Lafayette, LA 70506 USA; US Geol Survey, Great Lakes Sci Ctr, Ann Arbor, MI 48105 USA; US Geol Survey, Ft Collins Sci Ctr, Ft Collins, CO 80526 USA; US Geol Survey, Glacier Natl Pk Headquaters, W Glacier, MT 59936 USA; US Geol Survey, Ft Collins Sci Ctr, Ft Collins, CO 80523 USA; Colorado State Univ, Nat Resource Ecol Lab, Ft Collins, CO 80523 USA; Calif State Univ Los Angeles, Dept Geol & Environm Sci, Chico, CA 95929 USA; US Geol Survey, Alaska Sci Ctr, Anchorage, AK 99503 USA; US Geol Survey, Ft Collins Sci Ctr, Jemez Mt Field Stn, Los Alamos, NM 87544 USA; US Forest Serv, Pacific NW Res Stn, Seattle, WA USA; Nat Resources Consultants Inc, Seattle, WA 98119 USA",
+        "DOI": "10.1016/j.ecocom.2005.04.010",
+        "Date": "DEC 2005",
+        "ISSN": "1476-945X",
+        "Issue": "4",
+        "Journal": "Ecological Complexity",
+        "Keywords": "nonlinear dynamics; thresholds; ecosystems; climate change; natural resource management; GLACIER-NATIONAL-PARK; CHINESE TALLOW TREE; WESTERN NORTH-AMERICA; SUB-ARCTIC QUEBEC; SEBIFERUM L ROXB; SALMON O-NERKA; SAPIUM-SEBIFERUM; SOCKEYE-SALMON; LAKE-LEVEL; VEGETATION DYNAMICS",
+        "Language": "English",
+        "Pages": "357-394",
+        "Title": "Nonlinear dynamics in ecosystem response to climatic change: Case studies and policy implications",
+        "URL": "http://www.fs.fed.us/psw/cirmount/wkgrps/ecosys_resp/postings/pdf/Burkett2005EcoCom357.pdf",
+        "Volume": "2",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "1180",
+        "_uuid": "9ec1ded2-2422-45f4-b84f-c32eeb34b7ff",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.ecocom.2005.04.010",
+    "href": "http://data.globalchange.gov/reference/9ec1ded2-2422-45f4-b84f-c32eeb34b7ff.json",
+    "identifier": "9ec1ded2-2422-45f4-b84f-c32eeb34b7ff",
+    "uri": "/reference/9ec1ded2-2422-45f4-b84f-c32eeb34b7ff"
+}

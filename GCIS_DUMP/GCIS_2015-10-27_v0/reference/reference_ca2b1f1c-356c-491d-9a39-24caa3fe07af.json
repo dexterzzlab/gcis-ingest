@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Graham-Rowe, D.",
+        "DOI": "10.1038/474S06a",
+        "ISSN": "0028-0836",
+        "Issue": "7352",
+        "Journal": "Nature",
+        "Pages": "S6-S8",
+        "Title": "Agriculture: Beyond food versus fuel",
+        "URL": "http://www.nature.com/nature/journal/v474/n7352_supp/full/474S06a.html",
+        "Volume": "474",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 10: Energy Water Land FINAL\"]",
+        "_record_number": "58",
+        "_uuid": "ca2b1f1c-356c-491d-9a39-24caa3fe07af",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/474S06a",
+    "href": "http://data.globalchange.gov/reference/ca2b1f1c-356c-491d-9a39-24caa3fe07af.json",
+    "identifier": "ca2b1f1c-356c-491d-9a39-24caa3fe07af",
+    "uri": "/reference/ca2b1f1c-356c-491d-9a39-24caa3fe07af"
+}

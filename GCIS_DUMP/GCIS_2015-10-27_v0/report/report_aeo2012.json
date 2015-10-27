@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/aeo2012.json",
+    "identifier": "aeo2012",
+    "in_library": null,
+    "publication_year": 2012,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Annual Energy Outlook 2012 with Projections to 2035. DOE/EIA-0383(2012)",
+    "topic": null,
+    "uri": "/report/aeo2012",
+    "url": "http://www.eia.gov/forecasts/archive/aeo12/index.cfm"
+}

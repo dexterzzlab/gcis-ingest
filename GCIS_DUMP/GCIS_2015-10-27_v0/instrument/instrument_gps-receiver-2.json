@@ -1,0 +1,8 @@
+{
+    "description": "GNSS receiver",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/gps-receiver-2.json",
+    "identifier": "gps-receiver-2",
+    "name": "GPS Receiver",
+    "uri": "/instrument/gps-receiver-2"
+}

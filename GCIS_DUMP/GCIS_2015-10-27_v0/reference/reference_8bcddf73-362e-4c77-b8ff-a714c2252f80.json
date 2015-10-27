@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "32",
+        "Author": "EPA,",
+        "Department": "Office of Research and Development, Office of Water",
+        "Pages": "368",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "U.S. Environmental Protection Agency",
+        "Report Number": "EPA-842-R-10-003",
+        "Title": "National Coastal Condition Report IV",
+        "URL": "http://water.epa.gov/type/oceb/assessmonitor/nccr/upload/NCCR4-Report.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "1148",
+        "_uuid": "8bcddf73-362e-4c77-b8ff-a714c2252f80",
+        "reftype": "Government Document"
+    },
+    "child_publication": "/report/epa-842-r-10-003",
+    "href": "http://data.globalchange.gov/reference/8bcddf73-362e-4c77-b8ff-a714c2252f80.json",
+    "identifier": "8bcddf73-362e-4c77-b8ff-a714c2252f80",
+    "uri": "/reference/8bcddf73-362e-4c77-b8ff-a714c2252f80"
+}

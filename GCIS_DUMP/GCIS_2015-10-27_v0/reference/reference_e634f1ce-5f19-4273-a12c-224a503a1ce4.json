@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Grannis, J.",
+        "Institution": "Georgetown Climate Center",
+        "Pages": "100",
+        "Place Published": "Washington, D.C.",
+        "Title": "Adaptation Tool Kit: Sea-Level Rise and Coastal Land Use. How Governments Can Use Land-Use Practices to Adapt to Sea-Level Rise",
+        "URL": "http://www.georgetownclimate.org/sites/default/files/Adaptation_Tool_Kit_SLR.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"Ch. 28: Adaptation FINAL\",\"RF 12\"]",
+        "_record_number": "40",
+        "_uuid": "e634f1ce-5f19-4273-a12c-224a503a1ce4",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/georgetowncc-adaptation-2011",
+    "href": "http://data.globalchange.gov/reference/e634f1ce-5f19-4273-a12c-224a503a1ce4.json",
+    "identifier": "e634f1ce-5f19-4273-a12c-224a503a1ce4",
+    "uri": "/reference/e634f1ce-5f19-4273-a12c-224a503a1ce4"
+}

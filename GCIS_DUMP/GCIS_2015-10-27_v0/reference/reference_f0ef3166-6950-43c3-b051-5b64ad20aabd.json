@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Christidis, N.\rStott, P.A.\rJones, G.S.\rShiogama, H.\rNozawa, T.\rLuterbacher, J.",
+        "DOI": "10.1002/jov.2262",
+        "ISSN": "1097-0088",
+        "Issue": "2",
+        "Journal": "International Journal of Climatology",
+        "Pages": "225-239",
+        "Title": "Human activity and anomalously warm seasons in Europe",
+        "Volume": "32",
+        "Year": "2012",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "859",
+        "_uuid": "f0ef3166-6950-43c3-b051-5b64ad20aabd",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/joc.2262",
+    "href": "http://data.globalchange.gov/reference/f0ef3166-6950-43c3-b051-5b64ad20aabd.json",
+    "identifier": "f0ef3166-6950-43c3-b051-5b64ad20aabd",
+    "uri": "/reference/f0ef3166-6950-43c3-b051-5b64ad20aabd"
+}

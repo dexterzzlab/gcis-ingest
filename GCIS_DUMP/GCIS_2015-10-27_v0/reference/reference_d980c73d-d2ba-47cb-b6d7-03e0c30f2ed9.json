@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "CCSP,",
+        "Editor": "King, A.W.\rL. Dilling\rG.P. Zimmerman\rD.M. Fairman\rR.A. Houghton\rG.H. Marland\rA.Z. Rose\rT.J. Wilbanks",
+        "Number of Pages": "242",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "U.S. Climate Change Science Program",
+        "Reviewer": "d980c73d-d2ba-47cb-b6d7-03e0c30f2ed9",
+        "Title": "The First State of the Carbon Cycle Report (SOCCR): The North American Carbon Budget and Implications for the Global Carbon Cycle. A Report by the U.S. Climate Change Science Program and the Subcommittee on Global Change Research. U.S. Climate Change Science Program Synthesis and Assessment Product 2.2",
+        "URL": "http://cdiac.ornl.gov/SOCCR/pdf/sap2-2-final-all.pdf",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\",\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "703",
+        "_uuid": "d980c73d-d2ba-47cb-b6d7-03e0c30f2ed9",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/ccsp-sap-2_2-2007",
+    "href": "http://data.globalchange.gov/reference/d980c73d-d2ba-47cb-b6d7-03e0c30f2ed9.json",
+    "identifier": "d980c73d-d2ba-47cb-b6d7-03e0c30f2ed9",
+    "uri": "/reference/d980c73d-d2ba-47cb-b6d7-03e0c30f2ed9"
+}

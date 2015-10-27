@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/federal-aviation-administration.json",
+    "identifier": "federal-aviation-administration",
+    "name": "Federal Aviation Adminstration",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/federal-aviation-administration",
+    "url": "http://www.faa.gov"
+}

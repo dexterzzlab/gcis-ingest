@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Kroeker, Kristy J.\rKordas, Rebecca L.\rCrim, Ryan\rHendriks, Iris E.\rRamajo, Laura\rSingh, Gerald S.\rDuarte, Carlos M.\rGattuso, Jean-Pierre",
+        "DOI": "10.1111/gcb.12179",
+        "ISSN": "1365-2486",
+        "Issue": "6",
+        "Journal": "Global Change Biology",
+        "Keywords": "calcification\rcarbonate chemistry\rclimate change\rcumulative effects\rpH",
+        "Pages": "1884-1896",
+        "Title": "Impacts of ocean acidification on marine organisms: Quantifying sensitivities and interaction with warming",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/gcb.12179/pdf",
+        "Volume": "19",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\",\"RF 11\"]",
+        "_record_number": "4382",
+        "_uuid": "d3f2fc9b-6acf-48b0-b5d1-0f8c620e7f35",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/gcb.12179",
+    "href": "http://data.globalchange.gov/reference/d3f2fc9b-6acf-48b0-b5d1-0f8c620e7f35.json",
+    "identifier": "d3f2fc9b-6acf-48b0-b5d1-0f8c620e7f35",
+    "uri": "/reference/d3f2fc9b-6acf-48b0-b5d1-0f8c620e7f35"
+}

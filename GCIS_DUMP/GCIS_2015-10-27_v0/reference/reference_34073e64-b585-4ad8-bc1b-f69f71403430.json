@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "U.S. Bureau of Economic Analysis,",
+        "Date": "September",
+        "Issue": "9",
+        "Journal": "Survey of Current Business",
+        "Pages": "27-40",
+        "Title": "Fixed assets and consumer durable goods for 1997\u20132010",
+        "URL": "https://www.bea.gov/scb/pdf/2011/09%20September/0911_fixed-assets.pdf",
+        "Volume": "91",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 5: Transportation FINAL\"]",
+        "_record_number": "3116",
+        "_uuid": "34073e64-b585-4ad8-bc1b-f69f71403430",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/report/bea-fixed-assets-consumer-durable-goods-1997-2010",
+    "href": "http://data.globalchange.gov/reference/34073e64-b585-4ad8-bc1b-f69f71403430.json",
+    "identifier": "34073e64-b585-4ad8-bc1b-f69f71403430",
+    "uri": "/reference/34073e64-b585-4ad8-bc1b-f69f71403430"
+}

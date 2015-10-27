@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".publisher": "Springer Netherlands",
+        ".reference_type": "0",
+        "Abstract": "This study develops and tests a Modified Climate Index for Tourism (MCIT) utilizing more than 50 years of hourly temperature, wind and significant weather data from contrasting climatic regions, Florida and Alaska. The index measures climate as a tourism resource by combining several tourism-related climate elements. It improves previous methods by incorporating variables that are more relevant to tourism activities, by addressing the overriding nature of some conditions, and by incorporating hourly observations rather than simple daily averages. The MCIT was tested using hourly weather observations from King Salmon, Alaska and Orlando, Florida. The results show that average temperature alone is not sufficient to represent tourism climate resources. For example, at both the Florida and Alaskan sites, showers and thunderstorms are more limiting factors than temperature during much of the year. When applied to past climate data, the proposed MCIT generates meaningful results that capture tourism-related climate variations and trends, including (a) the increasingly favorable tourism conditions in Alaska due to a lengthening of the warm season and (b) a decrease of ideal climatic conditions in central Florida due to the increased summer temperatures. Thus, the index has the potential to become a useful quantitative tool to be used in conjunction with climate models to predict the nature and magnitude of the impact of anticipated climate changes on tourism.",
+        "Author": "Yu, Gongmei\rSchwartz, Zvi\rWalsh, J.E.\rChapman, W.L.",
+        "DOI": "10.1007/s10584-009-9565-7",
+        "ISSN": "0165-0009",
+        "Issue": "3",
+        "Journal": "Climatic Change",
+        "Keywords": "Earth and Environmental Science",
+        "Pages": "551-573",
+        "Title": "A weather-resolving index for assessing the impact of climate change on tourism related climate resources",
+        "Volume": "95",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\",\"Ch. 3: Water Resources FINAL\",\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "3517",
+        "_uuid": "43da51bd-b161-4454-8a9a-cefff6c0d3af",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-009-9565-7",
+    "href": "http://data.globalchange.gov/reference/43da51bd-b161-4454-8a9a-cefff6c0d3af.json",
+    "identifier": "43da51bd-b161-4454-8a9a-cefff6c0d3af",
+    "uri": "/reference/43da51bd-b161-4454-8a9a-cefff6c0d3af"
+}

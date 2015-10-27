@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".publisher": "Society for Range Management",
+        ".reference_type": "0",
+        "Access Date": "2013/08/01",
+        "Author": "Abatzoglou, John T.\rKolden, Crystal A.",
+        "DOI": "10.2111/rem-d-09-00151.1",
+        "Date": "2011/09/01",
+        "ISSN": "1550-7424",
+        "Issue": "5",
+        "Journal": "Rangeland Ecology & Management",
+        "Pages": "471-478",
+        "Title": "Climate change in western US deserts: Potential for increased wildfire and invasive annual grasses",
+        "Volume": "64",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"RG 5 Southwest\"]",
+        "_record_number": "4014",
+        "_uuid": "8a5e1f05-f682-4209-966e-bfc6b87b04bd",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.2111/rem-d-09-00151.1",
+    "href": "http://data.globalchange.gov/reference/8a5e1f05-f682-4209-966e-bfc6b87b04bd.json",
+    "identifier": "8a5e1f05-f682-4209-966e-bfc6b87b04bd",
+    "uri": "/reference/8a5e1f05-f682-4209-966e-bfc6b87b04bd"
+}

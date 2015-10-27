@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Hood, Eran\rScott, Durelle",
+        "DOI": "10.1038/ngeo280",
+        "ISSN": "1752-0894, 1752-0908",
+        "Issue": "9",
+        "Journal": "Nature Geoscience",
+        "Pages": "583-587",
+        "Title": "Riverine organic matter and nutrients in\u00a0southeast Alaska affected by glacial\u00a0coverage",
+        "URL": "http://www.nature.com/doifinder/10.1038/ngeo280",
+        "Volume": "1",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "3576",
+        "_uuid": "a955e6c1-f593-435f-aea3-61fc83bfd7b8",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/ngeo280",
+    "href": "http://data.globalchange.gov/reference/a955e6c1-f593-435f-aea3-61fc83bfd7b8.json",
+    "identifier": "a955e6c1-f593-435f-aea3-61fc83bfd7b8",
+    "uri": "/reference/a955e6c1-f593-435f-aea3-61fc83bfd7b8"
+}

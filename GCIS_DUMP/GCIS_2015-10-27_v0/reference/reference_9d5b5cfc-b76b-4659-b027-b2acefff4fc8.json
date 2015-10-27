@@ -1,0 +1,17 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Author": "U.S. Census Bureau,",
+        "Title": "Decennial Census of Population 1900-2000, 2010 Census Summary File 1",
+        "URL": "http://www.census.gov/population/www/censusdata/hiscendata.html",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "3127",
+        "_uuid": "9d5b5cfc-b76b-4659-b027-b2acefff4fc8",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/26625ddf-dd19-4dd1-a35d-33c68c5b2d6e",
+    "href": "http://data.globalchange.gov/reference/9d5b5cfc-b76b-4659-b027-b2acefff4fc8.json",
+    "identifier": "9d5b5cfc-b76b-4659-b027-b2acefff4fc8",
+    "uri": "/reference/9d5b5cfc-b76b-4659-b027-b2acefff4fc8"
+}

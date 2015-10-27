@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2012-12-28T11:22:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "The duration, or number of days, of ice cover on Lake Mendota, Wisconsin, has decreased over time. The 10 longest ice seasons are marked by blue circles, and the 11 shortest ice seasons are marked by red circles. Seven of the 10 shortest ice cover seasons have occurred since 1980. (Figure source: Kunkel et al. 2013<tbib>95f2ea7d-12e3-4ed5-9247-7cf139db91a9</tbib>).",
+            "chapter_identifier": "appendix-climate-science-supplement",
+            "create_dt": "2012-12-28T11:22:00",
+            "identifier": "ice-cover-on-lake-mendota",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 29,
+            "report_identifier": "nca3",
+            "source_citation": "Kunkel et al. 2013<tbib>95f2ea7d-12e3-4ed5-9247-7cf139db91a9</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Ice Cover on Lake Mendota",
+            "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/ice-cover-lake-mendota",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "cd/38/901aec498a9593949bfbf3786bac/app_lake_mendota_ice_cover_v2.png",
+            "href": "http://data.globalchange.gov/assets/cd/38/901aec498a9593949bfbf3786bac/app_lake_mendota_ice_cover_v2.png",
+            "identifier": "5a6bb20b-ca02-470c-8ff5-153000fd6800",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "afac62d20165e5dfe47dec22ab61b01d4e84bb38",
+            "size": 87823,
+            "thumbnail": "cd/38/901aec498a9593949bfbf3786bac/.thumb-5a6bb20b-ca02-470c-8ff5-153000fd6800.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/cd/38/901aec498a9593949bfbf3786bac/.thumb-5a6bb20b-ca02-470c-8ff5-153000fd6800.png",
+            "uri": "/file/5a6bb20b-ca02-470c-8ff5-153000fd6800",
+            "url": "/assets/cd/38/901aec498a9593949bfbf3786bac/app_lake_mendota_ice_cover_v2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/1c7006bd-8042-46a0-b622-ed7c15a3334c.json",
+    "identifier": "1c7006bd-8042-46a0-b622-ed7c15a3334c",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2012-12-31T23:59:59",
+    "time_start": "1850-01-01T00:00:00",
+    "title": "Ice Cover on Lake Mendota",
+    "uri": "/image/1c7006bd-8042-46a0-b622-ed7c15a3334c",
+    "url": null,
+    "usage_limits": null
+}

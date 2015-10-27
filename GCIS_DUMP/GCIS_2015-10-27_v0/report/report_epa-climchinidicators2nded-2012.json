@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/epa-climchinidicators2nded-2012.json",
+    "identifier": "epa-climchinidicators2nded-2012",
+    "in_library": null,
+    "publication_year": 2012,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Climate Change Indicators in the United States, 2012",
+    "topic": null,
+    "uri": "/report/epa-climchinidicators2nded-2012",
+    "url": "http://www.epa.gov/climatechange/pdfs/climateindicators-full-2012.pdf"
+}

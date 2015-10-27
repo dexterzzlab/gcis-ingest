@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Mackun, P. \rWilson, S.\rFischetti, T.R.\rGoworowska, J.",
+        "Institution": "U.S. Department of Commerce, Economics and Statistics Administration, U.S. Census Bureau",
+        "Pages": "12",
+        "Title": "Population Distribution and Change: 2000 to 2010",
+        "URL": "http://www.census.gov/prod/cen2010/briefs/c2010br-01.pdf",
+        "Year": "2010",
+        "_chapter": "[\"RG 2 Southeast\",\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "3125",
+        "_uuid": "b1b29b8f-3970-4d30-9ee6-bf91ee0cbd58",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/census-c2010br-01",
+    "href": "http://data.globalchange.gov/reference/b1b29b8f-3970-4d30-9ee6-bf91ee0cbd58.json",
+    "identifier": "b1b29b8f-3970-4d30-9ee6-bf91ee0cbd58",
+    "uri": "/reference/b1b29b8f-3970-4d30-9ee6-bf91ee0cbd58"
+}

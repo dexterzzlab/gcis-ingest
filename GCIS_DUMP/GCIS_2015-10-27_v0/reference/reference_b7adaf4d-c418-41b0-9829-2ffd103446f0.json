@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Barrett, J.\rRose, J.\rDeonarine, A.\rClemetson, A.\rPagach, J.\rParker, M. \rTedesco, M.",
+        "Institution": "U.S. Environmental Protection Agency",
+        "Pages": "139",
+        "Place Published": "Stamford, CT",
+        "Title": "Sentinel Monitoring for Climate Change in the Long Island Sound Estuarine and Coastal Ecosystems of New York and Connecticut",
+        "URL": "http://longislandsoundstudy.net/wp-content/uploads/2011/04/LIS_SMstrategy_v1.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "1526",
+        "_uuid": "b7adaf4d-c418-41b0-9829-2ffd103446f0",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/epa-sentinel-2011",
+    "href": "http://data.globalchange.gov/reference/b7adaf4d-c418-41b0-9829-2ffd103446f0.json",
+    "identifier": "b7adaf4d-c418-41b0-9829-2ffd103446f0",
+    "uri": "/reference/b7adaf4d-c418-41b0-9829-2ffd103446f0"
+}

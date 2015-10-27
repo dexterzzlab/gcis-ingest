@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Streamflow declines on the Great Plains of the US are causing many Federal reservoirs to become profoundly inefficient, and will eventually drive them into unsustainability as negative annual reservoir water budgets become more common. The streamflow declines are historically related to groundwater mining, but since the mid-1980s correlate increasingly with climate. This study highlights that progression toward unsustainability, and shows that future climate change will continue streamflow declines at historical rates, with severe consequences for surface water supply.; ; An object lesson is Optima Lake in the Oklahoma Panhandle, where streamflows have declined 99% since the 1960s and the reservoir has never been more than 5% full. Water balances for the four westernmost Federal reservoirs in Kansas (Cedar Bluff, Keith Sebelius, Webster and Kirwin) show similar tendencies. For these four, reservoir inflow has declined by 92%, 73%, 81% and 64% respectively since the 1950s. Since 1990 total evaporated volumes relative to total inflows amounted to 68%, 83%, 24% and 44% respectively.; ; Predictions of streamflow and reservoir performance based on climate change models indicate 70% chance of steady decline after 2007, with a \u223c50% chance of failure (releases by gravity flow impossible) of Cedar Bluff Reservoir between 2007 and 2050. Paradoxically, a 30% chance of storage increase prior 2020 is indicated, followed by steady declines through 2100. Within 95% confidence the models predict >50% decline in surface water resources between 2007 and 2050. Ultimately, surface storage of water resources may prove unsustainable in this region, forcing conversion to subsurface storage.",
+        "Author": "Brikowski, T.H.",
+        "DOI": "10.1016/j.jhydrol.2008.02.020",
+        "ISSN": "0022-1694",
+        "Issue": "1-4",
+        "Journal": "Journal of Hydrology",
+        "Keywords": "Global climate change; ; Arid zones; ; Water supply; ; Groundwater mining",
+        "Pages": "90-101",
+        "Title": "Doomed reservoirs in Kansas, USA? Climate change and groundwater mining on the Great Plains lead to unsustainable surface water storage",
+        "Volume": "354",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "538",
+        "_uuid": "1e9e830a-b4e4-4a40-8390-5013027453d8",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.jhydrol.2008.02.020",
+    "href": "http://data.globalchange.gov/reference/1e9e830a-b4e4-4a40-8390-5013027453d8.json",
+    "identifier": "1e9e830a-b4e4-4a40-8390-5013027453d8",
+    "uri": "/reference/1e9e830a-b4e4-4a40-8390-5013027453d8"
+}

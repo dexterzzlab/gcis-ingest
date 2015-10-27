@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Berner, J.\rFurgal, C.\rP. Bjerregaard\rM. Bradley\rT. Curtis\rE. De Fabo\rJ. Hassi\rW. Keatinge\rS. Kvernmo\rS. Nayha\rH. Rintamaki\rJ. Warren",
+        "Book Title": "Arctic Climate Impact Assessment",
+        "Keywords": "Human health",
+        "Pages": "863-906",
+        "Place Published": "Cambridge, UK",
+        "Publisher": "Cambridge University Press",
+        "Reviewer": "a6856e1f-e371-40f1-83d0-bce369e2289f",
+        "Title": "Ch. 15: Human Health",
+        "URL": "http://www.acia.uaf.edu/PDFs/ACIA_Science_Chapters_Final/ACIA_Ch15_Final.pdf",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "860",
+        "_uuid": "a6856e1f-e371-40f1-83d0-bce369e2289f",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/b5006d04-ec3d-4d44-b2a7-e839ceb2b98b",
+    "href": "http://data.globalchange.gov/reference/a6856e1f-e371-40f1-83d0-bce369e2289f.json",
+    "identifier": "a6856e1f-e371-40f1-83d0-bce369e2289f",
+    "uri": "/reference/a6856e1f-e371-40f1-83d0-bce369e2289f"
+}

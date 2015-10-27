@@ -1,0 +1,12 @@
+{
+    "description": "RADARSAT-1 is the first Canadian developed and commercially operated Earth observation satellite with the objective to monitor environmental change and the planet's natural resources in the microwave region. The observational SAR data is useful to both commercial and scientific users in such fields as disaster management, interferometry, agriculture, cartography, hydrology, forestry, oceanography, ice studies and coastal monitoring. The cooperative project involves the Canadian government under the aegis of CSA (Canadian Space Agency), and the private sector. NASA is a partner in the mission, providing launch services; in exchange, NASA is receiving RADARSAT data at ASF (Alaska SAR Facility), Fairbanks, Alaska.",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/r/radarsat-1",
+    "end_date": "2013-03-29T00:00:00",
+    "href": "http://data.globalchange.gov/platform/radarsat-1.json",
+    "identifier": "radarsat-1",
+    "name": "RADARSAT-1",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "1995-11-04T00:00:00",
+    "uri": "/platform/radarsat-1",
+    "url": "http://www.asc-csa.gc.ca/eng/satellites/radarsat1/default.asp"
+}

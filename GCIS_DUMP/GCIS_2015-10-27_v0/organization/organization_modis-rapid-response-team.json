@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/modis-rapid-response-team.json",
+    "identifier": "modis-rapid-response-team",
+    "name": "MODIS Rapid Response Team",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/modis-rapid-response-team",
+    "url": "https://earthdata.nasa.gov/data/near-real-time-data/rapid-response"
+}

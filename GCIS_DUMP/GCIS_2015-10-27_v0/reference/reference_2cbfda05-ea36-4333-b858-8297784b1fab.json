@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Ebi, K.L.\rKovats, R.S.\rMenne, B.",
+        "DOI": "10.1289/ehp.8430",
+        "Issue": "12",
+        "Journal": "Environmental Health Perspectives",
+        "Pages": "1930-1934",
+        "Title": "An approach for assessing human health vulnerability and public health interventions to adapt to climate change",
+        "URL": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1764166",
+        "Volume": "114",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "98",
+        "_uuid": "2cbfda05-ea36-4333-b858-8297784b1fab",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1289/ehp.8430",
+    "href": "http://data.globalchange.gov/reference/2cbfda05-ea36-4333-b858-8297784b1fab.json",
+    "identifier": "2cbfda05-ea36-4333-b858-8297784b1fab",
+    "uri": "/reference/2cbfda05-ea36-4333-b858-8297784b1fab"
+}

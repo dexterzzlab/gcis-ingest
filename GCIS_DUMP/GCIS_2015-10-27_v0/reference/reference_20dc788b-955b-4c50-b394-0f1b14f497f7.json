@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Hermans, Leon\rDaniel Renault \rLucy Emerton\rDani\u00e8le Perrot-Ma\u00eetre\rSophie Nguyen-Khoa\rLaurence Smith",
+        "ISBN": "92-5-105477-0",
+        "Place Published": "Rome",
+        "Publisher": "United Nations, Food and Agriculture Organization",
+        "Reviewer": "20dc788b-955b-4c50-b394-0f1b14f497f7",
+        "Title": "Stakeholder-Oriented Valuation to Support Water Resources Management Processes: Confronting Concepts with Local Practice. FAO Water Reports 30",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4056",
+        "_uuid": "20dc788b-955b-4c50-b394-0f1b14f497f7",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/fao-water-reports-30",
+    "href": "http://data.globalchange.gov/reference/20dc788b-955b-4c50-b394-0f1b14f497f7.json",
+    "identifier": "20dc788b-955b-4c50-b394-0f1b14f497f7",
+    "uri": "/reference/20dc788b-955b-4c50-b394-0f1b14f497f7"
+}

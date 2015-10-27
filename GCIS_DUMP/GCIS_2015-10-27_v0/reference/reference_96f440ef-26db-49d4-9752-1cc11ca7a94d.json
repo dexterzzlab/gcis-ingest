@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".publisher": "Routledge",
+        ".reference_type": "0",
+        "Access Date": "2013/10/31",
+        "Author": "Slovic, Paul\rFischhoff, Baruch\rLichtenstein, Sarah",
+        "DOI": "10.1080/00139157.1979.9933091",
+        "Date": "1979/04/01",
+        "ISSN": "0013-9157",
+        "Issue": "3",
+        "Journal": "Environment: Science and Policy for Sustainable Development",
+        "Pages": "14-39",
+        "Title": "Rating the risks",
+        "Volume": "21",
+        "Year": "1979",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4465",
+        "_uuid": "96f440ef-26db-49d4-9752-1cc11ca7a94d",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1080/00139157.1979.9933091",
+    "href": "http://data.globalchange.gov/reference/96f440ef-26db-49d4-9752-1cc11ca7a94d.json",
+    "identifier": "96f440ef-26db-49d4-9752-1cc11ca7a94d",
+    "uri": "/reference/96f440ef-26db-49d4-9752-1cc11ca7a94d"
+}

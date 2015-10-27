@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "West, J.W.",
+        "DOI": "10.3168/jds.S0022-0302(03)73803-X",
+        "ISSN": "0022-0302",
+        "Issue": "6",
+        "Journal": "Journal of Dairy Science",
+        "Pages": "2131-2144",
+        "Title": "Effects of heat-stress on production in dairy cattle",
+        "Volume": "86",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "3391",
+        "_uuid": "0fd487bb-27ef-4b45-b7b0-5294ad11cfac",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.3168/jds.S0022-0302(03)73803-X",
+    "href": "http://data.globalchange.gov/reference/0fd487bb-27ef-4b45-b7b0-5294ad11cfac.json",
+    "identifier": "0fd487bb-27ef-4b45-b7b0-5294ad11cfac",
+    "uri": "/reference/0fd487bb-27ef-4b45-b7b0-5294ad11cfac"
+}

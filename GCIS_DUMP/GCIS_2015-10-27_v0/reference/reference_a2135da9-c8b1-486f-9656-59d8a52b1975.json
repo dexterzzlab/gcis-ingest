@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "9",
+        "Editor": "Dalton, M. M.\rPhilip Mote\rA. K. Snover",
+        "ISBN": "9781610914284",
+        "Number of Pages": "224",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "Island Press",
+        "Title": "Climate Change in the Northwest: Implications for Our Landscapes, Waters, And Communities",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "3849",
+        "_uuid": "a2135da9-c8b1-486f-9656-59d8a52b1975",
+        "reftype": "Edited Book"
+    },
+    "child_publication": "/report/usgcrp-ti-climatechange-northwest-2013",
+    "href": "http://data.globalchange.gov/reference/a2135da9-c8b1-486f-9656-59d8a52b1975.json",
+    "identifier": "a2135da9-c8b1-486f-9656-59d8a52b1975",
+    "uri": "/reference/a2135da9-c8b1-486f-9656-59d8a52b1975"
+}

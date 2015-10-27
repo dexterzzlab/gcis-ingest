@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Dudgeon, S.R.\rAronson, R.B.\rBruno, J.F.\rPrecht, W.F.",
+        "DOI": "10.3354/meps08751",
+        "ISSN": "0171-8630",
+        "Journal": "Marine Ecology Progress Series",
+        "Pages": "201-216",
+        "Title": "Phase shifts and stable states on coral reefs",
+        "URL": "http://johnfbruno.web.unc.edu/files/2011/11/Dudgeon-et-al-MEPS-ASS-2010.pdf",
+        "Volume": "413",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\",\"Appendix 1: Process FINAL\"]",
+        "_record_number": "1259",
+        "_uuid": "b78bfacb-e00f-4af6-8ad7-dff157f8b8b4",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.3354/meps08751",
+    "href": "http://data.globalchange.gov/reference/b78bfacb-e00f-4af6-8ad7-dff157f8b8b4.json",
+    "identifier": "b78bfacb-e00f-4af6-8ad7-dff157f8b8b4",
+    "uri": "/reference/b78bfacb-e00f-4af6-8ad7-dff157f8b8b4"
+}

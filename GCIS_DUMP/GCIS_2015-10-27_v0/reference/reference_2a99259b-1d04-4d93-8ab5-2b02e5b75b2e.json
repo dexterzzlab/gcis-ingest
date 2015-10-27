@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Dennekamp, M.\rCarey, M.",
+        "DOI": "10.1071/NB10026",
+        "ISSN": "1834-8610",
+        "Issue": "5 & 6",
+        "Journal": "New South Wales Public Health Bulletin",
+        "Pages": "115-121",
+        "Title": "Air quality and chronic disease: Why action on climate change is also good for health",
+        "URL": "http://www.publish.csiro.au/?act=view_file&file_id=NB10026.pdf",
+        "Volume": "21",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "62",
+        "_uuid": "2a99259b-1d04-4d93-8ab5-2b02e5b75b2e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1071/NB10026",
+    "href": "http://data.globalchange.gov/reference/2a99259b-1d04-4d93-8ab5-2b02e5b75b2e.json",
+    "identifier": "2a99259b-1d04-4d93-8ab5-2b02e5b75b2e",
+    "uri": "/reference/2a99259b-1d04-4d93-8ab5-2b02e5b75b2e"
+}

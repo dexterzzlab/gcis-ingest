@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Mansur, E.\rMendelsohn, R.\rMorrison, W.",
+        "DOI": "10.1016/j.jeem.2007.10.001",
+        "Date": "March 2008",
+        "ISSN": "0095-0696",
+        "Issue": "2",
+        "Journal": "Journal of Environmental Economics and Management",
+        "Pages": "175-93",
+        "Title": "Climate change adaptation: A study of fuel choice and consumption in the US energy sector",
+        "Volume": "55",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 4: Energy Supply and Use FINAL\"]",
+        "_record_number": "1872",
+        "_uuid": "54474252-8763-4f2f-bf28-042b3a9e7c40",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.jeem.2007.10.001",
+    "href": "http://data.globalchange.gov/reference/54474252-8763-4f2f-bf28-042b3a9e7c40.json",
+    "identifier": "54474252-8763-4f2f-bf28-042b3a9e7c40",
+    "uri": "/reference/54474252-8763-4f2f-bf28-042b3a9e7c40"
+}

@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Adger, W.N.",
+        "Book Title": "Negotiating Environmental Change: New Perspectives from Social Science",
+        "Editor": "Berkhout, F.\rLeach, M.\rScoones, I.",
+        "ISBN": "9781843761532",
+        "Pages": "193-208",
+        "Place Published": "Cheltenham, UK",
+        "Publisher": "Edward Elgar Pub",
+        "Reviewer": "e66356b6-bb94-442d-ac76-b3032002505a",
+        "Title": "Governing natural resources: Institutional adaptation and resilience",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "3804",
+        "_uuid": "e66356b6-bb94-442d-ac76-b3032002505a",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/1461d832-55f1-4ff1-b650-6585728ce650",
+    "href": "http://data.globalchange.gov/reference/e66356b6-bb94-442d-ac76-b3032002505a.json",
+    "identifier": "e66356b6-bb94-442d-ac76-b3032002505a",
+    "uri": "/reference/e66356b6-bb94-442d-ac76-b3032002505a"
+}

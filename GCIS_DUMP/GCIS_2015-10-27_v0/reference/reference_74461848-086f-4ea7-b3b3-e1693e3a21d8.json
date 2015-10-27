@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Loveland, T.\rR. Mahmood\rT. Patel-Weynand\rK. Karstensen\rK. Beckendorf\rN. Bliss\rA. Carleton",
+        "Institution": "U.S. Department of the Interior, U.S. Geological Survey",
+        "Pages": "87",
+        "Place Published": "Reston, VA",
+        "Title": "National Climate Assessment Technical Report on the Impacts of Climate and Land Use and Land Cover Change",
+        "URL": "http://pubs.usgs.gov/of/2012/1155/of2012-1155.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 13: Land Use and Land Cover Change FINAL\",\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "1147",
+        "_uuid": "74461848-086f-4ea7-b3b3-e1693e3a21d8",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/nca-techreportlu-2012",
+    "href": "http://data.globalchange.gov/reference/74461848-086f-4ea7-b3b3-e1693e3a21d8.json",
+    "identifier": "74461848-086f-4ea7-b3b3-e1693e3a21d8",
+    "uri": "/reference/74461848-086f-4ea7-b3b3-e1693e3a21d8"
+}

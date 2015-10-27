@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Peng, Roger D.\rBobb, Jennifer F.\rTebaldi, Claudia\rMcDaniel, Larry\rBell, Michelle L.\rDominici, Francesca",
+        "DOI": "10.1289/ehp.1002430",
+        "Date": "May",
+        "ISSN": "0091-6765",
+        "Issue": "5",
+        "Journal": "Environmental Health Perspectives",
+        "Pages": "701-706",
+        "Title": "Toward a quantitative estimate of future heat wave mortality under global climate change",
+        "URL": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3094424/",
+        "Volume": "119",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "2461",
+        "_uuid": "b3760069-032c-4bb6-9d34-9771c08f0171",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1289/ehp.1002430",
+    "href": "http://data.globalchange.gov/reference/b3760069-032c-4bb6-9d34-9771c08f0171.json",
+    "identifier": "b3760069-032c-4bb6-9d34-9771c08f0171",
+    "uri": "/reference/b3760069-032c-4bb6-9d34-9771c08f0171"
+}

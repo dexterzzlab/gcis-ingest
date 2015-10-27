@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2007",
+        "Author": "UNEP,",
+        "Publisher": "United Nations Environment Programme",
+        "Title": "Global Outlook for Ice and Snow",
+        "URL": "http://www.unep.org/geo/geo_ice/",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\"]",
+        "_record_number": "4593",
+        "_uuid": "f06d06ab-3a2f-46b9-a70d-1f7238f6efc1",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/9f023376-d51c-4102-b2ad-131aa907f4b7",
+    "href": "http://data.globalchange.gov/reference/f06d06ab-3a2f-46b9-a70d-1f7238f6efc1.json",
+    "identifier": "f06d06ab-3a2f-46b9-a70d-1f7238f6efc1",
+    "uri": "/reference/f06d06ab-3a2f-46b9-a70d-1f7238f6efc1"
+}

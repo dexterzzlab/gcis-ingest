@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "EIA,",
+        "Institution": "U.S. Energy Information Administration",
+        "Pages": "292",
+        "Place Published": "Washington, D.C.",
+        "Title": "Annual Energy Outlook 2011",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "3151",
+        "_uuid": "85bca291-a636-45ab-8aca-afcd50ea70a4",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/aeo2011",
+    "href": "http://data.globalchange.gov/reference/85bca291-a636-45ab-8aca-afcd50ea70a4.json",
+    "identifier": "85bca291-a636-45ab-8aca-afcd50ea70a4",
+    "uri": "/reference/85bca291-a636-45ab-8aca-afcd50ea70a4"
+}

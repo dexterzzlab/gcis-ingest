@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Lempert, R.J.\rPopper, S.W.\rBankes, S.C.",
+        "ISBN": "0833032755",
+        "Number of Pages": "186 ",
+        "Place Published": "Santa Monica, CA",
+        "Publisher": "Rand Corporation",
+        "Reviewer": "4067a093-f6b2-4083-a52c-9a8b30c45b66",
+        "Series Volume": "1626",
+        "Title": "Shaping the Next One Hundred Years: New Methods for Quantitative, Long-Term Policy Analysis",
+        "URL": "http://www.rand.org/pubs/monograph_reports/2007/MR1626.pdf",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\",\"RF 12\"]",
+        "_record_number": "1528",
+        "_uuid": "4067a093-f6b2-4083-a52c-9a8b30c45b66",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/rand-mr1626",
+    "href": "http://data.globalchange.gov/reference/4067a093-f6b2-4083-a52c-9a8b30c45b66.json",
+    "identifier": "4067a093-f6b2-4083-a52c-9a8b30c45b66",
+    "uri": "/reference/4067a093-f6b2-4083-a52c-9a8b30c45b66"
+}

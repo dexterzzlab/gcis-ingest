@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Speldewinde, Peter C.\rCook, Angus\rDavies, Peter\rWeinstein, Philip",
+        "DOI": "10.1016/j.healthplace.2009.02.011",
+        "ISSN": "1353-8292",
+        "Issue": "3",
+        "Journal": "Health & Place",
+        "Keywords": "Salinity\rDepression\rEcosystem health\rEnvironmental degradation\rBayesian statistics",
+        "Pages": "880-887",
+        "Title": "A relationship between environmental degradation and mental health in rural Western Australia",
+        "Volume": "15",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "4681",
+        "_uuid": "5c6ec858-5791-4cbe-9cb9-f050731bccad",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.healthplace.2009.02.011",
+    "href": "http://data.globalchange.gov/reference/5c6ec858-5791-4cbe-9cb9-f050731bccad.json",
+    "identifier": "5c6ec858-5791-4cbe-9cb9-f050731bccad",
+    "uri": "/reference/5c6ec858-5791-4cbe-9cb9-f050731bccad"
+}

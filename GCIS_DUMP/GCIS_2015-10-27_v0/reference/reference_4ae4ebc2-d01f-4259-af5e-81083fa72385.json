@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Smith, Andrea L.\rHewitt, Nina\rKlenk, Nicole\rBazely, Dawn R.\rYan, Norman\rWood, Stepan\rHenriques, Irene\rMacLellan, James I.\rLipsig-Mumm\u00e9, Carla",
+        "DOI": "10.1139/a11-020",
+        "ISSN": "1181-8700; 1208-6053",
+        "Issue": "1",
+        "Journal": "Environmental Reviews",
+        "Keywords": "Climate change",
+        "Pages": "1-16",
+        "Title": "Effects of climate change on the distribution of invasive alien species in Canada: A knowledge synthesis of range change projections in a warming world",
+        "Volume": "20",
+        "Year": "2012",
+        "_chapter": "[\"RG 3 Midwest\",\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "2873",
+        "_uuid": "4ae4ebc2-d01f-4259-af5e-81083fa72385",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1139/a11-020",
+    "href": "http://data.globalchange.gov/reference/4ae4ebc2-d01f-4259-af5e-81083fa72385.json",
+    "identifier": "4ae4ebc2-d01f-4259-af5e-81083fa72385",
+    "uri": "/reference/4ae4ebc2-d01f-4259-af5e-81083fa72385"
+}

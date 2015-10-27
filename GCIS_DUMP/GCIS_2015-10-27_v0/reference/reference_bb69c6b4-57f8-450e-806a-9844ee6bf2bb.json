@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Mohseni, O.\rErickson, T.R.\rStefan, H.G.",
+        "DOI": "10.1029/1999WR900193",
+        "ISSN": "0043-1397",
+        "Issue": "12",
+        "Journal": "Water Resources Research",
+        "Pages": "3723-3733",
+        "Title": "Sensitivity of stream temperatures in the United States to air temperatures projected under a global warming scenario",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/1999WR900193/pdf",
+        "Volume": "35",
+        "Year": "1999",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "2068",
+        "_uuid": "bb69c6b4-57f8-450e-806a-9844ee6bf2bb",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/1999WR900193",
+    "href": "http://data.globalchange.gov/reference/bb69c6b4-57f8-450e-806a-9844ee6bf2bb.json",
+    "identifier": "bb69c6b4-57f8-450e-806a-9844ee6bf2bb",
+    "uri": "/reference/bb69c6b4-57f8-450e-806a-9844ee6bf2bb"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "LaPointe, D.A.\rAtkinson, C.T.\rSamuel, M.D.",
+        "DOI": "10.1111/j.1749-6632.2011.06431.x",
+        "ISSN": "1749-6632",
+        "Issue": "1",
+        "Journal": "Annals of the New York Academy of Sciences",
+        "Pages": "211-226",
+        "Title": "Ecology and conservation biology of avian malaria",
+        "Volume": "1249",
+        "Year": "2012",
+        "_chapter": "[\"RG 8 Hawaii\",\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "559",
+        "_uuid": "73af9d00-a709-4b04-975e-e3f90431695a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1749-6632.2011.06431.x",
+    "href": "http://data.globalchange.gov/reference/73af9d00-a709-4b04-975e-e3f90431695a.json",
+    "identifier": "73af9d00-a709-4b04-975e-e3f90431695a",
+    "uri": "/reference/73af9d00-a709-4b04-975e-e3f90431695a"
+}

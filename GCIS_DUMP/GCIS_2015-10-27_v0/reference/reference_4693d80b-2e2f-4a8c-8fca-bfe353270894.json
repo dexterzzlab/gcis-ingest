@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Previous analyses of sea level pressure (SLP) trends have often focused on boreal winter trends. Here we demonstrate that externally-forced SLP trends are observed in all four seasons, with simulated and observed decreases in SLP at high latitudes and increases elsewhere. We find that the observed pattern of seasonal mean zonal mean SLP changes is inconsistent with simulated internal variability, and we detect anthropogenic influence independently of natural influence on SLP. When we divide the globe into the mid- and high-latitude regions of both hemispheres and the tropics and subtropics, we find that external influence is only detectable in the low-latitude region, where models and observations show increasing trends in SLP, and where internal variability is low, and not in the mid- and high-latitude regions of either hemisphere. Low-latitude increases in SLP, which are significant compared to internal variability, but which have previously received little attention, could have important regional climate impacts. ",
+        "Author": "Gillett, N.P.\rStott, P.A.",
+        "DOI": "10.1029/2009GL041269",
+        "ISSN": "1944-8007",
+        "Issue": "23",
+        "Journal": "Geophysical Research Letters",
+        "Pages": "L23709",
+        "Title": "Attribution of anthropogenic influence on seasonal sea level pressure",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2009GL041269/pdf",
+        "Volume": "36",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "137",
+        "_uuid": "4693d80b-2e2f-4a8c-8fca-bfe353270894",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2009GL041269",
+    "href": "http://data.globalchange.gov/reference/4693d80b-2e2f-4a8c-8fca-bfe353270894.json",
+    "identifier": "4693d80b-2e2f-4a8c-8fca-bfe353270894",
+    "uri": "/reference/4693d80b-2e2f-4a8c-8fca-bfe353270894"
+}

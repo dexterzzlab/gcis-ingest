@@ -1,0 +1,15 @@
+{
+    "computing_environment": "Linux (Red Hat Enterprise Linux Server release 6.4)",
+    "data_usage": "The multi-model mean change in the annual maximum number of consecutive dry days for the continued emissions increases (RCP 8.5) scenario, for 2070-2099 relative to 1971-2000, was plotted for North America.",
+    "duration": "60 hours",
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/e44b58cf-nca3-etccdi-r201305-process.json",
+    "identifier": "e44b58cf-nca3-etccdi-r201305-process",
+    "methodology": "1. The annual maximum number of consecutive dry days CLIMDEX data (RCP 8.5 scenario) for each model was re-gridded to a common grid of 1.5 x 1.5 degrees.\r\n2. For each model listed below, at each grid point, the mean annual maximum number of consecutive dry days was calculated for two periods (1971-2000 and 2070-2099) by averaging the annual values.\r\n3. Multi-model mean values were then calculated for 1971-2000 and 2070-2099 by averaging the period means from the 24 models listed below, at each grid point.\r\n4. The percentage change was calculated at each grid point (relative to the 1971-2000 mean) and plotted on a map.\r\n5. The percentage of models with differences greater than zero was calculated and stippling was added to the maps for percentages greater than 80% or less than 20%.\r\n\r\nThe following models were used:\r\nACCESS1-0\r\nBNU-E\r\nCanES2\r\nCCSM4\r\nCESM1-BGC\r\nCMCC-CM\r\nCNRM-CM5\r\nCSIRO-Mk3-6-0\r\nGFDL-CM3\r\nGFDL-ESM2G\r\nGFDL-ESM2M\r\nHadGEM2-CC\r\nHadGEM2-ES\r\ninmcm4\r\nIPSL-CM5A-LR\r\nIPSL-CM5A-MR\r\nIPSL-CM5B-LR\r\nMIROC5\r\nMIROC-ESM-CHEM\r\nMIROC-ESM\r\nMPI-ESM-LR\r\nMPI-ESM-MR\r\nMRI-CGCM3\r\nNorESM1-M",
+    "notes": "Fortran 95, GrADS",
+    "output_artifacts": "cal30yrmax.gs\r\ncal_diffmap.gs\r\njust_regrid.gs\r\ncal_t_cat.f95\r\nCMIP5_RCP85_rx1day_PositivePct.asc\r\nCMIP5_RCP85_rx1day_tTest_cat123.asc\r\nglobal_grid-CMIP5_RCP85_PCT_rx1day.asc\r\nconfig.py\r\nplot_precip_change.py\r\n80_20_plots_solid_dots.zip\r\nCMIP5_precip_plots_fixed_scale.zip\r\nCMIP5_precip_plots_levels10.zip\r\nCMIP5_precip_plots_levels5.zip\r\nrcp85_rx1day_80_20.eps\r\nrcp85_rx1day_80_20_levels10.eps\r\nrcp85_rx1day_80_20_levels5.eps\r\nrcp85_rx1day_signif.eps\r\n2-13_d.png\r\nCS_regional uncertainty_V4.png",
+    "software": "GrADS 2.0, Fortran 95",
+    "start_time": null,
+    "uri": "/activity/e44b58cf-nca3-etccdi-r201305-process",
+    "visualization_software": "Python (v2.7.6), Matplotlib (v1.3.1), Basemap (v1.0.5)"
+}

@@ -1,0 +1,12 @@
+{
+    "description": "QuikSCAT is a NASA ESE (Earth Science Enterprise) program satellite built by BATC (Ball Aerospace & Technologies Corporation) of Boulder, CO. The QuikSCAT mission was initiated in the wake of the lost NSCAT (NASA Scatterometer) instrument measurements aboard NASDA's ADEOS-1 satellite. The ADEOS-1 S/C ceased functioning on June 30, 1997.",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/q/quikscat",
+    "end_date": "2015-10-01T00:00:00",
+    "href": "http://data.globalchange.gov/platform/quick-scatterometer.json",
+    "identifier": "quick-scatterometer",
+    "name": "Quick Scatterometer",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "1999-06-19T00:00:00",
+    "uri": "/platform/quick-scatterometer",
+    "url": "http://winds.jpl.nasa.gov/missions/quikscat/index.cfm"
+}

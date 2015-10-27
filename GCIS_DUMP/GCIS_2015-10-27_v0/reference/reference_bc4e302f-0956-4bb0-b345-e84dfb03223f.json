@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "AGU",
+        ".reference_type": "0",
+        "Abstract": "A suite of climate change indices derived from daily temperature and precipitation data, with a primary focus on extreme events, were computed and analyzed. By setting an exact formula for each index and using specially designed software, analyses done in different countries have been combined seamlessly. This has enabled the presentation of the most up-to-date and comprehensive global picture of trends in extreme temperature and precipitation indices using results from a number of workshops held in data-sparse regions and high-quality station data supplied by numerous scientists world wide. Seasonal and annual indices for the period 1951&#8211;2003 were gridded. Trends in the gridded fields were computed and tested for statistical significance. Results showed widespread significant changes in temperature extremes associated with warming, especially for those indices derived from daily minimum temperature. Over 70% of the global land area sampled showed a significant decrease in the annual occurrence of cold nights and a significant increase in the annual occurrence of warm nights. Some regions experienced a more than doubling of these indices. This implies a positive shift in the distribution of daily minimum temperature throughout the globe. Daily maximum temperature indices showed similar changes but with smaller magnitudes. Precipitation changes showed a widespread and significant increase, but the changes are much less spatially coherent compared with temperature change. Probability distributions of indices derived from approximately 200 temperature and 600 precipitation stations, with near-complete data for 1901&#8211;2003 and covering a very large region of the Northern Hemisphere midlatitudes (and parts of Australia for precipitation) were analyzed for the periods 1901&#8211;1950, 1951&#8211;1978 and 1979&#8211;2003. Results indicate a significant warming throughout the 20th century. Differences in temperature indices distributions are particularly pronounced between the most recent two periods and for those indices related to minimum temperature. An analysis of those indices for which seasonal time series are available shows that these changes occur for all seasons although they are generally least pronounced for September to November. Precipitation indices show a tendency toward wetter conditions throughout the 20th century.",
+        "Author": "Alexander, L. V.\rZhang, X.\rPeterson, T. C.\rCaesar, J.\rGleason, B.\rKlein Tank, A. M. G.\rHaylock, M.\rCollins, D.\rTrewin, B.\rRahimzadeh, F.\rTagipour, A.\rRupa Kumar, K.\rRevadekar, J.\rGriffiths, G.\rVincent, L.\rStephenson, D. B.\rBurn, J.\rAguilar, E.\rBrunet, M.\rTaylor, M.\rNew, M.\rZhai, P.\rRusticucci, M.\rVazquez-Aguirre, J. L.",
+        "DOI": "10.1029/2005JD006290",
+        "ISSN": "0148-0227",
+        "Issue": "D05109",
+        "Journal": "Journal of Geophysical Research",
+        "Keywords": "climate extremes; observations; temperature; precipitation; trends; 1616 Global Change: Climate variability; 3305 Atmospheric Processes: Climate change and variability; 3354 Atmospheric Processes: Precipitation",
+        "Pages": "22",
+        "Title": "Global observed changes in daily climate extremes of temperature and precipitation",
+        "URL": "http://www.agu.org/journals/jd/jd0605/2005JD006290/2005JD006290.pdf",
+        "Volume": "111",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "777",
+        "_uuid": "bc4e302f-0956-4bb0-b345-e84dfb03223f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2005JD006290",
+    "href": "http://data.globalchange.gov/reference/bc4e302f-0956-4bb0-b345-e84dfb03223f.json",
+    "identifier": "bc4e302f-0956-4bb0-b345-e84dfb03223f",
+    "uri": "/reference/bc4e302f-0956-4bb0-b345-e84dfb03223f"
+}

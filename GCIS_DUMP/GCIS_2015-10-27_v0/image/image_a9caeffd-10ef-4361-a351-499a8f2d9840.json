@@ -1,0 +1,103 @@
+{
+    "attributes": "Southeast, temperature, observed, projected",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2523.json",
+            "id": 2523,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Laura",
+                "id": 1101,
+                "last_name": "Stevens",
+                "middle_name": null,
+                "orcid": "0000-0002-8842-702X",
+                "url": "http://www.cicsnc.org/people/laura-stevens"
+            },
+            "person_id": 1101,
+            "person_uri": "/person/1101",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2523"
+        }
+    ],
+    "create_dt": "2013-07-02T09:34:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Observed annual average temperature for the Southeast and projected temperatures assuming substantial emissions reductions (lower emissions, B1) and assuming continued growth in emissions (higher emissions, A2).<tbib>b50d0bc7-8731-41e7-861c-b88b678f51d0</tbib> For each emissions scenario, shading shows the range of projections and the line shows a central estimate. The projections were referenced to observed temperatures for the period 1901-1960. The region warmed during the early part of last century, cooled for a few decades, and is now warming again. The lack of an overall upward trend over the entire period of 1900-2012 is unusual compared to the rest of the U.S. and the globe. This feature has been dubbed the \u201cwarming hole\u201d and has been the subject of considerable research, although a conclusive cause has not been identified. (Figure source: adapted from Kunkel et al. 2013<tbib>b50d0bc7-8731-41e7-861c-b88b678f51d0</tbib>).",
+            "chapter_identifier": "southeast",
+            "create_dt": "2013-11-18T14:21:00",
+            "identifier": "southeast-temperature-observed-and-projected",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 3,
+            "report_identifier": "nca3",
+            "source_citation": "adapted from Kunkel et al. 2013 <tbib>b50d0bc7-8731-41e7-861c-b88b678f51d0</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Southeast Temperature: Observed and Projected",
+            "url": "http://nca2014.globalchange.gov/highlights/regions/southeast/graphics/southeast-temperature-observed-and-projected",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "7e/df/3d90bbff60112ef9ba9786ead111/se_a1__b2_temperature_graphs_12908_v5.png",
+            "href": "http://data.globalchange.gov/assets/7e/df/3d90bbff60112ef9ba9786ead111/se_a1__b2_temperature_graphs_12908_v5.png",
+            "identifier": "c8d2a814-2779-45bc-964c-420ef6ba30e0",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "3c438f64020a1b6728231386400ca1ae04c05a9e",
+            "size": 66853,
+            "thumbnail": "7e/df/3d90bbff60112ef9ba9786ead111/.thumb-c8d2a814-2779-45bc-964c-420ef6ba30e0.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/7e/df/3d90bbff60112ef9ba9786ead111/.thumb-c8d2a814-2779-45bc-964c-420ef6ba30e0.png",
+            "uri": "/file/c8d2a814-2779-45bc-964c-420ef6ba30e0",
+            "url": "/assets/7e/df/3d90bbff60112ef9ba9786ead111/se_a1__b2_temperature_graphs_12908_v5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/a9caeffd-10ef-4361-a351-499a8f2d9840.json",
+    "identifier": "a9caeffd-10ef-4361-a351-499a8f2d9840",
+    "lat_max": "39.62",
+    "lat_min": "24.50",
+    "lon_max": "-75.22",
+    "lon_min": "-94.70",
+    "parents": [
+        {
+            "activity_uri": "/activity/a9caeffd-nca3-cmip3-r201205-process",
+            "label": "dataset nca3-cmip3-r201205",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-cmip3-r201205"
+        },
+        {
+            "activity_uri": "/activity/a9caeffd-nca3-cddv2-r1-process",
+            "label": "dataset nca3-cddv2-r1",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-cddv2-r1"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2100-12-31T23:59:59",
+    "time_start": "1900-01-01T00:00:00",
+    "title": "Southeast Temperature: Observed and Projected",
+    "uri": "/image/a9caeffd-10ef-4361-a351-499a8f2d9840",
+    "url": null,
+    "usage_limits": null
+}

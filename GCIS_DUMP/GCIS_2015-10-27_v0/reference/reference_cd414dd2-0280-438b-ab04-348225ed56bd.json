@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Mantua, N.\rTohver, I.\rHamlet, A.",
+        "DOI": "10.1007/s10584-010-9845-2",
+        "ISSN": "0165-0009",
+        "Issue": "1",
+        "Journal": "Climatic Change",
+        "Pages": "187-223",
+        "Title": "Climate change impacts on streamflow extremes and summertime stream temperature and their possible consequences for freshwater salmon habitat in Washington State",
+        "Volume": "102",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "1874",
+        "_uuid": "cd414dd2-0280-438b-ab04-348225ed56bd",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-010-9845-2",
+    "href": "http://data.globalchange.gov/reference/cd414dd2-0280-438b-ab04-348225ed56bd.json",
+    "identifier": "cd414dd2-0280-438b-ab04-348225ed56bd",
+    "uri": "/reference/cd414dd2-0280-438b-ab04-348225ed56bd"
+}

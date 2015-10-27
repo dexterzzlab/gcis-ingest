@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Bruno, J.F.\rSelig, E.R.\rCasey, K.S.\rPage, C.A.\rWillis, B.L.\rHarvell, C.D.\rSweatman, H.\rMelendy, A.M.",
+        "DOI": "10.1371/journal.pbio.0050124",
+        "ISSN": "1545-7885",
+        "Issue": "6",
+        "Journal": "PLoS Biology",
+        "Pages": "e124",
+        "Title": "Thermal stress and coral cover as drivers of coral disease outbreaks",
+        "Volume": "5",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\",\"RF 11\",\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "1660",
+        "_uuid": "07709e73-c331-4953-a578-909aa80ae86e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1371/journal.pbio.0050124",
+    "href": "http://data.globalchange.gov/reference/07709e73-c331-4953-a578-909aa80ae86e.json",
+    "identifier": "07709e73-c331-4953-a578-909aa80ae86e",
+    "uri": "/reference/07709e73-c331-4953-a578-909aa80ae86e"
+}

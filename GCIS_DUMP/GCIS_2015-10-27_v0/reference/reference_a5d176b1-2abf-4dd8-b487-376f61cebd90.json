@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Ehrenfeld, J.G.",
+        "DOI": "10.1146/annurev-ecolsys-102209-144650",
+        "ISSN": "1543-592X",
+        "Journal": "Annual Review of Ecology, Evolution, and Systematics",
+        "Pages": "59-80",
+        "Title": "Ecosystem consequences of biological invasions",
+        "Volume": "41",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "569",
+        "_uuid": "a5d176b1-2abf-4dd8-b487-376f61cebd90",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1146/annurev-ecolsys-102209-144650",
+    "href": "http://data.globalchange.gov/reference/a5d176b1-2abf-4dd8-b487-376f61cebd90.json",
+    "identifier": "a5d176b1-2abf-4dd8-b487-376f61cebd90",
+    "uri": "/reference/a5d176b1-2abf-4dd8-b487-376f61cebd90"
+}

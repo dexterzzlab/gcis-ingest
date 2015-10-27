@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Berke, P.R.\rGodschalk, D.R.\rKaiser, E.J.\rRodriguez, D.A.",
+        "ISBN": "9780252030796",
+        "Place Published": "Chicago, IL",
+        "Publisher": "University of Illinois Press",
+        "Reviewer": "ccbe8194-f848-423a-a110-9e7da480966d",
+        "Title": "Urban Land Use Planning",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 13: Land Use and Land Cover Change FINAL\"]",
+        "_record_number": "1737",
+        "_uuid": "ccbe8194-f848-423a-a110-9e7da480966d",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/70466915-7ddb-4edc-bdc6-b5fbe0de90cd",
+    "href": "http://data.globalchange.gov/reference/ccbe8194-f848-423a-a110-9e7da480966d.json",
+    "identifier": "ccbe8194-f848-423a-a110-9e7da480966d",
+    "uri": "/reference/ccbe8194-f848-423a-a110-9e7da480966d"
+}

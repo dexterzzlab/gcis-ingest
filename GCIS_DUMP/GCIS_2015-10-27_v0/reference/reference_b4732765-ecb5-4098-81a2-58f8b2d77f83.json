@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Geronimus, A.T.\rBound, J.\rWaidmann, T.A.\rHillemeier, M.M.\rBurns, P.B.",
+        "DOI": "10.1056/NEJM199611213352102",
+        "ISSN": "0028-4793",
+        "Issue": "21",
+        "Journal": "New England Journal of Medicine",
+        "Pages": "1552-1558",
+        "Title": "Excess mortality among blacks and whites in the United States",
+        "URL": "http://www.nejm.org/doi/pdf/10.1056/NEJM199611213352102",
+        "Volume": "335",
+        "Year": "1996",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "673",
+        "_uuid": "b4732765-ecb5-4098-81a2-58f8b2d77f83",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1056/NEJM199611213352102",
+    "href": "http://data.globalchange.gov/reference/b4732765-ecb5-4098-81a2-58f8b2d77f83.json",
+    "identifier": "b4732765-ecb5-4098-81a2-58f8b2d77f83",
+    "uri": "/reference/b4732765-ecb5-4098-81a2-58f8b2d77f83"
+}

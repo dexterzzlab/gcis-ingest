@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Ng, Gene-Hua Crystal\rMcLaughlin, Dennis\rEntekhabi, Dara\rScanlon, Bridget R.",
+        "DOI": "10.1029/2009wr007904",
+        "ISSN": "1944-7973",
+        "Issue": "7",
+        "Journal": "Water Resources Research",
+        "Keywords": "climate change\rdiffuse recharge\rensemble forecasting\rnumerical modeling\rstochastic weather generator\r1807 Climate impacts\r1813 Eco-hydrology\r1816 Estimation and forecasting\r1847 Modeling",
+        "Pages": "W07502",
+        "Title": "Probabilistic analysis of the effects of climate change on groundwater recharge",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2009WR007904/pdf",
+        "Volume": "46",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "4127",
+        "_uuid": "1e0dbb05-1eb4-4fa9-90a1-100aae9a9354",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2009wr007904",
+    "href": "http://data.globalchange.gov/reference/1e0dbb05-1eb4-4fa9-90a1-100aae9a9354.json",
+    "identifier": "1e0dbb05-1eb4-4fa9-90a1-100aae9a9354",
+    "uri": "/reference/1e0dbb05-1eb4-4fa9-90a1-100aae9a9354"
+}

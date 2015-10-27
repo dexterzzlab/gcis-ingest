@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/climcentral-sewage-2013.json",
+    "identifier": "climcentral-sewage-2013",
+    "in_library": null,
+    "publication_year": 2013,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Sewage Overflows From Hurricane Sandy",
+    "topic": null,
+    "uri": "/report/climcentral-sewage-2013",
+    "url": "http://www.climatecentral.org/pdfs/Sewage.pdf"
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Glick, P.\rStein, B.A.\rEdelson, N.A.",
+        "ISBN": "978-0-615-40233-8",
+        "Number of Pages": "176",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "National Wildlife Federation",
+        "Reviewer": "fdb15eb5-7454-4c42-b331-d9859ea4320e",
+        "Title": "Scanning the Conservation Horizon: A Guide to Climate Change Vulnerability Assessment",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"Ch. 28: Adaptation FINAL\",\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "1495",
+        "_uuid": "fdb15eb5-7454-4c42-b331-d9859ea4320e",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/168db679-ce35-4e6c-9d77-bd0a3d919846",
+    "href": "http://data.globalchange.gov/reference/fdb15eb5-7454-4c42-b331-d9859ea4320e.json",
+    "identifier": "fdb15eb5-7454-4c42-b331-d9859ea4320e",
+    "uri": "/reference/fdb15eb5-7454-4c42-b331-d9859ea4320e"
+}

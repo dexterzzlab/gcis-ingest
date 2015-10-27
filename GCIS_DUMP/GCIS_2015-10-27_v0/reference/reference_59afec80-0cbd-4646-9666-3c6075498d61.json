@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Jackson, L. E.\rSantos-Martin, F.\rHollander, A.D.\rHorwath, W.R.\rHowitt, R.E.\rKramer, J.B.\rO\u2019Geen, A.T.\rOrlove, B.S.\rSix, J.W.\rSokolow, S.K.\rSumner, D. A.\rTomich, T. P. \rWheeler, S.M.",
+        "Institution": "California Energy Commission, PIER Energy-Related Environmental Research Program",
+        "Pages": "165",
+        "Title": "Potential for adaptation to climate change in an agricultural landscape in the Central Valley of California. Publication number: CEC-500-2009-044-F",
+        "URL": "http://www.energy.ca.gov/2009publications/CEC-500-2009-044/CEC-500-2009-044-F.PDF",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "1286",
+        "_uuid": "59afec80-0cbd-4646-9666-3c6075498d61",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/cec-500-2009-044-f",
+    "href": "http://data.globalchange.gov/reference/59afec80-0cbd-4646-9666-3c6075498d61.json",
+    "identifier": "59afec80-0cbd-4646-9666-3c6075498d61",
+    "uri": "/reference/59afec80-0cbd-4646-9666-3c6075498d61"
+}

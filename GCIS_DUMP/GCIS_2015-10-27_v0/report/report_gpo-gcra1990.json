@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/gpo-gcra1990.json",
+    "identifier": "gpo-gcra1990",
+    "in_library": null,
+    "publication_year": 1990,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Global Change Research Act (Public Law 101-606, 104 Stat. 3096-3104), signed on November 16, 1990",
+    "topic": null,
+    "uri": "/report/gpo-gcra1990",
+    "url": "http://www.gpo.gov/fdsys/pkg/STATUTE-104/pdf/STATUTE-104-Pg3096.pdf"
+}

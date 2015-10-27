@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Knowlton, K.\rRotkin-Ellman, M.\rKing, G.\rMargolis, H.G.\rSmith, D.\rSolomon, G.\rTrent, R.\rEnglish, P.",
+        "DOI": "10.1289/ehp.11594",
+        "ISSN": "0091-6765",
+        "Issue": "11",
+        "Journal": "Environmental Health Perspectives",
+        "Pages": "61-67",
+        "Title": "The 2006 California heat wave: Impacts on hospitalizations and emergency department visits",
+        "URL": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2627866/pdf/EHP-117-61.pdf",
+        "Volume": "117",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "19",
+        "_uuid": "7ca0e947-163a-46f3-9274-cea209b94510",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1289/ehp.11594",
+    "href": "http://data.globalchange.gov/reference/7ca0e947-163a-46f3-9274-cea209b94510.json",
+    "identifier": "7ca0e947-163a-46f3-9274-cea209b94510",
+    "uri": "/reference/7ca0e947-163a-46f3-9274-cea209b94510"
+}

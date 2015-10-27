@@ -1,0 +1,12 @@
+{
+    "description": "Experiments in JEM/Kibo focus on space medicine, biology, Earth observations, material production, biotechnology and communications research. Kibo experiments and systems are operated from the Mission Control Room in the SSOF (Space Station Operations Facility) at the Tsukuba Space Center (TKSC) in Ibaraki Prefecture, Japan, just north of Tokyo.",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/i/iss-jemef",
+    "end_date": "2011-01-19T00:00:00",
+    "href": "http://data.globalchange.gov/platform/international-space-station-japanese-experiment-mo.json",
+    "identifier": "international-space-station-japanese-experiment-mo",
+    "name": "International Space Station/Japanese Experiment Mo",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "2009-09-10T00:00:00",
+    "uri": "/platform/international-space-station-japanese-experiment-mo",
+    "url": "http://iss.jaxa.jp/iss/index_e.html"
+}

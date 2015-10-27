@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Hodges, Tina",
+        "Date": "August 2011",
+        "Institution": "Federal Transit Administration, Office of Research, Demonstration and Innovation, U.S. Department of Transportation ",
+        "Pages": "128",
+        "Title": "Flooded Bus Barns and Buckled Rails: Public Transportation and Climate Change Adaptation. FTA Report No. 0001 ",
+        "URL": "http://www.fta.dot.gov/documents/FTA_0001_-_Flooded_Bus_Barns_and_Buckled_Rails.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 5: Transportation FINAL\",\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "3929",
+        "_uuid": "c41596dd-67b3-460a-8e7c-5b9e5c2a986a",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/fta-report-0001",
+    "href": "http://data.globalchange.gov/reference/c41596dd-67b3-460a-8e7c-5b9e5c2a986a.json",
+    "identifier": "c41596dd-67b3-460a-8e7c-5b9e5c2a986a",
+    "uri": "/reference/c41596dd-67b3-460a-8e7c-5b9e5c2a986a"
+}

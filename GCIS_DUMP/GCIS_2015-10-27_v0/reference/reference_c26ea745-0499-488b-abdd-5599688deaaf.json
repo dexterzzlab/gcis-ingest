@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Huntington, H. P.\rFox, S.\rBerkes, F.\rKrupnik, I.",
+        "Book Title": "Arctic Climate Impact Assessment",
+        "Chapter": "3",
+        "ISBN": "13 978-0-521- 86509",
+        "Pages": "61-98",
+        "Place Published": "New York",
+        "Publisher": "Cambridge University Press",
+        "Reviewer": "c26ea745-0499-488b-abdd-5599688deaaf",
+        "Title": "The Changing Arctic \u2013 Indigenous Perspectives",
+        "URL": "www.cambridge.org/9780521865098",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "3608",
+        "_uuid": "c26ea745-0499-488b-abdd-5599688deaaf",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/b5006d04-ec3d-4d44-b2a7-e839ceb2b98b",
+    "href": "http://data.globalchange.gov/reference/c26ea745-0499-488b-abdd-5599688deaaf.json",
+    "identifier": "c26ea745-0499-488b-abdd-5599688deaaf",
+    "uri": "/reference/c26ea745-0499-488b-abdd-5599688deaaf"
+}

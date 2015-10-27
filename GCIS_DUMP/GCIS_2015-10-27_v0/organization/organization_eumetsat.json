@@ -1,0 +1,9 @@
+{
+    "country_code": null,
+    "href": "http://data.globalchange.gov/organization/eumetsat.json",
+    "identifier": "eumetsat",
+    "name": "European Organisation for the Exploitation of Meteorological Satellites",
+    "organization_type_identifier": "intergovernmental",
+    "uri": "/organization/eumetsat",
+    "url": "http://www.eumetsat.int"
+}

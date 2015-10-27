@@ -1,0 +1,8 @@
+{
+    "description": "Space environment monitor",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/neutral-mass-spectrometer.json",
+    "identifier": "neutral-mass-spectrometer",
+    "name": "Neutral Mass Spectrometer",
+    "uri": "/instrument/neutral-mass-spectrometer"
+}

@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Snover, A.K.\rL. Binder\rJ. Lopez\rE. Willmott\rJ. Kay\rSims, R.\rWyman, M.\rHentschel, M.\rStrickler, A.",
+        "Place Published": "Oakland, CA",
+        "Publisher": " ICLEI-Local Governments for Sustainability",
+        "Reviewer": "97283f21-f440-4ed0-80bf-617c701ec6c1",
+        "Title": "Preparing for Climate Change: A Guidebook for Local, Regional, and State Governments",
+        "URL": "http://www.icleiusa.org/action-center/planning/adaptation-guidebook/view?searchterm",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "2891",
+        "_uuid": "97283f21-f440-4ed0-80bf-617c701ec6c1",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/uwash-kingco-icleii-preparing-for-climate-change-2007",
+    "href": "http://data.globalchange.gov/reference/97283f21-f440-4ed0-80bf-617c701ec6c1.json",
+    "identifier": "97283f21-f440-4ed0-80bf-617c701ec6c1",
+    "uri": "/reference/97283f21-f440-4ed0-80bf-617c701ec6c1"
+}

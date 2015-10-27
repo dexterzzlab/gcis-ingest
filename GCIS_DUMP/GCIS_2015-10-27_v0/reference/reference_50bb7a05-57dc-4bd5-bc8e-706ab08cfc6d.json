@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "CEQ,",
+        "Institution": "The White House Council on Environmental Quality,  Office of Science and Technology Policy, Climate Change Adaptation Task Force",
+        "Pages": "32",
+        "Place Published": "Washington, D.C.",
+        "Title": "Federal Actions for a Climate Resilient Nation: Progress Report of the Interagency Climate Change Adaptation Task Force",
+        "URL": "http://www.whitehouse.gov/sites/default/files/microsites/ceq/2011_adaptation_progress_report.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 11: Urban Systems FINAL\",\"Ch. 28: Adaptation FINAL\",\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "692",
+        "_uuid": "50bb7a05-57dc-4bd5-bc8e-706ab08cfc6d",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/federal-actions-climate-resilient-nation",
+    "href": "http://data.globalchange.gov/reference/50bb7a05-57dc-4bd5-bc8e-706ab08cfc6d.json",
+    "identifier": "50bb7a05-57dc-4bd5-bc8e-706ab08cfc6d",
+    "uri": "/reference/50bb7a05-57dc-4bd5-bc8e-706ab08cfc6d"
+}

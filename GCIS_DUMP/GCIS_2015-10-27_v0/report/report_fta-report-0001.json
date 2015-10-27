@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/fta-report-0001.json",
+    "identifier": "fta-report-0001",
+    "in_library": null,
+    "publication_year": 2011,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Flooded Bus Barns and Buckled Rails: Public Transportation and Climate Change Adaptation. FTA Report No. 0001 ",
+    "topic": null,
+    "uri": "/report/fta-report-0001",
+    "url": "http://www.fta.dot.gov/documents/FTA_0001_-_Flooded_Bus_Barns_and_Buckled_Rails.pdf"
+}

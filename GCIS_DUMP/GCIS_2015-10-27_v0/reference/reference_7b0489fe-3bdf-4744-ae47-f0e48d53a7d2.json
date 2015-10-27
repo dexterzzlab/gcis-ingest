@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Author": "GCP,",
+        "Publisher": "Global Carbon Project",
+        "Title": "Carbon Budget 2012: An Annual Update of the Global Carbon Budget and Trends",
+        "URL": "http://www.globalcarbonproject.org/carbonbudget/",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "4087",
+        "_uuid": "7b0489fe-3bdf-4744-ae47-f0e48d53a7d2",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/955a4474-2314-4b6e-aef6-a731963f3257",
+    "href": "http://data.globalchange.gov/reference/7b0489fe-3bdf-4744-ae47-f0e48d53a7d2.json",
+    "identifier": "7b0489fe-3bdf-4744-ae47-f0e48d53a7d2",
+    "uri": "/reference/7b0489fe-3bdf-4744-ae47-f0e48d53a7d2"
+}

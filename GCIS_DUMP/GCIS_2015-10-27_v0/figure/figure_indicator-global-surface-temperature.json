@@ -1,0 +1,71 @@
+{
+    "attributes": null,
+    "caption": null,
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "08/88/076520b5509babbba47b2e3fdab6/global_surface_mean_temp_11_3_14.jpg",
+            "href": "http://data.globalchange.gov/assets/08/88/076520b5509babbba47b2e3fdab6/global_surface_mean_temp_11_3_14.jpg",
+            "identifier": "2e1bcf74-b71b-41c6-b2a0-cc9932a47738",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "a11b9f330484a32b4a33343e021fff68a273757a",
+            "size": 866084,
+            "thumbnail": "08/88/076520b5509babbba47b2e3fdab6/.thumb-2e1bcf74-b71b-41c6-b2a0-cc9932a47738.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/08/88/076520b5509babbba47b2e3fdab6/.thumb-2e1bcf74-b71b-41c6-b2a0-cc9932a47738.png",
+            "uri": "/file/2e1bcf74-b71b-41c6-b2a0-cc9932a47738",
+            "url": "/assets/08/88/076520b5509babbba47b2e3fdab6/global_surface_mean_temp_11_3_14.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/indicator-global-surface-temperature/figure/indicator-global-surface-temperature.json",
+    "identifier": "indicator-global-surface-temperature",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": null,
+            "description": null,
+            "identifier": "22abc7fa-44ed-4099-8a88-7415b826338e",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": null,
+            "url": null,
+            "usage_limits": "Free to use with credit to USGCRP"
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "table indicator-global-surface-temperature-data-pilot",
+            "note": "",
+            "publication_type_identifier": "table",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/indicator-global-surface-temperature/table/indicator-global-surface-temperature-data-pilot"
+        }
+    ],
+    "references": [],
+    "report_identifier": "indicator-global-surface-temperature",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": "2013-12-31T23:59:59",
+    "time_start": "1880-01-01T00:00:00",
+    "title": null,
+    "uri": "/report/indicator-global-surface-temperature/figure/indicator-global-surface-temperature",
+    "url": null,
+    "usage_limits": "Free to use with credit to USGCRP."
+}

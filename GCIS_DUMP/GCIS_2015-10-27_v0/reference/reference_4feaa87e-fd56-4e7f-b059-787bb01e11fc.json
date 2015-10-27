@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Kolivras, K.N.",
+        "DOI": "10.3354/cr00861",
+        "ISSN": "0936-577X",
+        "Issue": "1",
+        "Journal": "Climate Research",
+        "Pages": "1-11",
+        "Title": "Changes in dengue risk potential in Hawaii, USA, due to climate variability and change",
+        "URL": "http://www.int-res.com/articles/cr2010/42/c042p001.pdf",
+        "Volume": "42",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "208",
+        "_uuid": "4feaa87e-fd56-4e7f-b059-787bb01e11fc",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.3354/cr00861",
+    "href": "http://data.globalchange.gov/reference/4feaa87e-fd56-4e7f-b059-787bb01e11fc.json",
+    "identifier": "4feaa87e-fd56-4e7f-b059-787bb01e11fc",
+    "uri": "/reference/4feaa87e-fd56-4e7f-b059-787bb01e11fc"
+}

@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "DOT,",
+        "Institution": "U.S. Department of Transportation: Federal Highway Administration, John A. Volpe National Transportation Systems Center",
+        "Pages": "22",
+        "Title": "Interagency Transportation, Land Use, and Climate Change Cape Cod Pilot Project: Cape Cod Commission Action Plan",
+        "URL": "http://www.volpe.dot.gov/sites/volpe.dot.gov/files/docs/ccc_action_plan.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "3306",
+        "_uuid": "c4d79f3e-9c60-42b8-bc0e-a89bca75b629",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/dot-volpe-capecodcommission-2011",
+    "href": "http://data.globalchange.gov/reference/c4d79f3e-9c60-42b8-bc0e-a89bca75b629.json",
+    "identifier": "c4d79f3e-9c60-42b8-bc0e-a89bca75b629",
+    "uri": "/reference/c4d79f3e-9c60-42b8-bc0e-a89bca75b629"
+}

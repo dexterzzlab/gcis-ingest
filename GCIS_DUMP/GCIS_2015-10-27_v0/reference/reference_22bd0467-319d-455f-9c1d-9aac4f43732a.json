@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".publisher": "Nature Publishing Group",
+        ".reference_type": "0",
+        "Author": "Raymond, Peter A.\rOh, Neung-Hwan\rTurner, R. Eugene\rBroussard, Whitney",
+        "DOI": "10.1038/nature06505",
+        "ISSN": "0028-0836",
+        "Issue": "7177",
+        "Journal": "Nature",
+        "Notes": "10.1038/nature06505",
+        "Pages": "449-452",
+        "Title": "Anthropogenically enhanced fluxes of water and carbon from the Mississippi River",
+        "URL": "http://www.nature.com/nature/journal/v451/n7177/pdf/nature06505.pdf",
+        "Volume": "451",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "4253",
+        "_uuid": "22bd0467-319d-455f-9c1d-9aac4f43732a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/nature06505",
+    "href": "http://data.globalchange.gov/reference/22bd0467-319d-455f-9c1d-9aac4f43732a.json",
+    "identifier": "22bd0467-319d-455f-9c1d-9aac4f43732a",
+    "uri": "/reference/22bd0467-319d-455f-9c1d-9aac4f43732a"
+}

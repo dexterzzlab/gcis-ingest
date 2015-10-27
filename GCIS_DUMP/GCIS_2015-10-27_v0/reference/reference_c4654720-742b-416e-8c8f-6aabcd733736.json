@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Rhodes, Jonathan J. \rWilliam L. Baker",
+        "DOI": "10.2174/1874398600801010001",
+        "Journal": "The Open Forest Science Journal",
+        "Pages": "1-7",
+        "Title": "Fire probability, fuel treatment effectiveness and ecological tradeoffs in western U.S. public forests ",
+        "URL": "http://www.benthamscience.com/open/tofscij/articles/V001/1TOFSCIJ.pdf",
+        "Volume": "1",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "4156",
+        "_uuid": "c4654720-742b-416e-8c8f-6aabcd733736",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.2174/1874398600801010001",
+    "href": "http://data.globalchange.gov/reference/c4654720-742b-416e-8c8f-6aabcd733736.json",
+    "identifier": "c4654720-742b-416e-8c8f-6aabcd733736",
+    "uri": "/reference/c4654720-742b-416e-8c8f-6aabcd733736"
+}

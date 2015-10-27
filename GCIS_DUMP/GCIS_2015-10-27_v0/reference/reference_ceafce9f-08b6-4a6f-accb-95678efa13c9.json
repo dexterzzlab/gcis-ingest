@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "McFarlane, A.C.\rVan Hooff, M.",
+        "DOI": "10.1192/bjp.bp.108.054270",
+        "ISSN": "0007-1250",
+        "Issue": "2",
+        "Journal": "The British Journal of Psychiatry",
+        "Pages": "142-148",
+        "Title": "Impact of childhood exposure to a natural disaster on adult mental health: 20-year longitudinal follow-up study",
+        "URL": "http://bjp.rcpsych.org/content/195/2/142.full.pdf+html",
+        "Volume": "195",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "1939",
+        "_uuid": "ceafce9f-08b6-4a6f-accb-95678efa13c9",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1192/bjp.bp.108.054270",
+    "href": "http://data.globalchange.gov/reference/ceafce9f-08b6-4a6f-accb-95678efa13c9.json",
+    "identifier": "ceafce9f-08b6-4a6f-accb-95678efa13c9",
+    "uri": "/reference/ceafce9f-08b6-4a6f-accb-95678efa13c9"
+}

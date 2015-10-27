@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Gu, Lianhong\rHanson, Paul J.\rMac Post, W.\rKaiser, Dale P.\rYang, Bai\rNemani, Ramakrishna\rPallardy, Stephen G.\rMeyers, Tilden",
+        "DOI": "10.1641/b580311",
+        "Date": "Mar",
+        "ISSN": "0006-3568",
+        "Issue": "3",
+        "Journal": "BioScience",
+        "Pages": "253-262",
+        "Title": "The 2007 eastern US spring freezes: Increased cold damage in a warming world?",
+        "URL": "http://www.jstor.org/stable/10.1641/B580311",
+        "Volume": "58",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\",\"RG 3 Midwest\",\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "20",
+        "_uuid": "5d949044-ccb3-4d40-a2f1-688f8e856d2b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1641/b580311",
+    "href": "http://data.globalchange.gov/reference/5d949044-ccb3-4d40-a2f1-688f8e856d2b.json",
+    "identifier": "5d949044-ccb3-4d40-a2f1-688f8e856d2b",
+    "uri": "/reference/5d949044-ccb3-4d40-a2f1-688f8e856d2b"
+}

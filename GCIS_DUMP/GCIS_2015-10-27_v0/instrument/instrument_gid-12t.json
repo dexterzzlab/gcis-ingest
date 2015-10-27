@@ -1,0 +1,8 @@
+{
+    "description": "Space environment monitor",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/gid-12t.json",
+    "identifier": "gid-12t",
+    "name": "GID-12T",
+    "uri": "/instrument/gid-12t"
+}

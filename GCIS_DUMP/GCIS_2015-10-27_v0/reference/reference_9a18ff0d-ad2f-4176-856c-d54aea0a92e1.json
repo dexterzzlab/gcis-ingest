@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Menne, M.J.\rWilliams, C.N., Jr.\rR.S. Vose",
+        "DOI": "10.1175/2008BAMS2613.1",
+        "Issue": "7",
+        "Journal": "Bulletin of the American Meteorological Society",
+        "Pages": "993-1007",
+        "Title": "The US Historical Climatology Network monthly temperature data, version 2",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/2008BAMS2613.1",
+        "Volume": "90",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "1999",
+        "_uuid": "9a18ff0d-ad2f-4176-856c-d54aea0a92e1",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/2008BAMS2613.1",
+    "href": "http://data.globalchange.gov/reference/9a18ff0d-ad2f-4176-856c-d54aea0a92e1.json",
+    "identifier": "9a18ff0d-ad2f-4176-856c-d54aea0a92e1",
+    "uri": "/reference/9a18ff0d-ad2f-4176-856c-d54aea0a92e1"
+}

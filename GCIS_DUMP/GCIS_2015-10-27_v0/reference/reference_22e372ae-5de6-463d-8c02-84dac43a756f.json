@@ -1,0 +1,28 @@
+{
+    "attrs": {
+        ".place_published": "Germany",
+        ".publisher": "Springer-Verlag",
+        ".reference_type": "0",
+        "Abstract": "Sea-level rise will increase the area covered by hurricane storm surges in coastal zones. This research assesses how patterns of vulnerability to storm-surge flooding could change in Hampton Roads, Virginia as a result of sea-level rise. Physical exposure to storm-surge flooding is mapped for all categories of hurricane, both for present sea level and for future sea-level rise. The locations of vulnerable sub-populations are determined through an analysis and mapping of socioeconomic characteristics commonly associated with vulnerability to environmental hazards and are compared to the flood-risk exposure zones. Scenarios are also developed that address uncertainties regarding future population growth and distribution. The results show that hurricane storm surge presents a significant hazard to Hampton Roads today, especially to the most vulnerable inhabitants of the region. In addition, future sea-level rise, population growth, and poorly planned development will increase the risk of storm-surge flooding, especially for vulnerable people, thus suggesting that planning should steer development away from low-lying coastal and near-coastal zones.",
+        "Author": "Kleinosky, Lisa R.\rYarnal, Brent\rFisher, Ann",
+        "DOI": "10.1007/s11069-006-0004-z",
+        "ISSN": "0921-030X",
+        "Issue": "1",
+        "Journal": "Natural Hazards",
+        "Language": "English",
+        "Name of Database": "Environmental Science and Pollution Management; GeoRef; PAIS",
+        "Notes": "2009-02-01; English; 43-70; Civil Engineering (CE); 290415423; Kleinosky, Lisa R; Yarnal, Brent; Fisher, Ann; OB-OH-0001279767; 200705-30-175341 (CE); 10.1007/s11069-006-0004-z; 0921-030X; http://findtext.lib.ncsu.edu/?SS_Source=3&amp; genre=article&amp; sid=ProQ:&amp; atitle=Vulnerability+of+Hampton+Roads%2C+Virginia+to+Storm-Surge+Flooding+and+Sea-Level+Rise&amp; title=Natural+Hazards&amp; issn=0921-030X&amp; date=2007-01-01&amp; volume=40&amp; issue=1&amp; spage=43&amp; SS_docid=290415423&amp; author=Kleinosky%2C+Lisa+R%3BYarnal%2C+Brent%3BFisher%2C+Ann; http://www.springerlink.com/content/c680j814k323j315/?p=25d89be3f343459bb8c",
+        "Pages": "43-70",
+        "Title": "Vulnerability of Hampton Roads, Virginia to storm-surge flooding and sea-level rise",
+        "Volume": "40",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "1772",
+        "_uuid": "22e372ae-5de6-463d-8c02-84dac43a756f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s11069-006-0004-z",
+    "href": "http://data.globalchange.gov/reference/22e372ae-5de6-463d-8c02-84dac43a756f.json",
+    "identifier": "22e372ae-5de6-463d-8c02-84dac43a756f",
+    "uri": "/reference/22e372ae-5de6-463d-8c02-84dac43a756f"
+}

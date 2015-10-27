@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Sleeter, Benjamin M.\rSohl, Terry L.\rLoveland, Thomas R.\rAuch, Roger F.\rAcevedo, William\rDrummond, Mark A.\rSayler, Kristi L.\rStehman, Stephen V.",
+        "DOI": "10.1016/j.gloenvcha.2013.03.006",
+        "ISSN": "0959-3780",
+        "Issue": "4",
+        "Journal": "Global Environmental Change",
+        "Keywords": "Land use\rLand cover\rEcoregions\rLandsat\rUrbanization\rForestry\rAgriculture",
+        "Pages": "733-748",
+        "Title": "Land-cover change in the conterminous United States from 1973 to 2000",
+        "URL": "http://www.sciencedirect.com/science/article/pii/S0959378013000538",
+        "Volume": "23",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 13: Land Use and Land Cover Change FINAL\"]",
+        "_record_number": "4175",
+        "_uuid": "437471ba-9fe3-4547-b193-7bf3ec00fbf3",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.gloenvcha.2013.03.006",
+    "href": "http://data.globalchange.gov/reference/437471ba-9fe3-4547-b193-7bf3ec00fbf3.json",
+    "identifier": "437471ba-9fe3-4547-b193-7bf3ec00fbf3",
+    "uri": "/reference/437471ba-9fe3-4547-b193-7bf3ec00fbf3"
+}

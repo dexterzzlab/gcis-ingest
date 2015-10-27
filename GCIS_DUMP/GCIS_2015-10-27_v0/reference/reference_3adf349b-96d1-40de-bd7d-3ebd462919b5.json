@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Rieman, Bruce E. \rDaniel J. Isaak",
+        "Institution": "U.S. Department of Agriculture, Forest Service, Rocky Mountain Research Station",
+        "Pages": "46",
+        "Place Published": "Fort Collins, CO",
+        "Title": "Climate Change, Aquatic Ecosystems, and Fishes in the Rocky Mountain West: Implications and Alternatives for Management. Gen. Tech. Rep. RMRS-GTR-250",
+        "URL": "http://www.regions.noaa.gov/western/wp-content/uploads/2011/08/2010_USFW_Climate_Change_Aquatic_Ecosystems_and_Fishes.pdf",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "3833",
+        "_uuid": "3adf349b-96d1-40de-bd7d-3ebd462919b5",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usfs-rmrs-gtr-250",
+    "href": "http://data.globalchange.gov/reference/3adf349b-96d1-40de-bd7d-3ebd462919b5.json",
+    "identifier": "3adf349b-96d1-40de-bd7d-3ebd462919b5",
+    "uri": "/reference/3adf349b-96d1-40de-bd7d-3ebd462919b5"
+}

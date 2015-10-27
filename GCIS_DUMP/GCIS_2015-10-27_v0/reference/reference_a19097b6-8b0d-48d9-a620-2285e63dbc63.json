@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "SANDAG,",
+        "Book Title": "2050 Regional Transportation Plan",
+        "Pages": "3-2 - 3-82",
+        "Publisher": "San Diego Association of Governments",
+        "Reviewer": "a19097b6-8b0d-48d9-a620-2285e63dbc63",
+        "Title": "Ch. 3: Forging a path toward more sustainable living: Sustainable communities strategy",
+        "URL": "http://www.sandag.org/uploads/2050RTP/F2050rtp_all.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 11: Urban Systems FINAL\"]",
+        "_record_number": "2739",
+        "_uuid": "a19097b6-8b0d-48d9-a620-2285e63dbc63",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/sandag-2050rtp",
+    "href": "http://data.globalchange.gov/reference/a19097b6-8b0d-48d9-a620-2285e63dbc63.json",
+    "identifier": "a19097b6-8b0d-48d9-a620-2285e63dbc63",
+    "uri": "/reference/a19097b6-8b0d-48d9-a620-2285e63dbc63"
+}

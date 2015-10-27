@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Burkett, M.",
+        "Journal": "Asia Pacific Issues",
+        "Notes": "Burkett, M. (2011). In search of refuge: Pacific Islands, climate-induced migration, and the legal frontier. <i>Asia Pacific Issues, 98</i>, 1-8",
+        "Pages": "1-8",
+        "Title": "In search of refuge: Pacific Islands, climate-induced migration, and the legal frontier",
+        "URL": "http://hdl.handle.net/10125/19409",
+        "Volume": "98",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "938",
+        "_uuid": "2ded1929-1a15-43af-b44d-630d3766fdca",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/in-search-refuge-pacific-islands-climate-induced-migration",
+    "href": "http://data.globalchange.gov/reference/2ded1929-1a15-43af-b44d-630d3766fdca.json",
+    "identifier": "2ded1929-1a15-43af-b44d-630d3766fdca",
+    "uri": "/reference/2ded1929-1a15-43af-b44d-630d3766fdca"
+}

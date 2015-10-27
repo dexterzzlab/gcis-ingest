@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Holling, C. S.",
+        "Book Title": "Engineering Within Ecological Constraints",
+        "Editor": "Schulze, P.",
+        "ISBN": "9780309176453",
+        "Pages": "31-44",
+        "Publisher": "National Academies Press",
+        "Reviewer": "f0040a30-a3ad-4cf2-b6e5-0ad7ea565a37",
+        "Title": "Engineering resilience versus ecological resilience",
+        "Year": "1996",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "3779",
+        "_uuid": "f0040a30-a3ad-4cf2-b6e5-0ad7ea565a37",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/8edb7bea-4471-4321-8a33-4db7c024b889",
+    "href": "http://data.globalchange.gov/reference/f0040a30-a3ad-4cf2-b6e5-0ad7ea565a37.json",
+    "identifier": "f0040a30-a3ad-4cf2-b6e5-0ad7ea565a37",
+    "uri": "/reference/f0040a30-a3ad-4cf2-b6e5-0ad7ea565a37"
+}

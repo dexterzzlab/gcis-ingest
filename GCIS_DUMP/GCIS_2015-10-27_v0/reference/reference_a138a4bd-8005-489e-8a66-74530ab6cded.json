@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2012",
+        "Author": "ERS,",
+        "Place Published": "Washington D.C.",
+        "Publisher": "U.S. Department of Agriculture, Economic Research Service",
+        "Title": "Data sets. State fact sheets",
+        "URL": "http://ers.usda.gov/data-products/state-fact-sheets.aspx",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\",\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "491",
+        "_uuid": "a138a4bd-8005-489e-8a66-74530ab6cded",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/6c46c347-1ecf-499e-ad61-c2f7b2ca0860",
+    "href": "http://data.globalchange.gov/reference/a138a4bd-8005-489e-8a66-74530ab6cded.json",
+    "identifier": "a138a4bd-8005-489e-8a66-74530ab6cded",
+    "uri": "/reference/a138a4bd-8005-489e-8a66-74530ab6cded"
+}

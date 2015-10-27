@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/usfs-fs-977.json",
+    "identifier": "usfs-fs-977",
+    "in_library": null,
+    "publication_year": 2011,
+    "report_type_identifier": "report",
+    "summary": "The Watershed Condition Framework (WCF) is a comprehensive approach for proactively implementing integrated restoration on priority watersheds on national forests and grasslands. \r\n\r\nThe WCF proposes to improve the way the Forest Service approaches watershed restoration by targeting the implementation of integrated suites of activities in those watersheds that have been identified as priorities for restoration. The WCF also establishes a nationally consistent reconnaissance-level approach for classifying watershed condition, using a comprehensive set of 12 indicators that are surrogate variables representing the underlying ecological, hydrological, and geomorphic functions and processes that affect watershed condition. Primary emphasis is on aquatic and terrestrial processes and conditions that Forest Service management activities can influence. The approach is designed to foster integrated ecosystem-based watershed assessments; target programs of work in watersheds that have been identified for restoration; enhance communication and coordination with external agencies and partners; and improve national-scale reporting and monitoring of program accomplishments. The WCF provides the Forest Service with an outcome-based performance measure for documenting improvement to watershed condition at forest, regional, and national scales.",
+    "title": "Watershed Condition Framework",
+    "topic": null,
+    "uri": "/report/usfs-fs-977",
+    "url": "http://www.fs.fed.us/publications/watershed/"
+}

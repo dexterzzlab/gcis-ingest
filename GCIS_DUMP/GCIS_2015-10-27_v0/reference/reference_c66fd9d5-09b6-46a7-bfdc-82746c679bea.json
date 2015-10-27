@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Matso, Kalle ",
+        "Book Title": "Restoring Lands - Coordinating Science, Politics, and Action: Complexities of Climate and Governance",
+        "DOI": "10.1007/978-94-007-2549-2",
+        "Editor": "Karl, H. A.\rScarlett, L.\rVargas-Moreno, J.C.\rFlaxman, M.",
+        "ISBN": "978-94-007-2549-2",
+        "Pages": "129-160",
+        "Place Published": "Dordrecht, The Netherlands",
+        "Publisher": "Springer",
+        "Reviewer": "c66fd9d5-09b6-46a7-bfdc-82746c679bea",
+        "Title": "Ch. 7: Challenge of integrating natural and social sciences to better inform decisions: A novel proposal review process",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4025",
+        "_uuid": "c66fd9d5-09b6-46a7-bfdc-82746c679bea",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/5e3b5313-71b5-49e9-9590-67f16a9a6f67",
+    "href": "http://data.globalchange.gov/reference/c66fd9d5-09b6-46a7-bfdc-82746c679bea.json",
+    "identifier": "c66fd9d5-09b6-46a7-bfdc-82746c679bea",
+    "uri": "/reference/c66fd9d5-09b6-46a7-bfdc-82746c679bea"
+}

@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "U.S. Census Bureau,",
+        "Institution": "U.S. Census Bureau",
+        "Pages": "4",
+        "Place Published": "Washington, D.C.",
+        "Title": "Housing of American Indians on Reservations - Plumbing. Bureau of the Census Statistical Brief, Issued April 1995, SB/95-9",
+        "URL": "http://www.census.gov/prod/1/statbrief/sb95_9.pdf",
+        "Year": "1995",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\"]",
+        "_record_number": "3890",
+        "_uuid": "a6d8a237-839a-469f-8aa0-7062b2ba9206",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/census-sb-95-9",
+    "href": "http://data.globalchange.gov/reference/a6d8a237-839a-469f-8aa0-7062b2ba9206.json",
+    "identifier": "a6d8a237-839a-469f-8aa0-7062b2ba9206",
+    "uri": "/reference/a6d8a237-839a-469f-8aa0-7062b2ba9206"
+}

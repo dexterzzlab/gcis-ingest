@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Transportation Research Board,",
+        "ISBN": "978-0-309-25856-2",
+        "Number of Pages": "105",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "National Academy of Sciences, Transportation Research Board",
+        "Reviewer": "82001bc9-b039-4690-be54-9a92335c9fbb",
+        "Title": "Methodologies to Estimate the Economic Impacts of Disruptions to the Goods Movement System, National Cooperative Highway Research Program Report 732.",
+        "URL": "http://www.trb.org/Main/Blurbs/167969.aspx",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 5: Transportation FINAL\"]",
+        "_record_number": "3925",
+        "_uuid": "82001bc9-b039-4690-be54-9a92335c9fbb",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/trb-nationalcooperative-highwayresearch-programreport-732",
+    "href": "http://data.globalchange.gov/reference/82001bc9-b039-4690-be54-9a92335c9fbb.json",
+    "identifier": "82001bc9-b039-4690-be54-9a92335c9fbb",
+    "uri": "/reference/82001bc9-b039-4690-be54-9a92335c9fbb"
+}

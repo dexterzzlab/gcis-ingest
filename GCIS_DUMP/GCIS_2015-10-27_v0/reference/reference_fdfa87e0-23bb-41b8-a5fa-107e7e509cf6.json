@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "4",
+        "Author": "Devens, T.",
+        "Date": "29 May, 2012",
+        "Notes": "T. Devens, at NCDOT, project manager for the US 64 project said reference should be a personal communication with him. He clarified that after an extensive literature review they decided to allow an additional 18 inches for SLR, on top of the elevation recommendation from their standard hydrological expert analysis.  So the project elevation recommendation of 4ft =18 inches for SLR + current hydrological elevation analysis. They do not have the 18 inches or 4ft numbers in any type of official document but do state the need to include SLR in their (NCDOT) planning process in Chapter 2 of their \u201c US 64 Improvements Project: Draft Environmental Impact Statement\u201d document dated 12/14/2011.",
+        "Recipient": "Hern\u00e1ndez Hammer, N.",
+        "Title": "Phone Interview",
+        "Year": "2012",
+        "_chapter": "[\"RG 2 Southeast\",\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "1262",
+        "_uuid": "fdfa87e0-23bb-41b8-a5fa-107e7e509cf6",
+        "reftype": "Personal Communication"
+    },
+    "child_publication": null,
+    "href": "http://data.globalchange.gov/reference/fdfa87e0-23bb-41b8-a5fa-107e7e509cf6.json",
+    "identifier": "fdfa87e0-23bb-41b8-a5fa-107e7e509cf6",
+    "uri": "/reference/fdfa87e0-23bb-41b8-a5fa-107e7e509cf6"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Thomson, A.M.\rCalvin, K.V.\rSmith, S.J.\rKyle, G.P.\rVolke, A.\rPatel, P.\rDelgado-Arias, S.\rBond-Lamberty, B.\rWise, M.A.\rClarke, L.E.",
+        "DOI": "10.1007/s10584-011-0151-4",
+        "ISSN": "0165-0009",
+        "Issue": "1-2",
+        "Journal": "Climatic Change",
+        "Pages": "77-94",
+        "Title": "RCP4.5: A pathway for stabilization of radiative forcing by 2100",
+        "Volume": "109",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "3052",
+        "_uuid": "bfd356e4-1e09-47b2-b618-218f59c7d5d3",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-011-0151-4",
+    "href": "http://data.globalchange.gov/reference/bfd356e4-1e09-47b2-b618-218f59c7d5d3.json",
+    "identifier": "bfd356e4-1e09-47b2-b618-218f59c7d5d3",
+    "uri": "/reference/bfd356e4-1e09-47b2-b618-218f59c7d5d3"
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Birdsey, R.\rPregitzer, K.\rLucier, A. ",
+        "DOI": "10.2134/jeq2005.0162",
+        "Issue": "4",
+        "Journal": "Journal of Environmental Quality",
+        "Pages": "1461\u20131469",
+        "Title": "Forest carbon management in the United States: 1600\u20132100",
+        "Volume": "35",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\",\"Ch. 7: Forests FINAL\",\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "728",
+        "_uuid": "4c53dfcf-e3e2-47e0-a356-369324e49cd5",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.2134/jeq2005.0162",
+    "href": "http://data.globalchange.gov/reference/4c53dfcf-e3e2-47e0-a356-369324e49cd5.json",
+    "identifier": "4c53dfcf-e3e2-47e0-a356-369324e49cd5",
+    "uri": "/reference/4c53dfcf-e3e2-47e0-a356-369324e49cd5"
+}

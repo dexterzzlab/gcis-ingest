@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "DOE,",
+        "Institution": "U.S. Department of Energy",
+        "Pages": "168",
+        "Place Published": "Washington, D.C.",
+        "Title": "Report of the First Quadrennial Technology Review",
+        "URL": "http://energy.gov/sites/prod/files/QTR_report.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "1431",
+        "_uuid": "34795f15-2d59-46c5-8033-20abdb627381",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/doe-firstqtr-2011",
+    "href": "http://data.globalchange.gov/reference/34795f15-2d59-46c5-8033-20abdb627381.json",
+    "identifier": "34795f15-2d59-46c5-8033-20abdb627381",
+    "uri": "/reference/34795f15-2d59-46c5-8033-20abdb627381"
+}

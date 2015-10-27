@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Greening, H.\rDoering, P.\rCorbett, C.",
+        "DOI": "10.1007/BF02798646",
+        "ISSN": "1559-2723",
+        "Issue": "6",
+        "Journal": "Estuaries and Coasts",
+        "Pages": "877-879",
+        "Title": "Hurricane impacts on coastal ecosystems",
+        "Volume": "29",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "863",
+        "_uuid": "b6dccd7d-4315-4509-a375-6e8ffb16461f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/BF02798646",
+    "href": "http://data.globalchange.gov/reference/b6dccd7d-4315-4509-a375-6e8ffb16461f.json",
+    "identifier": "b6dccd7d-4315-4509-a375-6e8ffb16461f",
+    "uri": "/reference/b6dccd7d-4315-4509-a375-6e8ffb16461f"
+}

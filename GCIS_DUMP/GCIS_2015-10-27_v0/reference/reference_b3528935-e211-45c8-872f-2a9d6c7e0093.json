@@ -1,0 +1,32 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Accession Number": "20113516",
+        "Alternate Journal": "BMC public health",
+        "Author": "Febriani, Y.\rLevallois, P.\rGingras, S.\rGosselin, P.\rMajowicz, S. E.\rFleury, M. D.",
+        "Author Address": "Unite de recherche en sante publique, Centre Hospitalier Universitaire du Quebec, Quebec City, Quebec, Canada.",
+        "DOI": "10.1186/1471-2458-10-48",
+        "Database Provider": "NLM",
+        "Epub Date": "2010/02/02",
+        "ISSN": "1471-2458 (Electronic); 1471-2458 (Linking)",
+        "Issue": "1",
+        "Journal": "BMC Public Health",
+        "Keywords": "Acute Disease; Adolescent; Adult; Aged; Aged, 80 and over; Agriculture; Analysis of Variance; Child; Child, Preschool; Cities; Cross-Sectional Studies; Female; Gastrointestinal Diseases/ epidemiology; Health Surveys; Humans; Infant; Logistic Models; Male; Middle Aged; Prevalence; Quebec/epidemiology; Rain; Risk Factors; Rural Population; Seasons; Young Adult",
+        "Language": "eng",
+        "PMCID": "2834625",
+        "Pages": "48",
+        "Title": "The association between farming activities, precipitation, and the risk of acute gastrointestinal illness in rural municipalities of Quebec, Canada: A cross-sectional study",
+        "URL": "http://www.biomedcentral.com/content/pdf/1471-2458-10-48.pdf",
+        "UUID": "Food/water-borne disease (m/m), Extreme weather (m/m), non-US",
+        "Volume": "10",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "126",
+        "_uuid": "b3528935-e211-45c8-872f-2a9d6c7e0093",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1186/1471-2458-10-48",
+    "href": "http://data.globalchange.gov/reference/b3528935-e211-45c8-872f-2a9d6c7e0093.json",
+    "identifier": "b3528935-e211-45c8-872f-2a9d6c7e0093",
+    "uri": "/reference/b3528935-e211-45c8-872f-2a9d6c7e0093"
+}

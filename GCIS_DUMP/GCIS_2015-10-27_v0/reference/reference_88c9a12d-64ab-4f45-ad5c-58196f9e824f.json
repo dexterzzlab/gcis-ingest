@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".number_of_volumes": "1",
+        ".reference_type": "0",
+        "Author": "Amelung, Bas\rMoreno, Alvaro\rScott, Daniel",
+        "DOI": "10.3727/154427208785899984",
+        "Date": "2008-03-01",
+        "Journal": "Tourism Review International",
+        "Pages": "5-12",
+        "Title": "The place of tourism in the IPCC Fourth Assessment Report: A review",
+        "Volume": "12",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "4502",
+        "_uuid": "88c9a12d-64ab-4f45-ad5c-58196f9e824f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.3727/154427208785899984",
+    "href": "http://data.globalchange.gov/reference/88c9a12d-64ab-4f45-ad5c-58196f9e824f.json",
+    "identifier": "88c9a12d-64ab-4f45-ad5c-58196f9e824f",
+    "uri": "/reference/88c9a12d-64ab-4f45-ad5c-58196f9e824f"
+}

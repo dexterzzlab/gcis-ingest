@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Zhao, T.\rHorner, M.W.\rSulik, J.",
+        "DOI": "10.1080/00045608.2011.567936",
+        "ISSN": "0004-5608",
+        "Issue": "4",
+        "Journal": "Annals of the Association of American Geographers",
+        "Pages": "752-763",
+        "Title": "A geographic approach to sectoral carbon inventory: Examining the balance between consumption-based emissions and land-use carbon sequestration in Florida",
+        "Volume": "101",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 13: Land Use and Land Cover Change FINAL\"]",
+        "_record_number": "3537",
+        "_uuid": "04cf84c6-54e7-4c8d-be01-e211f92eeea5",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1080/00045608.2011.567936",
+    "href": "http://data.globalchange.gov/reference/04cf84c6-54e7-4c8d-be01-e211f92eeea5.json",
+    "identifier": "04cf84c6-54e7-4c8d-be01-e211f92eeea5",
+    "uri": "/reference/04cf84c6-54e7-4c8d-be01-e211f92eeea5"
+}

@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2012",
+        "Author": "U.S. Government Revenue,",
+        "Place Published": "Seattle, WA",
+        "Publisher": "Christopher Chantrill",
+        "Title": "Comparison of State and Local Government Revenue and Debt in the United States Fiscal Year 2010 ",
+        "URL": "http://www.usgovernmentrevenue.com/state_rev_summary.php?chart=Z0&year=2010&units=d&rank=a",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "3173",
+        "_uuid": "2b3f0fb0-4239-47f2-9cd5-9946bda07a0d",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/3ef3ddef-0feb-4166-82f4-f4c918aad07e",
+    "href": "http://data.globalchange.gov/reference/2b3f0fb0-4239-47f2-9cd5-9946bda07a0d.json",
+    "identifier": "2b3f0fb0-4239-47f2-9cd5-9946bda07a0d",
+    "uri": "/reference/2b3f0fb0-4239-47f2-9cd5-9946bda07a0d"
+}

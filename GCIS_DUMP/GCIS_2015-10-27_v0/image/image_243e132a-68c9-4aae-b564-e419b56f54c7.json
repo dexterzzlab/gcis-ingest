@@ -1,0 +1,86 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/3261.json",
+            "id": 3261,
+            "organization": {
+                "country_code": "US",
+                "identifier": "university-puerto-rico",
+                "name": "University of Puerto Rico",
+                "organization_type_identifier": "academic",
+                "url": "http://www.upr.edu"
+            },
+            "organization_uri": "/organization/university-puerto-rico",
+            "person": {
+                "first_name": "Ernesto",
+                "id": 1681,
+                "last_name": "Weil",
+                "middle_name": null,
+                "orcid": null,
+                "url": "http://www.uprm.edu/p/cima/ernesto_weil_phd"
+            },
+            "person_id": 1681,
+            "person_uri": "/person/1681",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/3261"
+        }
+    ],
+    "create_dt": "2013-01-03T16:08:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "A colony of star coral (Montastraea faveolata) off the southwestern coast of Puerto Rico (estimated to be about 500 years old) exemplifies the effect of rising water temperatures. Increasing disease due to warming waters killed the central portion of the colony (yellow portion in A), followed by such high temperatures that bleaching - or loss of symbiotic algae from coral - occurred from the surrounding tissue (white area in B). The coral then experienced more disease in the bleached area on the periphery (C) that ultimately killed the colony (D). (Photo credit: Ernesto Weil).",
+            "chapter_identifier": "oceans-marine-resources",
+            "create_dt": "2013-01-03T16:08:00",
+            "identifier": "warming-seas-are-a-doubleblow-to-corals",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 4,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Warming Seas Are a Double-blow to Corals",
+            "url": "http://nca2014.globalchange.gov/highlights/report-findings/widespread-impacts/graphics/coral-bleaching",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "f7/55/471e2ad1e5deddcc1ec2e24c32bd/oceans_coral_photo_time_series_v3_paneld.png",
+            "href": "http://data.globalchange.gov/assets/f7/55/471e2ad1e5deddcc1ec2e24c32bd/oceans_coral_photo_time_series_v3_paneld.png",
+            "identifier": "3c22b49f-3b70-4b77-a4e6-86f56dabb3d8",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "e70838b906c59ba97a4353b4596365f2f5ab2179",
+            "size": 1171921,
+            "thumbnail": "f7/55/471e2ad1e5deddcc1ec2e24c32bd/.thumb-3c22b49f-3b70-4b77-a4e6-86f56dabb3d8.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/f7/55/471e2ad1e5deddcc1ec2e24c32bd/.thumb-3c22b49f-3b70-4b77-a4e6-86f56dabb3d8.png",
+            "uri": "/file/3c22b49f-3b70-4b77-a4e6-86f56dabb3d8",
+            "url": "/assets/f7/55/471e2ad1e5deddcc1ec2e24c32bd/oceans_coral_photo_time_series_v3_paneld.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/243e132a-68c9-4aae-b564-e419b56f54c7.json",
+    "identifier": "243e132a-68c9-4aae-b564-e419b56f54c7",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Warming Seas Are a Double-blow to Corals - December 2006",
+    "uri": "/image/243e132a-68c9-4aae-b564-e419b56f54c7",
+    "url": null,
+    "usage_limits": null
+}

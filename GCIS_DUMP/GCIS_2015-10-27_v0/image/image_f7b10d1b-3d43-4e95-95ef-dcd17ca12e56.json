@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-10-23T11:15:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "At many locations in the western U.S., the timing of streamflow in rivers fed by snowpack is shifting to earlier in the year. Red dots indicate stream gauge locations where half of the annual flow is now arriving anywhere from 5 to 20 days earlier each year for 2001-2010, relative to the 1951-2000 average. Blue dots indicate locations where the annual flow is now arriving later. Crosses indicate locations where observed changes are not statistically different from the past century baseline at 90% confidence levels, diamonds indicate gauges where the timing difference was significantly different at 90% confidence, and dots indicate gauges where timing was different at 95% confidence level. (Updated from Stewart et al. 2005).<tbib>e4a5a03e-0138-4ebb-98ad-6fb28ec56be5</tbib>",
+            "chapter_identifier": "appendix-climate-science-supplement",
+            "create_dt": "2013-10-23T11:15:00",
+            "identifier": "streamflow-from-snowmelt-coming-earlier-in-the-year",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 30,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Streamflow from Snowmelt Coming Earlier in the Year",
+            "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/streamflow-snowmelt-coming-earlier-year",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "8a/6d/9005a3064f4ff7834736856c7e0c/app_center_of_flow_dates_v4.png",
+            "href": "http://data.globalchange.gov/assets/8a/6d/9005a3064f4ff7834736856c7e0c/app_center_of_flow_dates_v4.png",
+            "identifier": "695d3bdd-e043-46f2-9b18-3bf111349615",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "2dfdb5bd409c9595e6cf935bdb9f433f1edf262a",
+            "size": 106381,
+            "thumbnail": "8a/6d/9005a3064f4ff7834736856c7e0c/.thumb-695d3bdd-e043-46f2-9b18-3bf111349615.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/8a/6d/9005a3064f4ff7834736856c7e0c/.thumb-695d3bdd-e043-46f2-9b18-3bf111349615.png",
+            "uri": "/file/695d3bdd-e043-46f2-9b18-3bf111349615",
+            "url": "/assets/8a/6d/9005a3064f4ff7834736856c7e0c/app_center_of_flow_dates_v4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/f7b10d1b-3d43-4e95-95ef-dcd17ca12e56.json",
+    "identifier": "f7b10d1b-3d43-4e95-95ef-dcd17ca12e56",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2010-12-31T23:59:59",
+    "time_start": "1951-01-01T00:00:00",
+    "title": "Streamflow from Snowmelt Coming Earlier in the Year",
+    "uri": "/image/f7b10d1b-3d43-4e95-95ef-dcd17ca12e56",
+    "url": null,
+    "usage_limits": null
+}

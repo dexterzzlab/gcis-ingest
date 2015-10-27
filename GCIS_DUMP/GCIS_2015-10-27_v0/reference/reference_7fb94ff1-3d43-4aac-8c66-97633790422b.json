@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Accession Number": "WOS:000263134600018",
+        "Author": "Van Buskirk, J.\rMulvihill, R. S.\rLeberman, R. C.",
+        "DOI": "10.1111/j.1365-2486.2008.01751.x",
+        "Date": "Mar",
+        "ISSN": "1354-1013",
+        "Issue": "3",
+        "Journal": "Global Change Biology",
+        "Keywords": "bird migration; climate change; NAO; passerine; phenology; temperature; temporal trend; long-term trends; atlantic oscillation; bird migration; avian migration; arrival dates; migrant birds; evolutionary responses; distance; migration; plant phenology; departure dates",
+        "Pages": "760-771",
+        "Title": "Variable shifts in spring and autumn migration phenology in North American songbirds associated with climate change",
+        "Type of Article": "Article",
+        "Volume": "15",
+        "Year": "2008",
+        "_chapter": "[\"RF 10\",\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "3261",
+        "_uuid": "7fb94ff1-3d43-4aac-8c66-97633790422b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1365-2486.2008.01751.x",
+    "href": "http://data.globalchange.gov/reference/7fb94ff1-3d43-4aac-8c66-97633790422b.json",
+    "identifier": "7fb94ff1-3d43-4aac-8c66-97633790422b",
+    "uri": "/reference/7fb94ff1-3d43-4aac-8c66-97633790422b"
+}

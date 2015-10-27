@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".publisher": "Copernicus Publications",
+        ".reference_type": "0",
+        "Author": "Tague, C. L.\rChoate, J. S.\rGrant, G.",
+        "DOI": "10.5194/hess-17-341-2013",
+        "ISSN": "1607-7938",
+        "Issue": "1",
+        "Journal": "Hydrology and Earth System Sciences",
+        "Notes": "HESS",
+        "Pages": "341-354",
+        "Title": "Parameterizing sub-surface drainage with geology to improve modeling streamflow responses to climate in data limited environments",
+        "URL": "http://www.hydrol-earth-syst-sci.net/17/341/2013/",
+        "Volume": "17",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "3830",
+        "_uuid": "4f07c4b9-ff00-4d78-8433-3c94ef2eb6db",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.5194/hess-17-341-2013",
+    "href": "http://data.globalchange.gov/reference/4f07c4b9-ff00-4d78-8433-3c94ef2eb6db.json",
+    "identifier": "4f07c4b9-ff00-4d78-8433-3c94ef2eb6db",
+    "uri": "/reference/4f07c4b9-ff00-4d78-8433-3c94ef2eb6db"
+}

@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "CCCSTI,",
+        "Institution": "The Committee on Climate Change Science and Technology Integration ",
+        "Pages": "190",
+        "Title": "Strategies of the Commercialization and Deployment of Greenhouse Gas Intensity-Reducing Technologies and Practices. DOE/PI-000",
+        "URL": "http://www.climatetechnology.gov/Strategy-Intensity-Reducing-Technologies.pdf",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\",\"RF 12\"]",
+        "_record_number": "1613",
+        "_uuid": "9f42f0bd-9355-4646-800a-7d87ef0256b2",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/doe-pi-0007-2009",
+    "href": "http://data.globalchange.gov/reference/9f42f0bd-9355-4646-800a-7d87ef0256b2.json",
+    "identifier": "9f42f0bd-9355-4646-800a-7d87ef0256b2",
+    "uri": "/reference/9f42f0bd-9355-4646-800a-7d87ef0256b2"
+}

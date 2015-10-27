@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Safeeq, Mohammad\rGrant, Gordon E.\rLewis, Sarah L.\rTague, Christina L.",
+        "DOI": "10.1002/hyp.9628",
+        "ISSN": "1099-1085",
+        "Issue": "5",
+        "Journal": "Hydrological Processes",
+        "Keywords": "streamflow trend\rhydrologic processes\rgroundwater processes\rclimate\rwarming",
+        "Pages": "655-668",
+        "Title": "Coupling snowpack and groundwater dynamics to interpret historical streamflow trends in the western United States",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1002/hyp.9628/pdf",
+        "Volume": "27",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "3827",
+        "_uuid": "f9e81abd-6a04-4015-83ed-d5d9fa37e48e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/hyp.9628",
+    "href": "http://data.globalchange.gov/reference/f9e81abd-6a04-4015-83ed-d5d9fa37e48e.json",
+    "identifier": "f9e81abd-6a04-4015-83ed-d5d9fa37e48e",
+    "uri": "/reference/f9e81abd-6a04-4015-83ed-d5d9fa37e48e"
+}

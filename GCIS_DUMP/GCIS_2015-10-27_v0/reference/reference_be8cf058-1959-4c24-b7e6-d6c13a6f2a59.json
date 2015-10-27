@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "McCabe, Gregory J.\rBunnell, Joseph E.",
+        "DOI": "10.1089/1530366041210765",
+        "ISSN": "1530-3667",
+        "Issue": "2",
+        "Journal": "Vector-Borne and Zoonotic Diseases",
+        "Pages": "143-148",
+        "Title": "Precipitation and the occurrence of Lyme disease in the northeastern United States",
+        "Volume": "4",
+        "Year": "2004",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "3981",
+        "_uuid": "be8cf058-1959-4c24-b7e6-d6c13a6f2a59",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1089/1530366041210765",
+    "href": "http://data.globalchange.gov/reference/be8cf058-1959-4c24-b7e6-d6c13a6f2a59.json",
+    "identifier": "be8cf058-1959-4c24-b7e6-d6c13a6f2a59",
+    "uri": "/reference/be8cf058-1959-4c24-b7e6-d6c13a6f2a59"
+}

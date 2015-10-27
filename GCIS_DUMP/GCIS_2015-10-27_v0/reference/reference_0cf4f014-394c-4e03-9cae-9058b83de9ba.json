@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Deser, C.\rA.S. Phillips\rM.A. Alexander",
+        "DOI": "10.1029/2010GL043321",
+        "Issue": "10",
+        "Journal": "Geophysical Research Letters",
+        "Pages": "L10701",
+        "Title": "Twentieth century tropical sea surface temperature trends revisited",
+        "Volume": "37",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\",\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "1711",
+        "_uuid": "0cf4f014-394c-4e03-9cae-9058b83de9ba",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2010GL043321",
+    "href": "http://data.globalchange.gov/reference/0cf4f014-394c-4e03-9cae-9058b83de9ba.json",
+    "identifier": "0cf4f014-394c-4e03-9cae-9058b83de9ba",
+    "uri": "/reference/0cf4f014-394c-4e03-9cae-9058b83de9ba"
+}

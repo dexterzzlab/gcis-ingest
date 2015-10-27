@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2013",
+        "Author": "USDA, ",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "U.S. Department of Agriculture, Economic Research Service",
+        "Title": "Atlas of Rural and Small-Town America",
+        "URL": "http://www.ers.usda.gov/data-products/atlas-of-rural-and-small-town-america/go-to-the-atlas.aspx",
+        "Year": "2013",
+        "_chapter": "[\"RG 9 Rural\",\"Ch. 14: Rural Communities FINAL\"]",
+        "_record_number": "4385",
+        "_uuid": "5a9e656f-8a8f-497e-b11d-85db13fe4b4b",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/2cb79b4a-31cf-43ec-a70a-0371626f1407",
+    "href": "http://data.globalchange.gov/reference/5a9e656f-8a8f-497e-b11d-85db13fe4b4b.json",
+    "identifier": "5a9e656f-8a8f-497e-b11d-85db13fe4b4b",
+    "uri": "/reference/5a9e656f-8a8f-497e-b11d-85db13fe4b4b"
+}

@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2012",
+        "Author": "HRSA,",
+        "Publisher": "U.S. Department of Health and Human Services, Health Resources and Services Administration",
+        "Title": "Defining the Rural Population",
+        "URL": "http://www.hrsa.gov/ruralhealth/policy/definition_of_rural.html",
+        "Year": "2012",
+        "_chapter": "[\"RG 9 Rural\",\"Ch. 14: Rural Communities FINAL\"]",
+        "_record_number": "3592",
+        "_uuid": "219975d0-837f-4c17-bc30-d4c18a9e1b44",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/6a112820-f7d6-49fc-9ef3-5954f92ec4e6",
+    "href": "http://data.globalchange.gov/reference/219975d0-837f-4c17-bc30-d4c18a9e1b44.json",
+    "identifier": "219975d0-837f-4c17-bc30-d4c18a9e1b44",
+    "uri": "/reference/219975d0-837f-4c17-bc30-d4c18a9e1b44"
+}

@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Hoerling, M.P.\rM. Dettinger\rK. Wolter\rJ. Lukas\rJ. Eischeid\rR. Nemani\rB. Liebmann\rK. E. Kunkel",
+        "Book Title": "Assessment of Climate Change in the Southwest United States: A Technical Report Prepared for the U.S. National Climate Assessment",
+        "Editor": "Garfin, G.\rJardine, A.\rBlack, M.\rMerideth, R.\rOverpeck, J.\rRay, A.",
+        "Reviewer": "c3ef1f99-a398-45f5-ab9b-9495402070af",
+        "Title": "Ch. 5: Evolving weather and climate conditions of the Southwest United States",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "669",
+        "_uuid": "c3ef1f99-a398-45f5-ab9b-9495402070af",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/swccar-assessment-climate-change-in-southwest-us",
+    "href": "http://data.globalchange.gov/reference/c3ef1f99-a398-45f5-ab9b-9495402070af.json",
+    "identifier": "c3ef1f99-a398-45f5-ab9b-9495402070af",
+    "uri": "/reference/c3ef1f99-a398-45f5-ab9b-9495402070af"
+}

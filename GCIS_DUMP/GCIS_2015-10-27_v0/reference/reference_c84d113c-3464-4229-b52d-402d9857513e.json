@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Johnson, K.M.\rD.T. Lichter",
+        "DOI": "10.1111/j.1728-4457.2008.00222.x",
+        "ISSN": "1728-4457",
+        "Issue": "2",
+        "Journal": "Population and Development Review",
+        "Pages": "327-346",
+        "Title": "Natural increase: A new source of population growth in emerging Hispanic destinations in the United States",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/j.1728-4457.2008.00222.x/pdf",
+        "Volume": "34",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\"]",
+        "_record_number": "1161",
+        "_uuid": "c84d113c-3464-4229-b52d-402d9857513e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1728-4457.2008.00222.x",
+    "href": "http://data.globalchange.gov/reference/c84d113c-3464-4229-b52d-402d9857513e.json",
+    "identifier": "c84d113c-3464-4229-b52d-402d9857513e",
+    "uri": "/reference/c84d113c-3464-4229-b52d-402d9857513e"
+}

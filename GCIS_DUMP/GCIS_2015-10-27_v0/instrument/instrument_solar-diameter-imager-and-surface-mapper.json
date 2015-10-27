@@ -1,0 +1,8 @@
+{
+    "description": "Solar irradiance monitor",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/solar-diameter-imager-and-surface-mapper.json",
+    "identifier": "solar-diameter-imager-and-surface-mapper",
+    "name": "SOlar Diameter Imager and Surface Mapper",
+    "uri": "/instrument/solar-diameter-imager-and-surface-mapper"
+}

@@ -1,0 +1,12 @@
+{
+    "description": "Starlette (Satellite de Taille Adapt\u00e9e avec R\u00e9flecteurs Laser pour les Etudes de la Terre) is a `Solid Earth' mission of CNES (Centre National d'Etudes Spatiales), France, a passive satellite dedicated to geodetic and geophysical studies with SLR (Satellite Laser Ranging) observation support.",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/s/starlette",
+    "end_date": "2050-12-01T00:00:00",
+    "href": "http://data.globalchange.gov/platform/starlette.json",
+    "identifier": "starlette",
+    "name": "STARLETTE",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "1975-02-06T00:00:00",
+    "uri": "/platform/starlette",
+    "url": null
+}

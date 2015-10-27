@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Dell, Jan\rTierney, Susan\rFranco, Guido\rNewell, Richard G.\rRichels, Rich\rWeyant, John\rWilbanks, Thomas J.",
+        "Book Title": "Climate Change Impacts in the United States: The Third National Climate Assessment",
+        "DOI": "(doi)",
+        "Editor": "Melillo, Jerry M.\rTerese (T.C.) Richmond,\rYohe, Gary W.",
+        "Pages": "4-1\u2013nn",
+        "Place Published": "Washington, DC",
+        "Publisher": "U.S. Global Change Research Program",
+        "Reviewer": "686dd899-0f98-4423-ba29-fce90af74586",
+        "Title": "Ch. 4: Energy Supply and Use",
+        "URL": "http://nca2014.globalchange.gov/report/sectors/energy",
+        "Year": "2014",
+        "_chapter": "[\"Ch. 0: About this Report FINAL\"]",
+        "_record_number": "4715",
+        "_uuid": "686dd899-0f98-4423-ba29-fce90af74586",
+        "reftype": "Book Section"
+    },
+    "child_publication": null,
+    "href": "http://data.globalchange.gov/reference/686dd899-0f98-4423-ba29-fce90af74586.json",
+    "identifier": "686dd899-0f98-4423-ba29-fce90af74586",
+    "uri": "/reference/686dd899-0f98-4423-ba29-fce90af74586"
+}

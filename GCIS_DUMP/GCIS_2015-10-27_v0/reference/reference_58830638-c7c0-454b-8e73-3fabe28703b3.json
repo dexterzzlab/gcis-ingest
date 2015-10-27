@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Wyrtki, K.",
+        "DOI": "10.1175/1520-0485(1975)005<0572:ENTDRO>2.0.CO;2",
+        "ISSN": "1520-0485",
+        "Issue": "4",
+        "Journal": "Journal of Physical Oceanography",
+        "Pages": "572-584",
+        "Title": "El Ni\u00f1o - the dynamic response of the equatorial Pacific Ocean to atmospheric forcing",
+        "Volume": "5",
+        "Year": "1975",
+        "_chapter": "[\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "3496",
+        "_uuid": "58830638-c7c0-454b-8e73-3fabe28703b3",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/1520-0485(1975)005%3C0572:ENTDRO%3E2.0.CO;2",
+    "href": "http://data.globalchange.gov/reference/58830638-c7c0-454b-8e73-3fabe28703b3.json",
+    "identifier": "58830638-c7c0-454b-8e73-3fabe28703b3",
+    "uri": "/reference/58830638-c7c0-454b-8e73-3fabe28703b3"
+}

@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "USGCRP,",
+        "Institution": "U.S. Global Change Research Program",
+        "Pages": "3",
+        "Place Published": "Washington, D.C.",
+        "Title": "National Climate Assessment Strategy - Summary",
+        "URL": "http://www.globalchange.gov/images/NCA/nca-summary-strategy_5-20-11.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 30: NCA Long-Term Process FINAL\"]",
+        "_record_number": "3691",
+        "_uuid": "e3809bee-6983-4944-9c9f-e7c2a737d4fa",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usgcrp-ncastrat-2011",
+    "href": "http://data.globalchange.gov/reference/e3809bee-6983-4944-9c9f-e7c2a737d4fa.json",
+    "identifier": "e3809bee-6983-4944-9c9f-e7c2a737d4fa",
+    "uri": "/reference/e3809bee-6983-4944-9c9f-e7c2a737d4fa"
+}

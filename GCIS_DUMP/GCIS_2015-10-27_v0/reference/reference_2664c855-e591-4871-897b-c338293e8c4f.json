@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Reclamation,",
+        "Institution": "U.S. Department of the Interior, Bureau of Reclamation, Pacific Northwest Region",
+        "Pages": "201",
+        "Place Published": "Boise, ID",
+        "Title": "Reclamation Managing Water in the West: Climate and Hydrology Datasets for Use in the River Management Joint Operating Committee (RMJOC) Agencies\u2019 Longer Term Planning Studies: Part II Reservoir Operations Assessment for Reclamation Tributary Basins",
+        "URL": "http://www.usbr.gov/pn/programs/climatechange/reports/part2.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "3222",
+        "_uuid": "2664c855-e591-4871-897b-c338293e8c4f",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usbr-climhydrol-2011",
+    "href": "http://data.globalchange.gov/reference/2664c855-e591-4871-897b-c338293e8c4f.json",
+    "identifier": "2664c855-e591-4871-897b-c338293e8c4f",
+    "uri": "/reference/2664c855-e591-4871-897b-c338293e8c4f"
+}

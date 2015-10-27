@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/sea-level-rise-map-services.json",
+    "identifier": "sea-level-rise-map-services",
+    "name": "Sea-Level Rise Map Services",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/sea-level-rise-map-services",
+    "url": "http://coast.noaa.gov/"
+}

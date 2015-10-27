@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Tetreault, R.",
+        "Institution": "American Association of State Highway and Transportation Officials",
+        "Place Published": "Washington, D.C.",
+        "Title": "AASHTO Climate Brief, Interview",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 5: Transportation FINAL\"]",
+        "_record_number": "3024",
+        "_uuid": "66c2aeca-6d4e-46d5-82b5-08a5716ccc6b",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/aashto-int-2011",
+    "href": "http://data.globalchange.gov/reference/66c2aeca-6d4e-46d5-82b5-08a5716ccc6b.json",
+    "identifier": "66c2aeca-6d4e-46d5-82b5-08a5716ccc6b",
+    "uri": "/reference/66c2aeca-6d4e-46d5-82b5-08a5716ccc6b"
+}

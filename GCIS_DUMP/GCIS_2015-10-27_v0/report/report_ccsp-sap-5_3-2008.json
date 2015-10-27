@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/ccsp-sap-5_3-2008.json",
+    "identifier": "ccsp-sap-5_3-2008",
+    "in_library": 1,
+    "publication_year": 2008,
+    "report_type_identifier": "report",
+    "summary": "Decision-Support Experiments and Evaluations using Seasonal-to-Interannual Forecasts and Observational Data: A Focus on Water Resources. A Report by the U.S. Climate Change Science Program and the Subcommittee on Global Change Research.",
+    "title": "SAP 5.3. Decision Support Experiments and Evaluations Using Seasonal to Interannual Forecasts and Observational Data",
+    "topic": "Water Resources,Adaptation,Observing Systems,Modeling",
+    "uri": "/report/ccsp-sap-5_3-2008",
+    "url": "http://downloads.globalchange.gov/sap/sap5-3/sap5-3-final-all.pdf"
+}

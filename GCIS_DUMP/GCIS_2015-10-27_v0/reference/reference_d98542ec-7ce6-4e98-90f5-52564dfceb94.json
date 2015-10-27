@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Kwok, R.\rRothrock, D. A.",
+        "DOI": "10.1029/2009gl039035",
+        "ISSN": "1944-8007",
+        "Issue": "15",
+        "Journal": "Geophysical Research Letters",
+        "Keywords": "sea ice thickness\rArctic Ocean\rpolar climate\r0750 Sea ice\r0762 Mass balance\r0764 Energy balance\r0758 Remote sensing",
+        "Pages": "L15501",
+        "Title": "Decline in Arctic sea ice thickness from submarine and ICESat records: 1958\u20132008",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2009GL039035/pdf",
+        "Volume": "36",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"RF 1\"]",
+        "_record_number": "3725",
+        "_uuid": "d98542ec-7ce6-4e98-90f5-52564dfceb94",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2009gl039035",
+    "href": "http://data.globalchange.gov/reference/d98542ec-7ce6-4e98-90f5-52564dfceb94.json",
+    "identifier": "d98542ec-7ce6-4e98-90f5-52564dfceb94",
+    "uri": "/reference/d98542ec-7ce6-4e98-90f5-52564dfceb94"
+}

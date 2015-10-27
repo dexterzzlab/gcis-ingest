@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "NRC,",
+        "Institution": "National Research Council, Panel on Addressing the Challenges of Climate Change Through the Behavioral and Social Sciences, Committee on the Human Dimensions of Global Change, Division of Behavioral and Social Sciences and Education",
+        "Pages": "174",
+        "Place Published": "Washington, D.C.",
+        "Series Editor": "Stern, P.C.\rKasperson, R.E.",
+        "Title": "Facilitating Climate Change Responses: A Report of Two Workshops on Knowledge from the Social and Behavioral Sciences",
+        "URL": "http://www.nap.edu/catalog.php?record_id=12996",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "2302",
+        "_uuid": "97d9c1ed-10d8-4f5b-886d-352a472206ba",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/nrc-facilitatingclimch-2010",
+    "href": "http://data.globalchange.gov/reference/97d9c1ed-10d8-4f5b-886d-352a472206ba.json",
+    "identifier": "97d9c1ed-10d8-4f5b-886d-352a472206ba",
+    "uri": "/reference/97d9c1ed-10d8-4f5b-886d-352a472206ba"
+}

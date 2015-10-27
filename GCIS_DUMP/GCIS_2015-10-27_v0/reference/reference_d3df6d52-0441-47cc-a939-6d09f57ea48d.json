@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Jacobson, M.Z.",
+        "DOI": "10.1029/2007GL031101",
+        "ISSN": "0094-8276",
+        "Issue": "3",
+        "Journal": "Geophysical Research Letters",
+        "Pages": "L03809",
+        "Title": "On the causal link between carbon dioxide and air pollution mortality",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2007GL031101/pdf",
+        "Volume": "35",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "1222",
+        "_uuid": "d3df6d52-0441-47cc-a939-6d09f57ea48d",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2007GL031101",
+    "href": "http://data.globalchange.gov/reference/d3df6d52-0441-47cc-a939-6d09f57ea48d.json",
+    "identifier": "d3df6d52-0441-47cc-a939-6d09f57ea48d",
+    "uri": "/reference/d3df6d52-0441-47cc-a939-6d09f57ea48d"
+}

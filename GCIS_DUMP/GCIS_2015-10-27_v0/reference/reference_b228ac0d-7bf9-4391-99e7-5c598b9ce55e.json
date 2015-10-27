@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "9",
+        "Editor": "Pryor, S.C.",
+        "ISBN": "978-0-253-00682-0",
+        "Number of Pages": "288",
+        "Place Published": "Bloomington, IN",
+        "Publisher": "Indiana University Press",
+        "Title": "Climate Change in the Midwest: Impacts, Risks, Vulnerability and Adaptation",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "2544",
+        "_uuid": "b228ac0d-7bf9-4391-99e7-5c598b9ce55e",
+        "reftype": "Edited Book"
+    },
+    "child_publication": "/book/434135ed-eb50-4c46-9484-77563769e657",
+    "href": "http://data.globalchange.gov/reference/b228ac0d-7bf9-4391-99e7-5c598b9ce55e.json",
+    "identifier": "b228ac0d-7bf9-4391-99e7-5c598b9ce55e",
+    "uri": "/reference/b228ac0d-7bf9-4391-99e7-5c598b9ce55e"
+}

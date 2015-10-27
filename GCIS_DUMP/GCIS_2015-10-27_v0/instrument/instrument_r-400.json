@@ -1,0 +1,8 @@
+{
+    "description": "Non-scanning MW radiometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/r-400.json",
+    "identifier": "r-400",
+    "name": "R-400",
+    "uri": "/instrument/r-400"
+}

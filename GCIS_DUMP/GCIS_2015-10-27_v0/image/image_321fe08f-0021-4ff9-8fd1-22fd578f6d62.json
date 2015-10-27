@@ -1,0 +1,88 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/1845.json",
+            "id": 1845,
+            "organization": {
+                "country_code": "US",
+                "identifier": "us-global-change-research-program",
+                "name": "U.S. Global Change Research Program",
+                "organization_type_identifier": "federal",
+                "url": "http://www.globalchange.gov"
+            },
+            "organization_uri": "/organization/us-global-change-research-program",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "author",
+            "uri": "/contributor/1845"
+        }
+    ],
+    "create_dt": null,
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "The educational guides are tailored to each region of the country shown above, as well as coasts and oceans. (Source: The Third National Climate Assessment, 2014)",
+            "chapter_identifier": "federal-investments-global-change-research",
+            "create_dt": null,
+            "identifier": "third-national-climate-assessment-map-regions",
+            "lat_max": "71.398048",
+            "lat_min": "18.913826",
+            "lon_max": "-66.957802",
+            "lon_min": "-179.133392",
+            "ordinal": 16,
+            "report_identifier": "usgcrp-ocpfy2016",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Third National Climate Assessment: Map of Regions",
+            "url": null,
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "c8/1a/6282af32ae3a8cab4178b27f68b1/HL25_nca3-education-regions-map.jpg",
+            "href": "http://data.globalchange.gov/assets/c8/1a/6282af32ae3a8cab4178b27f68b1/HL25_nca3-education-regions-map.jpg",
+            "identifier": "c33d72ce-45a1-49e9-806d-3657c804be92",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "1e83150f465dc0605282e09127bac3dcd43e440d",
+            "size": 1065857,
+            "thumbnail": "c8/1a/6282af32ae3a8cab4178b27f68b1/.thumb-c33d72ce-45a1-49e9-806d-3657c804be92.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/c8/1a/6282af32ae3a8cab4178b27f68b1/.thumb-c33d72ce-45a1-49e9-806d-3657c804be92.png",
+            "uri": "/file/c33d72ce-45a1-49e9-806d-3657c804be92",
+            "url": "/assets/c8/1a/6282af32ae3a8cab4178b27f68b1/HL25_nca3-education-regions-map.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/321fe08f-0021-4ff9-8fd1-22fd578f6d62.json",
+    "identifier": "321fe08f-0021-4ff9-8fd1-22fd578f6d62",
+    "lat_max": "71.398048",
+    "lat_min": "18.913826",
+    "lon_max": "-66.957802",
+    "lon_min": "-179.133392",
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Climate Change Impacts in the United States: The Third National Climate Assessment",
+            "note": "",
+            "publication_type_identifier": "report",
+            "relationship": "cito:cites",
+            "url": "/report/nca3"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Third National Climate Assessment: Map of Regions",
+    "uri": "/image/321fe08f-0021-4ff9-8fd1-22fd578f6d62",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

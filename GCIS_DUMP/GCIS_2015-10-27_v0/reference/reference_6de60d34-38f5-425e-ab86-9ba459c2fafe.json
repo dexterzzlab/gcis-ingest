@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Gaffin, S.R.\rRosenzweig, C.\rKhanbilvardi, R.\rParshall, L.\rMahani, S.\rGlickman, H.\rGoldberg, R.\rBlake, R.\rSlosberg, R.B.\rHillel, D.",
+        "DOI": "10.1007/s00704-007-0368-3",
+        "ISSN": "0177-798X",
+        "Issue": "1-2",
+        "Journal": "Theoretical and Applied Climatology",
+        "Pages": "1-11",
+        "Title": "Variations in New York City\u2019s urban heat island strength over time and space",
+        "Volume": "94",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "1758",
+        "_uuid": "6de60d34-38f5-425e-ab86-9ba459c2fafe",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s00704-007-0368-3",
+    "href": "http://data.globalchange.gov/reference/6de60d34-38f5-425e-ab86-9ba459c2fafe.json",
+    "identifier": "6de60d34-38f5-425e-ab86-9ba459c2fafe",
+    "uri": "/reference/6de60d34-38f5-425e-ab86-9ba459c2fafe"
+}

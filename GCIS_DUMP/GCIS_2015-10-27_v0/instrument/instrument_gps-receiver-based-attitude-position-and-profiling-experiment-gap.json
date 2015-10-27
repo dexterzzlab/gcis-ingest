@@ -1,0 +1,8 @@
+{
+    "description": "GNSS radio-occultation receiver",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/gps-receiver-based-attitude-position-and-profiling-experiment-gap.json",
+    "identifier": "gps-receiver-based-attitude-position-and-profiling-experiment-gap",
+    "name": "GPS receiver-based Attitude, Position, and profiling experiment (GAP)",
+    "uri": "/instrument/gps-receiver-based-attitude-position-and-profiling-experiment-gap"
+}

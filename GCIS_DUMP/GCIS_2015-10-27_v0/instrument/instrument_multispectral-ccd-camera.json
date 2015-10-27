@@ -1,0 +1,8 @@
+{
+    "description": "High resolution optical imager",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/multispectral-ccd-camera.json",
+    "identifier": "multispectral-ccd-camera",
+    "name": "Multispectral CCD Camera",
+    "uri": "/instrument/multispectral-ccd-camera"
+}

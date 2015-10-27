@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Brubaker, M.\rBerner, J.\rChavan, R.\rWarren, J.",
+        "DOI": "10.3402/gha.v4i0.8445",
+        "Journal": "Global Health Action",
+        "Pages": "1-5",
+        "Title": "Climate change and health effects in Northwest Alaska",
+        "URL": "http://www.globalhealthaction.net/index.php/gha/article/view/8445/12705",
+        "Volume": "4",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "280",
+        "_uuid": "93caee88-a37f-47dc-9b76-4351c6f122f5",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.3402/gha.v4i0.8445",
+    "href": "http://data.globalchange.gov/reference/93caee88-a37f-47dc-9b76-4351c6f122f5.json",
+    "identifier": "93caee88-a37f-47dc-9b76-4351c6f122f5",
+    "uri": "/reference/93caee88-a37f-47dc-9b76-4351c6f122f5"
+}

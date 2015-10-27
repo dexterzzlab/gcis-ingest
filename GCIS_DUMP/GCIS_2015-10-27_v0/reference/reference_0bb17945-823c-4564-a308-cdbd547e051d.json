@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Hammill, A.\rTanner, T.",
+        "DOI": "10.1787/5kg706918zvl-en",
+        "ISSN": "1997-0900",
+        "Journal": "OECD Environment Working Papers",
+        "Pages": "53",
+        "Title": "Harmonising climate risk management: Adaptation screening and assessment tools for development co-operation",
+        "Volume": "36",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "822",
+        "_uuid": "0bb17945-823c-4564-a308-cdbd547e051d",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1787/5kg706918zvl-en",
+    "href": "http://data.globalchange.gov/reference/0bb17945-823c-4564-a308-cdbd547e051d.json",
+    "identifier": "0bb17945-823c-4564-a308-cdbd547e051d",
+    "uri": "/reference/0bb17945-823c-4564-a308-cdbd547e051d"
+}

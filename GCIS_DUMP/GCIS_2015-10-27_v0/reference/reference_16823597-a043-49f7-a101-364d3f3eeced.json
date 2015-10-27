@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Pendleton, L.H.",
+        "Book Title": "The Economic and Market Value of Coasts and Estuaries: What's At Stake?",
+        "Editor": "Pendleton, L.H.",
+        "ISBN": "978-0615267340",
+        "Pages": "115-139",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "Coastal Ocean Values Press",
+        "Reviewer": "16823597-a043-49f7-a101-364d3f3eeced",
+        "Title": "The economic value of coastal and estuary recreation",
+        "URL": "http://www.habitat.noaa.gov/pdf/economic_and_market_valueofcoasts_and_estuaries.pdf",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "2459",
+        "_uuid": "16823597-a043-49f7-a101-364d3f3eeced",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/5128c9a6-b498-4c34-b037-ab9b75af8611",
+    "href": "http://data.globalchange.gov/reference/16823597-a043-49f7-a101-364d3f3eeced.json",
+    "identifier": "16823597-a043-49f7-a101-364d3f3eeced",
+    "uri": "/reference/16823597-a043-49f7-a101-364d3f3eeced"
+}

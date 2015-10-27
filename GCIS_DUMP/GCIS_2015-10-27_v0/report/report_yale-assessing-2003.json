@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/yale-assessing-2003.json",
+    "identifier": "yale-assessing-2003",
+    "in_library": null,
+    "publication_year": 2003,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Assessing the Environmental, Social, and Economic Impacts of Wildfire",
+    "topic": null,
+    "uri": "/report/yale-assessing-2003",
+    "url": "http://environment.yale.edu/gisf/files/pdfs/wildfire_report.pdf"
+}

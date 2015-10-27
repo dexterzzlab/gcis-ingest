@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/us-department-agriculture.json",
+    "identifier": "us-department-agriculture",
+    "name": "U.S. Department of Agriculture",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/us-department-agriculture",
+    "url": "http://www.usda.gov"
+}

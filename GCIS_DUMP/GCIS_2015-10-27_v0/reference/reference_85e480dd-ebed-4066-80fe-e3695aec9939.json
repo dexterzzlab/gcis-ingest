@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Measham, T.G.\rPreston, B.L.\rSmith, T.F.\rBrooke, C.\rGorddard, R.\rWithycombe, G.\rMorrison, C.",
+        "DOI": "10.1007/s11027-011-9301-2",
+        "ISSN": "1381-2386",
+        "Journal": "Mitigation and Adaptation Strategies for Global Change",
+        "Pages": "889-909",
+        "Title": "Adapting to climate change through local municipal planning: Barriers and challenges",
+        "URL": "http://link.springer.com/content/pdf/10.1007%2Fs11027-011-9301-2",
+        "Volume": "16",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "1975",
+        "_uuid": "85e480dd-ebed-4066-80fe-e3695aec9939",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s11027-011-9301-2",
+    "href": "http://data.globalchange.gov/reference/85e480dd-ebed-4066-80fe-e3695aec9939.json",
+    "identifier": "85e480dd-ebed-4066-80fe-e3695aec9939",
+    "uri": "/reference/85e480dd-ebed-4066-80fe-e3695aec9939"
+}

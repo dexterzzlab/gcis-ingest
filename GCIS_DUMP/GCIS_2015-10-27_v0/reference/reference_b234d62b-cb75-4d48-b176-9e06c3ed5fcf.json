@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Feely, R.A.\rS.R. Alin\rJ. Newton\rC.L. Sabine\rM. Warner\rA. Devol\rC. Krembs\rC. Maloy",
+        "DOI": "10.1016/j.ecss.2010.05.004",
+        "ISSN": "0272-7714",
+        "Issue": "4",
+        "Journal": "Estuarine, Coastal and Shelf Science",
+        "Pages": "442-449",
+        "Title": "The combined effects of ocean acidification, mixing, and respiration on pH and carbonate saturation in an urbanized estuary",
+        "Volume": "88",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\",\"Ch. 2: Our Changing Climate FINAL\",\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "422",
+        "_uuid": "b234d62b-cb75-4d48-b176-9e06c3ed5fcf",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.ecss.2010.05.004",
+    "href": "http://data.globalchange.gov/reference/b234d62b-cb75-4d48-b176-9e06c3ed5fcf.json",
+    "identifier": "b234d62b-cb75-4d48-b176-9e06c3ed5fcf",
+    "uri": "/reference/b234d62b-cb75-4d48-b176-9e06c3ed5fcf"
+}

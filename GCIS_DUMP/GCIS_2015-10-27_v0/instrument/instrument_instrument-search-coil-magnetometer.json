@@ -1,0 +1,8 @@
+{
+    "description": "Magnetometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/instrument-search-coil-magnetometer.json",
+    "identifier": "instrument-search-coil-magnetometer",
+    "name": "Instrument Search Coil Magnetometer",
+    "uri": "/instrument/instrument-search-coil-magnetometer"
+}

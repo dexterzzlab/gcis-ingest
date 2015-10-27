@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Mishra, Vimal\rCherkauer, Keith A.\rShukla, Shraddhanand",
+        "DOI": "10.1175/2009JHM1156.1",
+        "Date": "Feb",
+        "ISSN": "1525-755X",
+        "Issue": "1",
+        "Journal": "Journal of Hydrometeorology",
+        "Pages": "46-68",
+        "Title": "Assessment of drought due to historic climate variability and projected future climate change in the midwestern United States",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/2009JHM1156.1",
+        "Volume": "11",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "2055",
+        "_uuid": "3e92c048-624f-47f5-a476-7ed2780e0561",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/2009JHM1156.1",
+    "href": "http://data.globalchange.gov/reference/3e92c048-624f-47f5-a476-7ed2780e0561.json",
+    "identifier": "3e92c048-624f-47f5-a476-7ed2780e0561",
+    "uri": "/reference/3e92c048-624f-47f5-a476-7ed2780e0561"
+}

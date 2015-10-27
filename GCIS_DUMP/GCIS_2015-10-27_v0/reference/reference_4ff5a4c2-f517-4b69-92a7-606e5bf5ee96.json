@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Clark, W.C.\rMitchell, R.B.\rCash, D.W.",
+        "Book Title": "Global Environmental Assessments: Information and Influence",
+        "Editor": "R.B. Mitchell\rW.C. Clark\rD.W. Cash\rN. Dickson ",
+        "ISBN": "9780262134682",
+        "Pages": "1-26",
+        "Place Published": "Cambridge, MA",
+        "Publisher": "The MIT Press",
+        "Reviewer": "4ff5a4c2-f517-4b69-92a7-606e5bf5ee96",
+        "Title": "Ch. 1: Evaluating the in\ufb02uence of global environmental assessments",
+        "Year": "2006",
+        "_chapter": "[\"RX 1 Future\",\"Ch. 30: NCA Long-Term Process FINAL\"]",
+        "_record_number": "655",
+        "_uuid": "4ff5a4c2-f517-4b69-92a7-606e5bf5ee96",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/a219546f-cc1e-437c-b832-a068e4837824",
+    "href": "http://data.globalchange.gov/reference/4ff5a4c2-f517-4b69-92a7-606e5bf5ee96.json",
+    "identifier": "4ff5a4c2-f517-4b69-92a7-606e5bf5ee96",
+    "uri": "/reference/4ff5a4c2-f517-4b69-92a7-606e5bf5ee96"
+}

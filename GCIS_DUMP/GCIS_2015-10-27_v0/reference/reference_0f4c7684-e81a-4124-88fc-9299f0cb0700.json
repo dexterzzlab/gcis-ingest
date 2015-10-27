@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".publisher": "Copernicus Publications",
+        ".reference_type": "0",
+        "Author": "Werner, C.\rSchnyder, H.\rCuntz, M.\rKeitel, C.\rZeeman, M. J.\rDawson, T. E.\rBadeck, F. W.\rBrugnoli, E.\rGhashghaie, J.\rGrams, T. E. E.\rKayler, Z. E.\rLakatos, M.\rLee, X.\rM\u00e1guas, C.\rOg\u00e9e, J.\rRascher, K. G.\rSiegwolf, R. T. W.\rUnger, S.\rWelker, J.\rWingate, L.\rGessler, A.",
+        "DOI": "10.5194/bg-9-3083-2012",
+        "ISSN": "1726-4189",
+        "Issue": "8",
+        "Journal": "Biogeosciences",
+        "Notes": "BG",
+        "Pages": "3083-3111",
+        "Title": "Progress and challenges in using stable isotopes to trace plant carbon and water relations across scales",
+        "URL": "http://www.biogeosciences.net/9/3083/2012/bg-9-3083-2012.pdf",
+        "Volume": "9",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "4586",
+        "_uuid": "0f4c7684-e81a-4124-88fc-9299f0cb0700",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.5194/bg-9-3083-2012",
+    "href": "http://data.globalchange.gov/reference/0f4c7684-e81a-4124-88fc-9299f0cb0700.json",
+    "identifier": "0f4c7684-e81a-4124-88fc-9299f0cb0700",
+    "uri": "/reference/0f4c7684-e81a-4124-88fc-9299f0cb0700"
+}

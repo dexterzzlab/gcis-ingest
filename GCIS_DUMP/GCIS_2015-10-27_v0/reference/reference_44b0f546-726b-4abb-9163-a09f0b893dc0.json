@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Bruce, J.P.\rMartin, H.\rColucci, P.\rMcBean, G.\rMcDougall, J.\rShrubsole, D.\rWhalley, J.\rHalliday, R.\rAlden, M.\rMortsch, L.\rMills, B.",
+        "Institution": "Natural Resources Canada",
+        "Pages": "161",
+        "Title": "Climate Change Impacts on Boundary and Transboundary Water Management; Report to the Climate Change Impacts Adaptation Program",
+        "URL": "http://www.env.uwaterloo.ca/research/aird/aird_pub/Climate%20Change%20Impacts%20on%20Boundary%20and%20Transboundary%20Water%20Management.pdf",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 10: Energy Water Land FINAL\"]",
+        "_record_number": "304",
+        "_uuid": "44b0f546-726b-4abb-9163-a09f0b893dc0",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/natresourcescanada-climchimpacts-2003",
+    "href": "http://data.globalchange.gov/reference/44b0f546-726b-4abb-9163-a09f0b893dc0.json",
+    "identifier": "44b0f546-726b-4abb-9163-a09f0b893dc0",
+    "uri": "/reference/44b0f546-726b-4abb-9163-a09f0b893dc0"
+}

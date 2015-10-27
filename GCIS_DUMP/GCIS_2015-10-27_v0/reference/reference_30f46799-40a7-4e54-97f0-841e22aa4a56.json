@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Brown, T.C.\rFoti, R.\rRamirez, J. A. ",
+        "DOI": "10.1002/wrcr.20076",
+        "ISSN": "1944-7973",
+        "Issue": "3",
+        "Journal": "Water Resources Research",
+        "Pages": "1259-1276",
+        "Title": "Projecting fresh water withdrawals in the United States under a changing climate",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1002/wrcr.20076/pdf",
+        "Volume": "49",
+        "Year": "2013",
+        "_chapter": "[\"RF 7\",\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "1336",
+        "_uuid": "30f46799-40a7-4e54-97f0-841e22aa4a56",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/wrcr.20076",
+    "href": "http://data.globalchange.gov/reference/30f46799-40a7-4e54-97f0-841e22aa4a56.json",
+    "identifier": "30f46799-40a7-4e54-97f0-841e22aa4a56",
+    "uri": "/reference/30f46799-40a7-4e54-97f0-841e22aa4a56"
+}

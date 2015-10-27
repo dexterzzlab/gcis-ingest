@@ -1,0 +1,9 @@
+{
+    "description": "An experiment to assess the response of northern peatland ecosystems to increases in temperature and exposures to elevated atmospheric CO2 concentrations. The SPRUCE experiment is the primary component of the Terrestrial Ecosystem Science Scientific Focus Area of ORNL's Climate Change Program, focused on terrestrial ecosystems and the mechanisms that underlie their responses to climatic change. The experimental work is to be conducted in a Picea mariana [black spruce] \u2013 Sphagnum spp. bog forest in northern Minnesota, 40 km north of Grand Rapids, in the USDA Forest Service Marcell Experimental Forest (MEF). The site is located at the southern margin of the boreal peatland forest. It is an ecosystem considered especially vulnerable to climate change, and anticipated to be near its tipping point with respect to climate change. Responses to warming and interactions with increased atmospheric CO2 concentration are anticipated to have important feedbacks on the atmosphere and climate, because of the high carbon stocks harbored by such ecosystems.",
+    "description_attribution": "http://mnspruce.ornl.gov",
+    "href": "http://data.globalchange.gov/project/spruce-peatland-responses-under-climatic-environmental-change-experiment.json",
+    "identifier": "spruce-peatland-responses-under-climatic-environmental-change-experiment",
+    "name": "Spruce and Peatland Responses Under Climatic and Environmental Change Experiment",
+    "uri": "/project/spruce-peatland-responses-under-climatic-environmental-change-experiment",
+    "website": "http://mnspruce.ornl.gov"
+}

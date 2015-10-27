@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Accession Number": "16575582",
+        "Author": "Fleury, M.\rCharron, D. F.\rHolt, J. D.\rAllen, O. B.\rMaarouf, A. R.",
+        "DOI": "10.1007/s00484-006-0028-9",
+        "Date": "2006 Jul",
+        "ISSN": "0020-7128 (Print)",
+        "Issue": "6",
+        "Journal": "International Journal of Biometeorology",
+        "Keywords": "Alberta/epidemiology; Gram-Negative Bacteria/isolation & purification; Gram-Negative Bacterial Infections/*epidemiology; Humans; Intestinal Diseases/*epidemiology/*microbiology; Newfoundland and Labrador/epidemiology; *Temperature; EDAT- 2006/04/01 09:00; MHDA- 2007/04/18 09:00; PHST- 2005/07/29 [received]; PHST- 2006/02/07 [accepted]; PHST- 2006/01/24 [revised]; PHST- 2006/03/31 [aheadofprint]; AID - 10.1007/s00484-006-0028-9 [doi]; PST - ppublish",
+        "Language": "eng",
+        "Pages": "385-91",
+        "Title": "A time series analysis of the relationship of ambient temperature and common bacterial enteric infections in two Canadian provinces",
+        "Type of Article": "Journal Article DEP - 20060331",
+        "Volume": "50",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "1670",
+        "_uuid": "01c49cdf-06bb-41ef-95be-37a8553295b7",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s00484-006-0028-9",
+    "href": "http://data.globalchange.gov/reference/01c49cdf-06bb-41ef-95be-37a8553295b7.json",
+    "identifier": "01c49cdf-06bb-41ef-95be-37a8553295b7",
+    "uri": "/reference/01c49cdf-06bb-41ef-95be-37a8553295b7"
+}

@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Maupin, M. A.\rN.L. Barber",
+        "Pages": "46",
+        "Title": "Estimated Withdrawals From Principal Aquifers in the United States, 2000. U.S. Geological Survey Circular 1279",
+        "URL": "http://pubs.usgs.gov/circ/2005/1279/pdf/circ1279.pdf",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\"]",
+        "_record_number": "1915",
+        "_uuid": "e6082e67-a892-4f77-9dd9-79409c15feaa",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usgs-circular-1279",
+    "href": "http://data.globalchange.gov/reference/e6082e67-a892-4f77-9dd9-79409c15feaa.json",
+    "identifier": "e6082e67-a892-4f77-9dd9-79409c15feaa",
+    "uri": "/reference/e6082e67-a892-4f77-9dd9-79409c15feaa"
+}

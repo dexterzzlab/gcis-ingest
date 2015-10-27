@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "IPCC,",
+        "Book Title": "Climate Change 2007: Synthesis Report. Contribution of Working Groups I, II and III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change",
+        "Editor": "Core Writing Team, \rPachauri, R.K.\rReisinger, A.",
+        "ISBN": "92-9169-122-4",
+        "Pages": "56-62",
+        "Place Published": "Geneva, Switzerland",
+        "Publisher": "IPCC",
+        "Reviewer": "2544e8d3-d10e-4bee-9a49-250118633cad",
+        "Title": "Adaptation and mitigation options and responses, and the inter-relationship with sustainable development, at global and regional levels",
+        "URL": "http://www.ipcc.ch/pdf/assessment-report/ar4/syr/ar4_syr.pdf",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 29: Research Needs FINAL\"]",
+        "_record_number": "33",
+        "_uuid": "2544e8d3-d10e-4bee-9a49-250118633cad",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/ipcc-ar4-syr",
+    "href": "http://data.globalchange.gov/reference/2544e8d3-d10e-4bee-9a49-250118633cad.json",
+    "identifier": "2544e8d3-d10e-4bee-9a49-250118633cad",
+    "uri": "/reference/2544e8d3-d10e-4bee-9a49-250118633cad"
+}

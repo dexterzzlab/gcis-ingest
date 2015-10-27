@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-03-04T10:34:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Hurricane Irene over the Northeast on August 28, 2011. The storm, which brought catastrophic\r\n    flooding rains to parts of the Northeast, took 41 lives in the United States, and the economic cost was estimated at $16\r\n    billion.<tbib>20978b46-3ff5-4da8-912d-403b28f846fb</tbib> (Figure source: MODIS instrument on\r\n    NASA\u2019s Aqua satellite).",
+            "chapter_identifier": "northeast",
+            "create_dt": "2014-03-04T10:34:00",
+            "identifier": "flooding-and-hurricane-irene",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 3,
+            "report_identifier": "nca3",
+            "source_citation": "MODIS instrument on NASA\u2019s Aqua satellite",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Flooding and Hurricane Irene",
+            "url": "http://nca2014.globalchange.gov/report/regions/northeast/graphics/flooding-and-hurricane-irene",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "db/af/12c5aea6f0a78afaff125571b0c4/ne_hurricane_irene_v4.png",
+            "href": "http://data.globalchange.gov/assets/db/af/12c5aea6f0a78afaff125571b0c4/ne_hurricane_irene_v4.png",
+            "identifier": "87034ace-1988-4239-ade1-fcebbb3f5f3b",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "32c2cf3e01716d27a7888727bc61aa87d21de5a7",
+            "size": 589801,
+            "thumbnail": "db/af/12c5aea6f0a78afaff125571b0c4/.thumb-87034ace-1988-4239-ade1-fcebbb3f5f3b.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/db/af/12c5aea6f0a78afaff125571b0c4/.thumb-87034ace-1988-4239-ade1-fcebbb3f5f3b.png",
+            "uri": "/file/87034ace-1988-4239-ade1-fcebbb3f5f3b",
+            "url": "/assets/db/af/12c5aea6f0a78afaff125571b0c4/ne_hurricane_irene_v4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/a40895b4-9e23-4fc6-a476-c4eb9dc1efd1.json",
+    "identifier": "a40895b4-9e23-4fc6-a476-c4eb9dc1efd1",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2011-08-29T23:59:59",
+    "time_start": "2011-08-29T00:00:00",
+    "title": "Flooding and Hurricane Irene",
+    "uri": "/image/a40895b4-9e23-4fc6-a476-c4eb9dc1efd1",
+    "url": null,
+    "usage_limits": null
+}

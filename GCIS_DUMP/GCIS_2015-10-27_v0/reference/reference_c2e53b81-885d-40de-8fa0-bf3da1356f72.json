@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Patz, Jonathan A.\rHahn, Micah B.",
+        "Book Title": "Current Topics in Microbiology and Immunology",
+        "DOI": "10.1007/82_2012_274",
+        "ISBN": "978-3-642-35845-6",
+        "Language": "English",
+        "Pages": "141-171",
+        "Publisher": "Springer Berlin Heidelberg",
+        "Reviewer": "c2e53b81-885d-40de-8fa0-bf3da1356f72",
+        "Title": "Climate change and human health: A one health approach",
+        "Volume": "366",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "4218",
+        "_uuid": "c2e53b81-885d-40de-8fa0-bf3da1356f72",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/f5b4bd84-72e3-4c3c-9e93-df6b0b07ed16",
+    "href": "http://data.globalchange.gov/reference/c2e53b81-885d-40de-8fa0-bf3da1356f72.json",
+    "identifier": "c2e53b81-885d-40de-8fa0-bf3da1356f72",
+    "uri": "/reference/c2e53b81-885d-40de-8fa0-bf3da1356f72"
+}

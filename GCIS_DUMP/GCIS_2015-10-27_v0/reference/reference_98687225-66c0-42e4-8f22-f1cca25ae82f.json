@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "SYNOPSIS. Understanding how reefs vary over the present ranges of environmental conditions is key to understanding how coral reefs will adapt to a changing environment. Global environmental data of temperature, salinity, light, carbonate saturation state, and nutrients were recently compiled for nearly 1,000 reef locations. These data were statistically analyzed to (1) re-define environmental limits over which reefs exist today, (2) identify \u201cmarginal\u201d reefs; i.e., those that exist near or beyond \u201cnormal\u201d environmental limits of reef distribution, and (3) broadly classify reefs based on these major environmental variables. Temperature and salinity limits to coral reefs, as determined by this analysis, are very near those determined by previous researchers; but precise nutrient levels that could be considered limiting to coral reefs were not obvious at the scale of this analysis. However, in contrast to many previous studies that invoke low temperature as the reef-limiting factor at higher latitudes, this study indicates that reduced aragonite saturation and light penetration, both of which covary with temperature, may also be limiting. Identification of \u201cmarginal\u201d reef environments, and a new classification of reefs based on suites of environmental conditions, provide an improved global perspective toward predicting how reefs will respond to changing environmental conditions.",
+        "Author": "Kleypas, Joan A.\rMcManus, John W.\rMe\u00f1ez, Lambert A. B.",
+        "DOI": "10.1093/icb/39.1.146",
+        "Date": "February 1, 1999",
+        "Issue": "1",
+        "Journal": "American Zoologist",
+        "Pages": "146-159",
+        "Title": "Environmental limits to coral reef development: Where do we draw the line?",
+        "URL": "http://icb.oxfordjournals.org/content/39/1/146.full.pdf",
+        "Volume": "39",
+        "Year": "1999",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\"]",
+        "_record_number": "4571",
+        "_uuid": "98687225-66c0-42e4-8f22-f1cca25ae82f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1093/icb/39.1.146",
+    "href": "http://data.globalchange.gov/reference/98687225-66c0-42e4-8f22-f1cca25ae82f.json",
+    "identifier": "98687225-66c0-42e4-8f22-f1cca25ae82f",
+    "uri": "/reference/98687225-66c0-42e4-8f22-f1cca25ae82f"
+}

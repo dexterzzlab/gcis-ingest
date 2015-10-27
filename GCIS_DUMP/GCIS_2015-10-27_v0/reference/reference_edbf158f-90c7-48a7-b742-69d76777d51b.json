@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Loarie, S.R.\rDuffy, P.B.\rHamilton, H.\rAsner, G.P.\rField, C.B.\rAckerly, D.D.",
+        "DOI": "10.1038/nature08649",
+        "ISSN": "0028-0836",
+        "Issue": "7276",
+        "Journal": "Nature",
+        "Pages": "1052-1055",
+        "Title": "The velocity of climate change",
+        "Volume": "462",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "1764",
+        "_uuid": "edbf158f-90c7-48a7-b742-69d76777d51b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/nature08649",
+    "href": "http://data.globalchange.gov/reference/edbf158f-90c7-48a7-b742-69d76777d51b.json",
+    "identifier": "edbf158f-90c7-48a7-b742-69d76777d51b",
+    "uri": "/reference/edbf158f-90c7-48a7-b742-69d76777d51b"
+}

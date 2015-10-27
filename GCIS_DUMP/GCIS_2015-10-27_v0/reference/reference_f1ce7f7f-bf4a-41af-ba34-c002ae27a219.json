@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Ebi, K.L. \rBalbus, J.\rKinney, P.L.\rLipp, E.\rMills, D.\rO\u2019Neill, M.S.\rWilson, M.",
+        "Book Title": "Analyses of the Effects of Global Change on Human Health and Welfare and Human Systems. A Report By the U.S. Climate Change Science Program and the Subcommittee on Global Change Research",
+        "Editor": "Gamble, J.L.",
+        "Pages": "39-87",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "U.S. Environmental Protection Agency",
+        "Reviewer": "f1ce7f7f-bf4a-41af-ba34-c002ae27a219",
+        "Title": "Ch. 2: Effects of global change on human health",
+        "URL": "http://downloads.climatescience.gov/sap/sap4-6/sap4-6-final-report-Ch2-HumanHealth.pdf",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "603",
+        "_uuid": "f1ce7f7f-bf4a-41af-ba34-c002ae27a219",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/ccsp-sap-4_6-2008",
+    "href": "http://data.globalchange.gov/reference/f1ce7f7f-bf4a-41af-ba34-c002ae27a219.json",
+    "identifier": "f1ce7f7f-bf4a-41af-ba34-c002ae27a219",
+    "uri": "/reference/f1ce7f7f-bf4a-41af-ba34-c002ae27a219"
+}

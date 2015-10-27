@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Sheffield, P.E.\rLandrigan, P.J.",
+        "DOI": "10.1289/ehp.1002233",
+        "Issue": "3",
+        "Journal": "Environmental Health Perspectives",
+        "Pages": "291-298",
+        "Title": "Global climate change and children\u2019s health: Threats and strategies for prevention",
+        "URL": "http://environmentportal.in/files/climate%20change%20and%20childrens%20health.pdf",
+        "Volume": "119",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "2834",
+        "_uuid": "c681c3c2-48a8-4fe6-8e91-86db5bff7fa3",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1289/ehp.1002233",
+    "href": "http://data.globalchange.gov/reference/c681c3c2-48a8-4fe6-8e91-86db5bff7fa3.json",
+    "identifier": "c681c3c2-48a8-4fe6-8e91-86db5bff7fa3",
+    "uri": "/reference/c681c3c2-48a8-4fe6-8e91-86db5bff7fa3"
+}

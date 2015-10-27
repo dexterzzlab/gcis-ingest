@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Georgakakos, A.\rF. Zhang",
+        "Institution": "Georgia Institute of Technology",
+        "Pages": "229",
+        "Place Published": "Atlanta, Georgia, USA",
+        "Title": "Climate Change Scenario Assessment for ACF, OOA, SO, ACT, TN, and OSSS Basins in Georgia. Georgia Water Resources Institute (GWRI) Technical Report",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 17: Southeast and Caribbean FINAL\",\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "326",
+        "_uuid": "7259bc2b-d0aa-460b-b37a-79a11a386e00",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/gwri-ccsa-2011",
+    "href": "http://data.globalchange.gov/reference/7259bc2b-d0aa-460b-b37a-79a11a386e00.json",
+    "identifier": "7259bc2b-d0aa-460b-b37a-79a11a386e00",
+    "uri": "/reference/7259bc2b-d0aa-460b-b37a-79a11a386e00"
+}

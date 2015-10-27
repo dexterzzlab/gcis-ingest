@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "9",
+        "Editor": "Hand, M.M\rBaldwin, S.\rDeMeo, E. \rReilly, J.M.\rMai, T.\rArent, D.\rPorro, G\rMeshek, M. \rSandor, D.",
+        "Place Published": "Golden, CO",
+        "Publisher": "National Renewable Energy Laboratory (NREL)",
+        "Title": "Renewable Electricity Futures Study (Entire Report). NREL/TP-6A20-52409",
+        "URL": "http://www.nrel.gov/analysis/re_futures/",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 4: Energy Supply and Use FINAL\"]",
+        "_record_number": "4658",
+        "_uuid": "32c130c4-cb11-4d3f-abe7-993cffb15185",
+        "reftype": "Edited Book"
+    },
+    "child_publication": "/report/nrel-tp-64a20-52409",
+    "href": "http://data.globalchange.gov/reference/32c130c4-cb11-4d3f-abe7-993cffb15185.json",
+    "identifier": "32c130c4-cb11-4d3f-abe7-993cffb15185",
+    "uri": "/reference/32c130c4-cb11-4d3f-abe7-993cffb15185"
+}

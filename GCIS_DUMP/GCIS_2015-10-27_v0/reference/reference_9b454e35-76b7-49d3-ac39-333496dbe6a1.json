@@ -1,0 +1,28 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"6\" /><run start=\"7\" /></field></record>",
+        "Alternate Journal": "Nature",
+        "Author": "Montzka, S. A.\rDlugokencky, E. J.\rButler, J. H.",
+        "DOI": "10.1038/nature10322",
+        "Date": "Aug",
+        "ISSN": "0028-0836",
+        "Issue": "7358",
+        "Journal": "Nature",
+        "Keywords": "general-circulation model; nitrous-oxide; methane emissions; carbon-dioxide; anthropogenic nitrogen; atmospheric hydroxyl; marine; ecosystems; n2o; co2; cycle",
+        "Language": "English",
+        "Pages": "43-50",
+        "Title": "Non-CO2 greenhouse gases and climate change",
+        "Type of Article": "Review",
+        "Volume": "476",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "2072",
+        "_uuid": "9b454e35-76b7-49d3-ac39-333496dbe6a1",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/nature10322",
+    "href": "http://data.globalchange.gov/reference/9b454e35-76b7-49d3-ac39-333496dbe6a1.json",
+    "identifier": "9b454e35-76b7-49d3-ac39-333496dbe6a1",
+    "uri": "/reference/9b454e35-76b7-49d3-ac39-333496dbe6a1"
+}

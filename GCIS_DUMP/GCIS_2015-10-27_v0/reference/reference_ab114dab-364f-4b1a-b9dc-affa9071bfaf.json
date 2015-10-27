@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "McCollum, D.W.\rTanaka, J.A.\rMorgan, J.A.\rMitchell, J.E.\rMaczko, K.A.\rHidinger, L.\rFox, W.E.\rDuke, C.S.",
+        "Institution": "USDA Forest Service",
+        "Pages": "27",
+        "Place Published": "Rocky Mountain Research Station, Fort Collins, CO",
+        "Title": "Climate Change Effects on Rangelands: Affirming the Need for Monitoring. RMRS Human Dimensions Research Program: Discussion Paper",
+        "URL": "http://gis.fs.fed.us/rm/value/docs/climate_change_effects_rangelands.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "1930",
+        "_uuid": "ab114dab-364f-4b1a-b9dc-affa9071bfaf",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/rmrs-climcheffectsrangelands-2011",
+    "href": "http://data.globalchange.gov/reference/ab114dab-364f-4b1a-b9dc-affa9071bfaf.json",
+    "identifier": "ab114dab-364f-4b1a-b9dc-affa9071bfaf",
+    "uri": "/reference/ab114dab-364f-4b1a-b9dc-affa9071bfaf"
+}

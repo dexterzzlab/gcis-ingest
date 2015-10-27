@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "3",
+        "Author": "CCSP,",
+        "Conference Location": "Arlington, VA",
+        "Conference Name": "U.S. Climate Change Science Program Workshop: Climate Science in Support of Decision Making",
+        "Date": "November 14-16, 2005",
+        "Publisher": "U.S. Climate Change Science Program (CCSP)",
+        "Title": "U.S. Climate Change Science Program Workshop: Climate Science in Support of Decision Making",
+        "URL": "http://www.climatescience.gov/workshop2005/finalreport/CCSPworkshop2005report.pdf",
+        "Year of Conference": "2005",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "3136",
+        "_uuid": "43e3eb9c-261d-4ebe-8e2d-d68888a78037",
+        "reftype": "Conference Proceedings"
+    },
+    "child_publication": "/generic/0dc85be9-f396-4466-9369-8bcdbe3b232a",
+    "href": "http://data.globalchange.gov/reference/43e3eb9c-261d-4ebe-8e2d-d68888a78037.json",
+    "identifier": "43e3eb9c-261d-4ebe-8e2d-d68888a78037",
+    "uri": "/reference/43e3eb9c-261d-4ebe-8e2d-d68888a78037"
+}

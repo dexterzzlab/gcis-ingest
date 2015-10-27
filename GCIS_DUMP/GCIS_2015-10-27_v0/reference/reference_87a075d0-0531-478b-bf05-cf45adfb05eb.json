@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Commonwealth of Massachusetts,",
+        "Pages": "54",
+        "Place Published": "Boston, MA",
+        "Title": "Massachusetts Climate Protection Plan",
+        "Year": "2004",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "1099",
+        "_uuid": "87a075d0-0531-478b-bf05-cf45adfb05eb",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/commofma-cmp-2004",
+    "href": "http://data.globalchange.gov/reference/87a075d0-0531-478b-bf05-cf45adfb05eb.json",
+    "identifier": "87a075d0-0531-478b-bf05-cf45adfb05eb",
+    "uri": "/reference/87a075d0-0531-478b-bf05-cf45adfb05eb"
+}

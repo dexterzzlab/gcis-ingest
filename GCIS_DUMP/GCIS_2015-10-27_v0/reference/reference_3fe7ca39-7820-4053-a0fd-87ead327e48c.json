@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Washington State Department of Ecology,",
+        "Institution": "Washington State Department of Ecology, Washington State University, Washington Department of Fish and Wildlife",
+        "Pages": "54",
+        "Place Published": "Olympia, WA",
+        "Title": "Columbia River Basin 2011 Long Term Water Supply and Demand Forecast. Publication No. 11-12-011",
+        "URL": "https://fortress.wa.gov/ecy/publications/summarypages/1112011.html",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "3353",
+        "_uuid": "3fe7ca39-7820-4053-a0fd-87ead327e48c",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/ecy-11-12-011",
+    "href": "http://data.globalchange.gov/reference/3fe7ca39-7820-4053-a0fd-87ead327e48c.json",
+    "identifier": "3fe7ca39-7820-4053-a0fd-87ead327e48c",
+    "uri": "/reference/3fe7ca39-7820-4053-a0fd-87ead327e48c"
+}

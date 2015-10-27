@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/cityofkeene-cmp-2010.json",
+    "identifier": "cityofkeene-cmp-2010",
+    "in_library": null,
+    "publication_year": 2010,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Keene Comprehensive Master Plan",
+    "topic": null,
+    "uri": "/report/cityofkeene-cmp-2010",
+    "url": "http://www.ci.keene.nh.us/sites/default/files/CMPprint-final-1027-fullversion_2.pdf"
+}

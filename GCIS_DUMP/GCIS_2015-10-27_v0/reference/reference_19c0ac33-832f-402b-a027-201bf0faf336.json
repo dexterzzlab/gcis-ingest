@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "O\u2019Neill, M.S.\rA. Veves\rA. Zanobetti\rJ.A. Sarnat\rD.R. Gold\rP.A. Economides\rE.S. Horton\rJ. Schwartz",
+        "DOI": "10.1161/CIRCULATIONAHA.104.517110",
+        "Journal": "Circulation",
+        "Pages": "2913-2920",
+        "Title": "Diabetes enhances vulnerability to particulate air pollution\u2013associated impairment in vascular reactivity and endothelial function",
+        "URL": "http://circ.ahajournals.org/content/111/22/2913.full.pdf+html",
+        "Volume": "111",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "3632",
+        "_uuid": "19c0ac33-832f-402b-a027-201bf0faf336",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1161/CIRCULATIONAHA.104.517110",
+    "href": "http://data.globalchange.gov/reference/19c0ac33-832f-402b-a027-201bf0faf336.json",
+    "identifier": "19c0ac33-832f-402b-a027-201bf0faf336",
+    "uri": "/reference/19c0ac33-832f-402b-a027-201bf0faf336"
+}

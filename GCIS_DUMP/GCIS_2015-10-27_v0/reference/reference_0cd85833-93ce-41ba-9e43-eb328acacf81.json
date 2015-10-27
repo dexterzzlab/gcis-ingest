@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Heimlich, B., \rBloetscher, F.",
+        "Journal": "Florida Water Resources Journal",
+        "Pages": "34-46",
+        "Title": "Effects of sea level rise and other climate change impacts on southeast Florida\u2019s water resources",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "612",
+        "_uuid": "0cd85833-93ce-41ba-9e43-eb328acacf81",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/effects-of-sea-level-rise-and-other-climate-change-impacts-on-southeast-floridas-water-resources",
+    "href": "http://data.globalchange.gov/reference/0cd85833-93ce-41ba-9e43-eb328acacf81.json",
+    "identifier": "0cd85833-93ce-41ba-9e43-eb328acacf81",
+    "uri": "/reference/0cd85833-93ce-41ba-9e43-eb328acacf81"
+}

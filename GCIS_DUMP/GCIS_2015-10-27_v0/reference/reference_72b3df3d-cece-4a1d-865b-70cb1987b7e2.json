@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Reclamation,",
+        "Institution": "U.S. Department of the Interior, Bureau of Reclamation Technical Service Center",
+        "Pages": "138",
+        "Place Published": "Denver, Colorado",
+        "Title": "Reclamation Managing Water in the West. West-Wide Climate Risk Assessments: Bias-Corrected and Spatially Downscaled Surface Water Projections, Technical Memorandum No. 86-68210-2011-01",
+        "URL": "www.usbr.gov/WaterSMART/docs/west-wide-climate-risk-assessments.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "3664",
+        "_uuid": "72b3df3d-cece-4a1d-865b-70cb1987b7e2",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usbr-westwide-2011",
+    "href": "http://data.globalchange.gov/reference/72b3df3d-cece-4a1d-865b-70cb1987b7e2.json",
+    "identifier": "72b3df3d-cece-4a1d-865b-70cb1987b7e2",
+    "uri": "/reference/72b3df3d-cece-4a1d-865b-70cb1987b7e2"
+}

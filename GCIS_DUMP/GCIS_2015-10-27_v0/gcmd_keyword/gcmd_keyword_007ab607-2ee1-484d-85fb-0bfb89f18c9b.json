@@ -1,0 +1,8 @@
+{
+    "definition": "The mass per unit volume of a substance. Oceanographic shorthand for density, sigma-t, may be included as a Detailed Variable.  ",
+    "href": "http://data.globalchange.gov/gcmd_keyword/007ab607-2ee1-484d-85fb-0bfb89f18c9b.json",
+    "identifier": "007ab607-2ee1-484d-85fb-0bfb89f18c9b",
+    "label": "DENSITY",
+    "parent_identifier": "a46016d7-e571-403a-ab37-7223fd74e68e",
+    "uri": "/gcmd_keyword/007ab607-2ee1-484d-85fb-0bfb89f18c9b"
+}

@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2012",
+        "Author": "University of Illinois,",
+        "Place Published": "Urbana-Champaign, IL",
+        "Title": "The Cryosphere Today",
+        "URL": " http://igloo.atmos.uiuc.edu/cgi-bin/test/print.sh?fm=09&fd=12&fy=1992&sm=09&sd=12&sy=2012",
+        "Year": "2012",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "4416",
+        "_uuid": "9cb10eed-73cb-4531-85bd-0331f3a16f33",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/e4a9eb6a-9421-42c3-94b1-47caf588d41d",
+    "href": "http://data.globalchange.gov/reference/9cb10eed-73cb-4531-85bd-0331f3a16f33.json",
+    "identifier": "9cb10eed-73cb-4531-85bd-0331f3a16f33",
+    "uri": "/reference/9cb10eed-73cb-4531-85bd-0331f3a16f33"
+}

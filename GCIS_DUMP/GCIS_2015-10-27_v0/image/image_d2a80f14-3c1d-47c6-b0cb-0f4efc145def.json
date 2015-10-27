@@ -1,0 +1,95 @@
+{
+    "attributes": "Southwest, temperature, projections, CMIP3, A2",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/3706.json",
+            "id": 3706,
+            "organization": {
+                "country_code": "US",
+                "identifier": "national-environmental-modeling-analysis-center",
+                "name": "National Environmental Modeling and Analysis Center",
+                "organization_type_identifier": "academic",
+                "url": "http://nemac.unca.edu"
+            },
+            "organization_uri": "/organization/national-environmental-modeling-analysis-center",
+            "person": {
+                "first_name": "J. Greg",
+                "id": 1805,
+                "last_name": "Dobson",
+                "middle_name": null,
+                "orcid": null,
+                "url": "http://nemac.unca.edu/faces/staff/j-greg-dobson"
+            },
+            "person_id": 1805,
+            "person_uri": "/person/1805",
+            "role_type_identifier": "analyst",
+            "uri": "/contributor/3706"
+        }
+    ],
+    "create_dt": "2013-09-19T12:38:58",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Maps show projected changes in average, as compared to 1971-1999. Top row shows\r\n    projections assuming heat-trapping gas emissions continue to rise (A2). Bottom row shows projections assuming substantial\r\n    reductions in emissions (B1). (Figure source: adapted from Kunkel et al.\r\n    2013<tbib>966bf116-8d6d-41f2-96be-4b66d3e729db</tbib>).",
+            "chapter_identifier": "southwest",
+            "create_dt": "2013-09-19T12:38:58",
+            "identifier": "projected-temperature-increases",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 1,
+            "report_identifier": "nca3",
+            "source_citation": "adapted from Kunkel et al. 2013<tbib>966bf116-8d6d-41f2-96be-4b66d3e729db</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Projected Temperature Increases",
+            "url": "http://nca2014.globalchange.gov/report/regions/southwest/graphics/projected-temperature-increases",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "3f/93/a1afdb654f9e6ef0324eb1151ea7/20-1-c.png",
+            "href": "http://data.globalchange.gov/assets/3f/93/a1afdb654f9e6ef0324eb1151ea7/20-1-c.png",
+            "identifier": "a995c5df-128c-4efb-b0aa-3962867c1615",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "a3b2f562d145c1e9cf87bba9a202763ec1947fd5",
+            "size": 28485,
+            "thumbnail": "3f/93/a1afdb654f9e6ef0324eb1151ea7/.thumb-a995c5df-128c-4efb-b0aa-3962867c1615.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/3f/93/a1afdb654f9e6ef0324eb1151ea7/.thumb-a995c5df-128c-4efb-b0aa-3962867c1615.png",
+            "uri": "/file/a995c5df-128c-4efb-b0aa-3962867c1615",
+            "url": "/assets/3f/93/a1afdb654f9e6ef0324eb1151ea7/20-1-c.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/d2a80f14-3c1d-47c6-b0cb-0f4efc145def.json",
+    "identifier": "d2a80f14-3c1d-47c6-b0cb-0f4efc145def",
+    "lat_max": "41.94",
+    "lat_min": "31.44",
+    "lon_max": "-102.06",
+    "lon_min": "-124.31",
+    "parents": [
+        {
+            "activity_uri": "/activity/d2a80f14-nca3-cmip3-r201205-process",
+            "label": "dataset nca3-cmip3-r201205",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-cmip3-r201205"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2099-12-31T23:59:59",
+    "time_start": "1971-01-01T00:00:00",
+    "title": "Projected Temperature Increases - Higher Emissions (A2): 2070-2099",
+    "uri": "/image/d2a80f14-3c1d-47c6-b0cb-0f4efc145def",
+    "url": null,
+    "usage_limits": null
+}

@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Atwater, Brian F.\rYamaguchi, D.K.",
+        "DOI": "10.1130/0091-7613(1991)019<0706:SPCSOH>2.3.CO;2",
+        "ISSN": "0091-7613",
+        "Issue": "7",
+        "Journal": "Geology",
+        "Pages": "706-709",
+        "Title": "Sudden, probably coseismic submergence of Holocene trees and grass in coastal Washington State",
+        "URL": "http://geology.geoscienceworld.org/content/19/7/706.full.pdf+html",
+        "Volume": "19",
+        "Year": "1991",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "1622",
+        "_uuid": "00d0e248-73f2-45a2-9498-451917d5d320",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1130/0091-7613(1991)019%3C0706:SPCSOH%3E2.3.CO;2",
+    "href": "http://data.globalchange.gov/reference/00d0e248-73f2-45a2-9498-451917d5d320.json",
+    "identifier": "00d0e248-73f2-45a2-9498-451917d5d320",
+    "uri": "/reference/00d0e248-73f2-45a2-9498-451917d5d320"
+}

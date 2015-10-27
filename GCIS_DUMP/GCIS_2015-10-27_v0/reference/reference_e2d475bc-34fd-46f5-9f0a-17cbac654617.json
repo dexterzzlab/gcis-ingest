@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Doney, S.C.\rBalch, W.M.\rFabry, V.J.\rFeely, R.A.",
+        "DOI": "10.5670/oceanog.2009.93",
+        "Issue": "4",
+        "Journal": "Oceanography",
+        "Pages": "16-25",
+        "Title": "Ocean acidification: A critical emerging problem for the ocean sciences",
+        "URL": "https://darchive.mblwhoilibrary.org/bitstream/handle/1912/3181/22-4_doney.pdf?sequence=1",
+        "Volume": "22",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\",\"RF 11\"]",
+        "_record_number": "3568",
+        "_uuid": "e2d475bc-34fd-46f5-9f0a-17cbac654617",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.5670/oceanog.2009.93",
+    "href": "http://data.globalchange.gov/reference/e2d475bc-34fd-46f5-9f0a-17cbac654617.json",
+    "identifier": "e2d475bc-34fd-46f5-9f0a-17cbac654617",
+    "uri": "/reference/e2d475bc-34fd-46f5-9f0a-17cbac654617"
+}

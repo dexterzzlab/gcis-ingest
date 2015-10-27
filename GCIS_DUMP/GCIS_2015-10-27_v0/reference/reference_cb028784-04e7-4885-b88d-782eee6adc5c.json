@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Todd, B.D.\rScott, D.E.\rPechmann, J.H.K.\rGibbons, J.W.",
+        "DOI": "10.1098/rspb.2010.1768",
+        "ISSN": "0962-8452",
+        "Issue": "1715",
+        "Journal": "Proceedings of the Royal Society B: Biological Sciences",
+        "Pages": "2191-2197",
+        "Title": "Climate change correlates with rapid delays and advancements in reproductive timing in an amphibian community",
+        "Volume": "278",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "3074",
+        "_uuid": "cb028784-04e7-4885-b88d-782eee6adc5c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1098/rspb.2010.1768",
+    "href": "http://data.globalchange.gov/reference/cb028784-04e7-4885-b88d-782eee6adc5c.json",
+    "identifier": "cb028784-04e7-4885-b88d-782eee6adc5c",
+    "uri": "/reference/cb028784-04e7-4885-b88d-782eee6adc5c"
+}

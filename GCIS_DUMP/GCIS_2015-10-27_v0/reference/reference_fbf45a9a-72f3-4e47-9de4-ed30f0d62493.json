@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".publisher": "Copernicus Publications",
+        ".reference_type": "0",
+        "Author": "Steinacher, M.\rJoos, F.\rFr\u00f6licher, T. L.\rPlattner, G.-K.\rDoney, S. C.",
+        "DOI": "10.5194/bg-6-515-2009",
+        "ISSN": "1726-4189",
+        "Issue": "4",
+        "Journal": "Biogeosciences",
+        "Notes": "BG",
+        "Pages": "515-533",
+        "Title": "Imminent ocean acidification in the Arctic projected with the NCAR global coupled carbon cycle-climate model",
+        "URL": "http://www.biogeosciences.net/6/515/2009/",
+        "Volume": "6",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "3751",
+        "_uuid": "fbf45a9a-72f3-4e47-9de4-ed30f0d62493",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.5194/bg-6-515-2009",
+    "href": "http://data.globalchange.gov/reference/fbf45a9a-72f3-4e47-9de4-ed30f0d62493.json",
+    "identifier": "fbf45a9a-72f3-4e47-9de4-ed30f0d62493",
+    "uri": "/reference/fbf45a9a-72f3-4e47-9de4-ed30f0d62493"
+}

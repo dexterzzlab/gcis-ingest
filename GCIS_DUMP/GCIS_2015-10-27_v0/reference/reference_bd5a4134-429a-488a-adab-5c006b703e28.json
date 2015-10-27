@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"italic\" start=\"88\" /><run start=\"105\" /></field></record>",
+        "Author": "Cook, T.\rFolli, M.\rKlinck, J.\rFord, S.\rMiller, J.",
+        "DOI": "10.1006/ecss.1997.0283",
+        "ISSN": "0272-7714",
+        "Issue": "4",
+        "Journal": "Estuarine, Coastal and Shelf Science",
+        "Pages": "587-597",
+        "Title": "The relationship between increasing sea-surface temperature and the northward spread of Perkinsus marinus (Dermo) disease epizootics in oysters",
+        "Volume": "46",
+        "Year": "1998",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\"]",
+        "_record_number": "1425",
+        "_uuid": "bd5a4134-429a-488a-adab-5c006b703e28",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1006/ecss.1997.0283",
+    "href": "http://data.globalchange.gov/reference/bd5a4134-429a-488a-adab-5c006b703e28.json",
+    "identifier": "bd5a4134-429a-488a-adab-5c006b703e28",
+    "uri": "/reference/bd5a4134-429a-488a-adab-5c006b703e28"
+}

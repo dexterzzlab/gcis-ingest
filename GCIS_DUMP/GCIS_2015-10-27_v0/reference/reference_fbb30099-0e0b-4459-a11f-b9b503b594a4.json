@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Jacobs, K.",
+        "Institution": "National Oceanic and Atmospheric Administration, Office of Global Programs",
+        "Pages": "30",
+        "Place Published": "Silver Spring, MD",
+        "Title": "Connecting Science, Policy, and Decision-making: A Handbook for Researchers and Science Agencies",
+        "URL": "http://www.climas.arizona.edu/files/climas/pubs/jacobs-2002.pdf",
+        "Year": "2002",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4026",
+        "_uuid": "fbb30099-0e0b-4459-a11f-b9b503b594a4",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/noaaogp-connecting-2002",
+    "href": "http://data.globalchange.gov/reference/fbb30099-0e0b-4459-a11f-b9b503b594a4.json",
+    "identifier": "fbb30099-0e0b-4459-a11f-b9b503b594a4",
+    "uri": "/reference/fbb30099-0e0b-4459-a11f-b9b503b594a4"
+}

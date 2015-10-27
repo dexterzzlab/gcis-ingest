@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Future scenarios of natural gas supply and demand (top left) are generated using an integrated assessment model. This information serves as input (open arrow) to an infrastructure model, which projects required pipeline growth, new storage needs, and other infrastructural changes for each scenario (bottom). Finally, output from climate models (top right) is used to evaluate (shaded arrow) the resilience of each configuration produced by the infrastructure model. This multi-model approach helps to capture the complex dynamics that link human and natural systems. (Source: DOE)",
+            "chapter_identifier": "crosscutting-priorities-serve-science-society",
+            "create_dt": null,
+            "identifier": "modeling-energy-sector-risks-opportunities",
+            "lat_max": "49.371742",
+            "lat_min": "24.545219",
+            "lon_max": "-66.957802",
+            "lon_min": "-124.762146",
+            "ordinal": 25,
+            "report_identifier": "usgcrp-ocpfy2016",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Modeling energy sector risks and opportunities",
+            "url": null,
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "66/a5/ff8a4ed98e6dad3bba7008786156/HL38_connected-models-energy-sector-DOE_b.png",
+            "href": "http://data.globalchange.gov/assets/66/a5/ff8a4ed98e6dad3bba7008786156/HL38_connected-models-energy-sector-DOE_b.png",
+            "identifier": "c10b8a8e-fb5c-4c45-98e0-24bf26537ec3",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "3f830c7406175dc57a26b2f11677ee8fd2434bac",
+            "size": 299955,
+            "thumbnail": "66/a5/ff8a4ed98e6dad3bba7008786156/.thumb-c10b8a8e-fb5c-4c45-98e0-24bf26537ec3.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/66/a5/ff8a4ed98e6dad3bba7008786156/.thumb-c10b8a8e-fb5c-4c45-98e0-24bf26537ec3.png",
+            "uri": "/file/c10b8a8e-fb5c-4c45-98e0-24bf26537ec3",
+            "url": "/assets/66/a5/ff8a4ed98e6dad3bba7008786156/HL38_connected-models-energy-sector-DOE_b.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/1f3328a2-12ce-4f58-8ccd-4befefbec769.json",
+    "identifier": "1f3328a2-12ce-4f58-8ccd-4befefbec769",
+    "lat_max": "49.371742",
+    "lat_min": "24.545219",
+    "lon_max": "-66.957802",
+    "lon_min": "-124.762146",
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Climate model projections",
+    "uri": "/image/1f3328a2-12ce-4f58-8ccd-4befefbec769",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

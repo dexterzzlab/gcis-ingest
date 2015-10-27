@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Abstract": "This report describes the first three-year phase of the Integrated Forecast and Reservoir Management (INFORM) project. The primary INFORM objective is to demonstrate the utility of present-day meteorological/climate and hydrologic forecasts for the Northern California river and reservoir system, including all major reservoirs on the Trinity, Sacramento, Feather, American, and San Joaquin rivers, and the Sacramento-San Joaquin Delta. In close collaboration with water forecast and management agencies of the region, a software system was designed and implemented in a distributed manner, with components that ran at various agency and research centers. The system contains real-time, short-range forecast components; off-line longer-range forecast components; and off-line decision components that span forecast and decision time scales from hours to seasons. In all cases, forecast uncertainty was explicitly characterized and used for risk-based decision support. Extensive tests with historical data and an initial five-month period of operational \"dry run\" testing for the wet season of 2005-2006 showed that system components perform well and clearly demonstrated the value of the system in advancing the current state of forecast, management, and planning operations in the region. The main recommendation is to continue the demonstration of the INFORM system for two to three more years to reliably quantify real-time performance and utility for planning and management and to explore more fully the various applications to which the system is suited. ; ",
+        "Author": "HRC-GWRI,",
+        "Institution": "Hydrologic Research Center and Georgia Water Resources Institute",
+        "Keywords": "Ensemble precipitation forecasting, ; ensemble temperature forecasting, ; ensemble flow forecasting, ; risk-based decision support, ; adaptive reservoir management, ; INFORM, ; Integrated Forecast ; Reservoir Management ",
+        "Pages": "263",
+        "Title": "Integrated Forecast and Reservoir Management (INFORM) for Northern California: System Development and Initial Demonstration. CEC-500-2006-109",
+        "URL": "http://www.energy.ca.gov/2006publications/CEC-500-2006-109/CEC-500-2006-109.PDF",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "975",
+        "_uuid": "2b2ce56f-645c-4807-9a16-4460433f4861",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/cec-500-2006-109",
+    "href": "http://data.globalchange.gov/reference/2b2ce56f-645c-4807-9a16-4460433f4861.json",
+    "identifier": "2b2ce56f-645c-4807-9a16-4460433f4861",
+    "uri": "/reference/2b2ce56f-645c-4807-9a16-4460433f4861"
+}

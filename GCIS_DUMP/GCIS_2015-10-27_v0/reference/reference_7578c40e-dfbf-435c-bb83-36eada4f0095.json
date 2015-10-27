@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Jacob, Thomas\rWahr, John\rPfeffer, W. Tad\rSwenson, Sean",
+        "DOI": "10.1038/nature10847",
+        "ISSN": "0028-0836, 1476-4687",
+        "Issue": "7386",
+        "Journal": "Nature",
+        "Pages": "514-518",
+        "Title": "Recent contributions of glaciers and ice caps to sea level rise",
+        "URL": "http://www.nature.com/doifinder/10.1038/nature10847",
+        "Volume": "482",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "1381",
+        "_uuid": "7578c40e-dfbf-435c-bb83-36eada4f0095",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/nature10847",
+    "href": "http://data.globalchange.gov/reference/7578c40e-dfbf-435c-bb83-36eada4f0095.json",
+    "identifier": "7578c40e-dfbf-435c-bb83-36eada4f0095",
+    "uri": "/reference/7578c40e-dfbf-435c-bb83-36eada4f0095"
+}

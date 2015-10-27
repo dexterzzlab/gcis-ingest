@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Morice, C.P.\rKennedy, J.J.\rRayner, N.A. \rJones, P.D.",
+        "DOI": "10.1029/2011JD017187",
+        "Journal": "Journal of Geophysical Research: Atmospheres",
+        "Title": "Quantifying uncertainties in global and regional temperature change using an ensemble of observational estimates: The HadCRUT4 dataset",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2011JD017187/pdf",
+        "Year": "2012",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "2085",
+        "_uuid": "26a4ebf0-87cf-4fe1-9a5c-0eb4b5503d20",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2011JD017187",
+    "href": "http://data.globalchange.gov/reference/26a4ebf0-87cf-4fe1-9a5c-0eb4b5503d20.json",
+    "identifier": "26a4ebf0-87cf-4fe1-9a5c-0eb4b5503d20",
+    "uri": "/reference/26a4ebf0-87cf-4fe1-9a5c-0eb4b5503d20"
+}

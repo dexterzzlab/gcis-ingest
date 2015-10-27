@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Accession Number": "WOS:000296373400015",
+        "Author": "Rahmstorf, Stefan\rCoumou, Dim",
+        "DOI": "10.1073/pnas.1101766108",
+        "Date": "Nov 1",
+        "ISSN": "0027-8424",
+        "Issue": "44",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Pages": "17905-17909",
+        "Title": "Increase of extreme events in a warming world",
+        "URL": "http://www.pnas.org/content/108/44/17905.full.pdf+html",
+        "Volume": "108",
+        "Year": "2011",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\",\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "2576",
+        "_uuid": "6b6c544b-cb86-410d-b2cd-b98e12441c80",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.1101766108",
+    "href": "http://data.globalchange.gov/reference/6b6c544b-cb86-410d-b2cd-b98e12441c80.json",
+    "identifier": "6b6c544b-cb86-410d-b2cd-b98e12441c80",
+    "uri": "/reference/6b6c544b-cb86-410d-b2cd-b98e12441c80"
+}

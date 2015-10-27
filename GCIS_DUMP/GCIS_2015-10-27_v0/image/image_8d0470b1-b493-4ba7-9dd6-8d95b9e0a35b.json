@@ -1,0 +1,79 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/1694.json",
+            "id": 1694,
+            "organization": {
+                "country_code": "US",
+                "identifier": "national-climatic-data-center",
+                "name": "National Oceanic and Atmospheric Administration National Climatic Data Center",
+                "organization_type_identifier": "federal",
+                "url": "http://www.ncdc.noaa.gov"
+            },
+            "organization_uri": "/organization/national-climatic-data-center",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "author",
+            "uri": "/contributor/1694"
+        }
+    ],
+    "create_dt": null,
+    "description": "This map shows largely warmer temperatures (shades of red) in 2013 relative to average temperatures between 1981 and 2010. (Source: NOAA NCDC)",
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "This map shows largely warmer temperatures (shades of red) in 2013 relative to average temperatures between 1981 and 2010. (Source: NOAA NCDC)",
+            "chapter_identifier": "federal-investments-global-change-research",
+            "create_dt": null,
+            "identifier": "land-ocean-temperature-anomalies-jan-dec-2013",
+            "lat_max": "90",
+            "lat_min": "-90",
+            "lon_max": "180",
+            "lon_min": "-180",
+            "ordinal": 1,
+            "report_identifier": "usgcrp-ocpfy2016",
+            "source_citation": "NOAA National Climatic Data Center, State of the Climate: Global Analysis for Annual 2013, published online January 2014, retrieved January 2015",
+            "submission_dt": null,
+            "time_end": "2013-12-31T23:59:59",
+            "time_start": "2013-01-01T00:00:00",
+            "title": "Land-Ocean Temperature Anomalies Jan-Dec 2013",
+            "url": "http://www.ncdc.noaa.gov/sotc/global/201313",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "9b/b5/68a414398704874bf272ad4937d3/HL1_NOAA-SOTC-land-ocean-temp-map.gif",
+            "href": "http://data.globalchange.gov/assets/9b/b5/68a414398704874bf272ad4937d3/HL1_NOAA-SOTC-land-ocean-temp-map.gif",
+            "identifier": "b5fff4c5-200d-4a73-8f28-fa5210682604",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/gif",
+            "sha1": "0aa75f986953cfd9fbecd6c6c3856eeb38d60621",
+            "size": 161197,
+            "thumbnail": "9b/b5/68a414398704874bf272ad4937d3/.thumb-b5fff4c5-200d-4a73-8f28-fa5210682604.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/9b/b5/68a414398704874bf272ad4937d3/.thumb-b5fff4c5-200d-4a73-8f28-fa5210682604.png",
+            "uri": "/file/b5fff4c5-200d-4a73-8f28-fa5210682604",
+            "url": "/assets/9b/b5/68a414398704874bf272ad4937d3/HL1_NOAA-SOTC-land-ocean-temp-map.gif"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/8d0470b1-b493-4ba7-9dd6-8d95b9e0a35b.json",
+    "identifier": "8d0470b1-b493-4ba7-9dd6-8d95b9e0a35b",
+    "lat_max": "90",
+    "lat_min": "-90",
+    "lon_max": "180",
+    "lon_min": "-180",
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2013-12-31T23:59:59",
+    "time_start": "2013-01-01T00:00:00",
+    "title": "Land-Ocean Temperature Anomalies Jan-Dec 2013",
+    "uri": "/image/8d0470b1-b493-4ba7-9dd6-8d95b9e0a35b",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

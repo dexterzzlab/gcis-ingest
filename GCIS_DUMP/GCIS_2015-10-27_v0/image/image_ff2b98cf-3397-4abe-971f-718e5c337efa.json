@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-14T14:43:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Crop yields are very sensitive to temperature and rainfall. They are especially sensitive to high temperatures during the pollination and grain filling period. For example, corn (left) and soybean (right) harvests in Illinois and Indiana, two major producers, were lower in years with average maximum summer (June, July, and August) temperatures higher than the average from 1980 to 2007. Most years with below-average yields are both warmer and drier than normal.<tbib>9c3f871b-4405-4d6b-bf56-439b678f7025</tbib><sup>,</sup><tbib>3dccc6c2-6a42-49ef-990b-853a220a28f4</tbib> There is high correlation between warm and dry conditions during Midwest summers<tbib>9f976ed6-c1dd-437d-aaf9-062bca25bbc9</tbib> due to similar meteorological conditions and drought-caused changes.<tbib>2ad99c76-b8df-4faa-b52e-095bb4094cab</tbib> (Figure source: Mishra and Cherkauer 2010<tbib>9c3f871b-4405-4d6b-bf56-439b678f7025</tbib>).",
+            "chapter_identifier": "midwest",
+            "create_dt": "2013-11-14T14:43:00",
+            "identifier": "crop-yields-decline-under-higher-temperatures",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 3,
+            "report_identifier": "nca3",
+            "source_citation": "Mishra and Cherkauer 2010<tbib>9c3f871b-4405-4d6b-bf56-439b678f7025</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Crop Yields Decline under Higher Temperatures",
+            "url": "http://nca2014.globalchange.gov/highlights/report-findings/agriculture/graphics/crop-yields-decline-under-higher-temperatures",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "fb/b6/5f5db64eb6a7f239d829351699c7/mw_crop_yield_12613_v6_right.png",
+            "href": "http://data.globalchange.gov/assets/fb/b6/5f5db64eb6a7f239d829351699c7/mw_crop_yield_12613_v6_right.png",
+            "identifier": "9c4bcdd6-9674-4153-98de-1f783138d582",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "3473a38a038821c48f874f46bc91e040e09983b0",
+            "size": 23804,
+            "thumbnail": "fb/b6/5f5db64eb6a7f239d829351699c7/.thumb-9c4bcdd6-9674-4153-98de-1f783138d582.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/fb/b6/5f5db64eb6a7f239d829351699c7/.thumb-9c4bcdd6-9674-4153-98de-1f783138d582.png",
+            "uri": "/file/9c4bcdd6-9674-4153-98de-1f783138d582",
+            "url": "/assets/fb/b6/5f5db64eb6a7f239d829351699c7/mw_crop_yield_12613_v6_right.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/ff2b98cf-3397-4abe-971f-718e5c337efa.json",
+    "identifier": "ff2b98cf-3397-4abe-971f-718e5c337efa",
+    "lat_max": "49.38",
+    "lat_min": "36",
+    "lon_max": "-80.53",
+    "lon_min": "-97.20",
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2007-08-31T23:59:59",
+    "time_start": "1980-06-01T00:00:00",
+    "title": "Crop Yields Decline under Higher Temperatures - Soybean",
+    "uri": "/image/ff2b98cf-3397-4abe-971f-718e5c337efa",
+    "url": null,
+    "usage_limits": null
+}

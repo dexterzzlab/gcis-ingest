@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Bierbaum, Rosina\rLee, Arthur\rSmith, Joel\rBlair, Maria\rCarter, Lynne M.\rChapin, F. Stuart, III\rFleming, Paul\rRuffo, Susan\rMcNeeley, Shannon\rStults, Missy\rVerduzco, Laura\rSeyller, Emily",
+        "Book Title": "Climate Change Impacts in the United States: The Third National Climate Assessment",
+        "DOI": "(doi)",
+        "Editor": "Melillo, Jerry M.\rTerese (T.C.) Richmond,\rYohe, Gary W.",
+        "Pages": "28-1\u2013nn",
+        "Place Published": "Washington, DC",
+        "Publisher": "U.S. Global Change Research Program",
+        "Reviewer": "8eb10ee1-28e1-4246-b28b-aa2d2f76c547",
+        "Title": "Ch. 28: Adaptation",
+        "URL": "http://nca2014.globalchange.gov/report/response-strategies/adaptation",
+        "Year": "2014",
+        "_chapter": "[\"Ch. 0: About this Report FINAL\"]",
+        "_record_number": "4738",
+        "_uuid": "8eb10ee1-28e1-4246-b28b-aa2d2f76c547",
+        "reftype": "Book Section"
+    },
+    "child_publication": null,
+    "href": "http://data.globalchange.gov/reference/8eb10ee1-28e1-4246-b28b-aa2d2f76c547.json",
+    "identifier": "8eb10ee1-28e1-4246-b28b-aa2d2f76c547",
+    "uri": "/reference/8eb10ee1-28e1-4246-b28b-aa2d2f76c547"
+}

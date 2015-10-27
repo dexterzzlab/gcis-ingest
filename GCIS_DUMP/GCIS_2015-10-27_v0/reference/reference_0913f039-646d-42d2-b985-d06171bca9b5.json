@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Roderick, M.L.\rFarquhar, G.D.",
+        "DOI": "10.1126/science.1075390-a",
+        "ISSN": "0036-8075",
+        "Issue": "5597",
+        "Journal": "Science",
+        "Pages": "1410-1411",
+        "Title": "The cause of decreased pan evaporation over the past 50 years",
+        "URL": "http://mensch.org/5223_2008/archive/Science2002v298p1410_PanEvap.pdf",
+        "Volume": "298",
+        "Year": "2002",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "2658",
+        "_uuid": "0913f039-646d-42d2-b985-d06171bca9b5",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1075390-a",
+    "href": "http://data.globalchange.gov/reference/0913f039-646d-42d2-b985-d06171bca9b5.json",
+    "identifier": "0913f039-646d-42d2-b985-d06171bca9b5",
+    "uri": "/reference/0913f039-646d-42d2-b985-d06171bca9b5"
+}

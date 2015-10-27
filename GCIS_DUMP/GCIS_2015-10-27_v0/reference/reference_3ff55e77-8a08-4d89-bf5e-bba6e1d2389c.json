@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"2\" /><run start=\"3\" /></field></record>",
+        "Author": "IEA,",
+        "Institution": "International Energy Agency",
+        "Pages": "138",
+        "Place Published": "Paris",
+        "Title": "CO2 Emissions from Fuel Combustion: Highlights",
+        "URL": "http://www.iea.org/co2highlights/co2highlights.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "4184",
+        "_uuid": "3ff55e77-8a08-4d89-bf5e-bba6e1d2389c",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/iea-co2emissions-2012",
+    "href": "http://data.globalchange.gov/reference/3ff55e77-8a08-4d89-bf5e-bba6e1d2389c.json",
+    "identifier": "3ff55e77-8a08-4d89-bf5e-bba6e1d2389c",
+    "uri": "/reference/3ff55e77-8a08-4d89-bf5e-bba6e1d2389c"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Berry, H.L.\rBowen, K.\rKjellstrom, T.",
+        "DOI": "10.1007/s00038-009-0112-0",
+        "ISSN": "1661-8556",
+        "Issue": "2",
+        "Journal": "International Journal of Public Health",
+        "Pages": "123-132",
+        "Title": "Climate change and mental health: A causal pathways framework",
+        "Volume": "55",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "288",
+        "_uuid": "67687fbe-a13c-48f9-99a3-158b1dae0fff",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s00038-009-0112-0",
+    "href": "http://data.globalchange.gov/reference/67687fbe-a13c-48f9-99a3-158b1dae0fff.json",
+    "identifier": "67687fbe-a13c-48f9-99a3-158b1dae0fff",
+    "uri": "/reference/67687fbe-a13c-48f9-99a3-158b1dae0fff"
+}

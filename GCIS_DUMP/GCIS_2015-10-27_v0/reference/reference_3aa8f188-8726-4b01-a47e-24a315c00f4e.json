@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Hallegatte, S.\rCorfee-Morlot, J.",
+        "DOI": "10.1007/s10584-010-9981-8",
+        "ISSN": "0165-0009",
+        "Issue": "1",
+        "Journal": "Climatic Change",
+        "Pages": "1-12",
+        "Title": "Understanding climate change impacts, vulnerability and adaptation at city scale: An introduction",
+        "Volume": "104",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 11: Urban Systems FINAL\"]",
+        "_record_number": "1726",
+        "_uuid": "3aa8f188-8726-4b01-a47e-24a315c00f4e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-010-9981-8",
+    "href": "http://data.globalchange.gov/reference/3aa8f188-8726-4b01-a47e-24a315c00f4e.json",
+    "identifier": "3aa8f188-8726-4b01-a47e-24a315c00f4e",
+    "uri": "/reference/3aa8f188-8726-4b01-a47e-24a315c00f4e"
+}

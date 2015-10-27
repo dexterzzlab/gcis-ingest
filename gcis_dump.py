@@ -17,23 +17,50 @@ fileDir = [
             "/platform/",
             "/organization/",
             "/dataset/",
-            "/image/"
+            "/image/",
+            #"/chapter/",
+            #"/contributor/",
+            #"/finding/",
+            "/activity/",
+            "/lexicon/",
+            "/model/",
+            "/gcmd_keyword/",
+            "/region/",
+            "/project/",
+            "/generic/",
+            "/webpage/",
+            "/reference/",
+            "/array/",
             ]
 
 reqList = [
-           'http://data.globalchange.gov/figure.json?all=1',
-           'http://data.globalchange.gov/person.json?all=1',
-           'http://data.globalchange.gov/report.json?all=1',
-           'http://data.globalchange.gov/journal.json?all=1',
-           'http://data.globalchange.gov/scenario.json?all=1',
-           'http://data.globalchange.gov/book.json?all=1',
-           'http://data.globalchange.gov/model.json?all=1',
-           'http://data.globalchange.gov/instrument.json?all=1',
-           'http://data.globalchange.gov/article.json?all=1',
-           'http://data.globalchange.gov/platform.json?all=1',
-           'http://data.globalchange.gov/organization.json?all=1',
-           'http://data.globalchange.gov/dataset.json?all=1',
-           'http://data.globalchange.gov/image.json?all=1',
+            'http://data.globalchange.gov/figure.json?all=1',
+            'http://data.globalchange.gov/person.json?all=1',
+            'http://data.globalchange.gov/report.json?all=1',
+            'http://data.globalchange.gov/journal.json?all=1',
+            'http://data.globalchange.gov/scenario.json?all=1',
+            'http://data.globalchange.gov/book.json?all=1',
+            'http://data.globalchange.gov/model.json?all=1',
+            'http://data.globalchange.gov/instrument.json?all=1',
+            'http://data.globalchange.gov/article.json?all=1',
+            'http://data.globalchange.gov/platform.json?all=1',
+            'http://data.globalchange.gov/organization.json?all=1',
+            'http://data.globalchange.gov/dataset.json?all=1',
+            'http://data.globalchange.gov/image.json?all=1',
+#'http://data.globalchange.gov/chapter.json?all=1',
+#'http://data.globalchange.gov/contributor.json?all=1',
+#'http://data.globalchange.gov/finding.json?all=1',
+            'http://data.globalchange.gov/activity.json?all=1',
+            'http://data.globalchange.gov/lexicon.json?all=1',
+            'http://data.globalchange.gov/model.json?all=1',
+            'http://data.globalchange.gov/gcmd_keyword.json?all=1',
+            'http://data.globalchange.gov/region.json?all=1',
+            'http://data.globalchange.gov/project.json?all=1',
+            'http://data.globalchange.gov/generic.json?all=1',
+            'http://data.globalchange.gov/webpage.json?all=1',
+            'http://data.globalchange.gov/reference.json?all=1',
+            'http://data.globalchange.gov/array.json?all=1',
+
            ]
 
 
@@ -70,7 +97,11 @@ for x in range(len(fileDir)):
         #remove url
         fileName = fileName.replace("http://data.globalchange.gov/", "")
         #remove special characters - necessary for articles
-        fileName = re.sub(r'\W+', '_', fileName)
+        #fileName = re.sub(r'\W+', '_', fileName)
+        fileName = fileName.split("/")
+
+        fileName = "%s_%s"%(fileName[0],fileName[1])
+        
         #reappend .json tag
         fileName = fileName + ".json"
 

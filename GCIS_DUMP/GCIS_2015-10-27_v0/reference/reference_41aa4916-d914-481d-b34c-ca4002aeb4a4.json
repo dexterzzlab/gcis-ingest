@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Weitzman, M.L.",
+        "DOI": "10.1257/jel.45.3.703",
+        "ISSN": "0022-0515",
+        "Issue": "3",
+        "Journal": "Journal of Economic Literature",
+        "Pages": "703-724",
+        "Title": "A review of the Stern Review on the economics of climate change",
+        "URL": "http://www.jstor.org/stable/27646843",
+        "Volume": "45",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "3385",
+        "_uuid": "41aa4916-d914-481d-b34c-ca4002aeb4a4",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1257/jel.45.3.703",
+    "href": "http://data.globalchange.gov/reference/41aa4916-d914-481d-b34c-ca4002aeb4a4.json",
+    "identifier": "41aa4916-d914-481d-b34c-ca4002aeb4a4",
+    "uri": "/reference/41aa4916-d914-481d-b34c-ca4002aeb4a4"
+}

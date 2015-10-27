@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Cash, D.W.\rMoser, S.C.",
+        "DOI": "10.1016/S0959-3780(00)00017-0",
+        "ISSN": "0959-3780",
+        "Issue": "2",
+        "Journal": "Global Environmental Change",
+        "Pages": "109-120",
+        "Title": "Linking global and local scales: Designing dynamic assessment and management processes",
+        "Volume": "10",
+        "Year": "2000",
+        "_chapter": "[\"RX 1 Future\",\"Ch. 30: NCA Long-Term Process FINAL\"]",
+        "_record_number": "1054",
+        "_uuid": "1d3ad86d-d540-4a74-aed8-5bf6f84bdc07",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/S0959-3780(00)00017-0",
+    "href": "http://data.globalchange.gov/reference/1d3ad86d-d540-4a74-aed8-5bf6f84bdc07.json",
+    "identifier": "1d3ad86d-d540-4a74-aed8-5bf6f84bdc07",
+    "uri": "/reference/1d3ad86d-d540-4a74-aed8-5bf6f84bdc07"
+}

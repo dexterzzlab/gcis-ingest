@@ -1,0 +1,8 @@
+{
+    "description": "Multi-purpose imaging Vis/IR radiometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/visible-and-thermal-infrared-radiometer.json",
+    "identifier": "visible-and-thermal-infrared-radiometer",
+    "name": "Visible and Thermal Infrared Radiometer",
+    "uri": "/instrument/visible-and-thermal-infrared-radiometer"
+}

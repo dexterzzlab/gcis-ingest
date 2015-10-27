@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Multihazard Mitigation Council,",
+        "Institution": "National Institute of Building Sciences",
+        "Pages": "150",
+        "Place Published": "Washington, D.C.",
+        "Title": "Natural Hazard Mitigation Saves: An Independent Study to Assess the Future Savings From Mitigation Activities. Volume 2 - Study Documentation",
+        "URL": "http://www.nibs.org/resource/resmgr/MMC/hms_vol2_ch1-7.pdf?hhSearchTerms=Natural+and+hazard+and+mitigation",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"RG 10 Coasts\"]",
+        "_record_number": "2126",
+        "_uuid": "96dc08d0-5be0-4d8d-b839-acac057dfd5b",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/nibs-savings-2005",
+    "href": "http://data.globalchange.gov/reference/96dc08d0-5be0-4d8d-b839-acac057dfd5b.json",
+    "identifier": "96dc08d0-5be0-4d8d-b839-acac057dfd5b",
+    "uri": "/reference/96dc08d0-5be0-4d8d-b839-acac057dfd5b"
+}

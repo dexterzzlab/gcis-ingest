@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Brugger, J.\rCrimmins, M.",
+        "Date": "March 1, 2012",
+        "Institution": "U.S. Global Climate Research Program",
+        "Pages": "80",
+        "Place Published": "Washington, D.C.",
+        "Title": "Weather, Climate, and Rural Arizona: Insights and Assessment Strategies. A Technical Input to the U.S. National Climate Assessment",
+        "URL": "http://www.climas.arizona.edu/files/climas/project-documents/public/1400/nca-report-final.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "1797",
+        "_uuid": "3da1a33a-0caa-4fc4-9b33-6ab784484694",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usgcrp-weatherclimruralaz-2011",
+    "href": "http://data.globalchange.gov/reference/3da1a33a-0caa-4fc4-9b33-6ab784484694.json",
+    "identifier": "3da1a33a-0caa-4fc4-9b33-6ab784484694",
+    "uri": "/reference/3da1a33a-0caa-4fc4-9b33-6ab784484694"
+}

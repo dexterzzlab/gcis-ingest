@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Hollowed, A.B.\rHare, S.R.\rWooster, W.S.",
+        "DOI": "10.1016/S0079-6611(01)00026-X",
+        "ISSN": "0079-6611",
+        "Issue": "1-4",
+        "Journal": "Progress in Oceanography",
+        "Pages": "257-282",
+        "Title": "Pacific Basin climate variability and patterns of Northeast Pacific marine fish production",
+        "Volume": "49",
+        "Year": "2001",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "1242",
+        "_uuid": "42a34496-7d49-4068-96e7-cd134851f1a1",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/S0079-6611(01)00026-X",
+    "href": "http://data.globalchange.gov/reference/42a34496-7d49-4068-96e7-cd134851f1a1.json",
+    "identifier": "42a34496-7d49-4068-96e7-cd134851f1a1",
+    "uri": "/reference/42a34496-7d49-4068-96e7-cd134851f1a1"
+}

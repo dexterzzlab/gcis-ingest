@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Behrenfeld, M.J.\rO\u2019Malley, R.T.\rSiegel, D.A.\rMcClain, C.R.\rSarmiento, J.L.\rFeldman, G.C.\rMilligan, A.J.\rFalkowski, P.G.\rLetelier, R.M.\rBoss, E.S.",
+        "DOI": "10.1038/nature05317",
+        "ISSN": "0028-0836",
+        "Issue": "7120",
+        "Journal": "Nature",
+        "Pages": "752-755",
+        "Title": "Climate-driven trends in contemporary ocean productivity",
+        "Volume": "444",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\"]",
+        "_record_number": "391",
+        "_uuid": "57af5319-596e-4be1-87a2-101c62e4259b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/nature05317",
+    "href": "http://data.globalchange.gov/reference/57af5319-596e-4be1-87a2-101c62e4259b.json",
+    "identifier": "57af5319-596e-4be1-87a2-101c62e4259b",
+    "uri": "/reference/57af5319-596e-4be1-87a2-101c62e4259b"
+}

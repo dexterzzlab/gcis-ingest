@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/national-climatic-data-center.json",
+    "identifier": "national-climatic-data-center",
+    "name": "National Oceanic and Atmospheric Administration National Climatic Data Center",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/national-climatic-data-center",
+    "url": "http://www.ncdc.noaa.gov"
+}

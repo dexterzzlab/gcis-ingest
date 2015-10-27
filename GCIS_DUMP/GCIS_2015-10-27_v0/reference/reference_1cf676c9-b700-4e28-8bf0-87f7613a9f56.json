@@ -1,0 +1,28 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Schneider, P.\rHook, S. J.",
+        "Author Address": "Schneider, P; CALTECH, Jet Prop Lab, MS 183-501,4800 Oak Grove Dr, Pasadena, CA 91109 USA; CALTECH, Jet Prop Lab, MS 183-501,4800 Oak Grove Dr, Pasadena, CA 91109 USA; CALTECH, Jet Prop Lab, Pasadena, CA 91109 USA",
+        "DOI": "10.1029/2010GL045059",
+        "Date": "Nov 24",
+        "ISSN": "0094-8276",
+        "Issue": "L22405",
+        "Journal": "Geophysical Research Letters",
+        "Keywords": "climate-change; lake tahoe; temperature; sea; validation; database; trend",
+        "Label": "IN",
+        "Language": "English",
+        "Pages": "1-5",
+        "Title": "Space observations of inland water bodies show rapid surface warming since 1985",
+        "URL": "http://www.leif.org/EOS/2010GL045059.pdf",
+        "Volume": "37",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\",\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "2777",
+        "_uuid": "1cf676c9-b700-4e28-8bf0-87f7613a9f56",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2010GL045059",
+    "href": "http://data.globalchange.gov/reference/1cf676c9-b700-4e28-8bf0-87f7613a9f56.json",
+    "identifier": "1cf676c9-b700-4e28-8bf0-87f7613a9f56",
+    "uri": "/reference/1cf676c9-b700-4e28-8bf0-87f7613a9f56"
+}

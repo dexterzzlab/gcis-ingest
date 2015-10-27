@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "EPA,",
+        "Institution": "U.S. Environmental Protection Agency",
+        "Title": "Cooling Water Intake Structures\u2014CWA 316(b)",
+        "URL": "http://water.epa.gov/lawsregs/lawsguidance/cwa/316b/index.cfm",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 10: Energy Water Land FINAL\"]",
+        "_record_number": "3960",
+        "_uuid": "78127ba4-136a-41c5-b02d-55a1b50f36ce",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/epa-cwa-316b",
+    "href": "http://data.globalchange.gov/reference/78127ba4-136a-41c5-b02d-55a1b50f36ce.json",
+    "identifier": "78127ba4-136a-41c5-b02d-55a1b50f36ce",
+    "uri": "/reference/78127ba4-136a-41c5-b02d-55a1b50f36ce"
+}

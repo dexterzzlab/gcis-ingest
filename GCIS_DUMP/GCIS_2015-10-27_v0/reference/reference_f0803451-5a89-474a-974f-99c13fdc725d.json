@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Wilbanks, T.\rFernandez, S.\rBackus, G.\rGarcia, P.\rJonietz, K.\rKirshen, P.\rSavonis, M.\rSolecki, B.\rToole, L. ",
+        "Date": "29 February 2012.",
+        "Institution": "Oak Ridge National Laboratory. U.S. Department of Energy, Office of Science",
+        "Pages": "119",
+        "Place Published": "Oak Ridge, TN",
+        "Title": "Climate Change and Infrastructure, Urban Systems, and Vulnerabilities. Technical Report to the U.S. Department of Energy in Support of the National Climate Assessment",
+        "URL": "http://www.esd.ornl.gov/eess/Infrastructure.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"Ch. 25: Coastal Zone FINAL\",\"Ch. 16: Northeast FINAL\",\"RG 10 Coasts\",\"Ch. 5: Transportation FINAL\",\"Ch. 11: Urban Systems FINAL\",\"Ch. 4: Energy Supply and Use FINAL\",\"Ch. 28: Adaptation FINAL\",\"RF 12\",\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "3418",
+        "_uuid": "f0803451-5a89-474a-974f-99c13fdc725d",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/ornl-climchinfrastructure-2012",
+    "href": "http://data.globalchange.gov/reference/f0803451-5a89-474a-974f-99c13fdc725d.json",
+    "identifier": "f0803451-5a89-474a-974f-99c13fdc725d",
+    "uri": "/reference/f0803451-5a89-474a-974f-99c13fdc725d"
+}

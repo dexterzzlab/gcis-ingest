@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"67\" /><run start=\"68\" /></field></record>",
+        "Author": "Leakey, Andrew D. B.",
+        "DOI": "10.1098/rspb.2008.1517",
+        "Date": "Jul 7",
+        "ISSN": "1471-2954",
+        "Issue": "1666",
+        "Journal": "Proceedings of the Royal Society B: Biological Sciences",
+        "Pages": "2333-2343",
+        "Title": "Rising atmospheric carbon dioxide concentration and the future of C4 crops for food and fuel",
+        "URL": "http://rspb.royalsocietypublishing.org/content/276/1666/2333.full.pdf+html",
+        "Volume": "276",
+        "Year": "2009",
+        "_chapter": "[\"RG 3 Midwest\",\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "1457",
+        "_uuid": "713ca06b-894a-44a1-9e02-448faa3ec810",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1098/rspb.2008.1517",
+    "href": "http://data.globalchange.gov/reference/713ca06b-894a-44a1-9e02-448faa3ec810.json",
+    "identifier": "713ca06b-894a-44a1-9e02-448faa3ec810",
+    "uri": "/reference/713ca06b-894a-44a1-9e02-448faa3ec810"
+}

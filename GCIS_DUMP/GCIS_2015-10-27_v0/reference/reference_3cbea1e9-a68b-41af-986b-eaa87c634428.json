@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Newmark, R.L.\rFriedmann, S.J.\rCarroll, S.A.",
+        "DOI": "10.1007/s00267-010-9434-1",
+        "ISSN": "0364-152X",
+        "Issue": "4",
+        "Journal": "Environmental Management",
+        "Pages": "651-661",
+        "Title": "Water challenges for geologic carbon capture and sequestration",
+        "URL": "http://link.springer.com/content/pdf/10.1007%2Fs00267-010-9434-1",
+        "Volume": "45",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 10: Energy Water Land FINAL\"]",
+        "_record_number": "2211",
+        "_uuid": "3cbea1e9-a68b-41af-986b-eaa87c634428",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s00267-010-9434-1",
+    "href": "http://data.globalchange.gov/reference/3cbea1e9-a68b-41af-986b-eaa87c634428.json",
+    "identifier": "3cbea1e9-a68b-41af-986b-eaa87c634428",
+    "uri": "/reference/3cbea1e9-a68b-41af-986b-eaa87c634428"
+}

@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Balmaseda, Magdalena A.\rTrenberth, Kevin E.\rK\u00e4ll\u00e9n, Erland",
+        "DOI": "10.1002/grl.50382",
+        "ISSN": "1944-8007",
+        "Issue": "9",
+        "Journal": "Geophysical Research Letters",
+        "Keywords": "ocean heat content\rocean reanalyses\rglobal warming\rclimate variability\rclimate trends\rENSO\r1600 GLOBAL CHANGE\r3300 ATMOSPHERIC PROCESSES\r4200 OCEANOGRAPHY: GENERAL",
+        "Pages": "1754-1759",
+        "Title": "Distinctive climate signals in reanalysis of global ocean heat content",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1002/grl.50382/pdf",
+        "Volume": "40",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\",\"Ch. 2: Our Changing Climate FINAL\",\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "3710",
+        "_uuid": "119a732c-f113-4c1b-bc77-e584d52f5505",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/grl.50382",
+    "href": "http://data.globalchange.gov/reference/119a732c-f113-4c1b-bc77-e584d52f5505.json",
+    "identifier": "119a732c-f113-4c1b-bc77-e584d52f5505",
+    "uri": "/reference/119a732c-f113-4c1b-bc77-e584d52f5505"
+}

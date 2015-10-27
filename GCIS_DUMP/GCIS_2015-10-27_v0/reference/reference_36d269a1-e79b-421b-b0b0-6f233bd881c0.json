@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".publisher": "Springer Netherlands",
+        ".reference_type": "0",
+        "Author": "van Eeten, Michel J. G.\rLoucks, Daniel P.\rRoe, Emery",
+        "DOI": "10.1007/s12130-002-1017-x",
+        "Date": "2002/12/01",
+        "ISSN": "0897-1986",
+        "Issue": "4",
+        "Journal": "Knowledge, Technology & Policy",
+        "Language": "English",
+        "Pages": "94-108",
+        "Title": "Bringing actors together around large-scale water systems: Participatory modeling and other innovations",
+        "Volume": "14",
+        "Year": "2002",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4037",
+        "_uuid": "36d269a1-e79b-421b-b0b0-6f233bd881c0",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s12130-002-1017-x",
+    "href": "http://data.globalchange.gov/reference/36d269a1-e79b-421b-b0b0-6f233bd881c0.json",
+    "identifier": "36d269a1-e79b-421b-b0b0-6f233bd881c0",
+    "uri": "/reference/36d269a1-e79b-421b-b0b0-6f233bd881c0"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "D'Aleo, J.\rEasterbrook, D.",
+        "DOI": "10.1260/0958-305X.21.5.437",
+        "ISSN": "0958-305X",
+        "Issue": "5",
+        "Journal": "Energy & Environment",
+        "Pages": "437-460",
+        "Title": "Multidecadal tendencies in ENSO and global temperatures related to multidecadal oscillations ",
+        "Volume": "21",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "1137",
+        "_uuid": "3b284613-e5c3-4032-9f94-ad25967acb68",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1260/0958-305X.21.5.437",
+    "href": "http://data.globalchange.gov/reference/3b284613-e5c3-4032-9f94-ad25967acb68.json",
+    "identifier": "3b284613-e5c3-4032-9f94-ad25967acb68",
+    "uri": "/reference/3b284613-e5c3-4032-9f94-ad25967acb68"
+}

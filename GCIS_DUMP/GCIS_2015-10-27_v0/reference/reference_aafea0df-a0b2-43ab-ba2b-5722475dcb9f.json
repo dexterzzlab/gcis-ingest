@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"39\" /><run start=\"40\" /></field></record>",
+        "Author": "Gurney, K.R.\rLaw, R.M.\rDenning, A.S.\rRayner, P.J.\rBaker, D.\rBousquet, P.\rBruhwiler, L.\rChen, Y.H.\rCiais, P.\rFan, S.\rFung, Inez Y.\rGloor, Manuel\rHeimann, Martin\rHiguchi, Kaz\rJohn, Jasmin\rMaki, Takashi\rMaksyutov, Shamil\rMasarie, Ken\rPeylin, Philippe\rPrather, Michael\rPak, Bernard C.\rRanderson, James\rSarmiento, Jorge\rTaguchi, Shoichi\rTakahashi, Taro\rYuen, Chiu-Wai",
+        "DOI": "10.1038/415626a",
+        "ISSN": "0028-0836",
+        "Issue": "6872",
+        "Journal": "Nature",
+        "Pages": "626-630",
+        "Title": "Towards robust regional estimates of CO2 sources and sinks using atmospheric transport models",
+        "Volume": "415",
+        "Year": "2002",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "1681",
+        "_uuid": "aafea0df-a0b2-43ab-ba2b-5722475dcb9f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/415626a",
+    "href": "http://data.globalchange.gov/reference/aafea0df-a0b2-43ab-ba2b-5722475dcb9f.json",
+    "identifier": "aafea0df-a0b2-43ab-ba2b-5722475dcb9f",
+    "uri": "/reference/aafea0df-a0b2-43ab-ba2b-5722475dcb9f"
+}

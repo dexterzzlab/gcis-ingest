@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "\u00c5str\u00f6m, D.O.\rBertil, F.\rJoacim, R.",
+        "DOI": "10.1016/j.maturitas.2011.03.008",
+        "ISSN": "0378-5122",
+        "Issue": "2",
+        "Journal": "Maturitas",
+        "Pages": "99-105",
+        "Title": "Heat wave impact on morbidity and mortality in the elderly population: A review of recent studies",
+        "Volume": "69",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "834",
+        "_uuid": "e2f39823-225f-43ea-ae65-dfc3d73bf9a6",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.maturitas.2011.03.008",
+    "href": "http://data.globalchange.gov/reference/e2f39823-225f-43ea-ae65-dfc3d73bf9a6.json",
+    "identifier": "e2f39823-225f-43ea-ae65-dfc3d73bf9a6",
+    "uri": "/reference/e2f39823-225f-43ea-ae65-dfc3d73bf9a6"
+}

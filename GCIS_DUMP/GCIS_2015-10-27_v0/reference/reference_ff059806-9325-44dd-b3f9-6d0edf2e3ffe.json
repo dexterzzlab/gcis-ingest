@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Hamlet, A.F.",
+        "DOI": "10.5194/hess-15-1427-2011",
+        "ISSN": "1027-5606",
+        "Issue": "5",
+        "Journal": "Hydrology and Earth System Sciences",
+        "Pages": "1427-1443",
+        "Title": "Assessing water resources adaptive capacity to climate change impacts in the Pacific Northwest region of North America",
+        "URL": "http://www.hydrol-earth-syst-sci.net/15/1427/2011/hess-15-1427-2011.html",
+        "Volume": "15",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "118",
+        "_uuid": "ff059806-9325-44dd-b3f9-6d0edf2e3ffe",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.5194/hess-15-1427-2011",
+    "href": "http://data.globalchange.gov/reference/ff059806-9325-44dd-b3f9-6d0edf2e3ffe.json",
+    "identifier": "ff059806-9325-44dd-b3f9-6d0edf2e3ffe",
+    "uri": "/reference/ff059806-9325-44dd-b3f9-6d0edf2e3ffe"
+}

@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/usgs-factsheet-3085.json",
+    "identifier": "usgs-factsheet-3085",
+    "in_library": null,
+    "publication_year": 2011,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Monitoring and Analysis of Sand Dune Movement and Growth on the Navajo Nation, Southwestern United States. Fact Sheet Number 3085",
+    "topic": null,
+    "uri": "/report/usgs-factsheet-3085",
+    "url": "http://pubs.usgs.gov/fs/2011/3085/fs2011-3085.pdf"
+}

@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/ccsp-sap-3_4brochure-2008.json",
+    "identifier": "ccsp-sap-3_4brochure-2008",
+    "in_library": 1,
+    "publication_year": 2008,
+    "report_type_identifier": "report",
+    "summary": "Findings of the U.S. Climate Change Science Program Synthesis and Assessment Product 3.4: Abrupt Climate Change. ",
+    "title": "SAP 3.4. Abrupt Climate Change [Brochure]",
+    "topic": "Extreme Events,Physical Climate",
+    "uri": "/report/ccsp-sap-3_4brochure-2008",
+    "url": null
+}

@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Archer, D.",
+        "ISBN": "9780691144139",
+        "Number of Pages": "205",
+        "Publisher": "Princeton University Press",
+        "Reviewer": "2e074f83-cc54-4c67-afdf-04484f5c464a",
+        "Title": "The Global Carbon Cycle",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "763",
+        "_uuid": "2e074f83-cc54-4c67-afdf-04484f5c464a",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/338d5e90-c9bb-47a3-9b56-1fb088b8aefe",
+    "href": "http://data.globalchange.gov/reference/2e074f83-cc54-4c67-afdf-04484f5c464a.json",
+    "identifier": "2e074f83-cc54-4c67-afdf-04484f5c464a",
+    "uri": "/reference/2e074f83-cc54-4c67-afdf-04484f5c464a"
+}

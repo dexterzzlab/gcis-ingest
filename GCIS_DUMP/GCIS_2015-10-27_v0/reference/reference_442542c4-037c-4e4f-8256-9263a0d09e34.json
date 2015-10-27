@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"30\" /><run start=\"31\" /></field></record>",
+        "Author": "Ainsworth, E.A.\rDavey, P.A.\rBernacchi, C.J.\rDermody, O.C.\rHeaton, E.A.\rMoore, D.J.\rMorgan, P.B.\rNaidu, S.L.\rRa, H.Y.\rZhu, X.\rP.S. Curtis\rS.P. Long",
+        "DOI": "10.1046/j.1365-2486.2002.00498.x",
+        "ISSN": "1365-2486",
+        "Issue": "8",
+        "Journal": "Global Change Biology",
+        "Pages": "695-709",
+        "Title": "A meta-analysis of elevated CO2 effects on soybean (glycine max) physiology, growth and yield",
+        "Volume": "8",
+        "Year": "2002",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "1105",
+        "_uuid": "442542c4-037c-4e4f-8256-9263a0d09e34",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1046/j.1365-2486.2002.00498.x",
+    "href": "http://data.globalchange.gov/reference/442542c4-037c-4e4f-8256-9263a0d09e34.json",
+    "identifier": "442542c4-037c-4e4f-8256-9263a0d09e34",
+    "uri": "/reference/442542c4-037c-4e4f-8256-9263a0d09e34"
+}

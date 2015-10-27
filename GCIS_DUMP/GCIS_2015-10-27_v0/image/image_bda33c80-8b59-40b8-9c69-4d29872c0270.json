@@ -1,0 +1,86 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2574.json",
+            "id": 2574,
+            "organization": {
+                "country_code": "US",
+                "identifier": "pacific-northwest-national-laboratory",
+                "name": "Pacific Northwest National Laboratory",
+                "organization_type_identifier": "federal (managed private)",
+                "url": "http://www.pnnl.gov/"
+            },
+            "organization_uri": "/organization/pacific-northwest-national-laboratory",
+            "person": {
+                "first_name": "Kathy",
+                "id": 831,
+                "last_name": "Hibbard",
+                "middle_name": null,
+                "orcid": "0000-0003-2278-4064",
+                "url": "http://www.pnnl.gov/science/staff/staff_info.asp?staff_num=7439"
+            },
+            "person_id": 831,
+            "person_uri": "/person/831",
+            "role_type_identifier": "lead_author",
+            "uri": "/contributor/2574"
+        }
+    ],
+    "create_dt": "2013-11-21T19:55:33",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Hydraulic fracturing, a drilling method used to retrieve deep reservoirs of natural gas, uses large quantities of water, sand, and chemicals that are injected at high pressure into horizontally-drilled wells as deep as 10,000 feet below Earth\u2019s surface. The pressurized mixture causes the rock layer to crack. Sand particles hold the fissures open so that natural gas from the shale can flow into the well. Questions about the water quantity necessary for this extraction method as well as the potential to affect water quality have produced national debate. (Figure source: NOAA NCDC).",
+            "chapter_identifier": "water-energy-land-use",
+            "create_dt": "2013-11-21T19:55:33",
+            "identifier": "hydraulic-fracturing-and-water-use",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 7,
+            "report_identifier": "nca3",
+            "source_citation": "NOAA NCDC",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Hydraulic Fracturing and Water Use",
+            "url": "http://nca2014.globalchange.gov/report/sectors/energy-water-and-land/graphics/hydraulic-fracturing-and-water-use",
+            "usage_limits": null
+        }
+    ],
+    "files": [
+        {
+            "file": "fd/0d/5cb5e5d5567c13c30df81081da81/wel_hydraulicfracturing_13447_v4.png",
+            "href": "http://data.globalchange.gov/assets/fd/0d/5cb5e5d5567c13c30df81081da81/wel_hydraulicfracturing_13447_v4.png",
+            "identifier": "5a17773b-8180-4ada-99f3-b282e6727a00",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "f8f8536c7f35b87a0ad1670ba6a59e7321368f81",
+            "size": 1321251,
+            "thumbnail": "fd/0d/5cb5e5d5567c13c30df81081da81/.thumb-5a17773b-8180-4ada-99f3-b282e6727a00.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/fd/0d/5cb5e5d5567c13c30df81081da81/.thumb-5a17773b-8180-4ada-99f3-b282e6727a00.png",
+            "uri": "/file/5a17773b-8180-4ada-99f3-b282e6727a00",
+            "url": "/assets/fd/0d/5cb5e5d5567c13c30df81081da81/wel_hydraulicfracturing_13447_v4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/bda33c80-8b59-40b8-9c69-4d29872c0270.json",
+    "identifier": "bda33c80-8b59-40b8-9c69-4d29872c0270",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Hydraulic Fracturing and Water Use",
+    "uri": "/image/bda33c80-8b59-40b8-9c69-4d29872c0270",
+    "url": null,
+    "usage_limits": null
+}

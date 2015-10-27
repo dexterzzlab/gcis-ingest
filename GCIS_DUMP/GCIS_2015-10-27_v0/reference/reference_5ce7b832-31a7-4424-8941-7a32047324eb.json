@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Galgano, F.A.\rDouglas, B.C.",
+        "DOI": "10.1046/j.1526-0984.2000.71006.x",
+        "ISSN": "1075-9565",
+        "Issue": "1",
+        "Journal": "Environmental Geosciences",
+        "Pages": "23-31",
+        "Title": "Shoreline position prediction: Methods and errors",
+        "Volume": "7",
+        "Year": "2000",
+        "_chapter": "[\"RG 9 Rural\",\"Ch. 14: Rural Communities FINAL\"]",
+        "_record_number": "1534",
+        "_uuid": "5ce7b832-31a7-4424-8941-7a32047324eb",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1046/j.1526-0984.2000.71006.x",
+    "href": "http://data.globalchange.gov/reference/5ce7b832-31a7-4424-8941-7a32047324eb.json",
+    "identifier": "5ce7b832-31a7-4424-8941-7a32047324eb",
+    "uri": "/reference/5ce7b832-31a7-4424-8941-7a32047324eb"
+}

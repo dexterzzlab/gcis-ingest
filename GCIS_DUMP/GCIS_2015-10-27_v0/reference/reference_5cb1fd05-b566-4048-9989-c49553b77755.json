@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Accession Number": "WOS:000240033100009",
+        "Author": "Howarth, R.W.\rSwaney, D.P.\rBoyer, E.W.\rMarino, R.\rJaworski, N.\rGoodale, C.",
+        "DOI": "10.1007/s10533-006-9010-1",
+        "Date": "May",
+        "ISSN": "0168-2563",
+        "Issue": "1-2",
+        "Journal": "Biogeochemistry",
+        "Label": "IN",
+        "Pages": "163-186",
+        "Title": "The influence of climate on average nitrogen export from large watersheds in the Northeastern United States",
+        "Volume": "79",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\",\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "3589",
+        "_uuid": "5cb1fd05-b566-4048-9989-c49553b77755",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10533-006-9010-1",
+    "href": "http://data.globalchange.gov/reference/5cb1fd05-b566-4048-9989-c49553b77755.json",
+    "identifier": "5cb1fd05-b566-4048-9989-c49553b77755",
+    "uri": "/reference/5cb1fd05-b566-4048-9989-c49553b77755"
+}

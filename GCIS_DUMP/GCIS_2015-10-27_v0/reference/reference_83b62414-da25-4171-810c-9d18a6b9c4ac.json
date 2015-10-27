@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".publisher": "Blackwell Publishing Ltd",
+        ".reference_type": "0",
+        "Author": "Kasperson, Roger E.\rRenn, Ortwin\rSlovic, Paul\rBrown, Halina S.\rEmel, Jacque\rGoble, Robert\rKasperson, Jeanne X.\rRatick, Samuel",
+        "DOI": "10.1111/j.1539-6924.1988.tb01168.x",
+        "ISSN": "1539-6924",
+        "Issue": "2",
+        "Journal": "Risk Analysis",
+        "Keywords": "Risk\rrisk perception\rsocial amplification\rtechnological controversies\rpublic participation",
+        "Pages": "177-187",
+        "Title": "The social amplification of risk: A conceptual framework",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/j.1539-6924.1988.tb01168.x/pdf",
+        "Volume": "8",
+        "Year": "1988",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4475",
+        "_uuid": "83b62414-da25-4171-810c-9d18a6b9c4ac",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1539-6924.1988.tb01168.x",
+    "href": "http://data.globalchange.gov/reference/83b62414-da25-4171-810c-9d18a6b9c4ac.json",
+    "identifier": "83b62414-da25-4171-810c-9d18a6b9c4ac",
+    "uri": "/reference/83b62414-da25-4171-810c-9d18a6b9c4ac"
+}

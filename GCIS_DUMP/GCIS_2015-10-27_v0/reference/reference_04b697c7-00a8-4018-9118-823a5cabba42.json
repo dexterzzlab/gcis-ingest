@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Robertson, G.P.\rDale, V.H.\rDoering, O.C.\rHamburg, S.P.\rMelillo, J.M.\rWander, M.M.\rParton, W.J.\rAdler, P.R.\rBarney, J.N.\rCruse, R.M.\rDuke, Clifford S.\rFearnside, Philip M.\rFollett, Ronald F.\rGibbs, Holly K.\rGoldemberg, Jose\rMladenoff, David J.\rOjima, Dennis\rPalmer, Michael W.\rSharpley, Andrew\rWallace, Linda\rWeathers, Kathleen C.\rWiens, John A.\rWilhelm, Wallace W.",
+        "DOI": "10.1126/science.1161525",
+        "ISSN": "0036-8075",
+        "Issue": "5898",
+        "Journal": "Science",
+        "Pages": "49-50",
+        "Title": "Agriculture - Sustainable biofuels redux",
+        "Volume": "322",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 7: Forests FINAL\",\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "2648",
+        "_uuid": "04b697c7-00a8-4018-9118-823a5cabba42",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1161525",
+    "href": "http://data.globalchange.gov/reference/04b697c7-00a8-4018-9118-823a5cabba42.json",
+    "identifier": "04b697c7-00a8-4018-9118-823a5cabba42",
+    "uri": "/reference/04b697c7-00a8-4018-9118-823a5cabba42"
+}

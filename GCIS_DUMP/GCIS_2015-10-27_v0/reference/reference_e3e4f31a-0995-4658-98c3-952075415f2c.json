@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "PCAST,",
+        "Institution": "President\u2019s Council of Advisors on Science and Technology, Executive Office of the President",
+        "Pages": "145",
+        "Place Published": "Washington, D.C.",
+        "Title": "Report to the President: Sustainability Environmental Capital: Protecting Society and the Economy ",
+        "URL": "http://www.whitehouse.gov/sites/default/files/microsites/ostp/pcast_sustaining_environmental_capital_report.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\",\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "2447",
+        "_uuid": "e3e4f31a-0995-4658-98c3-952075415f2c",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/eop-sustainability-2011",
+    "href": "http://data.globalchange.gov/reference/e3e4f31a-0995-4658-98c3-952075415f2c.json",
+    "identifier": "e3e4f31a-0995-4658-98c3-952075415f2c",
+    "uri": "/reference/e3e4f31a-0995-4658-98c3-952075415f2c"
+}

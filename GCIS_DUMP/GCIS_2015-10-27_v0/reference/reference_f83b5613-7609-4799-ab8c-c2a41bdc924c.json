@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Accession Number": "45",
+        "Author": "IPCC,",
+        "Book Title": "Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change",
+        "Editor": "Solomon, S.\rQin, D.\rManning, M.\rChen, Z.\rMarquis, M.\rAveryt, K.B.\rTignor, M.\rMiller, H.L.",
+        "ISBN": "9780521880091",
+        "Pages": "1-18",
+        "Place Published": "Cambridge, UK and New York, NY, USA",
+        "Publisher": "Cambridge University Press",
+        "Reviewer": "f83b5613-7609-4799-ab8c-c2a41bdc924c",
+        "Title": "Summary for Policymakers",
+        "URL": "http://www.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4-wg1-spm.pdf",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"Ch. 23: Hawaii FINAL\",\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "1624",
+        "_uuid": "f83b5613-7609-4799-ab8c-c2a41bdc924c",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/ipcc-ar4-wg1",
+    "href": "http://data.globalchange.gov/reference/f83b5613-7609-4799-ab8c-c2a41bdc924c.json",
+    "identifier": "f83b5613-7609-4799-ab8c-c2a41bdc924c",
+    "uri": "/reference/f83b5613-7609-4799-ab8c-c2a41bdc924c"
+}

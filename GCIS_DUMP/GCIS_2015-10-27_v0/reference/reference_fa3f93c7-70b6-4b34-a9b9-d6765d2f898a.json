@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Baylis, M.\rGitheko, A.K.",
+        "Institution": "UK Government Foresight Project, Infectious Diseases: preparing for the future, Office of Science and Innovation",
+        "Pages": "19",
+        "Title": "The Effects of Climate Change on Infectious Diseases of Animals. Report for the Foresight Project on Detection of Infectious Diseases, Department of Trade and Industry",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "598",
+        "_uuid": "fa3f93c7-70b6-4b34-a9b9-d6765d2f898a",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/offsciinnovation-effectsclimch-2006",
+    "href": "http://data.globalchange.gov/reference/fa3f93c7-70b6-4b34-a9b9-d6765d2f898a.json",
+    "identifier": "fa3f93c7-70b6-4b34-a9b9-d6765d2f898a",
+    "uri": "/reference/fa3f93c7-70b6-4b34-a9b9-d6765d2f898a"
+}

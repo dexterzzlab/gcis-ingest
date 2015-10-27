@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Rizak, S.\rHrudey, S.E.",
+        "DOI": "10.2166/wh.2008.033",
+        "ISSN": "1477-8920",
+        "Issue": "Supplement 1",
+        "Journal": "Journal of Water Health",
+        "Pages": "33-42",
+        "Title": "Drinking-water safety: Challenges for community-managed systems",
+        "URL": "http://www.iwaponline.com/jwh/006/s033/006s033.pdf",
+        "Volume": "6",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "2642",
+        "_uuid": "64b2c0fc-7c3c-4b6e-acd6-fd384be7d7f6",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.2166/wh.2008.033",
+    "href": "http://data.globalchange.gov/reference/64b2c0fc-7c3c-4b6e-acd6-fd384be7d7f6.json",
+    "identifier": "64b2c0fc-7c3c-4b6e-acd6-fd384be7d7f6",
+    "uri": "/reference/64b2c0fc-7c3c-4b6e-acd6-fd384be7d7f6"
+}

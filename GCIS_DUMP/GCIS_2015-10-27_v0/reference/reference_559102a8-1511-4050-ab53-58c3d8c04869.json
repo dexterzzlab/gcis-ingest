@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Cubasch, U.\rWuebbles, D.\rChen, D.\rFacchini, M.C.\rFrame, D.\rMahowald, N.\rWinther, J.-G.",
+        "Book Title": "Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change",
+        "Editor": "Stocker, T.F.\rQin, D.\rPlattner, G.-K.\rTignor, M.\rAllen, S.K.\rBoschung, J.\rNauels, A.\rXia, Y.\rBex, V.\rMidgley, P.M.",
+        "ISBN": "978-1-107-05799-1",
+        "Pages": "119-158",
+        "Place Published": "Cambridge. U.K, New York, NY, USA",
+        "Publisher": "Cambridge University Press",
+        "Reviewer": "559102a8-1511-4050-ab53-58c3d8c04869",
+        "Title": "Introduction",
+        "URL": "http://www.climatechange2013.org/images/report/WG1AR5_Chapter01_FINAL.pdf",
+        "Year": "2013",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "4704",
+        "_uuid": "559102a8-1511-4050-ab53-58c3d8c04869",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/ipcc-ar5-wg1",
+    "href": "http://data.globalchange.gov/reference/559102a8-1511-4050-ab53-58c3d8c04869.json",
+    "identifier": "559102a8-1511-4050-ab53-58c3d8c04869",
+    "uri": "/reference/559102a8-1511-4050-ab53-58c3d8c04869"
+}

@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "In coming decades, global climate changes are expected to produce large shifts in vegetation distributions at unprecedented rates. These shifts are expected to be most rapid and extreme at ecotones, the boundaries between ecosystems, particularly those in semiarid landscapes. However, current models do not adequately provide for such rapid effects-particularly those caused by mortality-largely because of the lack of data from field studies. Here we report the most rapid landscape-scale shift of a woody ecotone ever documented: in northern New Mexico in the 1950s, the ecotone between semiarid ponderosa pine forest and pinon-juniper woodland shifted extensively (2 km or more) and rapidly (<5 years) through mortality of ponderosa pines in response to a severe drought. This shift has persisted for 40 years. Forest patches within the shift zone became much more fragmented, and soil erosion greatly accelerated. The rapidity and the complex dynamics of the persistent shift point to the need to represent more accurately these dynamics, especially the mortality factor, in assessments of the effects of climate change.",
+        "Accession Number": "ISI:000077436700046",
+        "Author": "Allen, Craig D.\rBreshears, David D.",
+        "Author Address": "Allen, CD (reprint author), US Geol Survey, Jemenz Mt Field Stn, Midcontinent Ecol Sci Ctr, HCR 1,Box 1,15, Los Alamos, NM 87544 USA; US Geol Survey, Jemenz Mt Field Stn, Midcontinent Ecol Sci Ctr, Los Alamos, NM 87544 USA; Los Alamos Natl Lab, Environm Sci Grp, Los Alamos, NM 87545 USA",
+        "DOI": "10.1073/pnas.95.25.14839",
+        "Date": "December 8, 1998",
+        "ISSN": "0027-8424",
+        "Issue": "25",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Keywords": "climate change; vegetation; ecotone; ecoregions; shifts",
+        "Language": "English",
+        "Pages": "14839-14842",
+        "Title": "Drought-induced shift of a forest-woodland ecotone: Rapid landscape response to climate variation",
+        "URL": "http://www.pnas.org/content/95/25/14839.full.pdf+html",
+        "Volume": "95",
+        "Year": "1998",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "547",
+        "_uuid": "4b677077-2268-422c-be0f-e3b2ed0baee0",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.95.25.14839",
+    "href": "http://data.globalchange.gov/reference/4b677077-2268-422c-be0f-e3b2ed0baee0.json",
+    "identifier": "4b677077-2268-422c-be0f-e3b2ed0baee0",
+    "uri": "/reference/4b677077-2268-422c-be0f-e3b2ed0baee0"
+}

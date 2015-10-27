@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2012-11-01T16:37:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Agricultural activity is distributed across the U.S. with market value and crop types varying by region. In 2010, the total market value was nearly $330 billion. Wide variability in climate, commodities, and practices across the U.S. will likely result in differing responses, both in terms of yield and management. (Figure source: USDA National Agricultural Statistics Service 2008<tbib>58ac7c6f-2fda-4beb-9d1a-aaba9b0e0011</tbib>).",
+            "chapter_identifier": "agriculture",
+            "create_dt": "2012-11-01T16:37:00",
+            "identifier": "agricultural-distribution",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 2,
+            "report_identifier": "nca3",
+            "source_citation": "USDA National Agricultural Statistics Service 2008<tbib>58ac7c6f-2fda-4beb-9d1a-aaba9b0e0011</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Agricultural Distribution",
+            "url": "http://nca2014.globalchange.gov/report/sectors/agriculture/graphics/agricultural-distribution",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "c6/86/1ff2c7042105bacdc453db2fbe80/ag_6-2_hogs.png",
+            "href": "http://data.globalchange.gov/assets/c6/86/1ff2c7042105bacdc453db2fbe80/ag_6-2_hogs.png",
+            "identifier": "6800b7dc-408d-4ac5-b026-117b5f4a9284",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "2e5d2b46e047f7c1ce6c6a992ca2fdd0405a1c0c",
+            "size": 243844,
+            "thumbnail": "c6/86/1ff2c7042105bacdc453db2fbe80/.thumb-6800b7dc-408d-4ac5-b026-117b5f4a9284.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/c6/86/1ff2c7042105bacdc453db2fbe80/.thumb-6800b7dc-408d-4ac5-b026-117b5f4a9284.png",
+            "uri": "/file/6800b7dc-408d-4ac5-b026-117b5f4a9284",
+            "url": "/assets/c6/86/1ff2c7042105bacdc453db2fbe80/ag_6-2_hogs.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/ffbcbf37-b625-4fa3-a739-3c4f31bbccc1.json",
+    "identifier": "ffbcbf37-b625-4fa3-a739-3c4f31bbccc1",
+    "lat_max": "71.398048",
+    "lat_min": "18.913826",
+    "lon_max": "-66.957802",
+    "lon_min": "-179.133392",
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2007-12-31T23:59:59",
+    "time_start": "2007-01-01T00:00:00",
+    "title": "Agricultural Distribution - Hogs and Pigs, Inventory: 2007",
+    "uri": "/image/ffbcbf37-b625-4fa3-a739-3c4f31bbccc1",
+    "url": null,
+    "usage_limits": null
+}

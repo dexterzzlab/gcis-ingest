@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Libardoni, Alex G.\rForest, Chris E.",
+        "DOI": "10.1002/grl.50480",
+        "Date": "May 2013",
+        "ISSN": "1944-8007",
+        "Issue": "10",
+        "Journal": "Geophysical Research Letters",
+        "Keywords": "climate\rsensitivity\rprobability\rdistributions\r1620 Climate dynamics\r1694 Instruments and techniques\r1622 Earth system modeling\r1616 Climate variability",
+        "Pages": "2309-2311",
+        "Title": "Correction to \u201cSensitivity of distributions of climate system properties to the surface temperature data set\u201d",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1002/grl.50480/pdf",
+        "Volume": "40",
+        "Year": "2013",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "3728",
+        "_uuid": "133777d9-73a9-4709-8001-4574b1c426e1",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/grl.50480",
+    "href": "http://data.globalchange.gov/reference/133777d9-73a9-4709-8001-4574b1c426e1.json",
+    "identifier": "133777d9-73a9-4709-8001-4574b1c426e1",
+    "uri": "/reference/133777d9-73a9-4709-8001-4574b1c426e1"
+}

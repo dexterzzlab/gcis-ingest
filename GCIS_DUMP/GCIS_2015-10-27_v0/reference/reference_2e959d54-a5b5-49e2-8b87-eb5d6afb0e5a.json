@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Kruse, J. A.",
+        "ISSN": "0018-7259",
+        "Issue": "4",
+        "Journal": "Human Organization",
+        "Pages": "317-326",
+        "Title": "Alaska Inupiat subsistence and wage employment patterns: Understanding individual choice",
+        "Volume": "50",
+        "Year": "1991",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "67",
+        "_uuid": "2e959d54-a5b5-49e2-8b87-eb5d6afb0e5a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.17730/humo.50.4.c288gt2641286g71",
+    "href": "http://data.globalchange.gov/reference/2e959d54-a5b5-49e2-8b87-eb5d6afb0e5a.json",
+    "identifier": "2e959d54-a5b5-49e2-8b87-eb5d6afb0e5a",
+    "uri": "/reference/2e959d54-a5b5-49e2-8b87-eb5d6afb0e5a"
+}

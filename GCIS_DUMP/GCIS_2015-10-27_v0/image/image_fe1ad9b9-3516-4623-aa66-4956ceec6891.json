@@ -1,0 +1,95 @@
+{
+    "attributes": "Contiguous U.S., temperature, observed",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2522.json",
+            "id": 2522,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Kenneth",
+                "id": 1025,
+                "last_name": "Kunkel",
+                "middle_name": null,
+                "orcid": "0000-0001-6667-7047",
+                "url": "http://cicsnc.org/people/kenneth-kunkel/"
+            },
+            "person_id": 1025,
+            "person_uri": "/person/1025",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2522"
+        }
+    ],
+    "create_dt": "2013-07-31T10:33:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": null,
+            "chapter_identifier": "appendix-faqs",
+            "create_dt": "2013-07-31T17:01:55",
+            "identifier": "us-annual-temperature",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 1,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "U.S. Annual Temperature",
+            "url": "http://nca2014.globalchange.gov/report/appendices/faqs/graphics/us-annual-average-temperature",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "69/e9/6d58a7266dfd4eefdb63efaa3d23/caq_us_annual_temp_v4.png",
+            "href": "http://data.globalchange.gov/assets/69/e9/6d58a7266dfd4eefdb63efaa3d23/caq_us_annual_temp_v4.png",
+            "identifier": "0750f373-58b3-4177-bfa9-4daec355e4ab",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "8efe457994ac6f029591ba1e5ed04b5f35b61e87",
+            "size": 59486,
+            "thumbnail": "69/e9/6d58a7266dfd4eefdb63efaa3d23/.thumb-0750f373-58b3-4177-bfa9-4daec355e4ab.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/69/e9/6d58a7266dfd4eefdb63efaa3d23/.thumb-0750f373-58b3-4177-bfa9-4daec355e4ab.png",
+            "uri": "/file/0750f373-58b3-4177-bfa9-4daec355e4ab",
+            "url": "/assets/69/e9/6d58a7266dfd4eefdb63efaa3d23/caq_us_annual_temp_v4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/fe1ad9b9-3516-4623-aa66-4956ceec6891.json",
+    "identifier": "fe1ad9b9-3516-4623-aa66-4956ceec6891",
+    "lat_max": "49.38",
+    "lat_min": "24.50",
+    "lon_max": "-66.95",
+    "lon_min": "-124.80",
+    "parents": [
+        {
+            "activity_uri": "/activity/fe1ad9b9-nca3-cddv2-r1-process",
+            "label": "dataset nca3-cddv2-r1",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-cddv2-r1"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2012-12-31T23:59:59",
+    "time_start": "1960-01-01T00:00:00",
+    "title": "U.S. Annual Average Temperature",
+    "uri": "/image/fe1ad9b9-3516-4623-aa66-4956ceec6891",
+    "url": null,
+    "usage_limits": null
+}

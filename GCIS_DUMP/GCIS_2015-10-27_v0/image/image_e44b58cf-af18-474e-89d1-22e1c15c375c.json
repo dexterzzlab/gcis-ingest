@@ -1,0 +1,95 @@
+{
+    "attributes": "CLIMDEX, consecutive dry days, projections, CMIP5, RCP 8.5",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/3258.json",
+            "id": 3258,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Andrew",
+                "id": 1948,
+                "last_name": "Buddenberg",
+                "middle_name": null,
+                "orcid": "0000-0003-2047-6527",
+                "url": null
+            },
+            "person_id": 1948,
+            "person_uri": "/person/1948",
+            "role_type_identifier": "analyst",
+            "uri": "/contributor/3258"
+        }
+    ],
+    "create_dt": "2013-07-24T15:50:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Left panel shows simulated changes in the average amount of precipitation falling on the wettest day of the year for the period 2070-2099 as compared to 1971-2000 under a scenario that assumes rapid reductions in emissions (RCP 2.6) and one that assumes continued emissions increases (RCP 8.5). Right panel\u00a0shows simulated changes in the annual maximum number of consecutive dry days (days receiving less than 0.04 inches (1 mm) of precipitation) under the same two scenarios. Simulations are from CMIP5 models. Stippling indicates areas where changes are consistent among at least 80% of the models used in this analysis. (Figure source: NOAA NCDC / CICS-NC).",
+            "chapter_identifier": "our-changing-climate",
+            "create_dt": "2014-02-06T14:19:00",
+            "identifier": "ann-max-precip-cons-dry-day",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 13,
+            "report_identifier": "nca3",
+            "source_citation": "NOAA NCDC / CICS-NC",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Annual Maximum Precipitation and Changes in Consecutive Dry Days",
+            "url": "http://nca2014.globalchange.gov/report/our-changing-climate/precipitation-change/graphics/annual-maximum-precipitation",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "a6/d7/c4d0d60b96b12b45c87f35664304/cs_regional_uncertainty_v4_bottom_right.png",
+            "href": "http://data.globalchange.gov/assets/a6/d7/c4d0d60b96b12b45c87f35664304/cs_regional_uncertainty_v4_bottom_right.png",
+            "identifier": "4ab71794-0f21-446f-bd69-1d1eae63974d",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "ce6f673d69c0bcf9a2213218e01261bd65817aca",
+            "size": 315122,
+            "thumbnail": "a6/d7/c4d0d60b96b12b45c87f35664304/.thumb-4ab71794-0f21-446f-bd69-1d1eae63974d.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/a6/d7/c4d0d60b96b12b45c87f35664304/.thumb-4ab71794-0f21-446f-bd69-1d1eae63974d.png",
+            "uri": "/file/4ab71794-0f21-446f-bd69-1d1eae63974d",
+            "url": "/assets/a6/d7/c4d0d60b96b12b45c87f35664304/cs_regional_uncertainty_v4_bottom_right.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/e44b58cf-af18-474e-89d1-22e1c15c375c.json",
+    "identifier": "e44b58cf-af18-474e-89d1-22e1c15c375c",
+    "lat_max": "82.31",
+    "lat_min": "18.14",
+    "lon_max": "-53.44",
+    "lon_min": "-165.94",
+    "parents": [
+        {
+            "activity_uri": "/activity/e44b58cf-nca3-etccdi-r201305-process",
+            "label": "dataset nca3-etccdi-r201305",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-etccdi-r201305"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2099-12-21T23:59:59",
+    "time_start": "1971-01-01T00:00:00",
+    "title": "Changes in Consecutive Dry Days: Continued Emissions Increases (RCP 8.5)",
+    "uri": "/image/e44b58cf-af18-474e-89d1-22e1c15c375c",
+    "url": null,
+    "usage_limits": null
+}

@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Moser, S.C.",
+        "Institution": "California Energy Commission, NOAA-Coastal Services Center",
+        "Pages": "39",
+        "Place Published": "Sacramento, CA and Charleston, SC",
+        "Title": "Good Morning America! The Explosive Awakening of the US to Adaptation",
+        "URL": "http://www.preventionweb.net/files/11374_MoserGoodMorningAmericaAdaptationin.pdf",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"Ch. 28: Adaptation FINAL\",\"RF 12\"]",
+        "_record_number": "2093",
+        "_uuid": "37b3bba2-0e99-4f96-abe8-83da815cbc7e",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/moser-goodmorning-2009",
+    "href": "http://data.globalchange.gov/reference/37b3bba2-0e99-4f96-abe8-83da815cbc7e.json",
+    "identifier": "37b3bba2-0e99-4f96-abe8-83da815cbc7e",
+    "uri": "/reference/37b3bba2-0e99-4f96-abe8-83da815cbc7e"
+}

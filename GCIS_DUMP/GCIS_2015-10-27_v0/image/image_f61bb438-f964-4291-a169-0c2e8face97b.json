@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-14T13:06:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "This \u201cmock-up\u201d shows the existing Highway LA-1 and Leeville Bridge in coastal \r\nLouisiana (on the right) with a planned new, elevated bridge that would retain functionality under \r\nfuture, higher sea level conditions (center left). (Current sea level and sinking bridge are shown \r\nhere.) A 7-mile portion of the planned bridge has been completed and opened to traffic in \r\nDecember 2011. (Figure source: Greater Lafourche Port Commission, reprinted with permission).",
+            "chapter_identifier": "coastal-zone",
+            "create_dt": "2013-11-14T13:06:00",
+            "identifier": "adapting-coastal-infrastructure-to-sea-level-rise-and-land-loss",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 5,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Adapting Coastal Infrastructure to Sea Level Rise and Land Loss",
+            "url": "http://nca2014.globalchange.gov/report/regions/coasts/graphics/adapting-coastal-infrastructure-sea-level-rise-and-land-loss",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "e3/9e/3df26a030a8a8cc9d8458fce19a2/coastal_adaptation_possiblilities_v4.png",
+            "href": "http://data.globalchange.gov/assets/e3/9e/3df26a030a8a8cc9d8458fce19a2/coastal_adaptation_possiblilities_v4.png",
+            "identifier": "3037ef15-e858-4258-bcef-9c9937e4d97f",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "a6cbdc3af15315a5ed0e128c0dcaa17d9faa29da",
+            "size": 233114,
+            "thumbnail": "e3/9e/3df26a030a8a8cc9d8458fce19a2/.thumb-3037ef15-e858-4258-bcef-9c9937e4d97f.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/e3/9e/3df26a030a8a8cc9d8458fce19a2/.thumb-3037ef15-e858-4258-bcef-9c9937e4d97f.png",
+            "uri": "/file/3037ef15-e858-4258-bcef-9c9937e4d97f",
+            "url": "/assets/e3/9e/3df26a030a8a8cc9d8458fce19a2/coastal_adaptation_possiblilities_v4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/f61bb438-f964-4291-a169-0c2e8face97b.json",
+    "identifier": "f61bb438-f964-4291-a169-0c2e8face97b",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Adaptation Coastal Infrastructure to Sea Level Rse and Land Loss",
+    "uri": "/image/f61bb438-f964-4291-a169-0c2e8face97b",
+    "url": null,
+    "usage_limits": null
+}

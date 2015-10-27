@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Zhang, J.\rHudson, J.\rNeal, R.\rSereda, J.\rClair, T.\rTurner, M.\rJeffries, D.\rDillon, P.\rMolot, L.\rSomers, K.\rHesslein, R.",
+        "DOI": "10.4319/lo.2010.55.1.0030",
+        "Date": "Jan",
+        "ISSN": "0024-3590",
+        "Issue": "1",
+        "Journal": "Limnology and Oceanography",
+        "Label": "IN",
+        "Pages": "30-42",
+        "Title": "Long-term patterns of dissolved organic carbon in lakes across eastern Canada: Evidence of a pronounced climate effect",
+        "Volume": "55",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "3532",
+        "_uuid": "a20b210a-bb26-4b05-923d-b929cca6bcc8",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.4319/lo.2010.55.1.0030",
+    "href": "http://data.globalchange.gov/reference/a20b210a-bb26-4b05-923d-b929cca6bcc8.json",
+    "identifier": "a20b210a-bb26-4b05-923d-b929cca6bcc8",
+    "uri": "/reference/a20b210a-bb26-4b05-923d-b929cca6bcc8"
+}

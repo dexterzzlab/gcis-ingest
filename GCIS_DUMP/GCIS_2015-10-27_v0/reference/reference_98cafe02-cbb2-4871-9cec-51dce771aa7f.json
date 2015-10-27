@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "9",
+        "Editor": "Botterill, L.C.\rCockfield, G.C.",
+        "ISBN": "9781439876299",
+        "Number of Pages": "226",
+        "Publisher": "CRC Press",
+        "Series Title": "Drought and Water Crises",
+        "Title": "Drought, Risk Management, and Policy: Decision-Making Under Uncertainty",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "546",
+        "_uuid": "98cafe02-cbb2-4871-9cec-51dce771aa7f",
+        "reftype": "Edited Book"
+    },
+    "child_publication": "/book/e989ddc2-b799-4d48-8ba2-7e3826c0f20c",
+    "href": "http://data.globalchange.gov/reference/98cafe02-cbb2-4871-9cec-51dce771aa7f.json",
+    "identifier": "98cafe02-cbb2-4871-9cec-51dce771aa7f",
+    "uri": "/reference/98cafe02-cbb2-4871-9cec-51dce771aa7f"
+}

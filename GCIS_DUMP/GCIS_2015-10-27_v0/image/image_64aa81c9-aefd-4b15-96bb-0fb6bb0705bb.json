@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2012-09-27T00:00:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "In August and September 2012, sea ice covered less of the Arctic Ocean than any time since the beginning of reliable satellite measurements (1979). The long-term retreat of sea ice has occurred faster than climate models had predicted. The average minimum extent of sea ice for 1979-2000 was 2.59 million square miles. The image on the left shows Arctic minimum sea ice extent in 1984, which was about the average minimum extent for 1979-2000. The image on the right shows that the extent of sea ice had dropped to 1.32 million square miles at the end of summer 2012. Alaska Native coastal communities rely on sea ice for many reasons, including its role as a buffer against coastal erosion from storms. (Figure source: NASA Earth Observatory 2012<tbib>4599b8b1-534b-4e48-bff1-b381a9ef4998</tbib>).",
+            "chapter_identifier": "tribal-indigenous-native-lands-resources",
+            "create_dt": "2014-03-14T13:23:00",
+            "identifier": "sea-ice-cover-reaches-record-low",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 4,
+            "report_identifier": "nca3",
+            "source_citation": "NASA Earth Observatory 2012<tbib>4599b8b1-534b-4e48-bff1-b381a9ef4998</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Sea Ice Cover Reaches Record Low",
+            "url": "http://nca2014.globalchange.gov/highlights/report-findings/our-changing-climate/graphics/arctic-sea-ice-decline",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "0f/d7/247b81a8976846c2c39099942191/tribal_arctic_sea_ice_v3_right.png",
+            "href": "http://data.globalchange.gov/assets/0f/d7/247b81a8976846c2c39099942191/tribal_arctic_sea_ice_v3_right.png",
+            "identifier": "6447ba68-3dd8-497b-8129-20731df4ee18",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "f381b8acf5321035669e9c00f3a939870eed1473",
+            "size": 82292,
+            "thumbnail": "0f/d7/247b81a8976846c2c39099942191/.thumb-6447ba68-3dd8-497b-8129-20731df4ee18.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/0f/d7/247b81a8976846c2c39099942191/.thumb-6447ba68-3dd8-497b-8129-20731df4ee18.png",
+            "uri": "/file/6447ba68-3dd8-497b-8129-20731df4ee18",
+            "url": "/assets/0f/d7/247b81a8976846c2c39099942191/tribal_arctic_sea_ice_v3_right.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/64aa81c9-aefd-4b15-96bb-0fb6bb0705bb.json",
+    "identifier": "64aa81c9-aefd-4b15-96bb-0fb6bb0705bb",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2012-09-27T23:59:59",
+    "time_start": "2012-09-27T00:00:00",
+    "title": "Sea Ice Cover Reaches Record Low - 9/13/2012",
+    "uri": "/image/64aa81c9-aefd-4b15-96bb-0fb6bb0705bb",
+    "url": null,
+    "usage_limits": null
+}

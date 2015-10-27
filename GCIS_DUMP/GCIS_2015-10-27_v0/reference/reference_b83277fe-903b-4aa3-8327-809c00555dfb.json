@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Rupp, T. Scott\rOlson, Mark\rAdams, Layne G.\rDale, Bruce W.\rJoly, Kyle\rHenkelman, Jonathan\rCollins, William B.\rStarfield, Anthony M.",
+        "DOI": "10.1890/1051-0761(2006)016[1730:STIOVF]2.0.CO;2",
+        "ISSN": "1051-0761",
+        "Issue": "5",
+        "Journal": "Ecological Applications",
+        "Keywords": "fire regime",
+        "Pages": "1730-1743",
+        "Title": "Simulating the influences of various fire regimes on caribou winter habitat",
+        "Volume": "16",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "2712",
+        "_uuid": "b83277fe-903b-4aa3-8327-809c00555dfb",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/1051-0761(2006)016%5B1730:STIOVF%5D2.0.CO;2",
+    "href": "http://data.globalchange.gov/reference/b83277fe-903b-4aa3-8327-809c00555dfb.json",
+    "identifier": "b83277fe-903b-4aa3-8327-809c00555dfb",
+    "uri": "/reference/b83277fe-903b-4aa3-8327-809c00555dfb"
+}

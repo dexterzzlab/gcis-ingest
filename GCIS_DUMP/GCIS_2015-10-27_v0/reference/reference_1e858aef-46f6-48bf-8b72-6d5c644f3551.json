@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Accession Number": "WOS:000252014000005",
+        "Author": "Dial, Roman J.\rBerg, Edward E.\rTimm, Katriina\rMcMahon, Alissa\rGeck, Jason",
+        "DOI": "10.1029/2007JG000453",
+        "Date": "Dec 27",
+        "ISSN": "0148-0227",
+        "Issue": "G4",
+        "Journal": "Journal of Geophysical Research-Biogeosciences",
+        "Label": "IN",
+        "Title": "Changes in the alpine forest-tundra ecotone commensurate with recent warming in southcentral Alaska: Evidence from orthophotos and field plots",
+        "Volume": "112",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "215",
+        "_uuid": "1e858aef-46f6-48bf-8b72-6d5c644f3551",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2007JG000453",
+    "href": "http://data.globalchange.gov/reference/1e858aef-46f6-48bf-8b72-6d5c644f3551.json",
+    "identifier": "1e858aef-46f6-48bf-8b72-6d5c644f3551",
+    "uri": "/reference/1e858aef-46f6-48bf-8b72-6d5c644f3551"
+}

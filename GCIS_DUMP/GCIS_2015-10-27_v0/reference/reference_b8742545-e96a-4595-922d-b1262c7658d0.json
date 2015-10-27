@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Liao, K.J.\rTagaris, E.\rManomaiphiboon, K.\rWang, C.\rWoo, J.H.\rAmar, P.\rHe, S.\rRussell, AG",
+        "DOI": "10.5194/acp-9-865-2009",
+        "ISSN": "1680-7324",
+        "Journal": "Atmospheric Chemistry and Physics",
+        "Pages": "865-878",
+        "Title": "Quantification of the impact of climate uncertainty on regional air quality",
+        "URL": "http://atmos-chem-phys.net/9/865/2009/acp-9-865-2009.pdf",
+        "Volume": "9",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "1356",
+        "_uuid": "b8742545-e96a-4595-922d-b1262c7658d0",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.5194/acp-9-865-2009",
+    "href": "http://data.globalchange.gov/reference/b8742545-e96a-4595-922d-b1262c7658d0.json",
+    "identifier": "b8742545-e96a-4595-922d-b1262c7658d0",
+    "uri": "/reference/b8742545-e96a-4595-922d-b1262c7658d0"
+}

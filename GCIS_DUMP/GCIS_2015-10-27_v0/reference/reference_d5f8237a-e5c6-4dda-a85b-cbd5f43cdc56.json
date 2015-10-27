@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Zerbe, J.I.",
+        "ISSN": "0015-7473",
+        "Issue": "1",
+        "Journal": "Forest Products Journal",
+        "Pages": "6-14",
+        "Title": "Thermal energy, electricity, and transportation fuels from wood",
+        "Volume": "56",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "3530",
+        "_uuid": "d5f8237a-e5c6-4dda-a85b-cbd5f43cdc56",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/thermal-energy-electricity-and-transportation-fuels-from-wood",
+    "href": "http://data.globalchange.gov/reference/d5f8237a-e5c6-4dda-a85b-cbd5f43cdc56.json",
+    "identifier": "d5f8237a-e5c6-4dda-a85b-cbd5f43cdc56",
+    "uri": "/reference/d5f8237a-e5c6-4dda-a85b-cbd5f43cdc56"
+}

@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/indicator-us-surface-temperature.json",
+    "identifier": "indicator-us-surface-temperature",
+    "in_library": null,
+    "publication_year": 2015,
+    "report_type_identifier": "indicator",
+    "summary": "Key Points:\r\n\r\n1. Observed changes in U.S. temperatures reflect the overall warming trend in the climate system. The bars on the graph show the number of degrees by which the average U.S. temperature for each year differs from the average U.S. temperature during the last century. \r\n\r\n2. In the contiguous United States, temperatures during this century have been, on average, 1.3\u00b0F warmer than during the last century. \r\n\t\r\n3. This indicator can inform preparedness decisions in a wide variety of sectors, such as energy production, agriculture, and human health. \r\n\r\nFull Summary:\r\n\r\nRising temperatures in the United States are indicative of warming in the global climate system. In the contiguous United States, temperatures during this century have been, on average, 1.3\u00b0F warmer than during the last century. Human activities have contributed to this increase in temperature through the addition of carbon dioxide and other heat-trapping greenhouse gases into the atmosphere.\r\n\r\nThe bars on the graph show the number of degrees by which the average U.S. temperature for each year differs from the average U.S. temperature during the last century (52\u00b0F). These data were obtained from the National Oceanic and Atmospheric Administration (NOAA) nClimDiv dataset. The nClimDiv is based on daily data from the Global Historical Climatology Network (GHCN), which includes temperature and other climatic measurements from stations located around the world. \r\n\r\nIncreased temperatures across the United States affect a wide variety of sectors, such as energy production, agriculture, and human health. This indicator can inform planning and preparedness decisions in these sectors.\r\n\r\n",
+    "title": "Indicator: U.S. Surface Temperatures",
+    "topic": null,
+    "uri": "/report/indicator-us-surface-temperature",
+    "url": "http://www.globalchange.gov/browse/indicators/indicator-us-surface-temperatures"
+}

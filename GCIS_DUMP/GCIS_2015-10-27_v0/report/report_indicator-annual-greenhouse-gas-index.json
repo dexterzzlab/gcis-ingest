@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/indicator-annual-greenhouse-gas-index.json",
+    "identifier": "indicator-annual-greenhouse-gas-index",
+    "in_library": null,
+    "publication_year": 2015,
+    "report_type_identifier": "indicator",
+    "summary": "Key Points:\r\n\r\n1. The Annual Greenhouse Gas Index (AGGI) is a measure of the capacity of Earth\u2019s atmosphere to trap heat as a result of the presence of long-lived greenhouse gases. The AGGI provides standardized information about how human activity has affected the climate system through greenhouse gas emissions.\r\n\r\n2. This indicator demonstrates that the warming influence of greenhouse gases in the atmosphere has increased substantially over the last several decades. In 2013, the AGGI was 1.34, an increase of 34% since 1990.\r\n\r\n3. The AGGI can inform decisions about mitigation strategies. \r\n\r\nFull Summary:\r\n\r\nRadiative forcing (shown on the left vertical axis) is the change in the amount of solar radiation, or energy from the sun, that is trapped by the atmosphere and remains near Earth. When radiative forcing is greater than zero, it has a warming effect; when it is less than zero, it has a cooling effect. In this indicator, radiative forcing from long-lived greenhouse gases is shown relative to the year 1750. The AGGI (shown on the right vertical axis) is an index of radiative forcing normalized to the year 1990; it shows how the warming influence of greenhouse gases in the atmosphere has increased since that year. \r\n\r\nThis indicator demonstrates the change in radiative forcing resulting from changing concentrations of the following greenhouse gases: carbon dioxide (CO\u2082), methane (CH\u2084), nitrous oxide (N\u2082O), chlorofluorocarbons (CFC-11 and CFC-12), and a set of 15 minor, long-lived halogenated gases. The National Oceanic and Atmospheric Administration (NOAA) Global Monitoring Division provides high-precision measurements of the abundance and distribution of long-lived greenhouse gases that are used to calculate global average concentrations. Radiative forcing for each gas is computed from these concentrations, and total radiative forcing for all gases is used to calculate the AGGI. \r\n\r\nThe AGGI shows that the warming influence of long-lived greenhouse gases in the atmosphere increased by 34% between 1990 and 2013. Carbon dioxide is currently the largest contributor to radiative forcing. Radiative forcing from methane increased between 2007 and 2013 after having been nearly constant from 1999 to 2006. Owing to the Montreal Protocol, an international agreement signed in 1987, CFCs have been decreasing since the mid- to late 1990s after a long period of increase. However, CFC replacements (many of the \u201cother halogenated gases\u201d in the graph) have been increasing since the phase-out of CFCs. \r\n\r\nFundamentally, the AGGI is a measure of what human activity has already done to affect the climate system through greenhouse gas emissions. It provides quantitative information in a simplified, standardized format that decision makers can use to inform mitigation strategies.\r\n",
+    "title": "Indicator: Annual Greenhouse Gas Index ",
+    "topic": null,
+    "uri": "/report/indicator-annual-greenhouse-gas-index",
+    "url": "http://www.globalchange.gov/browse/indicators/indicator-annual-greenhouse-gas-index"
+}

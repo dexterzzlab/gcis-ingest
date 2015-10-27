@@ -1,0 +1,79 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/4704.json",
+            "id": 4704,
+            "organization": {
+                "country_code": "US",
+                "identifier": "national-park-service",
+                "name": "National Park Service",
+                "organization_type_identifier": "federal",
+                "url": "http://www.nps.gov/"
+            },
+            "organization_uri": "/organization/national-park-service",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "contributing_agency",
+            "uri": "/contributor/4704"
+        }
+    ],
+    "create_dt": null,
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Citizen science refers to the engagement of non-professional volunteers in scientific investigations\u2014asking questions, collecting data, or interpreting results. This approach can be especially useful in tracking environmental changes. (Source: NPS)",
+            "chapter_identifier": "federal-investments-global-change-research",
+            "create_dt": null,
+            "identifier": "citizen-science",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 17,
+            "report_identifier": "usgcrp-ocpfy2016",
+            "source_citation": "Retrieved January 2015 from National Park Service wildland fire website on citizen science",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Citizen science",
+            "url": "http://www.nps.gov/fire/wildland-fire/learning-center/panoramic-lookout-photographs/citizen-science.cfm",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "eb/e1/e0641513e4cce29c4a87545c61fb/HL26_citizen-science-NPS.jpg",
+            "href": "http://data.globalchange.gov/assets/eb/e1/e0641513e4cce29c4a87545c61fb/HL26_citizen-science-NPS.jpg",
+            "identifier": "a66fce1c-9f3a-45bd-afc1-8425b355b834",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "ae9557d74f87745eac0eec7f7b77911a51a81d62",
+            "size": 221161,
+            "thumbnail": "eb/e1/e0641513e4cce29c4a87545c61fb/.thumb-a66fce1c-9f3a-45bd-afc1-8425b355b834.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/eb/e1/e0641513e4cce29c4a87545c61fb/.thumb-a66fce1c-9f3a-45bd-afc1-8425b355b834.png",
+            "uri": "/file/a66fce1c-9f3a-45bd-afc1-8425b355b834",
+            "url": "/assets/eb/e1/e0641513e4cce29c4a87545c61fb/HL26_citizen-science-NPS.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/f3527094-aec4-4498-a388-15bc608de836.json",
+    "identifier": "f3527094-aec4-4498-a388-15bc608de836",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Citizen science",
+    "uri": "/image/f3527094-aec4-4498-a388-15bc608de836",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

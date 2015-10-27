@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Tubiello, F.N.\rSoussana, J.F.\rHowden, S.M.",
+        "DOI": "10.1073/pnas.0701728104",
+        "ISSN": "0027-8424",
+        "Issue": "50",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Pages": "19686-19690",
+        "Title": "Crop and pasture response to climate change",
+        "Volume": "104",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "3102",
+        "_uuid": "d4e4b28f-2018-42c7-9131-dd60ab9946c3",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.0701728104",
+    "href": "http://data.globalchange.gov/reference/d4e4b28f-2018-42c7-9131-dd60ab9946c3.json",
+    "identifier": "d4e4b28f-2018-42c7-9131-dd60ab9946c3",
+    "uri": "/reference/d4e4b28f-2018-42c7-9131-dd60ab9946c3"
+}

@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Tano,  M.L.",
+        "Institution": "The International Institute for Indigenous Resource Management",
+        "Pages": "2",
+        "Place Published": "Denver, CO",
+        "Title": "Indian Tribes and Climate Change: A Historical Perspective.",
+        "URL": "http://www.iiirm.org/publications/Articles%20Reports%20Papers/Societal%20Impacts%20of%20Science%20and%20Technology/climate_history.pdf",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\"]",
+        "_record_number": "3881",
+        "_uuid": "6761b50e-3d3c-4398-a7c2-977964406a2d",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/iiirm-historical-2007",
+    "href": "http://data.globalchange.gov/reference/6761b50e-3d3c-4398-a7c2-977964406a2d.json",
+    "identifier": "6761b50e-3d3c-4398-a7c2-977964406a2d",
+    "uri": "/reference/6761b50e-3d3c-4398-a7c2-977964406a2d"
+}

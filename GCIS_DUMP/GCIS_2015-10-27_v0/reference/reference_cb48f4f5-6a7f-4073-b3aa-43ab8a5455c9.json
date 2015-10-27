@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "NPS,",
+        "Institution": "U.S. National Park Service Climate Change Response Program",
+        "Pages": "36",
+        "Place Published": "Fort Collins, Colorado",
+        "Title": "National Park Service Climate Change Response Strategy",
+        "URL": "http://www.nature.nps.gov/climatechange/docs/NPS_CCRS.pdf",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "2278",
+        "_uuid": "cb48f4f5-6a7f-4073-b3aa-43ab8a5455c9",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/nps-ccrs-2010",
+    "href": "http://data.globalchange.gov/reference/cb48f4f5-6a7f-4073-b3aa-43ab8a5455c9.json",
+    "identifier": "cb48f4f5-6a7f-4073-b3aa-43ab8a5455c9",
+    "uri": "/reference/cb48f4f5-6a7f-4073-b3aa-43ab8a5455c9"
+}

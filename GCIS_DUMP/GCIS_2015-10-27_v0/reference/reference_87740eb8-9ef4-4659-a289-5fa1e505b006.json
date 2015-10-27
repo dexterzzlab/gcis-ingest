@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2013",
+        "Author": "EPA,",
+        "Last Update Date": "March 22, 2013",
+        "Publisher": "U.S. Environmental Protection Agency",
+        "Title": "Water Quality Standards for Surface Waters",
+        "URL": "http://water.epa.gov/scitech/swguidance/standards/",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 4: Energy Supply and Use FINAL\"]",
+        "_record_number": "4662",
+        "_uuid": "87740eb8-9ef4-4659-a289-5fa1e505b006",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/87740eb8-9ef4-4659-a289-5fa1e505b006",
+    "href": "http://data.globalchange.gov/reference/87740eb8-9ef4-4659-a289-5fa1e505b006.json",
+    "identifier": "87740eb8-9ef4-4659-a289-5fa1e505b006",
+    "uri": "/reference/87740eb8-9ef4-4659-a289-5fa1e505b006"
+}

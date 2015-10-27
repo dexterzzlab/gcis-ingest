@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Trumble, J.\rButler, C.",
+        "DOI": "10.3733/ca.v063n02p73",
+        "ISSN": "0008-0845",
+        "Issue": "2",
+        "Journal": "California Agriculture",
+        "Pages": "73-78",
+        "Title": "Climate change will exacerbate California's insect pest problems",
+        "Volume": "63",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "3097",
+        "_uuid": "5cd317f3-24ae-4883-b4b7-21682ecdbf51",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.3733/ca.v063n02p73",
+    "href": "http://data.globalchange.gov/reference/5cd317f3-24ae-4883-b4b7-21682ecdbf51.json",
+    "identifier": "5cd317f3-24ae-4883-b4b7-21682ecdbf51",
+    "uri": "/reference/5cd317f3-24ae-4883-b4b7-21682ecdbf51"
+}

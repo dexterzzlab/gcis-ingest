@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Bacon, Rendi Murphree\rKugeler, Kiersten J\rMead, Paul S",
+        "Issue": "SS10",
+        "Journal": "Morbidity and Mortality Weekly Report",
+        "Pages": "1-9",
+        "Title": "Surveillance for Lyme disease--United States, 1992-2006",
+        "URL": "http://www.cdc.gov/MMWR/PREVIEW/MMWRHTML/ss5710a1.htm",
+        "Volume": "57",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "3979",
+        "_uuid": "fa5a0eab-7d8e-4108-9277-a5da9e48525b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/surveillance-for-lyme-diseaseunited-states-19922006",
+    "href": "http://data.globalchange.gov/reference/fa5a0eab-7d8e-4108-9277-a5da9e48525b.json",
+    "identifier": "fa5a0eab-7d8e-4108-9277-a5da9e48525b",
+    "uri": "/reference/fa5a0eab-7d8e-4108-9277-a5da9e48525b"
+}

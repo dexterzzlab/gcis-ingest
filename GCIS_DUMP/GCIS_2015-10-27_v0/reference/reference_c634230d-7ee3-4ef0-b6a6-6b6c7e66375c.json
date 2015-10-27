@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "McVicar, T.R.\rRoderick, M.L.\rDonohue, R.J.\rLi, L.T.\rVan Niel, T.G.\rThomas, A.\rGrieser, J.\rJhajharia, D.\rHimri, Y.\rMahowald, N.M.\rMescherskaya, A.V.\rKruger, A.C.\rRehman, S.\rDinpashoh, Y.",
+        "DOI": "10.1016/j.jhydrol.2011.10.024",
+        "Journal": "Journal of Hydrology",
+        "Pages": "182-205",
+        "Title": "Global review and synthesis of trends in observed terrestrial near-surface wind speeds: Implications for evaporation.",
+        "Volume": "416-417",
+        "Year": "2012 ",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "1971",
+        "_uuid": "c634230d-7ee3-4ef0-b6a6-6b6c7e66375c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.jhydrol.2011.10.024",
+    "href": "http://data.globalchange.gov/reference/c634230d-7ee3-4ef0-b6a6-6b6c7e66375c.json",
+    "identifier": "c634230d-7ee3-4ef0-b6a6-6b6c7e66375c",
+    "uri": "/reference/c634230d-7ee3-4ef0-b6a6-6b6c7e66375c"
+}

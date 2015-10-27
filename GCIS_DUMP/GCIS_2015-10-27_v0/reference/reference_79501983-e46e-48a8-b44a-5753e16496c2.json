@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Renn, O.\rKlinke, A.\rvan Asselt, M.",
+        "DOI": "10.1007/s13280-010-0134-0",
+        "ISSN": "0044-7447",
+        "Issue": "2",
+        "Journal": "AMBIO: A Journal of the Human Environment",
+        "Pages": "231-246",
+        "Title": "Coping with complexity, uncertainty and ambiguity in risk governance: A synthesis",
+        "Volume": "40",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "2618",
+        "_uuid": "79501983-e46e-48a8-b44a-5753e16496c2",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s13280-010-0134-0",
+    "href": "http://data.globalchange.gov/reference/79501983-e46e-48a8-b44a-5753e16496c2.json",
+    "identifier": "79501983-e46e-48a8-b44a-5753e16496c2",
+    "uri": "/reference/79501983-e46e-48a8-b44a-5753e16496c2"
+}

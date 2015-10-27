@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        ".date": "2001/01/01",
+        ".reference_type": "7",
+        "Author": "Kelly, Brendan P.",
+        "Book Title": "\u201cFingerprints\u201d of Climate Change",
+        "Chapter": "3",
+        "DOI": "10.1007/978-1-4419-8692-4_3",
+        "Editor": "Walther, G. R.\rBurga, C. A.\rEdwards, P. J.",
+        "ISBN": "978-1-4613-4667-8",
+        "Language": "English",
+        "Pages": "43-55",
+        "Place Published": "New York",
+        "Publisher": "Springer US",
+        "Reviewer": "3c778ab8-2a5f-4dc2-9205-65294827503d",
+        "Title": "Climate change and ice breeding pinnipeds",
+        "Year": "2001",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "4389",
+        "_uuid": "3c778ab8-2a5f-4dc2-9205-65294827503d",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/72cf91e5-d140-4b1a-9790-1c90e590f2d1",
+    "href": "http://data.globalchange.gov/reference/3c778ab8-2a5f-4dc2-9205-65294827503d.json",
+    "identifier": "3c778ab8-2a5f-4dc2-9205-65294827503d",
+    "uri": "/reference/3c778ab8-2a5f-4dc2-9205-65294827503d"
+}

@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Holloway, Tracey\rSpak, Scott N.\rBarker, Daniel\rBretl, Matthew\rMoberg, Claus\rHayhoe, Katharine\rVan Dorn, Jeff\rWuebbles, Donald",
+        "DOI": "10.1029/2007JD009775",
+        "Date": "Nov 29",
+        "ISSN": "2156-2202 ",
+        "Issue": "D22",
+        "Journal": "Journal of Geophysical Research-Atmospheres",
+        "Pages": "D22306",
+        "Title": "Change in ozone air pollution over Chicago associated with global climate change",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2007JD009775/pdf",
+        "Volume": "113",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "206",
+        "_uuid": "799000e3-3c09-4596-b357-20fee85b7baf",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2007JD009775",
+    "href": "http://data.globalchange.gov/reference/799000e3-3c09-4596-b357-20fee85b7baf.json",
+    "identifier": "799000e3-3c09-4596-b357-20fee85b7baf",
+    "uri": "/reference/799000e3-3c09-4596-b357-20fee85b7baf"
+}

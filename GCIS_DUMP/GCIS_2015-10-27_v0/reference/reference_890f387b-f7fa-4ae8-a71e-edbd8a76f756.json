@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "EIA,",
+        "Institution": "Energy Information Administration, Office of Coal, Nuclear, Electric and Alternate Fuels, U.S. Department of Energy",
+        "Pages": "68",
+        "Title": "Energy Consumption and Renewable Energy Development Potential on Indian Lands. April 2000. SR/CNEAF/2000-01",
+        "Year": "2000",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\"]",
+        "_record_number": "3889",
+        "_uuid": "890f387b-f7fa-4ae8-a71e-edbd8a76f756",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/eia-consumptionrenewableenergyindianlands-2000",
+    "href": "http://data.globalchange.gov/reference/890f387b-f7fa-4ae8-a71e-edbd8a76f756.json",
+    "identifier": "890f387b-f7fa-4ae8-a71e-edbd8a76f756",
+    "uri": "/reference/890f387b-f7fa-4ae8-a71e-edbd8a76f756"
+}

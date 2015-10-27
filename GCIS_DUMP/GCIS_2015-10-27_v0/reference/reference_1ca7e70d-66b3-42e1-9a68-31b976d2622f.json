@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Wu, F.\rBhatnagar, D.\rBui-Klimke, T.\rCarbone, I.\rHellmich, R.\rMunkvold, G.\rPaul, P.\rPayne, G.\rTakle, E.",
+        "DOI": "10.3920/WMJ2010.1246",
+        "ISSN": "1875-0710",
+        "Issue": "1",
+        "Journal": "World Mycotoxin Journal",
+        "Pages": "79-93",
+        "Title": "Climate change impacts on mycotoxin risks in US maize",
+        "Volume": "4",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "3489",
+        "_uuid": "1ca7e70d-66b3-42e1-9a68-31b976d2622f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.3920/WMJ2010.1246",
+    "href": "http://data.globalchange.gov/reference/1ca7e70d-66b3-42e1-9a68-31b976d2622f.json",
+    "identifier": "1ca7e70d-66b3-42e1-9a68-31b976d2622f",
+    "uri": "/reference/1ca7e70d-66b3-42e1-9a68-31b976d2622f"
+}

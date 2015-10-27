@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Xiong, X.\rHarville, Emily W.\rMattison, Donald R.\rElkind-Hirsch, Karen\rPridjian, Gabriella\rBuekens, Pierre",
+        "DOI": "10.1097/MAJ.0b013e318180f21c",
+        "Issue": "2",
+        "Journal": "The American Journal of the Medical Sciences",
+        "Pages": "111-115",
+        "Title": "Exposure to Hurricane Katrina, post-traumatic stress disorder and birth outcomes",
+        "Volume": "336",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "4220",
+        "_uuid": "515b09d9-e540-4cc5-ab3a-16fbd1d1d52d",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1097/MAJ.0b013e318180f21c",
+    "href": "http://data.globalchange.gov/reference/515b09d9-e540-4cc5-ab3a-16fbd1d1d52d.json",
+    "identifier": "515b09d9-e540-4cc5-ab3a-16fbd1d1d52d",
+    "uri": "/reference/515b09d9-e540-4cc5-ab3a-16fbd1d1d52d"
+}

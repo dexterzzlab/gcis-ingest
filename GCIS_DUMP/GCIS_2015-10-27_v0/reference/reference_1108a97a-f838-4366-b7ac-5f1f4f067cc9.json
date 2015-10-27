@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Stokes, D.E.",
+        "ISBN": "978-0-8157-8177-6",
+        "Number of Pages": "196",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "Brookings Institution Press",
+        "Reviewer": "1108a97a-f838-4366-b7ac-5f1f4f067cc9",
+        "Title": "Pasteur's Quadrant: Basic Science and Technological Innovation",
+        "Year": "1997",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "2961",
+        "_uuid": "1108a97a-f838-4366-b7ac-5f1f4f067cc9",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/4d3b4a2f-129c-4a45-8435-f84ba8d2a671",
+    "href": "http://data.globalchange.gov/reference/1108a97a-f838-4366-b7ac-5f1f4f067cc9.json",
+    "identifier": "1108a97a-f838-4366-b7ac-5f1f4f067cc9",
+    "uri": "/reference/1108a97a-f838-4366-b7ac-5f1f4f067cc9"
+}

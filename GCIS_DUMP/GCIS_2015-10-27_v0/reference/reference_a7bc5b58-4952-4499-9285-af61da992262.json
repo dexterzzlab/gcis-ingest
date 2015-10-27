@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Oki, D. S.",
+        "Institution": "U.S. Geological Survey",
+        "Notes": "Oki, D. S. (2004). <i>Trends in streamflow characteristics at long-term gaging stations, Hawaii</i> (Scientific Investigations Report No. 2004-5080). United States Geological Survey",
+        "Pages": "124",
+        "Title": "Trends in Streamflow Characteristics At Long-Term Gaging Stations, Hawaii. U.S. Geological Survey Scientific Report 2004-5080",
+        "URL": "http://pubs.usgs.gov/sir/2004/5080/pdf/sir20045080.pdf",
+        "Year": "2004",
+        "_chapter": "[\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "2347",
+        "_uuid": "a7bc5b58-4952-4499-9285-af61da992262",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usgs-sciinvesrep-2004-5080",
+    "href": "http://data.globalchange.gov/reference/a7bc5b58-4952-4499-9285-af61da992262.json",
+    "identifier": "a7bc5b58-4952-4499-9285-af61da992262",
+    "uri": "/reference/a7bc5b58-4952-4499-9285-af61da992262"
+}

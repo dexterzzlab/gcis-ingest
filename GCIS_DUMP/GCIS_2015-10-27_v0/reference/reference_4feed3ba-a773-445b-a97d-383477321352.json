@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Grabow, Maggie L.\rSpak, Scott N.\rHolloway, Tracey\rStone, Brian, Jr. \rMednick, Adam C.\rPatz, Jonathan A.",
+        "DOI": "10.1289/ehp.1103440",
+        "Date": "Jan",
+        "ISSN": "0091-6765",
+        "Issue": "1",
+        "Journal": "Environmental Health Perspectives",
+        "Pages": "68-76",
+        "Title": "Air quality and exercise-related health benefits from reduced car travel in the midwestern United States",
+        "URL": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3261937/pdf/ehp.1103440.pdf",
+        "Volume": "120",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\",\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "63",
+        "_uuid": "4feed3ba-a773-445b-a97d-383477321352",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1289/ehp.1103440",
+    "href": "http://data.globalchange.gov/reference/4feed3ba-a773-445b-a97d-383477321352.json",
+    "identifier": "4feed3ba-a773-445b-a97d-383477321352",
+    "uri": "/reference/4feed3ba-a773-445b-a97d-383477321352"
+}

@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Riordan, Brian\rVerbyla, David\rMcGuire, A. David",
+        "DOI": "10.1029/2005JG000150",
+        "ISSN": "0148-0227",
+        "Issue": "G4",
+        "Journal": "Journal of Geophysical Research",
+        "Keywords": "fire regime; permafrost",
+        "Pages": "G04002",
+        "Title": "Shrinking ponds in subarctic Alaska based on 1950\u20132002 remotely sensed images",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2005JG000150/pdf",
+        "Volume": "111",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "2639",
+        "_uuid": "7dafb247-6f16-4f76-8340-ec644bd00995",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2005JG000150",
+    "href": "http://data.globalchange.gov/reference/7dafb247-6f16-4f76-8340-ec644bd00995.json",
+    "identifier": "7dafb247-6f16-4f76-8340-ec644bd00995",
+    "uri": "/reference/7dafb247-6f16-4f76-8340-ec644bd00995"
+}

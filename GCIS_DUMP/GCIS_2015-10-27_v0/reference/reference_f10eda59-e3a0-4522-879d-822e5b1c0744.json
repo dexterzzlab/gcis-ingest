@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Smit, B.\rSkinner, M.W.",
+        "DOI": "10.1023/A:1015862228270",
+        "ISSN": "1381-2386",
+        "Issue": "1",
+        "Journal": "Mitigation and Adaptation Strategies for Global Change",
+        "Pages": "85-114",
+        "Title": "Adaptation options in agriculture to climate change: A typology",
+        "Volume": "7",
+        "Year": "2002",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "2871",
+        "_uuid": "f10eda59-e3a0-4522-879d-822e5b1c0744",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1023/A:1015862228270",
+    "href": "http://data.globalchange.gov/reference/f10eda59-e3a0-4522-879d-822e5b1c0744.json",
+    "identifier": "f10eda59-e3a0-4522-879d-822e5b1c0744",
+    "uri": "/reference/f10eda59-e3a0-4522-879d-822e5b1c0744"
+}

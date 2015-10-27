@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/california-energy-commission.json",
+    "identifier": "california-energy-commission",
+    "name": "California Energy Commission",
+    "organization_type_identifier": "state",
+    "uri": "/organization/california-energy-commission",
+    "url": "http://www.energy.ca.gov/"
+}

@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"70\" /><run start=\"71\" /><run face=\"italic\" start=\"100\" /><run start=\"116\" /></field></record>",
+        "Author": "Ziska, L.H.\rTeasdale, J.R.",
+        "DOI": "10.1071/PP99099",
+        "ISSN": "1445-4416",
+        "Issue": "2",
+        "Journal": "Australian Journal of Plant Physiology",
+        "Pages": "159-166",
+        "Title": "Sustained growth and increased tolerance to glyphosate observed in a C3 perennial weed, quackgrass (Elytrigia repens), grown at elevated carbon dioxide",
+        "Volume": "27",
+        "Year": "2000",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "3556",
+        "_uuid": "024c5cef-06d2-42fa-8c07-d674771da771",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1071/PP99099",
+    "href": "http://data.globalchange.gov/reference/024c5cef-06d2-42fa-8c07-d674771da771.json",
+    "identifier": "024c5cef-06d2-42fa-8c07-d674771da771",
+    "uri": "/reference/024c5cef-06d2-42fa-8c07-d674771da771"
+}

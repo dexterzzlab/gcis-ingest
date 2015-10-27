@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Kunreuther, H.\rMeyer, R.J.\rMichel-Kerjan, E.",
+        "Book Title": "Behavioral Foundations of Policy",
+        "Editor": "Shafir, E.",
+        "ISBN": "0691137560",
+        "Pages": "532",
+        "Reviewer": "174f554b-a748-4ce3-988b-1d4bd4286c0a",
+        "Title": "Ch. 23: Overcoming decision biases to reduce losses from natural catastrophes",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "1235",
+        "_uuid": "174f554b-a748-4ce3-988b-1d4bd4286c0a",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/165e0fdd-10a2-4cf4-86c8-03a7b7473be5",
+    "href": "http://data.globalchange.gov/reference/174f554b-a748-4ce3-988b-1d4bd4286c0a.json",
+    "identifier": "174f554b-a748-4ce3-988b-1d4bd4286c0a",
+    "uri": "/reference/174f554b-a748-4ce3-988b-1d4bd4286c0a"
+}

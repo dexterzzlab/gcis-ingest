@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".publisher": "Public Library of Science",
+        ".reference_type": "0",
+        "Abstract": "<sec><title>Background</title><p>White Syndrome (WS), a general term for scleractinian coral diseases with acute signs of advancing tissue lesions often resulting in total colony mortality, has been reported from numerous locations throughout the Indo-Pacific, constituting a growing threat to coral reef ecosystems.</p></sec><sec><title>Methodology/Principal Findings</title><p>Bacterial isolates were obtained from corals displaying disease signs at three WS outbreak sites: Nikko Bay in the Republic of Palau, Nelly Bay in the central Great Barrier Reef (GBR) and Majuro Atoll in the Republic of the Marshall Islands, and used in laboratory-based infection trials to satisfy Henle-Koch's postulates, Evan's rules and Hill's criteria for establishing causality. Infected colonies produced similar signs to those observed in the field following exposure to bacterial concentrations of 1\u00d710<sup>6</sup> cells ml<sup>\u22121</sup>. Phylogenetic 16S rRNA gene analysis demonstrated that all six pathogens identified in this study were members of the \u03b3-<italic>Proteobacteria</italic> family <italic>Vibrionacae</italic>, each with greater than 98% sequence identity with the previously characterized coral bleaching pathogen <italic>Vibrio coralliilyticus</italic>. Screening for proteolytic activity of more than 150 coral derived bacterial isolates by a biochemical assay and specific primers for a <italic>Vibrio</italic> family zinc-metalloprotease demonstrated a significant association between the presence of isolates capable of proteolytic activity and observed disease signs.</p></sec><sec><title>Conclusion/Significance</title><p>This is the first study to provide evidence for the involvement of a unique taxonomic group of bacterial pathogens in the aetiology of Indo-Pacific coral diseases affecting multiple coral species at multiple locations. Results from this study strongly suggest the need for further investigation of bacterial proteolytic enzymes as possible virulence factors involved in <italic>Vibrio</italic> associated acute coral infections.</p></sec>",
+        "Author": "Sussman, Meir\rWillis, Bette L.\rVictor, Steven\rBourne, David G.",
+        "DOI": "10.1371/journal.pone.0002393",
+        "Issue": "6",
+        "Journal": "PLoS ONE",
+        "Pages": "e2393",
+        "Title": "Coral pathogens identified for White Syndrome (WS) epizootics in the Indo-Pacific",
+        "URL": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0002393",
+        "Volume": "3",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "4500",
+        "_uuid": "25e6a784-efa2-42ad-a222-9a3b6159be5f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1371/journal.pone.0002393",
+    "href": "http://data.globalchange.gov/reference/25e6a784-efa2-42ad-a222-9a3b6159be5f.json",
+    "identifier": "25e6a784-efa2-42ad-a222-9a3b6159be5f",
+    "uri": "/reference/25e6a784-efa2-42ad-a222-9a3b6159be5f"
+}

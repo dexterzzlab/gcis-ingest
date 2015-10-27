@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Kunkel, K. E.\rPalecki, M. A.\rEnsor, L.\rEasterling, D.\rHubbard, K. G.\rRobinson, D.\rRedmond, K.",
+        "DOI": "10.1175/2009JCLI2631.1",
+        "Issue": "23",
+        "Journal": "Journal of Climate",
+        "Pages": "6204-6216",
+        "Title": "Trends in twentieth-century U.S. extreme snowfall seasons",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/2009JCLI2631.1",
+        "Volume": "22",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "3670",
+        "_uuid": "dad70523-3e99-4529-920c-8dbb0035a511",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/2009JCLI2631.1",
+    "href": "http://data.globalchange.gov/reference/dad70523-3e99-4529-920c-8dbb0035a511.json",
+    "identifier": "dad70523-3e99-4529-920c-8dbb0035a511",
+    "uri": "/reference/dad70523-3e99-4529-920c-8dbb0035a511"
+}

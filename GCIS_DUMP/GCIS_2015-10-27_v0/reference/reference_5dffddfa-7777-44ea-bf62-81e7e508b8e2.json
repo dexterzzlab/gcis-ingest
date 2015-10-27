@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2012",
+        "Author": "Phelps, P.B.",
+        "ISBN": "0309571863",
+        "Notes": "(US)",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "National Academies Press",
+        "Series Editor": "Setlow, V.\rPope, A.M.P.",
+        "Title": "Conference on Human Health and Global Climate Change: Summary of the Proceedings",
+        "URL": "http://www.nap.edu/openbook.php?record_id=9100&page=R1",
+        "Year": "1996",
+        "_chapter": "[\"Ch. 14: Rural Communities FINAL\"]",
+        "_record_number": "2815",
+        "_uuid": "5dffddfa-7777-44ea-bf62-81e7e508b8e2",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/book/86a991d0-b19c-4554-a5de-04a43f4dce56",
+    "href": "http://data.globalchange.gov/reference/5dffddfa-7777-44ea-bf62-81e7e508b8e2.json",
+    "identifier": "5dffddfa-7777-44ea-bf62-81e7e508b8e2",
+    "uri": "/reference/5dffddfa-7777-44ea-bf62-81e7e508b8e2"
+}

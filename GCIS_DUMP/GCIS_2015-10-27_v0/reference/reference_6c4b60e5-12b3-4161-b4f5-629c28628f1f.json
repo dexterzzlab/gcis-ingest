@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Manno, J.\rSmardon, R.\rDePinto, J.V.\rCloyd, E.T.\rdel Granado, S.",
+        "Date": "April 2008",
+        "Institution": "SUNY College of Environmental Science and Forestry",
+        "Pages": "95",
+        "Place Published": "Syracuse, NY",
+        "Title": "The Use of Models in Great Lakes Decision Making: An Interdisciplinary Synthesis. Randolph G. Pack Environmental Institute, Occasional Paper 16",
+        "URL": "http://www.esf.edu/es/documents/GreatLakesRpt.pdf",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4042",
+        "_uuid": "6c4b60e5-12b3-4161-b4f5-629c28628f1f",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/sunyesf-occasionalpaper16-2008",
+    "href": "http://data.globalchange.gov/reference/6c4b60e5-12b3-4161-b4f5-629c28628f1f.json",
+    "identifier": "6c4b60e5-12b3-4161-b4f5-629c28628f1f",
+    "uri": "/reference/6c4b60e5-12b3-4161-b4f5-629c28628f1f"
+}

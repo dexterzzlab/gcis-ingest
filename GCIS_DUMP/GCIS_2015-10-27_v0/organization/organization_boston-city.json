@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/boston-city.json",
+    "identifier": "boston-city",
+    "name": "City of Boston",
+    "organization_type_identifier": "city",
+    "uri": "/organization/boston-city",
+    "url": "http://www.cityofboston.gov"
+}

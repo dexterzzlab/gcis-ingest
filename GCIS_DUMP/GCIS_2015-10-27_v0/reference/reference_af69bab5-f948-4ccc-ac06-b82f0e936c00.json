@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Leiserowitz, A.\rMaibach, E.\rRoser-Renouf, C.\rSmith, N.",
+        "Institution": "Yale University and George Mason University",
+        "Place Published": "New Haven, CT",
+        "Title": "Climate Change in the American Mind: Public Support for Climate & Energy Policies in March 2012. Yale Project on Climate Change Communication.",
+        "URL": "http://environment.yale.edu/climate/files/Policy-Support-March-2012.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "315",
+        "_uuid": "af69bab5-f948-4ccc-ac06-b82f0e936c00",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/yale-gmu-climchammind-2012",
+    "href": "http://data.globalchange.gov/reference/af69bab5-f948-4ccc-ac06-b82f0e936c00.json",
+    "identifier": "af69bab5-f948-4ccc-ac06-b82f0e936c00",
+    "uri": "/reference/af69bab5-f948-4ccc-ac06-b82f0e936c00"
+}

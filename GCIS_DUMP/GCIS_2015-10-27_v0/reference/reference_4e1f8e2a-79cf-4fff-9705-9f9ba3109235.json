@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"italic\" start=\"71\" /><run start=\"86\" /></field></record>",
+        "Author": "Sperry, J.H.\rBlouin-Demers, G.\rCarfagno, G.L.F.\rWeatherhead, P.J.",
+        "DOI": "10.1890/09-1154.1",
+        "ISSN": "0012-9658",
+        "Issue": "6",
+        "Journal": "Ecology",
+        "Pages": "1860-1866",
+        "Title": "Latitudinal variation in seasonal activity and mortality in ratsnakes (Elaphe obsoleta)",
+        "Volume": "91",
+        "Year": "2010",
+        "_chapter": "[\"RF 10\",\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "2911",
+        "_uuid": "4e1f8e2a-79cf-4fff-9705-9f9ba3109235",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/09-1154.1",
+    "href": "http://data.globalchange.gov/reference/4e1f8e2a-79cf-4fff-9705-9f9ba3109235.json",
+    "identifier": "4e1f8e2a-79cf-4fff-9705-9f9ba3109235",
+    "uri": "/reference/4e1f8e2a-79cf-4fff-9705-9f9ba3109235"
+}

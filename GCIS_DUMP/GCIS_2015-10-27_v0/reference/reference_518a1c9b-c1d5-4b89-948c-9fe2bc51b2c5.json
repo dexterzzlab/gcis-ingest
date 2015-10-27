@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2012",
+        "Author": "CPC,",
+        "Place Published": "College Park, MD",
+        "Publisher": "National Weather Service, Climate Prediction Center",
+        "Title": "Historical El Nino/La Nina Episodes (1950-Present)",
+        "URL": "http://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ensoyears.shtml",
+        "Year": "2012",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "4409",
+        "_uuid": "518a1c9b-c1d5-4b89-948c-9fe2bc51b2c5",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/518a1c9b-c1d5-4b89-948c-9fe2bc51b2c5",
+    "href": "http://data.globalchange.gov/reference/518a1c9b-c1d5-4b89-948c-9fe2bc51b2c5.json",
+    "identifier": "518a1c9b-c1d5-4b89-948c-9fe2bc51b2c5",
+    "uri": "/reference/518a1c9b-c1d5-4b89-948c-9fe2bc51b2c5"
+}

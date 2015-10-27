@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Rose, K.A.",
+        "Institution": "U.S. Environmental Protection Agency Region 10",
+        "Pages": "86",
+        "Place Published": "Seattle, WA",
+        "Title": "Tribal Climate Change Adaptation Options: A Review of the Scientific Literature",
+        "URL": "http://www.epa.gov/region10/pdf/tribal/airquality/Tribal_Climate_Change_Adaptation_Report_rev_1_1-6-10.pdf",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\"]",
+        "_record_number": "3904",
+        "_uuid": "3bec0032-e5a0-4ba7-8903-9c41dd2a2862",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/epa-revscilit-2010",
+    "href": "http://data.globalchange.gov/reference/3bec0032-e5a0-4ba7-8903-9c41dd2a2862.json",
+    "identifier": "3bec0032-e5a0-4ba7-8903-9c41dd2a2862",
+    "uri": "/reference/3bec0032-e5a0-4ba7-8903-9c41dd2a2862"
+}

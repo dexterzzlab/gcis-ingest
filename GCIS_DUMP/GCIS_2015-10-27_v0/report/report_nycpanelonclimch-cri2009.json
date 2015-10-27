@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/nycpanelonclimch-cri2009.json",
+    "identifier": "nycpanelonclimch-cri2009",
+    "in_library": null,
+    "publication_year": 2009,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Climate Risk Information",
+    "topic": null,
+    "uri": "/report/nycpanelonclimch-cri2009",
+    "url": "http://www.nyc.gov/html/om/pdf/2009/NPCC_CRI.pdf"
+}

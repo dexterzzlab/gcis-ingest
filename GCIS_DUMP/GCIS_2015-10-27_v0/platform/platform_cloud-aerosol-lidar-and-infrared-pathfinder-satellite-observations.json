@@ -1,0 +1,12 @@
+{
+    "description": "CALIPSO, alias PICASSO-CENA (Pathfinder Instruments for Cloud and Aerosol Spaceborne Observations / Climatologie Etendue des Nuages et des Aerosols), and alias ESSP-3 (Earth System Science Pathfinder-3), is a satellite science mission, a collaborative NASA/CNES project in the ESSP (Earth System Science Pathfinder) program of NASA. Other project partners (algorithm development, etc.) are Hampton University in Hampton, VA, and IPSL (Institut Pierre Simon Laplace), Jussieu, France.",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/c-missions/calipso",
+    "end_date": "2015-10-01T00:00:00",
+    "href": "http://data.globalchange.gov/platform/cloud-aerosol-lidar-and-infrared-pathfinder-satellite-observations.json",
+    "identifier": "cloud-aerosol-lidar-and-infrared-pathfinder-satellite-observations",
+    "name": "Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observations",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "2006-04-28T00:00:00",
+    "uri": "/platform/cloud-aerosol-lidar-and-infrared-pathfinder-satellite-observations",
+    "url": "http://www-calipso.larc.nasa.gov/"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Basu, R.\rSamet, J.M.",
+        "DOI": "10.1093/epirev/mxf007",
+        "ISSN": "0193-936X",
+        "Issue": "2",
+        "Journal": "Epidemiologic Reviews",
+        "Pages": "190-202",
+        "Title": "Relation between elevated ambient temperature and mortality: A review of the epidemiologic evidence",
+        "Volume": "24",
+        "Year": "2002",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "1422",
+        "_uuid": "8bf8d41a-8b94-4ec2-95f0-cfd77b48685e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1093/epirev/mxf007",
+    "href": "http://data.globalchange.gov/reference/8bf8d41a-8b94-4ec2-95f0-cfd77b48685e.json",
+    "identifier": "8bf8d41a-8b94-4ec2-95f0-cfd77b48685e",
+    "uri": "/reference/8bf8d41a-8b94-4ec2-95f0-cfd77b48685e"
+}

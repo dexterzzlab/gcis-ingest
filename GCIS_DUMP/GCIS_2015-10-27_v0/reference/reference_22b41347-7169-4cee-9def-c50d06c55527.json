@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Allen, H.L.",
+        "Book Title": "The Forests Handbook, Volume 2: Applying Forest Science for Sustainable Management",
+        "DOI": "10.1002/9780470757079",
+        "Editor": "J. Evans",
+        "ISBN": "9780632048236",
+        "Pages": "129-139",
+        "Place Published": "Oxford, UK",
+        "Publisher": "Blackwell Science Ltd",
+        "Reviewer": "22b41347-7169-4cee-9def-c50d06c55527",
+        "Title": "Ch. 6: Silvicultural treatments to enhance productivity",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "1541",
+        "_uuid": "22b41347-7169-4cee-9def-c50d06c55527",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/328f05c6-f892-474f-92bd-4c064e7d51a6",
+    "href": "http://data.globalchange.gov/reference/22b41347-7169-4cee-9def-c50d06c55527.json",
+    "identifier": "22b41347-7169-4cee-9def-c50d06c55527",
+    "uri": "/reference/22b41347-7169-4cee-9def-c50d06c55527"
+}
