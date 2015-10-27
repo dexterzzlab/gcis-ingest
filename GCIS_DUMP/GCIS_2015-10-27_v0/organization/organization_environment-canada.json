@@ -1,9 +1,0 @@
-{
-    "country_code": "CA",
-    "href": "http://data.globalchange.gov/organization/environment-canada.json",
-    "identifier": "environment-canada",
-    "name": "Environment Canada",
-    "organization_type_identifier": "national",
-    "uri": "/organization/environment-canada",
-    "url": "https://weather.gc.ca"
-}

@@ -1,9 +1,0 @@
-{
-    "country_code": "US",
-    "href": "http://data.globalchange.gov/organization/united-nations.json",
-    "identifier": "united-nations",
-    "name": "United Nations",
-    "organization_type_identifier": "intergovernmental",
-    "uri": "/organization/united-nations",
-    "url": "http://www.un.org"
-}

@@ -1,8 +1,0 @@
-{
-    "description": "Narrow-band channel IR radiometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/infrared-atmospheric-sounder.json",
-    "identifier": "infrared-atmospheric-sounder",
-    "name": "InfraRed Atmospheric Sounder",
-    "uri": "/instrument/infrared-atmospheric-sounder"
-}

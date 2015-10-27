@@ -1,8 +1,0 @@
-{
-    "description": "Multi-purpose imaging Vis/IR radiometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/coastal-zone-scanner.json",
-    "identifier": "coastal-zone-scanner",
-    "name": "Coastal Zone Scanner",
-    "uri": "/instrument/coastal-zone-scanner"
-}

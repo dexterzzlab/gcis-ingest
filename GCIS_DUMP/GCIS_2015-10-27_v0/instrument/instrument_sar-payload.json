@@ -1,8 +1,0 @@
-{
-    "description": "Imaging radar (SAR)",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/sar-payload.json",
-    "identifier": "sar-payload",
-    "name": "SAR Payload",
-    "uri": "/instrument/sar-payload"
-}

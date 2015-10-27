@@ -1,8 +1,0 @@
-{
-    "definition": "The deviation of atmospheric pressure in a given region over a specified period from the long-term average value for the same region.  ",
-    "href": "http://data.globalchange.gov/gcmd_keyword/011bed30-f5b6-4b46-a7ce-797851f24f24.json",
-    "identifier": "011bed30-f5b6-4b46-a7ce-797851f24f24",
-    "label": "PRESSURE ANOMALIES",
-    "parent_identifier": "08fd82a1-4370-46a2-82ea-94c0f91498a7",
-    "uri": "/gcmd_keyword/011bed30-f5b6-4b46-a7ce-797851f24f24"
-}

@@ -1,9 +1,0 @@
-{
-    "country_code": "US",
-    "href": "http://data.globalchange.gov/organization/seattle-city.json",
-    "identifier": "seattle-city",
-    "name": "City of Seattle",
-    "organization_type_identifier": "city",
-    "uri": "/organization/seattle-city",
-    "url": "http://www.seattle.gov"
-}

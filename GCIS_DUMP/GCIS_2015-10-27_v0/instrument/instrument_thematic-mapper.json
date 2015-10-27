@@ -1,8 +1,0 @@
-{
-    "description": "High resolution optical imager",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/thematic-mapper.json",
-    "identifier": "thematic-mapper",
-    "name": "Thematic Mapper",
-    "uri": "/instrument/thematic-mapper"
-}

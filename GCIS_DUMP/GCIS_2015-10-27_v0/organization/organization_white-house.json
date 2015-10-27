@@ -1,9 +1,0 @@
-{
-    "country_code": "US",
-    "href": "http://data.globalchange.gov/organization/white-house.json",
-    "identifier": "white-house",
-    "name": "The White House",
-    "organization_type_identifier": "federal",
-    "uri": "/organization/white-house",
-    "url": "http://www.whitehouse.gov"
-}

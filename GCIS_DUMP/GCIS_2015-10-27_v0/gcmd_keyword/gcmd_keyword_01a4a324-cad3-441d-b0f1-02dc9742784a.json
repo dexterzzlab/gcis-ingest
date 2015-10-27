@@ -1,8 +1,0 @@
-{
-    "definition": "An important baseline measurement in ice cores is electrical conductivity. Electrical conductivity measurements (ECM) of the core is a very rapid method to indicate how acidic the core is without the chemical detail of the ion analyses. The value of the measurement is that it can be done for the whole length of the core in high resolution and provide an immediate picture of the core and allow quick detection of interesting areas, such as a volcanic eruptions. Because it is a high resolution, continuous measurement it can be used, along with the other measurements, for time frequency analysis in order to identify cycles in the climate signal.",
-    "href": "http://data.globalchange.gov/gcmd_keyword/01a4a324-cad3-441d-b0f1-02dc9742784a.json",
-    "identifier": "01a4a324-cad3-441d-b0f1-02dc9742784a",
-    "label": "ELECTRICAL PROPERTIES",
-    "parent_identifier": "dba19648-3f52-48ba-b00b-8527d44c4d74",
-    "uri": "/gcmd_keyword/01a4a324-cad3-441d-b0f1-02dc9742784a"
-}

@@ -1,8 +1,0 @@
-{
-    "description": "High resolution optical imager",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/rasat-vis-multispectral-camera.json",
-    "identifier": "rasat-vis-multispectral-camera",
-    "name": "RASAT VIS Multispectral camera",
-    "uri": "/instrument/rasat-vis-multispectral-camera"
-}

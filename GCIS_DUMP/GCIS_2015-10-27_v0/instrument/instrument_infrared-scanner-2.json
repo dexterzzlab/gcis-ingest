@@ -1,8 +1,0 @@
-{
-    "description": "High-resolution nadir-scanning IR spectrometer",
-    "description_attribution": "http://database.eohandbook.com/database/instrumentsummary.aspx?instrumentID=866",
-    "href": "http://data.globalchange.gov/instrument/infrared-scanner-2.json",
-    "identifier": "infrared-scanner-2",
-    "name": "Infrared scanner",
-    "uri": "/instrument/infrared-scanner-2"
-}

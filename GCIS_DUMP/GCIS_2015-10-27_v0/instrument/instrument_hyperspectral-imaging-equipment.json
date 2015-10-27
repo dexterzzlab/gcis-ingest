@@ -1,8 +1,0 @@
-{
-    "description": "Multi-channel/direction/polarisation radiometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/hyperspectral-imaging-equipment.json",
-    "identifier": "hyperspectral-imaging-equipment",
-    "name": "Hyperspectral imaging equipment",
-    "uri": "/instrument/hyperspectral-imaging-equipment"
-}

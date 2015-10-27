@@ -1,8 +1,0 @@
-{
-    "description": "Broad-band radiometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/earth-radiation-budget-experiment.json",
-    "identifier": "earth-radiation-budget-experiment",
-    "name": "Earth Radiation Budget Experiment",
-    "uri": "/instrument/earth-radiation-budget-experiment"
-}

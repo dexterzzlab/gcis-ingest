@@ -1,9 +1,0 @@
-{
-    "country_code": "US",
-    "href": "http://data.globalchange.gov/organization/national-weather-service-northwest-river-forecast-center.json",
-    "identifier": "national-weather-service-northwest-river-forecast-center",
-    "name": "National Weather Service Northwest River Forecast Center",
-    "organization_type_identifier": "federal",
-    "uri": "/organization/national-weather-service-northwest-river-forecast-center",
-    "url": "http://www.nwrfc.noaa.gov/rfc/"
-}

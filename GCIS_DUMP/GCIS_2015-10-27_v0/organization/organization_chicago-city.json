@@ -1,9 +1,0 @@
-{
-    "country_code": "US",
-    "href": "http://data.globalchange.gov/organization/chicago-city.json",
-    "identifier": "chicago-city",
-    "name": "City of Chicago",
-    "organization_type_identifier": "city",
-    "uri": "/organization/chicago-city",
-    "url": "http://www.cityofchicago.org"
-}

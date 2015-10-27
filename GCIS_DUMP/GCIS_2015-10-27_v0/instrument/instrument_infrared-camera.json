@@ -1,8 +1,0 @@
-{
-    "description": "Multi-purpose imaging Vis/IR radiometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/infrared-camera.json",
-    "identifier": "infrared-camera",
-    "name": "Infrared Camera",
-    "uri": "/instrument/infrared-camera"
-}

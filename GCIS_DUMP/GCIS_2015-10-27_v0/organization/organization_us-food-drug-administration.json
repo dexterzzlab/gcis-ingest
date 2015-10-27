@@ -1,9 +1,0 @@
-{
-    "country_code": "US",
-    "href": "http://data.globalchange.gov/organization/us-food-drug-administration.json",
-    "identifier": "us-food-drug-administration",
-    "name": "U.S. Food and Drug Administration",
-    "organization_type_identifier": "federal",
-    "uri": "/organization/us-food-drug-administration",
-    "url": "http://www.fda.gov"
-}

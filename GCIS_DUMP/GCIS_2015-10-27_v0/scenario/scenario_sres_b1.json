@@ -1,8 +1,0 @@
-{
-    "description": "The B1 storyline and scenario family describes a convergent world with the same global population, that peaks in mid-century and declines thereafter, as in the A1 storyline, but with rapid change in economic structures toward a service and information economy, with reductions in material intensity and the introduction of clean and resource-efficient technologies. The emphasis is on global solutions to economic, social and environmental sustainability, including improved equity, but without additional climate initiatives.",
-    "description_attribution": "http://www.ipcc.ch/ipccreports/tar/wg1/029.htm#storyb1",
-    "href": "http://data.globalchange.gov/scenario/sres_b1.json",
-    "identifier": "sres_b1",
-    "name": "Special Report on Emissions Scenario B1 Scenario Family",
-    "uri": "/scenario/sres_b1"
-}

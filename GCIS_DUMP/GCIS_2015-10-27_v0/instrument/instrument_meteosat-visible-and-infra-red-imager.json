@@ -1,8 +1,0 @@
-{
-    "description": "Multi-purpose imaging Vis/IR radiometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/meteosat-visible-and-infra-red-imager.json",
-    "identifier": "meteosat-visible-and-infra-red-imager",
-    "name": "METEOSAT Visible and Infra-Red Imager",
-    "uri": "/instrument/meteosat-visible-and-infra-red-imager"
-}

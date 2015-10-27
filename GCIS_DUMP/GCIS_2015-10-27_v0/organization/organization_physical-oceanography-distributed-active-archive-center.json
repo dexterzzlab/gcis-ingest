@@ -1,9 +1,0 @@
-{
-    "country_code": "US",
-    "href": "http://data.globalchange.gov/organization/physical-oceanography-distributed-active-archive-center.json",
-    "identifier": "physical-oceanography-distributed-active-archive-center",
-    "name": "NASA JPL Physical Oceanography Distributed Active Archive Center",
-    "organization_type_identifier": "federal",
-    "uri": "/organization/physical-oceanography-distributed-active-archive-center",
-    "url": "http://podaac.jpl.nasa.gov"
-}

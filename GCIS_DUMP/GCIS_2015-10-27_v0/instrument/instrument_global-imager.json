@@ -1,8 +1,0 @@
-{
-    "description": "Medium-resolution spectro-radiometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/global-imager.json",
-    "identifier": "global-imager",
-    "name": "Global Imager",
-    "uri": "/instrument/global-imager"
-}

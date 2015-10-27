@@ -1,8 +1,0 @@
-{
-    "description": "SSALT is also referred to as Poseidon-1. The single instrument frequency is 13.65 GHz (Ku-band). SSALT is an experimental altimeter (of CNES, built by Alcatel Alenia Space, formerly Alcatel Espace, Toulouse) to demonstrate the concept of low-power, low-mass, low data rate (1/7 the rate of NRA due to extensive on-board processing) and low-cost altimeter for future Earth observing missions.\n",
-    "description_attribution": "https://eoportal.org/web/eoportal/satellite-missions/t/topex-poseidon\n",
-    "href": "http://data.globalchange.gov/instrument/poseidon-1.json",
-    "identifier": "poseidon-1",
-    "name": "Positioning Ocean Solid Earth Ice Dynamics Orbiting Navigator (Single frequency solid state radar altimeter)",
-    "uri": "/instrument/poseidon-1"
-}

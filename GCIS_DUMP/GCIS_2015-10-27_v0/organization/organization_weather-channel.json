@@ -1,9 +1,0 @@
-{
-    "country_code": "US",
-    "href": "http://data.globalchange.gov/organization/weather-channel.json",
-    "identifier": "weather-channel",
-    "name": "The Weather Channel",
-    "organization_type_identifier": "commercial",
-    "uri": "/organization/weather-channel",
-    "url": "http://www.weather.com/"
-}

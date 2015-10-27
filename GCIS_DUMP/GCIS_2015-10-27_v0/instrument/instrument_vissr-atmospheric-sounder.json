@@ -1,8 +1,0 @@
-{
-    "description": "Narrow-band channel IR radiometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/vissr-atmospheric-sounder.json",
-    "identifier": "vissr-atmospheric-sounder",
-    "name": "VISSR Atmospheric Sounder",
-    "uri": "/instrument/vissr-atmospheric-sounder"
-}

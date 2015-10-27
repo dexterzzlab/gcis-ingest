@@ -1,7 +1,0 @@
-{
-    "description": "Physical Oceanography DAAC",
-    "href": "http://data.globalchange.gov/lexicon/podaac.json",
-    "identifier": "podaac",
-    "uri": "/lexicon/podaac",
-    "url": "http://podaac.jpl.nasa.gov"
-}

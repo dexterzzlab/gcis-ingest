@@ -1,9 +1,0 @@
-{
-    "country_code": "US",
-    "href": "http://data.globalchange.gov/organization/california-state.json",
-    "identifier": "california-state",
-    "name": "State of California",
-    "organization_type_identifier": "state",
-    "uri": "/organization/california-state",
-    "url": "http://www.ca.gov"
-}

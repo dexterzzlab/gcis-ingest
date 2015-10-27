@@ -1,9 +1,0 @@
-{
-    "country_code": "US",
-    "href": "http://data.globalchange.gov/organization/national-snow-ice-data-center.json",
-    "identifier": "national-snow-ice-data-center",
-    "name": "National Snow & Ice Data Center",
-    "organization_type_identifier": "federal",
-    "uri": "/organization/national-snow-ice-data-center",
-    "url": "http://nsidc.org"
-}

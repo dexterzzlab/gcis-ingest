@@ -1,8 +1,0 @@
-{
-    "description": "Imaging radar (SAR)",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/advanced-synthetic-aperture-radar-image-mode.json",
-    "identifier": "advanced-synthetic-aperture-radar-image-mode",
-    "name": "Advanced Synthetic Aperture Radar (Image mode)",
-    "uri": "/instrument/advanced-synthetic-aperture-radar-image-mode"
-}

@@ -1,9 +1,0 @@
-{
-    "country_code": "US",
-    "href": "http://data.globalchange.gov/organization/climate-prediction-center.json",
-    "identifier": "climate-prediction-center",
-    "name": "National Weather Service Climate Prediction Center",
-    "organization_type_identifier": "federal",
-    "uri": "/organization/climate-prediction-center",
-    "url": "http://www.cpc.ncep.noaa.gov/"
-}

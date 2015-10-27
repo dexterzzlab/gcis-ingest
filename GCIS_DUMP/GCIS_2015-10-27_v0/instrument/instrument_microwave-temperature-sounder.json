@@ -1,8 +1,0 @@
-{
-    "description": "Absorption-band MW radiometer/spectrometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/microwave-temperature-sounder.json",
-    "identifier": "microwave-temperature-sounder",
-    "name": "Microwave Temperature Sounder",
-    "uri": "/instrument/microwave-temperature-sounder"
-}

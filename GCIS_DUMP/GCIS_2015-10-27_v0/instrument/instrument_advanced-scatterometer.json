@@ -1,8 +1,0 @@
-{
-    "description": "Radar scatterometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/advanced-scatterometer.json",
-    "identifier": "advanced-scatterometer",
-    "name": "Advanced Scatterometer",
-    "uri": "/instrument/advanced-scatterometer"
-}

@@ -1,8 +1,0 @@
-{
-    "description": "Magnetometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/csc-fluxgate-vector-magnetometer.json",
-    "identifier": "csc-fluxgate-vector-magnetometer",
-    "name": "CSC fluxgate vector magnetometer",
-    "uri": "/instrument/csc-fluxgate-vector-magnetometer"
-}

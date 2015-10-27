@@ -1,8 +1,0 @@
-{
-    "description": "Multi-purpose imaging Vis/IR radiometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/ccd-camera.json",
-    "identifier": "ccd-camera",
-    "name": "CCD camera",
-    "uri": "/instrument/ccd-camera"
-}

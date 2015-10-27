@@ -1,8 +1,0 @@
-{
-    "description": "Solar irradiance monitor",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/solar-variability-picard-radiometer.json",
-    "identifier": "solar-variability-picard-radiometer",
-    "name": "SOlar Variability Picard radiometer",
-    "uri": "/instrument/solar-variability-picard-radiometer"
-}

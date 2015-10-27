@@ -1,8 +1,0 @@
-{
-    "description": "The Poseidon-2 altimeter is the main instrument on the Jason-1 mission. Derived from the Poseidon-1 altimeter on TOPEX/Poseidon, it measures sea level, wave heights and wind speed. It operates at two frequencies and is also able to estimate atmospheric electron content.\n",
-    "description_attribution": "https://sealevel.jpl.nasa.gov/technology/technologyinstrumentdescription/instrumentdescriptaltimeter/\n",
-    "href": "http://data.globalchange.gov/instrument/poseidon-2.json",
-    "identifier": "poseidon-2",
-    "name": "Positioning Ocean Solid Earth Ice Dynamics Orbiting Navigator (Single frequency solid state radar altimeter)",
-    "uri": "/instrument/poseidon-2"
-}

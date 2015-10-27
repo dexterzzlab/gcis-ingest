@@ -1,8 +1,0 @@
-{
-    "description": "High resolution optical imager",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/bilsat-vnir-multispectral-camera.json",
-    "identifier": "bilsat-vnir-multispectral-camera",
-    "name": "BILSAT VNIR Multispectral camera",
-    "uri": "/instrument/bilsat-vnir-multispectral-camera"
-}

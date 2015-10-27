@@ -1,8 +1,0 @@
-{
-    "description": "Atmospheric lidar",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/atmospheric-lidar.json",
-    "identifier": "atmospheric-lidar",
-    "name": "ATmospheric LIDar",
-    "uri": "/instrument/atmospheric-lidar"
-}

@@ -1,8 +1,0 @@
-{
-    "definition": "The degree to which the ocean absorbs light, assuming vertical separation between light source and light receiver.  ",
-    "href": "http://data.globalchange.gov/gcmd_keyword/001f18d3-7e61-430b-9883-1960c6256fe5.json",
-    "identifier": "001f18d3-7e61-430b-9883-1960c6256fe5",
-    "label": "OPTICAL DEPTH",
-    "parent_identifier": "457883c4-b30c-4d26-bed8-6c2887ebbc90",
-    "uri": "/gcmd_keyword/001f18d3-7e61-430b-9883-1960c6256fe5"
-}

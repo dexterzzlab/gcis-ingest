@@ -1,9 +1,0 @@
-{
-    "country_code": "US",
-    "href": "http://data.globalchange.gov/organization/national-geophysical-data-center.json",
-    "identifier": "national-geophysical-data-center",
-    "name": "National Geophysical Data Center",
-    "organization_type_identifier": "federal",
-    "uri": "/organization/national-geophysical-data-center",
-    "url": "https://www.ngdc.noaa.gov/"
-}

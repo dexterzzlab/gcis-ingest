@@ -1,8 +1,0 @@
-{
-    "description": "Limb-scanning IR spectrometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/limb-radiance-inversion-radiometer-instrument.json",
-    "identifier": "limb-radiance-inversion-radiometer-instrument",
-    "name": "Limb Radiance Inversion Radiometer instrument",
-    "uri": "/instrument/limb-radiance-inversion-radiometer-instrument"
-}

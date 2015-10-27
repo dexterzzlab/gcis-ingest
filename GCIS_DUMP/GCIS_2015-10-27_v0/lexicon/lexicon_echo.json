@@ -1,7 +1,0 @@
-{
-    "description": "Earth Observing System Clearing House",
-    "href": "http://data.globalchange.gov/lexicon/echo.json",
-    "identifier": "echo",
-    "uri": "/lexicon/echo",
-    "url": "http://reverb.echo.nasa.gov"
-}

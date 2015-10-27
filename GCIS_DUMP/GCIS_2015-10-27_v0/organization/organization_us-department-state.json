@@ -1,9 +1,0 @@
-{
-    "country_code": "US",
-    "href": "http://data.globalchange.gov/organization/us-department-state.json",
-    "identifier": "us-department-state",
-    "name": "U.S. Department of State",
-    "organization_type_identifier": "federal",
-    "uri": "/organization/us-department-state",
-    "url": "http://www.state.gov"
-}

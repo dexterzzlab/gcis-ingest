@@ -1,8 +1,0 @@
-{
-    "definition": "The outgoing longwave radiation (OLR) refers specifically to the radiation emitted by the Earth and its atmosphere (the terrestrial radiation). Satellite measurements of the OLR from terrestrial surfaces and clouds show that OLR is low over cold land and high clouds and high over hot land surfaces. Climate variations, such as El Nino Southern Oscillation (ENSO) can be measured from OLR anomalies from longer-term variations. ",
-    "href": "http://data.globalchange.gov/gcmd_keyword/006b1ea6-222d-4740-b220-03886d49cd81.json",
-    "identifier": "006b1ea6-222d-4740-b220-03886d49cd81",
-    "label": "OUTGOING LONGWAVE RADIATION",
-    "parent_identifier": "4ad0c52d-6449-48ff-8678-adc6b2cebcb7",
-    "uri": "/gcmd_keyword/006b1ea6-222d-4740-b220-03886d49cd81"
-}

@@ -1,7 +1,0 @@
-{
-    "description": "National Snow and Ice Data Center NASA DAAC lexicon",
-    "href": "http://data.globalchange.gov/lexicon/nsidc.json",
-    "identifier": "nsidc",
-    "uri": "/lexicon/nsidc",
-    "url": "http://nsidc.org/api/opensearch/index.html"
-}

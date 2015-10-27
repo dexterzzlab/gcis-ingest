@@ -1,8 +1,0 @@
-{
-    "description": "GNSS receiver",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/global-positioning-system-payload.json",
-    "identifier": "global-positioning-system-payload",
-    "name": "Global Positioning System Payload",
-    "uri": "/instrument/global-positioning-system-payload"
-}

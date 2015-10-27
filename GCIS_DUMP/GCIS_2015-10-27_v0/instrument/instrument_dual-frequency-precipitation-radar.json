@@ -1,8 +1,0 @@
-{
-    "description": "Cloud and precipitation radar",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/dual-frequency-precipitation-radar.json",
-    "identifier": "dual-frequency-precipitation-radar",
-    "name": "Dual-frequency Precipitation Radar",
-    "uri": "/instrument/dual-frequency-precipitation-radar"
-}

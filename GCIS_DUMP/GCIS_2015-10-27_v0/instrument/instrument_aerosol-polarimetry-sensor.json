@@ -1,8 +1,0 @@
-{
-    "description": "Multi-channel/direction/polarisation radiometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/aerosol-polarimetry-sensor.json",
-    "identifier": "aerosol-polarimetry-sensor",
-    "name": "Aerosol Polarimetry Sensor",
-    "uri": "/instrument/aerosol-polarimetry-sensor"
-}

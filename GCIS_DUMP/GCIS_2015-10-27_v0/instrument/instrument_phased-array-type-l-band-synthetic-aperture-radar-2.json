@@ -1,8 +1,0 @@
-{
-    "description": "Imaging radar (SAR)",
-    "description_attribution": "http://database.eohandbook.com/database/instrumentsummary.aspx?instrumentID=1589",
-    "href": "http://data.globalchange.gov/instrument/phased-array-type-l-band-synthetic-aperture-radar-2.json",
-    "identifier": "phased-array-type-l-band-synthetic-aperture-radar-2",
-    "name": "Phased Array type L-band Synthetic Aperture Radar-2",
-    "uri": "/instrument/phased-array-type-l-band-synthetic-aperture-radar-2"
-}

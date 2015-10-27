@@ -1,8 +1,0 @@
-{
-    "description": "Medium-resolution spectro-radiometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/ocean-color-and-temperature-scanner.json",
-    "identifier": "ocean-color-and-temperature-scanner",
-    "name": "Ocean Color and Temperature Scanner",
-    "uri": "/instrument/ocean-color-and-temperature-scanner"
-}

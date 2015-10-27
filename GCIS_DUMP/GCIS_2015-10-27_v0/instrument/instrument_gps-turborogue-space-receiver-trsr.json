@@ -1,8 +1,0 @@
-{
-    "description": "GNSS radio-occultation receiver",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/gps-turborogue-space-receiver-trsr.json",
-    "identifier": "gps-turborogue-space-receiver-trsr",
-    "name": "GPS TurboRogue Space Receiver (TRSR)",
-    "uri": "/instrument/gps-turborogue-space-receiver-trsr"
-}

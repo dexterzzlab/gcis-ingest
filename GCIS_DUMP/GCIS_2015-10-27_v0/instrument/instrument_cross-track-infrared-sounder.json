@@ -1,8 +1,0 @@
-{
-    "description": "Medium-resolution IR spectrometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/cross-track-infrared-sounder.json",
-    "identifier": "cross-track-infrared-sounder",
-    "name": "Cross-track Infrared Sounder",
-    "uri": "/instrument/cross-track-infrared-sounder"
-}

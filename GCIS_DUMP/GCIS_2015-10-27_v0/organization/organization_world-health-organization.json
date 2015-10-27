@@ -1,9 +1,0 @@
-{
-    "country_code": null,
-    "href": "http://data.globalchange.gov/organization/world-health-organization.json",
-    "identifier": "world-health-organization",
-    "name": "World Health Organization",
-    "organization_type_identifier": "international",
-    "uri": "/organization/world-health-organization",
-    "url": "http://www.who.int/en/"
-}

@@ -1,8 +1,0 @@
-{
-    "description": "Multi-channel/direction/polarisation radiometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/multi-angle-imaging-spectroradiometer.json",
-    "identifier": "multi-angle-imaging-spectroradiometer",
-    "name": "Multi-angle Imaging SpectroRadiometer",
-    "uri": "/instrument/multi-angle-imaging-spectroradiometer"
-}

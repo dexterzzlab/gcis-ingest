@@ -1,8 +1,0 @@
-{
-    "description": "Imaging radar (SAR)",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/side-looking-microwave-radar.json",
-    "identifier": "side-looking-microwave-radar",
-    "name": "Side looking microwave radar",
-    "uri": "/instrument/side-looking-microwave-radar"
-}

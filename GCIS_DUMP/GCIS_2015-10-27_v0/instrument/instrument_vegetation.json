@@ -1,8 +1,0 @@
-{
-    "description": "Multi-purpose imaging Vis/IR radiometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/vegetation.json",
-    "identifier": "vegetation",
-    "name": "VEGETATION",
-    "uri": "/instrument/vegetation"
-}

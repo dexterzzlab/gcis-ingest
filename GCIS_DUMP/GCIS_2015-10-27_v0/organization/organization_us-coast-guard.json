@@ -1,9 +1,0 @@
-{
-    "country_code": "US",
-    "href": "http://data.globalchange.gov/organization/us-coast-guard.json",
-    "identifier": "us-coast-guard",
-    "name": "U.S. Coast Guard",
-    "organization_type_identifier": "federal",
-    "uri": "/organization/us-coast-guard",
-    "url": "http://www.uscg.mil"
-}

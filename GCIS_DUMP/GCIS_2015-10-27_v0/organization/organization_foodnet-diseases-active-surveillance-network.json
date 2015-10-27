@@ -1,9 +1,0 @@
-{
-    "country_code": "US",
-    "href": "http://data.globalchange.gov/organization/foodnet-diseases-active-surveillance-network.json",
-    "identifier": "foodnet-diseases-active-surveillance-network",
-    "name": "Foodborne Diseases Active Surveillance Network",
-    "organization_type_identifier": "federal",
-    "uri": "/organization/foodnet-diseases-active-surveillance-network",
-    "url": "http://www.cdc.gov/foodnet/"
-}

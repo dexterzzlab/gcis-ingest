@@ -1,8 +1,0 @@
-{
-    "description": "Solar irradiance monitor",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/isp.json",
-    "identifier": "isp",
-    "name": "ISP",
-    "uri": "/instrument/isp"
-}

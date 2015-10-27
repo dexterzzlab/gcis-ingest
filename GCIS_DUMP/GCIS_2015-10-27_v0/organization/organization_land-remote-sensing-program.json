@@ -1,9 +1,0 @@
-{
-    "country_code": "US",
-    "href": "http://data.globalchange.gov/organization/land-remote-sensing-program.json",
-    "identifier": "land-remote-sensing-program",
-    "name": "U.S. Geological Survey Land Remote Sensing Program",
-    "organization_type_identifier": "federal",
-    "uri": "/organization/land-remote-sensing-program",
-    "url": "http://remotesensing.usgs.gov/index.php"
-}

@@ -1,8 +1,0 @@
-{
-    "description": "Multi-channel/direction/polarisation radiometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/polarization-and-directionality-of-the-earths-reflectances.json",
-    "identifier": "polarization-and-directionality-of-the-earths-reflectances",
-    "name": "POLarization and Directionality of the Earth's Reflectances",
-    "uri": "/instrument/polarization-and-directionality-of-the-earths-reflectances"
-}

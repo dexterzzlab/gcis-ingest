@@ -1,8 +1,0 @@
-{
-    "description": "The A2 storyline and scenario family describes a very heterogeneous world. The underlying theme is self-reliance and preservation of local identities. Fertility patterns across regions converge very slowly, which results in continuously increasing population. Economic development is primarily regionally oriented and per capita economic growth and technological change more fragmented and slower than other storylines.",
-    "description_attribution": "http://www.ipcc.ch/ipccreports/tar/wg1/029.htm#storya2",
-    "href": "http://data.globalchange.gov/scenario/sres_a2.json",
-    "identifier": "sres_a2",
-    "name": "Special Report on Emissions Scenario A2 Scenario Family",
-    "uri": "/scenario/sres_a2"
-}

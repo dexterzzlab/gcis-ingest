@@ -1,9 +1,0 @@
-{
-    "country_code": "US",
-    "href": "http://data.globalchange.gov/organization/us-forest-service-state-private-forestry.json",
-    "identifier": "us-forest-service-state-private-forestry",
-    "name": "U.S. Forest Service State and Private Forestry",
-    "organization_type_identifier": "federal",
-    "uri": "/organization/us-forest-service-state-private-forestry",
-    "url": "http://www.fs.fed.us/spf/"
-}

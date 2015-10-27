@@ -1,8 +1,0 @@
-{
-    "description": "Multi-purpose imaging Vis/IR radiometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/imager-mtsat.json",
-    "identifier": "imager-mtsat",
-    "name": "Imager/MTSAT",
-    "uri": "/instrument/imager-mtsat"
-}

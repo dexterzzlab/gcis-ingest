@@ -1,8 +1,0 @@
-{
-    "description": "Space environment monitor",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/radio-receiver-instrument.json",
-    "identifier": "radio-receiver-instrument",
-    "name": "Radio Receiver Instrument",
-    "uri": "/instrument/radio-receiver-instrument"
-}

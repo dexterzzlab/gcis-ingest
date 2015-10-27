@@ -1,8 +1,0 @@
-{
-    "description": "DORIS (Doppler Orbitography and Radiopositioning Integrated by Satellite) is a Doppler satellite tracking system developed for precise orbit determination and precise ground location.\r\n",
-    "description_attribution": "http://ids-doris.org",
-    "href": "http://data.globalchange.gov/instrument/doris.json",
-    "identifier": "doris",
-    "name": "Doppler Orbitography and Radio-positioning Integrated by Satellite",
-    "uri": "/instrument/doris"
-}

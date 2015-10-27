@@ -1,8 +1,0 @@
-{
-    "description": "High-resolution nadir-scanning SW spectrometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/ozone-monitoring-instrument.json",
-    "identifier": "ozone-monitoring-instrument",
-    "name": "Ozone Measuring Instrument",
-    "uri": "/instrument/ozone-monitoring-instrument"
-}

@@ -1,8 +1,0 @@
-{
-    "description": "High resolution optical imager",
-    "description_attribution": "http://database.eohandbook.com/database/instrumentsummary.aspx?instrumentID=818",
-    "href": "http://data.globalchange.gov/instrument/multispectral-ccd-camera-3.json",
-    "identifier": "multispectral-ccd-camera-3",
-    "name": "Multispectral CCD Camera",
-    "uri": "/instrument/multispectral-ccd-camera-3"
-}

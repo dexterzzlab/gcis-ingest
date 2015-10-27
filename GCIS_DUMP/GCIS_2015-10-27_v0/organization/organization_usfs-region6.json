@@ -1,9 +1,0 @@
-{
-    "country_code": "US",
-    "href": "http://data.globalchange.gov/organization/usfs-region6.json",
-    "identifier": "usfs-region6",
-    "name": "US Forest Service Region 6",
-    "organization_type_identifier": "federal",
-    "uri": "/organization/usfs-region6",
-    "url": "http://www.fs.usda.gov/r6"
-}

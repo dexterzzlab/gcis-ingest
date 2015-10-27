@@ -1,9 +1,0 @@
-{
-    "country_code": "US",
-    "href": "http://data.globalchange.gov/organization/us-department-homeland-security.json",
-    "identifier": "us-department-homeland-security",
-    "name": "U.S. Department of Homeland Security",
-    "organization_type_identifier": "federal",
-    "uri": "/organization/us-department-homeland-security",
-    "url": "http://www.dhs.gov"
-}

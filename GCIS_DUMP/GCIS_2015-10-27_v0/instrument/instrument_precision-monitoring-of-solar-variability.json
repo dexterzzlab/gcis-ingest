@@ -1,8 +1,0 @@
-{
-    "description": "Solar irradiance monitor",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/precision-monitoring-of-solar-variability.json",
-    "identifier": "precision-monitoring-of-solar-variability",
-    "name": "PREcision Monitoring of Solar Variability",
-    "uri": "/instrument/precision-monitoring-of-solar-variability"
-}

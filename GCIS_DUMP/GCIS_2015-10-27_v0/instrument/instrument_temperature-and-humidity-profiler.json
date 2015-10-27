@@ -1,8 +1,0 @@
-{
-    "description": "Narrow-band channel IR radiometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/temperature-and-humidity-profiler.json",
-    "identifier": "temperature-and-humidity-profiler",
-    "name": "Temperature and Humidity Profiler",
-    "uri": "/instrument/temperature-and-humidity-profiler"
-}

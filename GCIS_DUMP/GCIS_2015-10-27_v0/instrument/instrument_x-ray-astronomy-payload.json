@@ -1,8 +1,0 @@
-{
-    "description": "Solar irradiance monitor",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/x-ray-astronomy-payload.json",
-    "identifier": "x-ray-astronomy-payload",
-    "name": "X-ray astronomy payload",
-    "uri": "/instrument/x-ray-astronomy-payload"
-}

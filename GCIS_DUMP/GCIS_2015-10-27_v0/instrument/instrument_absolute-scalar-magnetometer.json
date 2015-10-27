@@ -1,8 +1,0 @@
-{
-    "description": "Magnetometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/absolute-scalar-magnetometer.json",
-    "identifier": "absolute-scalar-magnetometer",
-    "name": "Absolute Scalar Magnetometer",
-    "uri": "/instrument/absolute-scalar-magnetometer"
-}

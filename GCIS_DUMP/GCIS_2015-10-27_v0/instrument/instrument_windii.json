@@ -1,8 +1,0 @@
-{
-    "description": "Limb-scanning SW spectrometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/windii.json",
-    "identifier": "windii",
-    "name": "WINDII",
-    "uri": "/instrument/windii"
-}

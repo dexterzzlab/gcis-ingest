@@ -1,8 +1,0 @@
-{
-    "description": "Magnetometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/magnetic-mapping-payload.json",
-    "identifier": "magnetic-mapping-payload",
-    "name": "Magnetic Mapping Payload",
-    "uri": "/instrument/magnetic-mapping-payload"
-}

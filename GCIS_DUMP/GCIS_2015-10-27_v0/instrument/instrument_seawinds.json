@@ -1,8 +1,0 @@
-{
-    "description": "Radar scatterometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/seawinds.json",
-    "identifier": "seawinds",
-    "name": "SeaWinds",
-    "uri": "/instrument/seawinds"
-}

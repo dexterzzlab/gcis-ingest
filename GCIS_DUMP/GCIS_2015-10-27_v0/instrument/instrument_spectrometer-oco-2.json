@@ -1,8 +1,0 @@
-{
-    "description": "High-resolution nadir-scanning SW spectrometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/spectrometer-oco-2.json",
-    "identifier": "spectrometer-oco-2",
-    "name": "Spectrometer (OCO-2)",
-    "uri": "/instrument/spectrometer-oco-2"
-}

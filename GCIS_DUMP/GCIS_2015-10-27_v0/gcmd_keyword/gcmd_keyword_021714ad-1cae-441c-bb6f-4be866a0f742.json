@@ -1,8 +1,0 @@
-{
-    "definition": "The temperature measured at a given soil depth, typically at 2, 4, 8, and sometimes 20 and 40 in. Many biological processes, including seed germination, plant emergence, microbial activity, and soil respiration are a function of soil temperature.",
-    "href": "http://data.globalchange.gov/gcmd_keyword/021714ad-1cae-441c-bb6f-4be866a0f742.json",
-    "identifier": "021714ad-1cae-441c-bb6f-4be866a0f742",
-    "label": "SOIL TEMPERATURE",
-    "parent_identifier": "376a1d5c-2496-4381-981f-bc047af92044",
-    "uri": "/gcmd_keyword/021714ad-1cae-441c-bb6f-4be866a0f742"
-}

@@ -1,9 +1,0 @@
-{
-    "country_code": "US",
-    "href": "http://data.globalchange.gov/organization/washington-state.json",
-    "identifier": "washington-state",
-    "name": "State of Washington",
-    "organization_type_identifier": "state",
-    "uri": "/organization/washington-state",
-    "url": "http://access.wa.gov"
-}

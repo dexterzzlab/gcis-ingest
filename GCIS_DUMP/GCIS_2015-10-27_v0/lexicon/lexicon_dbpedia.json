@@ -1,7 +1,0 @@
-{
-    "description": "Terms used in dbpedia (and therefore wikipedia)",
-    "href": "http://data.globalchange.gov/lexicon/dbpedia.json",
-    "identifier": "dbpedia",
-    "uri": "/lexicon/dbpedia",
-    "url": "http://dbpedia.org"
-}

@@ -1,9 +1,0 @@
-{
-    "country_code": "US",
-    "href": "http://data.globalchange.gov/organization/sea-ice-prediction-network.json",
-    "identifier": "sea-ice-prediction-network",
-    "name": "Sea Ice Prediction Network",
-    "organization_type_identifier": "research",
-    "uri": "/organization/sea-ice-prediction-network",
-    "url": "http://www.arcus.org/sipn/"
-}

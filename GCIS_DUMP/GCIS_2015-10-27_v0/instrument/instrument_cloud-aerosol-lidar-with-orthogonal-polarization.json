@@ -1,8 +1,0 @@
-{
-    "description": "Atmospheric lidar",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/cloud-aerosol-lidar-with-orthogonal-polarization.json",
-    "identifier": "cloud-aerosol-lidar-with-orthogonal-polarization",
-    "name": "Cloud-Aerosol Lidar with Orthogonal Polarization",
-    "uri": "/instrument/cloud-aerosol-lidar-with-orthogonal-polarization"
-}

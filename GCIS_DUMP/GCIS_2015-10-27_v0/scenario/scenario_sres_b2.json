@@ -1,8 +1,0 @@
-{
-    "description": "The B2 storyline and scenario family describes a world in which the emphasis is on local solutions to economic, social and environmental sustainability. It is a world with continuously increasing global population, at a rate lower than A2, intermediate levels of economic development, and less rapid and more diverse technological change than in the A1 and B1 storylines. While the scenario is also oriented towards environmental protection and social equity, it focuses on local and regional levels.",
-    "description_attribution": "http://www.ipcc.ch/ipccreports/tar/wg1/029.htm#storyb2",
-    "href": "http://data.globalchange.gov/scenario/sres_b2.json",
-    "identifier": "sres_b2",
-    "name": "Special Report on Emissions Scenario B2 Scenario Family",
-    "uri": "/scenario/sres_b2"
-}

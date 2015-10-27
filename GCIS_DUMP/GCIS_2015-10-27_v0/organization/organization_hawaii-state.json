@@ -1,9 +1,0 @@
-{
-    "country_code": "US",
-    "href": "http://data.globalchange.gov/organization/hawaii-state.json",
-    "identifier": "hawaii-state",
-    "name": "State of Hawai`i",
-    "organization_type_identifier": "state",
-    "uri": "/organization/hawaii-state",
-    "url": "https://portal.ehawaii.gov"
-}

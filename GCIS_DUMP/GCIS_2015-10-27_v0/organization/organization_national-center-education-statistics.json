@@ -1,9 +1,0 @@
-{
-    "country_code": "US",
-    "href": "http://data.globalchange.gov/organization/national-center-education-statistics.json",
-    "identifier": "national-center-education-statistics",
-    "name": "National Center for Education Statistics",
-    "organization_type_identifier": "federal",
-    "uri": "/organization/national-center-education-statistics",
-    "url": "https://nces.ed.gov"
-}

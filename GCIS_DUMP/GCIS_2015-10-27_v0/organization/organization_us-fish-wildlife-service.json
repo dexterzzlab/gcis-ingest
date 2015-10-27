@@ -1,9 +1,0 @@
-{
-    "country_code": "US",
-    "href": "http://data.globalchange.gov/organization/us-fish-wildlife-service.json",
-    "identifier": "us-fish-wildlife-service",
-    "name": "U.S. Fish and Wildlife Service",
-    "organization_type_identifier": "federal",
-    "uri": "/organization/us-fish-wildlife-service",
-    "url": "http://www.fws.gov/"
-}

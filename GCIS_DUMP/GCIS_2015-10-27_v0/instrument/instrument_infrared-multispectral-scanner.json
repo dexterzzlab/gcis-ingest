@@ -1,8 +1,0 @@
-{
-    "description": "Multi-purpose imaging Vis/IR radiometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/infrared-multispectral-scanner.json",
-    "identifier": "infrared-multispectral-scanner",
-    "name": "Infrared Multispectral Scanner",
-    "uri": "/instrument/infrared-multispectral-scanner"
-}

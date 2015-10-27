@@ -1,8 +1,0 @@
-{
-    "description": "Radar scatterometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/scatterometer-4.json",
-    "identifier": "scatterometer-4",
-    "name": "Scatterometer",
-    "uri": "/instrument/scatterometer-4"
-}

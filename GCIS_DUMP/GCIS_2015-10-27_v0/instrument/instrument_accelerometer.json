@@ -1,8 +1,0 @@
-{
-    "description": "Gradiometer/accelerometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/accelerometer.json",
-    "identifier": "accelerometer",
-    "name": "Accelerometer",
-    "uri": "/instrument/accelerometer"
-}

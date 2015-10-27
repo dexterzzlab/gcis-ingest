@@ -1,8 +1,0 @@
-{
-    "description": "High resolution optical imager",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/charged-coupled-device-camera.json",
-    "identifier": "charged-coupled-device-camera",
-    "name": "Charged Coupled Device Camera",
-    "uri": "/instrument/charged-coupled-device-camera"
-}

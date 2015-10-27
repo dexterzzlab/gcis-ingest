@@ -1,9 +1,0 @@
-{
-    "country_code": "US",
-    "href": "http://data.globalchange.gov/organization/national-hurricane-center.json",
-    "identifier": "national-hurricane-center",
-    "name": "National Hurricane Center",
-    "organization_type_identifier": "federal",
-    "uri": "/organization/national-hurricane-center",
-    "url": "http://www.nhc.noaa.gov"
-}

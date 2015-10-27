@@ -1,8 +1,0 @@
-{
-    "description": "Multi-purpose imaging Vis/IR radiometer",
-    "description_attribution": "http://database.eohandbook.com/database/instrumentsummary.aspx?instrumentID=817",
-    "href": "http://data.globalchange.gov/instrument/wide-field-imager-2-cbers.json",
-    "identifier": "wide-field-imager-2-cbers",
-    "name": "Wide Field Imager-2 (CBERS)",
-    "uri": "/instrument/wide-field-imager-2-cbers"
-}

@@ -1,8 +1,0 @@
-{
-    "description": "JMR is a JPL instrument of TMR heritage. JMR is a passive microwave radiometer measuring the brightness temperatures in the nadir column at 18.7, 23.8, and 34 GHz, providing path delay correction for the altimeter (the brightness temperatures are converted to path-delay information). The 23.8 GHz channel is the primary water vapor sensor, the 34 GHz channel provides a correction for non-raining clouds, and the 18.7 GHz channel provides the correction for effects of wind-induced enhancements in the sea surface background emission.\n",
-    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/j/jason-1\n",
-    "href": "http://data.globalchange.gov/instrument/jason-microwave-radiometer.json",
-    "identifier": "jason-microwave-radiometer",
-    "name": "JASON Microwave Radiometer",
-    "uri": "/instrument/jason-microwave-radiometer"
-}

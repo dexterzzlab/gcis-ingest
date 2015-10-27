@@ -1,8 +1,0 @@
-{
-    "description": "Solar irradiance monitor",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/spectral-irradiance-monitor.json",
-    "identifier": "spectral-irradiance-monitor",
-    "name": "Spectral Irradiance Monitor",
-    "uri": "/instrument/spectral-irradiance-monitor"
-}

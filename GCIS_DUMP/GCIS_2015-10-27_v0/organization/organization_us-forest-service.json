@@ -1,9 +1,0 @@
-{
-    "country_code": "US",
-    "href": "http://data.globalchange.gov/organization/us-forest-service.json",
-    "identifier": "us-forest-service",
-    "name": "U.S. Forest Service",
-    "organization_type_identifier": "federal",
-    "uri": "/organization/us-forest-service",
-    "url": "http://www.fs.fed.us/"
-}

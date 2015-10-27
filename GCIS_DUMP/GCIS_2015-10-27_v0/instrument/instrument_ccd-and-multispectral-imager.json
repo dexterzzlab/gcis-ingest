@@ -1,8 +1,0 @@
-{
-    "description": "Multi-purpose imaging Vis/IR radiometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/ccd-and-multispectral-imager.json",
-    "identifier": "ccd-and-multispectral-imager",
-    "name": "CCD and multispectral imager",
-    "uri": "/instrument/ccd-and-multispectral-imager"
-}

@@ -1,8 +1,0 @@
-{
-    "description": "Medium-resolution IR spectrometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/hyperspectral-camera.json",
-    "identifier": "hyperspectral-camera",
-    "name": "HYperspectral Camera",
-    "uri": "/instrument/hyperspectral-camera"
-}

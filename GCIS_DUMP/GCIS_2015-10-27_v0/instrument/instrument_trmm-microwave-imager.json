@@ -1,8 +1,0 @@
-{
-    "description": "Multi-purpose imaging MW radiometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/trmm-microwave-imager.json",
-    "identifier": "trmm-microwave-imager",
-    "name": "TRMM Microwave Imager",
-    "uri": "/instrument/trmm-microwave-imager"
-}

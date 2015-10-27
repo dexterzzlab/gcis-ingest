@@ -1,9 +1,0 @@
-{
-    "country_code": "US",
-    "href": "http://data.globalchange.gov/organization/us-department-defense.json",
-    "identifier": "us-department-defense",
-    "name": "U.S. Department of Defense",
-    "organization_type_identifier": "federal",
-    "uri": "/organization/us-department-defense",
-    "url": "http://www.defense.gov"
-}

@@ -1,8 +1,0 @@
-{
-    "description": "Star tracker",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/star-imager.json",
-    "identifier": "star-imager",
-    "name": "Star Imager",
-    "uri": "/instrument/star-imager"
-}

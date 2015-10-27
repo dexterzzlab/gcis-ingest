@@ -1,8 +1,0 @@
-{
-    "description": "Broad-band radiometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/geostationary-earth-radiation-budget.json",
-    "identifier": "geostationary-earth-radiation-budget",
-    "name": "Geostationary Earth Radiation Budget",
-    "uri": "/instrument/geostationary-earth-radiation-budget"
-}

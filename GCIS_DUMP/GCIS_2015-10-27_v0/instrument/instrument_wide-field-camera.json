@@ -1,8 +1,0 @@
-{
-    "description": "Multi-purpose imaging Vis/IR radiometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/wide-field-camera.json",
-    "identifier": "wide-field-camera",
-    "name": "Wide Field Camera",
-    "uri": "/instrument/wide-field-camera"
-}

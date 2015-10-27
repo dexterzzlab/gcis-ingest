@@ -1,8 +1,0 @@
-{
-    "description": "GNSS radio-occultation receiver",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/radio-occultation-receiver.json",
-    "identifier": "radio-occultation-receiver",
-    "name": "Radio-occultation receiver",
-    "uri": "/instrument/radio-occultation-receiver"
-}

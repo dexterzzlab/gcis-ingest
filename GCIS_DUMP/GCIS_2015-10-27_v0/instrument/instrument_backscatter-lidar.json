@@ -1,8 +1,0 @@
-{
-    "description": "Atmospheric lidar",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/backscatter-lidar.json",
-    "identifier": "backscatter-lidar",
-    "name": "Backscatter lidar",
-    "uri": "/instrument/backscatter-lidar"
-}

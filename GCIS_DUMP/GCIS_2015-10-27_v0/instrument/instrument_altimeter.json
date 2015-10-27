@@ -1,8 +1,0 @@
-{
-    "description": "Radar altimeter",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/altimeter.json",
-    "identifier": "altimeter",
-    "name": "Altimeter",
-    "uri": "/instrument/altimeter"
-}

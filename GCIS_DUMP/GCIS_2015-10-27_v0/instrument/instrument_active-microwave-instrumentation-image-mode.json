@@ -1,8 +1,0 @@
-{
-    "description": "Imaging radar (SAR)",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/active-microwave-instrumentation-image-mode.json",
-    "identifier": "active-microwave-instrumentation-image-mode",
-    "name": "Active Microwave Instrumentation. Image Mode",
-    "uri": "/instrument/active-microwave-instrumentation-image-mode"
-}

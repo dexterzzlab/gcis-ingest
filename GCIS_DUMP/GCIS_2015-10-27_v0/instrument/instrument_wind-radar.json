@@ -1,8 +1,0 @@
-{
-    "description": "Radar scatterometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/wind-radar.json",
-    "identifier": "wind-radar",
-    "name": "Wind Radar",
-    "uri": "/instrument/wind-radar"
-}

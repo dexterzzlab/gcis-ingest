@@ -1,9 +1,0 @@
-{
-    "country_code": "US",
-    "href": "http://data.globalchange.gov/organization/national-sea-grant.json",
-    "identifier": "national-sea-grant",
-    "name": "National Sea Grant",
-    "organization_type_identifier": "federal",
-    "uri": "/organization/national-sea-grant",
-    "url": "http://seagrant.noaa.gov"
-}

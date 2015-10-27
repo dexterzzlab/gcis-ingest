@@ -1,8 +1,0 @@
-{
-    "description": "Medium-resolution IR spectrometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/atmospheric-infra-red-sounder.json",
-    "identifier": "atmospheric-infra-red-sounder",
-    "name": "Atmospheric Infra-red Sounder",
-    "uri": "/instrument/atmospheric-infra-red-sounder"
-}

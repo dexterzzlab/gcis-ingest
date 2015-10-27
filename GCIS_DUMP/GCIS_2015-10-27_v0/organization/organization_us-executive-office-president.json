@@ -1,9 +1,0 @@
-{
-    "country_code": "US",
-    "href": "http://data.globalchange.gov/organization/us-executive-office-president.json",
-    "identifier": "us-executive-office-president",
-    "name": "Executive Office of the President",
-    "organization_type_identifier": "federal",
-    "uri": "/organization/us-executive-office-president",
-    "url": "http://www.whitehouse.gov/administration/eop"
-}

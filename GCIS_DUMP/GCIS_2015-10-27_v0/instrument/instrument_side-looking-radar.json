@@ -1,8 +1,0 @@
-{
-    "description": "Imaging radar (SAR)",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/side-looking-radar.json",
-    "identifier": "side-looking-radar",
-    "name": "Side looking Radar",
-    "uri": "/instrument/side-looking-radar"
-}

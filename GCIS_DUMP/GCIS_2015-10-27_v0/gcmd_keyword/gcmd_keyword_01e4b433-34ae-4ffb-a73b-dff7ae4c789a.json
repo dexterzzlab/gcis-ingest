@@ -1,8 +1,0 @@
-{
-    "definition": "The amount of ultraviolet radiation transferred across a given unit of surface area in a given unit of time.",
-    "href": "http://data.globalchange.gov/gcmd_keyword/01e4b433-34ae-4ffb-a73b-dff7ae4c789a.json",
-    "identifier": "01e4b433-34ae-4ffb-a73b-dff7ae4c789a",
-    "label": "ULTRAVIOLET FLUX",
-    "parent_identifier": "0f36cd66-d755-4809-ad0e-d67b1b9aff6c",
-    "uri": "/gcmd_keyword/01e4b433-34ae-4ffb-a73b-dff7ae4c789a"
-}

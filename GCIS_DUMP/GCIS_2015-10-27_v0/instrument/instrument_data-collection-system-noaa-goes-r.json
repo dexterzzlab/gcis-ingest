@@ -1,8 +1,0 @@
-{
-    "description": "Data collection system",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/data-collection-system-noaa-goes-r.json",
-    "identifier": "data-collection-system-noaa-goes-r",
-    "name": "Data Collection System (NOAA, GOES-R)",
-    "uri": "/instrument/data-collection-system-noaa-goes-r"
-}

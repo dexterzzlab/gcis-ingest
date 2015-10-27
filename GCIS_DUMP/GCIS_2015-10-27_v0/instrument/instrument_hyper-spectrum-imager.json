@@ -1,8 +1,0 @@
-{
-    "description": "Multi-purpose imaging Vis/IR radiometer",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/hyper-spectrum-imager.json",
-    "identifier": "hyper-spectrum-imager",
-    "name": "Hyper Spectrum Imager",
-    "uri": "/instrument/hyper-spectrum-imager"
-}

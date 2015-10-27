@@ -1,8 +1,0 @@
-{
-    "description": "GNSS radio-occultation receiver",
-    "description_attribution": null,
-    "href": "http://data.globalchange.gov/instrument/gps-demonstration-receiver.json",
-    "identifier": "gps-demonstration-receiver",
-    "name": "GPS Demonstration Receiver",
-    "uri": "/instrument/gps-demonstration-receiver"
-}
