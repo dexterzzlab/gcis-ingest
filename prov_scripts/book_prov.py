@@ -36,27 +36,30 @@ def get_doc_prov(j, gcis_url, refList):
 
     return prov_json
 
-def index_gcis(gcis_url, es_url, index, alias, dump_dir):
-    """Index GCIS into PROV-ES ElasticSearch index."""
-    #get all images in path
-    refList = get_refList(dump_dir)
-    book_path = "%s/book/"%(dump_dir)
-    for (root,dirs,files) in os.walk(book_path):
-        for f in files:
-            with open(f) as item:
-                book = json.load(item)
-                prov = get_doc_prov(book, gcis_url, refList)
-                import_prov(conn, index, alias, prov)
-
 def get_refList(dump_dir):
     refList = []
-    ref_path = "%s/reference"%dump_dir
+    ref_path = "%s/reference/"%dump_dir
     for (root,dirs,files) in os.walk(ref_path):
         for f in files:
+            f = "%s%s"%(ref_path, f)
             with open(f) as item:
                 ref = json.load(item)
                 refList.append(ref)
     return refList
+
+
+def index_gcis(gcis_url, es_url, index, alias, dump_dir):
+    """Index GCIS into PROV-ES ElasticSearch index."""
+    conn = get_es_conn(es_url, index, alias)
+    refList = get_refList(dump_dir)
+    book_path = "%s/book/"%(dump_dir)
+    for (root,dirs,files) in os.walk(book_path):
+        for f in files:
+            f = "%s%s"%(book_path, f)
+            with open(f) as item:
+                book = json.load(item)
+                prov = get_doc_prov(book, gcis_url, refList)
+                import_prov(conn, index, alias, prov)
 
 if __name__ == "__main__":
     if sys.argv[1] is not None:
