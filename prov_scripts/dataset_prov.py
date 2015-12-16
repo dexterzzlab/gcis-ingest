@@ -15,16 +15,18 @@ requests_cache.install_cache('gcis-import')
 def get_doc_prov(j, gcis_url, refList):
     """Generate PROV-ES JSON from GCIS doc metadata."""
     gcis_ns = "http://data.globalchange.gov/gcis.owl#"
-    doc = ProvEsDocument(namespaces={ "gcis": gcis_ns, "bibo": "http://purl.org/ontology/bibo/" })
+    doc = ProvEsDocument()
     
     doc_attrs = [
         ("prov:type", 'gcis:Dataset'),
-        ("prov:label", j['title']),
+        ("prov:label", j['name']),
         ("prov:location", j['uri']),
         #(prov:wasGeneratedBy, ....search references),
         #(prov:wasAttributedTo, ...person),
         #(prov:wasDerivedFrom, ...),
         ]
+
+    doc.entity('bibo:%s' % j['identifier'], doc_attrs)
 
     prov_json = json.loads(doc.serialize())
 
@@ -32,11 +34,12 @@ def get_doc_prov(j, gcis_url, refList):
 
 def index_gcis(gcis_url, es_url, index, alias, dump_dir):
     """Index GCIS into PROV-ES ElasticSearch index."""
-    #get all images in path
+    conn = get_es_conn(es_url, index, alias)
     refList = get_refList(dump_dir)
     dataset_path = "%s/dataset/"%(dump_dir)
     for (root,dirs,files) in os.walk(dataset_path):
         for f in files:
+            f = "%s%s"%(dataset_path, f)
             with open(f) as item:
                 dataset = json.load(item)
                 prov = get_doc_prov(dataset, gcis_url, refList)
@@ -47,6 +50,7 @@ def get_refList(dump_dir):
     ref_path = "%s/reference"%dump_dir
     for (root,dirs,files) in os.walk(ref_path):
         for f in files:
+            f = "%s/%s"%(ref_path, f)
             with open(f) as item:
                 ref = json.load(item)
                 refList.append(ref)
@@ -59,7 +63,7 @@ if __name__ == "__main__":
             env = os.environ.get('PROVES_ENV', 'prod')
             app = create_app('fv_prov_es.settings.%sConfig' % env.capitalize(), env=env)
             es_url = app.config['ES_URL']
-            gcis_url =  "http://data.globalchange.gov"
+            gcis_url =  "https://gcis-search-stage.jpl.net:3000"
             dt = datetime.utcnow()
 
 
