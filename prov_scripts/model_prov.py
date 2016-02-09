@@ -104,7 +104,7 @@ if __name__ == "__main__":
             env = os.environ.get('PROVES_ENV', 'prod')
             app = create_app('fv_prov_es.settings.%sConfig' % env.capitalize(), env=env)
             es_url = app.config['ES_URL']
-            gcis_url =  "https://gcis-search-stage.jpl.net:3000"
+            gcis_url =  "https://data.globalchange.gov"#"https://gcis-search-stage.jpl.net:3000"
             dt = datetime.utcnow()
 
 
