@@ -15,15 +15,55 @@ requests_cache.install_cache('gcis-import')
 def get_doc_prov(j, gcis_url, refList):
     """Generate PROV-ES JSON from GCIS doc metadata."""
     doc = ProvEsDocument()
+    platform = requests.get(j['href'])
+    platformID = 'bibo:%s'%j['identifier']
     
     doc_attrs = [
         ("prov:type", 'gcis:Platform'),
-        ("prov:label", j['title']),
-        ("prov:location", j['uri']),
+        ("prov:label", j['name']),
+        ("prov:location", "%s%s"%(gcis_url,j['uri'])),
         #("prov:wasDerivedFrom", files)
         #("prov:hadMember", instruments)
         #("prov:wasAttributedTo, contributors),
         ]
+
+
+    #contributors
+    if 'contributors' in platform:
+        for contributor in platform['contributors']:
+            if contributor['person_uri'] is not None:
+                #print article
+                #print contributor['person']
+
+                name  = " ".join([contributor['person'][i] 
+                    for i in ('first_name', 'middle_name', 'last_name')
+                    if contributor['person'].get(i, None) is not None])
+                #print contributor['person_id']
+                personAttrs = [
+                        ("prov:type", 'gcis:Person'),
+                        ("prov:label", "%s"%name),# %s"%(contributor['person']['first_name'],contributor['person']['last_name'])),
+                        ("prov:location", "%s%s"%(gcis_url,contributor['person_uri'])),
+                        ("gcis:id", str(contributor['person_id'])),
+                        ("gcis:orcid", contributor['person']['orcid'])
+                        ]
+                personID = 'bibo:%s'%contributor['person_id']
+                doc.entity(personID, personAttrs)
+
+                doc.wasAssociatedWith(platformID, personID, None, None,{"prov:role": contributor['role_type_identifier']} )
+            if contributor['organization'] is not None:
+                #make org
+                org_attrs = [
+                        ("prov:type", "gcis:organization"),
+                        ("prov:label", contributor["organization"]["name"]),
+                        ("prov:location", "%s%s"%(gcis_url, contributor["organization_uri"])),
+                        ("gcis:organization_type_identifier", contributor["organization"]["organization_type_identifier"]),
+                        ("gcis:country_code", contributor["organization"]["country_code"]),
+                        ]
+                orgID = 'bibo:%s'%contributor['organization']['identifier']
+                doc.entity(orgID, org_attrs)
+                doc.governingOrganization(orgID, contributor['organization']['name'])
+
+   
 
     doc.entity('bibo:%s' % j['identifier'], doc_attrs)
     prov_json = json.loads(doc.serialize())
@@ -34,10 +74,13 @@ def index_gcis(gcis_url, es_url, index, alias, dump_dir):
     """Index GCIS into PROV-ES ElasticSearch index."""
     #get all images in path
     conn = get_es_conn(es_url, index, alias)
-    refList = get_refList(dump_dir)
+    refList = []
+    #refList = get_refList(dump_dir)
     file_path = "%s/platform/"%(dump_dir)
+    print file_path
     for (root,dirs,files) in os.walk(file_path):
         for f in files:
+            f = "%s%s"%(file_path, f)
             with open(f) as item:
                 jsonFile = json.load(item)
                 prov = get_doc_prov(jsonFile, gcis_url, refList)

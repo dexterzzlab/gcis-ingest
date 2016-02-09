@@ -15,16 +15,60 @@ requests_cache.install_cache('gcis-import')
 def get_doc_prov(j, gcis_url, refList):
     """Generate PROV-ES JSON from GCIS doc metadata."""
     doc = ProvEsDocument()
+
+    model = requests.get(j['href']).json()
+    modelID = 'bibo:%s'%j['identifier']
+
     
     doc_attrs = [
         ("prov:type", 'gcis:model'),
         ("prov:label", j['name']),
-        ("prov:location", j['uri']),
+        ("prov:location", "%s%s"%(gcis_url,j['uri'])),
         ("gcis:project_identifier", j['project_identifier']),
         #("prov:wasAttributedTo", contributors),
         ]
 
     doc.entity('bibo:%s' % j['identifier'], doc_attrs)
+
+    #contributors
+    if 'contributors' in model:
+        for contributor in model['contributors']:
+            if contributor['person_uri'] is not None:
+                #print article
+                #print contributor['person']
+
+                name  = " ".join([contributor['person'][i] 
+                    for i in ('first_name', 'middle_name', 'last_name')
+                    if contributor['person'].get(i, None) is not None])
+                #print contributor['person_id']
+                personAttrs = [
+                        ("prov:type", 'gcis:Person'),
+                        ("prov:label", "%s"%name),# %s"%(contributor['person']['first_name'],contributor['person']['last_name'])),
+                        ("prov:location", "%s%s"%(gcis_url,contributor['person_uri'])),
+                        ("gcis:id", str(contributor['person_id'])),
+                        ("gcis:orcid", contributor['person']['orcid'])
+                        ]
+                personID = 'bibo:%s'%contributor['person_id']
+                doc.entity(personID, personAttrs)
+
+                doc.wasAssociatedWith(modelID, personID, None, None,{"prov:role": contributor['role_type_identifier']} )
+            if contributor['organization'] is not None:
+                #make org
+                org_attrs = [
+                        ("prov:type", "gcis:organization"),
+                        ("prov:label", contributor["organization"]["name"]),
+                        ("prov:location", "%s%s"%(gcis_url, contributor["organization_uri"])),
+                        ("gcis:organization_type_identifier", contributor["organization"]["organization_type_identifier"]),
+                        ("gcis:country_code", contributor["organization"]["country_code"]),
+                        ]
+                orgID = 'bibo:%s'%contributor['organization']['identifier']
+                doc.entity(orgID, org_attrs)
+                doc.governingOrganization(orgID, contributor['organization']['name'])
+
+   
+
+    #aliases
+
     prov_json = json.loads(doc.serialize())
 
     return prov_json

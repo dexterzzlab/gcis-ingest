@@ -15,18 +15,19 @@ requests_cache.install_cache('gcis-import')
 def get_doc_prov(j, gcis_url, refList):
     """Generate PROV-ES JSON from GCIS doc metadata."""
     doc = ProvEsDocument()
-    
-    doc_attrs = [
-        ("prov:type", 'gcis:Person'),
-        ("prov:label", j['first_name']),
-        ("prov:label", j['last_name']),
-        ("prov:location", j['uri']),
+    name  = " ".join(j[i] 
+        for i in ('first_name', 'middle_name', 'last_name')
+        if j.get(i, None) is not None)
+ 
+    doc_attrs =[("prov:type", 'gcis:Person'),
+        ("prov:label", name),#j['first_name']),
+        ("prov:location", "%s%s"%(gcis_url,j['uri'])),
         ("gcis:id", j['id']),
         ("gcis:orcid", j["orcid"]),
         #("prov:wasAttributedTo, contributors),
         ]
 
-    doc.entity('bibo:%s' % j['id'], doc_attrs)
+    doc.agent('bibo:%s' % j['id'], doc_attrs)
     prov_json = json.loads(doc.serialize())
 
     return prov_json

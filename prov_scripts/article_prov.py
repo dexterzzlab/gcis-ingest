@@ -66,17 +66,16 @@ def get_doc_prov(j, gcis_url, refList, journalList, organizationList, personList
     if journalID is not None:
         doc.hadMember(journalID, articleID)
 
+    agent_ids = {}
+    org_ids = {}
     #contributors
     if 'contributors' in article:
         for contributor in article['contributors']:
+            personID = None 
             if contributor['person_uri'] is not None:
-                #print article
-                #print contributor['person']
-
                 name  = " ".join([contributor['person'][i] 
                                 for i in ('first_name', 'middle_name', 'last_name')
                                 if contributor['person'].get(i, None) is not None])
-                #print contributor['person_id']
                 personAttrs = [
                         ("prov:type", 'gcis:Person'),
                         ("prov:label", "%s"%name),# %s"%(contributor['person']['first_name'],contributor['person']['last_name'])),
@@ -85,9 +84,8 @@ def get_doc_prov(j, gcis_url, refList, journalList, organizationList, personList
                         ("gcis:orcid", contributor['person']['orcid'])
                         ]
                 personID = 'bibo:%s'%contributor['person_id']
-                doc.entity(personID, personAttrs)
-                
-                doc.wasAssociatedWith(articleID, personID, None, None,{"prov:role": "author"} )
+                agent_ids[personID] = []
+                doc.agent(personID, personAttrs) 
             if contributor['organization'] is not None:
                 #make org
                 org_attrs = [
@@ -98,8 +96,33 @@ def get_doc_prov(j, gcis_url, refList, journalList, organizationList, personList
                     ("gcis:country_code", contributor["organization"]["country_code"]),
                 ]
                 orgID = 'bibo:%s'%contributor['organization']['identifier']
-                doc.entity(orgID, org_attrs)
+                #doc.entity(orgID, org_attrs)
                 doc.governingOrganization(orgID, contributor['organization']['name'])
+                org_ids[orgID] = True
+                if personID in agent_ids:
+                    agent_ids[personID].append(orgID)
+
+    #create actvity
+    if isinstance(j['year'], int):
+        start_time = str(j['year'])
+        end_time = str(j['year'])
+    else:
+        start_time = None
+        end_time = None
+    act_id = GCIS["generate-%s"%j['identifier'].replace('/', '-')]
+    attrs = []
+    for agent_id in agent_ids:
+        waw_id = GCIS["%s"%get_uuid("%s:%s"%(act_id, agent_id))]
+        doc.wasAssociatedWith(act_id, agent_id, None, waw_id, {'prov:role':GCIS['Author']})
+        for org_id in agent_ids[agent_id]:
+            del_id = GCIS["%s"%get_uuid("%s:%s:%s"%(agent_id, org_id, act_id))]
+            doc.delegation(agent_id, org_id, act_id, del_id, {'prov:type':'gcis:worksAt'})
+    for org_id in org_ids:
+        waw_id = GCIS["%s"%get_uuid("%s:%s"%(act_id, org_id))]
+        doc.wasAssociatedWith(act_id, org_id, None, waw_id, {'prov:role':GCIS['Contributor']})
+    act = doc.activity(act_id, start_time, end_time, attrs)
+    doc.wasGeneratedBy(articleID, act, end_time, GCIS["%s"%get_uuid("%s:%s"%(articleID, act_id))])
+
 
     #cited by?
     if 'cited_by' in article:
@@ -113,12 +136,7 @@ def get_doc_prov(j, gcis_url, refList, journalList, organizationList, personList
                     item = next(obj for obj in itemList if obj['uri'] == citation['publication'])
                     item_id = 'bibo:%s'%item['identifier']
                     doc.wasDerivedFrom(item_id, articleID)
-                #print pub_uri
-                #publication = requests.get(pub_uri).json()
-                #pub_id = 'bibo:%s'%publication['identifier']
-                #doc.wasDerivedFrom(pub_id, articleID)
-    #activity?
-
+                    print articleID
     prov_json = json.loads(doc.serialize())
 
     return prov_json

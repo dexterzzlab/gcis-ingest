@@ -18,7 +18,7 @@ def get_doc_prov(j, gcis_url, refList):
     doc_attrs = [
         ("prov:type", 'gcis:Instrument'),
         ("prov:label", j['name']),
-        ("prov:location", j['uri']),
+        ("prov:location", "%s%s"%(gcis_url,j['uri'])),
         #("prov:wasAttributedTo", ... look up contributors)
         #("prov:wasDerivedFrom", ... look up platforms)
         ]

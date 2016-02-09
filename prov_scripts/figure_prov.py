@@ -12,21 +12,28 @@ from prov_es.model import (get_uuid, ProvEsDocument, GCIS, PROV, PROV_TYPE,
 
 requests_cache.install_cache('gcis-import')
 
-def get_doc_prov(j, gcis_url, refList):
+def get_doc_prov(j, gcis_url, refList, reportList):
     """Generate PROV-ES JSON from GCIS doc metadata."""
     gcis_ns = "http://data.globalchange.gov/gcis.owl#"
     doc = ProvEsDocument()    
+
+    figure = requests.get(j['href']).json()
+    figureID = 'bibo:%s' % j['identifier']
     doc_attrs = [
         ("prov:type", 'gcis:Figure'),
         ("prov:label", j['title']),
-        ("prov:location", j['uri']),
-        #("prov:wasDerivedFrom", ... look up)
-        #("prov:wasDerivedFrom", ... look up)
-        #("prov:wasDerivedFrom", ... look up)
-        #("prov:wasDerivedFrom", ... look up)
-        #("prov:wasDerivedFrom", ... look up)
+        ("prov:location", "%s%s"%(gcis_url, j['uri'])),
         ]
     doc.entity('bibo:%s' % j['identifier'], doc_attrs)
+
+
+    #create connection
+    reportID = 'bibo:%s'%figure['report_identifier']
+    chapterID = 'bibo:%s'%figure['chapter_identifier']
+    doc.hadMember(reportID, chapterID)
+    doc.used(reportID, figureID)
+
+
     prov_json = json.loads(doc.serialize())
 
     return prov_json
@@ -35,14 +42,31 @@ def index_gcis(gcis_url, es_url, index, alias, dump_dir):
     """Index GCIS into PROV-ES ElasticSearch index."""
     conn = get_es_conn(es_url, index, alias)
     refList = get_refList(dump_dir)
+    reportList = get_itemList(dump_dir, "report")
+
     figure_path = "%s/figure/"%(dump_dir)
     for (root,dirs,files) in os.walk(figure_path):
         for f in files:
             f = "%s%s"%(figure_path, f)
             with open(f) as item:
                 figure = json.load(item)
-                prov = get_doc_prov(figure, gcis_url, refList)
+                prov = get_doc_prov(figure, gcis_url, refList, reportList)
                 import_prov(conn, index, alias, prov)
+
+
+def get_itemList(dump_dir, listType):
+    itemList =[]
+    listPath = "%s%s"%(dump_dir, listType)
+    for (root, dirs, files) in os.walk(listPath):
+        for f in files:
+            f= "%s/%s"%(listPath, f)
+            with open(f) as item:
+                itemJson = json.load(item)
+                itemList.append(itemJson)
+    return itemList
+
+
+
 
 def get_refList(dump_dir):
     refList = []

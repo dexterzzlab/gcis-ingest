@@ -16,15 +16,62 @@ def get_doc_prov(j, gcis_url, refList):
     """Generate PROV-ES JSON from GCIS doc metadata."""
     doc = ProvEsDocument()
     
+    report = requests.get(j['href']).json()
+    reportID = 'bibo:%s'%report['identifier']
+
+
     doc_attrs = [
         ("prov:type", 'gcis:Report'),
         ("prov:label", j['title']),
         ("prov:location", j['uri']),
-        #("prov:wasDerivedFrom", files)
-        #("PROV:wasDerivedFrom", parents)
-        #("prov:wasAttributedTo, contributors),
         ]
     doc.entity('bibo:%s' % j['identifier'], doc_attrs)
+
+     #contributors
+    if 'contributors' in report:
+        for contributor in report['contributors']:
+            if contributor['person_uri'] is not None:
+                name  = " ".join([contributor['person'][i] 
+                    for i in ('first_name', 'middle_name', 'last_name')
+                    if contributor['person'].get(i, None) is not None])
+                #print contributor['person_id']
+                personAttrs = [
+                        ("prov:type", 'gcis:Person'),
+                        ("prov:label", "%s"%name),# %s"%(contributor['person']['first_name'],contributor['person']['last_name'])),
+                        ("prov:location", "%s%s"%(gcis_url,contributor['person_uri'])),
+                        ("gcis:id", str(contributor['person_id'])),
+                        ("gcis:orcid", contributor['person']['orcid'])
+                        ]
+                personID = 'bibo:%s'%contributor['person_id']
+                doc.entity(personID, personAttrs)
+
+                doc.wasAssociatedWith(reportID, personID)#, None, None,{"prov:role": contributor['role_type_identifier']} )
+            if contributor['organization'] is not None:
+                #make org
+                org_attrs = [
+                        ("prov:type", "gcis:organization"),
+                        ("prov:label", contributor["organization"]["name"]),
+                        ("prov:location", "%s%s"%(gcis_url, contributor["organization_uri"])),
+                        ("gcis:organization_type_identifier", contributor["organization"]["organization_type_identifier"]),
+                        ("gcis:country_code", contributor["organization"]["country_code"]),
+                        ]
+                orgID = 'bibo:%s'%contributor['organization']['identifier']
+                doc.entity(orgID, org_attrs)
+                doc.governingOrganization(orgID, contributor['organization']['name'])
+
+    #cited by?
+    if 'cited_by' in report:
+        for citation in report['cited_by']:
+            if 'publication' in citation:
+                #pub_uri = "%s%s"%(gcis_url, citation['publication'])
+                itemType = citation['publication'].split("/")[1]
+
+                itemList = get_itemList(dump_dir, itemType)
+                if any(item['uri'] == citation['publication'] for item in itemList):
+                    item = next(obj for obj in itemList if obj['uri'] == citation['publication'])
+                    item_id = 'bibo:%s'%item['identifier']
+                    doc.wasDerivedFrom(item_id, reportID)
+    
 
     prov_json = json.loads(doc.serialize())
 

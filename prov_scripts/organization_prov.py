@@ -12,21 +12,45 @@ from prov_es.model import (get_uuid, ProvEsDocument, GCIS, PROV, PROV_TYPE,
 
 requests_cache.install_cache('gcis-import')
 
-def get_doc_prov(j, gcis_url, refList):
+def get_doc_prov(j, gcis_url, refList, orgList):
     """Generate PROV-ES JSON from GCIS doc metadata."""
     doc = ProvEsDocument()
+    
+    org = requests.get(j['href']).json()
     
     doc_attrs = [
         ("prov:type", 'gcis:organization'),
         ("prov:label", j['name']),
-        ("prov:location", j['uri']),
+        ("prov:location", "%s%s"%(gcis_url, j['uri'])),
         ("gcis:organization_type_identifier", j['organization_type_identifier']),
         ("gcis:country_code", j['country_code']),
-        #("prov:wasDerviedFrom, parents),
-        #("children derived from this")
         ]
+    orgID = 'bibo:%s' % j['identifier']
+    doc.agent(orgID, doc_attrs)
 
-    doc.entity('bibo:%s' % j['identifier'], doc_attrs)
+    for child in org['children']:
+        cOrgURI = child['organization']
+        rel = child['relationship']
+
+        cOrg = next(o for o in orgList if o['uri'] == cOrgURI)
+        cOrgID = 'bibo:%s'%cOrg['identifier']
+
+        #cOrgAttrs = [
+        #        ("prov:type", 'gcis:organization'),
+        #        ("prov:label", cOrg['name']),
+        #        ("prov:location", cOrg['uri']),
+        #        ("gcis:organization_type_identifier", cOrg['organization_type_identifier']),
+        #        ("gcis:country_code", cOrg['country_code']),
+        #        ]
+        #doc.entity(cOrgID, cOrgAttrs)
+        #doc.hadMember(orgID, cOrgID)
+    #for parent in org['parents']:
+    #    pOrgURI = parent['organization']
+    #    rel = parent['relationship']
+    #    pOrg = next(o for o in orgList if o['uri'] == pOrgURI)
+    #    pOrgID = 'bibo:%s'%pOrg['identifier']
+    #    doc.hadMember(pOrgID, orgID)
+
     prov_json = json.loads(doc.serialize())
 
     return prov_json
@@ -36,13 +60,29 @@ def index_gcis(gcis_url, es_url, index, alias, dump_dir):
     conn = get_es_conn(es_url, index, alias)
     refList = get_refList(dump_dir)
     file_path = "%s/organization/"%(dump_dir)
+    orgList = get_itemList(dump_dir, "organization")
+
     for (root,dirs,files) in os.walk(file_path):
         for f in files:
             f = "%s%s"%(file_path, f)
             with open(f) as item:
                 jsonFile = json.load(item)
-                prov = get_doc_prov(jsonFile, gcis_url, refList)
+                prov = get_doc_prov(jsonFile, gcis_url, refList, orgList)
                 import_prov(conn, index, alias, prov)
+
+def get_itemList(dump_dir, listType):
+    itemList = []
+    listPath = "%s%s"%(dump_dir, listType)
+    #print listPath
+    for(root,dirs,files) in os.walk(listPath):
+        for f in files:
+            f = "%s/%s"%(listPath, f)
+            with open(f) as item:
+                itemJson = json.load(item)
+                itemList.append(itemJson)
+    return itemList
+
+
 
 def get_refList(dump_dir):
     refList = []
