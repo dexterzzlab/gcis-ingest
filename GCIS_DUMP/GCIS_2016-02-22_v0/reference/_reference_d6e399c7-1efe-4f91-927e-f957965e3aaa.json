@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Bell, M.L.\rGoldberg, R.\rHogrefe, C.\rKinney, P.L.\rKnowlton, K.\rLynn, B.\rRosenthal, J.\rRosenzweig, C.\rPatz, J.A.",
+        "DOI": "10.1007/s10584-006-9166-7",
+        "ISSN": "0165-0009",
+        "Issue": "1-2",
+        "Journal": "Climatic Change",
+        "Pages": "61-76",
+        "Title": "Climate change, ambient ozone, and health in 50 US cities",
+        "Volume": "82",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "333",
+        "_uuid": "d6e399c7-1efe-4f91-927e-f957965e3aaa",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-006-9166-7",
+    "href": "http://data.globalchange.gov/reference/d6e399c7-1efe-4f91-927e-f957965e3aaa.json",
+    "identifier": "d6e399c7-1efe-4f91-927e-f957965e3aaa",
+    "uri": "/reference/d6e399c7-1efe-4f91-927e-f957965e3aaa"
+}

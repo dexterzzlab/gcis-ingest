@@ -1,0 +1,61 @@
+{
+    "attributes": "Humidity, observed, global",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-08-20T08:40:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "This figure summarizes some of the many datasets documenting changes in the Earth\u2019s climate, all of which are consistent with a warming planet. In all figures except the lower two in the right column, data are plotted relative to averages over the period 1960-1999 (Figure source: updated from Kennedy et al. 20102).",
+            "chapter_identifier": "appendix-faqs",
+            "create_dt": "2013-08-20T08:40:00",
+            "identifier": "caq-indicators-of-warming-from-multiple-data-sets",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 3,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Indicators of Warming from Multiple Data Sets",
+            "url": "http://nca2014.globalchange.gov/report/appendices/faqs/graphics/indicators-warming-multiple-data-sets",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "8a/85/489bb01f01bec6ac4806db6dbf07/faq-3_specific-humidity.png",
+            "href": "http://data.globalchange.gov/assets/8a/85/489bb01f01bec6ac4806db6dbf07/faq-3_specific-humidity.png",
+            "identifier": "1d0e7555-7d71-4f99-ba8e-1f541ad20384",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "3ab2c483821b46099496fbe944034af68be23bec",
+            "size": 44038,
+            "thumbnail": "8a/85/489bb01f01bec6ac4806db6dbf07/.thumb-1d0e7555-7d71-4f99-ba8e-1f541ad20384.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/8a/85/489bb01f01bec6ac4806db6dbf07/.thumb-1d0e7555-7d71-4f99-ba8e-1f541ad20384.png",
+            "uri": "/file/1d0e7555-7d71-4f99-ba8e-1f541ad20384",
+            "url": "/assets/8a/85/489bb01f01bec6ac4806db6dbf07/faq-3_specific-humidity.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/27d0e6f6-a836-4706-9b1a-cad504335a12.json",
+    "identifier": "27d0e6f6-a836-4706-9b1a-cad504335a12",
+    "lat_max": "90.00",
+    "lat_min": "-90.00",
+    "lon_max": "180.00",
+    "lon_min": "-180.00",
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2012-12-31T23:59:59",
+    "time_start": "1973-01-01T00:00:00",
+    "title": "Indicators of Warming from Multiple Data Sets - Specific Humidity",
+    "uri": "/image/27d0e6f6-a836-4706-9b1a-cad504335a12",
+    "url": null,
+    "usage_limits": null
+}

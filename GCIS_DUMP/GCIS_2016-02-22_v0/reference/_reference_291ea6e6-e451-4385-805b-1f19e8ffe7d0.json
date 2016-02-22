@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Alternate Journal": "Ecol Lett",
+        "Author": "Overholt, E. P.\rHall, S. R.\rWilliamson, C. E.\rMeikle, C. K.\rDuffy, M. A.\rCaceres, C. E.",
+        "Author Address": "Overholt, EP; Miami Univ, Dept Zool, 134 Pearson Hall, Oxford, OH 45056 USA; Miami Univ, Dept Zool, 134 Pearson Hall, Oxford, OH 45056 USA; Miami Univ, Dept Zool, Oxford, OH 45056 USA; Indiana Univ, Dept Biol, Bloomington, IN 47405 USA; Georgia Inst Technol, Sch Biol, Atlanta, GA 30332 USA; Univ Illinois, Sch Integrat Biol, Urbana, IL 61801 USA",
+        "DOI": "10.1111/J.1461-0248.2011.01707.X",
+        "Date": "Jan",
+        "ISSN": "1461-023X",
+        "Issue": "1",
+        "Journal": "Ecology Letters",
+        "Keywords": "daphnia-metschnikowia; epidemic size; host-parasite; solar radiation; ultraviolet; dissolved organic-carbon; ultraviolet-radiation; uv-radiation; cryptosporidium-parvum; vertical migration; zooplankton; disease; predation; lakes; water",
+        "Label": "IN",
+        "Language": "English",
+        "Pages": "47-54",
+        "Title": "Solar radiation decreases parasitism in Daphnia",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2011.01707.x/pdf",
+        "Volume": "15",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "2390",
+        "_uuid": "291ea6e6-e451-4385-805b-1f19e8ffe7d0",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/J.1461-0248.2011.01707.X",
+    "href": "http://data.globalchange.gov/reference/291ea6e6-e451-4385-805b-1f19e8ffe7d0.json",
+    "identifier": "291ea6e6-e451-4385-805b-1f19e8ffe7d0",
+    "uri": "/reference/291ea6e6-e451-4385-805b-1f19e8ffe7d0"
+}

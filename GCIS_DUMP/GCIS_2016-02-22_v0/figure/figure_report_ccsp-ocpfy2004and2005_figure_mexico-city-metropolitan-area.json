@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Aerial photo taken during Mexico City Metropolitan Area (MCMA) 2003 Field Measurement Campaign. Credit: MCMA 2003 Field Measurement Campaign",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "bb/3d/1c25873ed6809c4d856105804545/our_changing_planet_2004-2005_25_20090708_1675961817.jpg",
+            "href": "http://data.globalchange.gov/assets/bb/3d/1c25873ed6809c4d856105804545/our_changing_planet_2004-2005_25_20090708_1675961817.jpg",
+            "identifier": "ccd545bb-5601-4db6-bd8b-53e036bc32c7",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "f1be2ba318a50027f3b4b8b8711247ff92330117",
+            "size": 95676,
+            "thumbnail": "bb/3d/1c25873ed6809c4d856105804545/.thumb-ccd545bb-5601-4db6-bd8b-53e036bc32c7.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/bb/3d/1c25873ed6809c4d856105804545/.thumb-ccd545bb-5601-4db6-bd8b-53e036bc32c7.png",
+            "uri": "/file/ccd545bb-5601-4db6-bd8b-53e036bc32c7",
+            "url": "/assets/bb/3d/1c25873ed6809c4d856105804545/our_changing_planet_2004-2005_25_20090708_1675961817.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2004and2005/figure/mexico-city-metropolitan-area.json",
+    "identifier": "mexico-city-metropolitan-area",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2004and2005",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Mexico City Metropolitan Area",
+    "uri": "/report/ccsp-ocpfy2004and2005/figure/mexico-city-metropolitan-area",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

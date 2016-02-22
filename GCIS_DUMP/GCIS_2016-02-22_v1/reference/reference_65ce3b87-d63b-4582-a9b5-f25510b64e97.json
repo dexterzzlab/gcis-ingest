@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "NRC,",
+        "ISBN": "978-0-309-14591-6",
+        "Number of Pages": "292",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "National Research Council. The National Academies Press",
+        "Reviewer": "65ce3b87-d63b-4582-a9b5-f25510b64e97",
+        "Title": "Adapting to Impacts of Climate Change. America\u2019s Climate Choices: Report of the Panel on Adapting to the Impacts of Climate Change",
+        "URL": "http://www.nap.edu/catalog.php?record_id=12783",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Ch. 16: Northeast FINAL\",\"Ch. 26: Decision Support FINAL\",\"Ch. 29: Research Needs FINAL\",\"Ch. 11: Urban Systems FINAL\",\"Ch. 28: Adaptation FINAL\",\"Ch. 27: Mitigation FINAL\",\"RF 6\",\"RF 12\",\"Ch. 30: NCA Long-Term Process FINAL\"]",
+        "_record_number": "2299",
+        "_uuid": "65ce3b87-d63b-4582-a9b5-f25510b64e97",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/nrc-adaptingtoimpactsofclimatechange-2010",
+    "href": "http://data.globalchange.gov/reference/65ce3b87-d63b-4582-a9b5-f25510b64e97.json",
+    "identifier": "65ce3b87-d63b-4582-a9b5-f25510b64e97",
+    "uri": "/reference/65ce3b87-d63b-4582-a9b5-f25510b64e97"
+}

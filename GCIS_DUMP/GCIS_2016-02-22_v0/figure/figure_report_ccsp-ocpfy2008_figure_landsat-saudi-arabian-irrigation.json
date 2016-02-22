@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Landsat images, from 1986 and 2004, reveal the effects of center-pivot irrigation in a desert region in Saudi Arabia known as Wadi As-Sirhan. In the satellite images, these irrigated fields appear as green dots. This region was once so barren that it could barely support the towns Al\u2019Isawiyah and Tubarjal shown in the upper left of each image. Following the introduction of center-pivot irrigation, the barren desert was gradually transformed into a greener, food-producing landscape. The irrigation system draws water from an ancient underground aquifer. Credit: USGS / EROS Data Center.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "b7/ca/610b1b886e29d8b4211ae162904c/our_changing_planet_2008_75_20090708_2004930952.jpg",
+            "href": "http://data.globalchange.gov/assets/b7/ca/610b1b886e29d8b4211ae162904c/our_changing_planet_2008_75_20090708_2004930952.jpg",
+            "identifier": "c50bd86b-b12a-400c-bbe4-b5f79e1f7ca1",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "8ac74997581d4227426b1117e23069b70d1761d0",
+            "size": 37573,
+            "thumbnail": "b7/ca/610b1b886e29d8b4211ae162904c/.thumb-c50bd86b-b12a-400c-bbe4-b5f79e1f7ca1.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/b7/ca/610b1b886e29d8b4211ae162904c/.thumb-c50bd86b-b12a-400c-bbe4-b5f79e1f7ca1.png",
+            "uri": "/file/c50bd86b-b12a-400c-bbe4-b5f79e1f7ca1",
+            "url": "/assets/b7/ca/610b1b886e29d8b4211ae162904c/our_changing_planet_2008_75_20090708_2004930952.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2008/figure/landsat-saudi-arabian-irrigation.json",
+    "identifier": "landsat-saudi-arabian-irrigation",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2008",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Landsat and Saudi Arabian Irrigation",
+    "uri": "/report/ccsp-ocpfy2008/figure/landsat-saudi-arabian-irrigation",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

@@ -1,0 +1,61 @@
+{
+    "attributes": "Glaciers, observed, global",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-08-20T08:40:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "This figure summarizes some of the many datasets documenting changes in the Earth\u2019s climate, all of which are consistent with a warming planet. In all figures except the lower two in the right column, data are plotted relative to averages over the period 1960-1999 (Figure source: updated from Kennedy et al. 20102).",
+            "chapter_identifier": "appendix-faqs",
+            "create_dt": "2013-08-20T08:40:00",
+            "identifier": "caq-indicators-of-warming-from-multiple-data-sets",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 3,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Indicators of Warming from Multiple Data Sets",
+            "url": "http://nca2014.globalchange.gov/report/appendices/faqs/graphics/indicators-warming-multiple-data-sets",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "bd/21/5bfff8fc2b24488df1d3b32793bc/faq-3_glacier.png",
+            "href": "http://data.globalchange.gov/assets/bd/21/5bfff8fc2b24488df1d3b32793bc/faq-3_glacier.png",
+            "identifier": "075ce562-998b-4bb5-ba4e-fa85d699381e",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "b19a4745f97546a77a38dd8e6c3f424ddf4b926c",
+            "size": 36896,
+            "thumbnail": "bd/21/5bfff8fc2b24488df1d3b32793bc/.thumb-075ce562-998b-4bb5-ba4e-fa85d699381e.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/bd/21/5bfff8fc2b24488df1d3b32793bc/.thumb-075ce562-998b-4bb5-ba4e-fa85d699381e.png",
+            "uri": "/file/075ce562-998b-4bb5-ba4e-fa85d699381e",
+            "url": "/assets/bd/21/5bfff8fc2b24488df1d3b32793bc/faq-3_glacier.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/6fcf7b5b-de07-4279-a612-c39d956efb1f.json",
+    "identifier": "6fcf7b5b-de07-4279-a612-c39d956efb1f",
+    "lat_max": "90.00",
+    "lat_min": "-90.00",
+    "lon_max": "180.00",
+    "lon_min": "-180.00",
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2010-12-31T23:59:59",
+    "time_start": "1940-01-01T00:00:00",
+    "title": "Indicators of Warming from Multiple Data Sets - Glacier Mass Balance",
+    "uri": "/image/6fcf7b5b-de07-4279-a612-c39d956efb1f",
+    "url": null,
+    "usage_limits": null
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Link, J.S.\rYermane, D.\rShannon, L.J.\rColl, M.\rShin, Y.J.\rHill, L.\rBorges, M.D.",
+        "DOI": "10.1093/icesjms/fsp258",
+        "Issue": "4",
+        "Journal": "ICES Journal of Marine Science",
+        "Pages": "787-795",
+        "Title": "Relating marine ecosystem indicators to fishing and environmental drivers: An elucidation of contrasting responses",
+        "Volume": "67",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "1421",
+        "_uuid": "0df56e90-98b7-491c-acc5-1479649a475b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1093/icesjms/fsp258",
+    "href": "http://data.globalchange.gov/reference/0df56e90-98b7-491c-acc5-1479649a475b.json",
+    "identifier": "0df56e90-98b7-491c-acc5-1479649a475b",
+    "uri": "/reference/0df56e90-98b7-491c-acc5-1479649a475b"
+}

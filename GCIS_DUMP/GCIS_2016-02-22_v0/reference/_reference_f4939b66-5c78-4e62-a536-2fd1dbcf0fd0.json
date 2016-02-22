@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Abbasi, S. A.\rAbbasi, Naseema",
+        "DOI": "10.1016/S0306-2619(99)00077-X",
+        "Date": "April 2000",
+        "ISSN": "0306-2619",
+        "Issue": "1\u20134",
+        "Journal": "Applied Energy",
+        "Pages": "121-144",
+        "Title": "The likely adverse environmental impacts of renewable energy sources",
+        "Volume": "65",
+        "Year": "2000",
+        "_chapter": "[\"Ch. 14: Rural Communities FINAL\"]",
+        "_record_number": "4604",
+        "_uuid": "f4939b66-5c78-4e62-a536-2fd1dbcf0fd0",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/S0306-2619(99)00077-X",
+    "href": "http://data.globalchange.gov/reference/f4939b66-5c78-4e62-a536-2fd1dbcf0fd0.json",
+    "identifier": "f4939b66-5c78-4e62-a536-2fd1dbcf0fd0",
+    "uri": "/reference/f4939b66-5c78-4e62-a536-2fd1dbcf0fd0"
+}

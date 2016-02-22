@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Zimmerman, R.\rFaris, C.",
+        "DOI": "10.1016/j.cosust.2010.12.004",
+        "ISSN": "1877-3435",
+        "Issue": "3",
+        "Journal": "Current Opinion in Environmental Sustainability",
+        "Pages": "181-187",
+        "Title": "Climate change mitigation and adaptation in North American cities",
+        "Volume": "3",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 11: Urban Systems FINAL\"]",
+        "_record_number": "3547",
+        "_uuid": "fab96b98-58f0-43b2-a81c-e481b25f8e59",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.cosust.2010.12.004",
+    "href": "http://data.globalchange.gov/reference/fab96b98-58f0-43b2-a81c-e481b25f8e59.json",
+    "identifier": "fab96b98-58f0-43b2-a81c-e481b25f8e59",
+    "uri": "/reference/fab96b98-58f0-43b2-a81c-e481b25f8e59"
+}

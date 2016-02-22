@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Reclamation,",
+        "Institution": "U.S Department of the Interior, Bureau of Reclamation",
+        "Pages": "95",
+        "Place Published": "Denver, CO",
+        "Title": "Colorado River Basin Water Supply and Demand Study. Study report. December 2012. Prepared by the Colorado River Basin Water Supply and Demand Study Team",
+        "URL": "http://www.usbr.gov/lc/region/programs/crbstudy/finalreport/studyrpt.html",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "4010",
+        "_uuid": "669a3f7e-98e8-481a-b920-eded58bdb962",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usbr-crbwsds-2012",
+    "href": "http://data.globalchange.gov/reference/669a3f7e-98e8-481a-b920-eded58bdb962.json",
+    "identifier": "669a3f7e-98e8-481a-b920-eded58bdb962",
+    "uri": "/reference/669a3f7e-98e8-481a-b920-eded58bdb962"
+}

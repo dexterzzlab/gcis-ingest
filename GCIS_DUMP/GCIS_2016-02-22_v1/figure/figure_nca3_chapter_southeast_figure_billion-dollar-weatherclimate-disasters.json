@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "This map summarizes the number of times each state has been affected by weather and climate events over the past 30 years that have resulted in more than a billion dollars in damages. The Southeast has been affected by more billion-dollar disasters than any other region. The primary disaster type for coastal states such as Florida is hurricanes, while interior and northern states in the region also experience sizeable numbers of tornadoes and winter storms. For a list of events and the affected states, see: http://www.ncdc.noaa.gov/billions/events.<tbib>f1b38f7f-f75c-4d2f-83a9-d27269e17e5e</tbib> (Figure source: NOAA NCDC).",
+    "chapter": {
+        "doi": "10.7930/J0NP22CB",
+        "identifier": "southeast",
+        "number": 17,
+        "report_identifier": "nca3",
+        "sort_key": 170,
+        "title": "Southeast and the Caribbean",
+        "url": "http://nca2014.globalchange.gov/report/regions/southeast"
+    },
+    "chapter_identifier": "southeast",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-04-03T16:04:00",
+    "files": [
+        {
+            "file": "8b/75/656605b3d23e215e5742c6ac755f/SE_billion_dollar_disasters_12972_V6.png",
+            "href": "http://data.globalchange.gov/assets/8b/75/656605b3d23e215e5742c6ac755f/SE_billion_dollar_disasters_12972_V6.png",
+            "identifier": "8fb9edf6-4f42-46e6-af1a-54e8114c61d5",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "be1eefe2580994dfe78829beb6eda44b79dd0aae",
+            "size": 103717,
+            "thumbnail": "8b/75/656605b3d23e215e5742c6ac755f/.thumb-8fb9edf6-4f42-46e6-af1a-54e8114c61d5.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/8b/75/656605b3d23e215e5742c6ac755f/.thumb-8fb9edf6-4f42-46e6-af1a-54e8114c61d5.png",
+            "uri": "/file/8fb9edf6-4f42-46e6-af1a-54e8114c61d5",
+            "url": "/assets/8b/75/656605b3d23e215e5742c6ac755f/SE_billion_dollar_disasters_12972_V6.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/southeast/figure/billion-dollar-weatherclimate-disasters.json",
+    "identifier": "billion-dollar-weatherclimate-disasters",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2014-04-03T16:04:00",
+            "description": null,
+            "identifier": "0e39bf09-7146-4639-a79e-2b73b34562c7",
+            "lat_max": "49.38",
+            "lat_min": "24.50",
+            "lon_max": "-66.95",
+            "lon_min": "-124.80",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2012-12-31T23:59:59",
+            "time_start": "1980-01-01T00:00:00",
+            "title": "Billion Dollar Weather/Climate Disasters 1980-2012",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 1,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "webpage Billion Dollar Weather/Climate Disasters, List of Events",
+            "note": null,
+            "publication_type_identifier": "webpage",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/webpage/d70d7a59-45d7-4b38-baf2-86a7fcf12da3"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/f1b38f7f-f75c-4d2f-83a9-d27269e17e5e.json",
+            "uri": "/reference/f1b38f7f-f75c-4d2f-83a9-d27269e17e5e"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "NOAA NCDC",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Billion Dollar Weather/Climate Disasters",
+    "uri": "/report/nca3/chapter/southeast/figure/billion-dollar-weatherclimate-disasters",
+    "url": "http://nca2014.globalchange.gov/highlights/regions/southeast/graphics/billion-dollar-weatherclimate-disasters-1980-2012",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

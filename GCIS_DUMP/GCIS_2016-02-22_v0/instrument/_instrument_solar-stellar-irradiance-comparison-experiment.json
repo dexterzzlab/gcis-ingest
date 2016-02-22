@@ -1,0 +1,8 @@
+{
+    "description": "Solar irradiance monitor",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/solar-stellar-irradiance-comparison-experiment.json",
+    "identifier": "solar-stellar-irradiance-comparison-experiment",
+    "name": "SOLar STellar Irradiance Comparison Experiment",
+    "uri": "/instrument/solar-stellar-irradiance-comparison-experiment"
+}

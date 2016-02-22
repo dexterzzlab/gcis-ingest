@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Nye, J.A.\rLink, J.S.\rHare, J.A.\rOverholtz, W.J.",
+        "DOI": "10.3354/meps08220",
+        "Date": "October 30, 2009",
+        "ISSN": "0171-8630",
+        "Journal": "Marine Ecology Progress Series",
+        "Pages": "111-129",
+        "Title": "Changing spatial distribution of fish stocks in relation to climate and population size on the Northeast United States continental shelf",
+        "Volume": "393",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"Ch. 24: Oceans FINAL\",\"RF 10\",\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "2330",
+        "_uuid": "8b09bbe8-9f42-412e-a4d6-ef4889f56556",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.3354/meps08220",
+    "href": "http://data.globalchange.gov/reference/8b09bbe8-9f42-412e-a4d6-ef4889f56556.json",
+    "identifier": "8b09bbe8-9f42-412e-a4d6-ef4889f56556",
+    "uri": "/reference/8b09bbe8-9f42-412e-a4d6-ef4889f56556"
+}

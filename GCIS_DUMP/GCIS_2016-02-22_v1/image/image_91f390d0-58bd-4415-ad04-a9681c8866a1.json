@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-08-29T08:45:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "This map illustrates the national scope of the dispersion of displaced people from Hurricane Katrina. It shows the location by zip code of the 800,000 displaced Louisiana residents who requested federal emergency assistance. The evacuees ended up dispersed across the entire nation, illustrating the wide-ranging impacts that can flow from extreme weather events, such as those that are projected to increase in frequency and/or intensity as climate continues to change (Ch. 2: Our Changing Climate, Key Message 8). (Figure source: Kent 2006<tbib>1bdadd8e-39d1-4ab5-94e6-4cba8b9f63f5</tbib>).",
+            "chapter_identifier": "human-health",
+            "create_dt": "2013-08-29T08:45:00",
+            "identifier": "katrina-diaspora",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 10,
+            "report_identifier": "nca3",
+            "source_citation": "Kent 2006<tbib>1bdadd8e-39d1-4ab5-94e6-4cba8b9f63f5</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Katrina Diaspora",
+            "url": "http://nca2014.globalchange.gov/highlights/report-findings/widespread-impacts/graphics/katrina-diaspora",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "f4/05/1dc2eaaadea05ea0a0496d23dc63/health_katrina_diaspora_v4.png",
+            "href": "http://data.globalchange.gov/assets/f4/05/1dc2eaaadea05ea0a0496d23dc63/health_katrina_diaspora_v4.png",
+            "identifier": "7810f9a9-7dfa-49f2-af69-e138b89c29b2",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "349e37935af02a3efa7caf68674b75be5fa8a222",
+            "size": 557122,
+            "thumbnail": "f4/05/1dc2eaaadea05ea0a0496d23dc63/.thumb-7810f9a9-7dfa-49f2-af69-e138b89c29b2.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/f4/05/1dc2eaaadea05ea0a0496d23dc63/.thumb-7810f9a9-7dfa-49f2-af69-e138b89c29b2.png",
+            "uri": "/file/7810f9a9-7dfa-49f2-af69-e138b89c29b2",
+            "url": "/assets/f4/05/1dc2eaaadea05ea0a0496d23dc63/health_katrina_diaspora_v4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/91f390d0-58bd-4415-ad04-a9681c8866a1.json",
+    "identifier": "91f390d0-58bd-4415-ad04-a9681c8866a1",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2005-09-20T23:59:59",
+    "time_start": "2005-08-23T00:00:00",
+    "title": "Katrina Diaspora",
+    "uri": "/image/91f390d0-58bd-4415-ad04-a9681c8866a1",
+    "url": null,
+    "usage_limits": null
+}

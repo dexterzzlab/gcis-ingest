@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "NRC,",
+        "ISBN": "9780309255943",
+        "Number of Pages": "201",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "National Research Council, Committee on Sea Level Rise in California, Oregon, Washington, Board on Earth Sciences Resources, Ocean Studies Board, Division on Earth Life Studies The National Academies Press",
+        "Reviewer": "ecf211c8-9abc-46ce-bf79-4a12099b02df",
+        "Title": "Sea-Level Rise for the Coasts of California, Oregon, and Washington: Past, Present, and Future",
+        "URL": "http://www.nap.edu/catalog.php?record_id=13389",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"Ch. 25: Coastal Zone FINAL\",\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "2311",
+        "_uuid": "ecf211c8-9abc-46ce-bf79-4a12099b02df",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/nrc-sea-level-rise-2012",
+    "href": "http://data.globalchange.gov/reference/ecf211c8-9abc-46ce-bf79-4a12099b02df.json",
+    "identifier": "ecf211c8-9abc-46ce-bf79-4a12099b02df",
+    "uri": "/reference/ecf211c8-9abc-46ce-bf79-4a12099b02df"
+}

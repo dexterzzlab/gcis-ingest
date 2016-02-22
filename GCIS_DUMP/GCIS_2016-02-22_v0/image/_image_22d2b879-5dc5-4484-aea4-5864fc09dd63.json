@@ -1,0 +1,70 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-10-21T13:44:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Thirteen of the nation\u2019s 47 largest airports have at least one runway with an elevation within the reach of moderate to high storm surge. Sea level rise will pose a threat to low-lying infrastructure, such as the airports shown here. (Data from Federal Aviation Administration 2012<tbib>dfb55c86-12aa-42f9-99de-bd9b61bcd05d</tbib>).",
+            "chapter_identifier": "transportation",
+            "create_dt": "2013-10-21T13:44:00",
+            "identifier": "airports-vulnerable-to-storm-surge",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 2,
+            "report_identifier": "nca3",
+            "source_citation": "Federal Aviation Administration 2012<tbib>dfb55c86-12aa-42f9-99de-bd9b61bcd05d</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Airports Vulnerable to Storm Surge",
+            "url": "http://nca2014.globalchange.gov/report/sectors/transportation/graphics/airports-vulnerable-storm-surge",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "9f/8d/090b56dcb3fe4c8ca5505984de16/transport_airport_elevation_V7.png",
+            "href": "http://data.globalchange.gov/assets/9f/8d/090b56dcb3fe4c8ca5505984de16/transport_airport_elevation_V7.png",
+            "identifier": "1b77868f-b314-449c-bdc7-63aecfb5610b",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "dfeca43732105452dd35afa1d9d3551d5aa58af9",
+            "size": 306263,
+            "thumbnail": "9f/8d/090b56dcb3fe4c8ca5505984de16/.thumb-1b77868f-b314-449c-bdc7-63aecfb5610b.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/9f/8d/090b56dcb3fe4c8ca5505984de16/.thumb-1b77868f-b314-449c-bdc7-63aecfb5610b.png",
+            "uri": "/file/1b77868f-b314-449c-bdc7-63aecfb5610b",
+            "url": "/assets/9f/8d/090b56dcb3fe4c8ca5505984de16/transport_airport_elevation_V7.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/22d2b879-5dc5-4484-aea4-5864fc09dd63.json",
+    "identifier": "22d2b879-5dc5-4484-aea4-5864fc09dd63",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "webpage Federal Aviation Administration: U.S. & Territories Airport Lookup",
+            "note": "",
+            "publication_type_identifier": "webpage",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/webpage/dc710324-7799-40ae-98ad-d176d4e177c2"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Airports Vulnerable to Storm Surge",
+    "uri": "/image/22d2b879-5dc5-4484-aea4-5864fc09dd63",
+    "url": null,
+    "usage_limits": null
+}

@@ -1,0 +1,8 @@
+{
+    "description": "Multi-purpose imaging Vis/IR radiometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/geostationary-ocean-colour-imager.json",
+    "identifier": "geostationary-ocean-colour-imager",
+    "name": "Geostationary Ocean Colour Imager",
+    "uri": "/instrument/geostationary-ocean-colour-imager"
+}

@@ -1,0 +1,12 @@
+{
+    "country": "US",
+    "href": "http://data.globalchange.gov/journal/chest.json",
+    "identifier": "chest",
+    "notes": null,
+    "online_issn": "1931-3543",
+    "print_issn": "0012-3692",
+    "publisher": "American College of Chest Physicians",
+    "title": "Chest",
+    "uri": "/journal/chest",
+    "url": "http://journal.publications.chestnet.org/"
+}

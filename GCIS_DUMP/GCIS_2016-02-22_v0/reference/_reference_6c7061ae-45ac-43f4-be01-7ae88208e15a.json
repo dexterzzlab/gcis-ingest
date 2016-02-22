@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Wu, S. Y.\rYarnal, B.\rFisher, A.",
+        "DOI": "10.3354/cr022255",
+        "Database Provider": "http://worldcat.org",
+        "ISSN": "0936-577X",
+        "Journal": "Climate Research",
+        "Language": "English",
+        "Name of Database": "/z-wcorg/",
+        "Pages": "255-270",
+        "Title": "Vulnerability of coastal communities to sea-level rise: A case study of Cape May County, New Jersey, USA",
+        "Volume": "22",
+        "Year": "2002",
+        "_chapter": "[\"RG 9 Rural\",\"Ch. 14: Rural Communities FINAL\"]",
+        "_record_number": "3491",
+        "_uuid": "6c7061ae-45ac-43f4-be01-7ae88208e15a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.3354/cr022255",
+    "href": "http://data.globalchange.gov/reference/6c7061ae-45ac-43f4-be01-7ae88208e15a.json",
+    "identifier": "6c7061ae-45ac-43f4-be01-7ae88208e15a",
+    "uri": "/reference/6c7061ae-45ac-43f4-be01-7ae88208e15a"
+}

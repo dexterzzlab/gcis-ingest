@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Foster, G., \rS. Rahmstorf",
+        "DOI": "10.1088/1748-9326/6/4/044022",
+        "ISSN": "1748-9326",
+        "Issue": "4",
+        "Journal": "Environmental Research Letters",
+        "Pages": "044022",
+        "Title": "Global temperature evolution 1979-2010",
+        "URL": "http://iopscience.iop.org/1748-9326/6/4/044022/pdf/1748-9326_6_4_044022.pdf",
+        "Volume": "6",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\",\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "787",
+        "_uuid": "88527457-07b8-49e3-8547-f5b113bdb3ef",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1088/1748-9326/6/4/044022",
+    "href": "http://data.globalchange.gov/reference/88527457-07b8-49e3-8547-f5b113bdb3ef.json",
+    "identifier": "88527457-07b8-49e3-8547-f5b113bdb3ef",
+    "uri": "/reference/88527457-07b8-49e3-8547-f5b113bdb3ef"
+}

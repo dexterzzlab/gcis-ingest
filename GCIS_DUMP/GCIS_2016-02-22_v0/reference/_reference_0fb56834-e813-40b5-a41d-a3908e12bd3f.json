@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Dai, A.",
+        "DOI": "10.1175/JCLI3816.1",
+        "ISSN": "1520-0442",
+        "Issue": "15",
+        "Journal": "Journal of Climate",
+        "Pages": "3589-3606",
+        "Title": "Recent climatology, variability, and trends in global surface humidity",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/JCLI3816.1",
+        "Volume": "19",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"RF 2\"]",
+        "_record_number": "1380",
+        "_uuid": "0fb56834-e813-40b5-a41d-a3908e12bd3f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/JCLI3816.1",
+    "href": "http://data.globalchange.gov/reference/0fb56834-e813-40b5-a41d-a3908e12bd3f.json",
+    "identifier": "0fb56834-e813-40b5-a41d-a3908e12bd3f",
+    "uri": "/reference/0fb56834-e813-40b5-a41d-a3908e12bd3f"
+}

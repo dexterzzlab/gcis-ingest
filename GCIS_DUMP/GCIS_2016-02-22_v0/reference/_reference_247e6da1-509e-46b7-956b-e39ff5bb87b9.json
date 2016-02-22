@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Lafferty, K.D.",
+        "DOI": "10.1890/08-0079.1",
+        "ISSN": "0012-9658",
+        "Issue": "4",
+        "Journal": "Ecology",
+        "Pages": "888-900",
+        "Title": "The ecology of climate change and infectious diseases",
+        "Volume": "90",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "560",
+        "_uuid": "247e6da1-509e-46b7-956b-e39ff5bb87b9",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/08-0079.1",
+    "href": "http://data.globalchange.gov/reference/247e6da1-509e-46b7-956b-e39ff5bb87b9.json",
+    "identifier": "247e6da1-509e-46b7-956b-e39ff5bb87b9",
+    "uri": "/reference/247e6da1-509e-46b7-956b-e39ff5bb87b9"
+}

@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Epidemiologic studies have linked tropospheric ozone pollution and human mortality. Although research has shown that this relation is not confounded by particulate matter when measured by mass, little scientific evidence exists on whether confounding exists by chemical components of the particle mixture. Using mortality and particulate matter with aerodynamic diameter \u22642.5 \u00b5m (PM2.5) component data from 57 US communities (2000\u20132005), the authors investigate whether the ozone-mortality relation is confounded by 7 components of PM2.5: sulfate, nitrate, silicon, elemental carbon, organic carbon matter, sodium ion, and ammonium. Together, these components constitute most PM2.5 mass in the United States. Estimates of the effect of ozone on mortality were almost identical before and after controlling for the 7 components of PM2.5 considered (mortality increase/10-ppb ozone increase, before and after controlling: ammonium, 0.34% vs. 0.35%; elemental carbon, 0.36% vs. 0.37%; nitrate, 0.27% vs. 0.26%; organic carbon matter, 0.34% vs. 0.31%; silicon, 0.36% vs. 0.37%; sodium ion, 0.21% vs. 0.18%; and sulfate, 0.35% vs. 0.38%). Additionally, correlations were weak between ozone and each particulate component across all communities. Previous research found that the ozone-mortality relation is not confounded by particulate matter measured by mass; this national study indicates that the relation is also robust to control for specific components of PM2.5.",
+        "Author": "Anderson, G. Brooke\rKrall, Jenna R.\rPeng, Roger D.\rBell, Michelle L.",
+        "DOI": "10.1093/aje/kws188",
+        "Date": "October 15, 2012",
+        "Issue": "8",
+        "Journal": "American Journal of Epidemiology",
+        "Pages": "726-732",
+        "Title": "Is the relation between ozone and mortality confounded by chemical components of particulate matter? Analysis of 7 components in 57 US communities",
+        "URL": "http://aje.oxfordjournals.org/content/176/8/726.full.pdf+html",
+        "Volume": "176",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "4677",
+        "_uuid": "68d0919b-74c3-48fd-855c-9e6ba633eb36",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1093/aje/kws188",
+    "href": "http://data.globalchange.gov/reference/68d0919b-74c3-48fd-855c-9e6ba633eb36.json",
+    "identifier": "68d0919b-74c3-48fd-855c-9e6ba633eb36",
+    "uri": "/reference/68d0919b-74c3-48fd-855c-9e6ba633eb36"
+}

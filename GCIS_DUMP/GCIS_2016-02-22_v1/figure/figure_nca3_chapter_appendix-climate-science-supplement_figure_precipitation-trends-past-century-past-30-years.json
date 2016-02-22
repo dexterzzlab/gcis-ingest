@@ -1,0 +1,113 @@
+{
+    "attributes": null,
+    "caption": "Global precipitation trends for the period 1901-2012 (top) and 1979-2012 (bottom). (Figure source: NOAA NCDC / CICS-NC).",
+    "chapter": {
+        "doi": "10.7930/J0KS6PHH",
+        "identifier": "appendix-climate-science-supplement",
+        "number": 33,
+        "report_identifier": "nca3",
+        "sort_key": 330,
+        "title": "Appendix 3: Climate Science Supplement",
+        "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement"
+    },
+    "chapter_identifier": "appendix-climate-science-supplement",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2535.json",
+            "id": 2535,
+            "organization": {
+                "country_code": "NO",
+                "identifier": "nansen-environmental-and-remote-sensing-center",
+                "name": "Nansen Environmental and Remote Sensing Center",
+                "organization_type_identifier": "academic",
+                "url": "http://www.nersc.no/"
+            },
+            "organization_uri": "/organization/nansen-environmental-and-remote-sensing-center",
+            "person": {
+                "first_name": "Peter",
+                "id": 1027,
+                "last_name": "Thorne",
+                "middle_name": null,
+                "orcid": "0000-0003-0485-9798",
+                "url": "http://www.nersc.no/staff/peter-thorne"
+            },
+            "person_id": 1027,
+            "person_uri": "/person/1027",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2535"
+        }
+    ],
+    "create_dt": "2013-10-23T15:11:28",
+    "files": [
+        {
+            "file": "02/ac/2554046010a9fa9687f1741b39f2/APP_precip_trends_V7.png",
+            "href": "http://data.globalchange.gov/assets/02/ac/2554046010a9fa9687f1741b39f2/APP_precip_trends_V7.png",
+            "identifier": "242a3d08-f1d0-448c-8fb5-46f33ac750df",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "3a4e778a283fd6c411efbafdde366246444c4310",
+            "size": 393944,
+            "thumbnail": "02/ac/2554046010a9fa9687f1741b39f2/.thumb-242a3d08-f1d0-448c-8fb5-46f33ac750df.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/02/ac/2554046010a9fa9687f1741b39f2/.thumb-242a3d08-f1d0-448c-8fb5-46f33ac750df.png",
+            "uri": "/file/242a3d08-f1d0-448c-8fb5-46f33ac750df",
+            "url": "/assets/02/ac/2554046010a9fa9687f1741b39f2/APP_precip_trends_V7.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-climate-science-supplement/figure/precipitation-trends-past-century-past-30-years.json",
+    "identifier": "precipitation-trends-past-century-past-30-years",
+    "images": [
+        {
+            "attributes": "Precipitation, observed, global",
+            "create_dt": "2013-05-24T12:15:00",
+            "description": null,
+            "identifier": "9a1fc7f5-d769-44d3-9979-de36a690609e",
+            "lat_max": "90.00",
+            "lat_min": "-90.00",
+            "lon_max": "180.00",
+            "lon_min": "-180.00",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2012-12-31T23:59:59",
+            "time_start": "1901-01-01T00:00:00",
+            "title": "Precipitation Trends: Past Century, Past 30+ Years; 1901-2012",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": "Precipitation, observed, global",
+            "create_dt": "2013-05-24T12:15:00",
+            "description": null,
+            "identifier": "ff6a7a8e-d886-4b30-acd7-a3538a787baf",
+            "lat_max": "90.00",
+            "lat_min": "-90.00",
+            "lon_max": "180.00",
+            "lon_min": "-180.00",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2012-12-31T23:59:59",
+            "time_start": "1901-01-01T00:00:00",
+            "title": "Precipitation Trends: Past Century, Past 30+ Years; 1979-2012",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 11,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": "NOAA NCDC / CICS-NC",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Precipitation Trends: Past Century, Past 30+ Years",
+    "uri": "/report/nca3/chapter/appendix-climate-science-supplement/figure/precipitation-trends-past-century-past-30-years",
+    "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/precipitation-trends-past-century-past-30",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

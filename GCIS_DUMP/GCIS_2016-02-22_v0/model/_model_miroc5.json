@@ -1,0 +1,12 @@
+{
+    "description": null,
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/model/miroc5.json",
+    "identifier": "miroc5",
+    "name": "MIROC5 (Model for Interdisciplinary Research On Climate)",
+    "project_identifier": null,
+    "reference_url": "http://cmip.llnl.gov/cmip5/publications/model?exp=MIROC5",
+    "uri": "/model/miroc5",
+    "version": null,
+    "website": "http://www.icesfoundation.org/Pages/ScienceItemDetails.aspx?siid=181"
+}

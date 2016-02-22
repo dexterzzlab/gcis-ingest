@@ -1,0 +1,102 @@
+{
+    "attributes": null,
+    "caption": "These maps show expected future land change in coastal Louisiana under two different sea level rise scenarios without protection or restoration actions. Red indicates a transition from land (either wetlands or barrier islands) to open water. Green indicates new land built over previously open water. Land loss is influenced by factors other than sea level rise, including subsidence, river discharge and sediment load, and precipitation patterns. However, all these factors except sea level rise were held constant for this analysis. The panel on the left shows land change with a sea level rise of 10.6 inches between 2010 and 2060, while the one on the right assumes 31.5 inches of sea level rise for the same period. These amounts of sea level rise are within the projected ranges for this time period (Ch. 2: Our Changing Climate). (Figure source: State of Louisiana, reprinted with permission<tbib>f1d65fb3-933a-4bbf-b6ac-25ea4d0409d5</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0MS3QNW",
+        "identifier": "coastal-zone",
+        "number": 25,
+        "report_identifier": "nca3",
+        "sort_key": 250,
+        "title": "Coastal Zone Development and Ecosystems",
+        "url": "http://nca2014.globalchange.gov/report/regions/coasts"
+    },
+    "chapter_identifier": "coastal-zone",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-03-04T14:44:00",
+    "files": [
+        {
+            "file": "93/90/a1c4ab81c62eb8607a2832ad784c/coastal_land_loss_V5.png",
+            "href": "http://data.globalchange.gov/assets/93/90/a1c4ab81c62eb8607a2832ad784c/coastal_land_loss_V5.png",
+            "identifier": "3ae65cdf-4783-4e49-9ead-3d2d49e769a5",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "29d5e7bed9671adbb9c3e463e706dbbf448009b3",
+            "size": 448276,
+            "thumbnail": "93/90/a1c4ab81c62eb8607a2832ad784c/.thumb-3ae65cdf-4783-4e49-9ead-3d2d49e769a5.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/93/90/a1c4ab81c62eb8607a2832ad784c/.thumb-3ae65cdf-4783-4e49-9ead-3d2d49e769a5.png",
+            "uri": "/file/3ae65cdf-4783-4e49-9ead-3d2d49e769a5",
+            "url": "/assets/93/90/a1c4ab81c62eb8607a2832ad784c/coastal_land_loss_V5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/coastal-zone/figure/projected-land-loss-from-sea-level-rise-in-coastal-louisiana.json",
+    "identifier": "projected-land-loss-from-sea-level-rise-in-coastal-louisiana",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2014-03-04T14:44:00",
+            "description": null,
+            "identifier": "2c49e98f-58c3-4afb-8c4f-0100eb8923b1",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "10.6\" Sea Level Rise",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2014-03-04T14:44:00",
+            "description": null,
+            "identifier": "c829f118-e2f0-49f7-be8f-2e54bc729bbf",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "31.5\" Sea Level Rise",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 9,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Louisiana\u2019s Comprehensive Master Plan for a Sustainable Coast",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/louisiana-sustainable-coast-master-plan-2012"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/f1d65fb3-933a-4bbf-b6ac-25ea4d0409d5.json",
+            "uri": "/reference/f1d65fb3-933a-4bbf-b6ac-25ea4d0409d5"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Projected Land Loss from Sea Level Rise in Coastal Louisiana",
+    "uri": "/report/nca3/chapter/coastal-zone/figure/projected-land-loss-from-sea-level-rise-in-coastal-louisiana",
+    "url": "http://nca2014.globalchange.gov/report/regions/coasts/graphics/projected-land-loss-sea-level-rise-coastal-louisiana",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

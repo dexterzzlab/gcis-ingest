@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "A team from the University of Arizona analyzed the water budgets of several Arizona cities to determine how severe the drought impacts would be from the deepest one-year (1900), five-year (1900-1904), and ten-year (1946-1955) droughts on record. The study showed that, even under assumptions of continuing \u201caverage\u201d climate conditions, the possibility of achieving \u201csafe yield,\u201d (i.e., supply and demand are in balance), remains uncertain. Credit: University of Arizona.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "e6/2e/3a03f5444a0284f0e680cc6e7244/our_changing_planet_2003_48_20090708_1546740032.jpg",
+            "href": "http://data.globalchange.gov/assets/e6/2e/3a03f5444a0284f0e680cc6e7244/our_changing_planet_2003_48_20090708_1546740032.jpg",
+            "identifier": "7c36ab5c-ff92-42ff-9ded-8c8cf482664e",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "f507264267ea884334fa60b02314fada73e385de",
+            "size": 48865,
+            "thumbnail": "e6/2e/3a03f5444a0284f0e680cc6e7244/.thumb-7c36ab5c-ff92-42ff-9ded-8c8cf482664e.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/e6/2e/3a03f5444a0284f0e680cc6e7244/.thumb-7c36ab5c-ff92-42ff-9ded-8c8cf482664e.png",
+            "uri": "/file/7c36ab5c-ff92-42ff-9ded-8c8cf482664e",
+            "url": "/assets/e6/2e/3a03f5444a0284f0e680cc6e7244/our_changing_planet_2003_48_20090708_1546740032.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2003/figure/groundwater-overdraft-drought.json",
+    "identifier": "groundwater-overdraft-drought",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2003",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Groundwater Overdraft in Response to Drought",
+    "uri": "/report/ccsp-ocpfy2003/figure/groundwater-overdraft-drought",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

@@ -1,0 +1,93 @@
+{
+    "attributes": null,
+    "caption": "Trends in globally and annually averaged temperature when considering whether it was an El Ni\u00f1o year, a La Ni\u00f1a year, or a neutral year (no El Ni\u00f1o or La Ni\u00f1a event). The average global temperature is 0.4\u00baF higher in El Ni\u00f1o years than in La Ni\u00f1a years. However, all trends show the same significant increase in temperature over the past 45 years. The years for the short-term cooling effect following the Mt. Pinatubo volcanic eruption are not included in the trends. (Figure source: adapted from John Nielsen-Gammon 2012.<tbib>42706a4a-03d5-4897-91bc-27116c544731</tbib> Data from NASA GISS temperature dataset<tbib>af343288-2245-4aa9-8675-e8a0e7c05075</tbib> and Climate Prediction Center Ni\u00f1o 3.4 index<tbib>518a1c9b-c1d5-4b89-948c-9fe2bc51b2c5</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0KS6PHH",
+        "identifier": "appendix-climate-science-supplement",
+        "number": 33,
+        "report_identifier": "nca3",
+        "sort_key": 330,
+        "title": "Appendix 3: Climate Science Supplement",
+        "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement"
+    },
+    "chapter_identifier": "appendix-climate-science-supplement",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-10-23T14:57:00",
+    "files": [
+        {
+            "file": "0a/b5/80808dbcee337d3a219d5b96c2db/APP_GISTEMP_land-ocean_index_V5.png",
+            "href": "http://data.globalchange.gov/assets/0a/b5/80808dbcee337d3a219d5b96c2db/APP_GISTEMP_land-ocean_index_V5.png",
+            "identifier": "e02c8c95-27e0-4887-b3da-28fa3489334c",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "300050f2da963c934785c1425636c394f9f27d69",
+            "size": 143701,
+            "thumbnail": "0a/b5/80808dbcee337d3a219d5b96c2db/.thumb-e02c8c95-27e0-4887-b3da-28fa3489334c.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/0a/b5/80808dbcee337d3a219d5b96c2db/.thumb-e02c8c95-27e0-4887-b3da-28fa3489334c.png",
+            "uri": "/file/e02c8c95-27e0-4887-b3da-28fa3489334c",
+            "url": "/assets/0a/b5/80808dbcee337d3a219d5b96c2db/APP_GISTEMP_land-ocean_index_V5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-climate-science-supplement/figure/warming-trend-and-effects-of-el-nino-la-nina.json",
+    "identifier": "warming-trend-and-effects-of-el-nino-la-nina",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-10-23T14:57:00",
+            "description": null,
+            "identifier": "e4ec6b07-a1a6-4eb1-88f7-0c6d52d5a6bc",
+            "lat_max": "90.00",
+            "lat_min": "-90.00",
+            "lon_max": "180.00",
+            "lon_min": "-180.00",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2010-12-31T23:59:59",
+            "time_start": "1967-01-01T00:00:00",
+            "title": "Warming Trend and Effects of El Ni\u00f1o/La Ni\u00f1a",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 14,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "webpage Climate Abyss: About the Lack of Warming\u2026",
+            "note": null,
+            "publication_type_identifier": "webpage",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/webpage/e2ec2d0f-430c-4032-a309-2514ca1f6572"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/42706a4a-03d5-4897-91bc-27116c544731.json",
+            "uri": "/reference/42706a4a-03d5-4897-91bc-27116c544731"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/518a1c9b-c1d5-4b89-948c-9fe2bc51b2c5.json",
+            "uri": "/reference/518a1c9b-c1d5-4b89-948c-9fe2bc51b2c5"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/af343288-2245-4aa9-8675-e8a0e7c05075.json",
+            "uri": "/reference/af343288-2245-4aa9-8675-e8a0e7c05075"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "adapted from John Nielsen-Gammon 2012.<tbib>42706a4a-03d5-4897-91bc-27116c544731</tbib> Data from NASA GISS temperature dataset<tbib>af343288-2245-4aa9-8675-e8a0e7c05075</tbib> and Climate Prediction Center Ni\u00f1o 3.4 index<tbib>518a1c9b-c1d5-4b89-948c-9fe2bc51b2c5</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Warming Trend and Effects of El Ni\u00f1o/La Ni\u00f1a",
+    "uri": "/report/nca3/chapter/appendix-climate-science-supplement/figure/warming-trend-and-effects-of-el-nino-la-nina",
+    "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/warming-trend-and-effects-el-ni%C3%B1ola-ni%C3%B1a",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

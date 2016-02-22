@@ -1,0 +1,102 @@
+{
+    "attributes": null,
+    "caption": "Surface temperature trends for the period 1901-2012 (top) and 1979-2012 (bottom) from the National Climatic Data Center\u2019s (NCDC) surface temperature product. The relatively coarse resolution of these maps does not capture the finer details associated with mountains, coastlines, and other small-scale effects. (Figure source: updated from Vose et al. 2012<tbib>56ff58db-e758-4042-9111-22a13e4758a2</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0KS6PHH",
+        "identifier": "appendix-climate-science-supplement",
+        "number": 33,
+        "report_identifier": "nca3",
+        "sort_key": 330,
+        "title": "Appendix 3: Climate Science Supplement",
+        "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement"
+    },
+    "chapter_identifier": "appendix-climate-science-supplement",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-10-23T15:20:05",
+    "files": [
+        {
+            "file": "98/51/05485244bd22c920ae68c57a66be/APP_temperature_trends_V6.png",
+            "href": "http://data.globalchange.gov/assets/98/51/05485244bd22c920ae68c57a66be/APP_temperature_trends_V6.png",
+            "identifier": "508c5850-0c00-4345-8dda-268aa9886068",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "8ced31a3f9e41218bbbbc5ca3d2acd04a92563c2",
+            "size": 566406,
+            "thumbnail": "98/51/05485244bd22c920ae68c57a66be/.thumb-508c5850-0c00-4345-8dda-268aa9886068.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/98/51/05485244bd22c920ae68c57a66be/.thumb-508c5850-0c00-4345-8dda-268aa9886068.png",
+            "uri": "/file/508c5850-0c00-4345-8dda-268aa9886068",
+            "url": "/assets/98/51/05485244bd22c920ae68c57a66be/APP_temperature_trends_V6.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-climate-science-supplement/figure/temperature-trends-past-century-past-30-years.json",
+    "identifier": "temperature-trends-past-century-past-30-years",
+    "images": [
+        {
+            "attributes": "Temperature, observed, global",
+            "create_dt": "2013-05-24T11:41:00",
+            "description": null,
+            "identifier": "bf3ea919-c435-40b2-b3db-858bb6064afd",
+            "lat_max": "90.00",
+            "lat_min": "-90.00",
+            "lon_max": "180.00",
+            "lon_min": "-180.00",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2012-12-31T23:59:59",
+            "time_start": "1901-01-01T00:00:00",
+            "title": "Temperature Trends: Past Century, Past 30+ Years; 1901-2012",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": "Temperature, observed, global",
+            "create_dt": "2013-05-24T11:41:00",
+            "description": null,
+            "identifier": "285adb75-5a6c-4009-b2a6-338508d21707",
+            "lat_max": "90.00",
+            "lat_min": "-90.00",
+            "lon_max": "180.00",
+            "lon_min": "-180.00",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2012-12-31T23:59:59",
+            "time_start": "1979-01-01T00:00:00",
+            "title": "Temperature Trends: Past Century, Past 30+ Years; 1979-2012",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 9,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "NOAA's Merged Land\u2013Ocean Surface Temperature Analysis",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1175/BAMS-D-11-00241.1"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/56ff58db-e758-4042-9111-22a13e4758a2.json",
+            "uri": "/reference/56ff58db-e758-4042-9111-22a13e4758a2"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "updated from Vose et al. 2012<tbib>56ff58db-e758-4042-9111-22a13e4758a2</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Temperature Trends: Past Century, Past 30+ Years",
+    "uri": "/report/nca3/chapter/appendix-climate-science-supplement/figure/temperature-trends-past-century-past-30-years",
+    "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/temperature-trends-past-century-past-30-years",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

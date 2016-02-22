@@ -1,0 +1,12 @@
+{
+    "description": "SAC-C (Scientific Application Satellite-C) is an international cooperative Earth observation mission of Argentina, USA, Denmark, Brazil, Italy and France with CONAE (Comisi\u00f3n Nacional de Actividades Espaciales) of Buenos Aires (CONAE is the Space Agency of Argentina) and NASA as the main partners. CONAE provided the S/C bus and payload instrumentation, NASA provided launch services and two instruments, a GPS flight receiver (GOLPE) and SHM (Scalar Helium Magnetometer) part of the \u00d8rsted-2 instrument. Denmark is contributing with the MMP (Magnetic Mapping Payload) that is a heritage from the \u00d8rsted satellite, called \u00d8rsted-2. INPE of Brazil is providing the system-level environmental testing facilities and its test support capabilities. Italy provided part of the solar panels and two technological experiments for orbit and attitude determination, IST and INES. The overall objective is to study the structure and dynamics of the Earth's surface, atmosphere, ionosphere and geomagnetic field. Specific science objectives are to:",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/s/sac-c",
+    "end_date": "2013-08-13T00:00:00",
+    "href": "http://data.globalchange.gov/platform/sac-c.json",
+    "identifier": "sac-c",
+    "name": "SAC-C",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "2000-11-21T00:00:00",
+    "uri": "/platform/sac-c",
+    "url": "http://www.conae.gov.ar/"
+}

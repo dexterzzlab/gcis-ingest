@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "IOM,",
+        "ISBN": "9780309124027",
+        "Number of Pages": "304",
+        "Publisher": "National Academies Press",
+        "Reviewer": "04243369-4107-42f2-96aa-1dae1eadf918",
+        "Series Editor": "Relman, David A.\rHamburg, Margaret A.\rChoffnes, Eileen R.\rMack, Alison ",
+        "Title": "Global Climate Change and Extreme Weather Events: Understanding the Contributions to Infectious Disease Emergence: Workshop Summary",
+        "URL": "http://www.nap.edu/catalog.php?record_id=12435",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "767",
+        "_uuid": "04243369-4107-42f2-96aa-1dae1eadf918",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/nrc-globalclimatechangeextremes-2008",
+    "href": "http://data.globalchange.gov/reference/04243369-4107-42f2-96aa-1dae1eadf918.json",
+    "identifier": "04243369-4107-42f2-96aa-1dae1eadf918",
+    "uri": "/reference/04243369-4107-42f2-96aa-1dae1eadf918"
+}

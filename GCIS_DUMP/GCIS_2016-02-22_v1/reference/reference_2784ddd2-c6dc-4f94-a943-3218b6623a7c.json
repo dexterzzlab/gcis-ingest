@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Spracklen, D.V.\rLogan, J.A.\rMickley, L.J.\rPark, R.J.\rYevich, R.\rWesterling, A.L.\rJaffe, D.A.",
+        "DOI": "10.1029/2007GL030037",
+        "ISSN": "0094-8276",
+        "Issue": "16",
+        "Journal": "Geophysical Research Letters",
+        "Pages": "L16816",
+        "Title": "Wildfires drive interannual variability of organic carbon aerosol in the western US in summer",
+        "Volume": "34",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "2915",
+        "_uuid": "2784ddd2-c6dc-4f94-a943-3218b6623a7c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2007GL030037",
+    "href": "http://data.globalchange.gov/reference/2784ddd2-c6dc-4f94-a943-3218b6623a7c.json",
+    "identifier": "2784ddd2-c6dc-4f94-a943-3218b6623a7c",
+    "uri": "/reference/2784ddd2-c6dc-4f94-a943-3218b6623a7c"
+}

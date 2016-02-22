@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "The map shows the relative risk that physical changes will occur as sea level rises. The\r\n    Coastal Vulnerability Index used here is calculated based on tidal range, wave height, coastal slope, shoreline change,\r\n    landform and processes, and historical rate of relative sea level rise. The approach combines a coastal system\u2019s\r\n    susceptibility to change with its natural ability to adapt to changing environmental conditions, and yields a relative measure\r\n    of the system\u2019s natural vulnerability to the effects of sea level rise. (Data from Hammar-Klose and Thieler\r\n    2001<tbib>487b04ce-2b8a-4abe-ae9c-c03672fdaef5</tbib>).",
+            "chapter_identifier": "southeast",
+            "create_dt": "2012-11-24T12:31:00",
+            "identifier": "vulnerability-to-sea-level-rise",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 6,
+            "report_identifier": "nca3",
+            "source_citation": "Hammar-Klose and Thieler 2001<tbib>487b04ce-2b8a-4abe-ae9c-c03672fdaef5</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Vulnerability to Sea Level Rise",
+            "url": "http://nca2014.globalchange.gov/highlights/regions/southeast/graphics/vulnerability-sea-level-rise",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "e0/8e/f23769b989f7206184d31311437f/SE_vulnerability_to_SLR_12967_v3.png",
+            "href": "http://data.globalchange.gov/assets/e0/8e/f23769b989f7206184d31311437f/SE_vulnerability_to_SLR_12967_v3.png",
+            "identifier": "f4d5ba20-68f4-477e-b592-46fce275b32e",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "451348bda36cb9423b6da15755f6efb77bba2fb8",
+            "size": 72478,
+            "thumbnail": "e0/8e/f23769b989f7206184d31311437f/.thumb-f4d5ba20-68f4-477e-b592-46fce275b32e.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/e0/8e/f23769b989f7206184d31311437f/.thumb-f4d5ba20-68f4-477e-b592-46fce275b32e.png",
+            "uri": "/file/f4d5ba20-68f4-477e-b592-46fce275b32e",
+            "url": "/assets/e0/8e/f23769b989f7206184d31311437f/SE_vulnerability_to_SLR_12967_v3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/d10fe9c3-170e-4953-afe7-38b727bdf81f.json",
+    "identifier": "d10fe9c3-170e-4953-afe7-38b727bdf81f",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Vulnerability to Sea Level Rise",
+    "uri": "/image/d10fe9c3-170e-4953-afe7-38b727bdf81f",
+    "url": null,
+    "usage_limits": null
+}

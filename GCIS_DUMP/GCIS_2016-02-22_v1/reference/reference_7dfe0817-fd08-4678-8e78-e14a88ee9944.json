@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Bloem, M.W.\rSemba, R.D.\rKraemer, K.",
+        "DOI": "10.3945/jn.109.112094",
+        "ISSN": "0022-3166",
+        "Issue": "1",
+        "Journal": "The Journal of Nutrition",
+        "Pages": "132S-135S",
+        "Title": "Castel Gandolfo Workshop: An introduction to the impact of climate change, the economic crisis, and the increase in the food prices on malnutrition",
+        "Volume": "140",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "189",
+        "_uuid": "7dfe0817-fd08-4678-8e78-e14a88ee9944",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.3945/jn.109.112094",
+    "href": "http://data.globalchange.gov/reference/7dfe0817-fd08-4678-8e78-e14a88ee9944.json",
+    "identifier": "7dfe0817-fd08-4678-8e78-e14a88ee9944",
+    "uri": "/reference/7dfe0817-fd08-4678-8e78-e14a88ee9944"
+}

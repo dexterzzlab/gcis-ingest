@@ -1,0 +1,8 @@
+{
+    "description": "Data collection system",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/argos-3.json",
+    "identifier": "argos-3",
+    "name": "ARGOS-3",
+    "uri": "/instrument/argos-3"
+}

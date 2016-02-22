@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Mahmood, R.\rK. G. Hubbard\rR. D. Leeper\rS. A. Foster",
+        "DOI": "10.1175/2007MWR2040.1",
+        "Journal": "Monthly Weather Review",
+        "Pages": "1554-1561",
+        "Title": "Increase in near-surface atmospheric moisture content due to land use changes: Evidence from the observed dew point temperature data",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/2007MWR2040.1",
+        "Volume": "136",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 13: Land Use and Land Cover Change FINAL\"]",
+        "_record_number": "1850",
+        "_uuid": "9c464e27-1015-4864-be1d-7e401d704b87",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/2007MWR2040.1",
+    "href": "http://data.globalchange.gov/reference/9c464e27-1015-4864-be1d-7e401d704b87.json",
+    "identifier": "9c464e27-1015-4864-be1d-7e401d704b87",
+    "uri": "/reference/9c464e27-1015-4864-be1d-7e401d704b87"
+}

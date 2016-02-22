@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run face=\"italic\" start=\"0\" /><run start=\"6\" /></field></record>",
+        "Author": "Weis, K.E.\rHammond, R.M.\rHutchinson, R.\rBlackmore, C.G.M.",
+        "DOI": "10.1017/S095026881000135",
+        "ISSN": "0950-2688",
+        "Issue": "4",
+        "Journal": "Epidemiology and Infection",
+        "Pages": "591-598",
+        "Title": "Vibrio illness in Florida, 1998\u20132007",
+        "Volume": "139",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\"]",
+        "_record_number": "3382",
+        "_uuid": "0c3d53ba-9be3-4d1a-823a-a9fbe360b118",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1017/S0950268810001354",
+    "href": "http://data.globalchange.gov/reference/0c3d53ba-9be3-4d1a-823a-a9fbe360b118.json",
+    "identifier": "0c3d53ba-9be3-4d1a-823a-a9fbe360b118",
+    "uri": "/reference/0c3d53ba-9be3-4d1a-823a-a9fbe360b118"
+}

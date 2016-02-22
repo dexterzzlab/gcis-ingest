@@ -1,0 +1,136 @@
+{
+    "attributes": null,
+    "caption": "Changes in seasonal surface soil moisture per year over the period 1988 to 2010 based on multi-satellite datasets.<tbib>dcbcf1b2-fd1f-4565-a914-a045d60fe10f</tbib> Seasonal drying is observed in central and lower Midwest and Southeast for most seasons (with the exception of the Southeast summer), and in most of the Southwest and West (with the exception of the Northwest) for spring and summer. Soil moisture in the upper Midwest, Northwest, and most of the Northeast is increasing in most seasons. (Images provided by W. Dorigo.)",
+    "chapter": {
+        "doi": "10.7930/J0G44N6T",
+        "identifier": "water-resources",
+        "number": 3,
+        "report_identifier": "nca3",
+        "sort_key": 30,
+        "title": "Water Resources",
+        "url": "http://nca2014.globalchange.gov/report/sectors/water"
+    },
+    "chapter_identifier": "water-resources",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-01T15:41:00",
+    "files": [
+        {
+            "file": "ac/ed/25e275ee97df14c206abca4f7928/Water_seasonal_surface_soil_moisture_trends_V1.png",
+            "href": "http://data.globalchange.gov/assets/ac/ed/25e275ee97df14c206abca4f7928/Water_seasonal_surface_soil_moisture_trends_V1.png",
+            "identifier": "91c54560-3547-4435-9933-3b0d7bba0e76",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "9470dc1953d1b4a91df73aaaa4d44ed3739640f9",
+            "size": 825653,
+            "thumbnail": "ac/ed/25e275ee97df14c206abca4f7928/.thumb-91c54560-3547-4435-9933-3b0d7bba0e76.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/ac/ed/25e275ee97df14c206abca4f7928/.thumb-91c54560-3547-4435-9933-3b0d7bba0e76.png",
+            "uri": "/file/91c54560-3547-4435-9933-3b0d7bba0e76",
+            "url": "/assets/ac/ed/25e275ee97df14c206abca4f7928/Water_seasonal_surface_soil_moisture_trends_V1.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/water-resources/figure/seasonal-surface-soil-moisture-trends.json",
+    "identifier": "seasonal-surface-soil-moisture-trends",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-11-01T15:41:00",
+            "description": null,
+            "identifier": "638da507-7e32-49d1-ad3e-bd5033ba4523",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Seasonal Surface Soil Moisture Trends - Winter",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2013-11-01T15:41:00",
+            "description": null,
+            "identifier": "81052c75-6a87-4804-922b-f41cac7e8f80",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Seasonal Surface Soil Moisture Trends - Spring",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2013-11-01T15:41:00",
+            "description": null,
+            "identifier": "940e4dd5-e004-446e-a8b8-5905433c7d5b",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Seasonal Surface Soil Moisture Trends - Summer",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2013-11-01T15:41:00",
+            "description": null,
+            "identifier": "27231ad5-bf35-48bb-a9d2-72261def137b",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Seasonal Surface Soil Moisture Trends - Fall",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 3,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Evaluating global trends (1988-2010) in harmonized multi-satellite surface soil moisture",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1029/2012gl052988"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/dcbcf1b2-fd1f-4565-a914-a045d60fe10f.json",
+            "uri": "/reference/dcbcf1b2-fd1f-4565-a914-a045d60fe10f"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Seasonal Surface Soil Moisture Trends",
+    "uri": "/report/nca3/chapter/water-resources/figure/seasonal-surface-soil-moisture-trends",
+    "url": "http://nca2014.globalchange.gov/report/sectors/water/graphics/seasonal-surface-soil-moisture-trends",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

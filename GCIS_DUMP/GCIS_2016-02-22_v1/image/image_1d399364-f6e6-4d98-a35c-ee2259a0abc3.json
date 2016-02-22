@@ -1,0 +1,86 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/4701.json",
+            "id": 4701,
+            "organization": {
+                "country_code": "US",
+                "identifier": "nature-conservancy",
+                "name": "Nature Conservancy",
+                "organization_type_identifier": "ngo",
+                "url": "http://www.nature.org/"
+            },
+            "organization_uri": "/organization/nature-conservancy",
+            "person": {
+                "first_name": "Betsy",
+                "id": 2616,
+                "last_name": "Neely",
+                "middle_name": null,
+                "orcid": null,
+                "url": "http://www.nature.org/ourinitiatives/regions/northamerica/unitedstates/colorado/scienceandstrategy/the-nature-conservancy-colorado-staff-bio-betsy-neely.xml"
+            },
+            "person_id": 2616,
+            "person_uri": "/person/2616",
+            "role_type_identifier": "contributor",
+            "uri": "/contributor/4701"
+        }
+    ],
+    "create_dt": null,
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Federally coordinated regional science centers work individually and together on projects that support tangible outcomes in their regions. For example, Western Water Assessment (WWA, a NOAA RISA team) is partnering with the DOI North Central CSC on a collaboration also involving The Nature Conservancy and its regional partners in the Gunnison Basin, San Juan Mountains, and Four Corners areas. WWA scientists are producing narrative scenarios of future climate change that the regional partners can use to develop climate-adaptive strategies for land conservation\u2014such as the sagebrush habitat restoration project shown above. (Source: B. Neely, The Nature Conservancy)",
+            "chapter_identifier": "federal-investments-global-change-research",
+            "create_dt": null,
+            "identifier": "sagebrush-habitat-restoration",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 10,
+            "report_identifier": "usgcrp-ocpfy2016",
+            "source_citation": "Photo taken in the Gunnison Basin, CO by Betsy Neely, The Nature Conservancy",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Sagebrush habitat restoration",
+            "url": null,
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source. "
+        }
+    ],
+    "files": [
+        {
+            "file": "81/a5/755e02a5d2c5b780909814abce19/HL15_WWA-Gunnison-workproject.JPG",
+            "href": "http://data.globalchange.gov/assets/81/a5/755e02a5d2c5b780909814abce19/HL15_WWA-Gunnison-workproject.JPG",
+            "identifier": "f5ff8859-6059-4991-8934-35d7b9c48243",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "1bc46f9bd1936590f8c41a7e1965aad926ecdd8d",
+            "size": 1442580,
+            "thumbnail": "81/a5/755e02a5d2c5b780909814abce19/.thumb-f5ff8859-6059-4991-8934-35d7b9c48243.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/81/a5/755e02a5d2c5b780909814abce19/.thumb-f5ff8859-6059-4991-8934-35d7b9c48243.png",
+            "uri": "/file/f5ff8859-6059-4991-8934-35d7b9c48243",
+            "url": "/assets/81/a5/755e02a5d2c5b780909814abce19/HL15_WWA-Gunnison-workproject.JPG"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/1d399364-f6e6-4d98-a35c-ee2259a0abc3.json",
+    "identifier": "1d399364-f6e6-4d98-a35c-ee2259a0abc3",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Sagebrush habitat restoration",
+    "uri": "/image/1d399364-f6e6-4d98-a35c-ee2259a0abc3",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

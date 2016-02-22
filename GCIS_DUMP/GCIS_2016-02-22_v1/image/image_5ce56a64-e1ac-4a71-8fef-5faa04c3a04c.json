@@ -1,0 +1,86 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/4702.json",
+            "id": 4702,
+            "organization": {
+                "country_code": "US",
+                "identifier": "us-global-change-research-program",
+                "name": "U.S. Global Change Research Program",
+                "organization_type_identifier": "federal",
+                "url": "http://www.globalchange.gov"
+            },
+            "organization_uri": "/organization/us-global-change-research-program",
+            "person": {
+                "first_name": "Bryce",
+                "id": 2617,
+                "last_name": "Golden-Chen",
+                "middle_name": null,
+                "orcid": "0000-0002-8780-249X",
+                "url": "http://www.globalchange.gov/staff/bryce-golden-chen"
+            },
+            "person_id": 2617,
+            "person_uri": "/person/2617",
+            "role_type_identifier": "contributor",
+            "uri": "/contributor/4702"
+        }
+    ],
+    "create_dt": "2014-06-20T00:00:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Participants in a brainstorming activity consider approaches for evaluating the Third NCA. (Source: B. Golden-Chen, USGCRP NCO)",
+            "chapter_identifier": "federal-investments-global-change-research",
+            "create_dt": "2014-06-20T00:00:00",
+            "identifier": "nca-evaluation-workshop",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 12,
+            "report_identifier": "usgcrp-ocpfy2016",
+            "source_citation": "Photo taken by Bryce Golden-Chen, USGCRP NCO, on June 20, 2014, at the National Science Foundation (4201 Wilson Boulevard, Arlington, VA)",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "NCA evaluation workshop",
+            "url": null,
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "5e/d6/05c28c9f4664752170a795881b10/HL19_nca3-evaluation-workshop-brainstorming.png",
+            "href": "http://data.globalchange.gov/assets/5e/d6/05c28c9f4664752170a795881b10/HL19_nca3-evaluation-workshop-brainstorming.png",
+            "identifier": "c585a654-0bf6-4dd4-b9c8-d7a6a80922ea",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "fd808e4fd4da7ba780aa90e6330eb13cf0f379f4",
+            "size": 919479,
+            "thumbnail": "5e/d6/05c28c9f4664752170a795881b10/.thumb-c585a654-0bf6-4dd4-b9c8-d7a6a80922ea.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/5e/d6/05c28c9f4664752170a795881b10/.thumb-c585a654-0bf6-4dd4-b9c8-d7a6a80922ea.png",
+            "uri": "/file/c585a654-0bf6-4dd4-b9c8-d7a6a80922ea",
+            "url": "/assets/5e/d6/05c28c9f4664752170a795881b10/HL19_nca3-evaluation-workshop-brainstorming.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/5ce56a64-e1ac-4a71-8fef-5faa04c3a04c.json",
+    "identifier": "5ce56a64-e1ac-4a71-8fef-5faa04c3a04c",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "NCA evaluation workshop",
+    "uri": "/image/5ce56a64-e1ac-4a71-8fef-5faa04c3a04c",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

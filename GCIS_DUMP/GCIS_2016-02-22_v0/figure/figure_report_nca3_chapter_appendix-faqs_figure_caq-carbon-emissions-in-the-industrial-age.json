@@ -1,0 +1,86 @@
+{
+    "attributes": null,
+    "caption": "Global carbon emissions from burning coal, oil, and gas and from producing cement (1850-2009). These emissions account for about 80% of the total emissions of carbon from human activities, with land-use changes (like cutting down forests) accounting for the other 20% in recent decades. (Data from Boden et al. 2012).",
+    "chapter": {
+        "doi": "10.7930/J0G15XS3",
+        "identifier": "appendix-faqs",
+        "number": 34,
+        "report_identifier": "nca3",
+        "sort_key": 340,
+        "title": "Appendix 4: Frequently Asked Questions",
+        "url": "http://nca2014.globalchange.gov/report/appendices/faqs"
+    },
+    "chapter_identifier": "appendix-faqs",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/3758.json",
+            "id": 3758,
+            "organization": {
+                "country_code": "US",
+                "identifier": "texas-tech-university",
+                "name": "Texas Tech University",
+                "organization_type_identifier": "academic",
+                "url": "http://www.ttu.edu"
+            },
+            "organization_uri": "/organization/texas-tech-university",
+            "person": {
+                "first_name": "Katharine",
+                "id": 1024,
+                "last_name": "Hayhoe",
+                "middle_name": null,
+                "orcid": "0000-0003-3625-1402",
+                "url": "http://www.katharinehayhoe.com/"
+            },
+            "person_id": 1024,
+            "person_uri": "/person/1024",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/3758"
+        }
+    ],
+    "create_dt": "2013-10-28T13:27:00",
+    "files": [
+        {
+            "file": "df/6e/288f1e17a950c20b5848ca76ca78/CAQ_carbon_emissions_V6.png",
+            "href": "http://data.globalchange.gov/assets/df/6e/288f1e17a950c20b5848ca76ca78/CAQ_carbon_emissions_V6.png",
+            "identifier": "62be3ea1-c0c7-479b-9549-7c6257b2fc3c",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "720ff62398116353758475639c4b1831e67a8ad4",
+            "size": 66492,
+            "thumbnail": "df/6e/288f1e17a950c20b5848ca76ca78/.thumb-62be3ea1-c0c7-479b-9549-7c6257b2fc3c.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/df/6e/288f1e17a950c20b5848ca76ca78/.thumb-62be3ea1-c0c7-479b-9549-7c6257b2fc3c.png",
+            "uri": "/file/62be3ea1-c0c7-479b-9549-7c6257b2fc3c",
+            "url": "/assets/df/6e/288f1e17a950c20b5848ca76ca78/CAQ_carbon_emissions_V6.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-faqs/figure/caq-carbon-emissions-in-the-industrial-age.json",
+    "identifier": "caq-carbon-emissions-in-the-industrial-age",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 4,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Global CO2 Emissions from Foss...",
+            "note": "",
+            "publication_type_identifier": "book",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/book/b6c5075c-7f4c-4cf2-8624-1dbd3b94de32"
+        }
+    ],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Carbon Emissions in the Industrial Age",
+    "uri": "/report/nca3/chapter/appendix-faqs/figure/caq-carbon-emissions-in-the-industrial-age",
+    "url": "http://nca2014.globalchange.gov/report/appendices/faqs/graphics/carbon-emissions-industrial-age",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

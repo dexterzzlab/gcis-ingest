@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Distribution of AmeriFlux sites (clusters) and wet nitrogen deposition across the United States used in the Northern Hemisphere analysis of the effects of nitrogen deposition on carbon sequestration by temperate and boreal forests. Credit: F. Magnani, University of Bologna, (reproduced from Nature with permission).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "93/7b/bf1aacf1080ca308830d853d2d5c/Figure_12.png",
+            "href": "http://data.globalchange.gov/assets/93/7b/bf1aacf1080ca308830d853d2d5c/Figure_12.png",
+            "identifier": "e084745a-a14b-44c4-9614-821806986a91",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "6cc01c995c8381fa90c68194ab56e689423f8fc5",
+            "size": 222186,
+            "thumbnail": "93/7b/bf1aacf1080ca308830d853d2d5c/.thumb-e084745a-a14b-44c4-9614-821806986a91.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/93/7b/bf1aacf1080ca308830d853d2d5c/.thumb-e084745a-a14b-44c4-9614-821806986a91.png",
+            "uri": "/file/e084745a-a14b-44c4-9614-821806986a91",
+            "url": "/assets/93/7b/bf1aacf1080ca308830d853d2d5c/Figure_12.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2009/figure/ameriflux-clusters-wet-nitrogen-deposition.json",
+    "identifier": "ameriflux-clusters-wet-nitrogen-deposition",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2009",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Distribution of AmeriFlux Clusters and Wet Nitrogen Deposition",
+    "uri": "/report/usgcrp-ocpfy2009/figure/ameriflux-clusters-wet-nitrogen-deposition",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

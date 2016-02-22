@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "In this study, a cyclone detection/tracking algorithm was used to identify cyclones from two gridded 6-hourly mean sea level pressure datasets: the 40-yr ECMWF Re-Analysis (ERA-40) and the NCEP\u2013NCAR reanalysis (NNR) for 1958\u20132001. The cyclone activity climatology and changes inferred from the two reanalyses are intercompared. The cyclone climatologies and trends are found to be in reasonably good agreement with each other over northern Europe and eastern North America, while ERA-40 shows systematically stronger cyclone activity over the boreal extratropical oceans than does NNR. However, significant differences between ERA-40 and NNR are seen over the austral extratropics. In particular, ERA-40 shows significantly greater strong-cyclone activity and less weak-cyclone activity over all oceanic areas south of 40\u00b0S in all seasons, while it shows significantly stronger cyclone activity over most areas of the austral subtropics in the warm seasons.;  ; The most notable historical trends in cyclone activity are found to be associated with strong-cyclone activity. Over the boreal extratropics, both ERA-40 and NNR show a significant increasing trend in January\u2013March (JFM) strong-cyclone activity over the high-latitude North Atlantic and over the midlatitude North Pacific, with a significant decreasing trend over the midlatitude North Atlantic and a small increasing trend over northern Europe. The JFM changes over the North Atlantic are associated with the mean position of the storm track shifting about 181 km northward. Importantly, there is no evidence of abrupt changes identified for the boreal extratropics, although previous studies have suggested that the upward trend found in the NNR data could be biased high. However, there exist a few abrupt changes over the austral extratropics, which appear to be attributable to the increasing availability of observations assimilated in the reanalyses. After diminishing the effects of these abrupt changes, strong-cyclone activity over the austral circumpolar oceanic region is identified to have an increasing trend in October\u2013December (OND) and July\u2013September (JAS), with a decreasing trend over the 40\u00b0\u201360\u00b0S zone in JAS.",
+        "Author": "Wang, Xiaolan L.\rSwail, Val R.\rZwiers, Francis W.",
+        "DOI": "10.1175/JCLI3781.1",
+        "ISSN": "0894-8755",
+        "Issue": "13",
+        "Journal": "Journal of Climate",
+        "Pages": "3145-3166",
+        "Title": "Climatology and changes of extratropical cyclone activity: Comparison of ERA-40 with NCEP-NCAR reanalysis for 1958-2001",
+        "URL": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI3781.1",
+        "Volume": "19",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"Ch. 2: Our Changing Climate FINAL\",\"RF 2\"]",
+        "_record_number": "3342",
+        "_uuid": "d4efd07e-2886-41f4-bc6d-14cbbe00c382",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/JCLI3781.1",
+    "href": "http://data.globalchange.gov/reference/d4efd07e-2886-41f4-bc6d-14cbbe00c382.json",
+    "identifier": "d4efd07e-2886-41f4-bc6d-14cbbe00c382",
+    "uri": "/reference/d4efd07e-2886-41f4-bc6d-14cbbe00c382"
+}

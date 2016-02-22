@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"italic\" start=\"58\" /><run start=\"74\" /></field></record>",
+        "Author": "Caputi, N.\rMelville-Smith, R.\rde Lestang, S.\rPearce, A.\rFeng, M.",
+        "DOI": "10.1139/f09-167",
+        "Date": "Jan",
+        "ISSN": "0706-652X",
+        "Issue": "1",
+        "Journal": "Canadian Journal of Fisheries and Aquatic Sciences",
+        "Pages": "85-96",
+        "Title": "The effect of climate change on the western rock lobster (Panulirus cygnus) fishery of Western Australia",
+        "Volume": "67",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "581",
+        "_uuid": "4ed7a246-d56d-4a62-a5cc-04b53e4ba33f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1139/f09-167",
+    "href": "http://data.globalchange.gov/reference/4ed7a246-d56d-4a62-a5cc-04b53e4ba33f.json",
+    "identifier": "4ed7a246-d56d-4a62-a5cc-04b53e4ba33f",
+    "uri": "/reference/4ed7a246-d56d-4a62-a5cc-04b53e4ba33f"
+}

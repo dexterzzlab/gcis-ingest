@@ -1,0 +1,89 @@
+{
+    "attributes": null,
+    "caption": "An artist\u2019s rendition of the Global Precipitation Measurement satellite in space. (Source: NASA)",
+    "chapter": {
+        "doi": null,
+        "identifier": "federal-investments-global-change-research",
+        "number": 3,
+        "report_identifier": "usgcrp-ocpfy2014",
+        "sort_key": 30,
+        "title": "Federal Investments In Global Change Research",
+        "url": null
+    },
+    "chapter_identifier": "federal-investments-global-change-research",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/4162.json",
+            "id": 4162,
+            "organization": {
+                "country_code": "US",
+                "identifier": "national-aeronautics-space-administration",
+                "name": "National Aeronautics and Space Administration",
+                "organization_type_identifier": "federal",
+                "url": "http://www.nasa.gov"
+            },
+            "organization_uri": "/organization/national-aeronautics-space-administration",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "contributing_agency",
+            "uri": "/contributor/4162"
+        }
+    ],
+    "create_dt": "2013-04-05T00:00:00",
+    "files": [
+        {
+            "file": "bf/80/2367f2df8645a514d43b0002d763/Box_5_GPM_Satellite_High_Res_1.png",
+            "href": "http://data.globalchange.gov/assets/bf/80/2367f2df8645a514d43b0002d763/Box_5_GPM_Satellite_High_Res_1.png",
+            "identifier": "6dbbde01-81ed-468c-b9cd-9b68d952fb2e",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "3325a0a63f3ff00f4d60aaa9cfcf38a592af09f2",
+            "size": 1388595,
+            "thumbnail": "bf/80/2367f2df8645a514d43b0002d763/.thumb-6dbbde01-81ed-468c-b9cd-9b68d952fb2e.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/bf/80/2367f2df8645a514d43b0002d763/.thumb-6dbbde01-81ed-468c-b9cd-9b68d952fb2e.png",
+            "uri": "/file/6dbbde01-81ed-468c-b9cd-9b68d952fb2e",
+            "url": "/assets/bf/80/2367f2df8645a514d43b0002d763/Box_5_GPM_Satellite_High_Res_1.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2014/chapter/federal-investments-global-change-research/figure/global-precipitation-measurement-satellite.json",
+    "identifier": "global-precipitation-measurement-satellite",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-04-05T00:00:00",
+            "description": null,
+            "identifier": "c9f99323-f100-43ba-be7d-2a179eafab90",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Global Precipitation Measurement Satellite",
+            "url": null,
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 4,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2014",
+    "source_citation": "\"Visualization of the GPM Core Observatory satellite orbitting the planet earth.\" Credit: Britt Griswold. Collected April 5, 2013 https://www.flickr.com/photos/gsfc/10860068536/in/set-72157637675525645/",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Global Precipitation Measurement Satellite",
+    "uri": "/report/usgcrp-ocpfy2014/chapter/federal-investments-global-change-research/figure/global-precipitation-measurement-satellite",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

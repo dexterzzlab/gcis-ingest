@@ -1,0 +1,89 @@
+{
+    "attributes": null,
+    "caption": "This illustration highlights several stages of a well-structured decision-making process. (Figure source: adapted from NRC 2010<tbib>a230ab8f-a284-491a-91cd-45d7b8b32bdf</tbib> and Willows and Connell 2003<tbib>5dce5300-d368-4ad2-9681-bbb4f24a7d50</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0H12ZXG",
+        "identifier": "decision-support",
+        "number": 26,
+        "report_identifier": "nca3",
+        "sort_key": 260,
+        "title": "Decision Support: Connecting Science, Risk Perception, and Decisions",
+        "url": "http://nca2014.globalchange.gov/report/response-strategies/decision-support"
+    },
+    "chapter_identifier": "decision-support",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-08-14T11:16:00",
+    "files": [
+        {
+            "file": "7e/42/5e7f4cf05dca0965aa5d0e97f81a/DS_decision-making_framework_13671_v5.png",
+            "href": "http://data.globalchange.gov/assets/7e/42/5e7f4cf05dca0965aa5d0e97f81a/DS_decision-making_framework_13671_v5.png",
+            "identifier": "5b0aa97e-2066-4195-b1fb-f7900a18573d",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "b30b8449bb828eab629e304c47ea2e24185d988a",
+            "size": 302496,
+            "thumbnail": "7e/42/5e7f4cf05dca0965aa5d0e97f81a/.thumb-5b0aa97e-2066-4195-b1fb-f7900a18573d.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/7e/42/5e7f4cf05dca0965aa5d0e97f81a/.thumb-5b0aa97e-2066-4195-b1fb-f7900a18573d.png",
+            "uri": "/file/5b0aa97e-2066-4195-b1fb-f7900a18573d",
+            "url": "/assets/7e/42/5e7f4cf05dca0965aa5d0e97f81a/DS_decision-making_framework_13671_v5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/decision-support/figure/decisionmaking-framework.json",
+    "identifier": "decisionmaking-framework",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-08-14T11:16:00",
+            "description": null,
+            "identifier": "1db2ae04-854f-43db-bfb0-31986263ce1e",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Decision-Making Framework",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 3,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Climate adaptation:  Risk, uncertainty and decision-making",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/ukcip-climate-adaptation-risk-uncertainty-and-decision-making"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/5dce5300-d368-4ad2-9681-bbb4f24a7d50.json",
+            "uri": "/reference/5dce5300-d368-4ad2-9681-bbb4f24a7d50"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/a230ab8f-a284-491a-91cd-45d7b8b32bdf.json",
+            "uri": "/reference/a230ab8f-a284-491a-91cd-45d7b8b32bdf"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "adapted from NRC 2010 and Willows and Connell 2003<tbib>a230ab8f-a284-491a-91cd-45d7b8b32bdf</tbib><sup>,</sup><tbib>5dce5300-d368-4ad2-9681-bbb4f24a7d50</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Decision-Making Framework",
+    "uri": "/report/nca3/chapter/decision-support/figure/decisionmaking-framework",
+    "url": "http://nca2014.globalchange.gov/highlights/report-findings/responses/graphics/decision-making-framework",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

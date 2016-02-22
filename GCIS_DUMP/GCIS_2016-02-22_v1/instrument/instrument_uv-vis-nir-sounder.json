@@ -1,0 +1,8 @@
+{
+    "description": "High-resolution nadir-scanning SW spectrometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/uv-vis-nir-sounder.json",
+    "identifier": "uv-vis-nir-sounder",
+    "name": "UV-VIS-NIR Sounder",
+    "uri": "/instrument/uv-vis-nir-sounder"
+}

@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "Projections of contributions to sea level rise by 2100 for seven regions that include all Arctic glaciers. Projections are based on temperature and precipitation simulated by ten different global climate models from CMIP3. For each region, the estimates are shown in different colors corresponding to the ten different models. (Figure source: adapted from Radi\u0107 and Hock 2011<tbib>c426adb7-b055-4726-80f1-82d7846f46c0</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0KS6PHH",
+        "identifier": "appendix-climate-science-supplement",
+        "number": 33,
+        "report_identifier": "nca3",
+        "sort_key": 330,
+        "title": "Appendix 3: Climate Science Supplement",
+        "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement"
+    },
+    "chapter_identifier": "appendix-climate-science-supplement",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-10-29T12:41:00",
+    "files": [
+        {
+            "file": "d1/36/fd2f309def8b02db75eea53bb96a/APP_arctic_glacier_loss_V5.png",
+            "href": "http://data.globalchange.gov/assets/d1/36/fd2f309def8b02db75eea53bb96a/APP_arctic_glacier_loss_V5.png",
+            "identifier": "0577ba8b-ba70-4168-8b72-3f2e3b2d6c4a",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "ca7d9d1f480c4bb0ded15c5e0e39f5b3c03961df",
+            "size": 42491,
+            "thumbnail": "d1/36/fd2f309def8b02db75eea53bb96a/.thumb-0577ba8b-ba70-4168-8b72-3f2e3b2d6c4a.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/d1/36/fd2f309def8b02db75eea53bb96a/.thumb-0577ba8b-ba70-4168-8b72-3f2e3b2d6c4a.png",
+            "uri": "/file/0577ba8b-ba70-4168-8b72-3f2e3b2d6c4a",
+            "url": "/assets/d1/36/fd2f309def8b02db75eea53bb96a/APP_arctic_glacier_loss_V5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-climate-science-supplement/figure/melting-glaciers-lead-to-sea-level-rise.json",
+    "identifier": "melting-glaciers-lead-to-sea-level-rise",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-10-29T12:41:00",
+            "description": null,
+            "identifier": "9ff2bffc-29ed-4bfe-a8dd-c3a910f9a064",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Melting Glaciers Lead to Sea Level Rise",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 40,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Regionally differentiated contribution of mountain glaciers and ice caps to future sea-level rise",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1038/ngeo1052"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/c426adb7-b055-4726-80f1-82d7846f46c0.json",
+            "uri": "/reference/c426adb7-b055-4726-80f1-82d7846f46c0"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "adapted from Radi\u0107 and Hock 2011<tbib>c426adb7-b055-4726-80f1-82d7846f46c0</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Melting Glaciers Lead to Sea Level Rise",
+    "uri": "/report/nca3/chapter/appendix-climate-science-supplement/figure/melting-glaciers-lead-to-sea-level-rise",
+    "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/melting-glaciers-lead-sea-level-rise",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

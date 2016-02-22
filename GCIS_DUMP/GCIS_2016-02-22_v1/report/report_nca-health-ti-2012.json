@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/nca-health-ti-2012.json",
+    "identifier": "nca-health-ti-2012",
+    "in_library": null,
+    "publication_year": 2012,
+    "report_type_identifier": "technical_input",
+    "summary": null,
+    "title": "National Climate Assessment Health Sector Literature Review and Bibliography. Technical Input for the Interagency Climate Change and Human Health Group",
+    "topic": null,
+    "uri": "/report/nca-health-ti-2012",
+    "url": "http://www.globalchange.gov/what-we-do/assessment/nca-activities/available-technical-inputs"
+}

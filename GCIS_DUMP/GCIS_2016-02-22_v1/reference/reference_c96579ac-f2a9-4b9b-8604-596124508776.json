@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Ellis, James \rFisher, David\rLongstaff, Thomas\rPesante, Linda\rPethia, Richard",
+        "Institution": "Washington, DC: The President\u2019s Commission on Critical Infrastructure Protection, Carnegie Mellon University",
+        "Pages": "20",
+        "Place Published": "Pittsburgh, PA",
+        "Series Editor": "Carnegie Mellon University, Software Engineering Institute",
+        "Title": "The Report of the President\u2019s Commission on Critical Infrastructure Protection",
+        "URL": "ftp://ftp.sei.cmu.edu/public/documents/97.reports/ps/97sr003.ps",
+        "Year": "1997",
+        "_chapter": "[\"Ch. 11: Urban Systems FINAL\"]",
+        "_record_number": "3676",
+        "_uuid": "c96579ac-f2a9-4b9b-8604-596124508776",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/prescom-report-1997",
+    "href": "http://data.globalchange.gov/reference/c96579ac-f2a9-4b9b-8604-596124508776.json",
+    "identifier": "c96579ac-f2a9-4b9b-8604-596124508776",
+    "uri": "/reference/c96579ac-f2a9-4b9b-8604-596124508776"
+}

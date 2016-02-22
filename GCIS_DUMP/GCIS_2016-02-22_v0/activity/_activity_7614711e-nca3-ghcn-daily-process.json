@@ -1,0 +1,15 @@
+{
+    "computing_environment": "Linux (CentOS release 6.4); Mac OS X (darwin x86_64 m64)",
+    "data_usage": "Decadal average anomalies for the number of 2-day, 5-year precipitation events (difference between the decade and the 1901-1960 average precipitation) for the Northwest region were plotted as a bar graph. Note: the far right bar contains data for 12 years (2001-2012).",
+    "duration": "6 hours",
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/7614711e-nca3-ghcn-daily-process.json",
+    "identifier": "7614711e-nca3-ghcn-daily-process",
+    "methodology": "First, COOP stations with less than 10% missing daily precipitation data for the period 1901-2012 were identified. For each station, the accumulated precipitation values for 2-day periods were determined and then ranked for the entire period of record. Next, the top N values were identified, where N equals the number of years of available data, divided by 5. These events were considered extreme. Then, the number of extreme events in each year was computed. Next, grid box average values were calculated for each year, by averaging the values for each station available in that grid box. The annual values were then averaged for all grid boxes containing data in the Northwest region. Decadal averages were then calculated. Finally, the 1901-1960 average value was subtracted from the decadal average value, and a percentage change was calculated.",
+    "notes": "Fortran 95 was used to perform numerical calculations. IDL was used to visualize the data.",
+    "output_artifacts": "getprcpextremes_May01_2013.f95\r\nprcpextremes_2dy_5yr_19012012_May01_2013.txt \r\ngridaverage_regions_May01_2013.f95\r\ngridprcpextremes_regions_2dy_5yr_19012012_May01_2013.txt\r\ngridprcpextremes_regions_2dy_5yr_19012012_May01_2013.csv\r\nprecip_2dy5yr_decadal_barchart.pro\r\nprecip_2dy5yr_anom_decadal_values_1901-2012.txt\r\nprecip_2dy5yr_anom_min_max_values_1901-2012.txt\r\nNW_precip_2dy5yr_anom_pct_1901_2012.eps\r\nAPP_extreme precipitation_v8.png",
+    "software": "Fortran 95; lf95 compiler (Lahey/Fujitsu Linux64 Fortran compiler release L8.10b); IDL (version 8.0)",
+    "start_time": null,
+    "uri": "/activity/7614711e-nca3-ghcn-daily-process",
+    "visualization_software": "IDL (version 8.0)"
+}

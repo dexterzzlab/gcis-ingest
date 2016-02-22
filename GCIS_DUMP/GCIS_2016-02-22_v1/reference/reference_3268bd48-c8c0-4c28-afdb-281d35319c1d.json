@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "32",
+        "Author": "GAO,",
+        "Pages": "22",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "U.S. Government Accountability Office",
+        "Title": "National Flood Insurance Program: Actions to Address Repetitive Loss Properties. GAO-04-401T",
+        "URL": "http://www.gao.gov/assets/120/110626.pdf",
+        "Year": "2004",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "1150",
+        "_uuid": "3268bd48-c8c0-4c28-afdb-281d35319c1d",
+        "reftype": "Government Document"
+    },
+    "child_publication": "/report/gao-04-401t",
+    "href": "http://data.globalchange.gov/reference/3268bd48-c8c0-4c28-afdb-281d35319c1d.json",
+    "identifier": "3268bd48-c8c0-4c28-afdb-281d35319c1d",
+    "uri": "/reference/3268bd48-c8c0-4c28-afdb-281d35319c1d"
+}

@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Author": "SFWMD,",
+        "Place Published": "West Palm Beach, Florida",
+        "Publisher": "South Florida Water Management District",
+        "Title": "Climate Change and Water Management in South Florida. Interdepartmental Climate Change Group report November 12, 2009",
+        "URL": "https://my.sfwmd.gov/portal/page/portal/xrepository/sfwmd_repository_pdf/climate_change_and_water_management_in_sflorida_12nov2009.pdf",
+        "Year": "2009",
+        "_chapter": "[\"RG 2 Southeast\",\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "2821",
+        "_uuid": "0a764a80-1238-4980-a5e3-bdd348124cc4",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/report/sfwmd-management-2009",
+    "href": "http://data.globalchange.gov/reference/0a764a80-1238-4980-a5e3-bdd348124cc4.json",
+    "identifier": "0a764a80-1238-4980-a5e3-bdd348124cc4",
+    "uri": "/reference/0a764a80-1238-4980-a5e3-bdd348124cc4"
+}

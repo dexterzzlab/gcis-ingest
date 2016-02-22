@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Parmesan, C.",
+        "DOI": "10.1111/j.1365-2486.2007.01404.x",
+        "Issue": "9",
+        "Journal": "Global Change Biology",
+        "Pages": "1860-1872",
+        "Title": "Influences of species, latitudes and methodologies on estimates of phenological response to global warming",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2486.2007.01404.x/pdf",
+        "Volume": "13",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\",\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "2430",
+        "_uuid": "03297bb4-3833-4606-ae88-a166d29b7288",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1365-2486.2007.01404.x",
+    "href": "http://data.globalchange.gov/reference/03297bb4-3833-4606-ae88-a166d29b7288.json",
+    "identifier": "03297bb4-3833-4606-ae88-a166d29b7288",
+    "uri": "/reference/03297bb4-3833-4606-ae88-a166d29b7288"
+}

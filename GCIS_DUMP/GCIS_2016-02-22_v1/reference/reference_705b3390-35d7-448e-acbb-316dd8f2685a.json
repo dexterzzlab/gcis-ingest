@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Singer, M.",
+        "DOI": "10.1353/anq.0.0077",
+        "Issue": "3",
+        "Journal": "Anthropological Quarterly",
+        "Pages": "795-820",
+        "Title": "Beyond global warming: Interacting ecocrises and the critical anthropology of health",
+        "Volume": "82",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\"]",
+        "_record_number": "2858",
+        "_uuid": "705b3390-35d7-448e-acbb-316dd8f2685a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1353/anq.0.0077",
+    "href": "http://data.globalchange.gov/reference/705b3390-35d7-448e-acbb-316dd8f2685a.json",
+    "identifier": "705b3390-35d7-448e-acbb-316dd8f2685a",
+    "uri": "/reference/705b3390-35d7-448e-acbb-316dd8f2685a"
+}

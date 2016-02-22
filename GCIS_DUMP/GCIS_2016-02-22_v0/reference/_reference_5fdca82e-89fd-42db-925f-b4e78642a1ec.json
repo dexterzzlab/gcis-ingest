@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Accession Number": "ISI:000089818100034",
+        "Alternate Journal": "Science",
+        "Author": "Falkowski, P.\rScholes, R. J.\rBoyle, E.\rCanadell, J.\rCanfield, D.\rElser, J.\rGruber, N.\rHibbard, K.\rHogberg, P.\rLinder, S.\rMackenzie, F. T.\rMoore, B., III\rPedersen, T.\rRosenthal, Y.\rSeitzinger, S.\rSmetacek, V.\rSteffen, W.",
+        "DOI": "10.1126/science.290.5490.291",
+        "Date": "Oct 13",
+        "Issue": "5490",
+        "Journal": "Science",
+        "Keywords": "NOx",
+        "Pages": "291-296",
+        "Title": "The global carbon cycle: A test of our knowledge of Earth as a system",
+        "Volume": "290",
+        "Year": "2000",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "764",
+        "_uuid": "5fdca82e-89fd-42db-925f-b4e78642a1ec",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.290.5490.291",
+    "href": "http://data.globalchange.gov/reference/5fdca82e-89fd-42db-925f-b4e78642a1ec.json",
+    "identifier": "5fdca82e-89fd-42db-925f-b4e78642a1ec",
+    "uri": "/reference/5fdca82e-89fd-42db-925f-b4e78642a1ec"
+}

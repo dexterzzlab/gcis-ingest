@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Schoennagel, T.\rR.L. Sherriff\rT.T. Veblen",
+        "DOI": "10.1890/10-1222.1",
+        "Issue": "6",
+        "Journal": "Ecological Applications",
+        "Pages": "2210\u20132222",
+        "Title": "Fire history and tree recruitment in the Colorado Front Range upper montane zone: Implications for forest restoration",
+        "URL": "http://frontrangeroundtable.org/uploads/Schoennagel_et_al_Front_Range_Upper_Montane_EA_2011.pdf",
+        "Volume": "21",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\",\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "2779",
+        "_uuid": "cfab787b-29ec-4027-9623-a194c6ae4db3",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/10-1222.1",
+    "href": "http://data.globalchange.gov/reference/cfab787b-29ec-4027-9623-a194c6ae4db3.json",
+    "identifier": "cfab787b-29ec-4027-9623-a194c6ae4db3",
+    "uri": "/reference/cfab787b-29ec-4027-9623-a194c6ae4db3"
+}

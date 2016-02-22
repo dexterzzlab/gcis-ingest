@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Wu, Z.\rDijkstra, P.\rKoch, G.W.\nPe\u00f1uelas, J.\rHungate, B.A.",
+        "DOI": "10.1111/j.1365-2486.2010.02302.x",
+        "ISSN": "1365-2486",
+        "Issue": "2",
+        "Journal": "Global Change Biology",
+        "Pages": "927-942",
+        "Title": "Responses of terrestrial ecosystems to temperature and precipitation change: A meta-analysis of experimental manipulation",
+        "Volume": "17",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "3492",
+        "_uuid": "c1c68aa1-23cd-4a29-843a-c9d609a2efe0",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1365-2486.2010.02302.x",
+    "href": "http://data.globalchange.gov/reference/c1c68aa1-23cd-4a29-843a-c9d609a2efe0.json",
+    "identifier": "c1c68aa1-23cd-4a29-843a-c9d609a2efe0",
+    "uri": "/reference/c1c68aa1-23cd-4a29-843a-c9d609a2efe0"
+}

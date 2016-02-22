@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Fire scars in giant sequoia [Sequoiadendron giganteum (Lindley) Buchholz] were used to reconstruct the spatial and temporal pattern of surface fires that burned episodically through five groves during the past 2000 years. Comparisons with independent dendroclimatic reconstructions indicate that regionally synchronous fire occurrence was inversely related to yearly fluctuations in precipitation and directly related to decadal-to-centennial variations in temperature. Frequent small fires occurred during a warm period from about A.D. 1000 to 1300, and less frequent but more widespread fires occurred during cooler periods from about A.D. 500 to 1000 and after A.D. 1300. Regionally synchronous fire histories demonstrate the importance of climate in maintaining nonequilibrium conditions.",
+        "Author": "Swetnam, Thomas W.",
+        "DOI": "10.1126/science.262.5135.885",
+        "Date": "November 5, 1993",
+        "Issue": "5135",
+        "Journal": "Science",
+        "Pages": "885-889",
+        "Title": "Fire history and climate change in giant sequoia groves",
+        "Volume": "262",
+        "Year": "1993",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "3003",
+        "_uuid": "d9676336-763f-4566-a262-87e7fb0d6e78",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.262.5135.885",
+    "href": "http://data.globalchange.gov/reference/d9676336-763f-4566-a262-87e7fb0d6e78.json",
+    "identifier": "d9676336-763f-4566-a262-87e7fb0d6e78",
+    "uri": "/reference/d9676336-763f-4566-a262-87e7fb0d6e78"
+}

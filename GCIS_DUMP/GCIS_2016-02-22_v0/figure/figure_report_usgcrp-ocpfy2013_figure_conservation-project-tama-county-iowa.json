@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "A small dam, terraces, buffer strips. amd grass plantings are part of a conservation project to improve quality of water entering Union Grove Lake in Tama County, Iowa. ",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "dc/3d/6c50895d3839f091f24d90b98efc/OCP_2013_Page_31_Image_0001.jpg",
+            "href": "http://data.globalchange.gov/assets/dc/3d/6c50895d3839f091f24d90b98efc/OCP_2013_Page_31_Image_0001.jpg",
+            "identifier": "a934f8b9-d3c0-4304-ba3a-42be9129e629",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "ef93eba14ed49205ac53dc2a5fb3269e8445d9db",
+            "size": 242938,
+            "thumbnail": "dc/3d/6c50895d3839f091f24d90b98efc/.thumb-a934f8b9-d3c0-4304-ba3a-42be9129e629.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/dc/3d/6c50895d3839f091f24d90b98efc/.thumb-a934f8b9-d3c0-4304-ba3a-42be9129e629.png",
+            "uri": "/file/a934f8b9-d3c0-4304-ba3a-42be9129e629",
+            "url": "/assets/dc/3d/6c50895d3839f091f24d90b98efc/OCP_2013_Page_31_Image_0001.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2013/figure/conservation-project-tama-county-iowa.json",
+    "identifier": "conservation-project-tama-county-iowa",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2013",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Conservation Project in Tama County, IA",
+    "uri": "/report/usgcrp-ocpfy2013/figure/conservation-project-tama-county-iowa",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

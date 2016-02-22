@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Li, B.\rSain, S.\rMearns, L.O.\rAnderson, H.A.\rKovats, S.\rEbi, K.L.\rBekkedal, M.Y.V.\rKanarek, M.S.\rPatz, J.A.",
+        "DOI": "10.1007/s10584-011-0120-y",
+        "ISSN": "0165-0009",
+        "Issue": "3",
+        "Journal": "Climatic Change",
+        "Pages": "959-976",
+        "Title": "The impact of extreme heat on morbidity in Milwaukee, Wisconsin",
+        "Volume": "110",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "888",
+        "_uuid": "cb5916fb-a8a3-4950-a3b1-a2d2da55cc7c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-011-0120-y",
+    "href": "http://data.globalchange.gov/reference/cb5916fb-a8a3-4950-a3b1-a2d2da55cc7c.json",
+    "identifier": "cb5916fb-a8a3-4950-a3b1-a2d2da55cc7c",
+    "uri": "/reference/cb5916fb-a8a3-4950-a3b1-a2d2da55cc7c"
+}

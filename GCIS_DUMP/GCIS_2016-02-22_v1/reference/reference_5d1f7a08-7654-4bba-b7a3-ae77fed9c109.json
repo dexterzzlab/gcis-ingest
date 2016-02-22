@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Assessing the impact of future anthropogenic carbon emissions is currently impeded by uncertainties in our knowledge of equilibrium climate sensitivity to atmospheric carbon dioxide doubling. Previous studies suggest 3 kelvin (K) as the best estimate, 2 to 4.5 K as the 66% probability range, and nonzero probabilities for much higher values, the latter implying a small chance of high-impact climate changes that would be difficult to avoid. Here, combining extensive sea and land surface temperature reconstructions from the Last Glacial Maximum with climate model simulations, we estimate a lower median (2.3 K) and reduced uncertainty (1.7 to 2.6 K as the 66% probability range, which can be widened using alternate assumptions or data subsets). Assuming that paleoclimatic constraints apply to the future, as predicted by our model, these results imply a lower probability of imminent extreme climatic change than previously thought.",
+        "Author": "Schmittner, Andreas\rUrban, Nathan M.\rShakun, Jeremy D.\rMahowald, Natalie M.\rClark, Peter U.\rBartlein, Patrick J.\rMix, Alan C.\rRosell-Mel\u00e9, Antoni",
+        "DOI": "10.1126/science.1203513",
+        "Date": "December 9, 2011",
+        "Issue": "6061",
+        "Journal": "Science",
+        "Pages": "1385-1388",
+        "Title": "Climate sensitivity estimated from temperature reconstructions of the last glacial maximum",
+        "URL": "http://www.sciencemag.org/content/334/6061/1385.abstract",
+        "Volume": "334",
+        "Year": "2011",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "3744",
+        "_uuid": "5d1f7a08-7654-4bba-b7a3-ae77fed9c109",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1203513",
+    "href": "http://data.globalchange.gov/reference/5d1f7a08-7654-4bba-b7a3-ae77fed9c109.json",
+    "identifier": "5d1f7a08-7654-4bba-b7a3-ae77fed9c109",
+    "uri": "/reference/5d1f7a08-7654-4bba-b7a3-ae77fed9c109"
+}

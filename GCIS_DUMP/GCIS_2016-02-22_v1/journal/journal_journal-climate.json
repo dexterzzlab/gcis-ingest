@@ -1,0 +1,12 @@
+{
+    "country": "US",
+    "href": "http://data.globalchange.gov/journal/journal-climate.json",
+    "identifier": "journal-climate",
+    "notes": null,
+    "online_issn": "1520-0442",
+    "print_issn": "0894-8755",
+    "publisher": "American Meteorological Society",
+    "title": "Journal of Climate",
+    "uri": "/journal/journal-climate",
+    "url": "http://journals.ametsoc.org/loi/clim"
+}

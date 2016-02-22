@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Novel mathematical approaches and satellite imagery allow the mapping of ocean biomes. The equal area projection map shown is for the year 2006 and is constructed using ocean color and sea surface temperature data acquired by NASA\u2019s MODIS-Aqua. Colors identify distinct classifications (province types) and do not represent the value of any of the predictor variables. Credit: M.J. Oliver, Rutgers University, and A.J. Irwin, Mount Allison University (adapted from Geophysical Research Letters with permission from the American Geophysical Union).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "b5/cf/08ddc175d236e3b863430b816d9e/our_changing_planet_2010_image__10_20091209_1770274561.jpg",
+            "href": "http://data.globalchange.gov/assets/b5/cf/08ddc175d236e3b863430b816d9e/our_changing_planet_2010_image__10_20091209_1770274561.jpg",
+            "identifier": "a19b3dc0-c640-4548-95ef-561819dbd454",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "809fa53b533e0943df9f0ce894315e532c6becba",
+            "size": 412217,
+            "thumbnail": "b5/cf/08ddc175d236e3b863430b816d9e/.thumb-a19b3dc0-c640-4548-95ef-561819dbd454.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/b5/cf/08ddc175d236e3b863430b816d9e/.thumb-a19b3dc0-c640-4548-95ef-561819dbd454.png",
+            "uri": "/file/a19b3dc0-c640-4548-95ef-561819dbd454",
+            "url": "/assets/b5/cf/08ddc175d236e3b863430b816d9e/our_changing_planet_2010_image__10_20091209_1770274561.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2010/figure/ocean-biomes-mapped-from-satellite.json",
+    "identifier": "ocean-biomes-mapped-from-satellite",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2010",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Ocean Biomes Mapped from Satellite",
+    "uri": "/report/usgcrp-ocpfy2010/figure/ocean-biomes-mapped-from-satellite",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

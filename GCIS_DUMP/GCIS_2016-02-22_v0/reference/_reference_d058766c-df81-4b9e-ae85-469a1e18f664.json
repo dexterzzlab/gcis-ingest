@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Nearing, M.A.",
+        "ISSN": "0022-4561",
+        "Issue": "3",
+        "Journal": "Journal of Soil and Water Conservation",
+        "Pages": "229-232",
+        "Title": "Potential changes in rainfall erosivity in the US with climate change during the 21st century",
+        "Volume": "56",
+        "Year": "2001",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "2184",
+        "_uuid": "d058766c-df81-4b9e-ae85-469a1e18f664",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/potential-changes-in-rainfall-erosivity-in-the-us-with-climate-change-during-the-21st-century",
+    "href": "http://data.globalchange.gov/reference/d058766c-df81-4b9e-ae85-469a1e18f664.json",
+    "identifier": "d058766c-df81-4b9e-ae85-469a1e18f664",
+    "uri": "/reference/d058766c-df81-4b9e-ae85-469a1e18f664"
+}

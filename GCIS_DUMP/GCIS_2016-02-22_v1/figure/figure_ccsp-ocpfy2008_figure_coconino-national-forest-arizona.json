@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "This photo shows Coconino National Forest 10 years after an intense stand- replacing wildfire. The wildfire converted the site from a dense forest of ponderosa pine to a grassland in which trees have not regenerated. Such a conversion from forest to grass- or shrub-land is common in ponderosa pine forests of the southwestern United States following intense wildfire. The instrument tower measures ecosystem CO2 flux for comparison with unburned forest. This site was a CO2 sink 10 years ago, but is now a CO2 source due to decomposition of organic matter in the soil offsetting photosynthesis by the low leaf area of the grassland. Credit: M. Montes-Helu, Northern Arizona University.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "69/ff/15ed08212a57198835d50dbb465a/our_changing_planet_2008_73_20090708_1767979648.jpg",
+            "href": "http://data.globalchange.gov/assets/69/ff/15ed08212a57198835d50dbb465a/our_changing_planet_2008_73_20090708_1767979648.jpg",
+            "identifier": "60e8ddec-2411-4807-a415-b4cb9b00e878",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "9889cabafe0c7f130ea981cca9150b815ad9f0b7",
+            "size": 48438,
+            "thumbnail": "69/ff/15ed08212a57198835d50dbb465a/.thumb-60e8ddec-2411-4807-a415-b4cb9b00e878.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/69/ff/15ed08212a57198835d50dbb465a/.thumb-60e8ddec-2411-4807-a415-b4cb9b00e878.png",
+            "uri": "/file/60e8ddec-2411-4807-a415-b4cb9b00e878",
+            "url": "/assets/69/ff/15ed08212a57198835d50dbb465a/our_changing_planet_2008_73_20090708_1767979648.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2008/figure/coconino-national-forest-arizona.json",
+    "identifier": "coconino-national-forest-arizona",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2008",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Coconino National Forest, Northern Arizona",
+    "uri": "/report/ccsp-ocpfy2008/figure/coconino-national-forest-arizona",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

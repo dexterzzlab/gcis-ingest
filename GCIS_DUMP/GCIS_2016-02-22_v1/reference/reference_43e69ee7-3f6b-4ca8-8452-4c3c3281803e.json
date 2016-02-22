@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Nickels, S.\rFurgal, C.\rBuell, M.\rMoquin, H",
+        "Institution": "Inuit Tapiriit Kanatami, Nasivvik Centre for Inuit Health and Changing Environments at Universit\u00e9 Laval and the Ajunnginiq Centre at the National Aboriginal Health Organization",
+        "Pages": "129",
+        "Place Published": "Ottawa",
+        "Title": "Unikkaaqatigiit: Putting the Human Face on Climate Change: Perspectives from Inuit in Canada",
+        "URL": "http://www.itk.ca/sites/default/files/unikkaaqatigiit01_0.pdf",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\"]",
+        "_record_number": "2218",
+        "_uuid": "43e69ee7-3f6b-4ca8-8452-4c3c3281803e",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/inuit-unikkaaqatigiit-2005",
+    "href": "http://data.globalchange.gov/reference/43e69ee7-3f6b-4ca8-8452-4c3c3281803e.json",
+    "identifier": "43e69ee7-3f6b-4ca8-8452-4c3c3281803e",
+    "uri": "/reference/43e69ee7-3f6b-4ca8-8452-4c3c3281803e"
+}

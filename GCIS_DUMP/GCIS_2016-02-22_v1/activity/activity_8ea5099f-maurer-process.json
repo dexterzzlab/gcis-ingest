@@ -1,0 +1,15 @@
+{
+    "computing_environment": "Linux (Red Hat Enterprise Linux Server release 6.4)\r\nMac OS X (darwin x86_64 m64)",
+    "data_usage": "The observed annual maximum number of consecutive days with precipitation less than 0.01 inches for 1971-2000 was plotted for the U.S. Great Plains.",
+    "duration": "56 hours",
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/8ea5099f-maurer-process.json",
+    "identifier": "8ea5099f-maurer-process",
+    "methodology": "1. At each grid point, the maximum number of consecutive days with precipitation less than 0.01 inches was calculated for each year (provided data were available for 95% of the days at that grid point).\r\n2. At each grid point, the mean annual maximum number of consecutive days with precipitation less than 0.01 inches was computed for the period 1971-2000.\r\n3. Data were plotted for all grid points in the U.S. Great Plains.",
+    "notes": "SciPy, IDL, GrADS",
+    "output_artifacts": "array_ops.py\r\narray_ops.pyc\r\nclusterify_each_year.py\r\nclusterify.py\r\nconfig.py\r\nconfig.pyc\r\npi_calc_percentiles.py\r\nconsecDD_1971-2000.txt\r\nconsecDD_plot.pro\r\nconsecDD_1971-2000.nc\r\nconsecDD_1971-2000.ctl\r\nconsecDD_plot.gs\r\nconsecDD_maurer.png\r\nConsecDryDays_1971_2000_GP.png\r\n19-5-a.png\r\nGP_dry days projected_V3.png",
+    "software": "SciPy (v0.10.1), IDL (v8.0), GrADS (v2.0.2)",
+    "start_time": null,
+    "uri": "/activity/8ea5099f-maurer-process",
+    "visualization_software": "GrADS"
+}

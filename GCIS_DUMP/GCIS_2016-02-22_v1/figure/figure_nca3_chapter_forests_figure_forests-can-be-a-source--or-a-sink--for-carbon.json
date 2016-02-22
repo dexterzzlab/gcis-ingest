@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "Relative vulnerability of different forest regions to climate change is illustrated in this conceptual risk analysis diagram. Forest carbon exchange is the difference between carbon captured in photosynthesis and carbon released by respiration of vegetation and soils. Both photosynthesis and respiration are generally accelerated by higher temperatures, and slowed by water deficits, but the relative strengths of these controls are highly variable. Western forests are inherently limited by evaporation that exceeds precipitation during much of the growing season. Xeric (drier) eastern forests grow on shallow, coarse textured soils and experience water deficits during long periods without rain. Mesic (wetter) eastern forests experience severe water deficits only for relatively brief periods in abnormally dry years so the carbon exchanges are more controlled by temperature fluctuations. (Figure source: adapted from Vose et al. 2012<tbib>78f2cbd8-d8f2-4d99-abbd-017bad4d52f1</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0Z60KZC",
+        "identifier": "forests",
+        "number": 7,
+        "report_identifier": "nca3",
+        "sort_key": 70,
+        "title": "Forests",
+        "url": "http://nca2014.globalchange.gov/report/sectors/forests"
+    },
+    "chapter_identifier": "forests",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-09-16T15:12:13",
+    "files": [
+        {
+            "file": "e0/a9/7e521ec44a04c8ad7ae7d054fac1/Forests_carbon_exchange_risk_matrix_V3.png",
+            "href": "http://data.globalchange.gov/assets/e0/a9/7e521ec44a04c8ad7ae7d054fac1/Forests_carbon_exchange_risk_matrix_V3.png",
+            "identifier": "4d900c53-1556-4e28-a616-37a599d8311b",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "cb92545b698ccf31daaa84f5877fb0245cf5be46",
+            "size": 171897,
+            "thumbnail": "e0/a9/7e521ec44a04c8ad7ae7d054fac1/.thumb-4d900c53-1556-4e28-a616-37a599d8311b.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/e0/a9/7e521ec44a04c8ad7ae7d054fac1/.thumb-4d900c53-1556-4e28-a616-37a599d8311b.png",
+            "uri": "/file/4d900c53-1556-4e28-a616-37a599d8311b",
+            "url": "/assets/e0/a9/7e521ec44a04c8ad7ae7d054fac1/Forests_carbon_exchange_risk_matrix_V3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/forests/figure/forests-can-be-a-source--or-a-sink--for-carbon.json",
+    "identifier": "forests-can-be-a-source--or-a-sink--for-carbon",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-09-16T15:12:13",
+            "description": null,
+            "identifier": "3098e848-5a87-4880-955c-658fbc18801e",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Forests can be a Source \u2013 or a Sink \u2013 for Carbon",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 4,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Effects of Climatic Variability and Change on Forest Ecosystems: A Comprehensive Science Synthesis for the U.S. Forest Sector",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/usfs-pnw-gtr-870"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/78f2cbd8-d8f2-4d99-abbd-017bad4d52f1.json",
+            "uri": "/reference/78f2cbd8-d8f2-4d99-abbd-017bad4d52f1"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "adapted from Vose et al. 2012<tbib>78f2cbd8-d8f2-4d99-abbd-017bad4d52f1</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Forests can be a Source \u2013 or a Sink \u2013 for Carbon",
+    "uri": "/report/nca3/chapter/forests/figure/forests-can-be-a-source--or-a-sink--for-carbon",
+    "url": "http://nca2014.globalchange.gov/report/sectors/forests/graphics/forests-can-be-source-or-sink-carbon",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

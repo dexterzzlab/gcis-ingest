@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Oblique photograph of a radial pattern of deforestation near San Javier in the Santa Cruz Department of Bolivia, where tropical seasonal or deciduous forest is being cleared for agriculture. This radial pattern of land use is typical of new settlements where people from the Altiplano are being relocated to the lowlands of Bolivia. Credit: C.J. Tucker, NASA/Goddard Space Flight Center.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "2b/77/9361cde31ff36b4660a93187f655/our_changing_planet_2010_image__17_20091209_1741671768.jpg",
+            "href": "http://data.globalchange.gov/assets/2b/77/9361cde31ff36b4660a93187f655/our_changing_planet_2010_image__17_20091209_1741671768.jpg",
+            "identifier": "1fdf8c08-314e-45c8-81c9-fc1c414593ef",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "a4d4040acbec5801201399398af3861417ed6bf3",
+            "size": 444829,
+            "thumbnail": "2b/77/9361cde31ff36b4660a93187f655/.thumb-1fdf8c08-314e-45c8-81c9-fc1c414593ef.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/2b/77/9361cde31ff36b4660a93187f655/.thumb-1fdf8c08-314e-45c8-81c9-fc1c414593ef.png",
+            "uri": "/file/1fdf8c08-314e-45c8-81c9-fc1c414593ef",
+            "url": "/assets/2b/77/9361cde31ff36b4660a93187f655/our_changing_planet_2010_image__17_20091209_1741671768.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2010/figure/patterns-of-deforestation.json",
+    "identifier": "patterns-of-deforestation",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2010",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Patterns of Deforestation",
+    "uri": "/report/usgcrp-ocpfy2010/figure/patterns-of-deforestation",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

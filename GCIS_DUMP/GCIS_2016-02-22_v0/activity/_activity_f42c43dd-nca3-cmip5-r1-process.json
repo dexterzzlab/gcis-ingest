@@ -1,0 +1,15 @@
+{
+    "computing_environment": "UNIX",
+    "data_usage": "Multi-model mean CMIP5 (RCP 8.5 scenario) projections of the average temperature of the coldest days were plotted for the United States, for the later part of this century (2081-2100) compared to the later part of last century (1986-2005).",
+    "duration": null,
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/f42c43dd-nca3-cmip5-r1-process.json",
+    "identifier": "f42c43dd-nca3-cmip5-r1-process",
+    "methodology": "The middle right panel of figure 3 from Kharin et al. (2013) was redrawn to include only the US and converted to deg F. The following models were used:\r\nACCESS1-0, ACCESS1-3, bcc-csm1-1, BNU-ESM, CanESM2, CCSM4, CESM1-BGC, CESM1-CAM5, CESM1-WACCM, CMCC-CM, CNRM-CM5, CSIRO-Mk3-6-0, EC-EARTH, FGOALS-g2, FGOALS-s2, FIO-ESM, GFDL-CM3, GFDL-ESM2G, GFDL-ESM2M, GISS-E2-R, HadGEM2-AO, HadGEM2-CC, HadGEM2-ES, inmcm4, IPSL-CM5A-LR, IPSL-CM5A-MR, MIROC5, MIROC-ESM-CHEM, MIROC-ESM, MPI-ESM-LR, MPI-ESM-MR, MRI-CGCM3, NorESM1-ME, and NorESM1-M.",
+    "notes": "Python",
+    "output_artifacts": "Custom python codes written by Michael Wehner\r\nCS_rare temperature events_RCPs_original.jpeg\r\n2-20_b.png\r\nCS_rare temperature events_RCPs_V5.png",
+    "software": "Python",
+    "start_time": null,
+    "uri": "/activity/f42c43dd-nca3-cmip5-r1-process",
+    "visualization_software": "Python"
+}

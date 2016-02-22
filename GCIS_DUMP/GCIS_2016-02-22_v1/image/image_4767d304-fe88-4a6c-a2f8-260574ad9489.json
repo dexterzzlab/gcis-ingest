@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2012-11-01T16:37:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Agricultural activity is distributed across the U.S. with market value and crop types varying by region. In 2010, the total market value was nearly $330 billion. Wide variability in climate, commodities, and practices across the U.S. will likely result in differing responses, both in terms of yield and management. (Figure source: USDA National Agricultural Statistics Service 2008<tbib>58ac7c6f-2fda-4beb-9d1a-aaba9b0e0011</tbib>).",
+            "chapter_identifier": "agriculture",
+            "create_dt": "2012-11-01T16:37:00",
+            "identifier": "agricultural-distribution",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 2,
+            "report_identifier": "nca3",
+            "source_citation": "USDA National Agricultural Statistics Service 2008<tbib>58ac7c6f-2fda-4beb-9d1a-aaba9b0e0011</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Agricultural Distribution",
+            "url": "http://nca2014.globalchange.gov/report/sectors/agriculture/graphics/agricultural-distribution",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "5c/7e/6f371539b6adcdc4a341a87a4003/ag_6-2_mvofag.png",
+            "href": "http://data.globalchange.gov/assets/5c/7e/6f371539b6adcdc4a341a87a4003/ag_6-2_mvofag.png",
+            "identifier": "f037b31b-fa02-430c-a2ea-a31a97c1e4ba",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "379a4ec8b5bc3b67397b68d2bf2d35f8157fa2eb",
+            "size": 310716,
+            "thumbnail": "5c/7e/6f371539b6adcdc4a341a87a4003/.thumb-f037b31b-fa02-430c-a2ea-a31a97c1e4ba.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/5c/7e/6f371539b6adcdc4a341a87a4003/.thumb-f037b31b-fa02-430c-a2ea-a31a97c1e4ba.png",
+            "uri": "/file/f037b31b-fa02-430c-a2ea-a31a97c1e4ba",
+            "url": "/assets/5c/7e/6f371539b6adcdc4a341a87a4003/ag_6-2_mvofag.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/4767d304-fe88-4a6c-a2f8-260574ad9489.json",
+    "identifier": "4767d304-fe88-4a6c-a2f8-260574ad9489",
+    "lat_max": "71.398048",
+    "lat_min": "18.913826",
+    "lon_max": "-66.957802",
+    "lon_min": "-179.133392",
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2007-12-31T23:59:59",
+    "time_start": "2007-01-01T00:00:00",
+    "title": "Agricultural Distribution - Market Value of Agricultural Products Sold: 2007",
+    "uri": "/image/4767d304-fe88-4a6c-a2f8-260574ad9489",
+    "url": null,
+    "usage_limits": null
+}

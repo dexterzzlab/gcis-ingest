@@ -1,0 +1,80 @@
+{
+    "attributes": null,
+    "caption": "Agriculture is in yellow, forests are shades of green, shrublands are gray, and urban areas are in red. The river is used for hydropower generation, flood control, agriculture irrigation, recreation, support of forest and shrubland ecosystems, and fish and wildlife habitat. Climate change may impact the timing and supply of the water resources, affecting the multiple uses of this river system. (Figure source: Northwest Habitat Institute 1999).",
+    "chapter": {
+        "doi": "10.7930/J0JW8BSF",
+        "identifier": "water-energy-land-use",
+        "number": 10,
+        "report_identifier": "nca3",
+        "sort_key": 100,
+        "title": "Energy, Water, and Land Use",
+        "url": "http://nca2014.globalchange.gov/report/sectors/energy-water-and-land"
+    },
+    "chapter_identifier": "water-energy-land-use",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-03-20T09:20:00",
+    "files": [
+        {
+            "file": "19/63/7e1977dea93b2d9b8acbcb139a10/WEL_columbia_river_basin_V2.png",
+            "href": "http://data.globalchange.gov/assets/19/63/7e1977dea93b2d9b8acbcb139a10/WEL_columbia_river_basin_V2.png",
+            "identifier": "cad61c99-1d86-4ac3-bff9-4b987fb08b5b",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "8fd59473f7e04e77c0521c71c9a90da6231b97ba",
+            "size": 1967368,
+            "thumbnail": "19/63/7e1977dea93b2d9b8acbcb139a10/.thumb-cad61c99-1d86-4ac3-bff9-4b987fb08b5b.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/19/63/7e1977dea93b2d9b8acbcb139a10/.thumb-cad61c99-1d86-4ac3-bff9-4b987fb08b5b.png",
+            "uri": "/file/cad61c99-1d86-4ac3-bff9-4b987fb08b5b",
+            "url": "/assets/19/63/7e1977dea93b2d9b8acbcb139a10/WEL_columbia_river_basin_V2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/water-energy-land-use/figure/the-columbia-river-basin-land-use-and-land-cover.json",
+    "identifier": "the-columbia-river-basin-land-use-and-land-cover",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2014-03-20T09:20:00",
+            "description": null,
+            "identifier": "ff8be700-37f2-43fa-87ed-b2e9888b0466",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "The Columbia River Basin Land Use and Land Cover",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 10,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "webpage Northwest Habitat Institute",
+            "note": null,
+            "publication_type_identifier": "webpage",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/webpage/e6438f11-85f4-4c29-abb5-b09efa3279b2"
+        }
+    ],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": "Northwest Habitat Institute 1999",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "The Columbia River Basin Land Use and Land Cover",
+    "uri": "/report/nca3/chapter/water-energy-land-use/figure/the-columbia-river-basin-land-use-and-land-cover",
+    "url": "http://nca2014.globalchange.gov/report/sectors/energy-water-and-land/graphics/columbia-river-basin-land-use-and-land-cover",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

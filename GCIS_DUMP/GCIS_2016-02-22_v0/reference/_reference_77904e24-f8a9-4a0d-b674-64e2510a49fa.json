@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Jeffcoat, S.\rBaughman, D.\rThomas, P.M.",
+        "ISSN": "0003-150X",
+        "Issue": "2",
+        "Journal": "Journal American Water Works Association",
+        "Pages": "56-64",
+        "Title": "Total water management strategies for utility master planning",
+        "Volume": "101",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "1676",
+        "_uuid": "77904e24-f8a9-4a0d-b674-64e2510a49fa",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/total-water-management-strategies-for-utility-master-planning",
+    "href": "http://data.globalchange.gov/reference/77904e24-f8a9-4a0d-b674-64e2510a49fa.json",
+    "identifier": "77904e24-f8a9-4a0d-b674-64e2510a49fa",
+    "uri": "/reference/77904e24-f8a9-4a0d-b674-64e2510a49fa"
+}

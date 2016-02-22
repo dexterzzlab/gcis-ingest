@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Young, W. J.",
+        "Institution": "Samoa Meteorology Division",
+        "Pages": "26",
+        "Title": "Climate Risk Profile for Samoa",
+        "URL": "http://www.sprep.org/att/publication/000679_CCProfileSamoaupdated.pdf",
+        "Volume": "2007",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "3513",
+        "_uuid": "ab312e6f-70ad-4653-ac9f-78ce77e4ded7",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/samoametdiv-climrisk-2007",
+    "href": "http://data.globalchange.gov/reference/ab312e6f-70ad-4653-ac9f-78ce77e4ded7.json",
+    "identifier": "ab312e6f-70ad-4653-ac9f-78ce77e4ded7",
+    "uri": "/reference/ab312e6f-70ad-4653-ac9f-78ce77e4ded7"
+}

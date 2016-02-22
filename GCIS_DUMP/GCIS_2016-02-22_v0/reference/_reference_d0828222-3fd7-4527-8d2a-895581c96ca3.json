@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "The power sector withdraws more freshwater annually than any other sector in the US. The current portfolio of electricity generating technologies in the US has highly regionalized and technology-specific requirements for water. Water availability differs widely throughout the nation. As a result, assessments of water impacts from the power sector must have a high geographic resolution and consider regional, basin-level differences. The US electricity portfolio is expected to evolve in coming years, shaped by various policy and economic drivers on the international, national and regional level; that evolution will impact power sector water demands. Analysis of future electricity scenarios that incorporate technology options and constraints can provide useful insights about water impacts related to changes to the technology mix. Utilizing outputs from the regional energy deployment system (ReEDS) model, a national electricity sector capacity expansion model with high geographical resolution, we explore potential changes in water use by the US electric sector over the next four decades under various low carbon energy scenarios, nationally and regionally.",
+        "Author": "Macknick, J.\rS. Sattler\rK. Averyt\rS. Clemmer\rJ. Rogers",
+        "DOI": "10.1088/1748-9326/7/4/045803",
+        "ISSN": "1748-9326",
+        "Issue": "4",
+        "Journal": "Environmental Research Letters",
+        "Pages": "045803",
+        "Title": "The water implications of generating electricity: Water use across the United States based on different electricity pathways through 2050",
+        "URL": "http://iopscience.iop.org/1748-9326/7/4/045803/pdf/1748-9326_7_4_045803.pdf",
+        "Volume": "7",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"Ch. 19: Great Plains FINAL\",\"Ch. 4: Energy Supply and Use FINAL\"]",
+        "_record_number": "4655",
+        "_uuid": "d0828222-3fd7-4527-8d2a-895581c96ca3",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1088/1748-9326/7/4/045803",
+    "href": "http://data.globalchange.gov/reference/d0828222-3fd7-4527-8d2a-895581c96ca3.json",
+    "identifier": "d0828222-3fd7-4527-8d2a-895581c96ca3",
+    "uri": "/reference/d0828222-3fd7-4527-8d2a-895581c96ca3"
+}

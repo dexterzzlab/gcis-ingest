@@ -1,0 +1,71 @@
+{
+    "attributes": null,
+    "caption": null,
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "75/3b/34c1bde9219578b686a8327af072/Frost_Free_season_3_3_15_0.jpg",
+            "href": "http://data.globalchange.gov/assets/75/3b/34c1bde9219578b686a8327af072/Frost_Free_season_3_3_15_0.jpg",
+            "identifier": "cf3bf23c-f9e7-47ae-ae38-bfa8c5529666",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "fa0f84d1ee5200a2c108cb0611f9f8150ce9c6d8",
+            "size": 241228,
+            "thumbnail": "75/3b/34c1bde9219578b686a8327af072/.thumb-cf3bf23c-f9e7-47ae-ae38-bfa8c5529666.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/75/3b/34c1bde9219578b686a8327af072/.thumb-cf3bf23c-f9e7-47ae-ae38-bfa8c5529666.png",
+            "uri": "/file/cf3bf23c-f9e7-47ae-ae38-bfa8c5529666",
+            "url": "/assets/75/3b/34c1bde9219578b686a8327af072/Frost_Free_season_3_3_15_0.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/indicator-frost-free-season/figure/frost-free-season.json",
+    "identifier": "frost-free-season",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": null,
+            "description": null,
+            "identifier": "134d344e-1618-439a-a6b0-adfe65f2f4db",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": null,
+            "url": null,
+            "usage_limits": "Free to use with credit to USGCRP."
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 1,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "table indicator-frost-free-season-data-pilot",
+            "note": "",
+            "publication_type_identifier": "table",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/indicator-frost-free-season/table/indicator-frost-free-season-data-pilot"
+        }
+    ],
+    "references": [],
+    "report_identifier": "indicator-frost-free-season",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": "2010-12-31T23:59:59",
+    "time_start": "1979-01-01T00:00:00",
+    "title": null,
+    "uri": "/report/indicator-frost-free-season/figure/frost-free-season",
+    "url": null,
+    "usage_limits": "Free to use with credit to USGCRP."
+}

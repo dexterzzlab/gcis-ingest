@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Efroymson, R. A.\rV. H. Dale\rK. L. Kline\rA. C. McBride\rJ. M. Bielicki\rR. L. Smith\rE. S. Parish\rP. E. Schweizer\rD. M. Shaw",
+        "DOI": "10.1007/s00267-012-9907-5",
+        "ISSN": "0364-152X",
+        "Issue": "2",
+        "Journal": "Environmental Management",
+        "Pages": "291-306",
+        "Title": "Environmental indicators of biofuel sustainability: What about context?",
+        "Volume": "51",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "639",
+        "_uuid": "32a45d13-0467-4839-a635-aa8788b4d753",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s00267-012-9907-5",
+    "href": "http://data.globalchange.gov/reference/32a45d13-0467-4839-a635-aa8788b4d753.json",
+    "identifier": "32a45d13-0467-4839-a635-aa8788b4d753",
+    "uri": "/reference/32a45d13-0467-4839-a635-aa8788b4d753"
+}

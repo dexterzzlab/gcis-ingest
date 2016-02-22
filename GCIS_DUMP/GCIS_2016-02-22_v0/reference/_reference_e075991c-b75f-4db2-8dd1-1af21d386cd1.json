@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Date": "October 25, 2012",
+        "Access Year": "2012",
+        "Author": "NOAA,",
+        "Title": "Annual Commercial Landing Statistics",
+        "URL": "http://www.st.nmfs.noaa.gov/st1/commercial/landings/annual_landings.html",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "2252",
+        "_uuid": "e075991c-b75f-4db2-8dd1-1af21d386cd1",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/ff547f71-8164-48c4-b3f8-07becd170438",
+    "href": "http://data.globalchange.gov/reference/e075991c-b75f-4db2-8dd1-1af21d386cd1.json",
+    "identifier": "e075991c-b75f-4db2-8dd1-1af21d386cd1",
+    "uri": "/reference/e075991c-b75f-4db2-8dd1-1af21d386cd1"
+}

@@ -1,0 +1,93 @@
+{
+    "attributes": null,
+    "caption": "From developing biomass energy projects on the Quinault Indian Nation in Washington and tribal and intertribal wind projects in the Great Plains,<tbib>532491e1-f2cd-4654-a9f4-22f5872205c4</tbib> to energy efficiency improvement efforts on the Cherokee Indian Reservation in North Carolina and the sustainable community designs being pursued on the Lakota reservations in the Dakotas (see also Ch. 19: Great Plains),<tbib>a9f167ff-386e-4a78-a2e8-2564198dde24</tbib> tribes are investigating ways to reduce future climate changes. The map shows only those initiatives by federally recognized tribes that are funded through the Department of Energy. (Figure source: U.S. Department of Energy 2011<tbib>1f549c73-344e-4543-990b-679a4cec7af3</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J09G5JR1",
+        "identifier": "tribal-indigenous-native-lands-resources",
+        "number": 12,
+        "report_identifier": "nca3",
+        "sort_key": 120,
+        "title": "Indigenous Peoples, Lands, and Resources",
+        "url": "http://nca2014.globalchange.gov/report/sectors/indigenous-peoples"
+    },
+    "chapter_identifier": "tribal-indigenous-native-lands-resources",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-03-21T07:51:00",
+    "files": [
+        {
+            "file": "67/89/8523a7852d19d09f13121f3b64d4/Tribal_climate_change_initiatives_V3.png",
+            "href": "http://data.globalchange.gov/assets/67/89/8523a7852d19d09f13121f3b64d4/Tribal_climate_change_initiatives_V3.png",
+            "identifier": "df709400-44e6-48f8-834f-b31b3727580a",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "0fd6b122d4456b71a811bf7feebb4197b7253e40",
+            "size": 4967613,
+            "thumbnail": "67/89/8523a7852d19d09f13121f3b64d4/.thumb-df709400-44e6-48f8-834f-b31b3727580a.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/67/89/8523a7852d19d09f13121f3b64d4/.thumb-df709400-44e6-48f8-834f-b31b3727580a.png",
+            "uri": "/file/df709400-44e6-48f8-834f-b31b3727580a",
+            "url": "/assets/67/89/8523a7852d19d09f13121f3b64d4/Tribal_climate_change_initiatives_V3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/tribal-indigenous-native-lands-resources/figure/many-tribes-many-climate-change-initiatives.json",
+    "identifier": "many-tribes-many-climate-change-initiatives",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2014-03-21T07:51:00",
+            "description": null,
+            "identifier": "e7603e83-2285-4459-b6ec-ef9315afa522",
+            "lat_max": "71.398048",
+            "lat_min": "24.545219",
+            "lon_max": "-66.957802",
+            "lon_min": "-179.133392",
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Many Tribes, Many Climate Change Initiatives",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 2,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "webpage Tribal Energy Program: Projects on Tribal Lands",
+            "note": null,
+            "publication_type_identifier": "webpage",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/webpage/abde0ebc-342b-4bb7-b206-016cd3c829c4"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/1f549c73-344e-4543-990b-679a4cec7af3.json",
+            "uri": "/reference/1f549c73-344e-4543-990b-679a4cec7af3"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/532491e1-f2cd-4654-a9f4-22f5872205c4.json",
+            "uri": "/reference/532491e1-f2cd-4654-a9f4-22f5872205c4"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/a9f167ff-386e-4a78-a2e8-2564198dde24.json",
+            "uri": "/reference/a9f167ff-386e-4a78-a2e8-2564198dde24"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "U.S. Department of Energy 2011<tbib>1f549c73-344e-4543-990b-679a4cec7af3</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Many Tribes, Many Climate Change Initiatives",
+    "uri": "/report/nca3/chapter/tribal-indigenous-native-lands-resources/figure/many-tribes-many-climate-change-initiatives",
+    "url": "http://nca2014.globalchange.gov/report/sectors/indigenous-peoples/graphics/many-tribes-many-climate-change-initiatives",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

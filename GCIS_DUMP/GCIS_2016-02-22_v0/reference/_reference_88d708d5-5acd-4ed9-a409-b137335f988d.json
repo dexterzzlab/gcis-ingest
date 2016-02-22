@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "Ecological Society of America",
+        ".reference_type": "0",
+        "Access Date": "2013/08/01",
+        "Author": "Nelson, Erik\rMendoza, Guillermo\rRegetz, James\rPolasky, Stephen\rTallis, Heather\rCameron, D. Richard\rChan, Kai M. A.\rDaily, Gretchen C.\rGoldstein, Joshua\rKareiva, Peter M.\rLonsdorf, Eric\rNaidoo, Robin\rRicketts, Taylor H.\rShaw, M. Rebecca",
+        "DOI": "10.1890/080023",
+        "Date": "2009/02/01",
+        "ISSN": "1540-9295",
+        "Issue": "1",
+        "Journal": "Frontiers in Ecology and the Environment",
+        "Pages": "4-11",
+        "Title": "Modeling multiple ecosystem services, biodiversity conservation, commodity production, and tradeoffs at landscape scales",
+        "URL": "http://www.esajournals.org/doi/pdf/10.1890/080023",
+        "Volume": "7",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4059",
+        "_uuid": "88d708d5-5acd-4ed9-a409-b137335f988d",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/080023",
+    "href": "http://data.globalchange.gov/reference/88d708d5-5acd-4ed9-a409-b137335f988d.json",
+    "identifier": "88d708d5-5acd-4ed9-a409-b137335f988d",
+    "uri": "/reference/88d708d5-5acd-4ed9-a409-b137335f988d"
+}

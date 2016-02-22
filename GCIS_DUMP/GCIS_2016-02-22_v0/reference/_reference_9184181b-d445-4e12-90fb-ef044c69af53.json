@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"105\" /><run start=\"106\" /></field></record>",
+        "Author": "Antle, J.M.\rCapalbo, S.M.\rElliott, E.T.\rPaustian, K.H.",
+        "DOI": "10.1023/B:CLIM.0000025748.49738.93",
+        "ISSN": "0165-0009",
+        "Issue": "3",
+        "Journal": "Climatic Change",
+        "Pages": "289-315",
+        "Title": "Adaptation, spatial heterogeneity, and the vulnerability of agricultural systems to climate change and CO2 fertilization: An integrated assessment approach",
+        "Volume": "64",
+        "Year": "2004",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "42",
+        "_uuid": "9184181b-d445-4e12-90fb-ef044c69af53",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1023/B:CLIM.0000025748.49738.93",
+    "href": "http://data.globalchange.gov/reference/9184181b-d445-4e12-90fb-ef044c69af53.json",
+    "identifier": "9184181b-d445-4e12-90fb-ef044c69af53",
+    "uri": "/reference/9184181b-d445-4e12-90fb-ef044c69af53"
+}

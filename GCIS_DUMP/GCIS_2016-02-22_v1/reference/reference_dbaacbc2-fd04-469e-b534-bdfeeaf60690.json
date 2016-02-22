@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Pryor, Sara C.\rScavia, Donald\rDowner, Charles\rGaden, Marc\rIverson, Louis\rNordstrom, Rolf\rPatz, Jonathan\rRobertson, G. Philip",
+        "Book Title": "Climate Change Impacts in the United States: The Third National Climate Assessment",
+        "DOI": "(doi)",
+        "Editor": "Melillo, Jerry M.\rTerese (T.C.) Richmond,\rYohe, Gary W.",
+        "Pages": "18-1\u2013nn",
+        "Place Published": "Washington, DC",
+        "Publisher": "U.S. Global Change Research Program",
+        "Reviewer": "dbaacbc2-fd04-469e-b534-bdfeeaf60690",
+        "Title": "Ch. 18: Midwest",
+        "URL": "http://nca2014.globalchange.gov/report/regions/midwest",
+        "Year": "2014",
+        "_chapter": "[\"Ch. 0: About this Report FINAL\"]",
+        "_record_number": "4728",
+        "_uuid": "dbaacbc2-fd04-469e-b534-bdfeeaf60690",
+        "reftype": "Book Section"
+    },
+    "child_publication": null,
+    "href": "http://data.globalchange.gov/reference/dbaacbc2-fd04-469e-b534-bdfeeaf60690.json",
+    "identifier": "dbaacbc2-fd04-469e-b534-bdfeeaf60690",
+    "uri": "/reference/dbaacbc2-fd04-469e-b534-bdfeeaf60690"
+}

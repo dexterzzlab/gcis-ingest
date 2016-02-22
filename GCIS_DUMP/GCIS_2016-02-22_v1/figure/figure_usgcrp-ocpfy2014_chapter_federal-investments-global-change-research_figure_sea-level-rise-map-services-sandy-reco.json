@@ -1,0 +1,174 @@
+{
+    "attributes": null,
+    "caption": "Map of current (yellow) and potential future (pink) flood risks for a portion of the New Jersey coastline. The different shades of pink represent four future scenarios with sea-level rise ranging from 8 inches to 6.6 feet. (Source: Sea-Level Rise Map Services produced by NOAA in partnership with FEMA, USACE, CEQ, and USGCRP; http://geoplatform.maps.arcgis.com/home/item.html?id=2960f1e066544582ae0f0d988ccb3d27)",
+    "chapter": {
+        "doi": null,
+        "identifier": "federal-investments-global-change-research",
+        "number": 3,
+        "report_identifier": "usgcrp-ocpfy2014",
+        "sort_key": 30,
+        "title": "Federal Investments In Global Change Research",
+        "url": null
+    },
+    "chapter_identifier": "federal-investments-global-change-research",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/4184.json",
+            "id": 4184,
+            "organization": {
+                "country_code": "US",
+                "identifier": "federal-emergency-management-agency",
+                "name": "Federal Emergency Management Agency",
+                "organization_type_identifier": "federal",
+                "url": "http://www.fema.gov"
+            },
+            "organization_uri": "/organization/federal-emergency-management-agency",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "contributing_agency",
+            "uri": "/contributor/4184"
+        },
+        {
+            "href": "http://data.globalchange.gov/contributor/4186.json",
+            "id": 4186,
+            "organization": {
+                "country_code": "US",
+                "identifier": "white-house-council-on-environmental-quality",
+                "name": "The White House Council on Environmental Quality",
+                "organization_type_identifier": "federal",
+                "url": "http://www.whitehouse.gov/administration/eop/ceq"
+            },
+            "organization_uri": "/organization/white-house-council-on-environmental-quality",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "contributing_agency",
+            "uri": "/contributor/4186"
+        },
+        {
+            "href": "http://data.globalchange.gov/contributor/4187.json",
+            "id": 4187,
+            "organization": {
+                "country_code": "US",
+                "identifier": "us-global-change-research-program",
+                "name": "U.S. Global Change Research Program",
+                "organization_type_identifier": "federal",
+                "url": "http://www.globalchange.gov"
+            },
+            "organization_uri": "/organization/us-global-change-research-program",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "contributing_agency",
+            "uri": "/contributor/4187"
+        },
+        {
+            "href": "http://data.globalchange.gov/contributor/3901.json",
+            "id": 3901,
+            "organization": {
+                "country_code": "US",
+                "identifier": "national-oceanic-atmospheric-administration",
+                "name": "National Oceanic and Atmospheric Administration",
+                "organization_type_identifier": "federal",
+                "url": "http://www.noaa.gov/"
+            },
+            "organization_uri": "/organization/national-oceanic-atmospheric-administration",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "contributing_agency",
+            "uri": "/contributor/3901"
+        },
+        {
+            "href": "http://data.globalchange.gov/contributor/4212.json",
+            "id": 4212,
+            "organization": {
+                "country_code": "US",
+                "identifier": "consortium-climate-risk-urban-northeast",
+                "name": "Consortium for Climate Risk in the Urban Northeast",
+                "organization_type_identifier": "research",
+                "url": "http://www.ccrun.org/"
+            },
+            "organization_uri": "/organization/consortium-climate-risk-urban-northeast",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "contributing_agency",
+            "uri": "/contributor/4212"
+        },
+        {
+            "href": "http://data.globalchange.gov/contributor/4215.json",
+            "id": 4215,
+            "organization": {
+                "country_code": "US",
+                "identifier": "us-army-corps-engineers",
+                "name": "U.S. Army Corps of Engineers",
+                "organization_type_identifier": "federal",
+                "url": "http://www.usace.army.mil/"
+            },
+            "organization_uri": "/organization/us-army-corps-engineers",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "contributing_agency",
+            "uri": "/contributor/4215"
+        }
+    ],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "54/03/e5001b093a542a9b3bb0d1d6d285/Box_10_Sandy_NJ_Coast_High_Res_1.png",
+            "href": "http://data.globalchange.gov/assets/54/03/e5001b093a542a9b3bb0d1d6d285/Box_10_Sandy_NJ_Coast_High_Res_1.png",
+            "identifier": "54716612-3cdb-4eab-a014-fb13bf9378c5",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "9cf98b61c8eaac0b54ce10b2e8dec2f927f93b5e",
+            "size": 1521889,
+            "thumbnail": "54/03/e5001b093a542a9b3bb0d1d6d285/.thumb-54716612-3cdb-4eab-a014-fb13bf9378c5.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/54/03/e5001b093a542a9b3bb0d1d6d285/.thumb-54716612-3cdb-4eab-a014-fb13bf9378c5.png",
+            "uri": "/file/54716612-3cdb-4eab-a014-fb13bf9378c5",
+            "url": "/assets/54/03/e5001b093a542a9b3bb0d1d6d285/Box_10_Sandy_NJ_Coast_High_Res_1.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2014/chapter/federal-investments-global-change-research/figure/sea-level-rise-map-services-sandy-recovery.json",
+    "identifier": "sea-level-rise-map-services-sandy-recovery",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": null,
+            "description": null,
+            "identifier": "68f4dd68-3457-46b5-954c-1a9af82409d1",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Sea Level Rise Map Services for Sandy Recovery",
+            "url": null,
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 9,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2014",
+    "source_citation": "Sea-Level Rise Map Services, NOAA, FEMA, USACE, CEQ, and USGCRP http://geoplatform.maps.arcgis.com/home/item.html?id=2960f1e066544582ae0f0d988ccb3d27",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Sea Level Rise Map Services for Sandy Recovery",
+    "uri": "/report/usgcrp-ocpfy2014/chapter/federal-investments-global-change-research/figure/sea-level-rise-map-services-sandy-recovery",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Magnuson, JJ",
+        "DOI": "10.1111/j.1095-8649.2010.02781.x",
+        "ISSN": "1095-8649",
+        "Issue": "8",
+        "Journal": "Journal of Fish Biology",
+        "Pages": "1731-1744",
+        "Title": "History and heroes: The thermal niche of fishes and long-term lake ice dynamics",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/j.1095-8649.2010.02781.x/pdf",
+        "Volume": "77",
+        "Year": "2010",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "1849",
+        "_uuid": "338c84ad-519a-4001-8b26-fe764b956a93",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1095-8649.2010.02781.x",
+    "href": "http://data.globalchange.gov/reference/338c84ad-519a-4001-8b26-fe764b956a93.json",
+    "identifier": "338c84ad-519a-4001-8b26-fe764b956a93",
+    "uri": "/reference/338c84ad-519a-4001-8b26-fe764b956a93"
+}

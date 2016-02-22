@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".publisher": "American Meteorological Society",
+        ".reference_type": "0",
+        "Access Date": "2013/10/15",
+        "Author": "Vose, Russell S.\rApplequist, Scott\rBourassa, Mark A.\rPryor, Sara C.\rBarthelmie, Rebecca J.\rBlanton, Brian\rBromirski, Peter D.\rBrooks, Harold E.\rDeGaetano, Arthur T.\rDole, Randall M.\rEasterling, David R.\rJensen, Robert E.\rKarl, Thomas R.\rKatz, Richard W.\rKlink, Katherine\rKruk, Michael C.\rKunkel, Kenneth E.\rMacCracken, Michael C.\rPeterson, Thomas C.\rShein, Karsten\rThomas, Bridget R.\rWalsh, John E.\rWang, Xiaolan L.\rWehner, Michael F.\rWuebbles, Donald J.\rYoung, Robert S.",
+        "DOI": "10.1175/BAMS-D-12-00162.1",
+        "ISSN": "0003-0007",
+        "Journal": "Bulletin of the American Meteorological Society",
+        "Title": "Monitoring and understanding changes in extremes: Extratropical storms, winds, and waves",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/BAMS-D-12-00162.1",
+        "Volume": "in press",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"RF 2\",\"Ch. 4: Energy Supply and Use FINAL\",\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "4375",
+        "_uuid": "596a7f1e-6ce5-4bdf-b144-d0715a7567bd",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/BAMS-D-12-00162.1",
+    "href": "http://data.globalchange.gov/reference/596a7f1e-6ce5-4bdf-b144-d0715a7567bd.json",
+    "identifier": "596a7f1e-6ce5-4bdf-b144-d0715a7567bd",
+    "uri": "/reference/596a7f1e-6ce5-4bdf-b144-d0715a7567bd"
+}

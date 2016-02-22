@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Pan, Z.T.\rAndrade, D.\rGosselin, N.",
+        "Book Title": "Climate Change in the Midwest: Impacts, Risks, Vulnerability and Adaptation",
+        "Chapter": "7",
+        "Editor": "Pryor, S.C.",
+        "ISBN": "978-0253006820",
+        "Pages": "92-103",
+        "Place Published": "Bloomington, IN",
+        "Publisher": "Indiana University Press",
+        "Reviewer": "c7ab97dd-3693-458c-8381-1625a30a086a",
+        "Title": "Ch. 7: Vulnerability of soil carbon reservoirs in the Midwest to climate change",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "2416",
+        "_uuid": "c7ab97dd-3693-458c-8381-1625a30a086a",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/434135ed-eb50-4c46-9484-77563769e657",
+    "href": "http://data.globalchange.gov/reference/c7ab97dd-3693-458c-8381-1625a30a086a.json",
+    "identifier": "c7ab97dd-3693-458c-8381-1625a30a086a",
+    "uri": "/reference/c7ab97dd-3693-458c-8381-1625a30a086a"
+}

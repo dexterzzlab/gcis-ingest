@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Accession Number": "54",
+        "Author": "Zhang, X.\rZwiers, F.W.\rHegerl, G.C.\rLambert, F.H.\rGillett, N.P.\rSolomon, S.\rStott, P.A.\rNozawa, T.",
+        "DOI": "10.1038/nature06025",
+        "ISSN": "0028-0836",
+        "Issue": "7152",
+        "Journal": "Nature",
+        "Notes": "10.1038/nature06025",
+        "Pages": "461-465",
+        "Title": "Detection of human influence on twentieth-century precipitation trends",
+        "Volume": "448",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "3536",
+        "_uuid": "e3415970-4962-4b46-93e3-6918000d0596",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/nature06025",
+    "href": "http://data.globalchange.gov/reference/e3415970-4962-4b46-93e3-6918000d0596.json",
+    "identifier": "e3415970-4962-4b46-93e3-6918000d0596",
+    "uri": "/reference/e3415970-4962-4b46-93e3-6918000d0596"
+}

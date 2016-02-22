@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Wastewater systems that combine storm water drainage and sewage and industrial discharges are still in use in about 950 communities in the US, mostly in the Northeast and Great Lakes regions. These combined sewer systems deliver both sotrm drainage and wastewater to sewage treatment facilities. However, during rain or snowmelt, the volume of incoming water can exceed the capacity of hte treatment system. Under those conditions, combined sewer systems are designed to overflow and discharge untreated wastewater into surface water bodies, and are termed as a combined sewer overflow (CSO) event. EPA, in 1994, developed a CSO Control Policy that sets forth a national framework for prevention of combined sewer overlfows through the federal Clean Water Act's water discharge permit program. It has been suggested that if they continue to discharge untreated wastewater during storm events, combined sewer systems may pose a greated health risk should the frequency or intensity of storms increase. (Source: USEPA, http://www.epa.gov/owmitnet/cso.htm)",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "56/c7/854ed9202f9ad78a65a8580ea347/health_section_of_climate_change_impacts_2001_7_20090708_1795285203.jpg",
+            "href": "http://data.globalchange.gov/assets/56/c7/854ed9202f9ad78a65a8580ea347/health_section_of_climate_change_impacts_2001_7_20090708_1795285203.jpg",
+            "identifier": "50b82513-2aa9-4a40-a87d-2eff4a76b7f6",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "5034e2dd41d02f10c2f89a10145445f6d1a7487c",
+            "size": 69565,
+            "thumbnail": "56/c7/854ed9202f9ad78a65a8580ea347/.thumb-50b82513-2aa9-4a40-a87d-2eff4a76b7f6.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/56/c7/854ed9202f9ad78a65a8580ea347/.thumb-50b82513-2aa9-4a40-a87d-2eff4a76b7f6.png",
+            "uri": "/file/50b82513-2aa9-4a40-a87d-2eff4a76b7f6",
+            "url": "/assets/56/c7/854ed9202f9ad78a65a8580ea347/health_section_of_climate_change_impacts_2001_7_20090708_1795285203.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca1/figure/locations-combined-wastewater-systems.json",
+    "identifier": "locations-combined-wastewater-systems",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca1",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Locations of Combined Wastewater Systems",
+    "uri": "/report/nca1/figure/locations-combined-wastewater-systems",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

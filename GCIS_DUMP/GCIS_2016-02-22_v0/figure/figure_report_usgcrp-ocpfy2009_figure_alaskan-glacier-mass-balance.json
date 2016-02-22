@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Alaskan glacier mass balance is provided by analyses of measurements from the GRACE mission\u2019s inter-satellite range-rate data (April 2003 through September 2007). The top panel shows the annual variation and overall trend in ice mass for the blue-colored areas in the lower left image (ice mass units are Gt, i.e., 1015 g). The lower left image presents the spatial distribution of the surface ice mass trends for the period April 2003 to March 2007. The lower right image shows the spatial distribution of surface annual ice mass change. The greatest negative net balance rates are found in the Yakutat and Glacier Bay regions, while the largest annual amplitudes are found in the southeast glacier regions. Note that surface mass variation contributions from the atmosphere, oceans, tides, terrestrial water storage, and glacial isostatic adjustment have been removed. Credit: S.B. Luthcke, NASA / Goddard Space Flight Center.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "ac/07/8f2365e62231896aee699b69b6ed/Figure_21.png",
+            "href": "http://data.globalchange.gov/assets/ac/07/8f2365e62231896aee699b69b6ed/Figure_21.png",
+            "identifier": "4ea36eca-5a4a-4645-8ef5-e6c49d196538",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "89253c3dced180fb2c6f6593f4db815403811226",
+            "size": 654979,
+            "thumbnail": "ac/07/8f2365e62231896aee699b69b6ed/.thumb-4ea36eca-5a4a-4645-8ef5-e6c49d196538.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/ac/07/8f2365e62231896aee699b69b6ed/.thumb-4ea36eca-5a4a-4645-8ef5-e6c49d196538.png",
+            "uri": "/file/4ea36eca-5a4a-4645-8ef5-e6c49d196538",
+            "url": "/assets/ac/07/8f2365e62231896aee699b69b6ed/Figure_21.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2009/figure/alaskan-glacier-mass-balance.json",
+    "identifier": "alaskan-glacier-mass-balance",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2009",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Alaskan Glacier Mass Balance",
+    "uri": "/report/usgcrp-ocpfy2009/figure/alaskan-glacier-mass-balance",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

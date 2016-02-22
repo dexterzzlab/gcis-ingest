@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "32",
+        "Author": "Kunkel, K. E.\rStevens, L. E.\rStevens, S. E.\rSun, L.\rJanssen, E.\rWuebbles, D.\rKonrad, C.E., II\rFuhrman, C.M.\rKeim, B.D.\rKruk, M.C.\rBillet, A.\rNeedham, H.\rSchafer, M.\rDobson, J.G.",
+        "Pages": "103",
+        "Place Published": "Washington D.C.",
+        "Publisher": "National Oceanic and Atmospheric Administration, National Environmental Satellite, Data, and Information Service",
+        "Series Title": "NOAA Technical Memorandum NESDIS xxx",
+        "Title": "Regional Climate Trends and Scenarios for the U.S. National Climate Assessment: Part 2. Climate of the Southeast U.S. NOAA Technical Report 142-2",
+        "URL": "http://www.nesdis.noaa.gov/technical_reports/NOAA_NESDIS_Tech_Report_142-2-Climate_of_the_Southeast_U.S.pdf",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 4: Energy Supply and Use FINAL\",\"RG 2 Southeast\",\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "1410",
+        "_uuid": "b50d0bc7-8731-41e7-861c-b88b678f51d0",
+        "reftype": "Government Document"
+    },
+    "child_publication": "/report/noaa-techreport-nesdis-142-2",
+    "href": "http://data.globalchange.gov/reference/b50d0bc7-8731-41e7-861c-b88b678f51d0.json",
+    "identifier": "b50d0bc7-8731-41e7-861c-b88b678f51d0",
+    "uri": "/reference/b50d0bc7-8731-41e7-861c-b88b678f51d0"
+}

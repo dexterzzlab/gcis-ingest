@@ -1,0 +1,80 @@
+{
+    "attributes": null,
+    "caption": "Typical January-March weather conditions and atmospheric circulation (jet streams shown by red and blue arrows) during La Ni\u00f1a and El Ni\u00f1o conditions. Cloud symbols show areas that are wetter than normal. During La Ni\u00f1a, winters tend to be unusually cold in Alaska and western Canada, and dry throughout the southern United States. El Ni\u00f1o leads to unusually warm winter conditions in the northern U.S. and wetter than average conditions across the southern U.S. (Figure source: NOAA).",
+    "chapter": {
+        "doi": "10.7930/J0KS6PHH",
+        "identifier": "appendix-climate-science-supplement",
+        "number": 33,
+        "report_identifier": "nca3",
+        "sort_key": 330,
+        "title": "Appendix 3: Climate Science Supplement",
+        "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement"
+    },
+    "chapter_identifier": "appendix-climate-science-supplement",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2012-12-27T15:49:00",
+    "files": [
+        {
+            "file": "f3/f7/27e8936529aa3f5290c9dd382a8e/APP_el_nino-la_nina_V3.png",
+            "href": "http://data.globalchange.gov/assets/f3/f7/27e8936529aa3f5290c9dd382a8e/APP_el_nino-la_nina_V3.png",
+            "identifier": "bccc90ae-75d1-4252-8e30-b8e8c9634dd2",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "1d47e04aacf89b27253e8c5c27f65483c8cbe96d",
+            "size": 721705,
+            "thumbnail": "f3/f7/27e8936529aa3f5290c9dd382a8e/.thumb-bccc90ae-75d1-4252-8e30-b8e8c9634dd2.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/f3/f7/27e8936529aa3f5290c9dd382a8e/.thumb-bccc90ae-75d1-4252-8e30-b8e8c9634dd2.png",
+            "uri": "/file/bccc90ae-75d1-4252-8e30-b8e8c9634dd2",
+            "url": "/assets/f3/f7/27e8936529aa3f5290c9dd382a8e/APP_el_nino-la_nina_V3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-climate-science-supplement/figure/la-nina-and-el-nino-patterns.json",
+    "identifier": "la-nina-and-el-nino-patterns",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2012-12-27T15:49:00",
+            "description": null,
+            "identifier": "41950ec0-c516-44b1-9b39-8ade92d03c2e",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "La Ni\u00f1a and El Ni\u00f1o Patterns",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 13,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "webpage Influence of El Ni\u00f1o and La Ni\u00f1a on Southwest Rainfall",
+            "note": null,
+            "publication_type_identifier": "webpage",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/webpage/6d0a1cba-70fe-4fa3-a630-c45409115ab8"
+        }
+    ],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": "NOAA",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "La Ni\u00f1a and El Ni\u00f1o Patterns",
+    "uri": "/report/nca3/chapter/appendix-climate-science-supplement/figure/la-nina-and-el-nino-patterns",
+    "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/la-ni%C3%B1a-and-el-ni%C3%B1o-patterns",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

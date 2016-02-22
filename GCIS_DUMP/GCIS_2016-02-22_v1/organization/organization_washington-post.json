@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/washington-post.json",
+    "identifier": "washington-post",
+    "name": "Washington Post",
+    "organization_type_identifier": "commercial",
+    "uri": "/organization/washington-post",
+    "url": "https://www.washingtonpost.com/"
+}

@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Theobald, D.M.\rTravis, W.R.\rDrummond, M.A.\rGordon, E.S.",
+        "Book Title": "Assessment of Climate Change in the Southwest United States: A Report Prepared for the National Climate Assessment",
+        "Editor": "Garfin, G.\rJardine, A.\rMerideth, R.\rBlack, Mary\rLeRoy, Sarah",
+        "ISBN": "9781610914468",
+        "Pages": "37-55",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "Island Press",
+        "Reviewer": "c9075dbc-f7c8-4d85-b534-e97282562b3e",
+        "Title": "Ch. 3: The Changing Southwest",
+        "URL": "http://swccar.org/sites/all/themes/files/SW-NCA-color-FINALweb.pdf",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"RG 5 Southwest\"]",
+        "_record_number": "4686",
+        "_uuid": "c9075dbc-f7c8-4d85-b534-e97282562b3e",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/c9625c65-c20f-4163-87fe-cebf734f7836",
+    "href": "http://data.globalchange.gov/reference/c9075dbc-f7c8-4d85-b534-e97282562b3e.json",
+    "identifier": "c9075dbc-f7c8-4d85-b534-e97282562b3e",
+    "uri": "/reference/c9075dbc-f7c8-4d85-b534-e97282562b3e"
+}

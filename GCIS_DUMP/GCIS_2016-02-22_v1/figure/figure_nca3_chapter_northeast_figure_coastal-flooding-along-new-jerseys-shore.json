@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "Predictions of coastal erosion prior to Sandy\u2019s arrival provided the region\u2019s residents and decision-makers with advance warning of potential vulnerability. The map shows three bands: collision of waves with beaches causing erosion on the front of the beach; overwash that occurs when water reaches over the highest point and erodes from the rear, which carries sand inland; and inundation, when the shore is severely eroded and new channels can form that lead to permanent flooding. The probabilities are based on the storm striking at high tide. For New Jersey, the model estimated that 21% of the shoreline had more than a 90% chance of experiencing inundation. These projections were realized, and made the New Jersey coastline even more vulnerable to the nor\u2019easter that followed Hurricane Sandy by only 10 days. (Figure source: ESRI and USGS 2012<tbib>2771337c-0ab9-46c1-b7d8-1d03a02270c1</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0SF2T3P",
+        "identifier": "northeast",
+        "number": 16,
+        "report_identifier": "nca3",
+        "sort_key": 160,
+        "title": "Northeast",
+        "url": "http://nca2014.globalchange.gov/report/regions/northeast"
+    },
+    "chapter_identifier": "northeast",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2012-10-29T00:00:00",
+    "files": [
+        {
+            "file": "40/6a/0d19280481d394c7a2f9ae950d4a/NE_new_jersey_coastal_flooding_V4.png",
+            "href": "http://data.globalchange.gov/assets/40/6a/0d19280481d394c7a2f9ae950d4a/NE_new_jersey_coastal_flooding_V4.png",
+            "identifier": "903e45d4-1327-4e81-a7d5-62ad015a7543",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "cd0bff4527ecc8c8df9dcf1ada50b9ba1926e74e",
+            "size": 917397,
+            "thumbnail": "40/6a/0d19280481d394c7a2f9ae950d4a/.thumb-903e45d4-1327-4e81-a7d5-62ad015a7543.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/40/6a/0d19280481d394c7a2f9ae950d4a/.thumb-903e45d4-1327-4e81-a7d5-62ad015a7543.png",
+            "uri": "/file/903e45d4-1327-4e81-a7d5-62ad015a7543",
+            "url": "/assets/40/6a/0d19280481d394c7a2f9ae950d4a/NE_new_jersey_coastal_flooding_V4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/northeast/figure/coastal-flooding-along-new-jerseys-shore.json",
+    "identifier": "coastal-flooding-along-new-jerseys-shore",
+    "images": [
+        {
+            "attributes": "geoscientificinformation, oceans, Geology, Coastal information, Beach, New Jersey, Hurricane Sandy",
+            "create_dt": "2012-10-29T00:00:00",
+            "description": null,
+            "identifier": "7246e00f-77cc-47ee-9764-fca81e32a664",
+            "lat_max": "40.20",
+            "lat_min": "38.87",
+            "lon_max": "-74",
+            "lon_min": "-74.98",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2012-10-29T23:59:59",
+            "time_start": "2012-10-29T00:00:00",
+            "title": "Coastal Flooding along New Jersey\u2019s Shore",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 4,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "webpage Coastal Change Hazards: Hurricanes and Extreme Storms",
+            "note": null,
+            "publication_type_identifier": "webpage",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/webpage/2f586ef7-91bb-45e5-b463-ee3e358185ba"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/2771337c-0ab9-46c1-b7d8-1d03a02270c1.json",
+            "uri": "/reference/2771337c-0ab9-46c1-b7d8-1d03a02270c1"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "ESRI and USGS 2012<tbib>2771337c-0ab9-46c1-b7d8-1d03a02270c1</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Coastal Flooding along New Jersey\u2019s Shore",
+    "uri": "/report/nca3/chapter/northeast/figure/coastal-flooding-along-new-jerseys-shore",
+    "url": "http://nca2014.globalchange.gov/report/regions/northeast/graphics/coastal-flooding-along-new-jerseys-shore",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

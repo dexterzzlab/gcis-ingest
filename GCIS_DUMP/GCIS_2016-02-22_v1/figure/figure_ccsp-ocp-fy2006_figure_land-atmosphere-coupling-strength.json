@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "\"Hot spots\u201d where soil moisture changes can affect rainfall. The red areas are \u201chot spots\u201d where soil moisture changes can affect rainfall, according to a multi-model study. The bars in the insets show the individual results for 12 climate models, averaged over the indicated regions. According to the insets, the models clearly do not show perfect agreement in the \u201cstrength\u201d of the hot spots. Still, many independent models place the hot spots in the same place. The results pertain to Northern Hemisphere summer months June, July, and August. Red areas show the strongest connection between soil moisture and rainfall. The units for the insets are the same as those for the color bar. Credit: The GLACE Team (Koster et al., 2004).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "61/5f/996922945bba09127f82cf3f2a1c/our_changing_planet_2006_4_20090708_1626313225.jpg",
+            "href": "http://data.globalchange.gov/assets/61/5f/996922945bba09127f82cf3f2a1c/our_changing_planet_2006_4_20090708_1626313225.jpg",
+            "identifier": "1cdb0120-8400-4c34-9603-8534b02bae6e",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "d255ca6e315dfb4fdf0e668b33aff1229962f410",
+            "size": 66763,
+            "thumbnail": "61/5f/996922945bba09127f82cf3f2a1c/.thumb-1cdb0120-8400-4c34-9603-8534b02bae6e.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/61/5f/996922945bba09127f82cf3f2a1c/.thumb-1cdb0120-8400-4c34-9603-8534b02bae6e.png",
+            "uri": "/file/1cdb0120-8400-4c34-9603-8534b02bae6e",
+            "url": "/assets/61/5f/996922945bba09127f82cf3f2a1c/our_changing_planet_2006_4_20090708_1626313225.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocp-fy2006/figure/land-atmosphere-coupling-strength.json",
+    "identifier": "land-atmosphere-coupling-strength",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocp-fy2006",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Land-Atmosphere Coupling Strength",
+    "uri": "/report/ccsp-ocp-fy2006/figure/land-atmosphere-coupling-strength",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

@@ -1,0 +1,12 @@
+{
+    "description": "FengYun (FengYun = wind and cloud) is a meteorological satellite series of China, organized by CMA (China Meteorological Administration). Within the meteorological program, the odd-numbered satellites (FengYun-1 or simply FY-1) refer to the polar-orbiting LEO series, while the even-numbered S/C (FY-2, FY-4, etc.) refer to the GEO series.",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/f/fy-1",
+    "end_date": "2001-05-10T00:00:00",
+    "href": "http://data.globalchange.gov/platform/fy-1c-polar-orbiting-meteorological-satellite.json",
+    "identifier": "fy-1c-polar-orbiting-meteorological-satellite",
+    "name": "FY-1C Polar-orbiting Meteorological Satellite",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "1999-05-10T00:00:00",
+    "uri": "/platform/fy-1c-polar-orbiting-meteorological-satellite",
+    "url": "http://fy3.satellite.cma.gov.cn/arssen/"
+}

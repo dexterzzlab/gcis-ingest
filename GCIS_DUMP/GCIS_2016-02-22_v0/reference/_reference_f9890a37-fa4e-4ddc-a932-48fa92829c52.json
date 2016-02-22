@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Abbott, Thorne",
+        "DOI": "10.1016/j.ocecoaman.2012.12.010",
+        "ISSN": "0964-5691",
+        "Journal": "Ocean & Coastal Management",
+        "Pages": "13-21",
+        "Title": "Shifting shorelines and political winds \u2013 The complexities of implementing the simple idea of shoreline setbacks for oceanfront developments in Maui, Hawaii",
+        "URL": "http://www.sciencedirect.com/science/article/pii/S0964569112003353",
+        "Volume": "73",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"RG 10 Coasts\"]",
+        "_record_number": "3803",
+        "_uuid": "f9890a37-fa4e-4ddc-a932-48fa92829c52",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.ocecoaman.2012.12.010",
+    "href": "http://data.globalchange.gov/reference/f9890a37-fa4e-4ddc-a932-48fa92829c52.json",
+    "identifier": "f9890a37-fa4e-4ddc-a932-48fa92829c52",
+    "uri": "/reference/f9890a37-fa4e-4ddc-a932-48fa92829c52"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "Broad-band radiometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/scanner-for-earths-radiation-budget.json",
+    "identifier": "scanner-for-earths-radiation-budget",
+    "name": "Scanner for Earth's Radiation Budget",
+    "uri": "/instrument/scanner-for-earths-radiation-budget"
+}

@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "A close-up image of the crack spreading across the ice shelf of Pine Island Glacier that NASA's DC-8 flew over in October 2011.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "08/90/5ca300ff0d16a78d6b73180b6de9/OCP_2013_Page_20_Image_0002.jpg",
+            "href": "http://data.globalchange.gov/assets/08/90/5ca300ff0d16a78d6b73180b6de9/OCP_2013_Page_20_Image_0002.jpg",
+            "identifier": "d7267a5f-59ec-4f4f-8e65-b9e5a6edb78c",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "db0817adb4951b7e419f57ba6d1e8c1d22c96096",
+            "size": 355311,
+            "thumbnail": "08/90/5ca300ff0d16a78d6b73180b6de9/.thumb-d7267a5f-59ec-4f4f-8e65-b9e5a6edb78c.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/08/90/5ca300ff0d16a78d6b73180b6de9/.thumb-d7267a5f-59ec-4f4f-8e65-b9e5a6edb78c.png",
+            "uri": "/file/d7267a5f-59ec-4f4f-8e65-b9e5a6edb78c",
+            "url": "/assets/08/90/5ca300ff0d16a78d6b73180b6de9/OCP_2013_Page_20_Image_0002.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2013/figure/crack-in-pine-island-glacier.json",
+    "identifier": "crack-in-pine-island-glacier",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2013",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Crack in Pine Island Glacier",
+    "uri": "/report/usgcrp-ocpfy2013/figure/crack-in-pine-island-glacier",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "White-Newsome, J.\rO'Neill, M.S.\rGronlund, C.\rSunbury, T.M.\rBrines, S.J.\rParker, E.\rBrown, D.G.\rRood, R.B.\rRivera, Z.",
+        "DOI": "10.1089/env.2009.0032",
+        "ISSN": "1939-4071",
+        "Issue": "4",
+        "Journal": "Environmental Justice",
+        "Pages": "197-205",
+        "Title": "Climate change, heat waves, and environmental justice: Advancing knowledge and action",
+        "Volume": "2",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "3413",
+        "_uuid": "03a60a7d-e54d-4f82-bcc4-aec34d63b0ac",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1089/env.2009.0032",
+    "href": "http://data.globalchange.gov/reference/03a60a7d-e54d-4f82-bcc4-aec34d63b0ac.json",
+    "identifier": "03a60a7d-e54d-4f82-bcc4-aec34d63b0ac",
+    "uri": "/reference/03a60a7d-e54d-4f82-bcc4-aec34d63b0ac"
+}

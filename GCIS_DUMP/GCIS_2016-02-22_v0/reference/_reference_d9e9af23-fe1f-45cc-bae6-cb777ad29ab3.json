@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "Blackwell Publishing Ltd",
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"1\" /><run start=\"2\" /></field></record>",
+        "Author": "Grantz, D. A.\rGunn, S.\rVu, H. B.",
+        "DOI": "10.1111/j.1365-3040.2006.01521.x",
+        "ISSN": "1365-3040",
+        "Issue": "7",
+        "Journal": "Plant, Cell & Environment",
+        "Keywords": "allometry\rglobal change\rozone\rpartitioning\rpollution\rtranslocation",
+        "Pages": "1193-1209",
+        "Title": "O3 impacts on plant development: A meta-analysis of root/shoot allocation and growth",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/j.1365-3040.2006.01521.x/pdf",
+        "Volume": "29",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "4600",
+        "_uuid": "d9e9af23-fe1f-45cc-bae6-cb777ad29ab3",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1365-3040.2006.01521.x",
+    "href": "http://data.globalchange.gov/reference/d9e9af23-fe1f-45cc-bae6-cb777ad29ab3.json",
+    "identifier": "d9e9af23-fe1f-45cc-bae6-cb777ad29ab3",
+    "uri": "/reference/d9e9af23-fe1f-45cc-bae6-cb777ad29ab3"
+}

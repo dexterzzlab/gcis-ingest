@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Gutierrez, B. T.\rPlant, Nathaniel G.\rThieler, E. Robert",
+        "DOI": "10.1029/2010JF001891",
+        "ISSN": "2156-2202",
+        "Issue": "F2",
+        "Journal": "Journal of Geophysical Research",
+        "Pages": "F02009",
+        "Title": "A Bayesian network to predict coastal vulnerability to sea level rise",
+        "Volume": "116",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 5: Transportation FINAL\"]",
+        "_record_number": "143",
+        "_uuid": "5ddaab38-f315-487d-8b7a-bb322bb9b60c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2010JF001891",
+    "href": "http://data.globalchange.gov/reference/5ddaab38-f315-487d-8b7a-bb322bb9b60c.json",
+    "identifier": "5ddaab38-f315-487d-8b7a-bb322bb9b60c",
+    "uri": "/reference/5ddaab38-f315-487d-8b7a-bb322bb9b60c"
+}

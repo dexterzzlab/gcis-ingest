@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "California Department of Water Resources,",
+        "Book Title": "California Water Plan Update 2009. Integrated Water Management. Volume 1 - The Strategic Plan",
+        "Pages": "5-1 - 5-36",
+        "Publisher": "State of California",
+        "Reviewer": "16e78234-963a-4af1-8b6d-fc9c3734776d",
+        "Title": "Ch. 5: Managing for an Uncertain Future",
+        "URL": "http://www.waterplan.water.ca.gov/docs/cwpu2009/0310final/v1_all_cwp2009.pdf",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "167",
+        "_uuid": "16e78234-963a-4af1-8b6d-fc9c3734776d",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/california-water-plan-update-2009-vol1",
+    "href": "http://data.globalchange.gov/reference/16e78234-963a-4af1-8b6d-fc9c3734776d.json",
+    "identifier": "16e78234-963a-4af1-8b6d-fc9c3734776d",
+    "uri": "/reference/16e78234-963a-4af1-8b6d-fc9c3734776d"
+}

@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Estimates from three biogeochemical models of net carbon storage for different bioclimatic regions of the United States, for the period 1980-1993. The effects of increasing carbon dioxide and changes in climate on net carbon storage in terrestrial ecosystems of the conterminous United States were modeled using new, detailed historical climate information from the NOAA Historical Climate Network database. For the period 1980-1993, results from an ensemble of three models agree within 25 percent, simulating a land carbon sink of 80 million metric tons of carbon per year. Credit: Schimel, et al., Science, March 17, 2000.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "f1/c1/69b16fc480acb1cf8363324d38fa/our_changing_planet_2003_16_20090708_1595724885.jpg",
+            "href": "http://data.globalchange.gov/assets/f1/c1/69b16fc480acb1cf8363324d38fa/our_changing_planet_2003_16_20090708_1595724885.jpg",
+            "identifier": "1edc4b26-e1cc-4942-af5e-5815beac6650",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "5412a41c678649e8ad9aaaa0d21e29b685aca304",
+            "size": 67058,
+            "thumbnail": "f1/c1/69b16fc480acb1cf8363324d38fa/.thumb-1edc4b26-e1cc-4942-af5e-5815beac6650.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/f1/c1/69b16fc480acb1cf8363324d38fa/.thumb-1edc4b26-e1cc-4942-af5e-5815beac6650.png",
+            "uri": "/file/1edc4b26-e1cc-4942-af5e-5815beac6650",
+            "url": "/assets/f1/c1/69b16fc480acb1cf8363324d38fa/our_changing_planet_2003_16_20090708_1595724885.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2003/figure/north-american-terrestrial-carbon-sink.json",
+    "identifier": "north-american-terrestrial-carbon-sink",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2003",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "North American Terrestrial Carbon Sink",
+    "uri": "/report/ccsp-ocpfy2003/figure/north-american-terrestrial-carbon-sink",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

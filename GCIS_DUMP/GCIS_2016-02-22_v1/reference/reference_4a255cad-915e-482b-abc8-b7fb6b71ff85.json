@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Melillo, Jerry M.\rTerese (T.C.) Richmond,\rYohe, Gary W.",
+        "Book Title": "Climate Change Impacts in the United States: The Third National Climate Assessment",
+        "DOI": "(doi)",
+        "Pages": "A6-1\u2013nn",
+        "Place Published": "Washington, DC",
+        "Publisher": "U.S. Global Change Research Program",
+        "Reviewer": "4a255cad-915e-482b-abc8-b7fb6b71ff85",
+        "Title": "Appendix 6: Topics for Consideration in Future Assessments",
+        "URL": "http://urltbd",
+        "Year": "2014",
+        "_chapter": "[\"Ch. 0: About this Report FINAL\"]",
+        "_record_number": "4746",
+        "_uuid": "4a255cad-915e-482b-abc8-b7fb6b71ff85",
+        "reftype": "Book Section"
+    },
+    "child_publication": null,
+    "href": "http://data.globalchange.gov/reference/4a255cad-915e-482b-abc8-b7fb6b71ff85.json",
+    "identifier": "4a255cad-915e-482b-abc8-b7fb6b71ff85",
+    "uri": "/reference/4a255cad-915e-482b-abc8-b7fb6b71ff85"
+}

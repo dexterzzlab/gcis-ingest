@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "ICATF,",
+        "Institution": "The White House Council on Environmental Quality",
+        "Pages": "72",
+        "Place Published": "Washington, D.C.",
+        "Title": "Progress Report of the Interagency Climate Change Adaptation Task Force: Recommended Actions in Support of a National Climate Change Adaptation Strategy",
+        "URL": "http://www.whitehouse.gov/sites/default/files/microsites/ceq/Interagency-Climate-Change-Adaptation-Progress-Report.pdf",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "3619",
+        "_uuid": "1a73a6da-b3fb-4e34-aa3a-868579682b56",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/ceq-progrep-2010",
+    "href": "http://data.globalchange.gov/reference/1a73a6da-b3fb-4e34-aa3a-868579682b56.json",
+    "identifier": "1a73a6da-b3fb-4e34-aa3a-868579682b56",
+    "uri": "/reference/1a73a6da-b3fb-4e34-aa3a-868579682b56"
+}

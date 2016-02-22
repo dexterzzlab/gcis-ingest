@@ -1,0 +1,136 @@
+{
+    "attributes": null,
+    "caption": "Ports are deeply interconnected with inland areas through the goods imported and \r\nexported each year. Climate change impacts on ports can thus have far-reaching implications for \r\nthe nation\u2019s economy. These maps show the exports and imports in 2010 (in tons/year) and \r\nfreight flows (in trucks per day) from four major U.S. ports to other U.S. areas designated in the \r\nU.S. Department of Transportation\u2019s Freight Analysis Framework (FAF): Los Angeles, Houston, \r\nNew York/New Jersey, and Seattle. Note: Highway Link Flow less than 5 FAF Trucks/Day are not \r\nshown. (Figure source: U.S. Department of Transportation, Federal Highway Administration, \r\nOffice of Freight Management and Operations, Freight Analysis Framework, version 3.4, \r\n2012).<tbib>57430e1e-9f81-4d9b-a79a-65c280867f87</tbib>",
+    "chapter": {
+        "doi": "10.7930/J0MS3QNW",
+        "identifier": "coastal-zone",
+        "number": 25,
+        "report_identifier": "nca3",
+        "sort_key": 250,
+        "title": "Coastal Zone Development and Ecosystems",
+        "url": "http://nca2014.globalchange.gov/report/regions/coasts"
+    },
+    "chapter_identifier": "coastal-zone",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-12-10T13:15:00",
+    "files": [
+        {
+            "file": "39/d5/9a221666715b41dd38719b301fc5/Coast-Hinterland_Doubled_v2.png",
+            "href": "http://data.globalchange.gov/assets/39/d5/9a221666715b41dd38719b301fc5/Coast-Hinterland_Doubled_v2.png",
+            "identifier": "9b03ecb8-0bfa-4ac4-b4a1-7893e7a4f287",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "415d36e3659bd1b0e2c6c84d76b8577fd9056a40",
+            "size": 1130572,
+            "thumbnail": "39/d5/9a221666715b41dd38719b301fc5/.thumb-9b03ecb8-0bfa-4ac4-b4a1-7893e7a4f287.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/39/d5/9a221666715b41dd38719b301fc5/.thumb-9b03ecb8-0bfa-4ac4-b4a1-7893e7a4f287.png",
+            "uri": "/file/9b03ecb8-0bfa-4ac4-b4a1-7893e7a4f287",
+            "url": "/assets/39/d5/9a221666715b41dd38719b301fc5/Coast-Hinterland_Doubled_v2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/coastal-zone/figure/coasttoinland-economic-connections.json",
+    "identifier": "coasttoinland-economic-connections",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-12-10T13:15:00",
+            "description": null,
+            "identifier": "e7648579-df72-4b4c-9014-bc39414a9616",
+            "lat_max": "49.38",
+            "lat_min": "24.50",
+            "lon_max": "-66.95",
+            "lon_min": "-124.80",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2010-12-31T23:59:59",
+            "time_start": "2010-01-01T00:00:00",
+            "title": "Coast-to-Inland Economic Connections  - Los Angeles",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2013-12-10T13:15:00",
+            "description": null,
+            "identifier": "6d44c0ae-a005-4156-9cb5-5442a8732bf1",
+            "lat_max": "49.38",
+            "lat_min": "24.50",
+            "lon_max": "-66.95",
+            "lon_min": "-124.80",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2010-12-31T23:59:59",
+            "time_start": "2010-01-01T00:00:00",
+            "title": "Coast-to-Inland Economic Connections  - New York and New Jersey",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2013-12-10T13:15:00",
+            "description": null,
+            "identifier": "ca4d0b2a-df56-4c6a-ae09-a68d5c25657e",
+            "lat_max": "49.38",
+            "lat_min": "24.50",
+            "lon_max": "-66.95",
+            "lon_min": "-124.80",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2010-12-31T23:59:59",
+            "time_start": "2010-01-01T00:00:00",
+            "title": "Coast-to-Inland Economic Connections  - Houston",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2013-12-10T13:15:00",
+            "description": null,
+            "identifier": "55bde8d0-3da9-4942-a230-8c35d01dd71f",
+            "lat_max": "49.38",
+            "lat_min": "24.50",
+            "lon_max": "-66.95",
+            "lon_min": "-124.80",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2010-12-31T23:59:59",
+            "time_start": "2010-01-01T00:00:00",
+            "title": "Coast-to-Inland Economic Connections  - Detroit",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 7,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "webpage Freight Analysis Framework (Version 3) Data Tabulation Tool, Total Flows",
+            "note": null,
+            "publication_type_identifier": "webpage",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/webpage/5fe65558-d010-445b-b4f1-9079224dca6b"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/57430e1e-9f81-4d9b-a79a-65c280867f87.json",
+            "uri": "/reference/57430e1e-9f81-4d9b-a79a-65c280867f87"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "U.S. Department of Transportation, Federal Highway Administration, Office of Freight Management and Operations, Freight Analysis Framework, version 3.4, 2012",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Coast-to-Inland Economic Connections",
+    "uri": "/report/nca3/chapter/coastal-zone/figure/coasttoinland-economic-connections",
+    "url": "http://nca2014.globalchange.gov/highlights/regions/coasts/graphics/coast-inland-economic-connections",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

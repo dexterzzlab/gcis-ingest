@@ -1,0 +1,110 @@
+{
+    "attributes": null,
+    "caption": "Recent variations of the Power Dissipation Index (PDI) in the North Atlantic and eastern North Pacific Oceans. PDI is an aggregate of storm intensity, frequency, and duration and provides a measure of total hurricane power over a hurricane season. There is a strong upward trend in Atlantic PDI, and a downward trend in the eastern North Pacific, both of which are well-supported by the reanalysis. Separate analyses (not shown) indicate a significant increase in the strength and in the number of the strongest hurricanes (Category 4 and 5) in the North Atlantic over this same time period. The PDI is calculated from historical data (IBTrACS<tbib>73711f67-22e4-469a-af2a-6a426e41f472</tbib>) and from reanalyses using satellite data (UW/NCDC &amp; ADT-HURSAT<tbib>6d2920f6-f06d-41fd-83e7-1fd61c40ae49</tbib><sup>,</sup><tbib>f748a8e5-7925-4fb4-a64c-57dd77279670</tbib>). IBTrACS is the International Best Track Archive for Climate Stewardship, UW/NCDC is the University of Wisconsin/NOAA National Climatic Data Center satellite-derived hurricane intensity dataset, and ADT-HURSAT is the Advanced Dvorak Technique\u2013Hurricane Satellite dataset (Figure source: adapted from Kossin et al. 2007<tbib>6d2920f6-f06d-41fd-83e7-1fd61c40ae49</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0KW5CXT",
+        "identifier": "our-changing-climate",
+        "number": 2,
+        "report_identifier": "nca3",
+        "sort_key": 20,
+        "title": "Our Changing Climate",
+        "url": "http://nca2014.globalchange.gov/report/our-changing-climate/introduction"
+    },
+    "chapter_identifier": "our-changing-climate",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2012-11-07T11:14:00",
+    "files": [
+        {
+            "file": "02/85/9c32ffd6c94fff13cc1fc728b155/CS_PDI_trends_V8.png",
+            "href": "http://data.globalchange.gov/assets/02/85/9c32ffd6c94fff13cc1fc728b155/CS_PDI_trends_V8.png",
+            "identifier": "4b15162c-1d5c-4a3e-a3ff-4386dcd5a672",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "a7d02d30aeef71ea7e823127c0521a17f7a502b0",
+            "size": 211293,
+            "thumbnail": "02/85/9c32ffd6c94fff13cc1fc728b155/.thumb-4b15162c-1d5c-4a3e-a3ff-4386dcd5a672.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/02/85/9c32ffd6c94fff13cc1fc728b155/.thumb-4b15162c-1d5c-4a3e-a3ff-4386dcd5a672.png",
+            "uri": "/file/4b15162c-1d5c-4a3e-a3ff-4386dcd5a672",
+            "url": "/assets/02/85/9c32ffd6c94fff13cc1fc728b155/CS_PDI_trends_V8.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/our-changing-climate/figure/observed-trends-in-hurricane-power-dissipation.json",
+    "identifier": "observed-trends-in-hurricane-power-dissipation",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2012-11-07T11:14:00",
+            "description": null,
+            "identifier": "a79f2d3d-6dfa-43a1-aee4-4bdcd4bbe55f",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2009-12-31T23:59:59",
+            "time_start": "1970-01-01T00:00:00",
+            "title": "Observed Trends in Hurricane Power Dissipation - North Atlantic Ocean",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2012-11-07T11:14:00",
+            "description": null,
+            "identifier": "f3e3f5be-07fe-4f94-ad77-67131ad5426b",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2009-12-31T23:59:59",
+            "time_start": "1970-01-01T00:00:00",
+            "title": "Observed Trends in Hurricane Power Dissipation - Eastern North Pacific Ocean",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 23,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "A globally consistent reanalysis of hurricane variability and trends",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1029/2006GL028836"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/6d2920f6-f06d-41fd-83e7-1fd61c40ae49.json",
+            "uri": "/reference/6d2920f6-f06d-41fd-83e7-1fd61c40ae49"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/73711f67-22e4-469a-af2a-6a426e41f472.json",
+            "uri": "/reference/73711f67-22e4-469a-af2a-6a426e41f472"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/f748a8e5-7925-4fb4-a64c-57dd77279670.json",
+            "uri": "/reference/f748a8e5-7925-4fb4-a64c-57dd77279670"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "adapted from Kossin et al. 2007<tbib>6d2920f6-f06d-41fd-83e7-1fd61c40ae49</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Observed Trends in Hurricane Power Dissipation",
+    "uri": "/report/nca3/chapter/our-changing-climate/figure/observed-trends-in-hurricane-power-dissipation",
+    "url": "http://nca2014.globalchange.gov/report/our-changing-climate/changes-hurricanes/graphics/observed-trends-hurricane-power-dissipation",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

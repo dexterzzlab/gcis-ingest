@@ -1,0 +1,8 @@
+{
+    "description": "Multi-purpose imaging Vis/IR radiometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/middle-ir-scanner.json",
+    "identifier": "middle-ir-scanner",
+    "name": "Middle IR Scanner",
+    "uri": "/instrument/middle-ir-scanner"
+}

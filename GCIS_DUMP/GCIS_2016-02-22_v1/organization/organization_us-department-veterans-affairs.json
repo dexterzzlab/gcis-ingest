@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/us-department-veterans-affairs.json",
+    "identifier": "us-department-veterans-affairs",
+    "name": "U.S. Department of Veterans Affairs",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/us-department-veterans-affairs",
+    "url": "http://www.va.gov/"
+}

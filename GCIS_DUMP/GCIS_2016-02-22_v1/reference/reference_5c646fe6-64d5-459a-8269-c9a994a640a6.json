@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Bromirski, P. D., \rD. R. Cayan, \rN. Graham, \rR. E. Flick,\rM. Tyree",
+        "Institution": "California Energy Commission's California Climate Change Center, Scripps Institute of Oceanography",
+        "Pages": "53",
+        "Title": "Coastal Flooding Potential Projections: 2000\u20132100. California Energy Commission. CEC-500-2012-011",
+        "URL": "http://www.energy.ca.gov/2012publications/CEC-500-2012-011/CEC-500-2012-011.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "409",
+        "_uuid": "5c646fe6-64d5-459a-8269-c9a994a640a6",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/cec-500-2012-011",
+    "href": "http://data.globalchange.gov/reference/5c646fe6-64d5-459a-8269-c9a994a640a6.json",
+    "identifier": "5c646fe6-64d5-459a-8269-c9a994a640a6",
+    "uri": "/reference/5c646fe6-64d5-459a-8269-c9a994a640a6"
+}

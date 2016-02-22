@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Bulbena, A.\rSperry, L.\rCunillera, J.",
+        "ISSN": "1075-2730",
+        "Issue": "10",
+        "Journal": "Psychiatric Services",
+        "Pages": "1519-1519",
+        "Title": "Psychiatric effects of heat waves",
+        "Volume": "57",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "1345",
+        "_uuid": "d7a4649b-0294-45ae-ba3c-c7e2561685fd",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1176/ps.2006.57.10.1519",
+    "href": "http://data.globalchange.gov/reference/d7a4649b-0294-45ae-ba3c-c7e2561685fd.json",
+    "identifier": "d7a4649b-0294-45ae-ba3c-c7e2561685fd",
+    "uri": "/reference/d7a4649b-0294-45ae-ba3c-c7e2561685fd"
+}

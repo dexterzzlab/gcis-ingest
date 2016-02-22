@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "This map illustrates the national scope of the dispersion of displaced people from Hurricane Katrina. It shows the location by zip code of the 800,000 displaced Louisiana residents who requested federal emergency assistance. The evacuees ended up dispersed across the entire nation, illustrating the wide-ranging impacts that can flow from extreme weather events, such as those that are projected to increase in frequency and/or intensity as climate continues to change (Ch. 2: Our Changing Climate, Key Message 8). (Figure source: Kent 2006<tbib>1bdadd8e-39d1-4ab5-94e6-4cba8b9f63f5</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0PN93H5",
+        "identifier": "human-health",
+        "number": 9,
+        "report_identifier": "nca3",
+        "sort_key": 90,
+        "title": "Human Health",
+        "url": "http://nca2014.globalchange.gov/report/sectors/human-health"
+    },
+    "chapter_identifier": "human-health",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-08-29T08:45:00",
+    "files": [
+        {
+            "file": "2b/1e/2e257a5c5a3fc7e91ab8640e6145/health_katrina_diaspora_V4.png",
+            "href": "http://data.globalchange.gov/assets/2b/1e/2e257a5c5a3fc7e91ab8640e6145/health_katrina_diaspora_V4.png",
+            "identifier": "3e0b574a-9143-42a4-a26a-5f11e66ad4bb",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "1f4ecd95003b91d47502e86354348a80e0f74fb3",
+            "size": 923403,
+            "thumbnail": "2b/1e/2e257a5c5a3fc7e91ab8640e6145/.thumb-3e0b574a-9143-42a4-a26a-5f11e66ad4bb.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/2b/1e/2e257a5c5a3fc7e91ab8640e6145/.thumb-3e0b574a-9143-42a4-a26a-5f11e66ad4bb.png",
+            "uri": "/file/3e0b574a-9143-42a4-a26a-5f11e66ad4bb",
+            "url": "/assets/2b/1e/2e257a5c5a3fc7e91ab8640e6145/health_katrina_diaspora_V4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/human-health/figure/katrina-diaspora.json",
+    "identifier": "katrina-diaspora",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-08-29T08:45:00",
+            "description": null,
+            "identifier": "91f390d0-58bd-4415-ad04-a9681c8866a1",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2005-09-20T23:59:59",
+            "time_start": "2005-08-23T00:00:00",
+            "title": "Katrina Diaspora",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 10,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Louisiana Hurricane Impact Atlas",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/lgic-lahurricane-2006"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/1bdadd8e-39d1-4ab5-94e6-4cba8b9f63f5.json",
+            "uri": "/reference/1bdadd8e-39d1-4ab5-94e6-4cba8b9f63f5"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "Kent 2006<tbib>1bdadd8e-39d1-4ab5-94e6-4cba8b9f63f5</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Katrina Diaspora",
+    "uri": "/report/nca3/chapter/human-health/figure/katrina-diaspora",
+    "url": "http://nca2014.globalchange.gov/highlights/report-findings/widespread-impacts/graphics/katrina-diaspora",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

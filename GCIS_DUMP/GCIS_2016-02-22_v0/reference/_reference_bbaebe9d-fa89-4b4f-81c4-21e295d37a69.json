@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".publisher": "Blackwell Science Ltd",
+        ".reference_type": "0",
+        "Author": "Iverson, Louis\rPrasad, Anantha",
+        "DOI": "10.1046/j.1472-4642.1998.00007.x",
+        "ISSN": "1472-4642",
+        "Issue": "2",
+        "Journal": "Diversity and Distributions",
+        "Keywords": "Landscape ecology\rspatial statistics/autocorrelation\rmultiple regression\rbiodiversity\rgeographic information system\rIllinois Plant Information Network",
+        "Pages": "49-61",
+        "Title": "Estimating regional plant biodiversity with GIS modelling",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1046/j.1472-4642.1998.00007.x/pdf",
+        "Volume": "4",
+        "Year": "1998",
+        "_chapter": "[\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "4143",
+        "_uuid": "bbaebe9d-fa89-4b4f-81c4-21e295d37a69",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1046/j.1472-4642.1998.00007.x",
+    "href": "http://data.globalchange.gov/reference/bbaebe9d-fa89-4b4f-81c4-21e295d37a69.json",
+    "identifier": "bbaebe9d-fa89-4b4f-81c4-21e295d37a69",
+    "uri": "/reference/bbaebe9d-fa89-4b4f-81c4-21e295d37a69"
+}

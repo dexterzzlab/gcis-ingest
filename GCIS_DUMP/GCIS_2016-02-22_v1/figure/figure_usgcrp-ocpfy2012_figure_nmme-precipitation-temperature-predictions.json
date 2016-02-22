@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "National Multi-Model Ensemble Predictions of Winter 2011 - 2012 precipitation and near-surface temperature anomalies. NMME predictions of winter 2011-2012 precipitation (a) and near-surface temperature (b) anomalies. Predictions for December, January, and February (DJF) were initialized in October 2011. Probabilistic information will also accompany these deterministic forecasts, as the system is developed and tested. Precipitation anomalies are given in terms of millimeters per day, while temperature anomalies are given in terms of degrees Celsius. The figures present results from an ensemble of seven models that are developed and run by U.S. agencies and research laboratories, including NASA, NOAA, and NCAR (DOE/NSF). (Figure is courtesy of the National Centers for Environmental Prediction).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "f5/71/70a32082f31a9e5aba23e9ccf53f/OCP_2012_Page_23_Image_0003.jpg",
+            "href": "http://data.globalchange.gov/assets/f5/71/70a32082f31a9e5aba23e9ccf53f/OCP_2012_Page_23_Image_0003.jpg",
+            "identifier": "327dc279-08a7-4583-9e82-b0e676a1bd2e",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "ced66febab670201640a20442aea0f9c86c72c42",
+            "size": 94062,
+            "thumbnail": "f5/71/70a32082f31a9e5aba23e9ccf53f/.thumb-327dc279-08a7-4583-9e82-b0e676a1bd2e.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/f5/71/70a32082f31a9e5aba23e9ccf53f/.thumb-327dc279-08a7-4583-9e82-b0e676a1bd2e.png",
+            "uri": "/file/327dc279-08a7-4583-9e82-b0e676a1bd2e",
+            "url": "/assets/f5/71/70a32082f31a9e5aba23e9ccf53f/OCP_2012_Page_23_Image_0003.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2012/figure/nmme-precipitation-temperature-predictions.json",
+    "identifier": "nmme-precipitation-temperature-predictions",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2012",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "NMME Precipitation and Temperature Predictions",
+    "uri": "/report/usgcrp-ocpfy2012/figure/nmme-precipitation-temperature-predictions",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

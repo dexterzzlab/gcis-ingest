@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Trends of Pacific sea surface temperature in IPCC model simulations driven by a transient increase in atmospheric CO2 concentration. (a) Sea surface temperature trend averaged across the Pacific at each latitude between 40S and 40N, showing general agreement among models for enhanced equatorial warming. (b) As in (a), but with each model\u2019s temperature trend divided by each model\u2019s mean trend over the Pacific Ocean, showing the robustness of the enhanced equatorial warming across the models regardless of their individual climate sensitivities. Credit: Z. Liu, University of Wisconsin (reproduced from the Journal of Climate with permission from the American Meteorological Society).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "65/ba/00265ed07ed3c2e073d1f652c5a2/our_changing_planet_2007_89_20090708_1878182556.jpg",
+            "href": "http://data.globalchange.gov/assets/65/ba/00265ed07ed3c2e073d1f652c5a2/our_changing_planet_2007_89_20090708_1878182556.jpg",
+            "identifier": "5d247eb2-240b-4a76-8edd-462441b6e55a",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "2a304b9bd7f42e5d30046636cc21c4f09411b28d",
+            "size": 36095,
+            "thumbnail": "65/ba/00265ed07ed3c2e073d1f652c5a2/.thumb-5d247eb2-240b-4a76-8edd-462441b6e55a.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/65/ba/00265ed07ed3c2e073d1f652c5a2/.thumb-5d247eb2-240b-4a76-8edd-462441b6e55a.png",
+            "uri": "/file/5d247eb2-240b-4a76-8edd-462441b6e55a",
+            "url": "/assets/65/ba/00265ed07ed3c2e073d1f652c5a2/our_changing_planet_2007_89_20090708_1878182556.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/projected-sea-surface-temperature-trend.json",
+    "identifier": "projected-sea-surface-temperature-trend",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Projected Sea Surface Temperature Trend",
+    "uri": "/report/ccsp-ocpfy2007/figure/projected-sea-surface-temperature-trend",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

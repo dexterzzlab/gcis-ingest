@@ -1,0 +1,88 @@
+{
+    "attributes": null,
+    "caption": "Observed global average changes (black line), model simulations using only changes in natural factors (solar and volcanic) in green, and model simulations with the addition of human-induced emissions (blue). Climate changes since 1950 cannot be explained by natural factors or variability, and can only be explained by human factors. (Figure source: adapted from Huber and Knutti<tbib>89032706-9386-44b8-94a9-60ec5ed95594</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0KW5CXT",
+        "identifier": "our-changing-climate",
+        "number": 2,
+        "report_identifier": "nca3",
+        "sort_key": 20,
+        "title": "Our Changing Climate",
+        "url": "http://nca2014.globalchange.gov/report/our-changing-climate/introduction"
+    },
+    "chapter_identifier": "our-changing-climate",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-02-21T16:00:49",
+    "files": [
+        {
+            "file": "be/54/32981ede2704c6526759a9cae371/CS_global_temperature_time_series_v5.png",
+            "href": "http://data.globalchange.gov/assets/be/54/32981ede2704c6526759a9cae371/CS_global_temperature_time_series_v5.png",
+            "identifier": "b395eb45-4691-450f-a9b5-f298e94bff5e",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "84a57ff120423e94f637a75053d4e27b12cb4592",
+            "size": 62082,
+            "thumbnail": "be/54/32981ede2704c6526759a9cae371/.thumb-b395eb45-4691-450f-a9b5-f298e94bff5e.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/be/54/32981ede2704c6526759a9cae371/.thumb-b395eb45-4691-450f-a9b5-f298e94bff5e.png",
+            "uri": "/file/b395eb45-4691-450f-a9b5-f298e94bff5e",
+            "url": "/assets/be/54/32981ede2704c6526759a9cae371/CS_global_temperature_time_series_v5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/our-changing-climate/figure/separating-human-and-natural-influences-on-climate.json",
+    "identifier": "separating-human-and-natural-influences-on-climate",
+    "images": [
+        {
+            "attributes": "Temperature, observed, simulated, global",
+            "create_dt": "2014-02-21T16:10:00",
+            "description": null,
+            "identifier": "47b50ae0-e3d1-4e29-aff7-09de2bdf6648",
+            "lat_max": "90",
+            "lat_min": "-90",
+            "lon_max": "180",
+            "lon_min": "-180",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2005-12-31T23:59:59",
+            "time_start": "1895-01-01T00:00:00",
+            "title": "Separating Human and Natural Influences on Climate",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [
+        "/report/nca3/chapter/appendix-faqs/figure/caq-separating-human-and-natural-influences-on-climate",
+        "/report/nca3/chapter/executive-summary/figure/overview-separating-human-and-natural-influences-on-climate"
+    ],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 3,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Anthropogenic and natural warming inferred from changes in Earth\u2019s energy balance",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1038/ngeo1327"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/89032706-9386-44b8-94a9-60ec5ed95594.json",
+            "uri": "/reference/89032706-9386-44b8-94a9-60ec5ed95594"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "adapted from Huber and Knutti<tbib>89032706-9386-44b8-94a9-60ec5ed95594</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Separating Human and Natural Influences on Climate",
+    "uri": "/report/nca3/chapter/our-changing-climate/figure/separating-human-and-natural-influences-on-climate",
+    "url": "http://nca2014.globalchange.gov/highlights/overview/overview/graphics/separating-human-and-natural-influences-climate",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

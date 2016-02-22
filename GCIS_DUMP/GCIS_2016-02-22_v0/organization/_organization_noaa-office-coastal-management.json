@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/noaa-office-coastal-management.json",
+    "identifier": "noaa-office-coastal-management",
+    "name": "National Oceanic and Atmospheric Administration Office for Coastal Management",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/noaa-office-coastal-management",
+    "url": "https://coast.noaa.gov/"
+}

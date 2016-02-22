@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2012",
+        "Author": "NWPCC,",
+        "Publisher": "Northwest Power and Conservation Council",
+        "Title": "A Guide to Major Hydropower Dams of the Columbia River Basin",
+        "URL": "http://www.nwcouncil.org/energy/powersupply/dam-guide",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "2324",
+        "_uuid": "51a48f26-0064-442d-bba2-79d194b016fc",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/1f6b6b70-1f86-41cc-a3d8-70b7d4fc5f6b",
+    "href": "http://data.globalchange.gov/reference/51a48f26-0064-442d-bba2-79d194b016fc.json",
+    "identifier": "51a48f26-0064-442d-bba2-79d194b016fc",
+    "uri": "/reference/51a48f26-0064-442d-bba2-79d194b016fc"
+}

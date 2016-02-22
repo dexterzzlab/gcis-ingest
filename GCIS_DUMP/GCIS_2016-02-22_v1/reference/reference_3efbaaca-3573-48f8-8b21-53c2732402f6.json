@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2012",
+        "Author": "ASCE,",
+        "Place Published": "Reston, VA",
+        "Publisher": "American Society of Civil Engineers",
+        "Title": "Infrastructure Report Card for California",
+        "URL": "http://www.ascecareportcard.org/reportcards.asp",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "4077",
+        "_uuid": "3efbaaca-3573-48f8-8b21-53c2732402f6",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/e3607138-4d33-4e87-906c-82b0ee277dab",
+    "href": "http://data.globalchange.gov/reference/3efbaaca-3573-48f8-8b21-53c2732402f6.json",
+    "identifier": "3efbaaca-3573-48f8-8b21-53c2732402f6",
+    "uri": "/reference/3efbaaca-3573-48f8-8b21-53c2732402f6"
+}

@@ -1,0 +1,70 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Chart shows annual average greenhouse gas emissions from land use including livestock and crop production, but does not include fossil fuels used in agricultural production. Forests are a significant \u201csink\u201d that absorbs carbon dioxide from the atmosphere. All values shown are for 2008, except wetlands, which are shown for 2003. (Pacala et al. 2007;<tbib>385bda86-7b42-4264-9673-280ac0091528</tbib> USDA 2011<tbib>8e71f863-8c83-4786-900c-ad8c8c252b30</tbib>).",
+            "chapter_identifier": "mitigation",
+            "create_dt": null,
+            "identifier": "sources-and-sinks-in-us-agriculture-and-forests",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 3,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Sources and Sinks in U.S. Agriculture and Forests",
+            "url": "http://nca2014.globalchange.gov/report/response-strategies/mitigation/graphics/sources-and-sinks-us-agriculture-and-forests",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "c1/04/9db710c1414cf748693b3d95c360/Mitigation_ag___forest_emissions_V6.png",
+            "href": "http://data.globalchange.gov/assets/c1/04/9db710c1414cf748693b3d95c360/Mitigation_ag___forest_emissions_V6.png",
+            "identifier": "bb93b2e9-ef8e-4c6f-9181-56f0b0517091",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "44798059e1c18e918a609529c9d4923ddb1b71bc",
+            "size": 48455,
+            "thumbnail": "c1/04/9db710c1414cf748693b3d95c360/.thumb-bb93b2e9-ef8e-4c6f-9181-56f0b0517091.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/c1/04/9db710c1414cf748693b3d95c360/.thumb-bb93b2e9-ef8e-4c6f-9181-56f0b0517091.png",
+            "uri": "/file/bb93b2e9-ef8e-4c6f-9181-56f0b0517091",
+            "url": "/assets/c1/04/9db710c1414cf748693b3d95c360/Mitigation_ag___forest_emissions_V6.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/f45bb90a-2ad0-443e-ad0e-958c9be6b62d.json",
+    "identifier": "f45bb90a-2ad0-443e-ad0e-958c9be6b62d",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "U.S. Agriculture and Forestry Greenhouse Gas Inventory: 1990-2008. Technical Bulletin No. 1930.",
+            "note": "",
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/usda-techbul-1930"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Sources and Sinks in U.S. Agriculture and Forests",
+    "uri": "/image/f45bb90a-2ad0-443e-ad0e-958c9be6b62d",
+    "url": null,
+    "usage_limits": null
+}

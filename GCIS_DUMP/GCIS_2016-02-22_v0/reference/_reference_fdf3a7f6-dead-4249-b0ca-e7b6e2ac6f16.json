@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"9\" /><run start=\"10\" /></field></record>",
+        "Author": "Boden, Tom\rMarland, Gregg\rAndres, Bob",
+        "Place Published": "Oak Ridge, TN",
+        "Publisher": "Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory",
+        "Reviewer": "fdf3a7f6-dead-4249-b0ca-e7b6e2ac6f16",
+        "Title": "Global CO2 Emissions from Fossil-Fuel Burning, Cement Manufacture, and Gas Flaring: 1751-2008",
+        "URL": "http://cdiac.ornl.gov/ftp/ndp030/global.1751_2008.ems",
+        "Year": "2011",
+        "_chapter": "[\"Appendix 4: FAQs FINAL\",\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "4411",
+        "_uuid": "fdf3a7f6-dead-4249-b0ca-e7b6e2ac6f16",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/b6c5075c-7f4c-4cf2-8624-1dbd3b94de32",
+    "href": "http://data.globalchange.gov/reference/fdf3a7f6-dead-4249-b0ca-e7b6e2ac6f16.json",
+    "identifier": "fdf3a7f6-dead-4249-b0ca-e7b6e2ac6f16",
+    "uri": "/reference/fdf3a7f6-dead-4249-b0ca-e7b6e2ac6f16"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Schnellnhuber, H.J.\rCramer, W.P.\rNakicenovic, N.\rWigley, T.\rYohe, G",
+        "ISBN": "9780521864712",
+        "Place Published": "Cambridge, UK, New York, New York",
+        "Publisher": "Cambridge University Press",
+        "Reviewer": "be244401-e84d-4ddd-af18-e8f59f807e17",
+        "Series Editor": "Schellnhuber, H.J.",
+        "Series Volume": "406",
+        "Title": "Avoiding Dangerous Climate Change",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "2778",
+        "_uuid": "be244401-e84d-4ddd-af18-e8f59f807e17",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/0ac1d6dd-4b7e-473d-af51-afa8dc86b3bc",
+    "href": "http://data.globalchange.gov/reference/be244401-e84d-4ddd-af18-e8f59f807e17.json",
+    "identifier": "be244401-e84d-4ddd-af18-e8f59f807e17",
+    "uri": "/reference/be244401-e84d-4ddd-af18-e8f59f807e17"
+}

@@ -1,0 +1,33 @@
+{
+    "attributes": null,
+    "caption": null,
+    "chapter": {
+        "doi": null,
+        "identifier": "integrated-assessment-modeling-agricultural-food-systems",
+        "number": 4,
+        "report_identifier": "usda-climate-change-global-food-security-us-food-system-2015",
+        "sort_key": 40,
+        "title": "Integrated Assessment Modeling of Agricultural and Food Systems",
+        "url": null
+    },
+    "chapter_identifier": "integrated-assessment-modeling-agricultural-food-systems",
+    "cited_by": [],
+    "create_dt": null,
+    "href": "http://data.globalchange.gov/report/usda-climate-change-global-food-security-us-food-system-2015/chapter/integrated-assessment-modeling-agricultural-food-systems/figure/summary-regional-studies-climate-change-impacts-west-east-southern-africa-south-asia-under-current-future-socio-economic-conditions.json",
+    "identifier": "summary-regional-studies-climate-change-impacts-west-east-southern-africa-south-asia-under-current-future-socio-economic-conditions",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 26,
+    "report_identifier": "usda-climate-change-global-food-security-us-food-system-2015",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Summary of regional studies of climate-change impacts in West, East and Southern Africa and South Asia under current and future socio-economic conditions",
+    "uri": "/report/usda-climate-change-global-food-security-us-food-system-2015/chapter/integrated-assessment-modeling-agricultural-food-systems/figure/summary-regional-studies-climate-change-impacts-west-east-southern-africa-south-asia-under-current-future-socio-economic-conditions",
+    "url": null,
+    "usage_limits": null
+}

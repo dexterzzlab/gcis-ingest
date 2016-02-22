@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/nca-rolenitrogen-2012.json",
+    "identifier": "nca-rolenitrogen-2012",
+    "in_library": null,
+    "publication_year": 2012,
+    "report_type_identifier": "technical_input",
+    "summary": null,
+    "title": "The Role of Nitrogen in Climate Change and the Impacts of Nitrogen-Climate Interactions on Terrestrial and Aquatic Ecosystems, Agriculture, and Human Health in the United States: A Technical Report Submitted to the US National Climate Assessment",
+    "topic": null,
+    "uri": "/report/nca-rolenitrogen-2012",
+    "url": "http://www.whrc.org/resources/publications/pdf/SuddicketalWHRC.12.pdf"
+}

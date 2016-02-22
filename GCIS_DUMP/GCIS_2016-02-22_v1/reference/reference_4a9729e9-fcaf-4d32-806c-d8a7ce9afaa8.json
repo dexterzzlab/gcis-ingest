@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Eriksen, S., \rK. Brown",
+        "DOI": "10.3763/cdev.2010.0064",
+        "Issue": "1",
+        "Journal": "Climate and Development",
+        "Pages": "3-6",
+        "Title": "Sustainable adaptation to climate change",
+        "URL": "http://www.tandfonline.com/doi/pdf/10.3763/cdev.2010.0064",
+        "Volume": "3",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\"]",
+        "_record_number": "1633",
+        "_uuid": "4a9729e9-fcaf-4d32-806c-d8a7ce9afaa8",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.3763/cdev.2010.0064",
+    "href": "http://data.globalchange.gov/reference/4a9729e9-fcaf-4d32-806c-d8a7ce9afaa8.json",
+    "identifier": "4a9729e9-fcaf-4d32-806c-d8a7ce9afaa8",
+    "uri": "/reference/4a9729e9-fcaf-4d32-806c-d8a7ce9afaa8"
+}

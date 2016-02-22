@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        ".publisher": "Springer Netherlands",
+        ".reference_type": "0",
+        "Alternate Journal": "Climatic Change",
+        "Author": "Maldonado, Julie Koppel\rShearer, Christine\rBronen, Robin\rPeterson, Kristina\rLazrus, Heather",
+        "DOI": "10.1007/s10584-013-0746-z",
+        "Date": "October 2013",
+        "Epub Date": "9 April 2013",
+        "ISSN": "0165-0009",
+        "Issue": "3",
+        "Journal": "Climatic Change",
+        "Language": "English",
+        "Pages": "601-614",
+        "Title": "The impact of climate change on tribal communities in the US: Displacement, relocation, and human rights",
+        "Volume": "120",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"Ch. 12: Indigenous FINAL\",\"RG 10 Coasts\",\"Ch. 1: Overview FINAL\"]",
+        "_record_number": "3871",
+        "_uuid": "42269c56-1785-48ec-a81b-6eeb784de417",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-013-0746-z",
+    "href": "http://data.globalchange.gov/reference/42269c56-1785-48ec-a81b-6eeb784de417.json",
+    "identifier": "42269c56-1785-48ec-a81b-6eeb784de417",
+    "uri": "/reference/42269c56-1785-48ec-a81b-6eeb784de417"
+}

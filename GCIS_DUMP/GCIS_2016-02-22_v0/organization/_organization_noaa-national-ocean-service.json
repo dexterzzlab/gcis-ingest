@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/noaa-national-ocean-service.json",
+    "identifier": "noaa-national-ocean-service",
+    "name": "National Oceanic and Atmospheric Administration National Ocean Service",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/noaa-national-ocean-service",
+    "url": "http://oceanservice.noaa.gov"
+}

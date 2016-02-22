@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Buonaiuto, F., \rL. Patrick, \rV. Gornitz, \rE. Hartig, \rR. Leichenko, \rJ. Stedinger, \rJ. Tanski, \rP. Vancura, \rJ. Waldman",
+        "Book Title": "Responding to Climate Change in New York State: The ClimAID Integrated Assessment for Effective Climate Change Adaptation in New York State",
+        "DOI": "10.1111/j.1749-6632.2011.06331.x",
+        "Editor": "C. Rosenzweig \rW. Solecki \rA. DeGaetano \rM. O'Grady \rS. Hassol \rP. Grabhorn",
+        "ISBN": "978-1-936842-00-1",
+        "Pages": "649",
+        "Place Published": "New York, New York",
+        "Publisher": "Blackwell Publishing",
+        "Reviewer": "bdc2678b-d11f-4fb5-abf4-ba646dd7e582",
+        "Series Title": "Annals of the New York Academy of Sciences",
+        "Title": "Ch. 15: Coastal zones",
+        "Volume": "1244",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "418",
+        "_uuid": "bdc2678b-d11f-4fb5-abf4-ba646dd7e582",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/nyserda-report-11-18",
+    "href": "http://data.globalchange.gov/reference/bdc2678b-d11f-4fb5-abf4-ba646dd7e582.json",
+    "identifier": "bdc2678b-d11f-4fb5-abf4-ba646dd7e582",
+    "uri": "/reference/bdc2678b-d11f-4fb5-abf4-ba646dd7e582"
+}

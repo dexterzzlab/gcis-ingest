@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/harvard-forest.json",
+    "identifier": "harvard-forest",
+    "name": "Harvard Forest",
+    "organization_type_identifier": "research",
+    "uri": "/organization/harvard-forest",
+    "url": "http://harvardforest.fas.harvard.edu/"
+}

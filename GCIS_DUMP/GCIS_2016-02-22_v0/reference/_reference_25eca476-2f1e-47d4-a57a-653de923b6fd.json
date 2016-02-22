@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Curtin, C.G.",
+        "DOI": "10.1046/j.1523-1739.2002.00165.x",
+        "ISSN": "1523-1739",
+        "Issue": "4",
+        "Journal": "Conservation Biology",
+        "Pages": "880-886",
+        "Title": "Integration of sand community-based conservation in the Mexico/U.S. borderlands",
+        "Volume": "16",
+        "Year": "2002",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "982",
+        "_uuid": "25eca476-2f1e-47d4-a57a-653de923b6fd",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1046/j.%201523-1739.2002.00165.x",
+    "href": "http://data.globalchange.gov/reference/25eca476-2f1e-47d4-a57a-653de923b6fd.json",
+    "identifier": "25eca476-2f1e-47d4-a57a-653de923b6fd",
+    "uri": "/reference/25eca476-2f1e-47d4-a57a-653de923b6fd"
+}

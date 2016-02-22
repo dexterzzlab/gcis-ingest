@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Areas of marked changes in NDVI and thus net primary production associated with warmer surface temperatures, increased precipitation, and/or land-use and land-cover changes from 1982 to 2005 (left) and 1982 to 1991 (right) using data with an 8 by 8-km resolution from the noted time periods. In the right figure, the increased NDVI values observed from 1982 to 1991 were due to the following: area 2 experienced warmer temperatures and a longer growing season, coupled with recovery from forest fires and logging in affected areas (the red colors); and area 5 shows the results of large-scale logging. In the left figure, NDVI increases were due to the following: area 1 experienced warmer temperatures and a longer growing season; area 3 experienced warmer temperatures and increased precipitation; and area 4 experienced widespread land-use changes, where dry land farming was replaced by center-pivot irrigation. See Figure 11 for an explanation of the land-use changes that can be observed using coarse-resolution satellite data in area 4. Credit: C.S.R. Neigh, C.J. Tucker and J.R.G. Townshend, NASA / Goddard Space Flight Center and University of Maryland (reproduced from Remote Sensing of Environment with permission from Elsevier).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "6d/4b/df6610fb75ba5dc8fa71adeb0606/Figure_10.png",
+            "href": "http://data.globalchange.gov/assets/6d/4b/df6610fb75ba5dc8fa71adeb0606/Figure_10.png",
+            "identifier": "e58b5466-33b8-4649-8643-c03fdfd37268",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "dbf6450826cf1cfec3af69fc55cfaf4df59954af",
+            "size": 401627,
+            "thumbnail": "6d/4b/df6610fb75ba5dc8fa71adeb0606/.thumb-e58b5466-33b8-4649-8643-c03fdfd37268.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/6d/4b/df6610fb75ba5dc8fa71adeb0606/.thumb-e58b5466-33b8-4649-8643-c03fdfd37268.png",
+            "uri": "/file/e58b5466-33b8-4649-8643-c03fdfd37268",
+            "url": "/assets/6d/4b/df6610fb75ba5dc8fa71adeb0606/Figure_10.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2009/figure/ndvi-changes-land-use-land-cover-change.json",
+    "identifier": "ndvi-changes-land-use-land-cover-change",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2009",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "NDVI Changes Associated with Land-Use and Land-Cover Change",
+    "uri": "/report/usgcrp-ocpfy2009/figure/ndvi-changes-land-use-land-cover-change",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

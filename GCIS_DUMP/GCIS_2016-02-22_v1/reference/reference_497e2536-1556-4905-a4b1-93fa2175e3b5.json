@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "The increasing pressure of climatic change and anthropogenic activities is predicted to have major effects on ecosystems around the world. With their fragility and sensitivity to hydrologic shifts and land-use changes, wetlands are among the most vulnerable of such ecosystems. Focusing on the Everglades National Park, we here assess the impact of changes in the hydrologic regime, as well as habitat loss, on the spatial configuration of vegetation species. Because the current structuring of vegetation clusters in the Everglades exhibits power-law behavior and such behavior is often associated with self-organization and dynamics occurring near critical transition points, the quantification and prediction of the impact of those changes on the ecosystem is deemed of paramount importance. We implement a robust model able to identify the main hydrologic and local drivers of the vegetation species spatial structuring and apply it for quantitative assessment. We find that shifts in the hydropatterns will mostly affect the relative abundance of species that currently colonize specific hydroperiod niches. Habitat loss or disruption, however, would have a massive impact on all plant communities, which are found to exhibit clear threshold behaviors when a given percentage of habitable habitat is lost.",
+        "Author": "Foti, Romano\rdel Jesus, Manuel\rRinaldo, Andrea\rRodriguez-Iturbe, Ignacio",
+        "DOI": "10.1073/pnas.1302558110",
+        "Date": "April 1, 2013",
+        "Issue": "16",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Pages": "6296-6300",
+        "Title": "Signs of critical transition in the Everglades wetlands in response to climate and anthropogenic changes",
+        "Volume": "110",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "3776",
+        "_uuid": "497e2536-1556-4905-a4b1-93fa2175e3b5",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.1302558110",
+    "href": "http://data.globalchange.gov/reference/497e2536-1556-4905-a4b1-93fa2175e3b5.json",
+    "identifier": "497e2536-1556-4905-a4b1-93fa2175e3b5",
+    "uri": "/reference/497e2536-1556-4905-a4b1-93fa2175e3b5"
+}

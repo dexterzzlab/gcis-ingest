@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Alternate Journal": "Annu. Rev. Energ. Environ.",
+        "Author": "Smil, V.",
+        "DOI": "10.1146/annurev.energy.25.1.53",
+        "ISSN": "1056-3466",
+        "Journal": "Annual Review of Energy and the Environment",
+        "Keywords": "biogeochemical cycling; phosphates; fertilizers; eutrophication; oceanic primary production; north-atlantic ocean; forest ecosystem; surface waters; nitrogen; eutrophication; removal; scale; crop; soil",
+        "Language": "English",
+        "Pages": "53-88",
+        "Title": "Phosphorus in the environment: Natural flows and human interferences",
+        "Type of Article": "Review",
+        "URL": "http://home.cc.umanitoba.ca/~vsmil/pdf_pubs/originalpdfs/aree2000-2.pdf",
+        "Volume": "25",
+        "Year": "2000",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "2870",
+        "_uuid": "3c440da6-7ee4-4406-aa92-1e779947552c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1146/annurev.energy.25.1.53",
+    "href": "http://data.globalchange.gov/reference/3c440da6-7ee4-4406-aa92-1e779947552c.json",
+    "identifier": "3c440da6-7ee4-4406-aa92-1e779947552c",
+    "uri": "/reference/3c440da6-7ee4-4406-aa92-1e779947552c"
+}

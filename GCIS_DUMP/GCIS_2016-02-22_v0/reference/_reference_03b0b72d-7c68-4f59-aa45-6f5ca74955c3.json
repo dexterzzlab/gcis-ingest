@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Pacala, S.\rSocolow, R.",
+        "DOI": "10.1126/science.1100103",
+        "ISSN": "0036-8075",
+        "Issue": "5686",
+        "Journal": "Science",
+        "Notes": "10.1126/science.1100103",
+        "Pages": "968-972",
+        "Title": "Stabilization wedges: Solving the climate problem for the next 50 years with current technologies",
+        "Volume": "305",
+        "Year": "2004",
+        "_chapter": "[\"Appendix 4: FAQs FINAL\"]",
+        "_record_number": "4706",
+        "_uuid": "03b0b72d-7c68-4f59-aa45-6f5ca74955c3",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1100103",
+    "href": "http://data.globalchange.gov/reference/03b0b72d-7c68-4f59-aa45-6f5ca74955c3.json",
+    "identifier": "03b0b72d-7c68-4f59-aa45-6f5ca74955c3",
+    "uri": "/reference/03b0b72d-7c68-4f59-aa45-6f5ca74955c3"
+}

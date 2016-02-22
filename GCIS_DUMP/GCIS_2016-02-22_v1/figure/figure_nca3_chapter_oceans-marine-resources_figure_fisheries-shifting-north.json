@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "Ocean species are shifting northward along U.S. coastlines as ocean temperatures rise. As a result, over the past 40 years, more northern ports have gradually increased their landings of four marine species compared to the earlier pattern of landed value. While some species move northward out of an area, other species move in from the south. This kind of information can inform decisions about how to adapt to climate change. Such adaptations take time and have costs, as local knowledge and equipment are geared to the species that have long been present in an area. (Figure source: adapted from Pinsky and Fogerty 2012<tbib>f147452b-e846-4fdd-aad9-3110322e071c</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0RF5RZW",
+        "identifier": "oceans-marine-resources",
+        "number": 24,
+        "report_identifier": "nca3",
+        "sort_key": 240,
+        "title": "Oceans and Marine Resources",
+        "url": "http://nca2014.globalchange.gov/report/regions/oceans"
+    },
+    "chapter_identifier": "oceans-marine-resources",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-18T14:06:00",
+    "files": [
+        {
+            "file": "60/44/dded4f52bea63ce5e26a31527718/oceans_lobster___groundfish_V3.png",
+            "href": "http://data.globalchange.gov/assets/60/44/dded4f52bea63ce5e26a31527718/oceans_lobster___groundfish_V3.png",
+            "identifier": "c6aa93b8-ac81-4cbf-85df-85a20b80ebf2",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "93aef8ee3e6c5e2b6e567472dbe9df4fda5bd344",
+            "size": 65709,
+            "thumbnail": "60/44/dded4f52bea63ce5e26a31527718/.thumb-c6aa93b8-ac81-4cbf-85df-85a20b80ebf2.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/60/44/dded4f52bea63ce5e26a31527718/.thumb-c6aa93b8-ac81-4cbf-85df-85a20b80ebf2.png",
+            "uri": "/file/c6aa93b8-ac81-4cbf-85df-85a20b80ebf2",
+            "url": "/assets/60/44/dded4f52bea63ce5e26a31527718/oceans_lobster___groundfish_V3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/oceans-marine-resources/figure/fisheries-shifting-north.json",
+    "identifier": "fisheries-shifting-north",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-11-18T14:06:00",
+            "description": null,
+            "identifier": "248a6e1e-f940-435e-b9c4-0c727fe06bb7",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Fisheries Shifting North",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 5,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Lagged social-ecological responses to climate and range shifts in fisheries",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1007/s10584-012-0599-x"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/f147452b-e846-4fdd-aad9-3110322e071c.json",
+            "uri": "/reference/f147452b-e846-4fdd-aad9-3110322e071c"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "adapted from Pinsky and Fogerty 2012<tbib>f147452b-e846-4fdd-aad9-3110322e071c</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Fisheries Shifting North",
+    "uri": "/report/nca3/chapter/oceans-marine-resources/figure/fisheries-shifting-north",
+    "url": "http://nca2014.globalchange.gov/highlights/report-findings/oceans/graphics/fisheries-shifting-north",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

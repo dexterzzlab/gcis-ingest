@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Caldwell, M.R.\rHartge, E.\rEwing, L.\rGriggs, G.\rKelly, R.\rMoser, S.\rNewkirk, S.\rSmyth, R.\rWoodson, B.",
+        "Book Title": "Assessment of Climate Change in the Southwest United States: A Report Prepared for the U.S. National Climate Assessment",
+        "Editor": "Lunde, R.\rGarfin, G.\rJardine, A.\rMerideth, R.\rBlack, M.\rOverpeck, J.",
+        "Pages": "274-327",
+        "Place Published": "Tuscon, AZ",
+        "Publisher": "Southwest Climate Alliance",
+        "Reviewer": "6ef87983-391a-497e-88d7-0e9ad38c215d",
+        "Title": "Ch. 9: Coastal issues",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "233",
+        "_uuid": "6ef87983-391a-497e-88d7-0e9ad38c215d",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/swccar-assessment-climate-change-in-southwest-us",
+    "href": "http://data.globalchange.gov/reference/6ef87983-391a-497e-88d7-0e9ad38c215d.json",
+    "identifier": "6ef87983-391a-497e-88d7-0e9ad38c215d",
+    "uri": "/reference/6ef87983-391a-497e-88d7-0e9ad38c215d"
+}

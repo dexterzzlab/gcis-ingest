@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Stabeno, P.J.\rFarley, E.V., Jr.\rKachel, N.B.\rMoore, S.\rMordy, C.W.\rNapp, J.M.\rOverland, J.E.\rPinchuk, A.I.\rSigler, M.F.",
+        "DOI": "10.1016/j.dsr2.2012.02.019",
+        "ISSN": "0967-0645",
+        "Journal": "Deep Sea Research Part II: Topical Studies in Oceanography",
+        "Pages": "14-30",
+        "Title": "A comparison of the physics of the northern and southern shelves of the eastern Bering Sea and some implications for the ecosystem",
+        "Volume": "65-70",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "2918",
+        "_uuid": "ad55236e-2a03-4239-846c-dd446e976aa2",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.dsr2.2012.02.019",
+    "href": "http://data.globalchange.gov/reference/ad55236e-2a03-4239-846c-dd446e976aa2.json",
+    "identifier": "ad55236e-2a03-4239-846c-dd446e976aa2",
+    "uri": "/reference/ad55236e-2a03-4239-846c-dd446e976aa2"
+}

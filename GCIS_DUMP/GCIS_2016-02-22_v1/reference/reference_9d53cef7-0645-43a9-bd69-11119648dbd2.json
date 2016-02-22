@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Fowler, A.M.\rBoswijk, G.\rLorrey, A.M.\rGergis, J.\rPirie, M.\rMcCloskey, S.P.J.\rPalmer, J.G.\rWunder, J.",
+        "DOI": "10.1038/nclimate1374",
+        "ISSN": "1758-678X",
+        "Issue": "3",
+        "Journal": "Nature Climate Change",
+        "Pages": "172-176",
+        "Title": "Multi-centennial tree-ring record of ENSO-related activity in New Zealand",
+        "Volume": "2",
+        "Year": "2012",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "1135",
+        "_uuid": "9d53cef7-0645-43a9-bd69-11119648dbd2",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/nclimate1374",
+    "href": "http://data.globalchange.gov/reference/9d53cef7-0645-43a9-bd69-11119648dbd2.json",
+    "identifier": "9d53cef7-0645-43a9-bd69-11119648dbd2",
+    "uri": "/reference/9d53cef7-0645-43a9-bd69-11119648dbd2"
+}

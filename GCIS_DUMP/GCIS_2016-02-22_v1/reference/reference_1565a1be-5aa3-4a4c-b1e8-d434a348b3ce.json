@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Johansson, M.A.\rCummings, D.A.T.\rGlass, G.E.",
+        "DOI": "10.1371/journal.pmed.1000168",
+        "ISSN": "1549-1676",
+        "Issue": "11",
+        "Journal": "PLoS Medicine",
+        "Pages": "e1000168",
+        "Title": "Multiyear climate variability and dengue\u2014El Ni\u00f1o southern oscillation, weather, and dengue incidence in Puerto Rico, Mexico, and Thailand: A longitudinal data analysis",
+        "URL": "http://www.plosmedicine.org/article/info%3Adoi%2F10.1371%2Fjournal.pmed.1000168",
+        "Volume": "6",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "1141",
+        "_uuid": "1565a1be-5aa3-4a4c-b1e8-d434a348b3ce",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1371/journal.pmed.1000168",
+    "href": "http://data.globalchange.gov/reference/1565a1be-5aa3-4a4c-b1e8-d434a348b3ce.json",
+    "identifier": "1565a1be-5aa3-4a4c-b1e8-d434a348b3ce",
+    "uri": "/reference/1565a1be-5aa3-4a4c-b1e8-d434a348b3ce"
+}

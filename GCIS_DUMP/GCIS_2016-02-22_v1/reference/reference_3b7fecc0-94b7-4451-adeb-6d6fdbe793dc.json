@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        ".publisher": "Springer Netherlands",
+        ".reference_type": "0",
+        "Alternate Journal": "AMBIO",
+        "Author": "Huntington, Henry P.\rGoodstein, Eban\rEuskirchen, Eug\u00e9nie",
+        "DOI": "10.1007/s13280-011-0226-5",
+        "Date": "2012/02/01",
+        "ISSN": "0044-7447",
+        "Issue": "1",
+        "Journal": "AMBIO",
+        "Keywords": "Climate change costs\rPrevention\rResponse\rPolitics\rEconomics\rVillage relocation\rForest fires\rSea level rise\rArctic",
+        "Language": "English",
+        "Pages": "66-74",
+        "Title": "Towards a tipping point in responding to change: Rising costs, fewer options for arctic and global societies",
+        "Volume": "41",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\"]",
+        "_record_number": "4568",
+        "_uuid": "3b7fecc0-94b7-4451-adeb-6d6fdbe793dc",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s13280-011-0226-5",
+    "href": "http://data.globalchange.gov/reference/3b7fecc0-94b7-4451-adeb-6d6fdbe793dc.json",
+    "identifier": "3b7fecc0-94b7-4451-adeb-6d6fdbe793dc",
+    "uri": "/reference/3b7fecc0-94b7-4451-adeb-6d6fdbe793dc"
+}

@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Accession Number": "173",
+        "Author": "Schneider, S.H.\rS. Semenov\rA. Patwardhan\rI. Burton\rC.H.D. Magadza\rM. Oppenheimer\rA.B. Pittock\rA. Rahman\rJ.B. Smith\rA. Suarez\rF. Yamin",
+        "Book Title": "Climate Change 2007: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change",
+        "Editor": "Parry, M.L.\rCanziani, O.F.\rPalutikof, J.P.\rvan der Linden, P.J.\rHanson, C.E.",
+        "Pages": "779-810",
+        "Place Published": "Cambridge, UK and New York, NY",
+        "Publisher": "Cambridge University Press",
+        "Reviewer": "3277e83c-e374-4ed5-b0a2-0adadfaf118d",
+        "Title": "Ch. 19: Assessing key vulnerabilities and the risk from climate change",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "4020",
+        "_uuid": "3277e83c-e374-4ed5-b0a2-0adadfaf118d",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/ipcc-ar4-wg2",
+    "href": "http://data.globalchange.gov/reference/3277e83c-e374-4ed5-b0a2-0adadfaf118d.json",
+    "identifier": "3277e83c-e374-4ed5-b0a2-0adadfaf118d",
+    "uri": "/reference/3277e83c-e374-4ed5-b0a2-0adadfaf118d"
+}

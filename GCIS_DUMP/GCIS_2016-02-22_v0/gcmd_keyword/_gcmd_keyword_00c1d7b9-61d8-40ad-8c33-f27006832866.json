@@ -1,0 +1,8 @@
+{
+    "definition": "The characteristic of a surface for which a physical property, such as reflectivity, varies in value with the direction in or along which the measurement is made.",
+    "href": "http://data.globalchange.gov/gcmd_keyword/00c1d7b9-61d8-40ad-8c33-f27006832866.json",
+    "identifier": "00c1d7b9-61d8-40ad-8c33-f27006832866",
+    "label": "ANISOTROPY",
+    "parent_identifier": "cb5cc628-a1b5-459e-934f-881153a937b8",
+    "uri": "/gcmd_keyword/00c1d7b9-61d8-40ad-8c33-f27006832866"
+}

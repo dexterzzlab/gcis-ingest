@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Jiang, H.\rApps, M.J.\rPeng, C.\rZhang, Y.\rLiu, J.",
+        "DOI": "10.1016/S0378-1127(02)00299-2",
+        "ISSN": "0378-1127",
+        "Issue": "1-2",
+        "Journal": "Forest Ecology and Management",
+        "Pages": "65-82",
+        "Title": "Modelling the influence of harvesting on Chinese boreal forest carbon dynamics",
+        "Volume": "169",
+        "Year": "2002",
+        "_chapter": "[\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "1125",
+        "_uuid": "74410a5a-dd08-4b62-b863-e9e2aa6af259",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/S0378-1127(02)00299-2",
+    "href": "http://data.globalchange.gov/reference/74410a5a-dd08-4b62-b863-e9e2aa6af259.json",
+    "identifier": "74410a5a-dd08-4b62-b863-e9e2aa6af259",
+    "uri": "/reference/74410a5a-dd08-4b62-b863-e9e2aa6af259"
+}

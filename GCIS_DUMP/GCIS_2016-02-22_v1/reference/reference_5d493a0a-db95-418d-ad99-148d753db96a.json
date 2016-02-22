@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".publisher": "Springer-Verlag",
+        ".reference_type": "0",
+        "Author": "Ryu, Jung-Hee\rHayhoe, Katharine",
+        "DOI": "10.1007/s00382-013-1801-1",
+        "Date": "2013/05/15",
+        "ISSN": "0930-7575",
+        "Journal": "Climate Dynamics",
+        "Keywords": "Caribbean precipitation\rNorth Atlantic subtropical high\rCaribbean low-level jet\rGlobal climate models\rLarge-scale dynamics",
+        "Language": "English",
+        "Pages": "1-20",
+        "Title": "Understanding the sources of Caribbean precipitation biases in CMIP3 and CMIP5 simulations",
+        "Year": "2013",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "4638",
+        "_uuid": "5d493a0a-db95-418d-ad99-148d753db96a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s00382-013-1801-1",
+    "href": "http://data.globalchange.gov/reference/5d493a0a-db95-418d-ad99-148d753db96a.json",
+    "identifier": "5d493a0a-db95-418d-ad99-148d753db96a",
+    "uri": "/reference/5d493a0a-db95-418d-ad99-148d753db96a"
+}

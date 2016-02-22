@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "Within this century, 2,400 miles of major roadway are projected to be inundated by sea level rise in the Gulf Coast region. The map shows roadways at risk in the event of a sea level rise of about 4 feet, which is within the range of projections for this region in this century (see also Ch. 2: Our Changing Climate, Key Message 10). In total, 24% of interstate highway miles and 28% of secondary road miles in the Gulf Coast region are at elevations below 4 feet. (Figure source: Kafalenos et al. 2008<tbib>c0e3235e-e423-4e8f-8139-ed957a551414</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J06Q1V53",
+        "identifier": "transportation",
+        "number": 5,
+        "report_identifier": "nca3",
+        "sort_key": 50,
+        "title": "Transportation",
+        "url": "http://nca2014.globalchange.gov/report/sectors/transportation"
+    },
+    "chapter_identifier": "transportation",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-03-03T12:00:00",
+    "files": [
+        {
+            "file": "ce/63/12eb6d8f0477e482e3fc579b4e3f/Transport_gulf_coast_transport_hubs_V2.png",
+            "href": "http://data.globalchange.gov/assets/ce/63/12eb6d8f0477e482e3fc579b4e3f/Transport_gulf_coast_transport_hubs_V2.png",
+            "identifier": "939dd74a-8739-41ae-8c10-e9563a796023",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "12373a9dbe9053b0e5816ffa7a9e4ff25b021b9f",
+            "size": 385609,
+            "thumbnail": "ce/63/12eb6d8f0477e482e3fc579b4e3f/.thumb-939dd74a-8739-41ae-8c10-e9563a796023.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/ce/63/12eb6d8f0477e482e3fc579b4e3f/.thumb-939dd74a-8739-41ae-8c10-e9563a796023.png",
+            "uri": "/file/939dd74a-8739-41ae-8c10-e9563a796023",
+            "url": "/assets/ce/63/12eb6d8f0477e482e3fc579b4e3f/Transport_gulf_coast_transport_hubs_V2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/transportation/figure/gulf-coast-transportation-hubs-at-risk.json",
+    "identifier": "gulf-coast-transportation-hubs-at-risk",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2014-03-13T12:00:00",
+            "description": null,
+            "identifier": "988223f7-25d0-44a1-b482-fe45f1c81826",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Gulf Coast Transportation Hubs at Risk",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 3,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "SAP 4.7. Impacts of Climate Change and Variability on Transportation Systems and Infrastructure: Gulf Coast Study",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/ccsp-sap-4_7-2008"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/c0e3235e-e423-4e8f-8139-ed957a551414.json",
+            "uri": "/reference/c0e3235e-e423-4e8f-8139-ed957a551414"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "Kafalenos et al. 2008<tbib>c0e3235e-e423-4e8f-8139-ed957a551414</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Gulf Coast Transportation Hubs at Risk",
+    "uri": "/report/nca3/chapter/transportation/figure/gulf-coast-transportation-hubs-at-risk",
+    "url": "http://nca2014.globalchange.gov/highlights/report-findings/infrastructure/graphics/gulf-coast-transportation-hubs-risk",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

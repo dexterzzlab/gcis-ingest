@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "The \u201cDust Bowl\u201d drought of the 1930s was highly unusual for North America, deviating from the typical pattern forced by \u201cLa Nina\u201d with the maximum drying in the central and northern Plains, warm temperature anomalies across almost the entire continent, and widespread dust storms. General circulation models (GCMs), forced by sea surface temperatures (SSTs) from the 1930s, produce a drought, but one that is centered in southwestern North America and without the warming centered in the middle of the continent. Here, we show that the inclusion of forcing from human land degradation during the period, in addition to the anomalous SSTs, is necessary to reproduce the anomalous features of the Dust Bowl drought. The degradation over the Great Plains is represented in the GCM as a reduction in vegetation cover and the addition of a soil dust aerosol source, both consequences of crop failure. As a result of land surface feedbacks, the simulation of the drought is much improved when the new dust aerosol and vegetation boundary conditions are included. Vegetation reductions explain the high temperature anomaly over the northern U.S., and the dust aerosols intensify the drought and move it northward of the purely ocean-forced drought pattern. When both factors are included in the model simulations, the precipitation and temperature anomalies are of similar magnitude and in a similar location compared with the observations. Human-induced land degradation is likely to have not only contributed to the dust storms of the 1930s but also amplified the drought, and these together turned a modest SST-forced drought into one of the worst environmental disasters the U.S. has experienced.",
+        "Author": "Cook, Benjamin I.\rMiller, Ron L.\rSeager, Richard",
+        "DOI": "10.1073/pnas.0810200106",
+        "Issue": "13",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Notes": "10.1073/pnas.0810200106",
+        "Pages": "4997-5001",
+        "Title": "Amplification of the North American \u201cDust Bowl\u201d drought through human-induced land degradation",
+        "URL": "http://www.pnas.org/content/106/13/4997.full.pdf+html",
+        "Volume": "106",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "77",
+        "_uuid": "b46012ce-02a9-4089-8cac-300877f67a3f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.0810200106",
+    "href": "http://data.globalchange.gov/reference/b46012ce-02a9-4089-8cac-300877f67a3f.json",
+    "identifier": "b46012ce-02a9-4089-8cac-300877f67a3f",
+    "uri": "/reference/b46012ce-02a9-4089-8cac-300877f67a3f"
+}

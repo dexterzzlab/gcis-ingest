@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "King County Department of Natural Resources and Parks,",
+        "Pages": "115",
+        "Place Published": "Seattle, WA",
+        "Title": "Synthesis of the Regional Water Supply Planning Process. Final Report",
+        "URL": "http://www.govlink.org/regional-water-planning/docs/process-synthesis-report/main-report.pdf",
+        "Volume": "2009",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "1643",
+        "_uuid": "6f517802-102f-49fc-8886-f44abe61f1ec",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/kingco-synthesis-2009",
+    "href": "http://data.globalchange.gov/reference/6f517802-102f-49fc-8886-f44abe61f1ec.json",
+    "identifier": "6f517802-102f-49fc-8886-f44abe61f1ec",
+    "uri": "/reference/6f517802-102f-49fc-8886-f44abe61f1ec"
+}

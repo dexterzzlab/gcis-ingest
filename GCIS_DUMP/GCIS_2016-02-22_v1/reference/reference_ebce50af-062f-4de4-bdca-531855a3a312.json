@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Landsberg, J.H.",
+        "DOI": "10.1080/20026491051695",
+        "ISSN": "1064-1262",
+        "Issue": "2",
+        "Journal": "Reviews in Fisheries Science",
+        "Pages": "113-390",
+        "Title": "The effects of harmful algal blooms on aquatic organisms",
+        "Volume": "10",
+        "Year": "2002",
+        "_chapter": "[\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "605",
+        "_uuid": "ebce50af-062f-4de4-bdca-531855a3a312",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1080/20026491051695",
+    "href": "http://data.globalchange.gov/reference/ebce50af-062f-4de4-bdca-531855a3a312.json",
+    "identifier": "ebce50af-062f-4de4-bdca-531855a3a312",
+    "uri": "/reference/ebce50af-062f-4de4-bdca-531855a3a312"
+}

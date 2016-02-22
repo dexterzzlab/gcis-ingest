@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Ziska, L.H.\rTeasdale, J.R.\rBunce, J.A.",
+        "ISSN": "0043-1745",
+        "Journal": "Weed Science",
+        "Pages": "608-615",
+        "Title": "Future atmospheric carbon dioxide may increase tolerance to glyphosate",
+        "Volume": "47",
+        "Year": "1999",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\",\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "3555",
+        "_uuid": "c37a868d-ab73-4775-988e-1ad89e14f20e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/future-atmospheric-carbon-dioxide-may-increase-tolerance-to-glyphosate",
+    "href": "http://data.globalchange.gov/reference/c37a868d-ab73-4775-988e-1ad89e14f20e.json",
+    "identifier": "c37a868d-ab73-4775-988e-1ad89e14f20e",
+    "uri": "/reference/c37a868d-ab73-4775-988e-1ad89e14f20e"
+}

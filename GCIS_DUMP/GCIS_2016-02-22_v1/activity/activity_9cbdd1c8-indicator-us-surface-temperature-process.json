@@ -1,0 +1,15 @@
+{
+    "computing_environment": null,
+    "data_usage": null,
+    "duration": null,
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/9cbdd1c8-indicator-us-surface-temperature-process.json",
+    "identifier": "9cbdd1c8-indicator-us-surface-temperature-process",
+    "methodology": "The anomalies are presented in this indicator as the difference from the 20th Century average (1901-2000). This period was chosen because it is easily recognizable and fixed in time. It should be noted that the choice of baseline period will not affect the shape or the statistical significance of the overall trend in anomalies, it only moves the trend up or down on the graph in relation to the point defined as \u201czero.\u201d     \r\n\r\nData was retrieved from: http://www.ncdc.noaa.gov/cag/time-series/us/ and then plotted.   \r\n\r\nData used are from January 1, 1895 to December 31, 2013.\r\n\r\nData was accessed on March 13, 2014.",
+    "notes": null,
+    "output_artifacts": null,
+    "software": null,
+    "start_time": null,
+    "uri": "/activity/9cbdd1c8-indicator-us-surface-temperature-process",
+    "visualization_software": null
+}

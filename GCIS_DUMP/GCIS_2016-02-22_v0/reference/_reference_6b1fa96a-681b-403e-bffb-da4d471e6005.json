@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Pan, Z.\rSegal, M.\rArritt, R.W.\rTakle, E.S.",
+        "DOI": "10.1016/j.renene.2003.11.013",
+        "ISSN": "0960-1481",
+        "Issue": "11",
+        "Journal": "Renewable Energy",
+        "Pages": "1923-1928",
+        "Title": "On the potential change in solar radiation over the US due to increases of atmospheric greenhouse gases",
+        "Volume": "29",
+        "Year": "2004",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "2415",
+        "_uuid": "6b1fa96a-681b-403e-bffb-da4d471e6005",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.renene.2003.11.013",
+    "href": "http://data.globalchange.gov/reference/6b1fa96a-681b-403e-bffb-da4d471e6005.json",
+    "identifier": "6b1fa96a-681b-403e-bffb-da4d471e6005",
+    "uri": "/reference/6b1fa96a-681b-403e-bffb-da4d471e6005"
+}

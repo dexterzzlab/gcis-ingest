@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Paltsev, Sergey\rReilly, John M.\rJacoby, Henry D.\rMorris, Jennifer F.",
+        "DOI": "10.1016/j.eneco.2009.06.005",
+        "ISSN": "0140-9883",
+        "Issue": "Supplement 2",
+        "Journal": "Energy Economics",
+        "Keywords": "Climate policy\rCap-and-trade\rGreenhouse gas emission reductions\rEnergy system\rEconomic cost",
+        "Pages": "S235-S243",
+        "Title": "The cost of climate policy in the United States",
+        "Volume": "31",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "4091",
+        "_uuid": "fe9aa513-b084-48d0-b025-c1ec5f31e389",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.eneco.2009.06.005",
+    "href": "http://data.globalchange.gov/reference/fe9aa513-b084-48d0-b025-c1ec5f31e389.json",
+    "identifier": "fe9aa513-b084-48d0-b025-c1ec5f31e389",
+    "uri": "/reference/fe9aa513-b084-48d0-b025-c1ec5f31e389"
+}

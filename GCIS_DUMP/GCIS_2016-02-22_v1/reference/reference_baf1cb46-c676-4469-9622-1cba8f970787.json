@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Boyett, H.V.\rBourne, D.G.\rWillis, B.L.",
+        "DOI": "10.1007/200227-006-0603-y",
+        "ISSN": "0025-3162",
+        "Issue": "5",
+        "Journal": "Marine Biology",
+        "Pages": "1711-1720",
+        "Title": "Elevated temperature and light enhance progression and spread of black band disease on staghorn corals of the Great Barrier Reef",
+        "Volume": "151",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\",\"RF 11\"]",
+        "_record_number": "621",
+        "_uuid": "baf1cb46-c676-4469-9622-1cba8f970787",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s00227-006-0603-y",
+    "href": "http://data.globalchange.gov/reference/baf1cb46-c676-4469-9622-1cba8f970787.json",
+    "identifier": "baf1cb46-c676-4469-9622-1cba8f970787",
+    "uri": "/reference/baf1cb46-c676-4469-9622-1cba8f970787"
+}

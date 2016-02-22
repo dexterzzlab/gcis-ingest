@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "City of Boston,",
+        "Institution": "City of Boston Climate Action Leadership Committee",
+        "Pages": "53",
+        "Place Published": "Boston, MA",
+        "Title": "Sparking Boston's Climate Revolution. Recommendations of the Climate Action Leadership Committee and Community Advisory Committee",
+        "URL": "http://www.cityofboston.gov/Images_Documents/BCA_full_rprt_r5_tcm3-19558.pdf",
+        "Volume": "2010",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 11: Urban Systems FINAL\"]",
+        "_record_number": "1575",
+        "_uuid": "a3d799f1-1ae0-4277-9b15-06069bfc783e",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/cityofboston-sparkingclim-2010",
+    "href": "http://data.globalchange.gov/reference/a3d799f1-1ae0-4277-9b15-06069bfc783e.json",
+    "identifier": "a3d799f1-1ae0-4277-9b15-06069bfc783e",
+    "uri": "/reference/a3d799f1-1ae0-4277-9b15-06069bfc783e"
+}

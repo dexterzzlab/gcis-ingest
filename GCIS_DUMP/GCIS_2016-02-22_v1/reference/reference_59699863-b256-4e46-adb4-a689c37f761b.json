@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "The summer of 2010 was exceptionally warm in eastern Europe and large parts of Russia. We provide evidence that the anomalous 2010 warmth that caused adverse impacts exceeded the amplitude and spatial extent of the previous hottest summer of 2003. \u201cMega-heatwaves\u201d such as the 2003 and 2010 events likely broke the 500-year-long seasonal temperature records over approximately 50% of Europe. According to regional multi-model experiments, the probability of a summer experiencing mega-heatwaves will increase by a factor of 5 to 10 within the next 40 years. However, the magnitude of the 2010 event was so extreme that despite this increase, the likelihood of an analog over the same region remains fairly low until the second half of the 21st century.",
+        "Author": "Barriopedro, David\rFischer, Erich M.\rLuterbacher, J\u00fcrg\rTrigo, Ricardo M.\rGarc\u00eda-Herrera, Ricardo",
+        "DOI": "10.1126/science.1201224",
+        "Date": "April 8, 2011",
+        "Issue": "6026",
+        "Journal": "Science",
+        "Pages": "220-224",
+        "Title": "The hot summer of 2010: Redrawing the temperature record map of Europe",
+        "Volume": "332",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "4203",
+        "_uuid": "59699863-b256-4e46-adb4-a689c37f761b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1201224",
+    "href": "http://data.globalchange.gov/reference/59699863-b256-4e46-adb4-a689c37f761b.json",
+    "identifier": "59699863-b256-4e46-adb4-a689c37f761b",
+    "uri": "/reference/59699863-b256-4e46-adb4-a689c37f761b"
+}

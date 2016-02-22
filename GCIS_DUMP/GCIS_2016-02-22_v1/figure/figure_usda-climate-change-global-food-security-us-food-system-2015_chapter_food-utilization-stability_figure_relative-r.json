@@ -1,0 +1,33 @@
+{
+    "attributes": null,
+    "caption": null,
+    "chapter": {
+        "doi": null,
+        "identifier": "food-utilization-stability",
+        "number": 7,
+        "report_identifier": "usda-climate-change-global-food-security-us-food-system-2015",
+        "sort_key": 70,
+        "title": "Food Utilization and Stability",
+        "url": null
+    },
+    "chapter_identifier": "food-utilization-stability",
+    "cited_by": [],
+    "create_dt": null,
+    "href": "http://data.globalchange.gov/report/usda-climate-change-global-food-security-us-food-system-2015/chapter/food-utilization-stability/figure/relative-risks-food-utilization-different-ssps-7.json",
+    "identifier": "relative-risks-food-utilization-different-ssps-7",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 34,
+    "report_identifier": "usda-climate-change-global-food-security-us-food-system-2015",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Relative risks to food utilization for different SSPs",
+    "uri": "/report/usda-climate-change-global-food-security-us-food-system-2015/chapter/food-utilization-stability/figure/relative-risks-food-utilization-different-ssps-7",
+    "url": null,
+    "usage_limits": null
+}

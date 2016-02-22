@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/indicator-arctic-sea-ice-extent.json",
+    "identifier": "indicator-arctic-sea-ice-extent",
+    "in_library": null,
+    "publication_year": 2015,
+    "report_type_identifier": "indicator",
+    "summary": "Key Points:\r\n\r\n1.\tSea ice extent is a measure of the surface area of the ocean covered by sea ice. Increases in air and ocean temperatures decrease sea ice extent; in turn, the resulting darker ocean surface absorbs more solar radiation and increases Arctic warming. \r\n\r\n2.\tThe minimum sea ice extent in the Arctic, measured in September of each year, has decreased by about 40% since 1979. \r\n\r\n3.\tThis indicator can help decision makers understand the magnitude and rate of sea ice loss and anticipate the resultant impacts on coastal areas and marine commercial activities. \r\n\r\nFull Summary:\r\n\r\nSea ice extent is estimated using daily satellite images to calculate the total ocean area that has an ice concentration of 15% or more. Trends in sea ice extent are calculated from average values measured during the month of September, which is typically when sea ice extent reaches its annual minimum. Minimum sea ice extent in the Arctic has decreased by about 40% since 1979 (the first full year of satellite data). At this rate, some projections suggest that the Arctic will be virtually ice-free during summers by the middle of this century. \r\n\r\nThe melting of sea ice reduces the area of white surface that reflects the sun\u2019s radiation, simultaneously increasing the area of dark ocean surface that absorbs it. This albedo effect results in a cycle of further sea ice melt and more warming of the ocean. Before melting begins, snow-covered sea ice absorbs only about 20% of the solar radiation that reaches it, whereas the ice-free ocean surface absorbs over 90%. A warmer ocean may melt ice from below, or may release heat back into the atmosphere before the ocean refreezes in the winter\u2014leading over time to less sea ice and a warmer climate. \r\n\t\r\nAs sea ice cover declines and the Arctic atmosphere warms, wind patterns in the northern hemisphere may shift. In addition, the loss of ice increases the risk of erosion along coastlines and changes the presence of marine species in certain areas, affecting commercial fish stocks and the economies of some coastal towns. Decision makers can use this indicator to understand the magnitude and rate of sea ice loss and prepare for the associated impacts on coastlines and commercial industries. \r\n",
+    "title": "Indicator: Arctic Sea Ice Extent",
+    "topic": null,
+    "uri": "/report/indicator-arctic-sea-ice-extent",
+    "url": "http://www.globalchange.gov/browse/indicators/indicator-arctic-sea-ice-extent"
+}

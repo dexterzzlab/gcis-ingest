@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Topographic map of the Nordic Seas and subpolar basins with schematic circulation of surface currents (solid curves) and deep currents (dashed curves) that form a portion of the Atlantic meridional overturning circulation. Colors of curves indicate approximate temperatures. Credit: R. Curry, Woods Hole Oceanographic Institution (reproduced with permission from Science).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "87/3f/c1f98da9a42a75e2225c3e0e5c99/our_changing_planet_2007_87_20090708_1505126512.jpg",
+            "href": "http://data.globalchange.gov/assets/87/3f/c1f98da9a42a75e2225c3e0e5c99/our_changing_planet_2007_87_20090708_1505126512.jpg",
+            "identifier": "baef9c80-f0e1-4a3e-9840-3fcca2f623c0",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "f5e210be2ac90642d4c4877e1252765dcfdfbc0e",
+            "size": 56088,
+            "thumbnail": "87/3f/c1f98da9a42a75e2225c3e0e5c99/.thumb-baef9c80-f0e1-4a3e-9840-3fcca2f623c0.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/87/3f/c1f98da9a42a75e2225c3e0e5c99/.thumb-baef9c80-f0e1-4a3e-9840-3fcca2f623c0.png",
+            "uri": "/file/baef9c80-f0e1-4a3e-9840-3fcca2f623c0",
+            "url": "/assets/87/3f/c1f98da9a42a75e2225c3e0e5c99/our_changing_planet_2007_87_20090708_1505126512.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/atlantic-meridional-overturning-circulation.json",
+    "identifier": "atlantic-meridional-overturning-circulation",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "The Atlantic Meridional Overturning Circulation",
+    "uri": "/report/ccsp-ocpfy2007/figure/atlantic-meridional-overturning-circulation",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

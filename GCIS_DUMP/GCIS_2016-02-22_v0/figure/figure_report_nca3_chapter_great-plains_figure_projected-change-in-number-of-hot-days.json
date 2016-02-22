@@ -1,0 +1,130 @@
+{
+    "attributes": null,
+    "caption": "The number of days with the hottest temperatures is projected to increase dramatically. The historical (1971-2000) distribution of temperature for the hottest 2% of days (about seven days each year) echoes the distinct north-south gradient in average temperatures. However, by mid-century (2041-2070), the projected change in number of days exceeding those hottest temperatures is greatest in the western areas and Gulf Coast for both the lower emissions scenario (B1) and for the higher emissions scenario (A2). (Figure source: NOAA NCDC / CICS-NC).",
+    "chapter": {
+        "doi": "10.7930/J0D798BC",
+        "identifier": "great-plains",
+        "number": 19,
+        "report_identifier": "nca3",
+        "sort_key": 190,
+        "title": "Great Plains",
+        "url": "http://nca2014.globalchange.gov/report/regions/great-plains"
+    },
+    "chapter_identifier": "great-plains",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2522.json",
+            "id": 2522,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Kenneth",
+                "id": 1025,
+                "last_name": "Kunkel",
+                "middle_name": null,
+                "orcid": "0000-0001-6667-7047",
+                "url": "http://cicsnc.org/people/kenneth-kunkel/"
+            },
+            "person_id": 1025,
+            "person_uri": "/person/1025",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2522"
+        }
+    ],
+    "create_dt": "2013-11-12T10:40:39",
+    "files": [
+        {
+            "file": "18/f3/e9302c6cdec7fd8a34bcf960ec9d/GP_hot_days_projected_V3.png",
+            "href": "http://data.globalchange.gov/assets/18/f3/e9302c6cdec7fd8a34bcf960ec9d/GP_hot_days_projected_V3.png",
+            "identifier": "8438202c-dec7-46f6-b343-33b53af62a9e",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "07abb820ef5633a05444329f3809d397bfe4a6e8",
+            "size": 330630,
+            "thumbnail": "18/f3/e9302c6cdec7fd8a34bcf960ec9d/.thumb-8438202c-dec7-46f6-b343-33b53af62a9e.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/18/f3/e9302c6cdec7fd8a34bcf960ec9d/.thumb-8438202c-dec7-46f6-b343-33b53af62a9e.png",
+            "uri": "/file/8438202c-dec7-46f6-b343-33b53af62a9e",
+            "url": "/assets/18/f3/e9302c6cdec7fd8a34bcf960ec9d/GP_hot_days_projected_V3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/great-plains/figure/projected-change-in-number-of-hot-days.json",
+    "identifier": "projected-change-in-number-of-hot-days",
+    "images": [
+        {
+            "attributes": "Great Plains, temperature, projected",
+            "create_dt": "2013-08-01T09:24:00",
+            "description": null,
+            "identifier": "4cd48da1-5d44-4e3c-8062-3805fa2fe149",
+            "lat_max": "48.94",
+            "lat_min": "25.94",
+            "lon_max": "-116.06",
+            "lon_min": "-93.56",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2070-12-31T23:59:59",
+            "time_start": "1971-01-01T00:00:00",
+            "title": "Projected Change in Number of Hot Days: Higher Emissions (A2)",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": "Great Plains, temperature, projected",
+            "create_dt": "2013-08-01T09:24:00",
+            "description": null,
+            "identifier": "0d40038a-59ec-47fa-ac22-3ea731d49e1f",
+            "lat_max": "48.94",
+            "lat_min": "25.94",
+            "lon_max": "-116.06",
+            "lon_min": "-93.56",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2070-12-31T23:59:59",
+            "time_start": "1971-01-01T00:00:00",
+            "title": "Projected Change in Number of Hot Days: Lower Emissions (B1)",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": "Great Plains, temperature, observed",
+            "create_dt": "2013-11-13T10:52:00",
+            "description": null,
+            "identifier": "a57d8b1b-0309-432d-8875-f30f9e6d39eb",
+            "lat_max": "48.94",
+            "lat_min": "25.94",
+            "lon_max": "-116.06",
+            "lon_min": "-93.56",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2000-12-31T23:59:59",
+            "time_start": "1971-01-01T00:00:00",
+            "title": "Projected Change in Number of Hot Days: Historical Climate",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 2,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": "NOAA NCDC / CICS-NC",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Projected Change in Number of Hot Days",
+    "uri": "/report/nca3/chapter/great-plains/figure/projected-change-in-number-of-hot-days",
+    "url": "http://nca2014.globalchange.gov/report/regions/great-plains/graphics/projected-change-number-hot-days",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Redeployment of the Global Climate Change Impacts in the United States - 2009 Report. Online access allows stakeholders to navigate the report in a more interactive manner. ",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "a8/c6/19c95e3ad10a12f089a6cf17dbff/OCP_2013_Page_28_Image_0001.jpg",
+            "href": "http://data.globalchange.gov/assets/a8/c6/19c95e3ad10a12f089a6cf17dbff/OCP_2013_Page_28_Image_0001.jpg",
+            "identifier": "c9d788f2-3884-403e-9232-99ecf227dd72",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "65574a118a41388a1f311fbbe02c9375a11d7d6d",
+            "size": 257971,
+            "thumbnail": "a8/c6/19c95e3ad10a12f089a6cf17dbff/.thumb-c9d788f2-3884-403e-9232-99ecf227dd72.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/a8/c6/19c95e3ad10a12f089a6cf17dbff/.thumb-c9d788f2-3884-403e-9232-99ecf227dd72.png",
+            "uri": "/file/c9d788f2-3884-403e-9232-99ecf227dd72",
+            "url": "/assets/a8/c6/19c95e3ad10a12f089a6cf17dbff/OCP_2013_Page_28_Image_0001.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2013/figure/nca2009-web-deployment.json",
+    "identifier": "nca2009-web-deployment",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2013",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "NCA 2009 Web Deployment",
+    "uri": "/report/usgcrp-ocpfy2013/figure/nca2009-web-deployment",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

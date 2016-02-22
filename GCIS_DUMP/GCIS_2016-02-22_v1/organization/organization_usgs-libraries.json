@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/usgs-libraries.json",
+    "identifier": "usgs-libraries",
+    "name": "USGS Libraries",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/usgs-libraries",
+    "url": "http://library.usgs.gov/"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "Non-scanning MW radiometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/single-channel-microwave-radiometer-2.json",
+    "identifier": "single-channel-microwave-radiometer-2",
+    "name": "Single channel microwave radiometer",
+    "uri": "/instrument/single-channel-microwave-radiometer-2"
+}

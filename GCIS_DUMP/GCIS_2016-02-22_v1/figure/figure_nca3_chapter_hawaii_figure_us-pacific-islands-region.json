@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "The U.S. Pacific Islands region includes our 50th state, Hawai\u2018i, as well as the Territories of Guam, American Samoa, the Commonwealth of the Northern Mariana Islands (CNMI), the Republic of Palau (RP), the Federated States of Micronesia (FSM), and the Republic of the Marshall Islands (RMI). Citizens of Guam and CNMI are U.S. citizens, and citizens of American Samoa are U.S. nationals. Through the Compacts of Free Association, citizens of RP, FSM, and RMI have the right to travel to the U.S. without visas to maintain \u201chabitual residence\u201d and to pursue education and employment. The map shows three sub-regions used in this assessment and the islands that comprise the Pacific Remote Islands National Monument. Shaded areas indicate each island\u2019s Exclusive Economic Zone (EEZ) (Figure source: Keener et al. 2012<tbib>7350d7b3-6e95-4375-ba23-26756b441fc2</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0W66HPM",
+        "identifier": "hawaii",
+        "number": 23,
+        "report_identifier": "nca3",
+        "sort_key": 230,
+        "title": "Hawai'i and U.S. Affiliated Pacific Islands",
+        "url": "http://nca2014.globalchange.gov/report/regions/hawaii-and-pacific-islands"
+    },
+    "chapter_identifier": "hawaii",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-14T13:41:00",
+    "files": [
+        {
+            "file": "dd/42/6ac18fa1a7d230c45d9a44cabde3/HI_region_map_V2.png",
+            "href": "http://data.globalchange.gov/assets/dd/42/6ac18fa1a7d230c45d9a44cabde3/HI_region_map_V2.png",
+            "identifier": "de54b3d9-831d-401c-8a2c-6632bf6dbd35",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "dcce5b273fbf91f47d94813d4b0266e0a06355e5",
+            "size": 128143,
+            "thumbnail": "dd/42/6ac18fa1a7d230c45d9a44cabde3/.thumb-de54b3d9-831d-401c-8a2c-6632bf6dbd35.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/dd/42/6ac18fa1a7d230c45d9a44cabde3/.thumb-de54b3d9-831d-401c-8a2c-6632bf6dbd35.png",
+            "uri": "/file/de54b3d9-831d-401c-8a2c-6632bf6dbd35",
+            "url": "/assets/dd/42/6ac18fa1a7d230c45d9a44cabde3/HI_region_map_V2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/hawaii/figure/us-pacific-islands-region.json",
+    "identifier": "us-pacific-islands-region",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-11-14T13:41:00",
+            "description": null,
+            "identifier": "8f4e9b31-9678-4553-a1c6-00cc85012410",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "U.S. Pacific Islands Region",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 1,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Climate Change and Pacific  Islands: Indicators and Impacts",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/pirca-climate-change-and-pacific-islands"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/7350d7b3-6e95-4375-ba23-26756b441fc2.json",
+            "uri": "/reference/7350d7b3-6e95-4375-ba23-26756b441fc2"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "Keener et al. 2012<tbib>7350d7b3-6e95-4375-ba23-26756b441fc2</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "U.S. Pacific Islands Region",
+    "uri": "/report/nca3/chapter/hawaii/figure/us-pacific-islands-region",
+    "url": "http://nca2014.globalchange.gov/report/regions/hawaii-and-pacific-islands/graphics/us-pacific-islands-region",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

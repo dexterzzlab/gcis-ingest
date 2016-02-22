@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": "10.7265/N5QJ7F7W",
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/nsidc-siindex-2002.json",
+    "identifier": "nsidc-siindex-2002",
+    "in_library": null,
+    "publication_year": 2002,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Sea Ice Index [Monthly Sea Ice Extent and Area]",
+    "topic": null,
+    "uri": "/report/nsidc-siindex-2002",
+    "url": "http://nsidc.org/data/G02135"
+}

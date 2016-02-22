@@ -1,0 +1,61 @@
+{
+    "attributes": "Temperature, land, observed, global",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-08-20T08:40:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "This figure summarizes some of the many datasets documenting changes in the Earth\u2019s climate, all of which are consistent with a warming planet. In all figures except the lower two in the right column, data are plotted relative to averages over the period 1960-1999 (Figure source: updated from Kennedy et al. 20102).",
+            "chapter_identifier": "appendix-faqs",
+            "create_dt": "2013-08-20T08:40:00",
+            "identifier": "caq-indicators-of-warming-from-multiple-data-sets",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 3,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Indicators of Warming from Multiple Data Sets",
+            "url": "http://nca2014.globalchange.gov/report/appendices/faqs/graphics/indicators-warming-multiple-data-sets",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "08/e3/eb1d0a9dbd116e237bb64c6ad55f/faq-3_land-surface.png",
+            "href": "http://data.globalchange.gov/assets/08/e3/eb1d0a9dbd116e237bb64c6ad55f/faq-3_land-surface.png",
+            "identifier": "1084f01d-b9ab-4fe9-a0f2-27a485a73f3a",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "bfcccfa59f01e4ecab85982811fec33bce4f3c20",
+            "size": 107907,
+            "thumbnail": "08/e3/eb1d0a9dbd116e237bb64c6ad55f/.thumb-1084f01d-b9ab-4fe9-a0f2-27a485a73f3a.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/08/e3/eb1d0a9dbd116e237bb64c6ad55f/.thumb-1084f01d-b9ab-4fe9-a0f2-27a485a73f3a.png",
+            "uri": "/file/1084f01d-b9ab-4fe9-a0f2-27a485a73f3a",
+            "url": "/assets/08/e3/eb1d0a9dbd116e237bb64c6ad55f/faq-3_land-surface.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/01aed93e-ac9f-4370-be0e-4259cc6f1490.json",
+    "identifier": "01aed93e-ac9f-4370-be0e-4259cc6f1490",
+    "lat_max": "90.00",
+    "lat_min": "-90.00",
+    "lon_max": "180.00",
+    "lon_min": "-180.00",
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2012-12-31T23:59:59",
+    "time_start": "1845-01-01T00:00:00",
+    "title": "Indicators of Warming from Multiple Data Sets - Land Surface Air Temperature",
+    "uri": "/image/01aed93e-ac9f-4370-be0e-4259cc6f1490",
+    "url": null,
+    "usage_limits": null
+}

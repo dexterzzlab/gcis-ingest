@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Mishra, V.\rCherkauer, K.A.",
+        "DOI": "10.1016/j.agrformet.2010.04.002",
+        "ISSN": "0168-1923",
+        "Issue": "7",
+        "Journal": "Agricultural and Forest Meteorology",
+        "Pages": "1030-1045",
+        "Title": "Retrospective droughts in the crop growing season: Implications to corn and soybean yield in the midwestern United States",
+        "Volume": "150",
+        "Year": "2010",
+        "_chapter": "[\"RF 8\",\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "2054",
+        "_uuid": "9c3f871b-4405-4d6b-bf56-439b678f7025",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.agrformet.2010.04.002",
+    "href": "http://data.globalchange.gov/reference/9c3f871b-4405-4d6b-bf56-439b678f7025.json",
+    "identifier": "9c3f871b-4405-4d6b-bf56-439b678f7025",
+    "uri": "/reference/9c3f871b-4405-4d6b-bf56-439b678f7025"
+}

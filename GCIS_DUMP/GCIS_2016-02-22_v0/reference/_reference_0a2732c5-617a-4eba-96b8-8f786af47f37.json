@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Across the western Great Plains of North America, groundwater pumping for irrigated agriculture is depleting regional aquifers that sustain streamflow for native fishes. We investigated linkages between groundwater pumping from the High Plains Aquifer and stream fish habitat loss at multiple spatial scales during spring and summer 2005\u20132007 in the Arikaree River, eastern Colorado, USA. Monthly low-altitude flights showed that flowing reaches were reduced from about 65 to \u2a7d15 km by late summer, and long permanently dry segments in the lower basin prevent recolonization. Drying occurred rapidly during summer within three 6\u00b74-km river segments, and patterns in habitat connectivity varied among segments owing to hydraulic conductivity. Most refuge pool habitats dried completely or lost more than half their volume, disconnecting from other pools by late summer. On the basis of these empirical habitat data, and historical groundwater and streamflow data, we constructed a MODFLOW model to predict how groundwater pumping will affect water table levels and fish habitat under three future scenarios. Under the most conservative scenario, we predicted that only 57% of refuge pools will remain in 35 years (2045), nearly all isolated in a 1\u00b77-km fragment of river. A water balance model indicated that maintaining current water table levels and refuge pools for fishes would require a 75% reduction in groundwater pumping, which is not economically or politically feasible. Given widespread streamflow declines, ecological futures are bleak for stream fishes in the western Great Plains, and managers will be challenged to conserve native fishes under current groundwater pumping regimes.",
+        "Author": "Falke, J.A.\rFausch, K.D.\rMagelky, R.\rAldred, A.\rDurnford, D.S.\rRiley, L.K.\rOad, R.",
+        "DOI": "10.1002/eco.158",
+        "ISSN": "1936-0592",
+        "Issue": "5",
+        "Journal": "Ecohydrology",
+        "Keywords": "agricultural irrigation pumping;; drought;; Great Plains;; groundwater;; habitat connectivity;; habitat loss;; High Plains Aquifer;; dryland streams",
+        "Pages": "682-697",
+        "Title": "The role of groundwater pumping and drought in shaping ecological futures for stream fishes in a dryland river basin of the western Great Plains, USA",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1002/eco.158/pdf",
+        "Volume": "4",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "1477",
+        "_uuid": "0a2732c5-617a-4eba-96b8-8f786af47f37",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/eco.158",
+    "href": "http://data.globalchange.gov/reference/0a2732c5-617a-4eba-96b8-8f786af47f37.json",
+    "identifier": "0a2732c5-617a-4eba-96b8-8f786af47f37",
+    "uri": "/reference/0a2732c5-617a-4eba-96b8-8f786af47f37"
+}

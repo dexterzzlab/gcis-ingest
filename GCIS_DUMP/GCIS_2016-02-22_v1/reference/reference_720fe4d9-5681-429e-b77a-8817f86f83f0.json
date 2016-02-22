@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Wang, X.\rSmith, K.R.",
+        "DOI": "10.1021/es981360d",
+        "ISSN": "0013-936X",
+        "Issue": "18",
+        "Journal": "Environmental Science & Technology",
+        "Pages": "3056-3061",
+        "Title": "Secondary benefits of greenhouse gas control: Health impacts in China",
+        "URL": "http://pubs.acs.org/doi/abs/10.1021/es981360d",
+        "Volume": "33",
+        "Year": "1999",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "3344",
+        "_uuid": "720fe4d9-5681-429e-b77a-8817f86f83f0",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1021/es981360d",
+    "href": "http://data.globalchange.gov/reference/720fe4d9-5681-429e-b77a-8817f86f83f0.json",
+    "identifier": "720fe4d9-5681-429e-b77a-8817f86f83f0",
+    "uri": "/reference/720fe4d9-5681-429e-b77a-8817f86f83f0"
+}

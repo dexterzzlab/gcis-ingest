@@ -1,0 +1,12 @@
+{
+    "description": "ALOS (nicknamed \u201d \u201d) is a Japanese Earth-observation satellite, developed by JAXA (Japan Aerospace Exploration Agency, Tokyo; formerly NASDA), and manufactured by NEC, Toshiba, and Mitsubishi Electric Corp. The objectives call for an optical and an active microwave sensor payload who's high-resolution data may be used for such applications as cartographic mapping, environmental and hazard monitoring (within 48 hours). The intent is to provide the user community with data of sufficient resolution to be able to generate 1:25,000 scale maps. This in turn requires observational data of 2.5 m horizontal resolution for the determination of land conditions, and a 3-5 m vertical accuracy for contour mapping. Multispectral data with 10 m horizontal resolution is needed for the classification of land cover (vegetation, forests, etc.). Short-term hazard monitoring (within 24 hours on average) will be accommodated by the use of pointing mechanisms. Particular application features of the ALOS mission are:",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/a/alos",
+    "end_date": "2011-04-22T00:00:00",
+    "href": "http://data.globalchange.gov/platform/advanced-land-observing-satellite.json",
+    "identifier": "advanced-land-observing-satellite",
+    "name": "Advanced Land Observing Satellite",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "2006-01-24T00:00:00",
+    "uri": "/platform/advanced-land-observing-satellite",
+    "url": "http://www.jaxa.jp/projects/sat/alos/index_e.html"
+}

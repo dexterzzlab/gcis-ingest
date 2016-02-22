@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Fodrie, F.\rHeck, K.L.\rPowers, S.P.\rGraham, W.M.\rRobinson, K.L.",
+        "DOI": "10.1111/j.1365-2486.2009.01889.x",
+        "ISSN": "1365-2486",
+        "Issue": "1",
+        "Journal": "Global Change Biology",
+        "Pages": "48-59",
+        "Title": "Climate-related, decadal-scale assemblage changes of seagrass-associated fishes in the northern Gulf of Mexico",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2486.2009.01889.x/pdf",
+        "Volume": "16",
+        "Year": "2009",
+        "_chapter": "[\"RF 10\",\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "395",
+        "_uuid": "4cfd2da8-c49d-42fc-be7b-aa3ef1c28f0a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1365-2486.2009.01889.x",
+    "href": "http://data.globalchange.gov/reference/4cfd2da8-c49d-42fc-be7b-aa3ef1c28f0a.json",
+    "identifier": "4cfd2da8-c49d-42fc-be7b-aa3ef1c28f0a",
+    "uri": "/reference/4cfd2da8-c49d-42fc-be7b-aa3ef1c28f0a"
+}

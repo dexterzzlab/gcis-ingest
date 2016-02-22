@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "NYCDEP,",
+        "Institution": "New York City Department of Environmental Protection.",
+        "Pages": "102",
+        "Place Published": "New York, NY",
+        "Title": "The NYCDEP Climate Change Program",
+        "URL": "http://www.nyc.gov/html/dep/pdf/climate/climate_complete.pdf",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "2327",
+        "_uuid": "981cf686-9c97-4639-90a4-a4f3089fbaf1",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/nycdepclimchprogram-assessment-2008",
+    "href": "http://data.globalchange.gov/reference/981cf686-9c97-4639-90a4-a4f3089fbaf1.json",
+    "identifier": "981cf686-9c97-4639-90a4-a4f3089fbaf1",
+    "uri": "/reference/981cf686-9c97-4639-90a4-a4f3089fbaf1"
+}

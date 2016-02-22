@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Rey, G.\rJougla, E.\rFouillet, A.\rPavillon, G.\rBessemoulin, P.\rFrayssinet, P.\rClavel, J.\rH\u00e9mon, D.",
+        "DOI": "10.1007/s00420-007-0173-4",
+        "ISSN": "0340-0131",
+        "Issue": "7",
+        "Journal": "International Archives of Occupational and Environmental Health",
+        "Pages": "615-626",
+        "Title": "The impact of major heat waves on all-cause and cause-specific mortality in France from 1971 to 2003",
+        "Volume": "80",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "2623",
+        "_uuid": "f150b127-71ae-4dd2-b414-5590dcfbb80e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s00420-007-0173-4",
+    "href": "http://data.globalchange.gov/reference/f150b127-71ae-4dd2-b414-5590dcfbb80e.json",
+    "identifier": "f150b127-71ae-4dd2-b414-5590dcfbb80e",
+    "uri": "/reference/f150b127-71ae-4dd2-b414-5590dcfbb80e"
+}

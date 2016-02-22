@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "In many parts of the country, competing demands for water create stress in local and regional watersheds. Map shows a \u201cwater supply stress index\u201d for the U.S. based on observations, with widespread stress in much of the Southwest, western Great Plains, and parts of the Northwest. Watersheds are considered stressed when water demand (from power plants, agriculture, and municipalities) exceeds 40% (water supply stress index of 0.4) of available supply. (Figure source: Averyt et al. 2011<tbib>6c050821-4d0f-452a-9fb3-6576a5cc1c2e</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0JW8BSF",
+        "identifier": "water-energy-land-use",
+        "number": 10,
+        "report_identifier": "nca3",
+        "sort_key": 100,
+        "title": "Energy, Water, and Land Use",
+        "url": "http://nca2014.globalchange.gov/report/sectors/energy-water-and-land"
+    },
+    "chapter_identifier": "water-energy-land-use",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-03-20T09:03:00",
+    "files": [
+        {
+            "file": "95/77/484dfd2cc947932b85331c15d21f/WEL_water_stress_score_13830_v4.png",
+            "href": "http://data.globalchange.gov/assets/95/77/484dfd2cc947932b85331c15d21f/WEL_water_stress_score_13830_v4.png",
+            "identifier": "8c240397-2771-43e0-a090-188794c17374",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "4ebb6012e829dc6e4ada7e143d22cdea1908739f",
+            "size": 567177,
+            "thumbnail": "95/77/484dfd2cc947932b85331c15d21f/.thumb-8c240397-2771-43e0-a090-188794c17374.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/95/77/484dfd2cc947932b85331c15d21f/.thumb-8c240397-2771-43e0-a090-188794c17374.png",
+            "uri": "/file/8c240397-2771-43e0-a090-188794c17374",
+            "url": "/assets/95/77/484dfd2cc947932b85331c15d21f/WEL_water_stress_score_13830_v4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/water-energy-land-use/figure/water-stress-in-the-us.json",
+    "identifier": "water-stress-in-the-us",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2014-03-20T09:03:00",
+            "description": null,
+            "identifier": "4c041397-345d-4de9-b218-2670272c13e8",
+            "lat_max": "49.38",
+            "lat_min": "24.50",
+            "lon_max": "-66.95",
+            "lon_min": "-124.80",
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Water Stress in the U.S.",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 9,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Freshwater Use by US Power Plants: Electricity\u2019s Thirst for a Precious Resource. A Report of the Energy and Water in a Warming World initiative",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/ucusa-freshwater-2011"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/6c050821-4d0f-452a-9fb3-6576a5cc1c2e.json",
+            "uri": "/reference/6c050821-4d0f-452a-9fb3-6576a5cc1c2e"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "Averyt et al. 2011<tbib>6c050821-4d0f-452a-9fb3-6576a5cc1c2e</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Water Stress in the U.S.",
+    "uri": "/report/nca3/chapter/water-energy-land-use/figure/water-stress-in-the-us",
+    "url": "http://nca2014.globalchange.gov/highlights/report-findings/water-supply/graphics/water-stress-u-s",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

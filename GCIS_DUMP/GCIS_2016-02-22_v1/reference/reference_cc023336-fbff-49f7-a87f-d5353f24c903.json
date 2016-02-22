@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Hood, Eran\rFellman, Jason\rSpencer, Robert G. M.\rHernes, Peter J.\rEdwards, Rick\rD\u2019Amore, David\rScott, Durelle",
+        "DOI": "10.1038/nature08580",
+        "ISSN": "0028-0836, 1476-4687",
+        "Issue": "7276",
+        "Journal": "Nature",
+        "Pages": "1044-1047",
+        "Title": "Glaciers as a source of ancient and labile organic matter to the marine environment",
+        "URL": "http://www.nature.com/doifinder/10.1038/nature08580",
+        "Volume": "462",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "3575",
+        "_uuid": "cc023336-fbff-49f7-a87f-d5353f24c903",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/nature08580",
+    "href": "http://data.globalchange.gov/reference/cc023336-fbff-49f7-a87f-d5353f24c903.json",
+    "identifier": "cc023336-fbff-49f7-a87f-d5353f24c903",
+    "uri": "/reference/cc023336-fbff-49f7-a87f-d5353f24c903"
+}

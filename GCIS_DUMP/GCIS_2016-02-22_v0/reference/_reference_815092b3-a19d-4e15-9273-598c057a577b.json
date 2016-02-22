@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Ellison, C.A.\rSanocki, C.A.\rLorenz, D.L.\rMitton, G.B.\rKruse, G.A.",
+        "Institution": "The 2011 Flood in the Mississippi and Tributaries Project, USACE Mississippi River Commission",
+        "Pages": "37",
+        "Title": "Floods of September 2010 in Southern Minnesota, U.S. Geological Survey Scientific Investigations Report 2011-5045",
+        "URL": "http://pubs.usgs.gov/sir/2011/5045/pdf/sir2011-5045.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "712",
+        "_uuid": "815092b3-a19d-4e15-9273-598c057a577b",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usgs-sciinvesrep-2011-5045",
+    "href": "http://data.globalchange.gov/reference/815092b3-a19d-4e15-9273-598c057a577b.json",
+    "identifier": "815092b3-a19d-4e15-9273-598c057a577b",
+    "uri": "/reference/815092b3-a19d-4e15-9273-598c057a577b"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Gearheard, S.\rPocernich, M.\rStewart, R.\rSanguya, J.\rHuntington, H.P.",
+        "DOI": "10.1007/s10584-009-9587-1",
+        "ISSN": "0165-0009",
+        "Issue": "2",
+        "Journal": "Climatic Change",
+        "Pages": "267-294",
+        "Title": "Linking Inuit knowledge and meteorological station observations to understand changing wind patterns at Clyde River, Nunavut",
+        "Volume": "100",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\"]",
+        "_record_number": "1055",
+        "_uuid": "d66d8544-a1a9-47f4-a163-efb2cf3821a5",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-009-9587-1",
+    "href": "http://data.globalchange.gov/reference/d66d8544-a1a9-47f4-a163-efb2cf3821a5.json",
+    "identifier": "d66d8544-a1a9-47f4-a163-efb2cf3821a5",
+    "uri": "/reference/d66d8544-a1a9-47f4-a163-efb2cf3821a5"
+}

@@ -1,0 +1,15 @@
+{
+    "computing_environment": "Mac OSX 10",
+    "data_usage": "To display recent variations of the Power Dissipation Index (PDI), illustrating overall hurricane activity (intensity, frequency, and duration) in a hurricane season.",
+    "duration": "16 hours",
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/a79f2d3d-nca3-hursat-r1-process.json",
+    "identifier": "a79f2d3d-nca3-hursat-r1-process",
+    "methodology": "Power dissipation was calculated following the methods published in Emanuel 200.\r\n\r\nThe trend line was calculated using ordinary least squares regression line\r\n\r\nThinner lines represent raw data. Thicker lines represent a 1-4-6-4-1 binomial filter.",
+    "notes": "MATLAB",
+    "output_artifacts": "pdi_calc.m\r\nnca_kossin_1.eps\r\nnca_kossin_2.eps",
+    "software": "MATLAB 7.14 2012a",
+    "start_time": null,
+    "uri": "/activity/a79f2d3d-nca3-hursat-r1-process",
+    "visualization_software": "MATLAB"
+}

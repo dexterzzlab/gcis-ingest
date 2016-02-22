@@ -1,0 +1,95 @@
+{
+    "attributes": "Contiguous U.S., temperature, observed",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2523.json",
+            "id": 2523,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Laura",
+                "id": 1101,
+                "last_name": "Stevens",
+                "middle_name": null,
+                "orcid": "0000-0002-8842-702X",
+                "url": "http://www.cicsnc.org/people/laura-stevens"
+            },
+            "person_id": 1101,
+            "person_uri": "/person/1101",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2523"
+        }
+    ],
+    "create_dt": "2013-06-05T11:38:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Continental U.S. seasonal temperatures (relative to the 1901-1960 average) for winter, spring, summer, and fall all show evidence of increasing trends. Dashed lines show the linear trends. Stronger trends are seen in winter and spring as compared to summer and fall. (Figure source: updated from Kunkel et al. 2013<tbib>0ebef171-4903-4aa6-b436-2936da69f84e</tbib>).",
+            "chapter_identifier": "appendix-climate-science-supplement",
+            "create_dt": "2013-07-01T10:31:52",
+            "identifier": "us-seasonal-temperatures",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 28,
+            "report_identifier": "nca3",
+            "source_citation": "updated from Kunkel et al. 2013<tbib>0ebef171-4903-4aa6-b436-2936da69f84e</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "U.S. Seasonal Temperatures",
+            "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/us-seasonal-temperatures",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "2f/70/851692f41d145c9d394843795633/app-fig28-b.png",
+            "href": "http://data.globalchange.gov/assets/2f/70/851692f41d145c9d394843795633/app-fig28-b.png",
+            "identifier": "7a3f8963-db5f-40d0-9c6a-347b44417ada",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "d0ecfca0183db8154b45a6d289d3b5715bc08e81",
+            "size": 59214,
+            "thumbnail": "2f/70/851692f41d145c9d394843795633/.thumb-7a3f8963-db5f-40d0-9c6a-347b44417ada.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/2f/70/851692f41d145c9d394843795633/.thumb-7a3f8963-db5f-40d0-9c6a-347b44417ada.png",
+            "uri": "/file/7a3f8963-db5f-40d0-9c6a-347b44417ada",
+            "url": "/assets/2f/70/851692f41d145c9d394843795633/app-fig28-b.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/8fdaad30-fd9a-4998-bc27-333782632a15.json",
+    "identifier": "8fdaad30-fd9a-4998-bc27-333782632a15",
+    "lat_max": "49.38",
+    "lat_min": "24.50",
+    "lon_max": "-66.95",
+    "lon_min": "-124.31",
+    "parents": [
+        {
+            "activity_uri": "/activity/8fdaad30-nca3-cddv2-r1-process",
+            "label": "dataset nca3-cddv2-r1",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-cddv2-r1"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2012-05-31T23:59:59",
+    "time_start": "1895-03-01T00:00:00",
+    "title": "U.S. Seasonal Temperatures: Spring",
+    "uri": "/image/8fdaad30-fd9a-4998-bc27-333782632a15",
+    "url": null,
+    "usage_limits": null
+}

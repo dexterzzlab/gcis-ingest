@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Kunkel, K.E.\rEasterling, D.R.\rKristovich, D.A.\rGleason, B.\rStoecker, L.\rSmith, R.",
+        "DOI": "10.1175/JHM-D-11-0108.1",
+        "ISSN": "1525-755X",
+        "Issue": "3",
+        "Journal": "Journal of Hydrometeorology",
+        "Pages": "1131-1141",
+        "Title": "Meteorological causes of the secular variations in observed extreme precipitation events for the conterminous United States",
+        "Volume": "13",
+        "Year": "2012",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "1106",
+        "_uuid": "1b399587-829c-495d-9c85-7a923554f604",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/JHM-D-11-0108.1",
+    "href": "http://data.globalchange.gov/reference/1b399587-829c-495d-9c85-7a923554f604.json",
+    "identifier": "1b399587-829c-495d-9c85-7a923554f604",
+    "uri": "/reference/1b399587-829c-495d-9c85-7a923554f604"
+}

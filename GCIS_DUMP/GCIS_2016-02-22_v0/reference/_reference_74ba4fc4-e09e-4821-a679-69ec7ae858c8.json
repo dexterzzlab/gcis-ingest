@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "McNutt, D.",
+        "Institution": "Northwest Indian Applied Research Institute, Evergreen State College",
+        "Pages": "16",
+        "Title": "Native Peoples: The \"Miners Canary\" on Climate Change",
+        "URL": "http://nwindian.evergreen.edu/pdf/climatechangereport.pdf",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\",\"Ch. 1: Overview FINAL\"]",
+        "_record_number": "3910",
+        "_uuid": "74ba4fc4-e09e-4821-a679-69ec7ae858c8",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/niari-native-2008",
+    "href": "http://data.globalchange.gov/reference/74ba4fc4-e09e-4821-a679-69ec7ae858c8.json",
+    "identifier": "74ba4fc4-e09e-4821-a679-69ec7ae858c8",
+    "uri": "/reference/74ba4fc4-e09e-4821-a679-69ec7ae858c8"
+}

@@ -1,0 +1,52 @@
+{
+    "attributes": null,
+    "caption": "Snow water equivalent (SWE) refers to the amount of water held in a\r\n    volume of snow, which depends on the density of the snow and other factors. Figure shows projected snow water equivalent for\r\n    the Southwest, as a percentage of 1971-2000, assuming continued increases in global emissions (A2 scenario). The size of bars\r\n    is in proportion to the amount of snow each state contributes to the regional total; thus, the bars for Arizona are much\r\n    smaller than those for Colorado, which contributes the most to region-wide snowpack. Declines in peak SWE are strongly\r\n    correlated with early timing of runoff and decreases in total runoff. For watersheds that depend on snowpack to provide\r\n    the majority of the annual runoff, such as in the Sierra Nevada and in the Upper Colorado and Upper Rio\r\n    Grande River Basins, lower SWE generally translates to reduced reservoir water storage. (Data from\r\n    Scripps Institution of Oceanography).",
+    "chapter": {
+        "doi": "10.7930/J08G8HMN",
+        "identifier": "southwest",
+        "number": 20,
+        "report_identifier": "nca3",
+        "sort_key": 200,
+        "title": "Southwest",
+        "url": "http://nca2014.globalchange.gov/report/regions/southwest"
+    },
+    "chapter_identifier": "southwest",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "86/a0/1c1c0bf19033c9a2215629f76733/SW_snow-water-equivalent_A2_B1__scenario_12446__V3.png",
+            "href": "http://data.globalchange.gov/assets/86/a0/1c1c0bf19033c9a2215629f76733/SW_snow-water-equivalent_A2_B1__scenario_12446__V3.png",
+            "identifier": "c01abfe2-401c-4134-a5bf-abeb311fc59f",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "2166ac302721790b69be3bed05fcf558c27a9627",
+            "size": 39905,
+            "thumbnail": "86/a0/1c1c0bf19033c9a2215629f76733/.thumb-c01abfe2-401c-4134-a5bf-abeb311fc59f.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/86/a0/1c1c0bf19033c9a2215629f76733/.thumb-c01abfe2-401c-4134-a5bf-abeb311fc59f.png",
+            "uri": "/file/c01abfe2-401c-4134-a5bf-abeb311fc59f",
+            "url": "/assets/86/a0/1c1c0bf19033c9a2215629f76733/SW_snow-water-equivalent_A2_B1__scenario_12446__V3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/southwest/figure/projected-snow-water-equivalent.json",
+    "identifier": "projected-snow-water-equivalent",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 2,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Projected Snow Water Equivalent",
+    "uri": "/report/nca3/chapter/southwest/figure/projected-snow-water-equivalent",
+    "url": "http://nca2014.globalchange.gov/highlights/report-findings/water-supply/graphics/projected-snow-water-equivalent",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

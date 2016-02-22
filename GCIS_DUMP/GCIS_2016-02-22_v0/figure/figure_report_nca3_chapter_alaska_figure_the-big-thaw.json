@@ -1,0 +1,52 @@
+{
+    "attributes": null,
+    "caption": "Projections for average annual ground temperature at a depth of 3.3 feet over time if emissions of heat-trapping gases continue to grow (higher emissions scenario, A2), and if they are substantially reduced (lower emissions scenario, B1). Blue shades represent areas below freezing at a depth of 3.3 feet, and yellow and red shades represent areas above freezing at that depth, based on the GIPL 1.0 model. (Figure source: Permafrost Lab, Geophysical Institute, University of Alaska Fairbanks).",
+    "chapter": {
+        "doi": "10.7930/J00Z7150",
+        "identifier": "alaska",
+        "number": 22,
+        "report_identifier": "nca3",
+        "sort_key": 220,
+        "title": "Alaska",
+        "url": "http://nca2014.globalchange.gov/report/regions/alaska"
+    },
+    "chapter_identifier": "alaska",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "b2/6f/f41e754420e38779d18f84e6b248/AK__Permafrost_12812_V6.png",
+            "href": "http://data.globalchange.gov/assets/b2/6f/f41e754420e38779d18f84e6b248/AK__Permafrost_12812_V6.png",
+            "identifier": "34461eb5-ef80-4701-a86c-00dc3f725451",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "884eb323172910956e05de3d307ecfa1cfa9f8de",
+            "size": 627264,
+            "thumbnail": "b2/6f/f41e754420e38779d18f84e6b248/.thumb-34461eb5-ef80-4701-a86c-00dc3f725451.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/b2/6f/f41e754420e38779d18f84e6b248/.thumb-34461eb5-ef80-4701-a86c-00dc3f725451.png",
+            "uri": "/file/34461eb5-ef80-4701-a86c-00dc3f725451",
+            "url": "/assets/b2/6f/f41e754420e38779d18f84e6b248/AK__Permafrost_12812_V6.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/alaska/figure/the-big-thaw.json",
+    "identifier": "the-big-thaw",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 5,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": "Permafrost Lab, Geophysical Institute, University of Alaska Fairbanks",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "The Big Thaw",
+    "uri": "/report/nca3/chapter/alaska/figure/the-big-thaw",
+    "url": "http://nca2014.globalchange.gov/highlights/regions/alaska/graphics/big-thaw",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

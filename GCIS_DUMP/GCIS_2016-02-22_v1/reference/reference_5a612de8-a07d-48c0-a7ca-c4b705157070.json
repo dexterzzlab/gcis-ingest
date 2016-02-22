@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "The permafrost monitoring network in the polar regions of the Northern Hemisphere was enhanced during the International Polar Year (IPY), and new information on permafrost thermal state was collected for regions where there was little available. This augmented monitoring network is an important legacy of the IPY, as is the updated baseline of current permafrost conditions against which future changes may be measured. Within the Northern Hemisphere polar region, ground temperatures are currently being measured in about 575 boreholes in North America, the Nordic region and Russia. These show that in the discontinuous permafrost zone, permafrost temperatures fall within a narrow range, with the mean annual ground temperature (MAGT) at most sites being higher than \u22122\u00b0C. A greater range in MAGT is present within the continuous permafrost zone, from above \u22121\u00b0C at some locations to as low as \u221215\u00b0C. The latest results indicate that the permafrost warming which started two to three decades ago has generally continued into the IPY period. Warming rates are much smaller for permafrost already at temperatures close to 0\u00b0C compared with colder permafrost, especially for ice-rich permafrost where latent heat effects dominate the ground thermal regime. Colder permafrost sites are warming more rapidly. This improved knowledge about the permafrost thermal state and its dynamics is important for multidisciplinary polar research, but also for many of the 4 million people living in the Arctic. In particular, this knowledge is required for designing effective adaptation strategies for the local communities under warmer climatic conditions. Copyright \u00a9 2010 John Wiley & Sons, Ltd.",
+        "Author": "Romanovsky, V. E.\rSmith, Sharon L.\rChristiansen, Hanne H.",
+        "DOI": "10.1002/ppp.689",
+        "ISSN": "10456740, 10991530",
+        "Issue": "2",
+        "Journal": "Permafrost and Periglacial Processes",
+        "Keywords": "permafrost;; ground temperature regime;; climate change;; permafrost thaw;; active layer;; International Polar Year;; Arctic regions",
+        "Pages": "106-116",
+        "Title": "Permafrost thermal state in the polar Northern Hemisphere during the international polar year 2007-2009: A synthesis",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1002/ppp.689/pdf",
+        "Volume": "21",
+        "Year": "2010",
+        "_chapter": "[\"RG 7 Alaska\",\"Appendix 3: Climate Science FINAL\",\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "2663",
+        "_uuid": "5a612de8-a07d-48c0-a7ca-c4b705157070",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/ppp.689",
+    "href": "http://data.globalchange.gov/reference/5a612de8-a07d-48c0-a7ca-c4b705157070.json",
+    "identifier": "5a612de8-a07d-48c0-a7ca-c4b705157070",
+    "uri": "/reference/5a612de8-a07d-48c0-a7ca-c4b705157070"
+}

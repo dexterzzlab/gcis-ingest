@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Millar, C.I.\rStephenson, N.L.\rStephens, S.L.",
+        "DOI": "10.1890/06-1715.1",
+        "ISSN": "1051-0761",
+        "Issue": "8",
+        "Journal": "Ecological Applications",
+        "Pages": "2145-2151",
+        "Title": "Climate change and forests of the future: Managing in the face of uncertainty",
+        "URL": "http://www.jstor.org/stable/pdfplus/40061917.pdf",
+        "Volume": "17",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 7: Forests FINAL\",\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "2027",
+        "_uuid": "648bd38c-4992-4f54-a61f-096ee0df1ebd",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/06-1715.1",
+    "href": "http://data.globalchange.gov/reference/648bd38c-4992-4f54-a61f-096ee0df1ebd.json",
+    "identifier": "648bd38c-4992-4f54-a61f-096ee0df1ebd",
+    "uri": "/reference/648bd38c-4992-4f54-a61f-096ee0df1ebd"
+}

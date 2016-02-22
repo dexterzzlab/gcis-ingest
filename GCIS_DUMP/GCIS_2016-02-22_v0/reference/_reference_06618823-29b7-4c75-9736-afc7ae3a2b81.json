@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Rosenzweig, C.\rSolecki, W.D.",
+        "Place Published": "New York, New York",
+        "Publisher": "Columbia Earth Institute",
+        "Reviewer": "06618823-29b7-4c75-9736-afc7ae3a2b81",
+        "Series Editor": "Rosenzweig, C.\rSolecki, W.D.",
+        "Title": "Climate Change and a Global City: The Potential Consequences of Climate Variability and Change \u2013 Metro East Coast",
+        "Year": "2001",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "2681",
+        "_uuid": "06618823-29b7-4c75-9736-afc7ae3a2b81",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/earthinstitute-climatechange-globalcity-2001",
+    "href": "http://data.globalchange.gov/reference/06618823-29b7-4c75-9736-afc7ae3a2b81.json",
+    "identifier": "06618823-29b7-4c75-9736-afc7ae3a2b81",
+    "uri": "/reference/06618823-29b7-4c75-9736-afc7ae3a2b81"
+}

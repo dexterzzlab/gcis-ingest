@@ -1,0 +1,123 @@
+{
+    "attributes": null,
+    "caption": "Participants in the AMS Climate Studies Diversity Project workshop in Washington, DC. (Source: AMS)",
+    "chapter": {
+        "doi": null,
+        "identifier": "federal-investments-global-change-research",
+        "number": 3,
+        "report_identifier": "usgcrp-ocpfy2014",
+        "sort_key": 30,
+        "title": "Federal Investments In Global Change Research",
+        "url": null
+    },
+    "chapter_identifier": "federal-investments-global-change-research",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2847.json",
+            "id": 2847,
+            "organization": {
+                "country_code": "US",
+                "identifier": "national-science-foundation",
+                "name": "National Science Foundation",
+                "organization_type_identifier": "federal",
+                "url": "http://www.nsf.gov"
+            },
+            "organization_uri": "/organization/national-science-foundation",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "funding_agency",
+            "uri": "/contributor/2847"
+        },
+        {
+            "href": "http://data.globalchange.gov/contributor/4188.json",
+            "id": 4188,
+            "organization": {
+                "country_code": "US",
+                "identifier": "goddard-space-flight-center",
+                "name": "NASA Goddard Space Flight Center",
+                "organization_type_identifier": "federal",
+                "url": "http://www.nasa.gov/centers/goddard"
+            },
+            "organization_uri": "/organization/goddard-space-flight-center",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "host",
+            "uri": "/contributor/4188"
+        },
+        {
+            "href": "http://data.globalchange.gov/contributor/4214.json",
+            "id": 4214,
+            "organization": {
+                "country_code": "US",
+                "identifier": "american-meteorological-society",
+                "name": "American Meteorological Society",
+                "organization_type_identifier": "professional society/organization",
+                "url": "http://www.ametsoc.org/"
+            },
+            "organization_uri": "/organization/american-meteorological-society",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "contributor",
+            "uri": "/contributor/4214"
+        }
+    ],
+    "create_dt": "2012-05-22T00:00:00",
+    "files": [
+        {
+            "file": "ca/98/6b73909cb1c347f488215629adc0/Box_11_AMS_Climate_Studies_High_Res_2.jpg",
+            "href": "http://data.globalchange.gov/assets/ca/98/6b73909cb1c347f488215629adc0/Box_11_AMS_Climate_Studies_High_Res_2.jpg",
+            "identifier": "f4769d36-d440-45be-aec5-9275731e109c",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "2397066ab715a64b8b9e9d1e63bbcd4444987156",
+            "size": 3878493,
+            "thumbnail": "ca/98/6b73909cb1c347f488215629adc0/.thumb-f4769d36-d440-45be-aec5-9275731e109c.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/ca/98/6b73909cb1c347f488215629adc0/.thumb-f4769d36-d440-45be-aec5-9275731e109c.png",
+            "uri": "/file/f4769d36-d440-45be-aec5-9275731e109c",
+            "url": "/assets/ca/98/6b73909cb1c347f488215629adc0/Box_11_AMS_Climate_Studies_High_Res_2.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2014/chapter/federal-investments-global-change-research/figure/ams-climate-studies-diversity-project.json",
+    "identifier": "ams-climate-studies-diversity-project",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2012-05-22T00:00:00",
+            "description": null,
+            "identifier": "94323ee2-cb0b-4332-8ca2-1b5931302b36",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "AMS Climate Studies Diversity Project",
+            "url": null,
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source. "
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 10,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2014",
+    "source_citation": "American Meteorological Society Climate Studies Diversity Project workshop, NSF award GEO-1107968. Photo by Lindsey Johnson, May 22, 2012",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "AMS Climate Studies Diversity Project",
+    "uri": "/report/usgcrp-ocpfy2014/chapter/federal-investments-global-change-research/figure/ams-climate-studies-diversity-project",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source. "
+}

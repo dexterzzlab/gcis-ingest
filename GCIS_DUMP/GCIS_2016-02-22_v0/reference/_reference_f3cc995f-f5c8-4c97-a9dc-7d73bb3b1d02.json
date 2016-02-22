@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Collie, J.S. \rA.D. Wood\rH.P. Jeffries",
+        "DOI": "10.1139/F08-048",
+        "Issue": "7",
+        "Journal": "Canadian Journal of Fisheries and Aquatic Sciences",
+        "Pages": "1352-1365",
+        "Title": "Long-term shifts in the species composition of a coastal fish community.",
+        "URL": "http://www.nrcresearchpress.com/doi/pdf/10.1139/F08-048",
+        "Volume": "65",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\",\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "1069",
+        "_uuid": "f3cc995f-f5c8-4c97-a9dc-7d73bb3b1d02",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1139/F08-048",
+    "href": "http://data.globalchange.gov/reference/f3cc995f-f5c8-4c97-a9dc-7d73bb3b1d02.json",
+    "identifier": "f3cc995f-f5c8-4c97-a9dc-7d73bb3b1d02",
+    "uri": "/reference/f3cc995f-f5c8-4c97-a9dc-7d73bb3b1d02"
+}

@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "Ecological Society of America",
+        ".reference_type": "0",
+        "Access Date": "2013/08/02",
+        "Author": "Sheng, Zhuping",
+        "DOI": "10.1890/es12-00270.1",
+        "Date": "2013/01/01",
+        "ISSN": "2150-8925",
+        "Issue": "1",
+        "Journal": "Ecosphere",
+        "Pages": "1-25",
+        "Title": "Impacts of groundwater pumping and climate variability on groundwater availability in the Rio Grande Basin",
+        "URL": "http://www.esajournals.org/doi/pdf/10.1890/ES12-00270.1",
+        "Volume": "4",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "4134",
+        "_uuid": "d03c7a83-4f19-49d6-92a1-1274791d3151",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/es12-00270.1",
+    "href": "http://data.globalchange.gov/reference/d03c7a83-4f19-49d6-92a1-1274791d3151.json",
+    "identifier": "d03c7a83-4f19-49d6-92a1-1274791d3151",
+    "uri": "/reference/d03c7a83-4f19-49d6-92a1-1274791d3151"
+}

@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Kildow, J.\rColgan, C.S.",
+        "Institution": "The National Ocean Economics Program",
+        "Pages": "167",
+        "Place Published": "Monterey, CA",
+        "Title": "California\u2019s Ocean Economy: Report to the Resources Agency, State of California",
+        "URL": "http://www.opc.ca.gov/webmaster/ftp/pdf/docs/Documents_Page/Reports/CA_Ocean_Econ_Report.pdf",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "174",
+        "_uuid": "42f41163-dc1b-4f8b-b245-c57157282228",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/noep-caoceanecon-2005",
+    "href": "http://data.globalchange.gov/reference/42f41163-dc1b-4f8b-b245-c57157282228.json",
+    "identifier": "42f41163-dc1b-4f8b-b245-c57157282228",
+    "uri": "/reference/42f41163-dc1b-4f8b-b245-c57157282228"
+}

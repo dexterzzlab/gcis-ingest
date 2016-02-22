@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": "10.17226/10891",
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/nrc-groundwater-fluxes-2004.json",
+    "identifier": "nrc-groundwater-fluxes-2004",
+    "in_library": null,
+    "publication_year": 2004,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Groundwater Fluxes Across Interfaces",
+    "topic": null,
+    "uri": "/report/nrc-groundwater-fluxes-2004",
+    "url": "http://www.nap.edu/catalog.php?record_id=10891"
+}

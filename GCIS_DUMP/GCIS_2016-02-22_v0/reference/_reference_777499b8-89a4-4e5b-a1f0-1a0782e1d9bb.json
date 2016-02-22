@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Weyant, J.\rDavidson, O.\rDowlabathi, H.\rEdmonds, J.\rGrubb, M.\rParson, E.A.\rRichels, R.\rRotmans, J.\rShukla, P.R.\rTol, R.S.J.",
+        "Book Title": "Climate Change 1995: Economic and Social Dimensions of Climate Change. Contribution of Working Group III to the Second Assessment Report of the Intergovernmental Panel on Climate Change ",
+        "Editor": "Bruce, J.P.\rHaites, E.F.\rLee, H.",
+        "Pages": "367-396",
+        "Place Published": "Cambridge, United Kingdom and New York, NY, USA",
+        "Publisher": "Cambridge University Press",
+        "Reviewer": "777499b8-89a4-4e5b-a1f0-1a0782e1d9bb",
+        "Title": "Ch. 10: Integrated assessment of climate change: An overview and comparison of approaches and results",
+        "Year": "1996",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "3405",
+        "_uuid": "777499b8-89a4-4e5b-a1f0-1a0782e1d9bb",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/ipcc-ar2-wg3",
+    "href": "http://data.globalchange.gov/reference/777499b8-89a4-4e5b-a1f0-1a0782e1d9bb.json",
+    "identifier": "777499b8-89a4-4e5b-a1f0-1a0782e1d9bb",
+    "uri": "/reference/777499b8-89a4-4e5b-a1f0-1a0782e1d9bb"
+}

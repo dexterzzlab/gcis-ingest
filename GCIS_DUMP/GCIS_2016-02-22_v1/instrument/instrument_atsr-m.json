@@ -1,0 +1,8 @@
+{
+    "description": "Non-scanning MW radiometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/atsr-m.json",
+    "identifier": "atsr-m",
+    "name": "ATSR/M",
+    "uri": "/instrument/atsr-m"
+}

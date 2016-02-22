@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Lamarque, J.F.\rHess, P.\rEmmons, L.\rBuja, L.\rWashington, W.\rGranier, C.",
+        "DOI": "10.1029/2004JD005537",
+        "ISSN": "2156-2202",
+        "Issue": "D8",
+        "Journal": "Journal of Geophysical Research: Atmospheres",
+        "Pages": "D08304",
+        "Title": "Tropospheric ozone evolution between 1890 and 1990",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2004JD005537/pdf",
+        "Volume": "110",
+        "Year": "2005",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "1708",
+        "_uuid": "5dad6e52-6e5c-4e97-993e-f18d00ef9c51",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2004JD005537",
+    "href": "http://data.globalchange.gov/reference/5dad6e52-6e5c-4e97-993e-f18d00ef9c51.json",
+    "identifier": "5dad6e52-6e5c-4e97-993e-f18d00ef9c51",
+    "uri": "/reference/5dad6e52-6e5c-4e97-993e-f18d00ef9c51"
+}

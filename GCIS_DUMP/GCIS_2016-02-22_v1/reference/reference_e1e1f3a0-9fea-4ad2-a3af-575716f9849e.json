@@ -1,0 +1,28 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Western United States forest wildfire activity is widely thought to have increased in recent decades, yet neither the extent of recent changes nor the degree to which climate may be driving regional changes in wildfire has been systematically documented. Much of the public and scientific discussion of changes in western United States wildfire has focused instead on the effects of 19th- and 20th-century land-use history. We compiled a comprehensive database of large wildfires in western United States forests since 1970 and compared it with hydroclimatic and land-surface data. Here, we show that large wildfire activity increased suddenly and markedly in the mid-1980s, with higher large-wildfire frequency, longer wildfire durations, and longer wildfire seasons. The greatest increases occurred in mid-elevation, Northern Rockies forests, where land-use histories have relatively little effect on fire risks and are strongly associated with increased spring and summer temperatures and an earlier spring snowmelt.",
+        "Accession Number": "294, 458",
+        "Author": "Westerling, A.L.\rHidalgo, H.G.\rCayan, D.R.\rSwetnam, T.W.",
+        "Author Address": "Westerling, AL (reprint author), Univ Calif San Diego, Scripps Inst Oceanog, La Jolla, CA 92093 USA; Univ Calif San Diego, Scripps Inst Oceanog, La Jolla, CA 92093 USA; Univ Calif, Merced, CA 95344 USA; US Geol Survey, La Jolla, CA 92093 USA; Univ Arizona, Tree Ring Res Lab, Tucson, AZ 85721 USA",
+        "DOI": "10.1126/science.1128834",
+        "Date": "AUG 18 2006",
+        "ISSN": "0036-8075",
+        "Issue": "5789",
+        "Journal": "Science",
+        "Keywords": "PONDEROSA PINE FORESTS; UNITED-STATES; VEGETATION DISTRIBUTION; CLIMATE-CHANGE; FIRE REGIMES; VARIABILITY; PERSPECTIVE; ECOSYSTEMS; ENSO",
+        "Language": "English",
+        "Pages": "940-943",
+        "Title": "Warming and earlier spring increase western U.S. forest wildfire activity",
+        "Volume": "313",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"Ch. 9: Human Health FINAL\",\"RG 9 Rural\",\"Ch. 14: Rural Communities FINAL\",\"Ch. 13: Land Use and Land Cover Change FINAL\",\"RF 10\",\"Ch. 8: Ecosystems FINAL\",\"Overview\",\"RG 5 Southwest\",\"Appendix 3: Climate Science FINAL\",\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "3397",
+        "_uuid": "e1e1f3a0-9fea-4ad2-a3af-575716f9849e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1128834",
+    "href": "http://data.globalchange.gov/reference/e1e1f3a0-9fea-4ad2-a3af-575716f9849e.json",
+    "identifier": "e1e1f3a0-9fea-4ad2-a3af-575716f9849e",
+    "uri": "/reference/e1e1f3a0-9fea-4ad2-a3af-575716f9849e"
+}

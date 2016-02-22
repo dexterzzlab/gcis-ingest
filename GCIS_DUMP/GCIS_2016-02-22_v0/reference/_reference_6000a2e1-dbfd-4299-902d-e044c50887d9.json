@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Wolfe, D.W.\rSchwartz, M.D.\rLakso, A.N.\rOtsuki, Y.\rPool, R.M.\rShaulis, N.J.",
+        "DOI": "10.1007/s00484-004-0248-9",
+        "ISSN": "0020-7128",
+        "Issue": "5",
+        "Journal": "International Journal of Biometeorology",
+        "Pages": "303-309",
+        "Title": "Climate change and shifts in spring phenology of three horticultural woody perennials in northeastern USA",
+        "Volume": "49",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "3462",
+        "_uuid": "6000a2e1-dbfd-4299-902d-e044c50887d9",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s00484-004-0248-9",
+    "href": "http://data.globalchange.gov/reference/6000a2e1-dbfd-4299-902d-e044c50887d9.json",
+    "identifier": "6000a2e1-dbfd-4299-902d-e044c50887d9",
+    "uri": "/reference/6000a2e1-dbfd-4299-902d-e044c50887d9"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Willett, K.M.\rJones, P.D.\rGillett, N.P.\rThorne, P.W.",
+        "DOI": "10.1175/2008JCLI2274.1",
+        "ISSN": "1520-0442",
+        "Issue": "20",
+        "Journal": "Journal of Climate",
+        "Pages": "5364-5383",
+        "Title": "Recent changes in surface humidity: Development of the HadCRUH dataset",
+        "Volume": "21",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"RF 2\"]",
+        "_record_number": "3434",
+        "_uuid": "1685a027-f95c-4b96-a417-bed64dd4ee82",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/2008JCLI2274.1",
+    "href": "http://data.globalchange.gov/reference/1685a027-f95c-4b96-a417-bed64dd4ee82.json",
+    "identifier": "1685a027-f95c-4b96-a417-bed64dd4ee82",
+    "uri": "/reference/1685a027-f95c-4b96-a417-bed64dd4ee82"
+}

@@ -1,0 +1,113 @@
+{
+    "attributes": null,
+    "caption": "Maps show projected change in average surface air temperature in the later part of this century (2071-2099) relative to the later part of the last century (1970-1999) under a scenario that assumes substantial reductions in heat trapping gases (B1) and a higher emissions scenario that assumes continued increases in global emissions (A2). (See Appendix 3: Climate Science, Supplemental Message 5 for a discussion of temperature changes under a wider range of future scenarios for various periods of this century). (Figure source: NOAA NCDC / CICS-NC).",
+    "chapter": {
+        "doi": "10.7930/J0KW5CXT",
+        "identifier": "our-changing-climate",
+        "number": 2,
+        "report_identifier": "nca3",
+        "sort_key": 20,
+        "title": "Our Changing Climate",
+        "url": "http://nca2014.globalchange.gov/report/our-changing-climate/introduction"
+    },
+    "chapter_identifier": "our-changing-climate",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2522.json",
+            "id": 2522,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Kenneth",
+                "id": 1025,
+                "last_name": "Kunkel",
+                "middle_name": null,
+                "orcid": "0000-0001-6667-7047",
+                "url": "http://cicsnc.org/people/kenneth-kunkel/"
+            },
+            "person_id": 1025,
+            "person_uri": "/person/1025",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2522"
+        }
+    ],
+    "create_dt": "2013-11-20T13:41:01",
+    "files": [
+        {
+            "file": "c5/da/5a18845134614b4a9824f547ca46/CS_projected_temperature_change_sres_V7.png",
+            "href": "http://data.globalchange.gov/assets/c5/da/5a18845134614b4a9824f547ca46/CS_projected_temperature_change_sres_V7.png",
+            "identifier": "d51f3c63-2e98-4a96-a369-0da9c56f43bb",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "0dbb03095ee8c40cc1ae32340b31058b13c63e14",
+            "size": 147213,
+            "thumbnail": "c5/da/5a18845134614b4a9824f547ca46/.thumb-d51f3c63-2e98-4a96-a369-0da9c56f43bb.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/c5/da/5a18845134614b4a9824f547ca46/.thumb-d51f3c63-2e98-4a96-a369-0da9c56f43bb.png",
+            "uri": "/file/d51f3c63-2e98-4a96-a369-0da9c56f43bb",
+            "url": "/assets/c5/da/5a18845134614b4a9824f547ca46/CS_projected_temperature_change_sres_V7.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/our-changing-climate/figure/projected-temperature-change.json",
+    "identifier": "projected-temperature-change",
+    "images": [
+        {
+            "attributes": "Temperature, projections, CMIP3, A2",
+            "create_dt": "2013-11-19T16:38:00",
+            "description": null,
+            "identifier": "e8d9fc4f-421b-48c1-a355-e493d8e8f83",
+            "lat_max": "72",
+            "lat_min": "18",
+            "lon_max": "-66",
+            "lon_min": "-169",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2099-12-31T23:59:59",
+            "time_start": "1970-01-01T00:00:00",
+            "title": "Projected Temperature Change - Higher Emissions (A2)",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": "Temperature, projections, CMIP3, B1",
+            "create_dt": "2013-11-19T16:38:00",
+            "description": null,
+            "identifier": "d8685f80-21fa-4e37-8c86-bf1829376f8a",
+            "lat_max": "72",
+            "lat_min": "18",
+            "lon_max": "-66",
+            "lon_min": "-169",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2099-12-31T23:59:59",
+            "time_start": "1970-01-01T00:00:00",
+            "title": "Projected Temperature Change - Lower Emissions (B1)",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 8,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": "NOAA NCDC / CICS-NC",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Projected Temperature Change",
+    "uri": "/report/nca3/chapter/our-changing-climate/figure/projected-temperature-change",
+    "url": "http://nca2014.globalchange.gov/highlights/report-findings/future-climate/graphics/projected-temperature-change",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

@@ -1,0 +1,98 @@
+{
+    "attributes": null,
+    "caption": "Figure shows examples of the many aspects of the climate system in which changes have been formally attributed to human emissions of heat-trapping gases and particles by studies published in peer-reviewed science literature. For example, observed changes in surface air temperature at both the global and continental levels, particularly over the past 50 years or so, cannot be explained without including the effects of human activities. While there are undoubtedly many natural factors that have affected climate in the past and continue to do so today, human activities are the dominant contributor to recently observed climate changes. (Figure source: NOAA NCDC).",
+    "chapter": {
+        "doi": "10.7930/J0G15XS3",
+        "identifier": "appendix-faqs",
+        "number": 34,
+        "report_identifier": "nca3",
+        "sort_key": 340,
+        "title": "Appendix 4: Frequently Asked Questions",
+        "url": "http://nca2014.globalchange.gov/report/appendices/faqs"
+    },
+    "chapter_identifier": "appendix-faqs",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2535.json",
+            "id": 2535,
+            "organization": {
+                "country_code": "NO",
+                "identifier": "nansen-environmental-and-remote-sensing-center",
+                "name": "Nansen Environmental and Remote Sensing Center",
+                "organization_type_identifier": "academic",
+                "url": "http://www.nersc.no/"
+            },
+            "organization_uri": "/organization/nansen-environmental-and-remote-sensing-center",
+            "person": {
+                "first_name": "Peter",
+                "id": 1027,
+                "last_name": "Thorne",
+                "middle_name": null,
+                "orcid": "0000-0003-0485-9798",
+                "url": "http://www.nersc.no/staff/peter-thorne"
+            },
+            "person_id": 1027,
+            "person_uri": "/person/1027",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2535"
+        }
+    ],
+    "create_dt": "2012-04-11T14:59:00",
+    "files": [
+        {
+            "file": "4e/cb/185f476c4aca0b952c0ac98aacf1/CAQ_climate_indicators_schematic_V3.png",
+            "href": "http://data.globalchange.gov/assets/4e/cb/185f476c4aca0b952c0ac98aacf1/CAQ_climate_indicators_schematic_V3.png",
+            "identifier": "f0689a9a-90e3-46c7-b02c-887b808a9417",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "040a6ae9386193614d93ca2b82bb6a4b3f5c36c4",
+            "size": 1053667,
+            "thumbnail": "4e/cb/185f476c4aca0b952c0ac98aacf1/.thumb-f0689a9a-90e3-46c7-b02c-887b808a9417.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/4e/cb/185f476c4aca0b952c0ac98aacf1/.thumb-f0689a9a-90e3-46c7-b02c-887b808a9417.png",
+            "uri": "/file/f0689a9a-90e3-46c7-b02c-887b808a9417",
+            "url": "/assets/4e/cb/185f476c4aca0b952c0ac98aacf1/CAQ_climate_indicators_schematic_V3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-faqs/figure/caq-human-influences-apparent-in-many-aspects-of-the-changing-climate.json",
+    "identifier": "caq-human-influences-apparent-in-many-aspects-of-the-changing-climate",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2012-04-11T14:59:00",
+            "description": null,
+            "identifier": "a1bd40f2-424e-4af8-8d3d-f44ba7ba36b6",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Human Influences Apparent in Many Aspects of the Changing Climate",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [
+        "/report/nca3/chapter/appendix-climate-science-supplement/figure/human-influences-apparent-in-many-aspects-of-the-changing-climate"
+    ],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 13,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Human Influences Apparent in Many Aspects of the Changing Climate",
+    "uri": "/report/nca3/chapter/appendix-faqs/figure/caq-human-influences-apparent-in-many-aspects-of-the-changing-climate",
+    "url": "http://nca2014.globalchange.gov/report/appendices/faqs/graphics/human-influences-apparent-many-aspects-changing-climate",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Air Pollution Plume from Southeast Asia Moving Over the Pacific Ocean and Reaching North America. Concentrations of carbon monoxide at 15,000 feet: (a) March 10, 2000; (b) March 12, 2000; (c) March 13, 2000; (d) March 15, 2000. Measurements were taken by the Measurements of Pollution in the Troposphere (MOPITT) instrument, onboard the Terra satellite. Credit: NASA Goddard Space Flight Center, Scientific Visualization Studio.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "cd/ac/b2f03bf728f09b94316c8063b053/our_changing_planet_2003_14_20090708_1197287388.jpg",
+            "href": "http://data.globalchange.gov/assets/cd/ac/b2f03bf728f09b94316c8063b053/our_changing_planet_2003_14_20090708_1197287388.jpg",
+            "identifier": "12ba799e-fea6-4c73-b0e5-b9fcfdea4d2e",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "8060f02db03755ca6a7b526d81fdbbd07c3fb784",
+            "size": 7054,
+            "thumbnail": "cd/ac/b2f03bf728f09b94316c8063b053/.thumb-12ba799e-fea6-4c73-b0e5-b9fcfdea4d2e.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/cd/ac/b2f03bf728f09b94316c8063b053/.thumb-12ba799e-fea6-4c73-b0e5-b9fcfdea4d2e.png",
+            "uri": "/file/12ba799e-fea6-4c73-b0e5-b9fcfdea4d2e",
+            "url": "/assets/cd/ac/b2f03bf728f09b94316c8063b053/our_changing_planet_2003_14_20090708_1197287388.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2003/figure/air-pollution-plume-moving-over-pacific-a.json",
+    "identifier": "air-pollution-plume-moving-over-pacific-a",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2003",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Air Pollution Plume Moving Over the Pacific (a)",
+    "uri": "/report/ccsp-ocpfy2003/figure/air-pollution-plume-moving-over-pacific-a",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

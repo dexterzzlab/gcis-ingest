@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "State of Washington,",
+        "Book Title": "Preparing for a Changing Climate: Washington State\u2019s Integrated Climate Response Strategy. Publication No. 12-01-004",
+        "Pages": "99-120",
+        "Place Published": "Olympia, WA",
+        "Publisher": "Department of Ecology, State of Washington",
+        "Reviewer": "d4aaedfc-0724-4cad-a8ff-247ae712b3ed",
+        "Title": "Ch. 7: Water resources",
+        "URL": "http://www.ecy.wa.gov/climatechange/ipa_responsestrategy.htm#REPORT",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "2938",
+        "_uuid": "d4aaedfc-0724-4cad-a8ff-247ae712b3ed",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/ecy-12-01-004",
+    "href": "http://data.globalchange.gov/reference/d4aaedfc-0724-4cad-a8ff-247ae712b3ed.json",
+    "identifier": "d4aaedfc-0724-4cad-a8ff-247ae712b3ed",
+    "uri": "/reference/d4aaedfc-0724-4cad-a8ff-247ae712b3ed"
+}

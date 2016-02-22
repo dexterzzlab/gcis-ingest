@@ -1,0 +1,102 @@
+{
+    "attributes": null,
+    "caption": "Climate change is projected to reduce the ability of ecosystems to supply water in some parts of the country. This is true in areas where precipitation is projected to decline, and even in some areas where precipitation is expected to increase. Compared to 10% of counties today, by 2050, 32% of counties will be at high or extreme risk of watershortages. Projections assume continued increases in greenhouse gas emissions through 2050 and a slow decline thereafter (A1B scenario). Numbers in parentheses indicate number of counties in each category. (Reprinted with permission from Roy et al., 2012.<tbib>1bd31364-5aab-4219-9389-b17fd03daa08</tbib> Copyright 2012 American Chemical Society).",
+    "chapter": {
+        "doi": "10.7930/J0TD9V7H",
+        "identifier": "ecosystems",
+        "number": 8,
+        "report_identifier": "nca3",
+        "sort_key": 80,
+        "title": "Ecosystems, Biodiversity, and Ecosystem Services",
+        "url": "http://nca2014.globalchange.gov/report/sectors/ecosystems"
+    },
+    "chapter_identifier": "ecosystems",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-03-14T12:46:00",
+    "files": [
+        {
+            "file": "36/96/d21cee93238d81f9ea1404f06c5d/ECO_water_risk_index_V2.png",
+            "href": "http://data.globalchange.gov/assets/36/96/d21cee93238d81f9ea1404f06c5d/ECO_water_risk_index_V2.png",
+            "identifier": "4672cc5b-6011-4ea2-9bc8-0751c7a66fb9",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "d8d891276cd0ef4b2e6294415ef2f49d8c87d8e1",
+            "size": 1394305,
+            "thumbnail": "36/96/d21cee93238d81f9ea1404f06c5d/.thumb-4672cc5b-6011-4ea2-9bc8-0751c7a66fb9.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/36/96/d21cee93238d81f9ea1404f06c5d/.thumb-4672cc5b-6011-4ea2-9bc8-0751c7a66fb9.png",
+            "uri": "/file/4672cc5b-6011-4ea2-9bc8-0751c7a66fb9",
+            "url": "/assets/36/96/d21cee93238d81f9ea1404f06c5d/ECO_water_risk_index_V2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/ecosystems/figure/water-supplies-projected-to-decline.json",
+    "identifier": "water-supplies-projected-to-decline",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2014-03-14T12:46:00",
+            "description": null,
+            "identifier": "19f013bb-03f0-47e9-95d3-c716faf0f773",
+            "lat_max": "49.38",
+            "lat_min": "24.50",
+            "lon_max": "-66.95",
+            "lon_min": "-124.80",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2050-12-31T23:59:59",
+            "time_start": "2050-01-01T00:00:00",
+            "title": "Water Supplies Projected to Decline - Climate Change Effects",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2014-03-14T12:46:00",
+            "description": null,
+            "identifier": "46fc4df9-d0d4-4f6a-b086-2069d377578e",
+            "lat_max": "49.38",
+            "lat_min": "24.50",
+            "lon_max": "-66.95",
+            "lon_min": "-124.80",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2050-12-31T23:59:59",
+            "time_start": "2050-01-01T00:00:00",
+            "title": "Water Supplies Projected to Decline - No Climate Change Effects",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 1,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Projecting Water Withdrawal and Supply for Future Decades in the U.S. under Climate Change Scenarios",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1021/es2030774"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/1bd31364-5aab-4219-9389-b17fd03daa08.json",
+            "uri": "/reference/1bd31364-5aab-4219-9389-b17fd03daa08"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Water Supplies Projected to Decline",
+    "uri": "/report/nca3/chapter/ecosystems/figure/water-supplies-projected-to-decline",
+    "url": "http://nca2014.globalchange.gov/highlights/report-findings/water-supply/graphics/water-supplies-projected-decline",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

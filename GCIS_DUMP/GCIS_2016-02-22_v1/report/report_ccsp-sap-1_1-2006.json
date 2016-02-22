@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/ccsp-sap-1_1-2006.json",
+    "identifier": "ccsp-sap-1_1-2006",
+    "in_library": 1,
+    "publication_year": 2006,
+    "report_type_identifier": "report",
+    "summary": "Temperature Trends in the Lower Atmosphere: Steps for Understanding and Reconciling Differences.  A Report by the Climate Change Science Program and the Subcommittee on Global Change Research, Washington, DC.",
+    "title": "SAP 1.1 Temperature Trends in the Lower Atmosphere: Steps for Understanding & Reconciling Differences",
+    "topic": "Observations,Physical Climate",
+    "uri": "/report/ccsp-sap-1_1-2006",
+    "url": null
+}

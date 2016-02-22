@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Fineberg, Harvey\rPaul Stern",
+        "ISBN": "978-0-309-08956-2",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "The National Academies Press",
+        "Reviewer": "6b467f28-8055-4d3b-abd9-251ba75b6b73",
+        "Title": "Understanding Risk: Informing Decisions in a Democratic Society",
+        "Year": "1996",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4027",
+        "_uuid": "6b467f28-8055-4d3b-abd9-251ba75b6b73",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/nrc-understandingrisk-1996",
+    "href": "http://data.globalchange.gov/reference/6b467f28-8055-4d3b-abd9-251ba75b6b73.json",
+    "identifier": "6b467f28-8055-4d3b-abd9-251ba75b6b73",
+    "uri": "/reference/6b467f28-8055-4d3b-abd9-251ba75b6b73"
+}

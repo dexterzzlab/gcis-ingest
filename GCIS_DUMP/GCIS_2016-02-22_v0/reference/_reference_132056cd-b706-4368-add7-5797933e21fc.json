@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "van der Tak, L.\rPasteris, P.\rTraynham, L.\rSalas, C.\rAjello, T.\rEmily, B.",
+        "DOI": "10.2166/wpt.2010.085",
+        "Issue": "4",
+        "Journal": "Water Practice & Technology",
+        "Title": "Storm sewer infrastructure planning with climate change risk: The city of Alexandria Virginia case study",
+        "Volume": "5",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 11: Urban Systems FINAL\"]",
+        "_record_number": "3263",
+        "_uuid": "132056cd-b706-4368-add7-5797933e21fc",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.2166/wpt.2010.085",
+    "href": "http://data.globalchange.gov/reference/132056cd-b706-4368-add7-5797933e21fc.json",
+    "identifier": "132056cd-b706-4368-add7-5797933e21fc",
+    "uri": "/reference/132056cd-b706-4368-add7-5797933e21fc"
+}

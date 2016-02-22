@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "EIA,",
+        "Date": "February 2013",
+        "Institution": "U.S. Department of Energy, U.S. Energy Information Administration",
+        "Pages": "193",
+        "Place Published": "Washington, DC",
+        "Title": "Electric Power Monthly with Data for December 2012. February 2013",
+        "URL": "http://www.eia.gov/electricity/monthly/current_year/february2013.pdf",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "1166",
+        "_uuid": "32afb11e-0306-4f37-8410-cf4cd7408544",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/eia-electricpowermonthly-2013",
+    "href": "http://data.globalchange.gov/reference/32afb11e-0306-4f37-8410-cf4cd7408544.json",
+    "identifier": "32afb11e-0306-4f37-8410-cf4cd7408544",
+    "uri": "/reference/32afb11e-0306-4f37-8410-cf4cd7408544"
+}

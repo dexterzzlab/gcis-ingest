@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "The development of the 2001 National Land Cover Database (NLCD) is underway and data sets are being released to researchers as they are completed. This Richmond, Virginia, example illustrates the data layers being produced. The map of land cover categories depicts the complex matrix of developed and natural lands on the fringe of Richmond. The map is used for assessments of consequences of land-cover patterns for ecosystem goods and services and climate variability. The 2001 NLCD also includes maps of canopy density, which are important for biogeochemistry studies, and surface imperviousness, which is needed for studies of hydrological processes and investigations of urban heat island issues. Credit: USGS.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "fd/c2/e3131d157a9abe7cbac0761e271e/our_changing_planet_2004-2005_7_20090708_1084924758.jpg",
+            "href": "http://data.globalchange.gov/assets/fd/c2/e3131d157a9abe7cbac0761e271e/our_changing_planet_2004-2005_7_20090708_1084924758.jpg",
+            "identifier": "35518704-ca30-425a-adbf-586e69589044",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "d565359a6807a24cad7ee0c316662550727c4f66",
+            "size": 160230,
+            "thumbnail": "fd/c2/e3131d157a9abe7cbac0761e271e/.thumb-35518704-ca30-425a-adbf-586e69589044.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/fd/c2/e3131d157a9abe7cbac0761e271e/.thumb-35518704-ca30-425a-adbf-586e69589044.png",
+            "uri": "/file/35518704-ca30-425a-adbf-586e69589044",
+            "url": "/assets/fd/c2/e3131d157a9abe7cbac0761e271e/our_changing_planet_2004-2005_7_20090708_1084924758.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2004and2005/figure/national-land-cover-database-example.json",
+    "identifier": "national-land-cover-database-example",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2004and2005",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "National Land Cover Database - Example ",
+    "uri": "/report/ccsp-ocpfy2004and2005/figure/national-land-cover-database-example",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

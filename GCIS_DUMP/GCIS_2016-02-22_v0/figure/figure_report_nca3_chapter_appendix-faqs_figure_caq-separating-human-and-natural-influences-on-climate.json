@@ -1,0 +1,91 @@
+{
+    "attributes": null,
+    "caption": "The green band shows how global average temperature would have changed due to natural forces only, as simulated by climate models. The blue band shows model simulations of the effects of human and natural factors combined. The black line shows observed global average temperatures. As indicated by the green band, without human influences, temperature over the past century would actually have cooled slightly over recent decades. The match up of the blue band and the black line illustrate that only the inclusion of human factors can explain the recent warming. (Figure source: adapted from Huber and Knutti, 201212).",
+    "chapter": {
+        "doi": "10.7930/J0G15XS3",
+        "identifier": "appendix-faqs",
+        "number": 34,
+        "report_identifier": "nca3",
+        "sort_key": 340,
+        "title": "Appendix 4: Frequently Asked Questions",
+        "url": "http://nca2014.globalchange.gov/report/appendices/faqs"
+    },
+    "chapter_identifier": "appendix-faqs",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-02-21T16:10:47",
+    "files": [
+        {
+            "file": "99/e5/3c1cb086b3e2cba2a5f44205b1b3/CAQ_global_temperature_time_series_v5.png",
+            "href": "http://data.globalchange.gov/assets/99/e5/3c1cb086b3e2cba2a5f44205b1b3/CAQ_global_temperature_time_series_v5.png",
+            "identifier": "90c4be82-9f78-4eaa-b3b4-943b8c0570ff",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "2bf80f81b73405190f795dc51a9646148a044137",
+            "size": 69627,
+            "thumbnail": "99/e5/3c1cb086b3e2cba2a5f44205b1b3/.thumb-90c4be82-9f78-4eaa-b3b4-943b8c0570ff.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/99/e5/3c1cb086b3e2cba2a5f44205b1b3/.thumb-90c4be82-9f78-4eaa-b3b4-943b8c0570ff.png",
+            "uri": "/file/90c4be82-9f78-4eaa-b3b4-943b8c0570ff",
+            "url": "/assets/99/e5/3c1cb086b3e2cba2a5f44205b1b3/CAQ_global_temperature_time_series_v5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-faqs/figure/caq-separating-human-and-natural-influences-on-climate.json",
+    "identifier": "caq-separating-human-and-natural-influences-on-climate",
+    "images": [
+        {
+            "attributes": "Temperature, observed, simulated, global",
+            "create_dt": "2014-02-21T16:10:00",
+            "description": null,
+            "identifier": "47b50ae0-e3d1-4e29-aff7-09de2bdf6648",
+            "lat_max": "90",
+            "lat_min": "-90",
+            "lon_max": "180",
+            "lon_min": "-180",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2005-12-31T23:59:59",
+            "time_start": "1895-01-01T00:00:00",
+            "title": "Separating Human and Natural Influences on Climate",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [
+        "/report/nca3/chapter/executive-summary/figure/overview-separating-human-and-natural-influences-on-climate",
+        "/report/nca3/chapter/our-changing-climate/figure/separating-human-and-natural-influences-on-climate"
+    ],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 15,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Anthropogenic and natural warming inferred from changes in Earth\u2019s energy balance",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1038/ngeo1327"
+        },
+        {
+            "activity_uri": null,
+            "label": "Anthropogenic and natural warming inferred from changes in Earth\u2019s energy balance",
+            "note": "",
+            "publication_type_identifier": "article",
+            "relationship": "cito:cites",
+            "url": "/article/10.1038/ngeo1327"
+        }
+    ],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Separating Human and Natural Influences on Climate",
+    "uri": "/report/nca3/chapter/appendix-faqs/figure/caq-separating-human-and-natural-influences-on-climate",
+    "url": "http://nca2014.globalchange.gov/report/appendices/faqs/graphics/separating-human-and-natural-influences-climate",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

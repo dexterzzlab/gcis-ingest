@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Wolfe, D.W.\rJ. Comstock\rA. Lakso\rL. Chase\rW. Fry\rC. Petzoldt\rR. Leichenko\rP. Vancura",
+        "Book Title": "Responding to Climate Change in New York State: The ClimAID Integrated Assessment for Effective Climate Change Adaptation in New York State",
+        "Editor": "C. Rosenzweig \rW. Solecki \rA. DeGaetano \rM. O'Grady \rS. Hassol \rP. Grabhorn",
+        "ISBN": "978-1-936842-00-1",
+        "Pages": "217-254",
+        "Place Published": "Albany, NY",
+        "Publisher": "Blackwell Publishing",
+        "Reviewer": "4c695b45-dbf9-4485-be19-df4a292ec02b",
+        "Series Title": "Annals of the New York Academy of Sciences",
+        "Title": "Ch. 7: Agriculture",
+        "URL": "http://www.nyserda.ny.gov/~/media/Files/Publications/Research/Environmental/EMEP/climaid/11-18-response-to-climate-change-in-nys-chapter6.ashx",
+        "Volume": "1244",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\",\"Ch. 14: Rural Communities FINAL\"]",
+        "_record_number": "3988",
+        "_uuid": "4c695b45-dbf9-4485-be19-df4a292ec02b",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/nyserda-report-11-18",
+    "href": "http://data.globalchange.gov/reference/4c695b45-dbf9-4485-be19-df4a292ec02b.json",
+    "identifier": "4c695b45-dbf9-4485-be19-df4a292ec02b",
+    "uri": "/reference/4c695b45-dbf9-4485-be19-df4a292ec02b"
+}

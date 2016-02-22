@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Dalton, M.\rMote, P.\rJ. A. Hicke, \rD. Lettenmaier, \rJ. Littell, \rJ. Newton, \rP. Ruggiero, \rS. Shafer",
+        "Pages": "77",
+        "Title": "A Workshop in Risk-Based Framing of Climate Impacts in the Northwest: Implementing the National Climate Assessment Risk-Based Approach ",
+        "URL": "http://downloads.usgcrp.gov/NCA/Activities/northwestncariskframingworkshop.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 10: Energy Water Land FINAL\",\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "1824",
+        "_uuid": "429802a3-633d-447c-874c-250ae4ee0003",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/nca-workshoprisk-2012",
+    "href": "http://data.globalchange.gov/reference/429802a3-633d-447c-874c-250ae4ee0003.json",
+    "identifier": "429802a3-633d-447c-874c-250ae4ee0003",
+    "uri": "/reference/429802a3-633d-447c-874c-250ae4ee0003"
+}

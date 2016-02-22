@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "American Meteorological Society",
+        ".reference_type": "0",
+        "Access Date": "2013/06/06",
+        "Author": "Higgins, R. W.\rKousky, V. E.",
+        "DOI": "10.1175/jhm-d-12-062.1",
+        "Date": "2013/02/01",
+        "ISSN": "1525-755X",
+        "Issue": "1",
+        "Journal": "Journal of Hydrometeorology",
+        "Pages": "105-121",
+        "Title": "Changes in observed daily precipitation over the United States between 1950\u201379 and 1980\u20132009",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/JHM-D-12-062.1",
+        "Volume": "14",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "3700",
+        "_uuid": "59ade08b-0518-4dae-b825-f764d0ec4987",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/jhm-d-12-062.1",
+    "href": "http://data.globalchange.gov/reference/59ade08b-0518-4dae-b825-f764d0ec4987.json",
+    "identifier": "59ade08b-0518-4dae-b825-f764d0ec4987",
+    "uri": "/reference/59ade08b-0518-4dae-b825-f764d0ec4987"
+}

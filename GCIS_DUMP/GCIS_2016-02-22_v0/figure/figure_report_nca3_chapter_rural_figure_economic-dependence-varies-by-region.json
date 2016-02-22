@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "Much of the rural United States depends on agriculture, mining, and manufacturing. Climate changes will affect each region and each economic sector in complex and interrelated ways. The economic dependence classification used in the map indicates the largest share of earnings and employment in each county. (Figure source: USDA Economic Research Service 2013<tbib>5a9e656f-8a8f-497e-b11d-85db13fe4b4b</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J01Z429C",
+        "identifier": "rural",
+        "number": 14,
+        "report_identifier": "nca3",
+        "sort_key": 140,
+        "title": "Rural Communities",
+        "url": "http://nca2014.globalchange.gov/report/sectors/rural-communities"
+    },
+    "chapter_identifier": "rural",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-03-19T13:26:00",
+    "files": [
+        {
+            "file": "f7/71/20e7102aed6aa9eaee9c9da62fbf/Economic_Dependence_Varies_by_Region_v4.png",
+            "href": "http://data.globalchange.gov/assets/f7/71/20e7102aed6aa9eaee9c9da62fbf/Economic_Dependence_Varies_by_Region_v4.png",
+            "identifier": "79333040-e699-4228-a882-7a374966518c",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "a7d971f7fce5462747c0ae830cae678808b0cae8",
+            "size": 700141,
+            "thumbnail": "f7/71/20e7102aed6aa9eaee9c9da62fbf/.thumb-79333040-e699-4228-a882-7a374966518c.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/f7/71/20e7102aed6aa9eaee9c9da62fbf/.thumb-79333040-e699-4228-a882-7a374966518c.png",
+            "uri": "/file/79333040-e699-4228-a882-7a374966518c",
+            "url": "/assets/f7/71/20e7102aed6aa9eaee9c9da62fbf/Economic_Dependence_Varies_by_Region_v4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/rural/figure/economic-dependence-varies-by-region.json",
+    "identifier": "economic-dependence-varies-by-region",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2014-03-19T13:26:00",
+            "description": null,
+            "identifier": "536f15f6-5493-4bfb-8b5b-d3b1c9909014",
+            "lat_max": "71.398048",
+            "lat_min": "18.913826",
+            "lon_max": "-66.957802",
+            "lon_min": "-179.133392",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2000-12-31T23:59:59",
+            "time_start": "1998-01-01T00:00:00",
+            "title": "Economic Dependence Varies by Region",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 2,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "webpage Atlas of Rural and Small-Town America",
+            "note": null,
+            "publication_type_identifier": "webpage",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/webpage/2cb79b4a-31cf-43ec-a70a-0371626f1407"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/5a9e656f-8a8f-497e-b11d-85db13fe4b4b.json",
+            "uri": "/reference/5a9e656f-8a8f-497e-b11d-85db13fe4b4b"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "USDA Economic Research Service 2013 <tbib>5a9e656f-8a8f-497e-b11d-85db13fe4b4b</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Economic Dependence Varies by Region",
+    "uri": "/report/nca3/chapter/rural/figure/economic-dependence-varies-by-region",
+    "url": "http://nca2014.globalchange.gov/report/sectors/rural-communities/graphics/economic-dependence-varies-region",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

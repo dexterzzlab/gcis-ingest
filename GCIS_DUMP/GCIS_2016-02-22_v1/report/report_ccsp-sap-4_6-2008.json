@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/ccsp-sap-4_6-2008.json",
+    "identifier": "ccsp-sap-4_6-2008",
+    "in_library": 1,
+    "publication_year": 2008,
+    "report_type_identifier": "report",
+    "summary": "Analyses of the effects of global change on human health and welfare and human systems. A Report by the U.S. Climate Change Science Program and the Subcommittee on Global Change Research.",
+    "title": "SAP 4.6. Analyses of the Effects of Global Change on Human Health and Welfare and Human Systems",
+    "topic": "Human Health",
+    "uri": "/report/ccsp-sap-4_6-2008",
+    "url": "http://downloads.globalchange.gov/sap/sap4-6/sap4-6-final-report-all.pdf"
+}

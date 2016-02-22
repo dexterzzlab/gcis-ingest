@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Changes in cold season extreme precipitation and mean annual snowpack based on ensemble regional climate simulations of current and mid-21st century climate conditions. This figure shows the difference between three future (2040-2060) regional climate simulations based on the Penn State/National Center for Atmospheric Research (NCAR) Mesoscale Model (MM5) and a control simulation with concentrations of greenhouse gases kept constant at the 1995 level. Results show that, by the mid-21st century, the projected average regional warming of 1-2.5oC would strongly affect snowpack in the western United States. In addition, cold season extreme precipitation is projected to increase along the Cascades and Sierra Nevada ranges. The effects of model biases and uncertainty related to the relationship of projected greenhouse gas concentrations to the projected future climate conditions were not evaluated in this study. Large uncertainties still exist in projecting future climate using climate models, particularly in projecting future precipitation. Credit: Pacific Northwest National Laboratory.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "ce/86/67cef7c78e728c5d83ab7b1335c5/our_changing_planet_2003_7_20090708_1804829945.jpg",
+            "href": "http://data.globalchange.gov/assets/ce/86/67cef7c78e728c5d83ab7b1335c5/our_changing_planet_2003_7_20090708_1804829945.jpg",
+            "identifier": "c49a81a4-dbff-454e-8c0b-6bd8dc2fee31",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "0bfcdd71f6c96d4f5440989e67d82bbea4a55cbf",
+            "size": 121805,
+            "thumbnail": "ce/86/67cef7c78e728c5d83ab7b1335c5/.thumb-c49a81a4-dbff-454e-8c0b-6bd8dc2fee31.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/ce/86/67cef7c78e728c5d83ab7b1335c5/.thumb-c49a81a4-dbff-454e-8c0b-6bd8dc2fee31.png",
+            "uri": "/file/c49a81a4-dbff-454e-8c0b-6bd8dc2fee31",
+            "url": "/assets/ce/86/67cef7c78e728c5d83ab7b1335c5/our_changing_planet_2003_7_20090708_1804829945.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2003/figure/climate-change-effects-snowpack-extreme-precipitation.json",
+    "identifier": "climate-change-effects-snowpack-extreme-precipitation",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2003",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Climate Change Effects on Snowpack and Extreme Precipitation",
+    "uri": "/report/ccsp-ocpfy2003/figure/climate-change-effects-snowpack-extreme-precipitation",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

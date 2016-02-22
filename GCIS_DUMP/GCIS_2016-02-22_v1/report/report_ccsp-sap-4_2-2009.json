@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/ccsp-sap-4_2-2009.json",
+    "identifier": "ccsp-sap-4_2-2009",
+    "in_library": 1,
+    "publication_year": 2009,
+    "report_type_identifier": "report",
+    "summary": "Thresholds of Climate Change in Ecosystems. A report by the U.S. Climate Change Science Program and the Subcommittee on Global Change Research.",
+    "title": "SAP 4.2. Thresholds of Climate Change in Ecosystems",
+    "topic": "Ecosystems",
+    "uri": "/report/ccsp-sap-4_2-2009",
+    "url": "http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1009&context=usgspubs"
+}

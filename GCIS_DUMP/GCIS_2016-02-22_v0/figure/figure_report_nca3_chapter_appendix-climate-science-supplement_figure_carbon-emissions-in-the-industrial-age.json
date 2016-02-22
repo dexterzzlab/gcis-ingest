@@ -1,0 +1,101 @@
+{
+    "attributes": null,
+    "caption": "Global carbon emissions from burning coal, oil, and gas and producing cement (1850-2009). These emissions account for about 80% of the total emissions of carbon from human activities, with land-use changes (like cutting down forests) accounting for the other 20% in recent decades (Data from Boden et al. 2012<tbib>8d4bc0a5-a600-446c-aca9-92467114bd9d</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0KS6PHH",
+        "identifier": "appendix-climate-science-supplement",
+        "number": 33,
+        "report_identifier": "nca3",
+        "sort_key": 330,
+        "title": "Appendix 3: Climate Science Supplement",
+        "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement"
+    },
+    "chapter_identifier": "appendix-climate-science-supplement",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/3758.json",
+            "id": 3758,
+            "organization": {
+                "country_code": "US",
+                "identifier": "texas-tech-university",
+                "name": "Texas Tech University",
+                "organization_type_identifier": "academic",
+                "url": "http://www.ttu.edu"
+            },
+            "organization_uri": "/organization/texas-tech-university",
+            "person": {
+                "first_name": "Katharine",
+                "id": 1024,
+                "last_name": "Hayhoe",
+                "middle_name": null,
+                "orcid": "0000-0003-3625-1402",
+                "url": "http://www.katharinehayhoe.com/"
+            },
+            "person_id": 1024,
+            "person_uri": "/person/1024",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/3758"
+        }
+    ],
+    "create_dt": "2013-10-28T13:29:00",
+    "files": [
+        {
+            "file": "df/6e/288f1e17a950c20b5848ca76ca78/APP_carbon_emissions_V6.png",
+            "href": "http://data.globalchange.gov/assets/df/6e/288f1e17a950c20b5848ca76ca78/APP_carbon_emissions_V6.png",
+            "identifier": "97898264-f172-4096-a868-0e83a03a721c",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "720ff62398116353758475639c4b1831e67a8ad4",
+            "size": 66492,
+            "thumbnail": "df/6e/288f1e17a950c20b5848ca76ca78/.thumb-97898264-f172-4096-a868-0e83a03a721c.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/df/6e/288f1e17a950c20b5848ca76ca78/.thumb-97898264-f172-4096-a868-0e83a03a721c.png",
+            "uri": "/file/97898264-f172-4096-a868-0e83a03a721c",
+            "url": "/assets/df/6e/288f1e17a950c20b5848ca76ca78/APP_carbon_emissions_V6.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-climate-science-supplement/figure/carbon-emissions-in-the-industrial-age.json",
+    "identifier": "carbon-emissions-in-the-industrial-age",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-10-28T13:29:00",
+            "description": null,
+            "identifier": "ebc4e8fb-f987-40da-9bbf-e36802241556",
+            "lat_max": "90.00",
+            "lat_min": "-90.00",
+            "lon_max": "180.00",
+            "lon_min": "-180.00",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2009-12-31T23:59:59",
+            "time_start": "1850-01-01T00:00:00",
+            "title": "Carbon Emissions in the Industrial Age",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 3,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/8d4bc0a5-a600-446c-aca9-92467114bd9d.json",
+            "uri": "/reference/8d4bc0a5-a600-446c-aca9-92467114bd9d"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "Boden et al. 2012<tbib>8d4bc0a5-a600-446c-aca9-92467114bd9d</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Carbon Emissions in the Industrial Age",
+    "uri": "/report/nca3/chapter/appendix-climate-science-supplement/figure/carbon-emissions-in-the-industrial-age",
+    "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/carbon-emissions-industrial-age",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        ".publisher": "Springer Netherlands",
+        ".reference_type": "0",
+        "Alternate Journal": "Mitig Adapt Strateg Glob Change",
+        "Author": "Kirshen, Paul\rWatson, Chris\rDouglas, Ellen\rGontz, Allen\rLee, Jawon\rTian, Yong",
+        "DOI": "10.1007/s11027-007-9130-5",
+        "Date": "2008/06/01",
+        "ISSN": "1381-2386",
+        "Issue": "5-6",
+        "Journal": "Mitigation and Adaptation Strategies for Global Change",
+        "Keywords": "Climate change\rSea level rise\rStorm surge\rCoastal flooding\rRecurrence of severe coastal flooding events\rUnited States\rGreenhouse gas emissions\rMassachusetts\rConnecticut\rNew York\rNew Jersey",
+        "Language": "English",
+        "Pages": "437-451",
+        "Title": "Coastal flooding in the Northeastern United States due to climate change",
+        "Volume": "13",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "3987",
+        "_uuid": "0fe25698-41ad-4f05-a0a6-9c25103241cf",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s11027-007-9130-5",
+    "href": "http://data.globalchange.gov/reference/0fe25698-41ad-4f05-a0a6-9c25103241cf.json",
+    "identifier": "0fe25698-41ad-4f05-a0a6-9c25103241cf",
+    "uri": "/reference/0fe25698-41ad-4f05-a0a6-9c25103241cf"
+}

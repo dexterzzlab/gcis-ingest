@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-10-28T13:19:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Scientists whose research was key to understanding the greenhouse effect and the impact of human activities on climate.",
+            "chapter_identifier": "appendix-faqs",
+            "create_dt": null,
+            "identifier": "early-scientists-who-established-the-scientific-basis-for-climate-change",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 10,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Early Scientists who Established the Scientific Basis for Climate Change",
+            "url": "http://nca2014.globalchange.gov/report/appendices/faqs/graphics/early-scientists-who-established-scientific-basis-climate-change",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "51/d4/484a6636848321c2b7d373278d90/faq-10_tyndall.png",
+            "href": "http://data.globalchange.gov/assets/51/d4/484a6636848321c2b7d373278d90/faq-10_tyndall.png",
+            "identifier": "989466ad-a70d-4ed8-8671-2de6a9df7676",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "4c2d3bf57f1037a89f6d8486e17453be1a119c54",
+            "size": 79008,
+            "thumbnail": "51/d4/484a6636848321c2b7d373278d90/.thumb-989466ad-a70d-4ed8-8671-2de6a9df7676.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/51/d4/484a6636848321c2b7d373278d90/.thumb-989466ad-a70d-4ed8-8671-2de6a9df7676.png",
+            "uri": "/file/989466ad-a70d-4ed8-8671-2de6a9df7676",
+            "url": "/assets/51/d4/484a6636848321c2b7d373278d90/faq-10_tyndall.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/73cc8ef2-e0b5-42e8-b136-bd96323c0af1.json",
+    "identifier": "73cc8ef2-e0b5-42e8-b136-bd96323c0af1",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Early Scientists who Established the Scientific Basis for Climate Change - John Tyndall",
+    "uri": "/image/73cc8ef2-e0b5-42e8-b136-bd96323c0af1",
+    "url": null,
+    "usage_limits": null
+}

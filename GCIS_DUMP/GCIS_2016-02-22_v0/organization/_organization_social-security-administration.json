@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/social-security-administration.json",
+    "identifier": "social-security-administration",
+    "name": "Social Security Administration",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/social-security-administration",
+    "url": "http://www.ssa.gov"
+}

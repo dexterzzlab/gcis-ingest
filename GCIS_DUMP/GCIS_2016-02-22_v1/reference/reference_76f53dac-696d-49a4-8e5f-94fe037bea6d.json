@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".publisher": "Coastal and Estuarine Research Federation",
+        ".reference_type": "0",
+        "Abstract": "Increases in concentrations of greenhouse gases projected for the 21st century are expected to lead to increased mean global air and ocean temperatures. The National Assessment of Potential Consequences of Climate Variability and Change (NAST 2001) was based on a series of regional and sector assessments. This paper is a summary of the coastal and marine resources sector review of potential impacts on shorelines, estuaries, coastal wetlands, coral reefs, and ocean margin ecosystems. The assessment considered the impacts of several key drivers of climate change: sea level change; alterations in precipitation patterns and subsequent delivery of freshwater, nutrients, and sediment; increased ocean temperature; alterations in circulation patterns; changes in frequency and intensity of coastal storms; and increased levels of atmospheric CO<sub>2</sub>. Increasing rates of sea-level rise and intensity and frequency of coastal storms and hurricanes over the next decades will increase threats to shorelines, wetlands, and coastal development. Estuarine productivity will change in response to alteration in the timing and amount of freshwater, nutrients, and sediment delivery. Higher water temperatures and changes in freshwater delivery will alter estuarine stratification, residence time, and eutrophication. Increased ocean temperatures are expected to increase coral bleaching and higher CO<sub>2</sub> levels may reduce coral calcification, making it more difficult for corals to recover from other disturbances, and inhibiting poleward shifts. Ocean warming is expected to cause poleward shifts in the ranges of many other organisms, including commercial species, and these shifts may have secondary effects on their predators and prey. Although these potential impacts of climate change and variability will vary from system to system, it is important to recognize that they will be superimposed upon, and in many cases intensify, other ecosystem stresses (pollution, harvesting, habitat destruction, invasive species, land and resource use, extreme natural events), which may lead to more significant consequences.",
+        "Author": "Scavia, Donald\rField, John C.\rBoesch, Donald F.\rBuddemeier, Robert W.\rBurkett, Virginia\rCayan, Daniel R.\rFogarty, Michael\rHarwell, Mark A.\rHowarth, Robert W.\rMason, Curt\rReed, Denise J.\rRoyer, Thomas C.\rSallenger, Asbury H.\rTitus, James G.",
+        "DOI": "10.1007/BF02691304",
+        "ISSN": "01608347",
+        "Issue": "2",
+        "Journal": "Estuaries",
+        "Pages": "149-164",
+        "Title": "Climate change impacts on U.S. coastal and marine ecosystems",
+        "URL": "http://www.jstor.org/stable/1353306",
+        "Volume": "25",
+        "Year": "2002",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "4665",
+        "_uuid": "76f53dac-696d-49a4-8e5f-94fe037bea6d",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/BF02691304",
+    "href": "http://data.globalchange.gov/reference/76f53dac-696d-49a4-8e5f-94fe037bea6d.json",
+    "identifier": "76f53dac-696d-49a4-8e5f-94fe037bea6d",
+    "uri": "/reference/76f53dac-696d-49a4-8e5f-94fe037bea6d"
+}

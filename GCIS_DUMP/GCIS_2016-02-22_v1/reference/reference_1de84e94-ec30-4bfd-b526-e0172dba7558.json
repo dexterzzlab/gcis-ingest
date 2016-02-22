@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "MacArthur, J.\rMote, P.\rIdeker, J.\rFigliozzi, M.\rLee, M.",
+        "Date": "February 2012",
+        "Institution": "Washington State Department of Transportation, Oregon Transportation Research and Education Consortium",
+        "Pages": "272",
+        "Place Published": "Olympia, WA",
+        "Title": "Climate Change Impact Assessment for Surface Transportation in the Pacific Northwest and Alaska. WA-RD 772.1. OTREC-RR-12-01",
+        "URL": "http://otrec.us/project/383/",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "1828",
+        "_uuid": "1de84e94-ec30-4bfd-b526-e0172dba7558",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/otrec-rr-120-01",
+    "href": "http://data.globalchange.gov/reference/1de84e94-ec30-4bfd-b526-e0172dba7558.json",
+    "identifier": "1de84e94-ec30-4bfd-b526-e0172dba7558",
+    "uri": "/reference/1de84e94-ec30-4bfd-b526-e0172dba7558"
+}

@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "American Meteorological Society",
+        ".reference_type": "0",
+        "Access Date": "2013/08/15",
+        "Author": "Diaz, Henry F.\rTrigo, Ricardo\rHughes, Malcolm K.\rMann, Michael E.\rXoplaki, Elena\rBarriopedro, David",
+        "DOI": "10.1175/bams-d-10-05003.1",
+        "Date": "2011/11/01",
+        "ISSN": "0003-0007",
+        "Issue": "11",
+        "Journal": "Bulletin of the American Meteorological Society",
+        "Pages": "1487-1500",
+        "Title": "Spatial and temporal characteristics of climate in medieval times revisited",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/BAMS-D-10-05003.1",
+        "Volume": "92",
+        "Year": "2011",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "4256",
+        "_uuid": "027cb6ac-806e-4b5d-acce-ca12196e5186",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/bams-d-10-05003.1",
+    "href": "http://data.globalchange.gov/reference/027cb6ac-806e-4b5d-acce-ca12196e5186.json",
+    "identifier": "027cb6ac-806e-4b5d-acce-ca12196e5186",
+    "uri": "/reference/027cb6ac-806e-4b5d-acce-ca12196e5186"
+}

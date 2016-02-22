@@ -1,0 +1,9 @@
+{
+    "country_code": "FR",
+    "href": "http://data.globalchange.gov/organization/meteo-france.json",
+    "identifier": "meteo-france",
+    "name": "M\u00e9t\u00e9o-France",
+    "organization_type_identifier": "national",
+    "uri": "/organization/meteo-france",
+    "url": "http://www.meteofrance.com/accueil"
+}

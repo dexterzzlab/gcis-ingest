@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Vano, J.A.\rScott, M.J.\rVoisin, N.\rSt\u00f6ckle, C.O.\rHamlet, A.F.\rMickelson, K.E.B.\rElsner, M.M.G.\rLettenmaier, D.P.",
+        "DOI": "10.1007/s10584-010-9856-z",
+        "ISSN": "0165-0009",
+        "Issue": "1-2",
+        "Journal": "Climatic Change",
+        "Pages": "287-317",
+        "Title": "Climate change impacts on water management and irrigated agriculture in the Yakima River Basin, Washington, USA",
+        "Volume": "102",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "3271",
+        "_uuid": "4babef84-d85e-488e-b8c5-3fb080ebfcd3",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-010-9856-z",
+    "href": "http://data.globalchange.gov/reference/4babef84-d85e-488e-b8c5-3fb080ebfcd3.json",
+    "identifier": "4babef84-d85e-488e-b8c5-3fb080ebfcd3",
+    "uri": "/reference/4babef84-d85e-488e-b8c5-3fb080ebfcd3"
+}

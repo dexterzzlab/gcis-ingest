@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Pfister, G.G.\rWiedinmyer, C.\rEmmons, L.K.",
+        "DOI": "10.1029/2008GL034747",
+        "ISSN": "0094-8276",
+        "Issue": "19",
+        "Journal": "Geophysical Research Letters",
+        "Pages": "L19814",
+        "Title": "Impacts of the fall 2007 California wildfires on surface ozone: Integrating local observations with global model simulations",
+        "Volume": "35",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "2484",
+        "_uuid": "0e8fc18d-c727-48b5-ad4e-6eebd620f622",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2008GL034747",
+    "href": "http://data.globalchange.gov/reference/0e8fc18d-c727-48b5-ad4e-6eebd620f622.json",
+    "identifier": "0e8fc18d-c727-48b5-ad4e-6eebd620f622",
+    "uri": "/reference/0e8fc18d-c727-48b5-ad4e-6eebd620f622"
+}

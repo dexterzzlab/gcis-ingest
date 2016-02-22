@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/fhwa-hep-13-005.json",
+    "identifier": "fhwa-hep-13-005",
+    "in_library": null,
+    "publication_year": 2012,
+    "report_type_identifier": "report",
+    "summary": "The Federal Highway Administration\u2019s (FHWA\u2019s) Climate Change and Extreme Weather Vulnerability Assessment Framework is a guide for transportation agencies interested in assessing their vulnerability to climate change and extreme weather events. It gives an overview of key steps in conducting vulnerability assessments and uses in-practice examples to demonstrate a variety of ways to gather and process information. The framework is comprised of three key steps: defining study objectives and scope; assessing vulnerability; and incorporating results into decision making.",
+    "title": "Climate Change & Extreme Weather Vulnerability Assessment Framework",
+    "topic": null,
+    "uri": "/report/fhwa-hep-13-005",
+    "url": "https://www.fhwa.dot.gov/environment/climate_change/adaptation/publications_and_tools/vulnerability_assessment_framework/"
+}

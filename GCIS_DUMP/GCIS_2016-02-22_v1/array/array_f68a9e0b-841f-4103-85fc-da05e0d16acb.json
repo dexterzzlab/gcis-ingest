@@ -1,0 +1,32 @@
+{
+    "href": "http://data.globalchange.gov/array/f68a9e0b-841f-4103-85fc-da05e0d16acb.json",
+    "identifier": "f68a9e0b-841f-4103-85fc-da05e0d16acb",
+    "rows": [
+        [
+            "Types of Adaptation Efforts and Services",
+            "Examples of Organizations Providing Services"
+        ],
+        [
+            "Adaptation planning assistance, including creation\nof guides, tools, and templates",
+            "Center for Climate Strategies, ICLEI-Local Governments for Sustainability, International Institute for Sustainable Development, Natural Resources Defense Council, The Nature Conservancy, World Resources Institute, World Wildlife Fund"
+        ],
+        [
+            "Networking and best practice exchange",
+            "C40 Cities Climate Leadership Group, Adaptation Network, Center for Clean Air Policy, Climate\nAdaptation Knowledge Exchange, ICLEI-Local Governments for Sustainability, Institute for Sustainable\nCommunities, Urban Sustainability Directors Network, World Business Council for Sustainable\nDevelopment"
+        ],
+        [
+            "Climate information providers",
+            "Union of Concerned Scientists, Urban Climate Change Research Network, Stockholm Environment\nInstitute\u2013U.S. Center"
+        ],
+        [
+            "Policy, legal, and institutional support",
+            "Center for Climate and Energy Solutions (formerly Pew Center on Global Climate Change), Georgetown\nClimate Center"
+        ],
+        [
+            "Aggregation of adaptation-pertinent information",
+            "Carbon Disclosure Project, Climate Adaptation Knowledge Exchange, Georgetown Climate Center"
+        ]
+    ],
+    "rows_in_header": 1,
+    "uri": "/array/f68a9e0b-841f-4103-85fc-da05e0d16acb"
+}

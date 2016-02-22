@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "USA National Phenology Network,",
+        "Date": "May 2012",
+        "Document Number": "2011-043",
+        "Pages": "45",
+        "Place Published": "Tucson, AZ",
+        "Title": "Phenology as a Bio-Indicator of Climate Change Impacts on People and Ecosystems: Towards an Integrated National Assessment Approach. USA-NPN Technical Report Series 2012-003. Technical Input Report 2011-043 for the US Global Change Research Program 2013 National Climate Assessment",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "3216",
+        "_uuid": "13f67e66-80b2-4732-992a-1f4fd1e91d03",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/nca-ti-2011-043",
+    "href": "http://data.globalchange.gov/reference/13f67e66-80b2-4732-992a-1f4fd1e91d03.json",
+    "identifier": "13f67e66-80b2-4732-992a-1f4fd1e91d03",
+    "uri": "/reference/13f67e66-80b2-4732-992a-1f4fd1e91d03"
+}

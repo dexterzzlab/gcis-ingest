@@ -1,0 +1,7 @@
+{
+    "description": "Global Change Master Directory",
+    "href": "http://data.globalchange.gov/lexicon/gcmd.json",
+    "identifier": "gcmd",
+    "uri": "/lexicon/gcmd",
+    "url": "http://gcmd.nasa.gov"
+}

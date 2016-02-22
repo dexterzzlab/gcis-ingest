@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Baron, J. S.\rE.K. Hall\rB.T. Nolan\rJ.C. Finlay\rE.S. Bernhardt\rJ.A. Harrison\rF. Chan\rE.W. Boyer",
+        "DOI": "10.1007/s10533-012-9788-y",
+        "ISSN": "0168-2563",
+        "Issue": "1-3",
+        "Journal": "Biogeochemistry",
+        "Pages": "71-92",
+        "Title": "The interactive effects of human-derived nitrogen loading and climate change on aquatic ecosystems of the United States",
+        "URL": "http://link.springer.com/content/pdf/10.1007%2Fs10533-012-9788-y.pdf",
+        "Volume": "114",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\",\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "986",
+        "_uuid": "7bb29bb1-926d-4367-aa10-d15808b296b3",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10533-012-9788-y",
+    "href": "http://data.globalchange.gov/reference/7bb29bb1-926d-4367-aa10-d15808b296b3.json",
+    "identifier": "7bb29bb1-926d-4367-aa10-d15808b296b3",
+    "uri": "/reference/7bb29bb1-926d-4367-aa10-d15808b296b3"
+}

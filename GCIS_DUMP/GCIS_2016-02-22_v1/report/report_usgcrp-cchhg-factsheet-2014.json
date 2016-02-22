@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/usgcrp-cchhg-factsheet-2014.json",
+    "identifier": "usgcrp-cchhg-factsheet-2014",
+    "in_library": 1,
+    "publication_year": 2014,
+    "report_type_identifier": "report",
+    "summary": "This fact sheet provides an overview of USGCRP's Interagency Crosscutting Group on Climate Change and Human Health (CCHHG), which coordinates, implements, evaluates, and communicates Federal research and scientific activities related to the human health impacts of global climate change.",
+    "title": "Fact Sheet: Interagency Crosscutting Group on Climate Change and Human Health",
+    "topic": "Human Health",
+    "uri": "/report/usgcrp-cchhg-factsheet-2014",
+    "url": "http://www.globalchange.gov/browse/reports/interagency-crosscutting-group-climate-change-and-human-health-factsheet"
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Wischmeier, W.H.\rSmith, D.D.",
+        "Institution": "U.S. Department of Agriculture",
+        "Pages": "62",
+        "Place Published": "Washington, D.C.",
+        "Title": "Predicting Rainfall Erosion Losses: A Guide to Conservation Planning. Agriculture Handbook No. 537",
+        "URL": "http://naldc.nal.usda.gov/download/CAT79706928/PDF ",
+        "Volume": "537",
+        "Year": "1978",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "3455",
+        "_uuid": "1ace4f2c-8946-4ad2-bc9c-6aa0047f03a4",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usda-aghandbook-537",
+    "href": "http://data.globalchange.gov/reference/1ace4f2c-8946-4ad2-bc9c-6aa0047f03a4.json",
+    "identifier": "1ace4f2c-8946-4ad2-bc9c-6aa0047f03a4",
+    "uri": "/reference/1ace4f2c-8946-4ad2-bc9c-6aa0047f03a4"
+}

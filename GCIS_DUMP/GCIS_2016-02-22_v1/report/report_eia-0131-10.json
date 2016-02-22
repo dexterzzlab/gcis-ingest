@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": "1 year",
+    "href": "http://data.globalchange.gov/report/eia-0131-10.json",
+    "identifier": "eia-0131-10",
+    "in_library": null,
+    "publication_year": 2011,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Natural Gas Annual 2010. DOE/EIA-0131(10)",
+    "topic": null,
+    "uri": "/report/eia-0131-10",
+    "url": "http://www.eia.gov/naturalgas/annual/pdf/front_matter.pdf"
+}

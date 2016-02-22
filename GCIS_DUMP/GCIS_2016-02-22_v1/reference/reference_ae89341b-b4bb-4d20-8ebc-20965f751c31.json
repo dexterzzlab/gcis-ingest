@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Meko, D.M.\rWoodhouse, C.A.\rBaisan, C.A.\rKnight, T.\rLukas, J.J.\rHughes, M.K.\rSalzer, M.W.",
+        "DOI": "1029/2007GL029988",
+        "ISSN": "0094-8276",
+        "Issue": "10",
+        "Journal": "Geophysical Research Letters",
+        "Pages": "10705",
+        "Title": "Medieval drought in the upper Colorado River Basin",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2007GL029988/pdf",
+        "Volume": "34",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "1989",
+        "_uuid": "ae89341b-b4bb-4d20-8ebc-20965f751c31",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2007GL029988",
+    "href": "http://data.globalchange.gov/reference/ae89341b-b4bb-4d20-8ebc-20965f751c31.json",
+    "identifier": "ae89341b-b4bb-4d20-8ebc-20965f751c31",
+    "uri": "/reference/ae89341b-b4bb-4d20-8ebc-20965f751c31"
+}

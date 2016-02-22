@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Dai, A.",
+        "DOI": "10.1002/wcc.81",
+        "Issue": "1",
+        "Journal": "Wiley Interdisciplinary Reviews: Climate Change",
+        "Pages": "45-65",
+        "Title": "Drought under global warming: A review",
+        "Volume": "2",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "545",
+        "_uuid": "8abc0ed4-9d56-40bf-8995-35313552618c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/wcc.81",
+    "href": "http://data.globalchange.gov/reference/8abc0ed4-9d56-40bf-8995-35313552618c.json",
+    "identifier": "8abc0ed4-9d56-40bf-8995-35313552618c",
+    "uri": "/reference/8abc0ed4-9d56-40bf-8995-35313552618c"
+}

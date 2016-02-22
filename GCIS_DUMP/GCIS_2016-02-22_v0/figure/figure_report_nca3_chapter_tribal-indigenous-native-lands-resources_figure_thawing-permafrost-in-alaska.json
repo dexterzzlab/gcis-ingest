@@ -1,0 +1,52 @@
+{
+    "attributes": null,
+    "caption": "The maps show projected ground temperature at a depth of 3.3 feet assuming continued increases in emissions (A2 scenario) and assuming a substantial reduction in emissions (B1 scenario). Blue shades represent areas below freezing at a depth of 3.3 feet and yellow and red shades represent areas above freezing at that depth (see Ch. 22: Alaska for more details). Many Alaska Natives depend on permafrost for ice cellars to store frozen food, and replacing these cellars with electricity-driven freezers is expensive or otherwise infeasible. Permafrost thawing also affects infrastructure like roads and utility lines. (Figure source: Permafrost Lab, Geophysical Institute, University of Alaska Fairbanks).",
+    "chapter": {
+        "doi": "10.7930/J09G5JR1",
+        "identifier": "tribal-indigenous-native-lands-resources",
+        "number": 12,
+        "report_identifier": "nca3",
+        "sort_key": 120,
+        "title": "Indigenous Peoples, Lands, and Resources",
+        "url": "http://nca2014.globalchange.gov/report/sectors/indigenous-peoples"
+    },
+    "chapter_identifier": "tribal-indigenous-native-lands-resources",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "19/6e/cb37d49a0fab3517546dfa88501f/Tribal_alaska_permafrost_12812_V4.png",
+            "href": "http://data.globalchange.gov/assets/19/6e/cb37d49a0fab3517546dfa88501f/Tribal_alaska_permafrost_12812_V4.png",
+            "identifier": "d3997355-f7b4-43ec-95cf-0fe934d9a818",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "3dd05526eb18bc6495df21bff0efb6add4f6c2fa",
+            "size": 698953,
+            "thumbnail": "19/6e/cb37d49a0fab3517546dfa88501f/.thumb-d3997355-f7b4-43ec-95cf-0fe934d9a818.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/19/6e/cb37d49a0fab3517546dfa88501f/.thumb-d3997355-f7b4-43ec-95cf-0fe934d9a818.png",
+            "uri": "/file/d3997355-f7b4-43ec-95cf-0fe934d9a818",
+            "url": "/assets/19/6e/cb37d49a0fab3517546dfa88501f/Tribal_alaska_permafrost_12812_V4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/tribal-indigenous-native-lands-resources/figure/thawing-permafrost-in-alaska.json",
+    "identifier": "thawing-permafrost-in-alaska",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 6,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": "Permafrost Lab, Geophysical Institute, University of Alaska Fairbanks",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Thawing Permafrost in Alaska",
+    "uri": "/report/nca3/chapter/tribal-indigenous-native-lands-resources/figure/thawing-permafrost-in-alaska",
+    "url": "http://nca2014.globalchange.gov/report/sectors/indigenous-peoples/graphics/thawing-permafrost-alaska",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Greig, S. M.\rSear, D. A.\rCarling, P. A.",
+        "DOI": "10.1016/j.scitotenv.2005.02.010",
+        "Date": "May",
+        "ISSN": "0048-9697",
+        "Issue": "1-3",
+        "Journal": "Science of the Total Environment",
+        "Keywords": "fine sediment spawning gravels; oxygen supply; land use management; stream; redds; infiltration; transport; gravels; system; trends",
+        "Pages": "241-258",
+        "Title": "The impact of fine sediment accumulation on the survival of incubating salmon progeny: Implications for sediment management",
+        "Type of Article": "Article",
+        "Volume": "344",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "889",
+        "_uuid": "4b3bc48f-92ab-4317-a4dd-203d998b4d43",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.scitotenv.2005.02.010",
+    "href": "http://data.globalchange.gov/reference/4b3bc48f-92ab-4317-a4dd-203d998b4d43.json",
+    "identifier": "4b3bc48f-92ab-4317-a4dd-203d998b4d43",
+    "uri": "/reference/4b3bc48f-92ab-4317-a4dd-203d998b4d43"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "High-resolution nadir-scanning SW spectrometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/ozone-mapping-and-profiler-suite.json",
+    "identifier": "ozone-mapping-and-profiler-suite",
+    "name": "Ozone Mapping and Profiler Suite",
+    "uri": "/instrument/ozone-mapping-and-profiler-suite"
+}

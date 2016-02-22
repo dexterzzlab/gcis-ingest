@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "This photograph provides an aerial view of glacially formed, depressional wetlands embedded in a matrix of native grassland and agriculture, located in the Prairie Pothole Region of central North America. Recent research based on possible future climate scenarios suggests that these wetlands and their ability to support breeding waterfowl will be altered. Credit: J. Ringleman, Ducks Unlimited.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "98/2f/3a507716788edc9d2f2e25f2ed5b/our_changing_planet_2007_70_20090708_1290194864.jpg",
+            "href": "http://data.globalchange.gov/assets/98/2f/3a507716788edc9d2f2e25f2ed5b/our_changing_planet_2007_70_20090708_1290194864.jpg",
+            "identifier": "de50d074-b8b9-46f6-a86b-1e146c333367",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "92a16c5bb263ead13121fd5136a588a88a594afb",
+            "size": 46157,
+            "thumbnail": "98/2f/3a507716788edc9d2f2e25f2ed5b/.thumb-de50d074-b8b9-46f6-a86b-1e146c333367.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/98/2f/3a507716788edc9d2f2e25f2ed5b/.thumb-de50d074-b8b9-46f6-a86b-1e146c333367.png",
+            "uri": "/file/de50d074-b8b9-46f6-a86b-1e146c333367",
+            "url": "/assets/98/2f/3a507716788edc9d2f2e25f2ed5b/our_changing_planet_2007_70_20090708_1290194864.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/prairie-pothole-region.json",
+    "identifier": "prairie-pothole-region",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "The Prairie Pothole Region",
+    "uri": "/report/ccsp-ocpfy2007/figure/prairie-pothole-region",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

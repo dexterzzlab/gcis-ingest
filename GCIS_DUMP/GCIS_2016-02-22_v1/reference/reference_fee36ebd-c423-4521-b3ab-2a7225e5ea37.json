@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Morgan, M.G.\rHadi Dowlatabadi\rMax Henrion\rDavid Keith\rRobert Lempert\rSandra McBride\rMitchell Small\rThomas Wilbanks ",
+        "Institution": "U.S. Climate Change Science Program, Subcommittee on Global Change",
+        "Pages": "156",
+        "Place Published": "Washington, D.C.",
+        "Title": "Best Practice Approaches for Characterizing, Communicating and Incorporating Scientific Uncertainty in Climate Decision Making. A Report By the Climate Change Science Program and the Subcommittee on Global Change",
+        "URL": "http://downloads.globalchange.gov/sap/sap5-2/sap5-2-final-report-all.pdf",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "2084",
+        "_uuid": "fee36ebd-c423-4521-b3ab-2a7225e5ea37",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/ccsp-sap-5_2-2009",
+    "href": "http://data.globalchange.gov/reference/fee36ebd-c423-4521-b3ab-2a7225e5ea37.json",
+    "identifier": "fee36ebd-c423-4521-b3ab-2a7225e5ea37",
+    "uri": "/reference/fee36ebd-c423-4521-b3ab-2a7225e5ea37"
+}

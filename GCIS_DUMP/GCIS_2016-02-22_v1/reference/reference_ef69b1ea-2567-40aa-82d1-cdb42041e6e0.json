@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Forests and their soils contain the majority of the earth\u2019s terrestrial carbon stocks. Changes in patterns of tree growth can have a huge impact on atmospheric cycles, biogeochemical cycles, climate change, and biodiversity. Recent studies have shown increases in biomass across many forest types. This increase has been attributed to climate change. However, without knowing the disturbance history of a forest, growth could also be caused by normal recovery from unknown disturbances. Using a unique dataset of tree biomass collected over the past 22 years from 55 temperate forest plots with known land-use histories and stand ages ranging from 5 to 250 years, we found that recent biomass accumulation greatly exceeded the expected growth caused by natural recovery. We have also collected over 100 years of local weather measurements and 17 years of on-site atmospheric CO2 measurements that show consistent increases in line with globally observed climate-change patterns. Combined, these observations show that changes in temperature and CO2 that have been observed worldwide can fundamentally alter the rate of critical natural processes, which is predicted by biogeochemical models. Identifying this rate change is important to research on the current state of carbon stocks and the fluxes that influence how carbon moves between storage and the atmosphere. These results signal a pressing need to better understand the changes in growth rates in forest systems, which influence current and future states of the atmosphere and biosphere.",
+        "Author": "McMahon, Sean M.\rParker, Geoffrey G.\rMiller, Dawn R.",
+        "DOI": "10.1073/pnas.0912376107",
+        "Date": "February 3, 2010",
+        "ISSN": "1091-6490 ",
+        "Issue": "8",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Pages": "3611-3615",
+        "Title": "Evidence for a recent increase in forest growth",
+        "URL": "http://www.pnas.org/content/early/2010/02/02/0912376107.full.pdf+html",
+        "Volume": "107",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "3697",
+        "_uuid": "ef69b1ea-2567-40aa-82d1-cdb42041e6e0",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.0912376107",
+    "href": "http://data.globalchange.gov/reference/ef69b1ea-2567-40aa-82d1-cdb42041e6e0.json",
+    "identifier": "ef69b1ea-2567-40aa-82d1-cdb42041e6e0",
+    "uri": "/reference/ef69b1ea-2567-40aa-82d1-cdb42041e6e0"
+}

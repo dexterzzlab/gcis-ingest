@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Miao, S.L.\rZou, C.B.\rBreshears, D.D.",
+        "DOI": "10.1086/593307",
+        "Issue": "1",
+        "Journal": "The American Naturalist",
+        "Pages": "113-118",
+        "Title": "Vegetation responses to extreme hydrological events: Sequence matters",
+        "Volume": "173",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "2014",
+        "_uuid": "b6a93a0c-9362-45a7-a270-7745f832bdca",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1086/593307",
+    "href": "http://data.globalchange.gov/reference/b6a93a0c-9362-45a7-a270-7745f832bdca.json",
+    "identifier": "b6a93a0c-9362-45a7-a270-7745f832bdca",
+    "uri": "/reference/b6a93a0c-9362-45a7-a270-7745f832bdca"
+}

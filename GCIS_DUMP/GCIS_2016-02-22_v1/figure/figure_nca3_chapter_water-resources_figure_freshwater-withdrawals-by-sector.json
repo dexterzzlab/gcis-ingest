@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "Total water withdrawals (groundwater and surface water) in the U.S. are dominated by agriculture and energy\r\n    production, though the primary use of water for thermoelectric production is for cooling, where water is often returned to\r\n    lakes and rivers after use (return flows). (Data from Kenny et al.\r\n    2009<tbib>f532697a-e122-4502-8c18-9504efa60700</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0G44N6T",
+        "identifier": "water-resources",
+        "number": 3,
+        "report_identifier": "nca3",
+        "sort_key": 30,
+        "title": "Water Resources",
+        "url": "http://nca2014.globalchange.gov/report/sectors/water"
+    },
+    "chapter_identifier": "water-resources",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2012-12-18T09:35:00",
+    "files": [
+        {
+            "file": "7b/f0/4e4dcd3ae719a7e48264bfc20042/water_freshwater_withdrawals_sector_V4.png",
+            "href": "http://data.globalchange.gov/assets/7b/f0/4e4dcd3ae719a7e48264bfc20042/water_freshwater_withdrawals_sector_V4.png",
+            "identifier": "5e9ca80f-35ef-4f86-997c-e1db609579cf",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "cdb74a81311c9b23203fe242a09689578fe6a4cb",
+            "size": 77361,
+            "thumbnail": "7b/f0/4e4dcd3ae719a7e48264bfc20042/.thumb-5e9ca80f-35ef-4f86-997c-e1db609579cf.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/7b/f0/4e4dcd3ae719a7e48264bfc20042/.thumb-5e9ca80f-35ef-4f86-997c-e1db609579cf.png",
+            "uri": "/file/5e9ca80f-35ef-4f86-997c-e1db609579cf",
+            "url": "/assets/7b/f0/4e4dcd3ae719a7e48264bfc20042/water_freshwater_withdrawals_sector_V4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/water-resources/figure/freshwater-withdrawals-by-sector.json",
+    "identifier": "freshwater-withdrawals-by-sector",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2012-12-18T09:35:00",
+            "description": null,
+            "identifier": "6ba6ba2d-1299-4458-a03d-6be4e53c4a10",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Freshwater Withdrawals by Sector",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 9,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Estimated Use of Water in the United States in 2005. U.S. Geological Survey Circular 1344",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/usgs-circular-1344"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/f532697a-e122-4502-8c18-9504efa60700.json",
+            "uri": "/reference/f532697a-e122-4502-8c18-9504efa60700"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "Kenny et al. 2009<tbib>f532697a-e122-4502-8c18-9504efa60700</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Freshwater Withdrawals by Sector",
+    "uri": "/report/nca3/chapter/water-resources/figure/freshwater-withdrawals-by-sector",
+    "url": "http://nca2014.globalchange.gov/report/sectors/water/graphics/freshwater-withdrawals-sector",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

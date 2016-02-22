@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Mote, P.W.\rHamlet, A.F.\rClark, M.P.\rLettenmaier, D.P.",
+        "DOI": "10.1175/BAMS-86-1-39",
+        "Issue": "1",
+        "Journal": "Bulletin of the American Meteorological Society",
+        "Pages": "39-49",
+        "Title": "Declining mountain snowpack in western North America",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/BAMS-86-1-39",
+        "Volume": "86",
+        "Year": "2005",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "2112",
+        "_uuid": "87575740-3c5e-4669-8558-55621962abb8",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/BAMS-86-1-39",
+    "href": "http://data.globalchange.gov/reference/87575740-3c5e-4669-8558-55621962abb8.json",
+    "identifier": "87575740-3c5e-4669-8558-55621962abb8",
+    "uri": "/reference/87575740-3c5e-4669-8558-55621962abb8"
+}

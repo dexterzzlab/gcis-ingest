@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".number_of_volumes": "6",
+        ".reference_type": "0",
+        "Author": "Overland, James E.\rWang, Muyin\rBond, Nicholas A.\rWalsh, John E.\rKattsov, Vladimir M.\rChapman, William L.",
+        "DOI": "10.1175/2010JCLI3462.1",
+        "Date": "3/2011",
+        "Journal": "Journal of Climate",
+        "Pages": "1583-1597",
+        "Title": "Considerations in the selection of global climate models for regional climate projections: The Arctic as a case study",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/2010JCLI3462.1",
+        "Volume": "24",
+        "Year": "2011",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "4637",
+        "_uuid": "8c668937-bc9f-4e11-9367-be21eb087660",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/2010JCLI3462.1",
+    "href": "http://data.globalchange.gov/reference/8c668937-bc9f-4e11-9367-be21eb087660.json",
+    "identifier": "8c668937-bc9f-4e11-9367-be21eb087660",
+    "uri": "/reference/8c668937-bc9f-4e11-9367-be21eb087660"
+}

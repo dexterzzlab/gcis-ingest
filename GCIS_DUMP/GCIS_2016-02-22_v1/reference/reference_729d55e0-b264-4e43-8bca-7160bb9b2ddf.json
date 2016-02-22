@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Global temperatures are known to have varied over the past 1500 years, but the spatial patterns have remained poorly defined. We used a global climate proxy network to reconstruct surface temperature patterns over this interval. The Medieval period is found to display warmth that matches or exceeds that of the past decade in some regions, but which falls well below recent levels globally. This period is marked by a tendency for La Ni\u00f1a\u2013like conditions in the tropical Pacific. The coldest temperatures of the Little Ice Age are observed over the interval 1400 to 1700 C.E., with greatest cooling over the extratropical Northern Hemisphere continents. The patterns of temperature change imply dynamical responses of climate to natural radiative forcing changes involving El Ni\u00f1o and the North Atlantic Oscillation\u2013Arctic Oscillation.",
+        "Author": "Mann, Michael E.\rZhang, Zhihua\rRutherford, Scott\rBradley, Raymond S.\rHughes, Malcolm K.\rShindell, Drew\rAmmann, Caspar\rFaluvegi, Greg\rNi, Fenbiao",
+        "DOI": "10.1126/science.1177303",
+        "Date": "November 27, 2009",
+        "Issue": "5957",
+        "Journal": "Science",
+        "Pages": "1256-1260",
+        "Title": "Global signatures and dynamical origins of the Little Ice Age and Medieval Climate Anomaly",
+        "Volume": "326",
+        "Year": "2009",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "4261",
+        "_uuid": "729d55e0-b264-4e43-8bca-7160bb9b2ddf",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1177303",
+    "href": "http://data.globalchange.gov/reference/729d55e0-b264-4e43-8bca-7160bb9b2ddf.json",
+    "identifier": "729d55e0-b264-4e43-8bca-7160bb9b2ddf",
+    "uri": "/reference/729d55e0-b264-4e43-8bca-7160bb9b2ddf"
+}

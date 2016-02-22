@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Trout, A.\rBaraco, G.\rRodriguez, M.\rBarber, M.\rLeal, J.\rRadke, E.",
+        "Journal": "Morbidity and Mortality Weekly Report",
+        "Pages": "577-581",
+        "Title": "Locally acquired dengue - Key West, Florida, 2009-2010",
+        "Volume": "59",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "1062",
+        "_uuid": "443fddc1-9737-4c6a-8291-83508bfb9643",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/locally-acquired-dengue--key-west-florida-20092010",
+    "href": "http://data.globalchange.gov/reference/443fddc1-9737-4c6a-8291-83508bfb9643.json",
+    "identifier": "443fddc1-9737-4c6a-8291-83508bfb9643",
+    "uri": "/reference/443fddc1-9737-4c6a-8291-83508bfb9643"
+}

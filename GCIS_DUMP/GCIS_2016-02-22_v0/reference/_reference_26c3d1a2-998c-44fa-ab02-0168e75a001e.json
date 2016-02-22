@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Kunreuther, H.",
+        "DOI": "10.1111/0272-4332.00057",
+        "ISSN": "1539-6924",
+        "Issue": "4",
+        "Journal": "Risk Analysis",
+        "Pages": "655-664",
+        "Title": "Risk analysis and risk management in an uncertain world",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/0272-4332.00057/pdf",
+        "Volume": "22",
+        "Year": "2002",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "1465",
+        "_uuid": "26c3d1a2-998c-44fa-ab02-0168e75a001e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/0272-4332.00057",
+    "href": "http://data.globalchange.gov/reference/26c3d1a2-998c-44fa-ab02-0168e75a001e.json",
+    "identifier": "26c3d1a2-998c-44fa-ab02-0168e75a001e",
+    "uri": "/reference/26c3d1a2-998c-44fa-ab02-0168e75a001e"
+}

@@ -1,0 +1,80 @@
+{
+    "attributes": null,
+    "caption": "Map shows regional differences in land cover. These patterns affect climate and will be affected by climate change. They also influence the vulnerability and resilience of communities to the effects of climate change (Figure source: USGS Earth Resources Observation and Science (EROS) Center). (See Table 13.2 for definitions of mechanically and non-mechanically disturbed.)",
+    "chapter": {
+        "doi": "10.7930/J05Q4T1Q",
+        "identifier": "land-use-land-cover-change",
+        "number": 13,
+        "report_identifier": "nca3",
+        "sort_key": 130,
+        "title": "Land Use and Land Cover Change",
+        "url": "http://nca2014.globalchange.gov/report/sectors/land-use-and-land-cover-change"
+    },
+    "chapter_identifier": "land-use-land-cover-change",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2012-12-07T12:48:00",
+    "files": [
+        {
+            "file": "94/61/5135531de10eaa795daf5ca8bf4e/LULCC_land_cover_composition_13572_v3.png",
+            "href": "http://data.globalchange.gov/assets/94/61/5135531de10eaa795daf5ca8bf4e/LULCC_land_cover_composition_13572_v3.png",
+            "identifier": "bafc0f08-f86f-4b34-892a-e7eba2ea5ad0",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "20fcde4bb3076e7b39fa1f6511bfc6e015b429f8",
+            "size": 328738,
+            "thumbnail": "94/61/5135531de10eaa795daf5ca8bf4e/.thumb-bafc0f08-f86f-4b34-892a-e7eba2ea5ad0.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/94/61/5135531de10eaa795daf5ca8bf4e/.thumb-bafc0f08-f86f-4b34-892a-e7eba2ea5ad0.png",
+            "uri": "/file/bafc0f08-f86f-4b34-892a-e7eba2ea5ad0",
+            "url": "/assets/94/61/5135531de10eaa795daf5ca8bf4e/LULCC_land_cover_composition_13572_v3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/land-use-land-cover-change/figure/us-landcover-composition-in-2000.json",
+    "identifier": "us-landcover-composition-in-2000",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2012-12-07T12:48:00",
+            "description": null,
+            "identifier": "48def6ce-edea-42d6-b9bc-d0926827b84b",
+            "lat_max": "49.38",
+            "lat_min": "24.50",
+            "lon_max": "-66.95",
+            "lon_min": "-124.80",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2000-12-31T23:59:59",
+            "time_start": "2000-01-01T00:00:00",
+            "title": "U.S. Land-Cover Composition in 2000",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 1,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "National Climate Assessment Technical Report on the Impacts of Climate and Land Use and Land Cover Change",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/usgs-open-file-report-2002-1155"
+        }
+    ],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": "USGS Earth Resources Observation and Science (EROS) Center). (See Table 13.2 for definitions of mechanically and non-mechanically disturbed.",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "U.S. Land-Cover Composition in 2000",
+    "uri": "/report/nca3/chapter/land-use-land-cover-change/figure/us-landcover-composition-in-2000",
+    "url": "http://nca2014.globalchange.gov/report/sectors/land-use-and-land-cover-change/graphics/us-land-cover-composition-2000",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

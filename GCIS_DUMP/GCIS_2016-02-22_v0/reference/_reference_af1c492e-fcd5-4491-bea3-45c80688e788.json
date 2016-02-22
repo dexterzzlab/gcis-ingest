@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Isaak, D.J.\rWollrab, S.\rHoran, D.\rChandler, G.",
+        "DOI": "10.1007/s10584-011-0326-z",
+        "ISSN": "0165-0009",
+        "Issue": "2",
+        "Journal": "Climatic Change",
+        "Pages": "499-524",
+        "Title": "Climate change effects on stream and river temperatures across the northwest US from 1980\u20132009 and implications for salmonid fishes",
+        "URL": "http://link.springer.com/content/pdf/10.1007%2Fs10584-011-0326-z",
+        "Volume": "113",
+        "Year": "2011",
+        "_chapter": "[\"RG 6 Northwest\",\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "300",
+        "_uuid": "af1c492e-fcd5-4491-bea3-45c80688e788",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-011-0326-z",
+    "href": "http://data.globalchange.gov/reference/af1c492e-fcd5-4491-bea3-45c80688e788.json",
+    "identifier": "af1c492e-fcd5-4491-bea3-45c80688e788",
+    "uri": "/reference/af1c492e-fcd5-4491-bea3-45c80688e788"
+}

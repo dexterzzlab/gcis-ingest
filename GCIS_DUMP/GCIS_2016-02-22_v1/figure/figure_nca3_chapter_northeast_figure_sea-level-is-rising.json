@@ -1,0 +1,57 @@
+{
+    "attributes": null,
+    "caption": "(Map) Local sea level trends in the Northeast region. Length of time series for each arrow varies by tide gauge location. (Figure source: NOAA<tbib>4acdb5b0-2889-4f00-8174-714b12603530</tbib>). (Graph) Observed sea level rise in Philadelphia, PA, has significantly exceeded the global average of 8 inches over the past century, increasing the risk of impacts to critical urban infrastructure in low-lying areas. Over 100 years (1901-2012), sea level increased 1.2 feet (Data from Permanent Service for Mean Sea Level).",
+    "chapter": {
+        "doi": "10.7930/J0SF2T3P",
+        "identifier": "northeast",
+        "number": 16,
+        "report_identifier": "nca3",
+        "sort_key": 160,
+        "title": "Northeast",
+        "url": "http://nca2014.globalchange.gov/report/regions/northeast"
+    },
+    "chapter_identifier": "northeast",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "28/17/5877674207bbd17ac6a4272a62b7/NE_sea_level_rise_V5.png",
+            "href": "http://data.globalchange.gov/assets/28/17/5877674207bbd17ac6a4272a62b7/NE_sea_level_rise_V5.png",
+            "identifier": "3ed41baa-3b4e-4b06-89ab-9d4fb89e5d90",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "1b9d1d3023c119fc15171c634ed4f9094c3bc5f1",
+            "size": 1436166,
+            "thumbnail": "28/17/5877674207bbd17ac6a4272a62b7/.thumb-3ed41baa-3b4e-4b06-89ab-9d4fb89e5d90.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/28/17/5877674207bbd17ac6a4272a62b7/.thumb-3ed41baa-3b4e-4b06-89ab-9d4fb89e5d90.png",
+            "uri": "/file/3ed41baa-3b4e-4b06-89ab-9d4fb89e5d90",
+            "url": "/assets/28/17/5877674207bbd17ac6a4272a62b7/NE_sea_level_rise_V5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/northeast/figure/sea-level-is-rising.json",
+    "identifier": "sea-level-is-rising",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 1,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/4acdb5b0-2889-4f00-8174-714b12603530.json",
+            "uri": "/reference/4acdb5b0-2889-4f00-8174-714b12603530"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "NOAA<tbib>4acdb5b0-2889-4f00-8174-714b12603530</tbib> ). (Graph) Observed sea level rise in Philadelphia, PA, has significantly exceeded the global average of 8 inches over the past century, increasing the risk of impacts to critical urban infrastructure in low-lying areas. Over 100 years (1901-2012), sea level increased 1.2 feet (Data from Permanent Service for Mean Sea Level<tbib>4acdb5b0-2889-4f00-8174-714b12603530</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Sea Level is Rising",
+    "uri": "/report/nca3/chapter/northeast/figure/sea-level-is-rising",
+    "url": "http://nca2014.globalchange.gov/highlights/regions/northeast/graphics/sea-level-rising",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

@@ -1,0 +1,87 @@
+{
+    "attributes": null,
+    "caption": "Trend magnitude (triangle size) and direction (green = increasing trend, brown = decreasing trend) of annual flood magnitude from the 1920s through 2008. Local areas can be affected by land-use change (such as dams). Most significant are the increasing trend for floods in the Midwest and Northeast and the decreasing trend in the Southwest. (Figure source: Peterson et al. 2013<tbib>e15600d0-290f-44e2-9b58-9ffd295ee6d2</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0KW5CXT",
+        "identifier": "our-changing-climate",
+        "number": 2,
+        "report_identifier": "nca3",
+        "sort_key": 20,
+        "title": "Our Changing Climate",
+        "url": "http://nca2014.globalchange.gov/report/our-changing-climate/introduction"
+    },
+    "chapter_identifier": "our-changing-climate",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-06T11:23:00",
+    "files": [
+        {
+            "file": "1d/89/e66b10ac42eeb870dd8146d6128b/CS_flood_trends_v5.png",
+            "href": "http://data.globalchange.gov/assets/1d/89/e66b10ac42eeb870dd8146d6128b/CS_flood_trends_v5.png",
+            "identifier": "1a2cfad7-e0e0-48b3-9d30-86708bd51453",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "ad5bb554741113cd0c62c6551f50c367c20abf63",
+            "size": 171699,
+            "thumbnail": "1d/89/e66b10ac42eeb870dd8146d6128b/.thumb-1a2cfad7-e0e0-48b3-9d30-86708bd51453.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/1d/89/e66b10ac42eeb870dd8146d6128b/.thumb-1a2cfad7-e0e0-48b3-9d30-86708bd51453.png",
+            "uri": "/file/1a2cfad7-e0e0-48b3-9d30-86708bd51453",
+            "url": "/assets/1d/89/e66b10ac42eeb870dd8146d6128b/CS_flood_trends_v5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/our-changing-climate/figure/cs-trends-in-flood-magnitude.json",
+    "identifier": "cs-trends-in-flood-magnitude",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-11-06T11:23:00",
+            "description": null,
+            "identifier": "eab9f2d3-6ebf-40ef-9d9b-fc7f9d62e693",
+            "lat_max": "49.38",
+            "lat_min": "24.50",
+            "lon_max": "-66.95",
+            "lon_min": "-124.80",
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Trends in Flood Magnitude",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [
+        "/report/nca3/chapter/water-resources/figure/trends-in-flood-magnitude"
+    ],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 21,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Monitoring and Understanding Changes in Heat Waves, Cold Waves, Floods, and Droughts in the United States: State of Knowledge",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1175/BAMS-D-12-00066.1"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/e15600d0-290f-44e2-9b58-9ffd295ee6d2.json",
+            "uri": "/reference/e15600d0-290f-44e2-9b58-9ffd295ee6d2"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Trends in Flood Magnitude",
+    "uri": "/report/nca3/chapter/our-changing-climate/figure/cs-trends-in-flood-magnitude",
+    "url": "http://nca2014.globalchange.gov/report/our-changing-climate/extreme-weather/graphics/trends-flood-magnitude",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

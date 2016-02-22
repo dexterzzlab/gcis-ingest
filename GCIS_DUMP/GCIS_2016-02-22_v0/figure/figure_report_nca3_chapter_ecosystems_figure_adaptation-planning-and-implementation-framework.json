@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "Iterative approaches to conservation planning require input and communication among many players to ensure flexibility in response to climate change. (Figure source: adapted from the National Wildlife Federation 2013<tbib>3e0300b4-d1fb-4c20-a890-d9abae08cf8d</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0TD9V7H",
+        "identifier": "ecosystems",
+        "number": 8,
+        "report_identifier": "nca3",
+        "sort_key": 80,
+        "title": "Ecosystems, Biodiversity, and Ecosystem Services",
+        "url": "http://nca2014.globalchange.gov/report/sectors/ecosystems"
+    },
+    "chapter_identifier": "ecosystems",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-05-29T13:27:54",
+    "files": [
+        {
+            "file": "17/19/e73ad5ecef2e673ceb6978f15794/ECO_conservation_flowchart_13806_v5.png",
+            "href": "http://data.globalchange.gov/assets/17/19/e73ad5ecef2e673ceb6978f15794/ECO_conservation_flowchart_13806_v5.png",
+            "identifier": "50a1a2b4-6c97-44b4-bd77-afbf5d7d096c",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "b4d72866fb66b33b0a8d409f4c7cd92db33581f2",
+            "size": 541681,
+            "thumbnail": "17/19/e73ad5ecef2e673ceb6978f15794/.thumb-50a1a2b4-6c97-44b4-bd77-afbf5d7d096c.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/17/19/e73ad5ecef2e673ceb6978f15794/.thumb-50a1a2b4-6c97-44b4-bd77-afbf5d7d096c.png",
+            "uri": "/file/50a1a2b4-6c97-44b4-bd77-afbf5d7d096c",
+            "url": "/assets/17/19/e73ad5ecef2e673ceb6978f15794/ECO_conservation_flowchart_13806_v5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/ecosystems/figure/adaptation-planning-and-implementation-framework.json",
+    "identifier": "adaptation-planning-and-implementation-framework",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-05-29T13:27:54",
+            "description": null,
+            "identifier": "a83e88a7-8da4-4cb7-99de-c2b697ba79dd",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Adaptation Planning and Implementation Framework",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 3,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Quick guide to Climate-Smart Conservation",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/nwf-quickguide-2013"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/3e0300b4-d1fb-4c20-a890-d9abae08cf8d.json",
+            "uri": "/reference/3e0300b4-d1fb-4c20-a890-d9abae08cf8d"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "adapted from the National Wildlife Federation, 2013",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Adaptation Planning and Implementation Framework",
+    "uri": "/report/nca3/chapter/ecosystems/figure/adaptation-planning-and-implementation-framework",
+    "url": "http://nca2014.globalchange.gov/report/sectors/ecosystems/graphics/adaptation-planning-and-implementation-framework",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

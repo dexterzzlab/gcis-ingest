@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-18T16:32:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "The frost-free season is defined as the period between the last occurrence of 32\u00b0F in spring and the first occurrence of 32\u00b0F in the subsequent fall. The chart shows significant increases in the number of consecutive frost-free days per year in the past three decades compared to the 1901-2010 average. Increased frost-free season length, especially in already hot and moisture-stressed regions like the Southwest, is projected to lead to further heat stress on plants and increased water demands for crops. Higher temperatures and more frost-free days during winter can lead to early bud burst or bloom of some perennial plants, resulting in frost damage when cold conditions occur in late spring (see Ch. 6: Agriculture); in addition, with higher winter temperatures, some agricultural pests can persist year-round, and new pests and diseases may become established.<tbib>4442506b-fbba-41ea-9cef-1eac88ce2049</tbib> (Figure source: Hoerling et al. 2013<tbib>c9075dbc-f7c8-4d85-b534-e97282562b3e</tbib>).",
+            "chapter_identifier": "southwest",
+            "create_dt": "2013-11-18T16:32:00",
+            "identifier": "longer-frostfree-season-increases-stress-on-crops",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 4,
+            "report_identifier": "nca3",
+            "source_citation": "Hoerling et al. 2013<tbib>c9075dbc-f7c8-4d85-b534-e97282562b3e</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Longer Frost-free Season Increases Stress on Crops",
+            "url": "http://nca2014.globalchange.gov/highlights/regions/southwest/graphics/longer-frost-free-season-increases-stress-crops",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "0b/38/fc0ba97330b65ba133c50beadc8a/SW_frost-free_season_12449_V5.png",
+            "href": "http://data.globalchange.gov/assets/0b/38/fc0ba97330b65ba133c50beadc8a/SW_frost-free_season_12449_V5.png",
+            "identifier": "b2a95549-d0b6-4205-9cbe-7bb07ec0658e",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "4f2194803508d2229097f2bf80899611edfd4f62",
+            "size": 31379,
+            "thumbnail": "0b/38/fc0ba97330b65ba133c50beadc8a/.thumb-b2a95549-d0b6-4205-9cbe-7bb07ec0658e.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/0b/38/fc0ba97330b65ba133c50beadc8a/.thumb-b2a95549-d0b6-4205-9cbe-7bb07ec0658e.png",
+            "uri": "/file/b2a95549-d0b6-4205-9cbe-7bb07ec0658e",
+            "url": "/assets/0b/38/fc0ba97330b65ba133c50beadc8a/SW_frost-free_season_12449_V5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/1878ea5e-17f8-4771-aaa6-152fd0a823df.json",
+    "identifier": "1878ea5e-17f8-4771-aaa6-152fd0a823df",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Longer-Frost-Free Season Increases Stress on Crops",
+    "uri": "/image/1878ea5e-17f8-4771-aaa6-152fd0a823df",
+    "url": null,
+    "usage_limits": null
+}

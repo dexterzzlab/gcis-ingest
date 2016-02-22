@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Markandya, A.\rB. G. Armstrong \rS. Hales\rA. Chiabai\rP. Criqui\rS. Mima\rC. Tonne\rP. Wilkinson",
+        "DOI": "10.1016/s0140-6736(09)61715-3",
+        "Issue": "9706",
+        "Journal": "The Lancet",
+        "Pages": "2006-2015",
+        "Title": "Public health benefits of strategies to reduce greenhouse-gas emissions: Low-carbon electricity generation",
+        "Volume": "374",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "1880",
+        "_uuid": "09c990e5-09cd-458b-961e-67038aa59fa4",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/s0140-6736(09)61715-3",
+    "href": "http://data.globalchange.gov/reference/09c990e5-09cd-458b-961e-67038aa59fa4.json",
+    "identifier": "09c990e5-09cd-458b-961e-67038aa59fa4",
+    "uri": "/reference/09c990e5-09cd-458b-961e-67038aa59fa4"
+}

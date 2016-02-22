@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "U.S. climate extremes index\u2014warm season (April-September), 1910\u20132004. Credit: K.L. Gleason, NOAA/ National Climatic Data Center.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "fd/fa/deb1b1308c35f1a257d246795d62/our_changing_planet_2006_20_20090708_1886365289.jpg",
+            "href": "http://data.globalchange.gov/assets/fd/fa/deb1b1308c35f1a257d246795d62/our_changing_planet_2006_20_20090708_1886365289.jpg",
+            "identifier": "0c25d538-aca3-4749-afcb-227a445eba3f",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "ef3b765c70dad4a949017f942c2683592c4bb840",
+            "size": 62587,
+            "thumbnail": "fd/fa/deb1b1308c35f1a257d246795d62/.thumb-0c25d538-aca3-4749-afcb-227a445eba3f.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/fd/fa/deb1b1308c35f1a257d246795d62/.thumb-0c25d538-aca3-4749-afcb-227a445eba3f.png",
+            "uri": "/file/0c25d538-aca3-4749-afcb-227a445eba3f",
+            "url": "/assets/fd/fa/deb1b1308c35f1a257d246795d62/our_changing_planet_2006_20_20090708_1886365289.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocp-fy2006/figure/us-climate-extremes-index.json",
+    "identifier": "us-climate-extremes-index",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocp-fy2006",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "U.S. Climate Extremes Index",
+    "uri": "/report/ccsp-ocp-fy2006/figure/us-climate-extremes-index",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

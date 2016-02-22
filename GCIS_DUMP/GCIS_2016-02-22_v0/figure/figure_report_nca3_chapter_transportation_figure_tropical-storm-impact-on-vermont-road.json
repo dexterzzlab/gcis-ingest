@@ -1,0 +1,71 @@
+{
+    "attributes": null,
+    "caption": "Vermont Route 131, outside Cavendish, a week after Tropical Storm Irene unleashed severe precipitation and flooding that damaged many Vermont roads, bridges, and rail lines. (Photo credit: Vermont Agency of Transportation).",
+    "chapter": {
+        "doi": "10.7930/J06Q1V53",
+        "identifier": "transportation",
+        "number": 5,
+        "report_identifier": "nca3",
+        "sort_key": 50,
+        "title": "Transportation",
+        "url": "http://nca2014.globalchange.gov/report/sectors/transportation"
+    },
+    "chapter_identifier": "transportation",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-06T08:31:31",
+    "files": [
+        {
+            "file": "be/39/cb6f18a1fa20d576aefd09dd0c88/Transport_vermont_road_v2.png",
+            "href": "http://data.globalchange.gov/assets/be/39/cb6f18a1fa20d576aefd09dd0c88/Transport_vermont_road_v2.png",
+            "identifier": "fc0e8752-be4c-4f15-b515-0b056a649150",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "da3e08cd329bdc9870273bc33b43c4da248c6cdd",
+            "size": 781451,
+            "thumbnail": "be/39/cb6f18a1fa20d576aefd09dd0c88/.thumb-fc0e8752-be4c-4f15-b515-0b056a649150.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/be/39/cb6f18a1fa20d576aefd09dd0c88/.thumb-fc0e8752-be4c-4f15-b515-0b056a649150.png",
+            "uri": "/file/fc0e8752-be4c-4f15-b515-0b056a649150",
+            "url": "/assets/be/39/cb6f18a1fa20d576aefd09dd0c88/Transport_vermont_road_v2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/transportation/figure/tropical-storm-impact-on-vermont-road.json",
+    "identifier": "tropical-storm-impact-on-vermont-road",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-11-06T08:31:31",
+            "description": null,
+            "identifier": "df8f2eb7-68c2-4a04-888c-6ff795a9dd02",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Tropical Storm Impact on Vermont Road",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 6,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Tropical Storm Impact on Vermont Road",
+    "uri": "/report/nca3/chapter/transportation/figure/tropical-storm-impact-on-vermont-road",
+    "url": "http://nca2014.globalchange.gov/report/sectors/transportation/graphics/tropical-storm-impact-vermont-road",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

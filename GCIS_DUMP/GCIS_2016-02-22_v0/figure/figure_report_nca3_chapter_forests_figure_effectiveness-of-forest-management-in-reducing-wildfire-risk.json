@@ -1,0 +1,96 @@
+{
+    "attributes": null,
+    "caption": "Forest management that selectively removes trees to reduce fire risk, among other objectives (a practice referred to as \u201cfuel treatments\u201d), can maintain uneven-aged forest structure and create small openings in the forest. Under some conditions, this practice can help prevent large wildfires from spreading. Photo shows the effectiveness of fuel treatments in Arizona\u2019s 2002 Rodeo-Chediski fire, which burned more than 400 square miles \u2013 at the time the worst fire in state history. Unburned area (left) had been managed with a treatment that removed commercial timber, thinned non-commercial-sized trees, and followed with prescribed fire in 1999. The right side of the photo shows burned area on the untreated slope below Limestone Ridge. (Photo credit: Jim Youtz, U.S. Forest Service).",
+    "chapter": {
+        "doi": "10.7930/J0Z60KZC",
+        "identifier": "forests",
+        "number": 7,
+        "report_identifier": "nca3",
+        "sort_key": 70,
+        "title": "Forests",
+        "url": "http://nca2014.globalchange.gov/report/sectors/forests"
+    },
+    "chapter_identifier": "forests",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2529.json",
+            "id": 2529,
+            "organization": {
+                "country_code": "US",
+                "identifier": "us-forest-service",
+                "name": "U.S. Forest Service",
+                "organization_type_identifier": "federal",
+                "url": "http://www.fs.fed.us/"
+            },
+            "organization_uri": "/organization/us-forest-service",
+            "person": {
+                "first_name": "James",
+                "id": 1460,
+                "last_name": "Youtz",
+                "middle_name": null,
+                "orcid": null,
+                "url": null
+            },
+            "person_id": 1460,
+            "person_uri": "/person/1460",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2529"
+        }
+    ],
+    "create_dt": "2013-09-09T13:47:22",
+    "files": [
+        {
+            "file": "c6/52/486ba8f3fca528e05063de9778b5/Forests_fuel_treatment_V4.png",
+            "href": "http://data.globalchange.gov/assets/c6/52/486ba8f3fca528e05063de9778b5/Forests_fuel_treatment_V4.png",
+            "identifier": "29baffe5-6487-45ff-9f5e-01bdfb537a2a",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "94717691c4b5cb8d8e4ed544cb3a4122dfe97f24",
+            "size": 2438202,
+            "thumbnail": "c6/52/486ba8f3fca528e05063de9778b5/.thumb-29baffe5-6487-45ff-9f5e-01bdfb537a2a.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/c6/52/486ba8f3fca528e05063de9778b5/.thumb-29baffe5-6487-45ff-9f5e-01bdfb537a2a.png",
+            "uri": "/file/29baffe5-6487-45ff-9f5e-01bdfb537a2a",
+            "url": "/assets/c6/52/486ba8f3fca528e05063de9778b5/Forests_fuel_treatment_V4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/forests/figure/effectiveness-of-forest-management-in-reducing-wildfire-risk.json",
+    "identifier": "effectiveness-of-forest-management-in-reducing-wildfire-risk",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-09-09T13:47:22",
+            "description": null,
+            "identifier": "c05e2dc1-1661-402a-a653-76f686f2befe",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Effectiveness of Forest Management in Reducing Wildfire Risk",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 2,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Effectiveness of Forest Management in Reducing Wildfire Risk",
+    "uri": "/report/nca3/chapter/forests/figure/effectiveness-of-forest-management-in-reducing-wildfire-risk",
+    "url": "http://nca2014.globalchange.gov/report/sectors/forests/graphics/effectiveness-forest-management-reducing-wildfire-risk",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

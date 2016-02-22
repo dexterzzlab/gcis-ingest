@@ -1,0 +1,88 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/1845.json",
+            "id": 1845,
+            "organization": {
+                "country_code": "US",
+                "identifier": "us-global-change-research-program",
+                "name": "U.S. Global Change Research Program",
+                "organization_type_identifier": "federal",
+                "url": "http://www.globalchange.gov"
+            },
+            "organization_uri": "/organization/us-global-change-research-program",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "author",
+            "uri": "/contributor/1845"
+        }
+    ],
+    "create_dt": null,
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Sea ice in the Arctic fluctuates from year to year, but the annual minimum extent (measured each year in September) has decreased overall since measurements began in the late 1970s. Changes in sea ice have implications both for the environment and for human activities such as shipping. The Sea Ice Prediction Network aims to improve forecasts of Arctic sea ice for use by scientists and stakeholders. (Source: USGCRP indicators pilot, with data from NASA)",
+            "chapter_identifier": "crosscutting-priorities-serve-science-society",
+            "create_dt": null,
+            "identifier": "september-average-sea-ice-extent-arctic",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 22,
+            "report_identifier": "usgcrp-ocpfy2016",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "September Average Sea Ice Extent in the Arctic",
+            "url": "https://data.globalchange.gov/report/indicator-arctic-sea-ice-extent",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "50/71/056c15ddfe9b1024c0cc2a2dff7e/HL34_Annual-Sea-Ice-Extent-indicator.jpg",
+            "href": "http://data.globalchange.gov/assets/50/71/056c15ddfe9b1024c0cc2a2dff7e/HL34_Annual-Sea-Ice-Extent-indicator.jpg",
+            "identifier": "42385abe-1334-4a89-8adb-670feb3a9e38",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "426be0e2ba198b19263bcebd603fc2bd897d397a",
+            "size": 1037160,
+            "thumbnail": "50/71/056c15ddfe9b1024c0cc2a2dff7e/.thumb-42385abe-1334-4a89-8adb-670feb3a9e38.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/50/71/056c15ddfe9b1024c0cc2a2dff7e/.thumb-42385abe-1334-4a89-8adb-670feb3a9e38.png",
+            "uri": "/file/42385abe-1334-4a89-8adb-670feb3a9e38",
+            "url": "/assets/50/71/056c15ddfe9b1024c0cc2a2dff7e/HL34_Annual-Sea-Ice-Extent-indicator.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/712368fb-76c4-45cf-8b33-d04f77485f0c.json",
+    "identifier": "712368fb-76c4-45cf-8b33-d04f77485f0c",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Indicator: Arctic Sea Ice Extent",
+            "note": "",
+            "publication_type_identifier": "report",
+            "relationship": "cito:cites",
+            "url": "/report/indicator-arctic-sea-ice-extent"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "September Average Sea Ice Extent in the Arctic",
+    "uri": "/image/712368fb-76c4-45cf-8b33-d04f77485f0c",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

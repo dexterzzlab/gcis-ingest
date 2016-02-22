@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-15T14:51:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Estimated, observed, and possible future amounts of global sea level rise from 1800 to 2100, relative to the year 2000. Estimates from proxy data<tbib>e679d754-46b3-4d62-a7dd-4a7f0c727ebe</tbib> (for example, based on sediment records) are shown in red (1800-1890, pink band shows uncertainty), tide gauge data are shown in blue for 1880-2009,<tbib>94a8514e-063e-45ef-b893-11c82b49a597</tbib> and satellite observations are shown in green from 1993 to 2012.<tbib>7b7ffcb0-766c-43b3-ac22-db29fbffef71</tbib> The future scenarios range from 0.66 feet to 6.6 feet in 2100.<tbib>d8089822-678e-4834-a1ec-0dca1da35314</tbib> These scenarios are not based on climate model simulations, but rather reflect the range of possible scenarios based on other scientific studies. The orange line at right shows the currently projected range of sea level rise of 1 to 4 feet by 2100, which falls within the larger risk-based scenario range. The large projected range reflects uncertainty about how glaciers and ice sheets will react to the warming ocean, the warming atmosphere, and changing winds and currents. As seen in the observations, there are year-to-year variations in the trend. (Figure source:  Adapted from Parris et al. 2012 <tbib>d8089822-678e-4834-a1ec-0dca1da35314</tbib> with input from NASA Jet Propulsion Laboratory).",
+            "chapter_identifier": "our-changing-climate",
+            "create_dt": "2013-11-15T14:51:00",
+            "identifier": "past-and-projected-changes-in-global-sea-level-rise",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 26,
+            "report_identifier": "nca3",
+            "source_citation": "J. Willis, Jet Propulsion Laboratory",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Past and Projected Changes in Global Sea Level Rise",
+            "url": "http://nca2014.globalchange.gov/highlights/report-findings/future-climate/graphics/past-and-projected-changes-global-sea-level",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "cc/ac/e150a51d9e668765794924d78f15/CS_SLR_scenarios_v8.png",
+            "href": "http://data.globalchange.gov/assets/cc/ac/e150a51d9e668765794924d78f15/CS_SLR_scenarios_v8.png",
+            "identifier": "e2c1dc8e-9d34-4237-9a77-b1c94146d224",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "d58113f420742b6f004d34a82a919fd3e090e552",
+            "size": 88562,
+            "thumbnail": "cc/ac/e150a51d9e668765794924d78f15/.thumb-e2c1dc8e-9d34-4237-9a77-b1c94146d224.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/cc/ac/e150a51d9e668765794924d78f15/.thumb-e2c1dc8e-9d34-4237-9a77-b1c94146d224.png",
+            "uri": "/file/e2c1dc8e-9d34-4237-9a77-b1c94146d224",
+            "url": "/assets/cc/ac/e150a51d9e668765794924d78f15/CS_SLR_scenarios_v8.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/0863c866-1e79-4495-ba2d-3ec4a6270e76.json",
+    "identifier": "0863c866-1e79-4495-ba2d-3ec4a6270e76",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Past and Projected Changes in Global Sea Level Rise",
+    "uri": "/image/0863c866-1e79-4495-ba2d-3ec4a6270e76",
+    "url": null,
+    "usage_limits": null
+}

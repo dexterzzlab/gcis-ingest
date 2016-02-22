@@ -1,0 +1,8 @@
+{
+    "description": "Imaging radar (SAR)",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/synthetic-aperature-radiometer-risat-2.json",
+    "identifier": "synthetic-aperature-radiometer-risat-2",
+    "name": "Synthetic Aperature Radiometer (RISAT-2)",
+    "uri": "/instrument/synthetic-aperature-radiometer-risat-2"
+}

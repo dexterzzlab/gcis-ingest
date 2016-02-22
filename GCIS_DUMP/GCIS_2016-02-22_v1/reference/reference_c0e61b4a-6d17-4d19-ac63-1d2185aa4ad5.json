@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Swanson, K.L.\rSugihara, G.\rTsonis, A.A.",
+        "DOI": "10.1073/pnas.0908699106",
+        "ISSN": "0027-8424",
+        "Issue": "38",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Pages": "16120-16123",
+        "Title": "Long-term natural variability and 20th century climate change",
+        "Volume": "106",
+        "Year": "2009",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "3000",
+        "_uuid": "c0e61b4a-6d17-4d19-ac63-1d2185aa4ad5",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.0908699106",
+    "href": "http://data.globalchange.gov/reference/c0e61b4a-6d17-4d19-ac63-1d2185aa4ad5.json",
+    "identifier": "c0e61b4a-6d17-4d19-ac63-1d2185aa4ad5",
+    "uri": "/reference/c0e61b4a-6d17-4d19-ac63-1d2185aa4ad5"
+}

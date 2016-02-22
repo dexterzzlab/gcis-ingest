@@ -1,0 +1,8 @@
+{
+    "description": "Solar irradiance monitor",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/solar-irradiation-monitor-2.json",
+    "identifier": "solar-irradiation-monitor-2",
+    "name": "Solar Irradiation Monitor-2",
+    "uri": "/instrument/solar-irradiation-monitor-2"
+}

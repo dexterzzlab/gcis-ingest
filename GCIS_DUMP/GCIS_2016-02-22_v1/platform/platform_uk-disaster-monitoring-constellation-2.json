@@ -1,0 +1,12 @@
+{
+    "description": null,
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/d/dmc-2g",
+    "end_date": "2016-07-01T00:00:00",
+    "href": "http://data.globalchange.gov/platform/uk-disaster-monitoring-constellation-2.json",
+    "identifier": "uk-disaster-monitoring-constellation-2",
+    "name": "UK Disaster Monitoring Constellation 2",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "2009-07-29T00:00:00",
+    "uri": "/platform/uk-disaster-monitoring-constellation-2",
+    "url": "http://www.dmcii.com"
+}

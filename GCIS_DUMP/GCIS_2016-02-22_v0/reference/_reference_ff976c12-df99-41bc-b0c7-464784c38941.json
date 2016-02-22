@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"23\" /><run start=\"24\" /></field></record>",
+        "Author": "Jaffe, D.\rChand, D.\rHafner, W.\rWesterling, A.\rSpracklen, D.",
+        "DOI": "10.1021/es800084k",
+        "ISSN": "0013-936X",
+        "Issue": "16",
+        "Journal": "Environmental Science & Technology",
+        "Pages": "5885-5891",
+        "Title": "Influence of fires on O3 concentrations in the western US",
+        "Volume": "42",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "964",
+        "_uuid": "ff976c12-df99-41bc-b0c7-464784c38941",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1021/es800084k",
+    "href": "http://data.globalchange.gov/reference/ff976c12-df99-41bc-b0c7-464784c38941.json",
+    "identifier": "ff976c12-df99-41bc-b0c7-464784c38941",
+    "uri": "/reference/ff976c12-df99-41bc-b0c7-464784c38941"
+}

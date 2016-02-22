@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2012",
+        "Author": "NatureServe,",
+        "Title": "Ecosystem Based Management Tools Network",
+        "URL": "www.ebmtools.org",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "8",
+        "_uuid": "0908ba9d-f547-432f-84c7-0bb502ecae09",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/45a8d6ea-957d-49a1-b40a-12d878b82e88",
+    "href": "http://data.globalchange.gov/reference/0908ba9d-f547-432f-84c7-0bb502ecae09.json",
+    "identifier": "0908ba9d-f547-432f-84c7-0bb502ecae09",
+    "uri": "/reference/0908ba9d-f547-432f-84c7-0bb502ecae09"
+}

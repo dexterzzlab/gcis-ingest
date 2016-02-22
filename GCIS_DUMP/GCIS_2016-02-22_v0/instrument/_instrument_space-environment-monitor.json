@@ -1,0 +1,8 @@
+{
+    "description": "Space environment monitor",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/space-environment-monitor.json",
+    "identifier": "space-environment-monitor",
+    "name": "Space Environment Monitor",
+    "uri": "/instrument/space-environment-monitor"
+}

@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Montoya, J.M.\rRaffaelli, D.",
+        "DOI": "10.1098/rstb.2010.0114",
+        "ISSN": "0962-8436",
+        "Issue": "1549",
+        "Journal": "Philosophical Transactions of the Royal Society B: Biological Sciences",
+        "Pages": "2013-2018",
+        "Title": "Climate change, biotic interactions and ecosystem services",
+        "URL": "http://rstb.royalsocietypublishing.org/content/365/1549/2013.full.pdf+html",
+        "Volume": "365",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "2071",
+        "_uuid": "b6ade816-4aab-4386-bd4f-ee2d9af4f60d",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1098/rstb.2010.0114",
+    "href": "http://data.globalchange.gov/reference/b6ade816-4aab-4386-bd4f-ee2d9af4f60d.json",
+    "identifier": "b6ade816-4aab-4386-bd4f-ee2d9af4f60d",
+    "uri": "/reference/b6ade816-4aab-4386-bd4f-ee2d9af4f60d"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "High-resolution nadir-scanning SW spectrometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/ozon-m.json",
+    "identifier": "ozon-m",
+    "name": "Ozon-M",
+    "uri": "/instrument/ozon-m"
+}

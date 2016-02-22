@@ -1,0 +1,12 @@
+{
+    "description": "The CNRM-CM3 global coupled system is the third version of the ocean-atmosphere model initially developed at CERFACS (Toulouse, France), then regularlarly updated at Center National Weather Research  (CNRM, METEO-FRANCE, Toulouse).\n",
+    "description_attribution": "http://www.cnrm.meteo.fr/scenario2004/references_eng.html\n",
+    "href": "http://data.globalchange.gov/model/cnrm-cm3.json",
+    "identifier": "cnrm-cm3",
+    "name": "Centre National de Recherches M\u00e9t\u00e9orologiques Climate Model",
+    "project_identifier": "cmip3",
+    "reference_url": "http://www-pcmdi.llnl.gov/ipcc/model_documentation/CNRM-CM3.htm",
+    "uri": "/model/cnrm-cm3",
+    "version": null,
+    "website": "http://www.cnrm.meteo.fr/scenario2004/references_eng.html"
+}

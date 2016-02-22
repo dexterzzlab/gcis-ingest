@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"italic\" start=\"102\" /><run start=\"117\" /></field></record>",
+        "Author": "USFWS,",
+        "Issue": "95",
+        "Journal": "Federal Register",
+        "Pages": "28211-28303",
+        "Title": "Endangered and threatened wildlife and plants; determination of threatened status for the polar bear (Ursus maritimus) throughout its range. Final rule. U.S. Fish Wildlife Service",
+        "URL": "http://www.fws.gov/policy/library/2008/E8-11105.html",
+        "Volume": "73",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "4167",
+        "_uuid": "06a5edc4-eb31-458f-913e-1ea0f86b0283",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/endangered-and-threatened-wildlife-and-plants-determination-of-threatened-status-for-the-polar-bear-ursus-maritimus-throughout-its-range-final-rule-us-fish-wildlife-service",
+    "href": "http://data.globalchange.gov/reference/06a5edc4-eb31-458f-913e-1ea0f86b0283.json",
+    "identifier": "06a5edc4-eb31-458f-913e-1ea0f86b0283",
+    "uri": "/reference/06a5edc4-eb31-458f-913e-1ea0f86b0283"
+}

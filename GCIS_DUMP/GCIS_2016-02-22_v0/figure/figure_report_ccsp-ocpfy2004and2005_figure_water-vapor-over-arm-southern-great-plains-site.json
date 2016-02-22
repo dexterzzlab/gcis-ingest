@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Laser technology captures continuous, vertical distributions of water vapor over the Atmospheric Radiation Measurement\u2019s Southern Great Plains Site for the 29 November - 2 December 2002 time frame. The figure represents three measurements that are important for climate studies: (a) ratio of water vapor to dry air (CART Raman Lidar Mixing Ratio Data); (b) relative humidity (CART Raman Lidar RH Data); and (c) the total atmospheric water vapor contained in a vertical column of unit cross- sectional area extending from the surface to the top of the atmosphere (precipitable water vapor). Credit: David Turner, University of Wisconsin.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "3d/0e/1cad492e198525293edf9de90b66/our_changing_planet_2004-2005_4_20090708_1142279828.jpg",
+            "href": "http://data.globalchange.gov/assets/3d/0e/1cad492e198525293edf9de90b66/our_changing_planet_2004-2005_4_20090708_1142279828.jpg",
+            "identifier": "6d847a5c-daa4-44d6-998e-3171ec77a1bd",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "f8a4d745ffb6993be4cda0ca0aa64bd9b3e488f0",
+            "size": 97399,
+            "thumbnail": "3d/0e/1cad492e198525293edf9de90b66/.thumb-6d847a5c-daa4-44d6-998e-3171ec77a1bd.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/3d/0e/1cad492e198525293edf9de90b66/.thumb-6d847a5c-daa4-44d6-998e-3171ec77a1bd.png",
+            "uri": "/file/6d847a5c-daa4-44d6-998e-3171ec77a1bd",
+            "url": "/assets/3d/0e/1cad492e198525293edf9de90b66/our_changing_planet_2004-2005_4_20090708_1142279828.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2004and2005/figure/water-vapor-over-arm-southern-great-plains-site.json",
+    "identifier": "water-vapor-over-arm-southern-great-plains-site",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2004and2005",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Water Vapor over ARM Southern Great Plains Site",
+    "uri": "/report/ccsp-ocpfy2004and2005/figure/water-vapor-over-arm-southern-great-plains-site",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

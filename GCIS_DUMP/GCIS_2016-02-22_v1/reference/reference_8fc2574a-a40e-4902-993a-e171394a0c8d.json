@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2012",
+        "Author": "U.S. Census Bureau,",
+        "Title": "Table 1. Urban and Rural Population: 1900 to 1990",
+        "URL": "http://www.census.gov/population/censusdata/urpop0090.txt",
+        "Year": "1995",
+        "_chapter": "[\"Ch. 13: Land Use and Land Cover Change FINAL\"]",
+        "_record_number": "3121",
+        "_uuid": "8fc2574a-a40e-4902-993a-e171394a0c8d",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/85cddc44-daab-4784-bcd5-718df0180b1f",
+    "href": "http://data.globalchange.gov/reference/8fc2574a-a40e-4902-993a-e171394a0c8d.json",
+    "identifier": "8fc2574a-a40e-4902-993a-e171394a0c8d",
+    "uri": "/reference/8fc2574a-a40e-4902-993a-e171394a0c8d"
+}

@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "3",
+        "Author": "NRC,",
+        "Conference Location": "Washington, D.C.",
+        "Conference Name": "Roundtable on Science and Technology for Sustainability",
+        "Date": "May 24-25, 2004",
+        "Editor": "Clark, W.; Holliday, L.; Roundtable on Science and Technology for Sustainability; Policy and Global Affairs; National Research Council",
+        "ISBN": "0-309-10185-9",
+        "Pages": "134",
+        "Publisher": "National Research Council, National Academies Press",
+        "Title": "Linking knowledge with action for sustainable development: The role of program management - summary of a workshop",
+        "URL": "http://www.nap.edu/catalog.php?record_id=11652",
+        "Year of Conference": "2006",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "2288",
+        "_uuid": "e3ba61cf-d205-4290-aa3d-0b5d3644085c",
+        "reftype": "Conference Proceedings"
+    },
+    "child_publication": "/report/nrc-linkingknowledge-2006",
+    "href": "http://data.globalchange.gov/reference/e3ba61cf-d205-4290-aa3d-0b5d3644085c.json",
+    "identifier": "e3ba61cf-d205-4290-aa3d-0b5d3644085c",
+    "uri": "/reference/e3ba61cf-d205-4290-aa3d-0b5d3644085c"
+}

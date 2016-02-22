@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Between 1979 (left panel) and 2003 (right panel), Arctic perennial sea ice has been decreasing at a rate of 9% per decade. The lefthand image shows the minimum sea ice concentration for the year 1979, and the righthand image shows the minimum sea ice concentration in 2003. The data used to create these images were collected by the Defense Meteorological Satellite Program (DMSP). Credit: NASA Goddard Space Flight Center.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "78/63/8a9568897a32b446af2e11b1e936/our_changing_planet_2004-2005_28_20090708_1324011517.jpg",
+            "href": "http://data.globalchange.gov/assets/78/63/8a9568897a32b446af2e11b1e936/our_changing_planet_2004-2005_28_20090708_1324011517.jpg",
+            "identifier": "43a8b7b3-8383-4bc5-ac8d-c42f4af7d6bc",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "798e00876b063a408c02116539736c58a1816404",
+            "size": 69674,
+            "thumbnail": "78/63/8a9568897a32b446af2e11b1e936/.thumb-43a8b7b3-8383-4bc5-ac8d-c42f4af7d6bc.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/78/63/8a9568897a32b446af2e11b1e936/.thumb-43a8b7b3-8383-4bc5-ac8d-c42f4af7d6bc.png",
+            "uri": "/file/43a8b7b3-8383-4bc5-ac8d-c42f4af7d6bc",
+            "url": "/assets/78/63/8a9568897a32b446af2e11b1e936/our_changing_planet_2004-2005_28_20090708_1324011517.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2004and2005/figure/arctic-perennial-sea-ice-2003.json",
+    "identifier": "arctic-perennial-sea-ice-2003",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2004and2005",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Arctic Perennial Sea Ice, 2003",
+    "uri": "/report/ccsp-ocpfy2004and2005/figure/arctic-perennial-sea-ice-2003",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

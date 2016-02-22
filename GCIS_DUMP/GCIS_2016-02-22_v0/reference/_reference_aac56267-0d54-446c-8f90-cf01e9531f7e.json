@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "PADEP,",
+        "Institution": "Pennsylvania Department of Environmental Protection",
+        "Pages": "4",
+        "Title": "Marcellus shale fact sheet",
+        "URL": "http://www.elibrary.dep.state.pa.us/dsweb/Get/Document-85899/0100-FS-DEP4217.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 10: Energy Water Land FINAL\"]",
+        "_record_number": "3968",
+        "_uuid": "aac56267-0d54-446c-8f90-cf01e9531f7e",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/padeptenvprotec-marcellus-2011",
+    "href": "http://data.globalchange.gov/reference/aac56267-0d54-446c-8f90-cf01e9531f7e.json",
+    "identifier": "aac56267-0d54-446c-8f90-cf01e9531f7e",
+    "uri": "/reference/aac56267-0d54-446c-8f90-cf01e9531f7e"
+}

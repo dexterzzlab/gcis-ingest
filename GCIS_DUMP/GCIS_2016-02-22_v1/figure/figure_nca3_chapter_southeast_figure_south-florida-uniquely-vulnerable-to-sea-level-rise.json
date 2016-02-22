@@ -1,0 +1,57 @@
+{
+    "attributes": null,
+    "caption": "Sea level rise presents major challenges to South Florida\u2019s existing coastal water management system due\r\n    to a combination of increasingly urbanized areas, aging flood control facilities, flat topography, and porous limestone\r\n    aquifers. For instance, South Florida\u2019s freshwater well field protection areas (left map: pink areas) lie\r\n    close to the current interface between saltwater and freshwater (red line), which will shift inland with rising sea\r\n    level, affectingwater managers\u2019 ability to draw drinking water from current\r\n    resources. Coastal water control structures (right map: yellow circles) that were originally built about 60 years ago at\r\n    the ends of drainage canals to keep saltwater out and to provide flood protection to urbanized areas along the coast are now\r\n    threatened by sea level rise. Even today, residents in some areas such as Miami Beach are experiencing seawater flooding their\r\n    streets (lower photo). (Maps from The South Florida Water Management\r\n    District.<tbib>0a764a80-1238-4980-a5e3-bdd348124cc4</tbib> Photo credit: Luis Espinoza,\r\n    Miami-Dade County Department of Regulatory and Economic Resources).",
+    "chapter": {
+        "doi": "10.7930/J0NP22CB",
+        "identifier": "southeast",
+        "number": 17,
+        "report_identifier": "nca3",
+        "sort_key": 170,
+        "title": "Southeast and the Caribbean",
+        "url": "http://nca2014.globalchange.gov/report/regions/southeast"
+    },
+    "chapter_identifier": "southeast",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "89/77/a92eaac2117cd53551797518867a/SE_florida-uniquely-vulnerable-slr_V6.png",
+            "href": "http://data.globalchange.gov/assets/89/77/a92eaac2117cd53551797518867a/SE_florida-uniquely-vulnerable-slr_V6.png",
+            "identifier": "49746504-db5a-4397-8602-3681fe5c2949",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "4055b6f4a889a56f59c51861a3774d5efbd1518a",
+            "size": 514902,
+            "thumbnail": "89/77/a92eaac2117cd53551797518867a/.thumb-49746504-db5a-4397-8602-3681fe5c2949.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/89/77/a92eaac2117cd53551797518867a/.thumb-49746504-db5a-4397-8602-3681fe5c2949.png",
+            "uri": "/file/49746504-db5a-4397-8602-3681fe5c2949",
+            "url": "/assets/89/77/a92eaac2117cd53551797518867a/SE_florida-uniquely-vulnerable-slr_V6.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/southeast/figure/south-florida-uniquely-vulnerable-to-sea-level-rise.json",
+    "identifier": "south-florida-uniquely-vulnerable-to-sea-level-rise",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 8,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/0a764a80-1238-4980-a5e3-bdd348124cc4.json",
+            "uri": "/reference/0a764a80-1238-4980-a5e3-bdd348124cc4"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "South Florida: Uniquely Vulnerable to Sea Level Rise",
+    "uri": "/report/nca3/chapter/southeast/figure/south-florida-uniquely-vulnerable-to-sea-level-rise",
+    "url": "http://nca2014.globalchange.gov/report/regions/southeast/graphics/south-florida-uniquely-vulnerable-sea-level-rise",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

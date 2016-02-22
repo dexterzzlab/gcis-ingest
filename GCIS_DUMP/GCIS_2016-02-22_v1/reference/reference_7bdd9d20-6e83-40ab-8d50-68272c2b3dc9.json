@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Carter, Lynne M.\rJones, James W.\rBerry, Leonard\rBurkett, Virginia\rMurley, James F.\rObeysekera, Jayantha\rSchramm, Paul J.\rWear, David",
+        "Book Title": "Climate Change Impacts in the United States: The Third National Climate Assessment",
+        "DOI": "(doi)",
+        "Editor": "Melillo, Jerry M.\rTerese (T.C.) Richmond,\rYohe, Gary W.",
+        "Pages": "17-1\u2013nn",
+        "Place Published": "Washington, DC",
+        "Publisher": "U.S. Global Change Research Program",
+        "Reviewer": "7bdd9d20-6e83-40ab-8d50-68272c2b3dc9",
+        "Title": "Ch. 17: Southeast and the Caribbean",
+        "URL": "http://nca2014.globalchange.gov/report/regions/southeast",
+        "Year": "2014",
+        "_chapter": "[\"Ch. 0: About this Report FINAL\"]",
+        "_record_number": "4727",
+        "_uuid": "7bdd9d20-6e83-40ab-8d50-68272c2b3dc9",
+        "reftype": "Book Section"
+    },
+    "child_publication": null,
+    "href": "http://data.globalchange.gov/reference/7bdd9d20-6e83-40ab-8d50-68272c2b3dc9.json",
+    "identifier": "7bdd9d20-6e83-40ab-8d50-68272c2b3dc9",
+    "uri": "/reference/7bdd9d20-6e83-40ab-8d50-68272c2b3dc9"
+}

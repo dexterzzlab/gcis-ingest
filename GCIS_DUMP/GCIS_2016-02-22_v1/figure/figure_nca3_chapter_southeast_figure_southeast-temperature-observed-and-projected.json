@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "Observed annual average temperature for the Southeast and projected temperatures assuming substantial emissions reductions (lower emissions, B1) and assuming continued growth in emissions (higher emissions, A2).<tbib>b50d0bc7-8731-41e7-861c-b88b678f51d0</tbib> For each emissions scenario, shading shows the range of projections and the line shows a central estimate. The projections were referenced to observed temperatures for the period 1901-1960. The region warmed during the early part of last century, cooled for a few decades, and is now warming again. The lack of an overall upward trend over the entire period of 1900-2012 is unusual compared to the rest of the U.S. and the globe. This feature has been dubbed the \u201cwarming hole\u201d and has been the subject of considerable research, although a conclusive cause has not been identified. (Figure source: adapted from Kunkel et al. 2013<tbib>b50d0bc7-8731-41e7-861c-b88b678f51d0</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0NP22CB",
+        "identifier": "southeast",
+        "number": 17,
+        "report_identifier": "nca3",
+        "sort_key": 170,
+        "title": "Southeast and the Caribbean",
+        "url": "http://nca2014.globalchange.gov/report/regions/southeast"
+    },
+    "chapter_identifier": "southeast",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-18T14:21:00",
+    "files": [
+        {
+            "file": "ec/58/7e8e075effdbf414d77c16881bc0/SE_A1___B2_temperature_graphs_12908_v6.png",
+            "href": "http://data.globalchange.gov/assets/ec/58/7e8e075effdbf414d77c16881bc0/SE_A1___B2_temperature_graphs_12908_v6.png",
+            "identifier": "665644e4-fd99-4fcd-ae48-2609ec48e6e8",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "4ffba142ff7692a7f15cb7367a5f83aa92c320b7",
+            "size": 32636,
+            "thumbnail": "ec/58/7e8e075effdbf414d77c16881bc0/.thumb-665644e4-fd99-4fcd-ae48-2609ec48e6e8.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/ec/58/7e8e075effdbf414d77c16881bc0/.thumb-665644e4-fd99-4fcd-ae48-2609ec48e6e8.png",
+            "uri": "/file/665644e4-fd99-4fcd-ae48-2609ec48e6e8",
+            "url": "/assets/ec/58/7e8e075effdbf414d77c16881bc0/SE_A1___B2_temperature_graphs_12908_v6.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/southeast/figure/southeast-temperature-observed-and-projected.json",
+    "identifier": "southeast-temperature-observed-and-projected",
+    "images": [
+        {
+            "attributes": "Southeast, temperature, observed, projected",
+            "create_dt": "2013-07-02T09:34:00",
+            "description": null,
+            "identifier": "a9caeffd-10ef-4361-a351-499a8f2d9840",
+            "lat_max": "39.62",
+            "lat_min": "24.50",
+            "lon_max": "-75.22",
+            "lon_min": "-94.70",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2100-12-31T23:59:59",
+            "time_start": "1900-01-01T00:00:00",
+            "title": "Southeast Temperature: Observed and Projected",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 3,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Regional Climate Trends and Scenarios for the U.S. National Climate Assessment: Part 2. Climate of the Southeast U.S. NOAA Technical Report 142-2",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/noaa-techreport-nesdis-142-2"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/b50d0bc7-8731-41e7-861c-b88b678f51d0.json",
+            "uri": "/reference/b50d0bc7-8731-41e7-861c-b88b678f51d0"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "adapted from Kunkel et al. 2013 <tbib>b50d0bc7-8731-41e7-861c-b88b678f51d0</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Southeast Temperature: Observed and Projected",
+    "uri": "/report/nca3/chapter/southeast/figure/southeast-temperature-observed-and-projected",
+    "url": "http://nca2014.globalchange.gov/highlights/regions/southeast/graphics/southeast-temperature-observed-and-projected",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

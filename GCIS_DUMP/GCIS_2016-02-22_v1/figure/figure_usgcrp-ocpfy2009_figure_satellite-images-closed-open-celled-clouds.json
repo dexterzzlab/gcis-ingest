@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "The width of the closed-cell (a) and open-cell (b) clouds images is approximately 200 km and 280 km, respectively. In closed cells, moist air rises in the center to form the cloud, then air descends at the edges to form the clearing. In open cells, the opposite happens. Credit: M.J. Garay, UCLA (reproduced from the Bulletin of the American Meteorological Society with permission from the American Meteorological Society).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "eb/8c/9f2336bb4c9ed2670575a50819c6/Figure_4.png",
+            "href": "http://data.globalchange.gov/assets/eb/8c/9f2336bb4c9ed2670575a50819c6/Figure_4.png",
+            "identifier": "0211d481-3dcf-4fcb-92e2-9313a1b8d379",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "31f22c8705a5622f7f14ba28666cab9332c5d278",
+            "size": 427393,
+            "thumbnail": "eb/8c/9f2336bb4c9ed2670575a50819c6/.thumb-0211d481-3dcf-4fcb-92e2-9313a1b8d379.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/eb/8c/9f2336bb4c9ed2670575a50819c6/.thumb-0211d481-3dcf-4fcb-92e2-9313a1b8d379.png",
+            "uri": "/file/0211d481-3dcf-4fcb-92e2-9313a1b8d379",
+            "url": "/assets/eb/8c/9f2336bb4c9ed2670575a50819c6/Figure_4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2009/figure/satellite-images-closed-open-celled-clouds.json",
+    "identifier": "satellite-images-closed-open-celled-clouds",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2009",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Satellite Images of Closed- and Open-Celled Clouds",
+    "uri": "/report/usgcrp-ocpfy2009/figure/satellite-images-closed-open-celled-clouds",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

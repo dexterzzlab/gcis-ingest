@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Fingar, Thomas",
+        "Date": "25 June 2008",
+        "Institution": "U.S. Office of the Director of National Intelligence",
+        "Pages": "21",
+        "Series Title": "Testimony before the House Permanent Select Committee on Intelligence and House Select Committee on Energy Independence and Global Warming",
+        "Title": "National Intelligence Assessment on the National Security Implications of Global Climate Change to 2030",
+        "URL": "http://www.fas.org/irp/congress/2008_hr/062508fingar.pdf",
+        "Year": "2008",
+        "_chapter": "[\"Appendix 6: Future Topics FINAL\"]",
+        "_record_number": "4649",
+        "_uuid": "1ea1e3dd-19ef-49ad-b803-597d087a65e9",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/odni-nia-2008",
+    "href": "http://data.globalchange.gov/reference/1ea1e3dd-19ef-49ad-b803-597d087a65e9.json",
+    "identifier": "1ea1e3dd-19ef-49ad-b803-597d087a65e9",
+    "uri": "/reference/1ea1e3dd-19ef-49ad-b803-597d087a65e9"
+}

@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2013",
+        "Author": "TFS,",
+        "Publisher": "Texas A&M Forest Sevice",
+        "Title": "Wildland Urban Interface: Texas Firewise Communities",
+        "URL": "http://texasforestservice.tamu.edu/main/article.aspx?id=1602",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "4441",
+        "_uuid": "68d2ce9c-7bb9-44c2-9b21-3ff2f01e7196",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/98eb1477-4919-4892-91de-333394c994d5",
+    "href": "http://data.globalchange.gov/reference/68d2ce9c-7bb9-44c2-9b21-3ff2f01e7196.json",
+    "identifier": "68d2ce9c-7bb9-44c2-9b21-3ff2f01e7196",
+    "uri": "/reference/68d2ce9c-7bb9-44c2-9b21-3ff2f01e7196"
+}

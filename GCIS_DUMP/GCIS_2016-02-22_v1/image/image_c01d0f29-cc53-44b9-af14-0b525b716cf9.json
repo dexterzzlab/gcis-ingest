@@ -1,0 +1,86 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/1019.json",
+            "id": 1019,
+            "organization": {
+                "country_code": "US",
+                "identifier": "kiksapa-consulting-llc",
+                "name": "Kiksapa Consulting, LLC",
+                "organization_type_identifier": "commercial",
+                "url": "http://www.kiksapa.com/"
+            },
+            "organization_uri": "/organization/kiksapa-consulting-llc",
+            "person": {
+                "first_name": "T.M. Bull",
+                "id": 897,
+                "last_name": "Bennett",
+                "middle_name": null,
+                "orcid": null,
+                "url": null
+            },
+            "person_id": 897,
+            "person_uri": "/person/897",
+            "role_type_identifier": "convening_lead_author",
+            "uri": "/contributor/1019"
+        }
+    ],
+    "create_dt": "2012-10-27T12:14:17",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Dramatic reductions in Arctic sea ice and changes in its timing and composition affect the entire food web, including many Inupiaq communities that continue to rely heavily on subsistence hunting and fishing. (Figure source: NOAA NCDC).",
+            "chapter_identifier": "tribal-indigenous-native-lands-resources",
+            "create_dt": "2012-10-27T12:14:17",
+            "identifier": "arctic-marine-food-web",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 5,
+            "report_identifier": "nca3",
+            "source_citation": "NOAA NCDC",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Arctic Marine Food Web",
+            "url": "http://nca2014.globalchange.gov/report/sectors/indigenous-peoples/graphics/arctic-marine-food-web",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "32/10/22e897696f08ce8c88d208506bc4/tribal_arctic_food_web_14302_v4.png",
+            "href": "http://data.globalchange.gov/assets/32/10/22e897696f08ce8c88d208506bc4/tribal_arctic_food_web_14302_v4.png",
+            "identifier": "dd9adb28-bd18-4af5-a0cc-b5ae73648459",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "370fd362722bccdfba6e0fc4f14d3cad1c44408b",
+            "size": 876544,
+            "thumbnail": "32/10/22e897696f08ce8c88d208506bc4/.thumb-dd9adb28-bd18-4af5-a0cc-b5ae73648459.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/32/10/22e897696f08ce8c88d208506bc4/.thumb-dd9adb28-bd18-4af5-a0cc-b5ae73648459.png",
+            "uri": "/file/dd9adb28-bd18-4af5-a0cc-b5ae73648459",
+            "url": "/assets/32/10/22e897696f08ce8c88d208506bc4/tribal_arctic_food_web_14302_v4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/c01d0f29-cc53-44b9-af14-0b525b716cf9.json",
+    "identifier": "c01d0f29-cc53-44b9-af14-0b525b716cf9",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Arctic Marine Food Web",
+    "uri": "/image/c01d0f29-cc53-44b9-af14-0b525b716cf9",
+    "url": null,
+    "usage_limits": null
+}

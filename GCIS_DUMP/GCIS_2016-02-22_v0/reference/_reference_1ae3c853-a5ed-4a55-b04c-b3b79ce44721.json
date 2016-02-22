@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Konikow, L.F.",
+        "DOI": "10.1029/2011GL048604",
+        "ISSN": "1944-8007",
+        "Issue": "17",
+        "Journal": "Geophysical Research Letters",
+        "Pages": "L17401",
+        "Title": "Contribution of global groundwater depletion since 1900 to sea-level rise",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2011GL048604/pdf",
+        "Volume": "38",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\",\"RG 4 Great Plains\"]",
+        "_record_number": "459",
+        "_uuid": "1ae3c853-a5ed-4a55-b04c-b3b79ce44721",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2011GL048604",
+    "href": "http://data.globalchange.gov/reference/1ae3c853-a5ed-4a55-b04c-b3b79ce44721.json",
+    "identifier": "1ae3c853-a5ed-4a55-b04c-b3b79ce44721",
+    "uri": "/reference/1ae3c853-a5ed-4a55-b04c-b3b79ce44721"
+}

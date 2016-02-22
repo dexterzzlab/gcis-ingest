@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Morton, D.C.\rRoessing, M.E.\rCamp, A.E.\rTyrrell, M.L.",
+        "Institution": "Yale University, School of Forestry and Environmental Studies, Global Institute of Sustainable Forestry",
+        "Pages": "59",
+        "Place Published": "New Haven, CT",
+        "Title": "Assessing the Environmental, Social, and Economic Impacts of Wildfire",
+        "URL": "http://environment.yale.edu/gisf/files/pdfs/wildfire_report.pdf",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "2092",
+        "_uuid": "a0e75d55-c3b6-4a44-805b-ef3460afd925",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/yale-assessing-2003",
+    "href": "http://data.globalchange.gov/reference/a0e75d55-c3b6-4a44-805b-ef3460afd925.json",
+    "identifier": "a0e75d55-c3b6-4a44-805b-ef3460afd925",
+    "uri": "/reference/a0e75d55-c3b6-4a44-805b-ef3460afd925"
+}

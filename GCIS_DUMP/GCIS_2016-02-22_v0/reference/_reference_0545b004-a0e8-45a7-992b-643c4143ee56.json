@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "CBO,",
+        "Institution": "Congressional Budget Office",
+        "Pages": "12",
+        "Place Published": "Washington, D.C.",
+        "Title": "The Costs of Reducing Greenhouse-Gas Emissions",
+        "URL": "http://www.cbo.gov/sites/default/files/cbofiles/ftpdocs/104xx/doc10458/11-23-greenhousegasemissions_brief.pdf",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "4080",
+        "_uuid": "0545b004-a0e8-45a7-992b-643c4143ee56",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/cbo-costs-2009",
+    "href": "http://data.globalchange.gov/reference/0545b004-a0e8-45a7-992b-643c4143ee56.json",
+    "identifier": "0545b004-a0e8-45a7-992b-643c4143ee56",
+    "uri": "/reference/0545b004-a0e8-45a7-992b-643c4143ee56"
+}

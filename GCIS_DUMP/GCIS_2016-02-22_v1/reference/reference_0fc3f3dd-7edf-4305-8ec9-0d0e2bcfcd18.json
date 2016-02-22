@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Shepard, C.\rAgostini, V.N.\rGilmer, B.\rAllen, T.\rStone, J.\rBrooks, W.\rBeck, M.W.",
+        "DOI": "10.1007/s11069-011-0046-8",
+        "Issue": "2",
+        "Journal": "Natural Hazards",
+        "Pages": "727-745",
+        "Title": "Assessing future risk: Quantifying the effects of sea level rise on storm surge risk for the southern shores of Long Island, New York",
+        "Volume": "60",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "2836",
+        "_uuid": "0fc3f3dd-7edf-4305-8ec9-0d0e2bcfcd18",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s11069-011-0046-8",
+    "href": "http://data.globalchange.gov/reference/0fc3f3dd-7edf-4305-8ec9-0d0e2bcfcd18.json",
+    "identifier": "0fc3f3dd-7edf-4305-8ec9-0d0e2bcfcd18",
+    "uri": "/reference/0fc3f3dd-7edf-4305-8ec9-0d0e2bcfcd18"
+}

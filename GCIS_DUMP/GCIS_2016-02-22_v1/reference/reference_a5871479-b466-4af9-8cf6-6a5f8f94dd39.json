@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "3",
+        "Author": "Collins, G.\rRedsteer, M.H.\rHayes, M.\rSvoboda, M.\rFerguson, D.\rPulwarty, R.\rKluck, D.\rAlvord, C.",
+        "Conference Location": "Jackson Lodge, Grand Teton National Park, WY",
+        "Conference Name": "Climate Change, Drought and Early Warning on Western Native Lands Workshop",
+        "Date": "9-11, June 2009",
+        "Pages": "7",
+        "Title": "Climate change, drought and early warning on western Native lands workshop report. National Integrated Drought Information System",
+        "URL": "http://www.drought.gov/workshops/tribal/NIDIS_Jackson_Hole_Report.pdf",
+        "Year of Conference": "2010",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\"]",
+        "_record_number": "337",
+        "_uuid": "a5871479-b466-4af9-8cf6-6a5f8f94dd39",
+        "reftype": "Conference Proceedings"
+    },
+    "child_publication": "/report/nidis-2010-climate-change-drought",
+    "href": "http://data.globalchange.gov/reference/a5871479-b466-4af9-8cf6-6a5f8f94dd39.json",
+    "identifier": "a5871479-b466-4af9-8cf6-6a5f8f94dd39",
+    "uri": "/reference/a5871479-b466-4af9-8cf6-6a5f8f94dd39"
+}

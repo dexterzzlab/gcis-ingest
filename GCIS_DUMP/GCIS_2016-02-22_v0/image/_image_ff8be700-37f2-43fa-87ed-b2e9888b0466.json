@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-03-20T09:20:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Agriculture is in yellow, forests are shades of green, shrublands are gray, and urban areas are in red. The river is used for hydropower generation, flood control, agriculture irrigation, recreation, support of forest and shrubland ecosystems, and fish and wildlife habitat. Climate change may impact the timing and supply of the water resources, affecting the multiple uses of this river system. (Figure source: Northwest Habitat Institute 1999).",
+            "chapter_identifier": "water-energy-land-use",
+            "create_dt": "2014-03-20T09:20:00",
+            "identifier": "the-columbia-river-basin-land-use-and-land-cover",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 10,
+            "report_identifier": "nca3",
+            "source_citation": "Northwest Habitat Institute 1999",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "The Columbia River Basin Land Use and Land Cover",
+            "url": "http://nca2014.globalchange.gov/report/sectors/energy-water-and-land/graphics/columbia-river-basin-land-use-and-land-cover",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "19/63/7e1977dea93b2d9b8acbcb139a10/wel_columbia_river_basin_v2.png",
+            "href": "http://data.globalchange.gov/assets/19/63/7e1977dea93b2d9b8acbcb139a10/wel_columbia_river_basin_v2.png",
+            "identifier": "eb7e0a27-8278-4dc0-b751-859de3dd5c9e",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "8fd59473f7e04e77c0521c71c9a90da6231b97ba",
+            "size": 1967368,
+            "thumbnail": "19/63/7e1977dea93b2d9b8acbcb139a10/.thumb-eb7e0a27-8278-4dc0-b751-859de3dd5c9e.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/19/63/7e1977dea93b2d9b8acbcb139a10/.thumb-eb7e0a27-8278-4dc0-b751-859de3dd5c9e.png",
+            "uri": "/file/eb7e0a27-8278-4dc0-b751-859de3dd5c9e",
+            "url": "/assets/19/63/7e1977dea93b2d9b8acbcb139a10/wel_columbia_river_basin_v2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/ff8be700-37f2-43fa-87ed-b2e9888b0466.json",
+    "identifier": "ff8be700-37f2-43fa-87ed-b2e9888b0466",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "The Columbia River Basin Land Use and Land Cover",
+    "uri": "/image/ff8be700-37f2-43fa-87ed-b2e9888b0466",
+    "url": null,
+    "usage_limits": null
+}

@@ -1,0 +1,8 @@
+{
+    "description": "Imaging radar (SAR)",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/phased-array-type-l-band-synthetic-aperture-radar.json",
+    "identifier": "phased-array-type-l-band-synthetic-aperture-radar",
+    "name": "Phased Array type L-band Synthetic Aperture Radar",
+    "uri": "/instrument/phased-array-type-l-band-synthetic-aperture-radar"
+}

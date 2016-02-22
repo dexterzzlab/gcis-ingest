@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "This product provides the spatial pattern of high-latitude summer (June to August) surface warming (in \u00b0C over 44 years, 1961 to 2004). The pattern of temperature increase was estimated from monthly anomalies of surface air temperature from land and sea stations throughout the Northern Hemisphere, updated from Chapman and Walsh (1993). Credit: F.S. Chapin, III, University of Alaska\u2013Fairbanks (reproduced with permission from Science).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "0a/75/80a7705956a86216791d6c6d0c5a/our_changing_planet_2007_69_20090708_1231923485.jpg",
+            "href": "http://data.globalchange.gov/assets/0a/75/80a7705956a86216791d6c6d0c5a/our_changing_planet_2007_69_20090708_1231923485.jpg",
+            "identifier": "1bc567a0-c1e9-4ae0-a0fe-ac80ba537162",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "dd759bc62ddedf7af35ba53ec358a2d41b515f20",
+            "size": 49558,
+            "thumbnail": "0a/75/80a7705956a86216791d6c6d0c5a/.thumb-1bc567a0-c1e9-4ae0-a0fe-ac80ba537162.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/0a/75/80a7705956a86216791d6c6d0c5a/.thumb-1bc567a0-c1e9-4ae0-a0fe-ac80ba537162.png",
+            "uri": "/file/1bc567a0-c1e9-4ae0-a0fe-ac80ba537162",
+            "url": "/assets/0a/75/80a7705956a86216791d6c6d0c5a/our_changing_planet_2007_69_20090708_1231923485.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/surface-air-temperature-change-1961-2004.json",
+    "identifier": "surface-air-temperature-change-1961-2004",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Surface Air Temperature Change, 1961-2004",
+    "uri": "/report/ccsp-ocpfy2007/figure/surface-air-temperature-change-1961-2004",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

@@ -1,0 +1,15 @@
+{
+    "computing_environment": null,
+    "data_usage": null,
+    "duration": null,
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/501f677c-indicator-forest-cover-process.json",
+    "identifier": "501f677c-indicator-forest-cover-process",
+    "methodology": "NLCD 2011 data was downloaded from http://gisdata.usgs.gov/TDDS/DownloadFile.php?TYPE=nlcd2011&FNAME=nlcd_2011_landcover_2011_edition_2014_03_31.zip. Mapped directly from source files using cover classes:\r\n\r\n11\tOpen Water - areas of open water, generally with less than 25% cover of vegetation or soil.  \r\n31\tBarren Land (Rock/Sand/Clay) - areas of bedrock, desert pavement, scarps, talus, slides, volcanic material, glacial debris, sand dunes, strip mines, gravel pits and other accumulations of earthen material. Generally, vegetation accounts for less than 15% of total cover. Forest\t   \r\n41\tDeciduous Forest - areas dominated by trees generally greater than 5 meters tall, and greater than 20% of total vegetation cover. More than 75% of the tree species shed foliage simultaneously in response to seasonal change.  42\tEvergreen Forest - areas dominated by trees generally greater than 5 meters tall, and greater than 20% of total vegetation cover. More than 75% of the tree species maintain their leaves all year. Canopy is never without green foliage.  \r\n43\tMixed Forest - areas dominated by trees generally greater than 5 meters tall, and greater than 20% of total vegetation cover. Neither deciduous nor evergreen species are greater than 75% of total tree cover.\t   \r\n90\tWoody Wetlands - areas where forest or shrubland vegetation accounts for greater than 20% of vegetative cover and the soil or substrate is periodically saturated with or covered with water.",
+    "notes": null,
+    "output_artifacts": null,
+    "software": "ArcGIS",
+    "start_time": null,
+    "uri": "/activity/501f677c-indicator-forest-cover-process",
+    "visualization_software": null
+}

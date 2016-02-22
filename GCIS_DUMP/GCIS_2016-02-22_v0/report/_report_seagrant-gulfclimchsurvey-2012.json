@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/seagrant-gulfclimchsurvey-2012.json",
+    "identifier": "seagrant-gulfclimchsurvey-2012",
+    "in_library": null,
+    "publication_year": 2012,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "2012 Gulf Coast Climate Change Survey Executive Summary",
+    "topic": null,
+    "uri": "/report/seagrant-gulfclimchsurvey-2012",
+    "url": "http://www.southernclimate.org/documents/resources/Climate_change_perception_survey_summary_NOAA_Sea_Grant_2012.pdf"
+}

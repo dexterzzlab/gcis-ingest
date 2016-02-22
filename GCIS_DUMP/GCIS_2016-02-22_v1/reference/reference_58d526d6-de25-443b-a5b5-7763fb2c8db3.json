@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Starr, Chauncey",
+        "DOI": "10.1126/science.165.3899.1232",
+        "ISSN": "0036-8075",
+        "Journal": "Science",
+        "Pages": "1232-1238",
+        "Title": "Social benefit versus technological risk. What is our society willing to pay for safety?",
+        "Volume": "165",
+        "Year": "1969",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4464",
+        "_uuid": "58d526d6-de25-443b-a5b5-7763fb2c8db3",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.165.3899.1232",
+    "href": "http://data.globalchange.gov/reference/58d526d6-de25-443b-a5b5-7763fb2c8db3.json",
+    "identifier": "58d526d6-de25-443b-a5b5-7763fb2c8db3",
+    "uri": "/reference/58d526d6-de25-443b-a5b5-7763fb2c8db3"
+}

@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Halpern, J.\rTramontin, M.",
+        "Place Published": "Belmont, CA",
+        "Publisher": "Thomson Brooks/Cole",
+        "Reviewer": "465e189f-798c-4db7-a381-6c2cb6f9c565",
+        "Title": "Disaster Mental Health: Theory and Practice",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "526",
+        "_uuid": "465e189f-798c-4db7-a381-6c2cb6f9c565",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/d9e5e4d5-7a2f-46bc-847a-c09a85f1e6be",
+    "href": "http://data.globalchange.gov/reference/465e189f-798c-4db7-a381-6c2cb6f9c565.json",
+    "identifier": "465e189f-798c-4db7-a381-6c2cb6f9c565",
+    "uri": "/reference/465e189f-798c-4db7-a381-6c2cb6f9c565"
+}

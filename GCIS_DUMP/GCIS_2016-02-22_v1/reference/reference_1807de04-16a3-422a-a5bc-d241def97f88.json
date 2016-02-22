@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "GAO,",
+        "Institution": "U.S. Government Accountability Office",
+        "Pages": "53",
+        "Title": "Alaska Native Villages: Limited Progress Has Been Made on Relocating Villages Threatened By Flooding and Erosion. Government Accountability Office Report GAO-09-551",
+        "URL": "http://www.gao.gov/new.items/d09551.pdf",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\",\"Ch. 28: Adaptation FINAL\",\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "69",
+        "_uuid": "1807de04-16a3-422a-a5bc-d241def97f88",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/gao-09-551",
+    "href": "http://data.globalchange.gov/reference/1807de04-16a3-422a-a5bc-d241def97f88.json",
+    "identifier": "1807de04-16a3-422a-a5bc-d241def97f88",
+    "uri": "/reference/1807de04-16a3-422a-a5bc-d241def97f88"
+}

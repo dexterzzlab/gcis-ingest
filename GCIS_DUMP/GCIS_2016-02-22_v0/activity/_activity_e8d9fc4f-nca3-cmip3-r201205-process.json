@@ -1,0 +1,15 @@
+{
+    "computing_environment": "Linux (Red Hat Enterprise Linux Server release 6.4)",
+    "data_usage": "Multi-model mean CMIP3 (higher emissions scenario) temperature projections were plotted for the United States, for 2071-2099 relative to 1970-1999.",
+    "duration": "100 hours",
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/e8d9fc4f-nca3-cmip3-r201205-process.json",
+    "identifier": "e8d9fc4f-nca3-cmip3-r201205-process",
+    "methodology": "1. For each model at each grid point, the mean annual temperature under the higher emissions scenario (A2) was calculated.\r\n2. For each model, these data were re-gridded to a common grid.\r\n3. For each model at each grid point, the mean temperature under the higher emissions scenario (A2) was calculated for two periods: 1970-1999 and 2071-2099.\r\n4. At each grid point, the mean temperature for the two periods was computed by averaging the following models:\r\nCCSM3, CGCM3.1 (T47), CNRM-CM3, CSIRO-Mk3.0, ECHAM5/MPI-OM, ECHO-G, GFDL-CM2.0, GFDL-CM2.1, INM-CM3.0, IPSL-CM4, MIROC3.2 (medres), MRI-CGCM2.3.2, PCM, UKMO-HadCM3, and UKMO-HadGEM1\r\n5. At each grid point, the difference in projected temperature was calculated for 2071-2099 minus 1970-1999.\r\n6. Data were plotted for grid points in the United States.",
+    "notes": "Python",
+    "output_artifacts": "tas_sresa2_1970-1999_2071-2099_change.nc\r\ntemp_scenarios_annual.eps\r\ntemp_scenarios_annual_new_colors_darker.eps\r\ntemp_scenarios_annual_new_colors_darker.png\r\ntemp_scenarios_HI_annual.eps\r\ntemp_scenarios_HI_annual_new_colors_darker.eps\r\ntemp_scenarios_HI_annual_new_colors_darker.png\r\nconfig.py\r\nplot_annual_temp_maps.py\r\n2-8_B.png\r\nCS_projected temperature change_sres_V7.png",
+    "software": "Python (v2.7.6)",
+    "start_time": null,
+    "uri": "/activity/e8d9fc4f-nca3-cmip3-r201205-process",
+    "visualization_software": "Python (v2.7.6), Matplotlib (v1.3.1), Basemap (v1.0.7)"
+}

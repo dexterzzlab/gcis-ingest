@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Frumkin, H.\rHess, J.\rLuber, G.\rMalilay, J.\rMcGeehin, M.",
+        "DOI": "10.2105/AJPH.2007.119362",
+        "ISSN": "0090-0036",
+        "Issue": "3",
+        "Journal": "American Journal of Public Health",
+        "Pages": "435-445",
+        "Title": "Climate change: The public health response",
+        "URL": "http://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.2007.119362",
+        "Volume": "98",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "352",
+        "_uuid": "3f2402c5-22aa-4f75-861e-f6aca127cd1f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.2105/AJPH.2007.119362",
+    "href": "http://data.globalchange.gov/reference/3f2402c5-22aa-4f75-861e-f6aca127cd1f.json",
+    "identifier": "3f2402c5-22aa-4f75-861e-f6aca127cd1f",
+    "uri": "/reference/3f2402c5-22aa-4f75-861e-f6aca127cd1f"
+}

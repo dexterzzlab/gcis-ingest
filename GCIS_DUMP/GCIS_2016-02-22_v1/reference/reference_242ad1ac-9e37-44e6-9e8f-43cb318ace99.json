@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Del Genio, A.D.\rM.S. Yao\rJ. Jonas",
+        "DOI": "10.1029/2007GL030525",
+        "ISSN": "0094-8276",
+        "Issue": "16",
+        "Journal": "Geophysical Research Letters",
+        "Pages": "5",
+        "Title": "Will moist convection be stronger in a warmer climate?",
+        "URL": "http://www.agu.org/pubs/crossref/2007/2007GL030525.shtml",
+        "Volume": "34",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "1818",
+        "_uuid": "242ad1ac-9e37-44e6-9e8f-43cb318ace99",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2007GL030525",
+    "href": "http://data.globalchange.gov/reference/242ad1ac-9e37-44e6-9e8f-43cb318ace99.json",
+    "identifier": "242ad1ac-9e37-44e6-9e8f-43cb318ace99",
+    "uri": "/reference/242ad1ac-9e37-44e6-9e8f-43cb318ace99"
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Logan, J.A.\rPowell, J.A.",
+        "Issue": "3",
+        "Journal": "American Entomologist",
+        "Pages": "160-173",
+        "Title": "Ghost forests, global warming, and the mountain pine beetle (Coleoptera: Scolytidae)",
+        "URL": "http://digitalcommons.usu.edu/barkbeetles/187/",
+        "Volume": "47",
+        "Year": "2001",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "755",
+        "_uuid": "6cebef1a-87a8-4554-87d3-3ba18107dc04",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1093/ae/47.3.160",
+    "href": "http://data.globalchange.gov/reference/6cebef1a-87a8-4554-87d3-3ba18107dc04.json",
+    "identifier": "6cebef1a-87a8-4554-87d3-3ba18107dc04",
+    "uri": "/reference/6cebef1a-87a8-4554-87d3-3ba18107dc04"
+}

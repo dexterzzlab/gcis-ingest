@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/land-processes-distributed-active-archive-center.json",
+    "identifier": "land-processes-distributed-active-archive-center",
+    "name": "Land Processes Distributed Active Archive Center",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/land-processes-distributed-active-archive-center",
+    "url": "https://lpdaac.usgs.gov/"
+}

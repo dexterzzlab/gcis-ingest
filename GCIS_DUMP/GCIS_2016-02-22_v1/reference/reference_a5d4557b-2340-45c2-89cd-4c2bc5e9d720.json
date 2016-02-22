@@ -1,0 +1,31 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Alternate Journal": "Journal of water and health",
+        "Author": "Nichols, G.\rLane, C.\rAsgari, N.\rVerlander, N. Q.\rCharlett, A.",
+        "Author Address": "Environmental and Enteric Diseases Department, Health Protection Agency Centre for Infections, 61, Colindale Avenue, London, NW9 5EQ, UK. gordon.nichols@hpa.org.uk",
+        "DOI": "10.2166/wh.2009.143",
+        "Database Provider": "NLM",
+        "Date": "Mar",
+        "Epub Date": "2008/10/30",
+        "ISSN": "1477-8920 (Print); 1477-8920 (Linking)",
+        "Issue": "1",
+        "Journal": "Journal of Water Health",
+        "Keywords": "Cross-Over Studies; Disease Outbreaks; England/epidemiology; Gram-Negative Bacterial Infections/ epidemiology; Humans; Protozoan Infections/ epidemiology; Rain; Wales/epidemiology; Water Supply",
+        "Language": "eng",
+        "Pages": "1-8",
+        "Title": "Rainfall and outbreaks of drinking water related disease and in England and Wales",
+        "URL": "http://www.iwaponline.com/jwh/007/0001/0070001.pdf",
+        "UUID": "Food/water-borne disease (event), Extreme weather (event), non-US",
+        "Volume": "7",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "2217",
+        "_uuid": "a5d4557b-2340-45c2-89cd-4c2bc5e9d720",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.2166/wh.2009.143",
+    "href": "http://data.globalchange.gov/reference/a5d4557b-2340-45c2-89cd-4c2bc5e9d720.json",
+    "identifier": "a5d4557b-2340-45c2-89cd-4c2bc5e9d720",
+    "uri": "/reference/a5d4557b-2340-45c2-89cd-4c2bc5e9d720"
+}

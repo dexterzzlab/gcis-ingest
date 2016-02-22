@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Deser, C.\rPhillips, A.\rBourdette, V.\rTeng, H.",
+        "DOI": "10.1007/s00382-010-0977-x",
+        "ISSN": "0930-7575",
+        "Issue": "3-4",
+        "Journal": "Climate Dynamics",
+        "Pages": "527-546",
+        "Title": "Uncertainty in climate change projections: The role of internal variability",
+        "Volume": "38",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 23: Hawaii FINAL\",\"Appendix 3: Climate Science FINAL\",\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "1724",
+        "_uuid": "f8119757-e6b9-4434-9e12-26fb2d2a1a3b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s00382-010-0977-x",
+    "href": "http://data.globalchange.gov/reference/f8119757-e6b9-4434-9e12-26fb2d2a1a3b.json",
+    "identifier": "f8119757-e6b9-4434-9e12-26fb2d2a1a3b",
+    "uri": "/reference/f8119757-e6b9-4434-9e12-26fb2d2a1a3b"
+}

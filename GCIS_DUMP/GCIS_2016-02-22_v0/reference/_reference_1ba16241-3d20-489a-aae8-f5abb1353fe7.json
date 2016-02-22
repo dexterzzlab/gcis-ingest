@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Maslanik, James\rStroeve, Julienne\rFowler, Charles\rEmery, William",
+        "DOI": "10.1029/2011gl047735",
+        "ISSN": "1944-8007",
+        "Issue": "13",
+        "Journal": "Geophysical Research Letters",
+        "Keywords": "Arctic\rmultiyear ice\rsea ice\r0750 Sea ice\r1616 Climate variability\r1621 Cryospheric change\r1635 Oceans\r3339 Ocean/atmosphere interactions",
+        "Pages": "L13502",
+        "Title": "Distribution and trends in Arctic sea ice age through spring 2011",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2011GL047735/pdf",
+        "Volume": "38",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"RF 1\"]",
+        "_record_number": "3731",
+        "_uuid": "1ba16241-3d20-489a-aae8-f5abb1353fe7",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2011gl047735",
+    "href": "http://data.globalchange.gov/reference/1ba16241-3d20-489a-aae8-f5abb1353fe7.json",
+    "identifier": "1ba16241-3d20-489a-aae8-f5abb1353fe7",
+    "uri": "/reference/1ba16241-3d20-489a-aae8-f5abb1353fe7"
+}

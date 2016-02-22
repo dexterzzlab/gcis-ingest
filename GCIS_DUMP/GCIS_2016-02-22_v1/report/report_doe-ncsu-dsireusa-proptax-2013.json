@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/doe-ncsu-dsireusa-proptax-2013.json",
+    "identifier": "doe-ncsu-dsireusa-proptax-2013",
+    "in_library": null,
+    "publication_year": 2013,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Database of State Incentives for Renewables & Efficiency. Property Tax Incentives for Renewables",
+    "topic": null,
+    "uri": "/report/doe-ncsu-dsireusa-proptax-2013",
+    "url": "http://www.dsireusa.org/documents/summarymaps/PropertyTax_map.pdf"
+}

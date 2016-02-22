@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"42\" /><run start=\"43\" /></field></record>",
+        "Author": "Calvin, Katherine\rEdmonds, James\rBond-Lamberty, Ben\rClarke, Leon\rKim, Son H.\rKyle, Page\rSmith, Steven J.\rThomson, Allison\rWise, Marshall",
+        "DOI": "10.1016/j.eneco.2009.06.006",
+        "ISSN": "0140-9883",
+        "Issue": "Supplement 2",
+        "Journal": "Energy Economics",
+        "Keywords": "EMF22\rClimate change\rEnergy\rLand use\r450\u00a0ppm",
+        "Pages": "S107-S120",
+        "Title": "2.6: Limiting climate change to 450\u00a0ppm CO2 equivalent in the 21st century",
+        "Volume": "31",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 10: Energy Water Land FINAL\"]",
+        "_record_number": "3964",
+        "_uuid": "6829c118-f9b0-4fd2-a1e8-08bf451d6099",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.eneco.2009.06.006",
+    "href": "http://data.globalchange.gov/reference/6829c118-f9b0-4fd2-a1e8-08bf451d6099.json",
+    "identifier": "6829c118-f9b0-4fd2-a1e8-08bf451d6099",
+    "uri": "/reference/6829c118-f9b0-4fd2-a1e8-08bf451d6099"
+}

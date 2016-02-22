@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".publisher": "Nature Publishing Group",
+        ".reference_type": "0",
+        "Author": "PAGES 2K Consortium,",
+        "DOI": "10.1038/ngeo1797",
+        "ISSN": "1752-0894",
+        "Issue": "5",
+        "Journal": "Nature Geoscience",
+        "Pages": "339-346",
+        "Title": "Continental-scale temperature variability during the past two millennia",
+        "Type of Article": "Progress Article",
+        "Volume": "6",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "4263",
+        "_uuid": "89469262-7861-4aae-b33d-f8642174250e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/ngeo1797",
+    "href": "http://data.globalchange.gov/reference/89469262-7861-4aae-b33d-f8642174250e.json",
+    "identifier": "89469262-7861-4aae-b33d-f8642174250e",
+    "uri": "/reference/89469262-7861-4aae-b33d-f8642174250e"
+}

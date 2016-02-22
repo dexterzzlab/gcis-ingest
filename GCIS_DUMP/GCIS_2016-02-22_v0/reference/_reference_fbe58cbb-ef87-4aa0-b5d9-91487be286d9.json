@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Accession Number": "WOS:000222278500037",
+        "Author": "Ward, M. P.\rLevy, M.\rThacker, H. L.\rAsh, M.\rNorman, S. K. L.\rMoore, G. E.\rWebb, P. W.",
+        "DOI": "10.2460/javma.2004.225.84",
+        "Date": "Jul 1",
+        "ISSN": "0003-1488",
+        "Issue": "1",
+        "Journal": "JAVMA-Journal of the American Veterinary Medical Association",
+        "Pages": "84-89",
+        "Title": "Investigation of an outbreak of encephalomyelitis caused by West Nile virus in 136 horses",
+        "Volume": "225",
+        "Year": "2004",
+        "_chapter": "[\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "3349",
+        "_uuid": "fbe58cbb-ef87-4aa0-b5d9-91487be286d9",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.2460/javma.2004.225.84",
+    "href": "http://data.globalchange.gov/reference/fbe58cbb-ef87-4aa0-b5d9-91487be286d9.json",
+    "identifier": "fbe58cbb-ef87-4aa0-b5d9-91487be286d9",
+    "uri": "/reference/fbe58cbb-ef87-4aa0-b5d9-91487be286d9"
+}

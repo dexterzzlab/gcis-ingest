@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Becker, A.\rInoue, S.\rFischer, M.\rSchwegler, B.",
+        "DOI": "10.1007/s10584-011-0043-7",
+        "ISSN": "0165-0009",
+        "Issue": "1-2",
+        "Journal": "Climatic Change",
+        "Pages": "5-29",
+        "Title": "Climate change impacts on international seaports: Knowledge, perceptions, and planning efforts among port administrators",
+        "Volume": "110",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "306",
+        "_uuid": "3f1fc729-ccd6-48f0-9062-5bc999cc068e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-011-0043-7",
+    "href": "http://data.globalchange.gov/reference/3f1fc729-ccd6-48f0-9062-5bc999cc068e.json",
+    "identifier": "3f1fc729-ccd6-48f0-9062-5bc999cc068e",
+    "uri": "/reference/3f1fc729-ccd6-48f0-9062-5bc999cc068e"
+}

@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        ".publisher": "Springer Netherlands",
+        ".reference_type": "0",
+        "Alternate Journal": "Climatic Change",
+        "Author": "Vuuren, Detlef P\rEdmonds, James A\rKainuma, Mikiko\rRiahi, Keywan\rWeyant, John",
+        "DOI": "10.1007/s10584-011-0157-y",
+        "Date": "2011/11/01",
+        "ISSN": "0165-0009",
+        "Issue": "1-2",
+        "Journal": "Climatic Change",
+        "Language": "English",
+        "Pages": "1-4",
+        "Title": "A special issue on the RCPs",
+        "URL": "http://link.springer.com/content/pdf/10.1007%2Fs10584-011-0157-y.pdf",
+        "Volume": "109",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4522",
+        "_uuid": "e8dba87b-0b6a-40a7-bb68-3b2516b514b4",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-011-0157-y",
+    "href": "http://data.globalchange.gov/reference/e8dba87b-0b6a-40a7-bb68-3b2516b514b4.json",
+    "identifier": "e8dba87b-0b6a-40a7-bb68-3b2516b514b4",
+    "uri": "/reference/e8dba87b-0b6a-40a7-bb68-3b2516b514b4"
+}

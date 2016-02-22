@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "City of Chicago,",
+        "Pages": "57",
+        "Title": "City of Chicago Climate Action Plan: Our City. Our Future",
+        "URL": "http://www.chicagoclimateaction.org/filebin/pdf/finalreport/CCAPREPORTFINALv2.pdf",
+        "Volume": "2008",
+        "Year": "2008",
+        "_chapter": "[\"RG 3 Midwest\",\"Ch. 11: Urban Systems FINAL\",\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "242",
+        "_uuid": "9282c7de-31fd-4123-96ca-69df571b1cd3",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/citychicago-cap-2008",
+    "href": "http://data.globalchange.gov/reference/9282c7de-31fd-4123-96ca-69df571b1cd3.json",
+    "identifier": "9282c7de-31fd-4123-96ca-69df571b1cd3",
+    "uri": "/reference/9282c7de-31fd-4123-96ca-69df571b1cd3"
+}

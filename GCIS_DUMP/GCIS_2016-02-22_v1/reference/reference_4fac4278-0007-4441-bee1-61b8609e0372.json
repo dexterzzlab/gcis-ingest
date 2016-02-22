@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Slocum, T.A.\rCliburn, D.C.\rFeddema, J.J.\rMiller, J.R.",
+        "DOI": "10.1559/152304003322606210",
+        "ISSN": "1523-0406",
+        "Issue": "4",
+        "Journal": "Cartography and Geographic Information Science",
+        "Pages": "299-317",
+        "Title": "Evaluating the usability of a tool for visualizing the uncertainty of the future global water balance",
+        "Volume": "30",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "2868",
+        "_uuid": "4fac4278-0007-4441-bee1-61b8609e0372",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1559/152304003322606210",
+    "href": "http://data.globalchange.gov/reference/4fac4278-0007-4441-bee1-61b8609e0372.json",
+    "identifier": "4fac4278-0007-4441-bee1-61b8609e0372",
+    "uri": "/reference/4fac4278-0007-4441-bee1-61b8609e0372"
+}

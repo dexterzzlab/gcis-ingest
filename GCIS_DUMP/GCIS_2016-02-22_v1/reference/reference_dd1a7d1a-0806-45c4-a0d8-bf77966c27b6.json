@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2013",
+        "Author": "EPA,",
+        "Last Update Date": "September 23, 2013",
+        "Publisher": "U.S. Environmental Protection Agency",
+        "Title": "Climate Change Indicators in the United States",
+        "URL": "http://www.epa.gov/climatechange/science/indicators/",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4456",
+        "_uuid": "dd1a7d1a-0806-45c4-a0d8-bf77966c27b6",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/e4815ea7-04e6-40db-909e-cc8492cc8b10",
+    "href": "http://data.globalchange.gov/reference/dd1a7d1a-0806-45c4-a0d8-bf77966c27b6.json",
+    "identifier": "dd1a7d1a-0806-45c4-a0d8-bf77966c27b6",
+    "uri": "/reference/dd1a7d1a-0806-45c4-a0d8-bf77966c27b6"
+}

@@ -1,0 +1,12 @@
+{
+    "description": "Sich-1M is a cooperative Ukrainian-Russian multi-purpose EO (Earth Observation) mission based on a 2001 agreement of former Rosaviakosmos (Russian Space Agency), now Roskosmos, and NSAU (National Space Agency of Ukraine). The agreement is considered as part of the Ukrainian National Space Program approved by the parliament on Oct. 27, 2002. The Sich-1M project is an upgrade development of the Sich-1 satellite, launched Aug. 31, 1995 (of Okean-O1 heritage). Sich is the Ukrainian name for `owl'. The overall objective of the mission is monitoring of the Earth and its oceans, study of geology, climate, and ecology. The requirements call for:",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/s/sich-1m",
+    "end_date": "2006-04-15T00:00:00",
+    "href": "http://data.globalchange.gov/platform/sich-1m.json",
+    "identifier": "sich-1m",
+    "name": "Sich-1M",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "2004-12-24T00:00:00",
+    "uri": "/platform/sich-1m",
+    "url": null
+}

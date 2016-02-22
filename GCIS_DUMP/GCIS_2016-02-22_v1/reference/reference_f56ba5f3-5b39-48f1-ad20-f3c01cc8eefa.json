@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "This study addresses the long-term trends in heat-related mortality across 29 US metropolitan areas from 1975 to 2004 to discern the spatial patterns and temporal trends in heat vulnerability. Mortality data have been standardized to account for population trends, and seasonal and interannual variability. On days when a city experienced an \"oppressive\" air mass, mean anomalous mortality was calculated, along with the likelihood that oppressive days led to a mortality response at least one standard deviation above the baseline value. Results show a general decline in heat-related mortality from the 1970s to 1990s, after which the decline seems to have abated. The likelihood of oppressive days leading to significant increases in mortality has shown less of a decline. The number of oppressive days has stayed the same or increased at most metropolitan areas. With US homes near saturation in terms of air-conditioning availability, an aging population is still significantly vulnerable to heat events.",
+        "Accession Number": "282",
+        "Author": "Sheridan, S.C.\rKalkstein, A.J.\rKalkstein, L.S.",
+        "Author Address": "Sheridan, SC (reprint author), Kent State Univ, Dept Geog, 413 McGilvrey Hall, Kent, OH 44242 USA; Kent State Univ, Dept Geog, Kent, OH 44242 USA; Arizona State Univ, Sch Geog Sci, Tempe, AZ USA; Univ Miami, Dept Geog & Reg Studies, Miami, FL USA",
+        "DOI": "10.1007/s11069-008-9327-2",
+        "Date": "JUL 2009",
+        "ISSN": "0921-030X",
+        "Issue": "1",
+        "Journal": "Natural Hazards",
+        "Keywords": "Heat watch-warning system; Atmospheric hazards; Heat-related mortality; Trends; Heat vulnerability; WATCH-WARNING SYSTEM; US CITIES; CLIMATE-CHANGE; PUBLIC-HEALTH; TEMPERATURE; IMPACTS; WAVE; VULNERABILITY; HEATWAVES; STRESS",
+        "Language": "English",
+        "Pages": "145-160",
+        "Title": "Trends in heat-related mortality in the United States, 1975-2004",
+        "URL": "http://www.as.miami.edu/geography/research/climatology/natural_hazards_manuscript.pdf",
+        "Volume": "50",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 17: Southeast and Caribbean FINAL\",\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "2842",
+        "_uuid": "f56ba5f3-5b39-48f1-ad20-f3c01cc8eefa",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s11069-008-9327-2",
+    "href": "http://data.globalchange.gov/reference/f56ba5f3-5b39-48f1-ad20-f3c01cc8eefa.json",
+    "identifier": "f56ba5f3-5b39-48f1-ad20-f3c01cc8eefa",
+    "uri": "/reference/f56ba5f3-5b39-48f1-ad20-f3c01cc8eefa"
+}

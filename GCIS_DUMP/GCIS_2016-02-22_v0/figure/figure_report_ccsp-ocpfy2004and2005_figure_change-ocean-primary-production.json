@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Change in ocean primary production. Primary production distributions for the SeaWiFS era (1997 to mid-2002), the Coastal Zone Color Scanner era (1979 to mid-1986), and the difference. Units are gC m-2 yr-1. White indicates missing data. Credit: Gregg, W.W., M.E. Conkright, P. Ginoux, J.E. O\u2019Reilly, and N.W. Casey, 2003: Ocean primary production and climate: Global decadal changes. Geophys. Res. Lett., 30:15, 1 August 2003.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "3a/ad/8e3d91fa38a533dc2b61d764a92c/our_changing_planet_2004-2005_15_20090708_1773045850.jpg",
+            "href": "http://data.globalchange.gov/assets/3a/ad/8e3d91fa38a533dc2b61d764a92c/our_changing_planet_2004-2005_15_20090708_1773045850.jpg",
+            "identifier": "91d257a7-cb44-43d8-8511-6cf199f30f8c",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "4ec6aaead505fef95f5baf08cbfbbf4673d3140f",
+            "size": 106891,
+            "thumbnail": "3a/ad/8e3d91fa38a533dc2b61d764a92c/.thumb-91d257a7-cb44-43d8-8511-6cf199f30f8c.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/3a/ad/8e3d91fa38a533dc2b61d764a92c/.thumb-91d257a7-cb44-43d8-8511-6cf199f30f8c.png",
+            "uri": "/file/91d257a7-cb44-43d8-8511-6cf199f30f8c",
+            "url": "/assets/3a/ad/8e3d91fa38a533dc2b61d764a92c/our_changing_planet_2004-2005_15_20090708_1773045850.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2004and2005/figure/change-ocean-primary-production.json",
+    "identifier": "change-ocean-primary-production",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2004and2005",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Change in Ocean Primary Production",
+    "uri": "/report/ccsp-ocpfy2004and2005/figure/change-ocean-primary-production",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

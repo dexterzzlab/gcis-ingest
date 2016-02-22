@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Freeman, C.\rFox, M.A.",
+        "Institution": "National Center for Education Statistics, U.S. Department of Education, Institute of Education Sciences",
+        "Notes": "(U.S.)",
+        "Pages": "160",
+        "Place Published": "Washington, D.C.",
+        "Title": "Status and Trends in the Education of American Indians and Alaska Natives. NCES 2005\u2013108",
+        "URL": "http://nces.ed.gov/pubs2005/2005108.pdf",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\"]",
+        "_record_number": "3885",
+        "_uuid": "b0d534c7-7d3c-45cd-bb8d-6f31ff708b30",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/nces-2005-108",
+    "href": "http://data.globalchange.gov/reference/b0d534c7-7d3c-45cd-bb8d-6f31ff708b30.json",
+    "identifier": "b0d534c7-7d3c-45cd-bb8d-6f31ff708b30",
+    "uri": "/reference/b0d534c7-7d3c-45cd-bb8d-6f31ff708b30"
+}

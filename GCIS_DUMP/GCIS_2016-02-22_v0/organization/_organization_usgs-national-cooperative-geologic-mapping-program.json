@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/usgs-national-cooperative-geologic-mapping-program.json",
+    "identifier": "usgs-national-cooperative-geologic-mapping-program",
+    "name": "USGS National Cooperative Geologic Mapping Program",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/usgs-national-cooperative-geologic-mapping-program",
+    "url": "http://ncgmp.usgs.gov/"
+}

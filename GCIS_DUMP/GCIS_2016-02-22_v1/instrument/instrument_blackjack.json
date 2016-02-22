@@ -1,0 +1,8 @@
+{
+    "description": "BlackJack is also referred to as TRSR-2 (Turbo Rogue Space Receiver-2). The instrument is of GPS/MET (Microlab) heritage (of a design as flown on CHAMP) and is being provided by NASA/JPL and built by Spectrum Astro Inc. of Gilbert, AZ. BlackJack is a 16-channel GPS receiver with the objective to provide supplementary positioning data to DORIS in support of the POD (Precision Orbit Determination) function and to enhance and/or improve gravity field models. Radial accuracies of 1-2 cm are obtained in post-processing. BlackJack is a fully redundant unit (two independent receivers operating in cold redundancy). Each unit is comprised of an omnidirectional antenna, low-noise amplifier, crystal oscillator, sampling down-converter, and a baseband digital processor assembly, communicating through a 1553 bus interface. Instrument mass = 10 kg (2), power = 17.5 W.\n",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/j/jason-1\n",
+    "href": "http://data.globalchange.gov/instrument/blackjack.json",
+    "identifier": "blackjack",
+    "name": "Turbo-Rogue Space Receiver",
+    "uri": "/instrument/blackjack"
+}

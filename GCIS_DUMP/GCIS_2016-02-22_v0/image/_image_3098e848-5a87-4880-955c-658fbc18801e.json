@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-09-16T15:12:13",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Relative vulnerability of different forest regions to climate change is illustrated in this conceptual risk analysis diagram. Forest carbon exchange is the difference between carbon captured in photosynthesis and carbon released by respiration of vegetation and soils. Both photosynthesis and respiration are generally accelerated by higher temperatures, and slowed by water deficits, but the relative strengths of these controls are highly variable. Western forests are inherently limited by evaporation that exceeds precipitation during much of the growing season. Xeric (drier) eastern forests grow on shallow, coarse textured soils and experience water deficits during long periods without rain. Mesic (wetter) eastern forests experience severe water deficits only for relatively brief periods in abnormally dry years so the carbon exchanges are more controlled by temperature fluctuations. (Figure source: adapted from Vose et al. 2012<tbib>78f2cbd8-d8f2-4d99-abbd-017bad4d52f1</tbib>).",
+            "chapter_identifier": "forests",
+            "create_dt": "2013-09-16T15:12:13",
+            "identifier": "forests-can-be-a-source--or-a-sink--for-carbon",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 4,
+            "report_identifier": "nca3",
+            "source_citation": "adapted from Vose et al. 2012<tbib>78f2cbd8-d8f2-4d99-abbd-017bad4d52f1</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Forests can be a Source \u2013 or a Sink \u2013 for Carbon",
+            "url": "http://nca2014.globalchange.gov/report/sectors/forests/graphics/forests-can-be-source-or-sink-carbon",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "e0/a9/7e521ec44a04c8ad7ae7d054fac1/forests_carbon_exchange_risk_matrix_v3_0.png",
+            "href": "http://data.globalchange.gov/assets/e0/a9/7e521ec44a04c8ad7ae7d054fac1/forests_carbon_exchange_risk_matrix_v3_0.png",
+            "identifier": "f5a297b1-8e3e-4079-8da1-824c3b2e0d3b",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "cb92545b698ccf31daaa84f5877fb0245cf5be46",
+            "size": 171897,
+            "thumbnail": "e0/a9/7e521ec44a04c8ad7ae7d054fac1/.thumb-f5a297b1-8e3e-4079-8da1-824c3b2e0d3b.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/e0/a9/7e521ec44a04c8ad7ae7d054fac1/.thumb-f5a297b1-8e3e-4079-8da1-824c3b2e0d3b.png",
+            "uri": "/file/f5a297b1-8e3e-4079-8da1-824c3b2e0d3b",
+            "url": "/assets/e0/a9/7e521ec44a04c8ad7ae7d054fac1/forests_carbon_exchange_risk_matrix_v3_0.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/3098e848-5a87-4880-955c-658fbc18801e.json",
+    "identifier": "3098e848-5a87-4880-955c-658fbc18801e",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Forests can be a Source \u2013 or a Sink \u2013 for Carbon",
+    "uri": "/image/3098e848-5a87-4880-955c-658fbc18801e",
+    "url": null,
+    "usage_limits": null
+}

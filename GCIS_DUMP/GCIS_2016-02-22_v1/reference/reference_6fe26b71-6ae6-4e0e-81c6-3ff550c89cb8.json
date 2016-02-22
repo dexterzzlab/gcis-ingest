@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Rohde, Robert \rRichard Muller\rRobert Jacobsen\rSaul Perlmutter\rArthur Rosenfeld\rJonathan Wurtele\rJudith Curry\rCharlotte Wickham\rSteven Mosher",
+        "DOI": "10.4172/gigs.1000103",
+        "Issue": "2",
+        "Journal": "Geoinformatics & Geostatistics: An Overview",
+        "Pages": "1-13",
+        "Title": "Berkeley Earth Temperature Averaging Process",
+        "URL": "http://www.scitechnol.com/2327-4581/2327-4581-1-103.pdf",
+        "Volume": "1",
+        "Year": "2013",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "4264",
+        "_uuid": "6fe26b71-6ae6-4e0e-81c6-3ff550c89cb8",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.4172/2327-4581.1000103",
+    "href": "http://data.globalchange.gov/reference/6fe26b71-6ae6-4e0e-81c6-3ff550c89cb8.json",
+    "identifier": "6fe26b71-6ae6-4e0e-81c6-3ff550c89cb8",
+    "uri": "/reference/6fe26b71-6ae6-4e0e-81c6-3ff550c89cb8"
+}

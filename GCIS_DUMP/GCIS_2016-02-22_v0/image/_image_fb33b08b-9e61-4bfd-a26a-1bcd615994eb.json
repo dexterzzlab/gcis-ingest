@@ -1,0 +1,95 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/3758.json",
+            "id": 3758,
+            "organization": {
+                "country_code": "US",
+                "identifier": "texas-tech-university",
+                "name": "Texas Tech University",
+                "organization_type_identifier": "academic",
+                "url": "http://www.ttu.edu"
+            },
+            "organization_uri": "/organization/texas-tech-university",
+            "person": {
+                "first_name": "Katharine",
+                "id": 1024,
+                "last_name": "Hayhoe",
+                "middle_name": null,
+                "orcid": "0000-0003-3625-1402",
+                "url": "http://www.katharinehayhoe.com/"
+            },
+            "person_id": 1024,
+            "person_uri": "/person/1024",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/3758"
+        }
+    ],
+    "create_dt": "2013-10-24T15:50:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Changes in the temperature of the Northern Hemisphere from surface observations (in red) and from proxies (in black; uncertainty range represented by shading) relative to 1961-1990 average temperature. These analyses suggest that current temperatures are higher than seen globally in at least the last 1700 years and that the last decade (2001 to 2010) was the warmest decade on record. (Figure source: adapted from Mann et al. 20084).",
+            "chapter_identifier": "appendix-faqs",
+            "create_dt": "2013-10-24T15:50:00",
+            "identifier": "caq-1700-years-of-global-temperature-from-proxy-data",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 5,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "1700 Years of Temperature from Proxy Data",
+            "url": "http://nca2014.globalchange.gov/report/appendices/faqs/graphics/1700-years-temperature-change-proxy-data",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "77/92/d1d3c118800deb17639222551e17/caq_global_temperature_proxy_data_v6.png",
+            "href": "http://data.globalchange.gov/assets/77/92/d1d3c118800deb17639222551e17/caq_global_temperature_proxy_data_v6.png",
+            "identifier": "7e36fefb-8e49-4641-9fbf-7ea0d6bea5ef",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "56d9f318a4d9abe86798e1dc1767fa98c42c473a",
+            "size": 242365,
+            "thumbnail": "77/92/d1d3c118800deb17639222551e17/.thumb-7e36fefb-8e49-4641-9fbf-7ea0d6bea5ef.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/77/92/d1d3c118800deb17639222551e17/.thumb-7e36fefb-8e49-4641-9fbf-7ea0d6bea5ef.png",
+            "uri": "/file/7e36fefb-8e49-4641-9fbf-7ea0d6bea5ef",
+            "url": "/assets/77/92/d1d3c118800deb17639222551e17/caq_global_temperature_proxy_data_v6.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/fb33b08b-9e61-4bfd-a26a-1bcd615994eb.json",
+    "identifier": "fb33b08b-9e61-4bfd-a26a-1bcd615994eb",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [
+        {
+            "activity_uri": "/activity/fb33b08b-nca3-mann-recons-r200809-process",
+            "label": "dataset nca3-mann-recons-r200809",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-mann-recons-r200809"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2006-12-31T23:59:59",
+    "time_start": "0300-01-01T00:00:00",
+    "title": "1700 Years of Temperature Change from Proxy Data",
+    "uri": "/image/fb33b08b-9e61-4bfd-a26a-1bcd615994eb",
+    "url": null,
+    "usage_limits": null
+}

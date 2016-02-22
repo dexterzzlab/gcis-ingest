@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Keeney, R.L.\rRaiffa, H.",
+        "ISBN": "0521438837",
+        "Number of Pages": "592",
+        "Publisher": "Cambridge University Press",
+        "Reviewer": "6fd7f4e4-e022-4e5d-942b-61af0f3c81f2",
+        "Title": "Decisions With Multiple Objectives: Preferences and Value Tradeoffs",
+        "Year": "1993",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "495",
+        "_uuid": "6fd7f4e4-e022-4e5d-942b-61af0f3c81f2",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/8c1e8387-d8a8-4cf6-b671-a48131705180",
+    "href": "http://data.globalchange.gov/reference/6fd7f4e4-e022-4e5d-942b-61af0f3c81f2.json",
+    "identifier": "6fd7f4e4-e022-4e5d-942b-61af0f3c81f2",
+    "uri": "/reference/6fd7f4e4-e022-4e5d-942b-61af0f3c81f2"
+}

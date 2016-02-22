@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Jones, T.\rCresswell, W.",
+        "DOI": "10.1111/j.1365-2656.2009.01610.x",
+        "Date": "Jan",
+        "ISSN": "1365-2656",
+        "Issue": "1",
+        "Journal": "Journal of Animal Ecology",
+        "Keywords": "global climate change; migration; population declines; population limitation; migration phenology; ficedula-hypoleuca; spring; migration; great tits; arrival; habitat; trends; conservation; temperature",
+        "Pages": "98-108",
+        "Title": "The phenology mismatch hypothesis: Are declines of migrant birds linked to uneven global climate change?",
+        "Type of Article": "Article",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2656.2009.01610.x/pdf",
+        "Volume": "79",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "1260",
+        "_uuid": "f8043f85-6a17-419e-bd3c-60b4bfdc2a9a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1365-2656.2009.01610.x",
+    "href": "http://data.globalchange.gov/reference/f8043f85-6a17-419e-bd3c-60b4bfdc2a9a.json",
+    "identifier": "f8043f85-6a17-419e-bd3c-60b4bfdc2a9a",
+    "uri": "/reference/f8043f85-6a17-419e-bd3c-60b4bfdc2a9a"
+}

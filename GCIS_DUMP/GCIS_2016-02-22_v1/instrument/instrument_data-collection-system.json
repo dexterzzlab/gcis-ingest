@@ -1,0 +1,8 @@
+{
+    "description": "Data collection system",
+    "description_attribution": "http://database.eohandbook.com/database/instrumentsummary.aspx?instrumentID=799",
+    "href": "http://data.globalchange.gov/instrument/data-collection-system.json",
+    "identifier": "data-collection-system",
+    "name": "Data Collection System",
+    "uri": "/instrument/data-collection-system"
+}

@@ -1,0 +1,52 @@
+{
+    "attributes": null,
+    "caption": "The large-scale geographical patterns and approximate magnitude of the surface air temperature trend from 1980 to 2005 from observational data (left) is approximately captured by computer models of the climate system (right). The pattern from the computer models is an average based on 43 different global climate models (CMIP5) used in the Intergovernmental Panel on Climate Change\u2019s (IPCC) Fifth Assessment Report. The observations are a combination of both the human contribution to recent warming as well as the natural temperature variations. Averaging these model simulations suppresses the natural variations and thus shows mainly the human contribution, which is the reason that the smaller-scale details are different between the two maps. (Figure source: NOAA NCDC / CICS-NC).",
+    "chapter": {
+        "doi": "10.7930/J0G15XS3",
+        "identifier": "appendix-faqs",
+        "number": 34,
+        "report_identifier": "nca3",
+        "sort_key": 340,
+        "title": "Appendix 4: Frequently Asked Questions",
+        "url": "http://nca2014.globalchange.gov/report/appendices/faqs"
+    },
+    "chapter_identifier": "appendix-faqs",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "a3/9c/9396baa115f6bea4bf43a02b8755/CAQ_climate_models___temp_change_V4.png",
+            "href": "http://data.globalchange.gov/assets/a3/9c/9396baa115f6bea4bf43a02b8755/CAQ_climate_models___temp_change_V4.png",
+            "identifier": "dcd795bd-08db-4043-ab1e-71a931b0ed3f",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "b65ccbb2178cde49a3d920e74a68fa1f82b4e863",
+            "size": 371436,
+            "thumbnail": "a3/9c/9396baa115f6bea4bf43a02b8755/.thumb-dcd795bd-08db-4043-ab1e-71a931b0ed3f.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/a3/9c/9396baa115f6bea4bf43a02b8755/.thumb-dcd795bd-08db-4043-ab1e-71a931b0ed3f.png",
+            "uri": "/file/dcd795bd-08db-4043-ab1e-71a931b0ed3f",
+            "url": "/assets/a3/9c/9396baa115f6bea4bf43a02b8755/CAQ_climate_models___temp_change_V4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-faqs/figure/climate-models-and-temperature-change.json",
+    "identifier": "climate-models-and-temperature-change",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 22,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Climate Models and Temperature Change",
+    "uri": "/report/nca3/chapter/appendix-faqs/figure/climate-models-and-temperature-change",
+    "url": "http://nca2014.globalchange.gov/report/appendices/faqs/graphics/climate-models-and-temperature-change",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Gramley, M.",
+        "Pages": "38",
+        "Title": "Fire in the South: A Report by the Southern Group of State Foresters. Winder GA: Southern Group of State Foresters",
+        "URL": "http://www.southernwildfirerisk.com/downloads_reports/Fire%20In%20The%20South_1%20-%20April%202005.pdf",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "701",
+        "_uuid": "1cba19cb-5a7a-4432-8311-70633478df81",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/sogroupstateforesters-fire-2005",
+    "href": "http://data.globalchange.gov/reference/1cba19cb-5a7a-4432-8311-70633478df81.json",
+    "identifier": "1cba19cb-5a7a-4432-8311-70633478df81",
+    "uri": "/reference/1cba19cb-5a7a-4432-8311-70633478df81"
+}

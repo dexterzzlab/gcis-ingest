@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".publisher": "Blackwell Publishing Ltd",
+        ".reference_type": "0",
+        "Author": "Harville, Emily W.\rXiong, Xu\rBuekens, Pierre",
+        "DOI": "10.1111/j.1523-536X.2009.00360.x",
+        "ISSN": "1523-536X",
+        "Issue": "4",
+        "Journal": "Birth",
+        "Keywords": "breastfeeding\rdisasters\rmental health\rpregnancy",
+        "Pages": "325-331",
+        "Title": "Hurricane Katrina and perinatal health",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/j.1523-536X.2009.00360.x/pdf",
+        "Volume": "36",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "4221",
+        "_uuid": "fd1a6a95-38ac-4f95-8ae3-c18fcc715422",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1523-536X.2009.00360.x",
+    "href": "http://data.globalchange.gov/reference/fd1a6a95-38ac-4f95-8ae3-c18fcc715422.json",
+    "identifier": "fd1a6a95-38ac-4f95-8ae3-c18fcc715422",
+    "uri": "/reference/fd1a6a95-38ac-4f95-8ae3-c18fcc715422"
+}

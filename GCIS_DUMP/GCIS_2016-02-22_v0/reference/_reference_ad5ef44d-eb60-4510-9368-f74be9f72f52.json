@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "A flowline ice sheet model is coupled to a box model for cavity circulation and configured for the Pine Island Glacier. An ensemble of 5000 simulations are carried out from 1900 to 2200 with varying inputs and parameters, forced by ocean temperatures predicted by a regional ocean model under the A1B \u2018business as usual\u2019 emissions scenario. Comparison is made against recent observations to provide a calibrated prediction in the form of a 95% confidence set. Predictions are for monotonic (apart from some small scale fluctuations in a minority of cases) retreat of the grounding line over the next 200 yr with huge uncertainty in the rate of retreat. Full collapse of the main trunk of the PIG during the 22nd century remains a possibility.",
+        "Author": "Gladstone, Rupert M.\rLee, Victoria\rRougier, Jonathan\rPayne, Antony J.\rHellmer, Hartmut\rLe Brocq, Anne\rShepherd, Andrew\rEdwards, Tamsin L.\rGregory, Jonathan\rCornford, Stephen L.",
+        "DOI": "10.1016/j.epsl.2012.04.022",
+        "ISSN": "0012-821X",
+        "Journal": "Earth and Planetary Science Letters",
+        "Keywords": "West Antarctic ice sheet; Pine Island Glacier; calibrated prediction; marine ice sheet instability; ice sheet modelling",
+        "Pages": "191-199",
+        "Title": "Calibrated prediction of Pine Island Glacier retreat during the 21st and 22nd centuries with a coupled flowline model",
+        "Volume": "333\u2013334",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "168",
+        "_uuid": "ad5ef44d-eb60-4510-9368-f74be9f72f52",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.epsl.2012.04.022",
+    "href": "http://data.globalchange.gov/reference/ad5ef44d-eb60-4510-9368-f74be9f72f52.json",
+    "identifier": "ad5ef44d-eb60-4510-9368-f74be9f72f52",
+    "uri": "/reference/ad5ef44d-eb60-4510-9368-f74be9f72f52"
+}

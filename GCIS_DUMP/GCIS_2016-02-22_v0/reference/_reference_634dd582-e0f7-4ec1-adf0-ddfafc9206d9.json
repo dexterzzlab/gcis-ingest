@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Lamb, R.\rDavis, M.V.",
+        "Institution": "U.S. Environmental Protection Agency Region 10",
+        "Pages": "27",
+        "Place Published": "Seattle, WA",
+        "Title": "Promoting Generations of Self Reliance: Stories and Examples of Tribal Adaptation to Change",
+        "URL": "http://www.epa.gov/region10/pdf/tribal/stories_and_examples_of_tribal_adaptation_to_change.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\",\"RF 12\"]",
+        "_record_number": "1342",
+        "_uuid": "634dd582-e0f7-4ec1-adf0-ddfafc9206d9",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/epa-stories-2011",
+    "href": "http://data.globalchange.gov/reference/634dd582-e0f7-4ec1-adf0-ddfafc9206d9.json",
+    "identifier": "634dd582-e0f7-4ec1-adf0-ddfafc9206d9",
+    "uri": "/reference/634dd582-e0f7-4ec1-adf0-ddfafc9206d9"
+}

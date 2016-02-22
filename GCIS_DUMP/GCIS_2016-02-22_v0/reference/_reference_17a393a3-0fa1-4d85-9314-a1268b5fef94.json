@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".publisher": "Springer Netherlands",
+        ".reference_type": "0",
+        "Alternate Journal": "Climatic Change",
+        "Author": "Rose, Steven K\rRichels, Richard\rSmith, Steve\rRiahi, Keywan\rStrefler, Jessica\rVuuren, Detlef P",
+        "DOI": "10.1007/s10584-013-0955-5",
+        "Date": "2013/10/27",
+        "ISSN": "0165-0009",
+        "Journal": "Climatic Change",
+        "Language": "English",
+        "Pages": "1-15",
+        "Title": "Non-Kyoto radiative forcing in long-run greenhouse gas emissions and climate change scenarios",
+        "Volume": "In press",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4523",
+        "_uuid": "17a393a3-0fa1-4d85-9314-a1268b5fef94",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-013-0955-5",
+    "href": "http://data.globalchange.gov/reference/17a393a3-0fa1-4d85-9314-a1268b5fef94.json",
+    "identifier": "17a393a3-0fa1-4d85-9314-a1268b5fef94",
+    "uri": "/reference/17a393a3-0fa1-4d85-9314-a1268b5fef94"
+}

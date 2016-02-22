@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Alternate Journal": "Science",
+        "Author": "Paerl, H. W.\rHuisman, J.",
+        "Author Address": "Paerl, HW; Univ N Carolina, Inst Marine Sci, Morehead City, NC 28557 USA; Univ N Carolina, Inst Marine Sci, Morehead City, NC 28557 USA; Univ N Carolina, Inst Marine Sci, Morehead City, NC 28557 USA; Univ Amsterdam, Inst Biodivers & Ecosyst Dynam, NL-1018 WS Amsterdam, Netherlands",
+        "DOI": "10.1126/Science.1155398",
+        "Date": "Apr 4",
+        "ISSN": "0036-8075",
+        "Issue": "5872",
+        "Journal": "Science",
+        "Keywords": "phytoplankton communities; microcystis-aeruginosa; cyanobacteria; surface; lake; sea",
+        "Label": "IN",
+        "Language": "English",
+        "Pages": "57-58",
+        "Title": "Climate - Blooms like it hot",
+        "URL": "http://community.gleon.org/sites/default/files/uploaded/Paerl%26Huisman_2008_Science_Blooms_0.pdf",
+        "Volume": "320",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "2400",
+        "_uuid": "11b14f32-9d24-45c2-b953-d8a57cbab116",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/Science.1155398",
+    "href": "http://data.globalchange.gov/reference/11b14f32-9d24-45c2-b953-d8a57cbab116.json",
+    "identifier": "11b14f32-9d24-45c2-b953-d8a57cbab116",
+    "uri": "/reference/11b14f32-9d24-45c2-b953-d8a57cbab116"
+}

@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "An analysis of land use and land cover change in eastern U.S. ecological regions provides evidence of distinctive regional variation in the rates and characteristics of changes. The USGS, in cooperation with EPA and NASA, used Landsat images from five years (1973, 1980, 1986, 1992, and 2000) to map the rates of ecoregion change in each time interval (portrayed in ecoregion color), and the primary land cover transformations (portrayed in the pie charts). Land cover of approximately 20 percent of the land in the Mid-Atlantic Coastal Plain and Southeastern Plain changed during the nearly 30-year period due to the rapid, cyclic harvesting and replanting of forests. The adjacent Piedmont region also showed substantial change in forest cover. Urbanization was the dominant conversion in the Northern Piedmont and Atlantic Coast Pine Barrens. The two Appalachian regions studied (Blue Ridge and North Central Appalachia) had comparatively low overall change, with the primary transformations being urban development and forest conversion, respectively. Credit: USGS EROS Data Center.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "dc/d0/ffa158f824c0a9e6bbc341f6fa14/our_changing_planet_2003_29_20090708_1662246968.jpg",
+            "href": "http://data.globalchange.gov/assets/dc/d0/ffa158f824c0a9e6bbc341f6fa14/our_changing_planet_2003_29_20090708_1662246968.jpg",
+            "identifier": "f842561f-07d3-4b31-bcb9-0094a32e6c75",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "db137eae79b66e5a81be09ad7a3b7a2bc2fd2109",
+            "size": 106352,
+            "thumbnail": "dc/d0/ffa158f824c0a9e6bbc341f6fa14/.thumb-f842561f-07d3-4b31-bcb9-0094a32e6c75.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/dc/d0/ffa158f824c0a9e6bbc341f6fa14/.thumb-f842561f-07d3-4b31-bcb9-0094a32e6c75.png",
+            "uri": "/file/f842561f-07d3-4b31-bcb9-0094a32e6c75",
+            "url": "/assets/dc/d0/ffa158f824c0a9e6bbc341f6fa14/our_changing_planet_2003_29_20090708_1662246968.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2003/figure/land-cover-change-east-us-ecosystems.json",
+    "identifier": "land-cover-change-east-us-ecosystems",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2003",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Land Cover Change in Eastern U.S. Ecosystems, 1972-2000",
+    "uri": "/report/ccsp-ocpfy2003/figure/land-cover-change-east-us-ecosystems",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

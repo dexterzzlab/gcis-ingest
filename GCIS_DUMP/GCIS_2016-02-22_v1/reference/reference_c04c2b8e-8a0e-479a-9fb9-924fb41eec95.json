@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Feng, Song\rHu, Qi",
+        "DOI": "10.1029/2007JD008397",
+        "ISSN": "2156-2202",
+        "Issue": "D15",
+        "Journal": "Journal of Geophysical Research: Atmospheres",
+        "Keywords": "snow/rain ratio change\rsurface temperature\rcontiguous U.S.\r1630 Impacts of global change\r1655 Water cycles\r1821 Floods\r1812 Drought",
+        "Pages": "D15109",
+        "Title": "Changes in winter snowfall/precipitation ratio in the contiguous United States",
+        "Volume": "112",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "4584",
+        "_uuid": "c04c2b8e-8a0e-479a-9fb9-924fb41eec95",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2007JD008397",
+    "href": "http://data.globalchange.gov/reference/c04c2b8e-8a0e-479a-9fb9-924fb41eec95.json",
+    "identifier": "c04c2b8e-8a0e-479a-9fb9-924fb41eec95",
+    "uri": "/reference/c04c2b8e-8a0e-479a-9fb9-924fb41eec95"
+}

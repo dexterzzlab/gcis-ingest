@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Metzger, Kristina B\rIto, Kazuhiko\rMatte, Thomas D",
+        "DOI": "10.1289/ehp.0900906",
+        "Issue": "1",
+        "Journal": "Environmental Health Perspectives",
+        "PMCID": "PMC2831972",
+        "Pages": "80",
+        "Title": "Summer heat and mortality in New York City: How hot is too hot?",
+        "URL": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2831972/pdf/ehp-118-80.pdf",
+        "Volume": "118",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "4212",
+        "_uuid": "46dac165-52c4-43dd-9330-54fff5dc29b7",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1289/ehp.0900906",
+    "href": "http://data.globalchange.gov/reference/46dac165-52c4-43dd-9330-54fff5dc29b7.json",
+    "identifier": "46dac165-52c4-43dd-9330-54fff5dc29b7",
+    "uri": "/reference/46dac165-52c4-43dd-9330-54fff5dc29b7"
+}

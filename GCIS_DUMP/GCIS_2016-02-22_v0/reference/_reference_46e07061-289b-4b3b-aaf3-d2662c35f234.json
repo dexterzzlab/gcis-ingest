@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "University of Oregon,",
+        "Date": "December 2011",
+        "Institution": "The University of Oregon",
+        "Pages": "6",
+        "Place Published": "Eugene, OR",
+        "Title": "First Foods and Climate Change Report. Tribal Climate Change Project-Tribal Profiles",
+        "URL": "http://tribalclimate.uoregon.edu/files/2010/11/firstfoods_climatechange_12-14-11_final1.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\"]",
+        "_record_number": "3201",
+        "_uuid": "46e07061-289b-4b3b-aaf3-d2662c35f234",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/uoregon-firstfoods-2011",
+    "href": "http://data.globalchange.gov/reference/46e07061-289b-4b3b-aaf3-d2662c35f234.json",
+    "identifier": "46e07061-289b-4b3b-aaf3-d2662c35f234",
+    "uri": "/reference/46e07061-289b-4b3b-aaf3-d2662c35f234"
+}

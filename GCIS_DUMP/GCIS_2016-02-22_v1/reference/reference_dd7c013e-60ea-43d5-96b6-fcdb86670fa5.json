@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Mutel, C.F.",
+        "ISBN": "1587298546",
+        "Number of Pages": "284",
+        "Place Published": "Iowa City, IA",
+        "Publisher": "University of Iowa Press",
+        "Reviewer": "dd7c013e-60ea-43d5-96b6-fcdb86670fa5",
+        "Title": "A Watershed Year: Anatomy of the Iowa Floods of 2008",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "2131",
+        "_uuid": "dd7c013e-60ea-43d5-96b6-fcdb86670fa5",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/7f628f5f-f812-4478-9069-ad149532bdc3",
+    "href": "http://data.globalchange.gov/reference/dd7c013e-60ea-43d5-96b6-fcdb86670fa5.json",
+    "identifier": "dd7c013e-60ea-43d5-96b6-fcdb86670fa5",
+    "uri": "/reference/dd7c013e-60ea-43d5-96b6-fcdb86670fa5"
+}

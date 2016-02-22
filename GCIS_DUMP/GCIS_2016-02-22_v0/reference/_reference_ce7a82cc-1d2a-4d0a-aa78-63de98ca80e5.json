@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "American Meteorological Society",
+        ".reference_type": "0",
+        "Access Date": "2013/08/01",
+        "Author": "Ashley, Walker S.\rGilson, Christopher W.",
+        "DOI": "10.1175/2009bams2765.1",
+        "Date": "2009/10/01",
+        "ISSN": "0003-0007",
+        "Issue": "10",
+        "Journal": "Bulletin of the American Meteorological Society",
+        "Pages": "1501-1518",
+        "Title": "A reassessment of U.S. lightning mortality",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/2009BAMS2765.1",
+        "Volume": "90",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "4073",
+        "_uuid": "ce7a82cc-1d2a-4d0a-aa78-63de98ca80e5",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/2009bams2765.1",
+    "href": "http://data.globalchange.gov/reference/ce7a82cc-1d2a-4d0a-aa78-63de98ca80e5.json",
+    "identifier": "ce7a82cc-1d2a-4d0a-aa78-63de98ca80e5",
+    "uri": "/reference/ce7a82cc-1d2a-4d0a-aa78-63de98ca80e5"
+}

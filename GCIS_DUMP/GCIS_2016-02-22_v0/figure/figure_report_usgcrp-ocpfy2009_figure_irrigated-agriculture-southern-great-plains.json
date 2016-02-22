@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Landsat data show the cause of anomalies in the previous figure between 1982 and 2005 for area 4 near Dalhart, Texas. The red areas show increased green vegetation density due to an expansion of irrigated agriculture in the Southern Great Plains. Credit: C.S.R. Neigh, C.J. Tucker, and J.R.G. Townshend, NASA / Goddard Space Flight Center and University of Maryland (reproduced from Remote Sensing of Environment with permission from Elsevier).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "43/4d/973957ae5051aa3fe6203b0d166c/Figure_11.png",
+            "href": "http://data.globalchange.gov/assets/43/4d/973957ae5051aa3fe6203b0d166c/Figure_11.png",
+            "identifier": "c5760f77-5a21-49d3-bfcc-f196420f4f69",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "e2f0eee77f604b536421289abce9aa142277cd5e",
+            "size": 674590,
+            "thumbnail": "43/4d/973957ae5051aa3fe6203b0d166c/.thumb-c5760f77-5a21-49d3-bfcc-f196420f4f69.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/43/4d/973957ae5051aa3fe6203b0d166c/.thumb-c5760f77-5a21-49d3-bfcc-f196420f4f69.png",
+            "uri": "/file/c5760f77-5a21-49d3-bfcc-f196420f4f69",
+            "url": "/assets/43/4d/973957ae5051aa3fe6203b0d166c/Figure_11.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2009/figure/irrigated-agriculture-southern-great-plains.json",
+    "identifier": "irrigated-agriculture-southern-great-plains",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2009",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Irrigated Agriculture in the Southern Great Plains",
+    "uri": "/report/usgcrp-ocpfy2009/figure/irrigated-agriculture-southern-great-plains",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

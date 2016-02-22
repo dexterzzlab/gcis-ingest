@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        ".reference_type": "32",
+        "Author": "Stewart, B.C.\rKunkel, K.E.\rStevens, L.E.\rSun, L.\rWalsh, J.E.",
+        "Pages": "60",
+        "Title": "Regional Climate Trends and Scenarios for the U.S. National Climate Assessment: Part 7. Climate of Alaska. NOAA Technical Report NESDIS 142-7",
+        "URL": "http://www.nesdis.noaa.gov/technical_reports/NOAA_NESDIS_Tech_Report_142-7-Climate_of_Alaska.pdf",
+        "Year": "2013",
+        "_chapter": "[\"RG 7 Alaska\",\"Ch. 5: Transportation FINAL\",\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "2954",
+        "_uuid": "9b6a0a32-dd39-41bb-9983-d54209a1da4a",
+        "reftype": "Government Document"
+    },
+    "child_publication": "/report/noaa-techreport-nesdis-142-7",
+    "href": "http://data.globalchange.gov/reference/9b6a0a32-dd39-41bb-9983-d54209a1da4a.json",
+    "identifier": "9b6a0a32-dd39-41bb-9983-d54209a1da4a",
+    "uri": "/reference/9b6a0a32-dd39-41bb-9983-d54209a1da4a"
+}

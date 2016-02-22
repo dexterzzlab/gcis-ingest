@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "NRC,",
+        "ISBN": "9780309278560",
+        "Pages": "238",
+        "Publisher": "National Research Council. The National Academies Press",
+        "Reviewer": "d0eb8022-8aeb-4e36-819b-0c8aefd48535",
+        "Series Editor": "John, D. Steinbruner\rPaul, C. Stern\rJo, L. Husbands",
+        "Title": "Climate and Social Stress: Implications for Security Analysis",
+        "URL": "http://www.nap.edu/catalog.php?record_id=14682",
+        "Year": "2013",
+        "_chapter": "[\"Appendix 6: Future Topics FINAL\"]",
+        "_record_number": "4650",
+        "_uuid": "d0eb8022-8aeb-4e36-819b-0c8aefd48535",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/nrc-climate-social-stress-2013",
+    "href": "http://data.globalchange.gov/reference/d0eb8022-8aeb-4e36-819b-0c8aefd48535.json",
+    "identifier": "d0eb8022-8aeb-4e36-819b-0c8aefd48535",
+    "uri": "/reference/d0eb8022-8aeb-4e36-819b-0c8aefd48535"
+}

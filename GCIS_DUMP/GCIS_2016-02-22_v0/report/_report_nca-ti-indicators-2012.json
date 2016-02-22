@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/nca-ti-indicators-2012.json",
+    "identifier": "nca-ti-indicators-2012",
+    "in_library": null,
+    "publication_year": 2012,
+    "report_type_identifier": "technical_input",
+    "summary": null,
+    "title": "National Climate Assessment Indicators: Background, Development, and Examples. A Technical Input to the 2013 National Climate Assessment Report.",
+    "topic": null,
+    "uri": "/report/nca-ti-indicators-2012",
+    "url": "http://downloads.globalchange.gov/nca/technical_inputs/NCA_indicators_technical_input_report.pdf"
+}

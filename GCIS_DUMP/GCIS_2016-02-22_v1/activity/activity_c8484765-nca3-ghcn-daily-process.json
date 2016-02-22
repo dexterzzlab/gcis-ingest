@@ -1,0 +1,15 @@
+{
+    "computing_environment": "Linux (CentOS release 6.4)",
+    "data_usage": "The differences in the length of the frost free season for 1991-2012 relative to 1901-1960 were calculated for each region and displayed using color-coded bins.",
+    "duration": "16 hours",
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/c8484765-nca3-ghcn-daily-process.json",
+    "identifier": "c8484765-nca3-ghcn-daily-process",
+    "methodology": "1. Stations with less than 10% missing temperature data for the period 1895-2011 were selected.\r\n2. For each station, for each year, the date of the first fall occurrence of 32 degrees Fahrenheit or lower and the date of the last spring occurrence of 32 degrees Fahrenheit or lower was determined.\r\n3. For each one-degree by one-degree grid box, for each year with available data, the average first fall date and last spring date were calculated for all stations in a grid box. \r\n4. For each region, the average first fall and last spring frost dates were calculated for all grid boxes with data.\r\n5. For each region, the average first fall frost and last spring dates were calculated for the two periods of 1901-1960 and 1991-2012.\r\n6. The length of the frost-free season was then calculated as the difference between the first fall date and last spring date, for 1901-1960 and 1991-2012.\r\n7. Finally, the difference in the length of the frost-free season was calculated as the value for 1991-2012 minus the value for 1901-1960.",
+    "notes": "Fortran 95 was used to perform numerical calculations.",
+    "output_artifacts": "growseason_18952012_Jun25_2013.txt\r\ngridgrowseason_regions_18952012_Jun25_2013.txt\r\ngetgrowseason_Jun25_2013.f95\r\ngridaveragegrow_regions_Jun25_2013.f95\r\ngrowseason_18952012_Jun25_2013.txt\r\ngridgrowseason_regions_18952012_Jun25_2013.txt\r\ngetgrowseason_Jun25_2013.f95\r\ngridaveragegrow_regions_Jun25_2013.f95\r\nfreezefreeseason_regions_18952012_Jun25_2013.xlsx\r\nCS_observed frost free season_V5.png",
+    "software": "Fortran 95; lf95 compiler (Lahey/Fujitsu Linux64 Fortran compiler release L8.10b)",
+    "start_time": null,
+    "uri": "/activity/c8484765-nca3-ghcn-daily-process",
+    "visualization_software": "Adobe Illustrator CS6"
+}

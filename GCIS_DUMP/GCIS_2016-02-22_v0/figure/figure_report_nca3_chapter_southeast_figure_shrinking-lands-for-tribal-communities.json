@@ -1,0 +1,97 @@
+{
+    "attributes": null,
+    "caption": "Aerial photos of Isle de Jean Charles in Louisiana taken 45 years apart shows evidence of the effects of rising seas, sinking land, and human development. The wetlands adjacent to the Isle de Jean Charles community (about 60 miles south of New Orleans) have been disappearing rapidly since the photo on the left was taken in 1963. By 2008, after four major hurricanes, significant erosion, and alteration of the surrounding marsh for oil and gas extraction, open water surrounds the greatly reduced dry land. See Ch. 25: Coasts for more information. (Photo credit: USGS).",
+    "chapter": {
+        "doi": "10.7930/J0NP22CB",
+        "identifier": "southeast",
+        "number": 17,
+        "report_identifier": "nca3",
+        "sort_key": 170,
+        "title": "Southeast and the Caribbean",
+        "url": "http://nca2014.globalchange.gov/report/regions/southeast"
+    },
+    "chapter_identifier": "southeast",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-18T14:17:00",
+    "files": [
+        {
+            "file": "fc/89/d0263237dc983a62395c1677d50d/SE_Isle_de_Jean_Charles_V9.png",
+            "href": "http://data.globalchange.gov/assets/fc/89/d0263237dc983a62395c1677d50d/SE_Isle_de_Jean_Charles_V9.png",
+            "identifier": "b6954ba1-2ca2-4909-9efd-7f212ebc477b",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "1f8c572f4c6b71c09b25da96646f406e797cdb51",
+            "size": 593284,
+            "thumbnail": "fc/89/d0263237dc983a62395c1677d50d/.thumb-b6954ba1-2ca2-4909-9efd-7f212ebc477b.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/fc/89/d0263237dc983a62395c1677d50d/.thumb-b6954ba1-2ca2-4909-9efd-7f212ebc477b.png",
+            "uri": "/file/b6954ba1-2ca2-4909-9efd-7f212ebc477b",
+            "url": "/assets/fc/89/d0263237dc983a62395c1677d50d/SE_Isle_de_Jean_Charles_V9.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/southeast/figure/shrinking-lands-for-tribal-communities.json",
+    "identifier": "shrinking-lands-for-tribal-communities",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-11-18T14:17:00",
+            "description": null,
+            "identifier": "0f31f1eb-3915-4e46-9127-6e37c5cd563b",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": "1963-02-05T23:59:59",
+            "time_start": "1963-02-05T00:00:00",
+            "title": "Shrinking Lands for Tribal Communities - 1963",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2013-11-18T14:17:00",
+            "description": null,
+            "identifier": "6e95282c-a2f3-4db9-95d4-3fe9b10fd1af",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2008-10-01T23:59:59",
+            "time_start": "2008-10-01T00:00:00",
+            "title": "Shrinking Lands for Tribal Communities - 2008",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 2,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "webpage Before and After: 50 Years of Rising Tides and Sinking Marshes",
+            "note": null,
+            "publication_type_identifier": "webpage",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/webpage/6778161f-897b-4f89-942f-8ad2f01f11a0"
+        }
+    ],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Shrinking Lands for Tribal Communities",
+    "uri": "/report/nca3/chapter/southeast/figure/shrinking-lands-for-tribal-communities",
+    "url": "http://nca2014.globalchange.gov/report/regions/southeast/graphics/shrinking-lands-tribal-communities",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

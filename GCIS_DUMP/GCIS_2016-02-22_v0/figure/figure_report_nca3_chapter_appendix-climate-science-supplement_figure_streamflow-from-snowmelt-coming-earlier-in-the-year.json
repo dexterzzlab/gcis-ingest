@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "At many locations in the western U.S., the timing of streamflow in rivers fed by snowpack is shifting to earlier in the year. Red dots indicate stream gauge locations where half of the annual flow is now arriving anywhere from 5 to 20 days earlier each year for 2001-2010, relative to the 1951-2000 average. Blue dots indicate locations where the annual flow is now arriving later. Crosses indicate locations where observed changes are not statistically different from the past century baseline at 90% confidence levels, diamonds indicate gauges where the timing difference was significantly different at 90% confidence, and dots indicate gauges where timing was different at 95% confidence level. (Updated from Stewart et al. 2005).<tbib>e4a5a03e-0138-4ebb-98ad-6fb28ec56be5</tbib>",
+    "chapter": {
+        "doi": "10.7930/J0KS6PHH",
+        "identifier": "appendix-climate-science-supplement",
+        "number": 33,
+        "report_identifier": "nca3",
+        "sort_key": 330,
+        "title": "Appendix 3: Climate Science Supplement",
+        "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement"
+    },
+    "chapter_identifier": "appendix-climate-science-supplement",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-10-23T11:15:00",
+    "files": [
+        {
+            "file": "8a/6d/9005a3064f4ff7834736856c7e0c/APP_center_of_flow_dates_V4.png",
+            "href": "http://data.globalchange.gov/assets/8a/6d/9005a3064f4ff7834736856c7e0c/APP_center_of_flow_dates_V4.png",
+            "identifier": "05b845f8-573a-45e5-bc7c-59a910202044",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "2dfdb5bd409c9595e6cf935bdb9f433f1edf262a",
+            "size": 106381,
+            "thumbnail": "8a/6d/9005a3064f4ff7834736856c7e0c/.thumb-05b845f8-573a-45e5-bc7c-59a910202044.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/8a/6d/9005a3064f4ff7834736856c7e0c/.thumb-05b845f8-573a-45e5-bc7c-59a910202044.png",
+            "uri": "/file/05b845f8-573a-45e5-bc7c-59a910202044",
+            "url": "/assets/8a/6d/9005a3064f4ff7834736856c7e0c/APP_center_of_flow_dates_V4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-climate-science-supplement/figure/streamflow-from-snowmelt-coming-earlier-in-the-year.json",
+    "identifier": "streamflow-from-snowmelt-coming-earlier-in-the-year",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-10-23T11:15:00",
+            "description": null,
+            "identifier": "f7b10d1b-3d43-4e95-95ef-dcd17ca12e56",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2010-12-31T23:59:59",
+            "time_start": "1951-01-01T00:00:00",
+            "title": "Streamflow from Snowmelt Coming Earlier in the Year",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 30,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Changes toward Earlier Streamflow Timing across Western North America",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1175/JCLI3321.1"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/e4a5a03e-0138-4ebb-98ad-6fb28ec56be5.json",
+            "uri": "/reference/e4a5a03e-0138-4ebb-98ad-6fb28ec56be5"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Streamflow from Snowmelt Coming Earlier in the Year",
+    "uri": "/report/nca3/chapter/appendix-climate-science-supplement/figure/streamflow-from-snowmelt-coming-earlier-in-the-year",
+    "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/streamflow-snowmelt-coming-earlier-year",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

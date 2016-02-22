@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "The fractional areal extent of the contiguous U.S. and Mexico in extreme drought according to projections of the Palmer Drought Severity Index under an intermediate emissions scenario (SRES A1B, in between the B1 and A2 scenarios used elsewhere in this report) (Supplemental Message 5 and Ch. 2: Our Changing Climate, Key Message 3). The Palmer Drought Severity Index is the most widely used measure of drought, although it is more sensitive to temperature than other drought indices and may over-estimate the magnitude of drought increases. The red line is based on observed temperature and precipitation. The blue line is from the average of 19 different climate models. The gray lines in the background are individual results from over 70 different simulations from these models. These results suggest an increasing probability of agricultural drought over this century throughout most of the U.S. (Figure source: Wehner et al. 2011<tbib>948ffa58-24f3-4129-90c3-8d49f3172f74</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0KS6PHH",
+        "identifier": "appendix-climate-science-supplement",
+        "number": 33,
+        "report_identifier": "nca3",
+        "sort_key": 330,
+        "title": "Appendix 3: Climate Science Supplement",
+        "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement"
+    },
+    "chapter_identifier": "appendix-climate-science-supplement",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2012-11-01T15:56:00",
+    "files": [
+        {
+            "file": "2e/81/8fd11d248ff4879079d6b28cde01/CS_drought_us-mexico_V3.png",
+            "href": "http://data.globalchange.gov/assets/2e/81/8fd11d248ff4879079d6b28cde01/CS_drought_us-mexico_V3.png",
+            "identifier": "55a626d3-fb3d-4ddd-9702-fdeb0b0aaf86",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "3842ef532b5b2607fbd75966f197c9b236214ead",
+            "size": 178127,
+            "thumbnail": "2e/81/8fd11d248ff4879079d6b28cde01/.thumb-55a626d3-fb3d-4ddd-9702-fdeb0b0aaf86.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/2e/81/8fd11d248ff4879079d6b28cde01/.thumb-55a626d3-fb3d-4ddd-9702-fdeb0b0aaf86.png",
+            "uri": "/file/55a626d3-fb3d-4ddd-9702-fdeb0b0aaf86",
+            "url": "/assets/2e/81/8fd11d248ff4879079d6b28cde01/CS_drought_us-mexico_V3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-climate-science-supplement/figure/extreme-drought-in-the-us-and-mexico-past-and-future.json",
+    "identifier": "extreme-drought-in-the-us-and-mexico-past-and-future",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2012-11-01T15:56:00",
+            "description": null,
+            "identifier": "84b76259-2025-4de0-9ed1-ec91541d2fee",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2100-12-31T23:59:59",
+            "time_start": "1900-01-01T00:00:00",
+            "title": "Extreme Drought in the U.S. and Mexico, Past and Future",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 35,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Projections of Future Drought in the Continental United States and Mexico",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1175/2011JHM1351.1"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/948ffa58-24f3-4129-90c3-8d49f3172f74.json",
+            "uri": "/reference/948ffa58-24f3-4129-90c3-8d49f3172f74"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "Wehner et al. 2011<tbib>948ffa58-24f3-4129-90c3-8d49f3172f74</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Extreme Drought in the U.S. and Mexico, Past and Future",
+    "uri": "/report/nca3/chapter/appendix-climate-science-supplement/figure/extreme-drought-in-the-us-and-mexico-past-and-future",
+    "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/extreme-drought-us-and-mexico-past-and-future",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Karl, T.R.\rMeehl, G.A.\rPeterson, T.C.\rKunkel, K.E.\rGutowski, W.J., Jr.\rEasterling, D.R.",
+        "Book Title": "Weather and Climate Extremes in a Changing Climate. Regions of Focus: North America, Hawaii, Caribbean, and US Pacific Islands. A Report by the U.S. Climate Change Science Program and the Subcommittee on Global Change Research",
+        "Editor": "Karl, T.R.\rMeehl, G.A.\rMiller, C.D.\rHassol, S.J.\rWaple, A.M.\rMurray, W.L.",
+        "Pages": "164",
+        "Place Published": "Washington, D.C.",
+        "Reviewer": "3a244268-5014-4ad9-943a-c3361454c25b",
+        "Title": "Executive Summary",
+        "URL": "http://library.globalchange.gov/sap-3-3-weather-and-climate-extremes-in-a-changing-climate",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "677",
+        "_uuid": "3a244268-5014-4ad9-943a-c3361454c25b",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/ccsp-sap-3_3-2008",
+    "href": "http://data.globalchange.gov/reference/3a244268-5014-4ad9-943a-c3361454c25b.json",
+    "identifier": "3a244268-5014-4ad9-943a-c3361454c25b",
+    "uri": "/reference/3a244268-5014-4ad9-943a-c3361454c25b"
+}

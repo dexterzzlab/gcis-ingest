@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/new-jersey-state.json",
+    "identifier": "new-jersey-state",
+    "name": "State of New Jersey",
+    "organization_type_identifier": "state",
+    "uri": "/organization/new-jersey-state",
+    "url": "http://www.state.nj.us/"
+}

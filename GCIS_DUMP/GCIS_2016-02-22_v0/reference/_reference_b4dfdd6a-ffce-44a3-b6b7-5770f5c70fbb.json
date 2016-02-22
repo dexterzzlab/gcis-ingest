@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Schmidhuber, J.\rTubiello, F.N.",
+        "DOI": "10.1073/pnas.0701976104",
+        "ISSN": "0027-8424",
+        "Issue": "50",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Pages": "19703-19708",
+        "Title": "Global food security under climate change",
+        "URL": "http://www.pnas.org/content/104/50/19703.full.pdf",
+        "Volume": "104",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "2773",
+        "_uuid": "b4dfdd6a-ffce-44a3-b6b7-5770f5c70fbb",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.0701976104",
+    "href": "http://data.globalchange.gov/reference/b4dfdd6a-ffce-44a3-b6b7-5770f5c70fbb.json",
+    "identifier": "b4dfdd6a-ffce-44a3-b6b7-5770f5c70fbb",
+    "uri": "/reference/b4dfdd6a-ffce-44a3-b6b7-5770f5c70fbb"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"italic\" start=\"9\" /><run start=\"15\" /></field></record>",
+        "Author": "Baker-Austin, C.\rTrinanes, J.A.\rTaylor, N.G.H.\rHartnell, R.\rSiitonen, A.\rMartinez-Urtaza, J.",
+        "DOI": "10.1038/nclimate1628",
+        "ISSN": "1758-678X",
+        "Journal": "Nature Climate Change",
+        "Pages": "73-77",
+        "Title": "Emerging Vibrio risk at high latitudes in response to ocean warming",
+        "Volume": "3",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Ch. 24: Oceans FINAL\",\"Overview\"]",
+        "_record_number": "625",
+        "_uuid": "918354f7-f16e-4cad-9289-20d41305abb8",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/nclimate1628",
+    "href": "http://data.globalchange.gov/reference/918354f7-f16e-4cad-9289-20d41305abb8.json",
+    "identifier": "918354f7-f16e-4cad-9289-20d41305abb8",
+    "uri": "/reference/918354f7-f16e-4cad-9289-20d41305abb8"
+}

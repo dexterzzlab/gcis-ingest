@@ -1,0 +1,80 @@
+{
+    "attributes": null,
+    "caption": "Conceptual design of a storm surge barrier in New York City. (Figure source: Jansen and Dircke 2009).",
+    "chapter": {
+        "doi": "10.7930/J0SF2T3P",
+        "identifier": "northeast",
+        "number": 16,
+        "report_identifier": "nca3",
+        "sort_key": 160,
+        "title": "Northeast",
+        "url": "http://nca2014.globalchange.gov/report/regions/northeast"
+    },
+    "chapter_identifier": "northeast",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-14T16:42:45",
+    "files": [
+        {
+            "file": "09/80/a03b07b33a63ff70ba8f648ecd28/NE_NYC_storm_surge_barrier_V4.png",
+            "href": "http://data.globalchange.gov/assets/09/80/a03b07b33a63ff70ba8f648ecd28/NE_NYC_storm_surge_barrier_V4.png",
+            "identifier": "7f485899-4578-47a2-a19b-ef98208ef1a3",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "153272d2070948a779de7f1b4fe39d990029cf1b",
+            "size": 1666356,
+            "thumbnail": "09/80/a03b07b33a63ff70ba8f648ecd28/.thumb-7f485899-4578-47a2-a19b-ef98208ef1a3.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/09/80/a03b07b33a63ff70ba8f648ecd28/.thumb-7f485899-4578-47a2-a19b-ef98208ef1a3.png",
+            "uri": "/file/7f485899-4578-47a2-a19b-ef98208ef1a3",
+            "url": "/assets/09/80/a03b07b33a63ff70ba8f648ecd28/NE_NYC_storm_surge_barrier_V4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/northeast/figure/storm-surge-barrier.json",
+    "identifier": "storm-surge-barrier",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-11-14T16:42:45",
+            "description": null,
+            "identifier": "d1adab37-d981-4a4c-af3c-a555f03d8554",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Storm Surge Barrier",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 8,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "generic 01d188d1-636b-49e6-af43-c1544cee9319",
+            "note": null,
+            "publication_type_identifier": "generic",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/generic/01d188d1-636b-49e6-af43-c1544cee9319"
+        }
+    ],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": "Jansen and Dircke 2009",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Storm Surge Barrier",
+    "uri": "/report/nca3/chapter/northeast/figure/storm-surge-barrier",
+    "url": "http://nca2014.globalchange.gov/report/regions/northeast/graphics/storm-surge-barrier",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

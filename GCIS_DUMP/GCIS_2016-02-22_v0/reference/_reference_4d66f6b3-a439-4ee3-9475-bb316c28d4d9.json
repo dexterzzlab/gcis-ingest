@@ -1,0 +1,30 @@
+{
+    "attrs": {
+        ".publisher": "AGU",
+        ".reference_type": "0",
+        "Abstract": "Sea level rise in the Gulf of Mexico has occurred at a rate of 1.8&#8211;2.2 mm/yr during the 20th century, or nearly the same as observed globally due to combined steric and water mass changes. Tide gauges in coastal Louisiana, however, record a substantially larger rate of rise and while a number of causal mechanisms may be responsible, their specific contribution is poorly understood. Using a realistic viscoelastic Earth model, detailed geologic parameters for south Louisiana and new GPS data, we demonstrate that Holocene sedimentary loading in the Gulf and Mississippi River delta is capable of contributing to 1&#8211;8 mm/yr of subsidence over areas of 30&#8211;0.75 \u00d7 103 km2.",
+        "Article Number": "L16303",
+        "Author": "Ivins, Erik R.\rDokka, Roy K.\rBlom, Ronald G.",
+        "Author Address": "CALTECH, Jet Prop Lab, Earth Sci Sect, Pasadena, CA 91109 USA. Louisiana State Univ, Dept Civil & Environm Engn, Baton Rouge, LA 70803 USA. Louisiana State Univ, Ctr Geoinformat, Baton Rouge, LA 70803 USA.; Ivins, ER (reprint author), CALTECH, Jet Prop Lab, Earth Sci Sect, Mail Stop 300-233,4800 Oak Grove Dr, Pasadena, CA 91109 USA.; eri@fryxell.jpl.nasa.gov\r",
+        "DOI": "10.1029/2007gl030003",
+        "Date": "Aug",
+        "ISSN": "1944-8512",
+        "Issue": "16",
+        "Journal": "Geophysical Research Letters",
+        "Keywords": "coastal processes; rheology mantle; sedimentary loading; 1211 Geodesy and Gravity: Non-tectonic deformation; 1641 Global Change: Sea level change; 1861 Hydrology: Sedimentation; 8162 Tectonophysics: Rheology: mantle",
+        "Language": "English",
+        "Pages": "L16303",
+        "Title": "Post-glacial sediment load and subsidence in coastal Louisiana",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2007GL030003/pdf",
+        "Volume": "34",
+        "Year": "2007",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "1282",
+        "_uuid": "4d66f6b3-a439-4ee3-9475-bb316c28d4d9",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2007gl030003",
+    "href": "http://data.globalchange.gov/reference/4d66f6b3-a439-4ee3-9475-bb316c28d4d9.json",
+    "identifier": "4d66f6b3-a439-4ee3-9475-bb316c28d4d9",
+    "uri": "/reference/4d66f6b3-a439-4ee3-9475-bb316c28d4d9"
+}

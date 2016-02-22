@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Immediate Action Workgroup,",
+        "Institution": "Immediate Action Workgroup, State of Alaska ",
+        "Pages": "86",
+        "Place Published": "Juneau, AK",
+        "Title": "Recommendations Report to the Governor\u2019s Subcabinet on Climate Change. Final Report from the Immediate Action Workgroup, April 17, 2008",
+        "URL": "http://www.climatechange.alaska.gov/docs/iaw_rpt_17apr08.pdf",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "1391",
+        "_uuid": "633b7929-e8ab-40ae-8683-b1af3d5db303",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/immacworkgroup-recommendations-2008",
+    "href": "http://data.globalchange.gov/reference/633b7929-e8ab-40ae-8683-b1af3d5db303.json",
+    "identifier": "633b7929-e8ab-40ae-8683-b1af3d5db303",
+    "uri": "/reference/633b7929-e8ab-40ae-8683-b1af3d5db303"
+}

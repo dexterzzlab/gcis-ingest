@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Larsen, Christopher F.\rMotyka, Roman J.\rArendt, Anthony A.\rEchelmeyer, Keith A.\rGeissler, Paul E.",
+        "DOI": "10.1029/2006JF000586",
+        "ISSN": "2156-2202",
+        "Issue": "F1",
+        "Journal": "Journal of Geophysical Research",
+        "Keywords": "glaciers",
+        "Pages": "F01007",
+        "Title": "Glacier changes in southeast Alaska and northwest British Columbia and contribution to sea level rise",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2006JF000586/pdf",
+        "Volume": "112",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "757",
+        "_uuid": "8edf7c43-9210-4aca-b890-f3a5eb001a11",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2006JF000586",
+    "href": "http://data.globalchange.gov/reference/8edf7c43-9210-4aca-b890-f3a5eb001a11.json",
+    "identifier": "8edf7c43-9210-4aca-b890-f3a5eb001a11",
+    "uri": "/reference/8edf7c43-9210-4aca-b890-f3a5eb001a11"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Murawski, S.A.",
+        "DOI": "10.1577/1548-8659(1993)122<0647:CCAMFD>2.3.CO;2",
+        "ISSN": "0002-8487",
+        "Issue": "5",
+        "Journal": "Transactions of the American Fisheries Society",
+        "Pages": "647-658",
+        "Title": "Climate change and marine fish distributions: Forecasting from historical analogy",
+        "Volume": "122",
+        "Year": "1993",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\"]",
+        "_record_number": "2130",
+        "_uuid": "d7265962-536c-4002-b3a7-1ed6e8841753",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1577/1548-8659(1993)122%3C0647:CCAMFD%3E2.3.CO;2",
+    "href": "http://data.globalchange.gov/reference/d7265962-536c-4002-b3a7-1ed6e8841753.json",
+    "identifier": "d7265962-536c-4002-b3a7-1ed6e8841753",
+    "uri": "/reference/d7265962-536c-4002-b3a7-1ed6e8841753"
+}

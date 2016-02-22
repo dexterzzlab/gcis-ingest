@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Boyd, J.\rWainger, L.",
+        "DOI": "10.1111/1467-8276.00404",
+        "ISSN": "0002-9092",
+        "Issue": "5",
+        "Journal": "American Journal of Agricultural Economics",
+        "Pages": "1371-1378",
+        "Title": "Landscape indicators of ecosystem service benefits",
+        "Volume": "84",
+        "Year": "2002",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "1031",
+        "_uuid": "7d4849c4-5315-49ab-a374-7065ae1f947e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/1467-8276.00404",
+    "href": "http://data.globalchange.gov/reference/7d4849c4-5315-49ab-a374-7065ae1f947e.json",
+    "identifier": "7d4849c4-5315-49ab-a374-7065ae1f947e",
+    "uri": "/reference/7d4849c4-5315-49ab-a374-7065ae1f947e"
+}

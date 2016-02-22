@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Fourier, Jean-Baptiste Joseph ",
+        "Journal": "Annales de Chimie et de Physique, 2e s\u00e9rie",
+        "Pages": "136-167",
+        "Title": "Remarques g\u00e9n\u00e9rales sur les temp\u00e9ratures du globe terrestre et des espaces plan\u00e9taires",
+        "Volume": "27",
+        "Year": "1824",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "4269",
+        "_uuid": "9d88ac8d-04d6-40b1-ba39-1893b5d69d06",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/remarques-gnrales-sur-les-tempratures-du-globe-terrestre-et-des-espaces-plantaires",
+    "href": "http://data.globalchange.gov/reference/9d88ac8d-04d6-40b1-ba39-1893b5d69d06.json",
+    "identifier": "9d88ac8d-04d6-40b1-ba39-1893b5d69d06",
+    "uri": "/reference/9d88ac8d-04d6-40b1-ba39-1893b5d69d06"
+}

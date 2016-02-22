@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Article Number": "S4",
+        "Author": "Moore, S.K.\rTrainer, V.L.\rMantua, N.J.\rParker, M.S.\rLaws, E.A.\rBacker, L.C.\rFleming, L.E.",
+        "DOI": "10.1186/1476-069X-7-S2-S4",
+        "Issue": "2",
+        "Journal": "Environmental Health",
+        "Pages": "1-12",
+        "Title": "Impacts of climate variability and future climate change on harmful algal blooms and human health",
+        "URL": "http://www.ehjournal.net/content/pdf/1476-069X-7-S2-S4.pdf",
+        "Volume": "7",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"RG 2 Southeast\",\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "2079",
+        "_uuid": "3325ef64-347b-4c33-9289-9e05e905dcbe",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1186/1476-069X-7-S2-S4",
+    "href": "http://data.globalchange.gov/reference/3325ef64-347b-4c33-9289-9e05e905dcbe.json",
+    "identifier": "3325ef64-347b-4c33-9289-9e05e905dcbe",
+    "uri": "/reference/3325ef64-347b-4c33-9289-9e05e905dcbe"
+}

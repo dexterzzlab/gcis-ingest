@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-04-21T14:49:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Changes in climate through this century will affect crops differently because individual species respond differently to warming. This figure is an example of the potential impacts on different crops within the same geographic region. Crop yield responses for eight crops in the Central Valley of California are projected under two emissions scenarios, one in which heat-trapping gas emissions are substantially reduced (B1) and another in which these emissions continue to grow (A2). This analysis assumes adequate water supplies (soil moisture) and nutrients are maintained while temperatures increase. The lines show five-year moving averages for the period from 2010 to 2094, with the yield changes shown as differences from the year 2009. Yield response varies among crops, with cotton, maize, wheat, and sunflower showing yield declines early in the period. Alfalfa and safflower showed no yield declines during the period. Rice and tomato do not show a yield response until the latter half of the period, with the higher emissions scenario resulting in a larger yield response. (Figure source: adapted from Lee et al. 2011<tbib>22cbe301-ae3f-4d9a-a111-6b35824a5501</tbib>).",
+            "chapter_identifier": "agriculture",
+            "create_dt": "2014-04-21T14:49:00",
+            "identifier": "crop-yield-response-to-warming-in-californias-central-valley",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 4,
+            "report_identifier": "nca3",
+            "source_citation": "adapted from Lee et al. 2011<tbib>22cbe301-ae3f-4d9a-a111-6b35824a5501</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Crop Yield Response to Warming in California\u2019s Central Valley",
+            "url": "http://nca2014.globalchange.gov/report/sectors/agriculture/graphics/crop-yield-response-warming-californias-central-valley",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "57/65/fc29f19e7a7dfd6ddd74d42a0688/ag_crop_yields_12356_v6.png",
+            "href": "http://data.globalchange.gov/assets/57/65/fc29f19e7a7dfd6ddd74d42a0688/ag_crop_yields_12356_v6.png",
+            "identifier": "d1b03ed9-ba1b-4bb9-bab7-3500704ffb5b",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "7af0bcfbade9ef67fa2644425ae224542150a21b",
+            "size": 241658,
+            "thumbnail": "57/65/fc29f19e7a7dfd6ddd74d42a0688/.thumb-d1b03ed9-ba1b-4bb9-bab7-3500704ffb5b.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/57/65/fc29f19e7a7dfd6ddd74d42a0688/.thumb-d1b03ed9-ba1b-4bb9-bab7-3500704ffb5b.png",
+            "uri": "/file/d1b03ed9-ba1b-4bb9-bab7-3500704ffb5b",
+            "url": "/assets/57/65/fc29f19e7a7dfd6ddd74d42a0688/ag_crop_yields_12356_v6.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/baf6379e-7a18-48c3-9955-cfd893427e65.json",
+    "identifier": "baf6379e-7a18-48c3-9955-cfd893427e65",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2097-12-31T23:59:59",
+    "time_start": "2000-01-01T00:00:00",
+    "title": "Crop Yield Response to Warming in California's Central Valley",
+    "uri": "/image/baf6379e-7a18-48c3-9955-cfd893427e65",
+    "url": null,
+    "usage_limits": null
+}

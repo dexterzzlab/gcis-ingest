@@ -1,0 +1,115 @@
+{
+    "attributes": "Precipitation, projections, extremes, CMIP5, RCP 2.6",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/3757.json",
+            "id": 3757,
+            "organization": {
+                "country_code": "US",
+                "identifier": "lawrence-berkeley-national-laboratory",
+                "name": "Lawrence Berkeley National Laboratory",
+                "organization_type_identifier": "federally funded research and development center",
+                "url": "http://www.lbl.gov/"
+            },
+            "organization_uri": "/organization/lawrence-berkeley-national-laboratory",
+            "person": {
+                "first_name": "Michael",
+                "id": 1026,
+                "last_name": "Wehner",
+                "middle_name": null,
+                "orcid": "0000-0001-5991-0082",
+                "url": "http://crd.lbl.gov/groups-depts/SCG/staff/staff-members/michael-wehner/"
+            },
+            "person_id": 1026,
+            "person_uri": "/person/1026",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/3757"
+        }
+    ],
+    "create_dt": "2014-04-28T14:30:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Maps show the increase in frequency of extreme daily precipitation events (a daily amount that now occurs once in 20 years) by the later part of this century (2081-2100) compared to the later part of last century (1981-2000). Such extreme events are projected to occur more frequently everywhere in the United States. Under the rapid emissions reduction scenario (RCP 2.6), these events would occur nearly twice as often. For the scenario assuming continued increases in emissions (RCP 8.5), these events would occur up to five times as often. (Figure source: NOAA NCDC / CICS-NC).",
+            "chapter_identifier": "our-changing-climate",
+            "create_dt": "2014-04-28T14:01:34",
+            "identifier": "projected-change-in-heavy-precipitation-events",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 19,
+            "report_identifier": "nca3",
+            "source_citation": "NOAA NCDC / CICS-NC",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Projected Change in Heavy Precipitation Events",
+            "url": "http://nca2014.globalchange.gov/report/our-changing-climate/heavy-downpours-increasing/graphics/projected-change-heavy-precipitation",
+            "usage_limits": "Free to use with credit to the original figure source."
+        },
+        {
+            "attributes": null,
+            "caption": "Maps show the increase in frequency of extreme daily precipitation events (a daily amount that now occurs just once in 20 years) by the later part of this century (2081-2100) compared to the latter part of the last century (1981-2000). Such extreme events are projected to occur more frequently everywhere in the United States. Under a rapid emissions reduction scenario (RCP 2.6), these events would occur nearly twice as often. For a scenario assuming continued increases in emissions (RCP 8.5), these events would occur up to five times as often. (Figure source: NOAA NCDC / CICS-NC).",
+            "chapter_identifier": "human-health",
+            "create_dt": "2014-04-28T14:01:34",
+            "identifier": "health-projected-change-in-heavy-precipitation-events",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 6,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Projected Change in Heavy Precipitation Events",
+            "url": "http://nca2014.globalchange.gov/report/sectors/human-health/graphics/projected-change-heavy-precipitation-events",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "20/ac/04aa10ad3e645e8ff924458b303a/2-19_a.png",
+            "href": "http://data.globalchange.gov/assets/20/ac/04aa10ad3e645e8ff924458b303a/2-19_a.png",
+            "identifier": "9980fddc-eeee-4acd-bc00-7e6b349a34d8",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "f503395c6f57dc3c564c66d901b71c4d43c47bd9",
+            "size": 161642,
+            "thumbnail": "20/ac/04aa10ad3e645e8ff924458b303a/.thumb-9980fddc-eeee-4acd-bc00-7e6b349a34d8.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/20/ac/04aa10ad3e645e8ff924458b303a/.thumb-9980fddc-eeee-4acd-bc00-7e6b349a34d8.png",
+            "uri": "/file/9980fddc-eeee-4acd-bc00-7e6b349a34d8",
+            "url": "/assets/20/ac/04aa10ad3e645e8ff924458b303a/2-19_a.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/bdbc59c7-c91e-496f-b4bd-9f584404df97.json",
+    "identifier": "bdbc59c7-c91e-496f-b4bd-9f584404df97",
+    "lat_max": "72",
+    "lat_min": "18",
+    "lon_max": "-66",
+    "lon_min": "-169",
+    "parents": [
+        {
+            "activity_uri": "/activity/bdbc59c7-nca3-cmip5-r1-process",
+            "label": "dataset nca3-cmip5-r1",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-cmip5-r1"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2100-12-31T23:59:59",
+    "time_start": "1981-01-01T00:00:00",
+    "title": "Projected Change in Heavy Precipitation Events: Rapid Emissions Reductions (RCP 2.6)",
+    "uri": "/image/bdbc59c7-c91e-496f-b4bd-9f584404df97",
+    "url": null,
+    "usage_limits": null
+}

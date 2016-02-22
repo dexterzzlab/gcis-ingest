@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "St\u00f6llberger, C.\rLutz, W.\rFinsterer, J.",
+        "DOI": "10.1111/j.1468-1331.2009.02581.x",
+        "ISSN": "1468-1331",
+        "Issue": "7",
+        "Journal": "European Journal of Neurology",
+        "Pages": "879-882",
+        "Title": "Heat-related side-effects of neurological and non-neurological medication may increase heatwave fatalities",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/j.1468-1331.2009.02581.x/pdf",
+        "Volume": "16",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "2962",
+        "_uuid": "114cd0b9-5577-4c58-b5b1-24c822dd4ad7",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1468-1331.2009.02581.x",
+    "href": "http://data.globalchange.gov/reference/114cd0b9-5577-4c58-b5b1-24c822dd4ad7.json",
+    "identifier": "114cd0b9-5577-4c58-b5b1-24c822dd4ad7",
+    "uri": "/reference/114cd0b9-5577-4c58-b5b1-24c822dd4ad7"
+}

@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "MODIS color composite image of the Arctic showing the minimum sea-ice extent in 2005 (white) and the average of the 1979\u20132004 annual minima (yellow line). Credit: G. Shirah, NASA/ Goddard Space Flight Center. ",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "2f/14/d4afbded752b1b0c29a3d550f60b/our_changing_planet_2007_86_20090708_2084902396.jpg",
+            "href": "http://data.globalchange.gov/assets/2f/14/d4afbded752b1b0c29a3d550f60b/our_changing_planet_2007_86_20090708_2084902396.jpg",
+            "identifier": "69b95a21-0b8e-47d5-bf87-3f5d5f9dbc27",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "0f0f3fb6667d45347eda3b9818ec8fee0f03ef78",
+            "size": 41072,
+            "thumbnail": "2f/14/d4afbded752b1b0c29a3d550f60b/.thumb-69b95a21-0b8e-47d5-bf87-3f5d5f9dbc27.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/2f/14/d4afbded752b1b0c29a3d550f60b/.thumb-69b95a21-0b8e-47d5-bf87-3f5d5f9dbc27.png",
+            "uri": "/file/69b95a21-0b8e-47d5-bf87-3f5d5f9dbc27",
+            "url": "/assets/2f/14/d4afbded752b1b0c29a3d550f60b/our_changing_planet_2007_86_20090708_2084902396.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/arctic-minimum-sea-ice-extent.json",
+    "identifier": "arctic-minimum-sea-ice-extent",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Arctic Minimum Sea-Ice Extent",
+    "uri": "/report/ccsp-ocpfy2007/figure/arctic-minimum-sea-ice-extent",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

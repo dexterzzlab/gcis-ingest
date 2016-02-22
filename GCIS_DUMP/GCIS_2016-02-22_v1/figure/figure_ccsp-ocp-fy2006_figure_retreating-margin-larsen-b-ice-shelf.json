@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Colored lines show the retreating margin of the Larsen B ice shelf from 1998 through 2002. The red squares indicate glacier velocity measurement sites where speed increased significantly in the 12 months following the 2002 ice shelf breakup\u2014up to a five-fold flux increase in some places. Measurements at sites indicated by the blue squares showed no large velocity changes. The 1 November 2003 base image is from MODIS Terra. Credit: T. Scambos, NOAA/ National Snow and Ice Data Center.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "22/c0/0a0977ecca9ac9d7f16afe9d0d14/our_changing_planet_2006_25_20090708_1375041222.jpg",
+            "href": "http://data.globalchange.gov/assets/22/c0/0a0977ecca9ac9d7f16afe9d0d14/our_changing_planet_2006_25_20090708_1375041222.jpg",
+            "identifier": "1935e21a-6308-4812-b5a5-a47cea10ab20",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "fedc5ef70003dbdcbb4990a411f81a2d6a8e8368",
+            "size": 106403,
+            "thumbnail": "22/c0/0a0977ecca9ac9d7f16afe9d0d14/.thumb-1935e21a-6308-4812-b5a5-a47cea10ab20.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/22/c0/0a0977ecca9ac9d7f16afe9d0d14/.thumb-1935e21a-6308-4812-b5a5-a47cea10ab20.png",
+            "uri": "/file/1935e21a-6308-4812-b5a5-a47cea10ab20",
+            "url": "/assets/22/c0/0a0977ecca9ac9d7f16afe9d0d14/our_changing_planet_2006_25_20090708_1375041222.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocp-fy2006/figure/retreating-margin-larsen-b-ice-shelf.json",
+    "identifier": "retreating-margin-larsen-b-ice-shelf",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocp-fy2006",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Retreating Margin of the Larsen B Ice Shelf",
+    "uri": "/report/ccsp-ocp-fy2006/figure/retreating-margin-larsen-b-ice-shelf",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

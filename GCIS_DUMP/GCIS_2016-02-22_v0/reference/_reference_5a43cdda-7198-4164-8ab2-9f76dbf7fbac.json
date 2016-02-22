@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Kareiva, P.\rEnquist, C.\rJohnson, A.\rJulius, S.H.\rLawler, J.\rPetersen, B.\rPitelka, L.\rShaw, R.\rWest, J.M.",
+        "Book Title": "Preliminary Review of Adaptation Options for Climate-Sensitive Ecosystems and Resources. A Report by the U.S. Climate Change Science Program and the Subcommittee on Global Change Research",
+        "Editor": "Julius, S.H.\rWest , J.M.",
+        "Pages": "9-1 to 9-66",
+        "Place Published": "Washington, DC",
+        "Publisher": "U.S. Environmental Protection Agency",
+        "Reviewer": "5a43cdda-7198-4164-8ab2-9f76dbf7fbac",
+        "Title": "Ch. 9: Synthesis and conclusions",
+        "URL": "http://library.globalchange.gov/products/sap-4-4-preliminary-review-of-adaptation-options-for-climate-sensitive-ecosystems-and-resources",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "3622",
+        "_uuid": "5a43cdda-7198-4164-8ab2-9f76dbf7fbac",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/ccsp-sap-4_4-2008",
+    "href": "http://data.globalchange.gov/reference/5a43cdda-7198-4164-8ab2-9f76dbf7fbac.json",
+    "identifier": "5a43cdda-7198-4164-8ab2-9f76dbf7fbac",
+    "uri": "/reference/5a43cdda-7198-4164-8ab2-9f76dbf7fbac"
+}

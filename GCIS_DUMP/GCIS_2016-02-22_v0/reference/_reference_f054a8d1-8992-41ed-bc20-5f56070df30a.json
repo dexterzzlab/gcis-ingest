@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Kunkel, K. E.\rP.D. Bromirski\rH.E. Brooks\rT. Cavazos\rA.V. Douglas\rD.R. Easterling\rEmanuel, K.A.\rGroisman, P.Ya.\rHolland, G.J.\rKnutson, T.R.\rKossin, J.P.\rKomar, P.D.\rLevinson, D.H.\rSmith, R.L.",
+        "Book Title": "Weather and Climate Extremes in a Changing Climate. Regions of Focus: North America, Hawaii, Caribbean, and U.S. Pacific Islands. A Report by the U.S. Climate Change Science Program and the Subcommittee on Global Change Research",
+        "Editor": "Karl, T. R.\rG.A. Meehl\rC.D. Miller\rS.J. Hassol\rA.M. Waple\rW.L. Murray",
+        "Notes": "Kunkel, K. E., Bromirski, P. D., Brooks, H. E., Cavazos, T., Douglas, A. V., Easterling, D. R., et al. (2008). Observed changes in weather and climate extremes. In T. R. Karl, G. A. Meehl, C. D. Miller, S. J. Hassol, A. M. Waple, & W. L. Murray (eds), <i>Weather and Climate Extremes in a Changing Climate. Regions of Focus: North American, Hawaii, Caribbean, and U. S. Pacific Islands</i>. Washington, D. C.: U. S. Climate Change Science Program and the Subcommittee on Global Change Research",
+        "Pages": "35-80",
+        "Place Published": "Washington, D.C.",
+        "Reviewer": "f054a8d1-8992-41ed-bc20-5f56070df30a",
+        "Title": "Ch. 2: Observed changes in weather and climate extremes",
+        "URL": "http://downloads.climatescience.gov/sap/sap3-3/sap3-3-final-all.pdf",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "195",
+        "_uuid": "f054a8d1-8992-41ed-bc20-5f56070df30a",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/ccsp-sap-3_3-2008",
+    "href": "http://data.globalchange.gov/reference/f054a8d1-8992-41ed-bc20-5f56070df30a.json",
+    "identifier": "f054a8d1-8992-41ed-bc20-5f56070df30a",
+    "uri": "/reference/f054a8d1-8992-41ed-bc20-5f56070df30a"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Jones, Carol Adaire \rCynthia J. Nickerson\rNancy Cavallaro",
+        "Book Title": "Land Use and the Carbon Cycle: Advances in Integrated Science, Management and Policy",
+        "Editor": "Brown, D.G.\rRobinson, D.T.\rFrench, N.H.\rReed, B.C.",
+        "ISBN": "9781107011243",
+        "Pages": "403-430",
+        "Publisher": "Cambridge University Press",
+        "Reviewer": "223881e2-78d1-45cc-8338-773ab23bcc76",
+        "Title": "Ch. 16: U.S. Policies and greenhouse gas mitigation in agriculture",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 13: Land Use and Land Cover Change FINAL\"]",
+        "_record_number": "4179",
+        "_uuid": "223881e2-78d1-45cc-8338-773ab23bcc76",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/ddaadc62-d4cb-4fe2-84ac-eadf2ce7d522",
+    "href": "http://data.globalchange.gov/reference/223881e2-78d1-45cc-8338-773ab23bcc76.json",
+    "identifier": "223881e2-78d1-45cc-8338-773ab23bcc76",
+    "uri": "/reference/223881e2-78d1-45cc-8338-773ab23bcc76"
+}

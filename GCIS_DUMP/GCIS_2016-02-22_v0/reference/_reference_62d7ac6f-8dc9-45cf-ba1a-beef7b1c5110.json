@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Kumar, A.\rHoerling, M.P.",
+        "DOI": "10.1175/1520-0442(1998)011<3295:ACOPNA>2.0.CO;2",
+        "ISSN": "1520-0442",
+        "Issue": "12",
+        "Journal": "Journal of Climate",
+        "Pages": "3295-3308",
+        "Title": "Annual cycle of Pacific-North American seasonal predictability associated with different phases of ENSO",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/1520-0442%281998%29011%3C3295%3AACOPNA%3E2.0.CO%3B2",
+        "Volume": "11",
+        "Year": "1998",
+        "_chapter": "[\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "86",
+        "_uuid": "62d7ac6f-8dc9-45cf-ba1a-beef7b1c5110",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/1520-0442(1998)011%3C3295:ACOPNA%3E2.0.CO;2",
+    "href": "http://data.globalchange.gov/reference/62d7ac6f-8dc9-45cf-ba1a-beef7b1c5110.json",
+    "identifier": "62d7ac6f-8dc9-45cf-ba1a-beef7b1c5110",
+    "uri": "/reference/62d7ac6f-8dc9-45cf-ba1a-beef7b1c5110"
+}

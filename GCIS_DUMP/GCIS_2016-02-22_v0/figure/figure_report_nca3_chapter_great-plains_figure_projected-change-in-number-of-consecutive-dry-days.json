@@ -1,0 +1,130 @@
+{
+    "attributes": null,
+    "caption": "Current regional trends of a drier south and a wetter north are projected to become more pronounced by mid-century (2041-2070 as compared to 1971-2000 averages). Maps show the maximum annual number of consecutive days in which limited (less than 0.01 inches) precipitation was recorded on average from 1971 to 2000 (top), projected changes in the number of consecutive dry days assuming substantial reductions in emissions (B1), and projected changes if emissions continue to rise (A2). The southeastern Great Plains, which is the wettest portion of the region, is projected to experience large\u00a0increases in the number of consecutive dry days. (Figure source: NOAA NCDC / CICS-NC).",
+    "chapter": {
+        "doi": "10.7930/J0D798BC",
+        "identifier": "great-plains",
+        "number": 19,
+        "report_identifier": "nca3",
+        "sort_key": 190,
+        "title": "Great Plains",
+        "url": "http://nca2014.globalchange.gov/report/regions/great-plains"
+    },
+    "chapter_identifier": "great-plains",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2522.json",
+            "id": 2522,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Kenneth",
+                "id": 1025,
+                "last_name": "Kunkel",
+                "middle_name": null,
+                "orcid": "0000-0001-6667-7047",
+                "url": "http://cicsnc.org/people/kenneth-kunkel/"
+            },
+            "person_id": 1025,
+            "person_uri": "/person/1025",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2522"
+        }
+    ],
+    "create_dt": "2013-11-18T14:28:37",
+    "files": [
+        {
+            "file": "63/26/d769e1ea5741b5af2c9319c6aefe/GP_dry_days_projected_V4.png",
+            "href": "http://data.globalchange.gov/assets/63/26/d769e1ea5741b5af2c9319c6aefe/GP_dry_days_projected_V4.png",
+            "identifier": "d64d16e0-6e94-4cf6-bccf-0ab016efbad3",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "7282b65930012ca8eb74305eacf1b525eb5fbb8a",
+            "size": 584427,
+            "thumbnail": "63/26/d769e1ea5741b5af2c9319c6aefe/.thumb-d64d16e0-6e94-4cf6-bccf-0ab016efbad3.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/63/26/d769e1ea5741b5af2c9319c6aefe/.thumb-d64d16e0-6e94-4cf6-bccf-0ab016efbad3.png",
+            "uri": "/file/d64d16e0-6e94-4cf6-bccf-0ab016efbad3",
+            "url": "/assets/63/26/d769e1ea5741b5af2c9319c6aefe/GP_dry_days_projected_V4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/great-plains/figure/projected-change-in-number-of-consecutive-dry-days.json",
+    "identifier": "projected-change-in-number-of-consecutive-dry-days",
+    "images": [
+        {
+            "attributes": "Great Plains, precipitation, observed",
+            "create_dt": "2013-09-20T09:52:00",
+            "description": null,
+            "identifier": "8ea5099f-5380-4bab-82b3-13b17b3b24e7",
+            "lat_max": "48.94",
+            "lat_min": "25.94",
+            "lon_max": "-93.56",
+            "lon_min": "-116.06",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2000-12-31T23:59:59",
+            "time_start": "1971-01-01T00:00:00",
+            "title": "Projected Change in Number of Consecutive Dry Days: Historical Climate",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": "Great Plains, precipitation, projected",
+            "create_dt": "2013-11-19T14:16:00",
+            "description": null,
+            "identifier": "369af075-69cd-4bf4-8da7-ac9a8bcba2dc",
+            "lat_max": "48.94",
+            "lat_min": "25.94",
+            "lon_max": "-93.56",
+            "lon_min": "-116.06",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2070-12-31T23:59:59",
+            "time_start": "1971-01-01T00:00:00",
+            "title": "Projected Change in Number of Consecutive Dry Days: Lower Emissions (B1)",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": "Great Plains, precipitation, projected",
+            "create_dt": "2013-11-19T14:16:00",
+            "description": null,
+            "identifier": "f0790695-28f6-43d7-b95a-58df7608ef2e",
+            "lat_max": "48.94",
+            "lat_min": "25.94",
+            "lon_max": "-93.56",
+            "lon_min": "-116.06",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2070-12-31T23:59:59",
+            "time_start": "1971-01-01T00:00:00",
+            "title": "Projected Change in Number of Consecutive Dry Days: Higher Emissions (A2)",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 5,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": "NOAA NCDC / CICS-NC",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Projected Change in Number of Consecutive Dry Days",
+    "uri": "/report/nca3/chapter/great-plains/figure/projected-change-in-number-of-consecutive-dry-days",
+    "url": "http://nca2014.globalchange.gov/report/regions/great-plains/graphics/projected-change-number-consecutive-dry-days",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

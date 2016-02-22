@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Prichard, S.J.\rPeterson, D.L.\rJacobson, K.",
+        "DOI": "10.1139/X10-109",
+        "ISSN": "0045-5067",
+        "Issue": "8",
+        "Journal": "Canadian Journal of Forest Research",
+        "Pages": "1615-1626",
+        "Title": "Fuel treatments reduce the severity of wildfire effects in dry mixed conifer forest, Washington, USA",
+        "Volume": "40",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "2531",
+        "_uuid": "8335598d-5366-4fb0-9c7a-0ffb6cead911",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1139/X10-109",
+    "href": "http://data.globalchange.gov/reference/8335598d-5366-4fb0-9c7a-0ffb6cead911.json",
+    "identifier": "8335598d-5366-4fb0-9c7a-0ffb6cead911",
+    "uri": "/reference/8335598d-5366-4fb0-9c7a-0ffb6cead911"
+}

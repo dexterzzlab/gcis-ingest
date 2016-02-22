@@ -1,0 +1,15 @@
+{
+    "computing_environment": "Unknown",
+    "data_usage": "Global temperature change (relative to 1970-2010) is plotted as a time series.",
+    "duration": null,
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/108f029d-nca3-gistemp-r2010-process.json",
+    "identifier": "108f029d-nca3-gistemp-r2010-process",
+    "methodology": "Global temperature change (relative to 1970-2010) is plotted as a time series.",
+    "notes": "Microsoft Excel",
+    "output_artifacts": "Unknown",
+    "software": "Microsoft Excel",
+    "start_time": null,
+    "uri": "/activity/108f029d-nca3-gistemp-r2010-process",
+    "visualization_software": "Microsoft Excel, version unknown"
+}

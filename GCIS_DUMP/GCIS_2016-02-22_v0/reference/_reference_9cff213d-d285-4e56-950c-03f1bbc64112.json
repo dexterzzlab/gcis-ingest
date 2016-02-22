@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Fisher, B.S.\rNakicenovic, N.\rAlfsen, K.\rCorfee Morlot, J.\rChesnaye, F. de la\rHourcade, J.-Ch.\rJiang, K.\rKainuma, M.\rLa Rovere, E.\rMatysek, A.\rRana, A.\rRiahi, K.\rRichels, R.\rRose, S.\ran Vuuren, D.\rWarren, R.",
+        "Book Title": "Climate Change 2007: Mitigation. Contribution of Working Group III to the Fourth Assessment Report of the Inter-governmental Panel on Climate Change",
+        "Editor": "Metz, B. \rDavidson, O.R.\rBosch, P.R.\rDave, R.\rMeyer, L.A.",
+        "Pages": "169-250",
+        "Place Published": "Cambridge, UK and New York, NY",
+        "Publisher": "Cambridge University Press",
+        "Reviewer": "9cff213d-d285-4e56-950c-03f1bbc64112",
+        "Title": "Chapter 3: Issues related to mitigation in the long term context",
+        "URL": "http://www.ipcc.ch/pdf/assessment-report/ar4/wg3/ar4-wg3-chapter3.pdf",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 10: Energy Water Land FINAL\"]",
+        "_record_number": "3962",
+        "_uuid": "9cff213d-d285-4e56-950c-03f1bbc64112",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/ipcc-ar4-wg3",
+    "href": "http://data.globalchange.gov/reference/9cff213d-d285-4e56-950c-03f1bbc64112.json",
+    "identifier": "9cff213d-d285-4e56-950c-03f1bbc64112",
+    "uri": "/reference/9cff213d-d285-4e56-950c-03f1bbc64112"
+}

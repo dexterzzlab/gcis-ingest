@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "CCSP,",
+        "Editor": "J.S. Baron\rB. Griffith\rL.A. Joyce\rP. Kareiva\rB.D. Keller\rM.A. Palmer\rC.H. Peterson\rJ.M. Scott\r(Authors),\rJulius, S.H.\rJ.M. West",
+        "Number of Pages": "873",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "U.S. Environmental Protection Agency",
+        "Reviewer": "64c4a509-9dbc-449e-8f54-3777cd1895ee",
+        "Title": "Preliminary review of adaptation options for climate-sensitive ecosystems and resources. A Report by the U.S. Climate Change Science Program and the Subcommittee on Global Change Research",
+        "URL": "http://downloads.globalchange.gov/sap/sap4-4/sap4-4-final-report-all.pdf",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 30: NCA Long-Term Process FINAL\",\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "1311",
+        "_uuid": "64c4a509-9dbc-449e-8f54-3777cd1895ee",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/ccsp-sap-4_4-2008",
+    "href": "http://data.globalchange.gov/reference/64c4a509-9dbc-449e-8f54-3777cd1895ee.json",
+    "identifier": "64c4a509-9dbc-449e-8f54-3777cd1895ee",
+    "uri": "/reference/64c4a509-9dbc-449e-8f54-3777cd1895ee"
+}

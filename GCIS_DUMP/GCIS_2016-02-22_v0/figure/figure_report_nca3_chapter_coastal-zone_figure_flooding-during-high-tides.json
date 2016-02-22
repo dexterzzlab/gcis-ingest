@@ -1,0 +1,52 @@
+{
+    "attributes": null,
+    "caption": "Sea level rise is not just a problem of the future, but is already affecting coastal \r\ncommunities such as Charleston, South Carolina, and Olympia in South Puget Sound through \r\nflooding during high tides. (Photo credits: (left) NOAA Coastal Services Center; (right) Ray \r\nGarrido, January 6, 2010, reprinted with permission by the Washington Department of Ecology).",
+    "chapter": {
+        "doi": "10.7930/J0MS3QNW",
+        "identifier": "coastal-zone",
+        "number": 25,
+        "report_identifier": "nca3",
+        "sort_key": 250,
+        "title": "Coastal Zone Development and Ecosystems",
+        "url": "http://nca2014.globalchange.gov/report/regions/coasts"
+    },
+    "chapter_identifier": "coastal-zone",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "7d/c6/0cc0bc2a77a93b8871428d294e43/coastal_flooding_during_high_tides_V3.png",
+            "href": "http://data.globalchange.gov/assets/7d/c6/0cc0bc2a77a93b8871428d294e43/coastal_flooding_during_high_tides_V3.png",
+            "identifier": "ae551a3d-ac99-4115-9bdf-7b9e87604868",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "00c25b4438ce5aa6c9bc4063098485490b7113ce",
+            "size": 461361,
+            "thumbnail": "7d/c6/0cc0bc2a77a93b8871428d294e43/.thumb-ae551a3d-ac99-4115-9bdf-7b9e87604868.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/7d/c6/0cc0bc2a77a93b8871428d294e43/.thumb-ae551a3d-ac99-4115-9bdf-7b9e87604868.png",
+            "uri": "/file/ae551a3d-ac99-4115-9bdf-7b9e87604868",
+            "url": "/assets/7d/c6/0cc0bc2a77a93b8871428d294e43/coastal_flooding_during_high_tides_V3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/coastal-zone/figure/flooding-during-high-tides.json",
+    "identifier": "flooding-during-high-tides",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 2,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": "(left) NOAA Coastal Services Center; (right) Ray Garrido, January 6, 2010, reprinted with permission by the Washington Department of Ecology",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Flooding During High Tides",
+    "uri": "/report/nca3/chapter/coastal-zone/figure/flooding-during-high-tides",
+    "url": "http://nca2014.globalchange.gov/report/regions/coasts/graphics/flooding-during-high-tides",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

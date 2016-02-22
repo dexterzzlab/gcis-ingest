@@ -1,0 +1,52 @@
+{
+    "attributes": null,
+    "caption": "Change in the number of consecutive dry days (days receiving less than 0.04 inches (1 mm) of precipitation) at the end of this century (2070-2099) relative to the end of last century (1971-2000) under the higher scenario, RCP 8.5. Stippling indicates areas where changes are consistent among at least 80% of the 25 models used in this analysis. (Supplemental Message 5 and Ch. 2: Our Changing Climate, Key Message 3). (Figure source: NOAA NCDC / CICS-NC).",
+    "chapter": {
+        "doi": "10.7930/J0KS6PHH",
+        "identifier": "appendix-climate-science-supplement",
+        "number": 33,
+        "report_identifier": "nca3",
+        "sort_key": 330,
+        "title": "Appendix 3: Climate Science Supplement",
+        "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement"
+    },
+    "chapter_identifier": "appendix-climate-science-supplement",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "3c/52/15cba8f4b94079e03dd5f26e91a5/APP_consecutive_dry_days_rcp85_5_contour_V2.png",
+            "href": "http://data.globalchange.gov/assets/3c/52/15cba8f4b94079e03dd5f26e91a5/APP_consecutive_dry_days_rcp85_5_contour_V2.png",
+            "identifier": "ec2bd254-a146-4cf7-88b5-f1858566834c",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "6de9594cc41b729a03d9ec0806031e851b636491",
+            "size": 690379,
+            "thumbnail": "3c/52/15cba8f4b94079e03dd5f26e91a5/.thumb-ec2bd254-a146-4cf7-88b5-f1858566834c.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/3c/52/15cba8f4b94079e03dd5f26e91a5/.thumb-ec2bd254-a146-4cf7-88b5-f1858566834c.png",
+            "uri": "/file/ec2bd254-a146-4cf7-88b5-f1858566834c",
+            "url": "/assets/3c/52/15cba8f4b94079e03dd5f26e91a5/APP_consecutive_dry_days_rcp85_5_contour_V2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-climate-science-supplement/figure/change-in-maximum-number-of-consecutive-dry-days.json",
+    "identifier": "change-in-maximum-number-of-consecutive-dry-days",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 36,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": "NOAA NCDC / CICS-NC",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Change in Maximum Number of Consecutive Dry Days",
+    "uri": "/report/nca3/chapter/appendix-climate-science-supplement/figure/change-in-maximum-number-of-consecutive-dry-days",
+    "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/change-maximum-number-consecutive-dry-days",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

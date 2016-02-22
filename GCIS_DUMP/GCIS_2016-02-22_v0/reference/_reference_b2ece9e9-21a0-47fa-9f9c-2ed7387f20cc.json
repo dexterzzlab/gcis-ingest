@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Jenkins, J.",
+        "ISBN": "0801476518",
+        "Number of Pages": "200",
+        "Place Published": "Ithaca, NY",
+        "Publisher": "Cornell University Press",
+        "Reviewer": "b2ece9e9-21a0-47fa-9f9c-2ed7387f20cc",
+        "Title": "Climate Change in the Adirondacks: The Path to Sustainability",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "314",
+        "_uuid": "b2ece9e9-21a0-47fa-9f9c-2ed7387f20cc",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/a004f5ad-e043-41e5-b2d3-eed2d0e10228",
+    "href": "http://data.globalchange.gov/reference/b2ece9e9-21a0-47fa-9f9c-2ed7387f20cc.json",
+    "identifier": "b2ece9e9-21a0-47fa-9f9c-2ed7387f20cc",
+    "uri": "/reference/b2ece9e9-21a0-47fa-9f9c-2ed7387f20cc"
+}

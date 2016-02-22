@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Grantham, B.A.\rChan, F.\rNielsen, K.J.\rFox, D.S.\rBarth, J.A.\rHuyer, A.\rLubchenco, J.\rMenge, B.A.",
+        "DOI": "10.1038/nature02605",
+        "ISSN": "0028-0836",
+        "Issue": "6993",
+        "Journal": "Nature",
+        "Pages": "749-754",
+        "Title": "Upwelling-driven nearshore hypoxia signals ecosystem and oceanographic changes in the northeast Pacific",
+        "Volume": "429",
+        "Year": "2004",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "1733",
+        "_uuid": "032cd8fc-fb93-445b-a94b-a18dda336372",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/nature02605",
+    "href": "http://data.globalchange.gov/reference/032cd8fc-fb93-445b-a94b-a18dda336372.json",
+    "identifier": "032cd8fc-fb93-445b-a94b-a18dda336372",
+    "uri": "/reference/032cd8fc-fb93-445b-a94b-a18dda336372"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Kunkel, K.E.\rKarl, T.R.\rBrooks, H.\rKossin, J.\rLawrimore, J.\rArndt, D.\rBosart, L.\rChangnon, D.\rCutter, S.L.\rDoesken, N.\rEmanuel, K. \rGroisman, P.Ya.\rKatz, R.W.\rKnutson, T.\rO\u2019Brien, J.\rPaciorek, C. J.\rPeterson, T. C.\rRedmond, K.\rRobinson, D.\rTrapp, J.\rVose, R.\rWeaver, S.\rWehner, M.\rWolter, K.\rWuebbles, D.",
+        "DOI": "10.1175/BAMS-D-11-00262.1",
+        "Date": "April 2013",
+        "Issue": "4",
+        "Journal": "Bulletin of the American Meteorological Society",
+        "Title": "Monitoring and understanding trends in extreme storms: State of knowledge",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/BAMS-D-11-00262.1",
+        "Volume": "94",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"RF 2\",\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "1129",
+        "_uuid": "b37557ac-ee97-4c28-98ca-4f1f1afe163b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/BAMS-D-11-00262.1",
+    "href": "http://data.globalchange.gov/reference/b37557ac-ee97-4c28-98ca-4f1f1afe163b.json",
+    "identifier": "b37557ac-ee97-4c28-98ca-4f1f1afe163b",
+    "uri": "/reference/b37557ac-ee97-4c28-98ca-4f1f1afe163b"
+}

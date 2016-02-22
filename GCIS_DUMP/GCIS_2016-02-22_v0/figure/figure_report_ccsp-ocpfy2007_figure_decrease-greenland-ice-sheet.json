@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "The rate of change from mid-2002 to mid-2005 of GRACE monitoring represents an ice mass decrease of 162 \u00b1 22 km3 yr-1, which contributes about 0.4 \u00b1 0.1 mm yr-1 to sea-level rise. Credit: I. Velicogna and J. Wahr, University of Colorado (reproduced from Geophysical Research Letters with permission from the American Geophysical Union).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "e5/64/4cec831ca40c461b63c7e92681ac/our_changing_planet_2007_49_20090708_1073274801.jpg",
+            "href": "http://data.globalchange.gov/assets/e5/64/4cec831ca40c461b63c7e92681ac/our_changing_planet_2007_49_20090708_1073274801.jpg",
+            "identifier": "f4ae196c-2d67-4099-8b17-76a92780d7bc",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "a69d4dd6901e1e3ae6239acb1c85a8c5378b6706",
+            "size": 32958,
+            "thumbnail": "e5/64/4cec831ca40c461b63c7e92681ac/.thumb-f4ae196c-2d67-4099-8b17-76a92780d7bc.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/e5/64/4cec831ca40c461b63c7e92681ac/.thumb-f4ae196c-2d67-4099-8b17-76a92780d7bc.png",
+            "uri": "/file/f4ae196c-2d67-4099-8b17-76a92780d7bc",
+            "url": "/assets/e5/64/4cec831ca40c461b63c7e92681ac/our_changing_planet_2007_49_20090708_1073274801.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/decrease-greenland-ice-sheet.json",
+    "identifier": "decrease-greenland-ice-sheet",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Decrease in Greenland Ice Sheet",
+    "uri": "/report/ccsp-ocpfy2007/figure/decrease-greenland-ice-sheet",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

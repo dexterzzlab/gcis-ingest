@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "The Tropospheric Emission Spectrometer (TES) on NASA's EOS Aura satellite is providing new observations of the vertical distribution of pollutants, including ozone, in the lowest part of the atmosphere. In this vertical slice taken in early September 2004 over the Atlantic, plumes of ozone that formed downwind of forest fires burning in both South America and Africa can be seen south of the equator from just above the surface to ~18 km. New measurements of pollutants and greenhouse gases such as ozone in the troposphere will allow scientists to estimate the impact of regional pollution events on global air quality and climate. Credit: NASA Jet Propulsion Laboratory.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "35/4b/0dc3fd554eab684cd9e28ab1b8fb/our_changing_planet_2006_13_20090708_1758011762.jpg",
+            "href": "http://data.globalchange.gov/assets/35/4b/0dc3fd554eab684cd9e28ab1b8fb/our_changing_planet_2006_13_20090708_1758011762.jpg",
+            "identifier": "e4ffd744-122e-4a88-8aa9-011b85ff8294",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "83494a681a65ab44065a45a1a3f6374afcd3a66b",
+            "size": 62996,
+            "thumbnail": "35/4b/0dc3fd554eab684cd9e28ab1b8fb/.thumb-e4ffd744-122e-4a88-8aa9-011b85ff8294.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/35/4b/0dc3fd554eab684cd9e28ab1b8fb/.thumb-e4ffd744-122e-4a88-8aa9-011b85ff8294.png",
+            "uri": "/file/e4ffd744-122e-4a88-8aa9-011b85ff8294",
+            "url": "/assets/35/4b/0dc3fd554eab684cd9e28ab1b8fb/our_changing_planet_2006_13_20090708_1758011762.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocp-fy2006/figure/aura-tes-transect-atmospheric-pollutants.json",
+    "identifier": "aura-tes-transect-atmospheric-pollutants",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocp-fy2006",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Aura TES Transect of Atmospheric Pollutants",
+    "uri": "/report/ccsp-ocp-fy2006/figure/aura-tes-transect-atmospheric-pollutants",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

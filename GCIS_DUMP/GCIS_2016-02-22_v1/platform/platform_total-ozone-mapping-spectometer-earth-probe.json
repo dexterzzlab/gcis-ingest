@@ -1,0 +1,12 @@
+{
+    "description": "Initial spaceborne ozone (O ) observations started with the BUV (Backscatter Ultraviolet) sensor, a demonstration instrument flown on Nimbus-4 of NASA (launch April 8, 1970; sun-synchronous near-circular polar orbit, perigee = 1092 km, apogee = 1108 km, inclination = 80.1\u00ba, period = 107.2 minutes). The BUV instrument consisted of a double monochromator containing all reflective optics and a photomultiplier detector. The double monochromator was composed of two Ebert-Fastie-type monochromators in tandem. The objective was to monitor the vertical distribution and total amount of atmospheric ozone on a global scale by measuring the intensity of UV radiation backscattered by the Earth/atmosphere system during day and night in the spectral band of 25-34 nm. - The new measurement technique of BUV total column ozone data led to it's acceptance by the international ozone community as a possible data source comparable to the Dobson instrument in ground observations.",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/t/toms",
+    "end_date": "2006-01-18T00:00:00",
+    "href": "http://data.globalchange.gov/platform/total-ozone-mapping-spectometer-earth-probe.json",
+    "identifier": "total-ozone-mapping-spectometer-earth-probe",
+    "name": "Total Ozone Mapping Spectometer Earth Probe",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "1996-07-02T00:00:00",
+    "uri": "/platform/total-ozone-mapping-spectometer-earth-probe",
+    "url": "http://toms.gsfc.nasa.gov/index_v8.html"
+}

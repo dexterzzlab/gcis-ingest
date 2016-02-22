@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Perry, A.L.\rLow, P.J.\rEllis, J.R.\rReynolds, J.D.",
+        "DOI": "10.1126/science.1111322",
+        "ISSN": "0036-8075",
+        "Issue": "5730",
+        "Journal": "Science",
+        "Pages": "1912-1915",
+        "Title": "Climate change and distribution shifts in marine fishes",
+        "Volume": "308",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\",\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "2469",
+        "_uuid": "3f1b7fd7-3b1b-4b7f-8b68-802eddde7a27",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1111322",
+    "href": "http://data.globalchange.gov/reference/3f1b7fd7-3b1b-4b7f-8b68-802eddde7a27.json",
+    "identifier": "3f1b7fd7-3b1b-4b7f-8b68-802eddde7a27",
+    "uri": "/reference/3f1b7fd7-3b1b-4b7f-8b68-802eddde7a27"
+}

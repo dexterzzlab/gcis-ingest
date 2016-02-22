@@ -1,0 +1,80 @@
+{
+    "attributes": null,
+    "caption": "The last five decades have seen a progressive rise in Earth\u2019s average surface temperature. Bars show the difference between each decade\u2019s average temperature and the overall average for 1901 to 2000. The far right bar includes data for 2001-2012. (Figure source: NOAA NCDC).",
+    "chapter": {
+        "doi": "10.7930/J0G15XS3",
+        "identifier": "appendix-faqs",
+        "number": 34,
+        "report_identifier": "nca3",
+        "sort_key": 340,
+        "title": "Appendix 4: Frequently Asked Questions",
+        "url": "http://nca2014.globalchange.gov/report/appendices/faqs"
+    },
+    "chapter_identifier": "appendix-faqs",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-07-31T13:54:00",
+    "files": [
+        {
+            "file": "d6/30/5c2425a08ce823d6b595b014d602/CAQ_global_decadal_temp_V5.png",
+            "href": "http://data.globalchange.gov/assets/d6/30/5c2425a08ce823d6b595b014d602/CAQ_global_decadal_temp_V5.png",
+            "identifier": "a10af514-66fc-4c66-a232-baa655cd6d7a",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "00a2b58e9a08acb123e7e864b2ee53b67ebf7100",
+            "size": 39721,
+            "thumbnail": "d6/30/5c2425a08ce823d6b595b014d602/.thumb-a10af514-66fc-4c66-a232-baa655cd6d7a.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/d6/30/5c2425a08ce823d6b595b014d602/.thumb-a10af514-66fc-4c66-a232-baa655cd6d7a.png",
+            "uri": "/file/a10af514-66fc-4c66-a232-baa655cd6d7a",
+            "url": "/assets/d6/30/5c2425a08ce823d6b595b014d602/CAQ_global_decadal_temp_V5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-faqs/figure/global-temperature-change-decade-averages.json",
+    "identifier": "global-temperature-change-decade-averages",
+    "images": [
+        {
+            "attributes": "global temperature",
+            "create_dt": "2013-07-31T13:54:00",
+            "description": null,
+            "identifier": "c6e6a4b8-840f-4d4c-9487-9699fb94dd31",
+            "lat_max": "90.00",
+            "lat_min": "-90.00",
+            "lon_max": "180.00",
+            "lon_min": "-180.00",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2012-12-31T23:59:59",
+            "time_start": "1880-01-01T00:00:00",
+            "title": "Global Temperature Change: Decade Averages",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 7,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "2009 State of the Climate Highlights",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/noaa-state-of-the-climate-highlights-2009"
+        }
+    ],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Global Temperature Change: Decade Averages",
+    "uri": "/report/nca3/chapter/appendix-faqs/figure/global-temperature-change-decade-averages",
+    "url": "http://nca2014.globalchange.gov/report/appendices/faqs/graphics/global-temperature-change-decade-averages",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

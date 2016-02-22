@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "Springer-Verlag",
+        ".reference_type": "0",
+        "Alternate Journal": "Coral Reefs",
+        "Author": "Aeby, G.S.",
+        "DOI": "10.1007/s00338-005-0493-3",
+        "Date": "2005/11/01",
+        "ISSN": "0722-4028",
+        "Issue": "3",
+        "Journal": "Coral Reefs",
+        "Language": "English",
+        "Pages": "481-481",
+        "Title": "Outbreak of coral disease in the northwestern Hawaiian islands",
+        "Volume": "24",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "4332",
+        "_uuid": "9e0aded6-29e7-4d1c-a3fe-f0c5c750cd17",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s00338-005-0493-3",
+    "href": "http://data.globalchange.gov/reference/9e0aded6-29e7-4d1c-a3fe-f0c5c750cd17.json",
+    "identifier": "9e0aded6-29e7-4d1c-a3fe-f0c5c750cd17",
+    "uri": "/reference/9e0aded6-29e7-4d1c-a3fe-f0c5c750cd17"
+}

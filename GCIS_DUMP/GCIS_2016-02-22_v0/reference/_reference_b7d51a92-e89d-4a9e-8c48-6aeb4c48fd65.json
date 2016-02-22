@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Burtraw, D.\rKrupnick, A.\rPalmer, K.\rPaul, A.\rToman, M.\rBloyd, C.",
+        "DOI": "10.1016/S0095-0696(02)00022-0",
+        "ISSN": "0095-0696",
+        "Issue": "3",
+        "Journal": "Journal of Environmental Economics and Management",
+        "Pages": "650-673",
+        "Title": "Ancillary benefits of reduced air pollution in the US from moderate greenhouse gas mitigation policies in the electricity sector",
+        "Volume": "45",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\",\"RF 12\"]",
+        "_record_number": "84",
+        "_uuid": "b7d51a92-e89d-4a9e-8c48-6aeb4c48fd65",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/S0095-0696(02)00022-0",
+    "href": "http://data.globalchange.gov/reference/b7d51a92-e89d-4a9e-8c48-6aeb4c48fd65.json",
+    "identifier": "b7d51a92-e89d-4a9e-8c48-6aeb4c48fd65",
+    "uri": "/reference/b7d51a92-e89d-4a9e-8c48-6aeb4c48fd65"
+}

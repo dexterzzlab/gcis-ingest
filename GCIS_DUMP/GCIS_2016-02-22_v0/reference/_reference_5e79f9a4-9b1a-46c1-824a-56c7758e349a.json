@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Ababneh, L.",
+        "DOI": "10.1016/j.quaint.2007.08.041",
+        "ISSN": "1040-6182",
+        "Issue": "1",
+        "Journal": "Quaternary International",
+        "Pages": "59-78",
+        "Title": "Bristlecone pine paleoclimatic model for archeological patterns in the White Mountain of California",
+        "Volume": "188",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "3644",
+        "_uuid": "5e79f9a4-9b1a-46c1-824a-56c7758e349a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.quaint.2007.08.041",
+    "href": "http://data.globalchange.gov/reference/5e79f9a4-9b1a-46c1-824a-56c7758e349a.json",
+    "identifier": "5e79f9a4-9b1a-46c1-824a-56c7758e349a",
+    "uri": "/reference/5e79f9a4-9b1a-46c1-824a-56c7758e349a"
+}

@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/ucusa-freshwater-2011.json",
+    "identifier": "ucusa-freshwater-2011",
+    "in_library": null,
+    "publication_year": 2011,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Freshwater Use by US Power Plants: Electricity\u2019s Thirst for a Precious Resource. A Report of the Energy and Water in a Warming World initiative",
+    "topic": null,
+    "uri": "/report/ucusa-freshwater-2011",
+    "url": "http://www.ucsusa.org/assets/documents/clean_energy/ew3/ew3-freshwater-use-by-us-power-plants.pdf"
+}

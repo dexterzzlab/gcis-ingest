@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "USGCRP,",
+        "Date": "February 24-25, 2010",
+        "Institution": "U.S. Global Change Research Program",
+        "Place Published": "Asheville, NC",
+        "Title": "The United States National Climate Assessment NCA Report Series, Volume 2. Strategic Planning Workshop",
+        "URL": "http://globalchange.gov/what-we-do/assessment",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 30: NCA Long-Term Process FINAL\"]",
+        "_record_number": "3243",
+        "_uuid": "63a58e53-2102-4c09-b3b7-900eab95f525",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usgcrp-strategicplanningworkshop-2010",
+    "href": "http://data.globalchange.gov/reference/63a58e53-2102-4c09-b3b7-900eab95f525.json",
+    "identifier": "63a58e53-2102-4c09-b3b7-900eab95f525",
+    "uri": "/reference/63a58e53-2102-4c09-b3b7-900eab95f525"
+}

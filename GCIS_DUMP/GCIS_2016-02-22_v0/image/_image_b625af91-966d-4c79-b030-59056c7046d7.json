@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-08-02T09:41:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Northwoods Climate Change Response\r\n    Framework Region (Figure Source: USDA Forest Service\r\n    2012<tbib>4772b8ff-e82b-47fd-8bfb-8e6405927beb</tbib>).",
+            "chapter_identifier": "adaptation",
+            "create_dt": "2013-08-02T09:41:00",
+            "identifier": "northwoods-climate-change-response-framework",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 6,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Northwoods Climate Change Response Framework Region",
+            "url": "http://nca2014.globalchange.gov/report/response-strategies/adaptation/graphics/northwoods-climate-change-response-framework-region",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "0c/f0/7a9a28222b3a16fd3b3590589fab/adapt_northwoods_map.png",
+            "href": "http://data.globalchange.gov/assets/0c/f0/7a9a28222b3a16fd3b3590589fab/adapt_northwoods_map.png",
+            "identifier": "f6156a9f-e796-4b60-91c6-5ba18a6363c6",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "751e3685f46cd57a9d2037cfb1e18370524fc892",
+            "size": 27163,
+            "thumbnail": "0c/f0/7a9a28222b3a16fd3b3590589fab/.thumb-f6156a9f-e796-4b60-91c6-5ba18a6363c6.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/0c/f0/7a9a28222b3a16fd3b3590589fab/.thumb-f6156a9f-e796-4b60-91c6-5ba18a6363c6.png",
+            "uri": "/file/f6156a9f-e796-4b60-91c6-5ba18a6363c6",
+            "url": "/assets/0c/f0/7a9a28222b3a16fd3b3590589fab/adapt_northwoods_map.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/b625af91-966d-4c79-b030-59056c7046d7.json",
+    "identifier": "b625af91-966d-4c79-b030-59056c7046d7",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Northwoods Climate Change Response Framework Region",
+    "uri": "/image/b625af91-966d-4c79-b030-59056c7046d7",
+    "url": null,
+    "usage_limits": null
+}

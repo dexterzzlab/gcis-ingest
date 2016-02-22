@@ -1,0 +1,70 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-07-31T09:27:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Variation of winter storm frequency and intensity during the cold season (November-March) for high latitudes (60-90\u00b0N) and mid-latitudes (30-60\u00b0N) of the Northern Hemisphere over the period 1949-2010. The bar for each decade represents the difference from the long-term average. Storm frequencies have increased in middle and high latitudes, and storm intensities have increased in middle latitudes. (Figure source: updated from CCSP 2008<tbib>12d42a98-494b-4cec-bf08-060021c85ec2</tbib>)",
+            "chapter_identifier": "our-changing-climate",
+            "create_dt": "2013-07-31T09:27:00",
+            "identifier": "variation-of-storm-frequency-and-intensity-during-the-cold-season-november--march",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 24,
+            "report_identifier": "nca3",
+            "source_citation": "updated from CCSP 2008<tbib>12d42a98-494b-4cec-bf08-060021c85ec2</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Variation of Storm Frequency and Intensity during the Cold Season (November \u2013 March)",
+            "url": "http://nca2014.globalchange.gov/report/our-changing-climate/changes-storms/graphics/variation-storm-frequency-and-intensity-during",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "5a/95/8082f72b765213c4407b8958811d/cs_winter_storms_frequency_mid_latitudes.png",
+            "href": "http://data.globalchange.gov/assets/5a/95/8082f72b765213c4407b8958811d/cs_winter_storms_frequency_mid_latitudes.png",
+            "identifier": "14a7301f-22ae-48cd-a2b4-715221999d38",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "3e68556768e16c32ff34295318aec5993316d3e4",
+            "size": 38417,
+            "thumbnail": "5a/95/8082f72b765213c4407b8958811d/.thumb-14a7301f-22ae-48cd-a2b4-715221999d38.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/5a/95/8082f72b765213c4407b8958811d/.thumb-14a7301f-22ae-48cd-a2b4-715221999d38.png",
+            "uri": "/file/14a7301f-22ae-48cd-a2b4-715221999d38",
+            "url": "/assets/5a/95/8082f72b765213c4407b8958811d/cs_winter_storms_frequency_mid_latitudes.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/54e8d7d2-804b-4adc-82eb-773a1e828794.json",
+    "identifier": "54e8d7d2-804b-4adc-82eb-773a1e828794",
+    "lat_max": "90.00",
+    "lat_min": "30.00",
+    "lon_max": "180.00",
+    "lon_min": "-180.00",
+    "parents": [
+        {
+            "activity_uri": "/activity/54e8d7d2-nca3-ncep-ncar-r1-process",
+            "label": "dataset nca3-ncep-ncar-r1",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-ncep-ncar-r1"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2010-03-31T23:59:59",
+    "time_start": "1948-11-01T00:00:00",
+    "title": "Frequency: Mid-Latitudes",
+    "uri": "/image/54e8d7d2-804b-4adc-82eb-773a1e828794",
+    "url": null,
+    "usage_limits": null
+}

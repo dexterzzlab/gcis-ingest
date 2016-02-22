@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Alternate Journal": "Proc. Natl. Acad. Sci. U. S. A.",
+        "Author": "Melillo, J. M.\rButler, S.\rJohnson, J.\rMohan, J.\rSteudler, P.\rLux, H.\rBurrows, E.\rBowles, F.\rSmith, R.\rScott, L.\rVario, C.\rHill, T.\rBurton, A.\rZhou, Y. M.\rTang, J.",
+        "Author Address": "[Melillo, JM; Butler, S; Johnson, J; Mohan, J; Steudler, P; Lux, H; Burrows, E; Smith, R; Scott, L; Vario, C; Hill, T; Tang, J] Marine Biol Lab, Ctr Ecosyst, Woods Hole, MA 02543 USA. [Johnson, J] Stanford Univ, Dept Biol, Palo Alto, CA 94305 USA. [Mohan, J] Univ Georgia, Sch Ecol, Athens, GA 30602 USA. [Lux, H] Harvard Forest, Petersham, MA 02543 USA. [Burrows, E] Rutgers State Univ, Piscataway, NJ 08901 USA. [Bowles, F] Res Designs, Lyme, NH 03768 USA. [Vario, C] Dartmouth Coll, Dept Biol Sci, Hanover, NH 03755 USA. [Hill, T] Yale Univ, Sch Forestry & Environm Studies, New Haven, CT 06511 USA. [Burton, A] Michigan Technol Univ, Sch Forest Resources & Environm Sci, Houghton, MI 49931 USA. [Zhou, YM] Chinese Acad Sci, Inst Appl Ecol, Shenyang 110016, Peoples R China.; Melillo, JM (reprint author), Marine Biol Lab, Ctr Ecosyst, Woods Hole, MA 02543 USA; jmelillo@mbl.edu",
+        "DOI": "10.1073/pnas.1018189108",
+        "Date": "Jun",
+        "ISSN": "0027-8424",
+        "Issue": "23",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Keywords": "climate system feedbacks; ecological stoichiometry; forest carbon; budget; forest nitrogen budget; global climate change; TERRESTRIAL ECOSYSTEMS; TEMPERATE FORESTS; ROOT RESPIRATION; CYCLE; FEEDBACKS; ATMOSPHERIC CO2; CLIMATE-CHANGE; UNITED-STATES; LONG-TERM; SEQUESTRATION; RESPONSES",
+        "Language": "English",
+        "Pages": "9508-9512",
+        "Title": "Soil warming, carbon-nitrogen interactions, and forest carbon budgets",
+        "Type of Article": "Article",
+        "URL": "http://www.pnas.org/content/108/23/9508.full.pdf+html",
+        "Volume": "108",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "1990",
+        "_uuid": "c744676f-c7f4-404e-96f9-cfc0dbbf8445",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.1018189108",
+    "href": "http://data.globalchange.gov/reference/c744676f-c7f4-404e-96f9-cfc0dbbf8445.json",
+    "identifier": "c744676f-c7f4-404e-96f9-cfc0dbbf8445",
+    "uri": "/reference/c744676f-c7f4-404e-96f9-cfc0dbbf8445"
+}

@@ -1,0 +1,15 @@
+{
+    "computing_environment": "Windows",
+    "data_usage": "All CONUS stations from the GHCN-D data set were analyzed for the June through August period in 2011. Those that matched or exceeded 100 degrees Fahrenheit were extracted and plotted.",
+    "duration": "3 hours",
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/cfe0088a-nca3-ghcn-daily-r201305-process.json",
+    "identifier": "cfe0088a-nca3-ghcn-daily-r201305-process",
+    "methodology": "- Using ArcMap\r\n- Performed spatial analysis interpolation [Inverse Distance Weighting (IDW)]",
+    "notes": "ArcMap",
+    "output_artifacts": "contour-100-2011-v2b.mxd",
+    "software": "version 10.0",
+    "start_time": null,
+    "uri": "/activity/cfe0088a-nca3-ghcn-daily-r201305-process",
+    "visualization_software": "ArcMap"
+}

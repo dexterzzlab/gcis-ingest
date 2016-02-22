@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/intelliweather.json",
+    "identifier": "intelliweather",
+    "name": "IntelliWeather",
+    "organization_type_identifier": "commercial",
+    "uri": "/organization/intelliweather",
+    "url": "http://www.intelliweather.com/"
+}

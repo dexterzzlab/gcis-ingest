@@ -1,0 +1,79 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/4182.json",
+            "id": 4182,
+            "organization": {
+                "country_code": "US",
+                "identifier": "us-global-change-research-program",
+                "name": "U.S. Global Change Research Program",
+                "organization_type_identifier": "federal",
+                "url": "http://www.globalchange.gov"
+            },
+            "organization_uri": "/organization/us-global-change-research-program",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "graphic_artist",
+            "uri": "/contributor/4182"
+        }
+    ],
+    "create_dt": null,
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "This conceptual framework shows linkages between categories of indicators. (Source: USGCRP indicators program) ",
+            "chapter_identifier": "federal-investments-global-change-research",
+            "create_dt": null,
+            "identifier": "categories-climate-indicators",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 8,
+            "report_identifier": "usgcrp-ocpfy2014",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Categories of Climate Indicators",
+            "url": null,
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "c1/71/55861df96d6b4aed2e4be7e1aebb/Box_9_Indicators_Flow_Chart_High_Res.png",
+            "href": "http://data.globalchange.gov/assets/c1/71/55861df96d6b4aed2e4be7e1aebb/Box_9_Indicators_Flow_Chart_High_Res.png",
+            "identifier": "a57bb4e5-88de-4eee-9ef1-5cfb65c1b11f",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "5a2b67d3772bad27f9e98aabb9ce8256f36525ae",
+            "size": 89213,
+            "thumbnail": "c1/71/55861df96d6b4aed2e4be7e1aebb/.thumb-a57bb4e5-88de-4eee-9ef1-5cfb65c1b11f.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/c1/71/55861df96d6b4aed2e4be7e1aebb/.thumb-a57bb4e5-88de-4eee-9ef1-5cfb65c1b11f.png",
+            "uri": "/file/a57bb4e5-88de-4eee-9ef1-5cfb65c1b11f",
+            "url": "/assets/c1/71/55861df96d6b4aed2e4be7e1aebb/Box_9_Indicators_Flow_Chart_High_Res.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/6ba1a03e-ce44-47bc-946a-fac709ae1af9.json",
+    "identifier": "6ba1a03e-ce44-47bc-946a-fac709ae1af9",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Categories of Climate Indicators",
+    "uri": "/image/6ba1a03e-ce44-47bc-946a-fac709ae1af9",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

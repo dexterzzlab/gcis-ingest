@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2012-11-01T16:37:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Agricultural activity is distributed across the U.S. with market value and crop types varying by region. In 2010, the total market value was nearly $330 billion. Wide variability in climate, commodities, and practices across the U.S. will likely result in differing responses, both in terms of yield and management. (Figure source: USDA National Agricultural Statistics Service 2008<tbib>58ac7c6f-2fda-4beb-9d1a-aaba9b0e0011</tbib>).",
+            "chapter_identifier": "agriculture",
+            "create_dt": "2012-11-01T16:37:00",
+            "identifier": "agricultural-distribution",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 2,
+            "report_identifier": "nca3",
+            "source_citation": "USDA National Agricultural Statistics Service 2008<tbib>58ac7c6f-2fda-4beb-9d1a-aaba9b0e0011</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Agricultural Distribution",
+            "url": "http://nca2014.globalchange.gov/report/sectors/agriculture/graphics/agricultural-distribution",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "8c/d6/dd2b3cb5e69492ceeff922b68d43/ag_6-2_alfalfa.png",
+            "href": "http://data.globalchange.gov/assets/8c/d6/dd2b3cb5e69492ceeff922b68d43/ag_6-2_alfalfa.png",
+            "identifier": "62058fc7-8c4a-4e74-8508-9369adb50580",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "08f9de9183070becc56a5c5b67c24c44c9c53bf7",
+            "size": 264323,
+            "thumbnail": "8c/d6/dd2b3cb5e69492ceeff922b68d43/.thumb-62058fc7-8c4a-4e74-8508-9369adb50580.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/8c/d6/dd2b3cb5e69492ceeff922b68d43/.thumb-62058fc7-8c4a-4e74-8508-9369adb50580.png",
+            "uri": "/file/62058fc7-8c4a-4e74-8508-9369adb50580",
+            "url": "/assets/8c/d6/dd2b3cb5e69492ceeff922b68d43/ag_6-2_alfalfa.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/df7ded2e-16a7-4d8a-8f3e-7fa3e6b01ea6.json",
+    "identifier": "df7ded2e-16a7-4d8a-8f3e-7fa3e6b01ea6",
+    "lat_max": "71.398048",
+    "lat_min": "18.913826",
+    "lon_max": "-66.957802",
+    "lon_min": "-179.133392",
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2007-12-31T23:59:59",
+    "time_start": "2007-01-01T00:00:00",
+    "title": "Agricultural Distribution - Alfalfa Hay, Harvested Acres 2007",
+    "uri": "/image/df7ded2e-16a7-4d8a-8f3e-7fa3e6b01ea6",
+    "url": null,
+    "usage_limits": null
+}

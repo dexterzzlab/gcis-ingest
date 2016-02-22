@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Spickett, J.T.\rBrown, H.L.\rRumchev, K.",
+        "DOI": "10.1177/1010539511398114",
+        "ISSN": "1010-5395",
+        "Issue": "2 supplement",
+        "Journal": "Asia-Pacific Journal of Public Health",
+        "Pages": "37S-45S",
+        "Title": "Climate change and air quality: The potential impact on health",
+        "Volume": "23",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "2912",
+        "_uuid": "85bd009d-5a5b-41c1-9195-26f57256413d",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1177/1010539511398114",
+    "href": "http://data.globalchange.gov/reference/85bd009d-5a5b-41c1-9195-26f57256413d.json",
+    "identifier": "85bd009d-5a5b-41c1-9195-26f57256413d",
+    "uri": "/reference/85bd009d-5a5b-41c1-9195-26f57256413d"
+}

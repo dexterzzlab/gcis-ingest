@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Pritchett, J.",
+        "Number of Pages": "27",
+        "Place Published": "Ft. Collins, CO",
+        "Publisher": "Colorado Water Institute, Colorado State University",
+        "Reviewer": "35fd4773-0d68-4ff9-a0ae-f0ea166df237",
+        "Title": "Quantification Task, a Description of Agriculture Production and Water Transfers in the Colorado River Basin: A Report to the CRB Water Sharing Working Group and the Walton Family Foundation",
+        "URL": "http://www.cwi.colostate.edu/publications/sr/21.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "2538",
+        "_uuid": "35fd4773-0d68-4ff9-a0ae-f0ea166df237",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/cwi-specialreport21",
+    "href": "http://data.globalchange.gov/reference/35fd4773-0d68-4ff9-a0ae-f0ea166df237.json",
+    "identifier": "35fd4773-0d68-4ff9-a0ae-f0ea166df237",
+    "uri": "/reference/35fd4773-0d68-4ff9-a0ae-f0ea166df237"
+}

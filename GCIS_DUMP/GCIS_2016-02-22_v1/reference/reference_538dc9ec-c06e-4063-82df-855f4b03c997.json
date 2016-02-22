@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2012",
+        "Author": "BAMS,",
+        "Place Published": "Asheville, NC",
+        "Publisher": "National Climatic Data Center",
+        "Series Editor": "BAMS",
+        "Title": "State of the Climate Reports",
+        "URL": "http://www.ncdc.noaa.gov/bams-state-of-the-climate/",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "1600",
+        "_uuid": "538dc9ec-c06e-4063-82df-855f4b03c997",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/f65bb0ea-427a-4894-86c0-4629c86a0c28",
+    "href": "http://data.globalchange.gov/reference/538dc9ec-c06e-4063-82df-855f4b03c997.json",
+    "identifier": "538dc9ec-c06e-4063-82df-855f4b03c997",
+    "uri": "/reference/538dc9ec-c06e-4063-82df-855f4b03c997"
+}

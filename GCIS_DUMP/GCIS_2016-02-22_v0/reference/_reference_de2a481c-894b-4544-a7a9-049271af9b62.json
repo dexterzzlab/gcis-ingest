@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Fischer, Carolyn\rNewell, Richard G.",
+        "DOI": "10.1016/j.jeem.2007.11.001",
+        "ISSN": "0095-0696",
+        "Issue": "2",
+        "Journal": "Journal of Environmental Economics and Management",
+        "Keywords": "Technology\rExternality\rSpillover\rLearning\rR&amp\rD\rPolicy\rClimate change\rRenewable energy",
+        "Pages": "142-162",
+        "Title": "Environmental and technology policies for climate mitigation",
+        "Volume": "55",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "4095",
+        "_uuid": "de2a481c-894b-4544-a7a9-049271af9b62",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.jeem.2007.11.001",
+    "href": "http://data.globalchange.gov/reference/de2a481c-894b-4544-a7a9-049271af9b62.json",
+    "identifier": "de2a481c-894b-4544-a7a9-049271af9b62",
+    "uri": "/reference/de2a481c-894b-4544-a7a9-049271af9b62"
+}

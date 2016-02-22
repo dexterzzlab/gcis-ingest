@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Wolf, Karen",
+        "Date": "March/April 2009",
+        "Institution": "American Planning Association",
+        "Pages": "11",
+        "Title": "Adapting to Climate Change: Strategies from King County, Washington",
+        "URL": "http://www.nerrs.noaa.gov/doc/pdf/training/strategies_king_county.pdf",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "4448",
+        "_uuid": "aa82f81a-4263-419b-993d-2a0b2c5ecfd1",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/noaa-adaptingtoclimchstrategies-2009",
+    "href": "http://data.globalchange.gov/reference/aa82f81a-4263-419b-993d-2a0b2c5ecfd1.json",
+    "identifier": "aa82f81a-4263-419b-993d-2a0b2c5ecfd1",
+    "uri": "/reference/aa82f81a-4263-419b-993d-2a0b2c5ecfd1"
+}

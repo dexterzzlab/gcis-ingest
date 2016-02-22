@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2013",
+        "Author": "UAF,",
+        "Publisher": "University of Alaska Fairbanks",
+        "Title": "Scenarios Network for Alaska & Arctic Planning",
+        "URL": "http://www.snap.uaf.edu/datamaps.php",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "4547",
+        "_uuid": "c3698dd8-36b5-47eb-9c4a-03a0016161e7",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/918ee378-63f8-4868-a5c5-78ee19d4cac3",
+    "href": "http://data.globalchange.gov/reference/c3698dd8-36b5-47eb-9c4a-03a0016161e7.json",
+    "identifier": "c3698dd8-36b5-47eb-9c4a-03a0016161e7",
+    "uri": "/reference/c3698dd8-36b5-47eb-9c4a-03a0016161e7"
+}

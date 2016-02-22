@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "NOAA",
+        "Date": "March 2013",
+        "Institution": "National Oceanic and Atmospheric Administration, U.S. Census Bureau",
+        "Pages": "22",
+        "Title": "National Coastal Population Report: Population Trends from 1970 to 2020",
+        "URL": "http://stateofthecoast.noaa.gov/features/coastal-population-report.pdf",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "3787",
+        "_uuid": "169c5207-212f-4c69-9055-c73621c44c36",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/noaacensus-stateofthecoast-2013",
+    "href": "http://data.globalchange.gov/reference/169c5207-212f-4c69-9055-c73621c44c36.json",
+    "identifier": "169c5207-212f-4c69-9055-c73621c44c36",
+    "uri": "/reference/169c5207-212f-4c69-9055-c73621c44c36"
+}

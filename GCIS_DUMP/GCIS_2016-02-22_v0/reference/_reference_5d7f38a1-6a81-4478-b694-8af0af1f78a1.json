@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Moore, Sara S. \rSeavy, Nathaniel E.\rGerhart, Matt ",
+        "Date": "June 2013",
+        "Institution": "PRBO Conservation Science and the California Coastal Conservancy",
+        "Pages": "60",
+        "Title": "Scenario Planning for Climate Change Adaptation. A Guidance for Resource Managers",
+        "URL": "http://scc.ca.gov/files/2013/04/Scenario-Planning.pdf",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4525",
+        "_uuid": "5d7f38a1-6a81-4478-b694-8af0af1f78a1",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/prbo-scenarioplanning-2013",
+    "href": "http://data.globalchange.gov/reference/5d7f38a1-6a81-4478-b694-8af0af1f78a1.json",
+    "identifier": "5d7f38a1-6a81-4478-b694-8af0af1f78a1",
+    "uri": "/reference/5d7f38a1-6a81-4478-b694-8af0af1f78a1"
+}

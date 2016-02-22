@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/usace-iwrreport-07-r-01.json",
+    "identifier": "usace-iwrreport-07-r-01",
+    "in_library": null,
+    "publication_year": 2007,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Literature Review of Computer-Aided Collaborative Decision Making. IWR Report 07-R-01",
+    "topic": null,
+    "uri": "/report/usace-iwrreport-07-r-01",
+    "url": "http://www.iwr.usace.army.mil/Portals/70/docs/iwrreports/2007-R-01.pdf"
+}

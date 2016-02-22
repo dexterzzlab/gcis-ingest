@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Future changes in ice sheet mass balance will be a complex function of accumulation and melting as well as dynamic ice sheet behavior. Sea level response is still not well understood. ICESat observations will help answer important questions about trends that affect the ice mass balance and sea level change. Credit: NASA.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "29/a5/0e850bdaf7ce69cab6661a9aaed7/our_changing_planet_2004-2005_5_20090708_1402509071.jpg",
+            "href": "http://data.globalchange.gov/assets/29/a5/0e850bdaf7ce69cab6661a9aaed7/our_changing_planet_2004-2005_5_20090708_1402509071.jpg",
+            "identifier": "db99d9d5-652a-4f4d-8554-0e75a18b78e3",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "08ffa58fee38196516472a99cb02c60ec7de0216",
+            "size": 46995,
+            "thumbnail": "29/a5/0e850bdaf7ce69cab6661a9aaed7/.thumb-db99d9d5-652a-4f4d-8554-0e75a18b78e3.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/29/a5/0e850bdaf7ce69cab6661a9aaed7/.thumb-db99d9d5-652a-4f4d-8554-0e75a18b78e3.png",
+            "uri": "/file/db99d9d5-652a-4f4d-8554-0e75a18b78e3",
+            "url": "/assets/29/a5/0e850bdaf7ce69cab6661a9aaed7/our_changing_planet_2004-2005_5_20090708_1402509071.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2004and2005/figure/ice-ocean-climate-dynamics.json",
+    "identifier": "ice-ocean-climate-dynamics",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2004and2005",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Ice-Ocean-Climate Dynamics",
+    "uri": "/report/ccsp-ocpfy2004and2005/figure/ice-ocean-climate-dynamics",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "Changes in annual surface soil moisture per year over the period 1988 to 2010 based on multi-satellite datasets. Surface soil moisture exhibits wetting trends in the Northeast, Florida, upper Midwest, and Northwest, and drying trends almost everywhere else. (Images provided by W. Dorigo<tbib>dcbcf1b2-fd1f-4565-a914-a045d60fe10f</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0G44N6T",
+        "identifier": "water-resources",
+        "number": 3,
+        "report_identifier": "nca3",
+        "sort_key": 30,
+        "title": "Water Resources",
+        "url": "http://nca2014.globalchange.gov/report/sectors/water"
+    },
+    "chapter_identifier": "water-resources",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-15T15:03:00",
+    "files": [
+        {
+            "file": "ee/ab/b22abe3c9f8ddaaa490e627e335d/Water_annual_surface_soil_moisture_trends_V1.png",
+            "href": "http://data.globalchange.gov/assets/ee/ab/b22abe3c9f8ddaaa490e627e335d/Water_annual_surface_soil_moisture_trends_V1.png",
+            "identifier": "3720f757-6096-4751-9392-c2f9d8d8aaab",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "b77b5f30df3ced0a4f74b4689406476431d3afc5",
+            "size": 307034,
+            "thumbnail": "ee/ab/b22abe3c9f8ddaaa490e627e335d/.thumb-3720f757-6096-4751-9392-c2f9d8d8aaab.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/ee/ab/b22abe3c9f8ddaaa490e627e335d/.thumb-3720f757-6096-4751-9392-c2f9d8d8aaab.png",
+            "uri": "/file/3720f757-6096-4751-9392-c2f9d8d8aaab",
+            "url": "/assets/ee/ab/b22abe3c9f8ddaaa490e627e335d/Water_annual_surface_soil_moisture_trends_V1.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/water-resources/figure/annual-surface-soil-moisture-trends.json",
+    "identifier": "annual-surface-soil-moisture-trends",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-11-15T15:03:00",
+            "description": null,
+            "identifier": "7850660e-6cf9-4a5f-894b-b4596ae8023d",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Annual Surface Soil Moisture Trends",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 2,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Evaluating global trends (1988-2010) in harmonized multi-satellite surface soil moisture",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1029/2012gl052988"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/dcbcf1b2-fd1f-4565-a914-a045d60fe10f.json",
+            "uri": "/reference/dcbcf1b2-fd1f-4565-a914-a045d60fe10f"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Annual Surface Soil Moisture Trends",
+    "uri": "/report/nca3/chapter/water-resources/figure/annual-surface-soil-moisture-trends",
+    "url": "http://nca2014.globalchange.gov/report/sectors/water/graphics/annual-surface-soil-moisture-trends",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

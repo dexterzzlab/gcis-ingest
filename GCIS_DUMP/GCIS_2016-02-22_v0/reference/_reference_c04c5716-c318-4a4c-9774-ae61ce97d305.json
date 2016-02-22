@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Chakraborty, S.\rNewton, A.C.",
+        "DOI": "10.1111/j.1365-3059.2010.02411.x",
+        "ISSN": "1365-3059",
+        "Issue": "1",
+        "Journal": "Plant Pathology",
+        "Pages": "2-14",
+        "Title": "Climate change, plant diseases and food security: An overview",
+        "Volume": "60",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "344",
+        "_uuid": "c04c5716-c318-4a4c-9774-ae61ce97d305",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1365-3059.2010.02411.x",
+    "href": "http://data.globalchange.gov/reference/c04c5716-c318-4a4c-9774-ae61ce97d305.json",
+    "identifier": "c04c5716-c318-4a4c-9774-ae61ce97d305",
+    "uri": "/reference/c04c5716-c318-4a4c-9774-ae61ce97d305"
+}

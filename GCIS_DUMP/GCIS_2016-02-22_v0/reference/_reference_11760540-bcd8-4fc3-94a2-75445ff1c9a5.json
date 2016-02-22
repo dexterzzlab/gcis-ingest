@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Lin, B.B.",
+        "DOI": "10.1525/bio.2011.61.3.4",
+        "Issue": "3",
+        "Journal": "BioScience",
+        "Pages": "183-193",
+        "Title": "Resilience in agriculture through crop diversification: Adaptive management for environmental change",
+        "URL": "http://www.bioone.org/doi/full/10.1525/bio.2011.61.3.4",
+        "Volume": "61",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "1436",
+        "_uuid": "11760540-bcd8-4fc3-94a2-75445ff1c9a5",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1525/bio.2011.61.3.4",
+    "href": "http://data.globalchange.gov/reference/11760540-bcd8-4fc3-94a2-75445ff1c9a5.json",
+    "identifier": "11760540-bcd8-4fc3-94a2-75445ff1c9a5",
+    "uri": "/reference/11760540-bcd8-4fc3-94a2-75445ff1c9a5"
+}

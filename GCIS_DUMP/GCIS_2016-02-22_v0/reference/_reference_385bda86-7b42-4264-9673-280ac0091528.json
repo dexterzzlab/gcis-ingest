@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Pacala, S.\rBirdsey, R.A.\rBridgham, S.D.\rConant, R.T.\rDavis, K.\rHales, B.\rHoughton, R.A.\rJenkins, J.C.\rJohnston, M.\rMarland, G.\rPaustian, K.",
+        "Book Title": "The First State of the Carbon Cycle Report (SOCCR): The North American Carbon Budget and Implications for the Global Carbon Cycle",
+        "Editor": "A.W. King\rL. Dillling\rG.P. Zimmerman\rD.M. Fairman\rR.A. Houghton\rG. Marland\rA.Z. Rose\rT.J. Wilbanks",
+        "Pages": "29-170",
+        "Reviewer": "385bda86-7b42-4264-9673-280ac0091528",
+        "Title": "Ch. 3: The North American carbon budget past and present",
+        "URL": "http://nrs.fs.fed.us/pubs/jrnl/2007/nrs_2007_pacala_001.pdf",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\",\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "2396",
+        "_uuid": "385bda86-7b42-4264-9673-280ac0091528",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/ccsp-sap-2_2-2007",
+    "href": "http://data.globalchange.gov/reference/385bda86-7b42-4264-9673-280ac0091528.json",
+    "identifier": "385bda86-7b42-4264-9673-280ac0091528",
+    "uri": "/reference/385bda86-7b42-4264-9673-280ac0091528"
+}

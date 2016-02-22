@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Colby, B. \rP. Tanimoto",
+        "Book Title": "Adaptation and Resilience: The Economics of Climate-Water-Energy Challenges in the Arid Southwest",
+        "Chapter": "10",
+        "Editor": "Colby, Bonnie G. \rGeorge B. Frisvold ",
+        "ISBN": "978-1933115931",
+        "Pages": "207-228",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "RFF Press",
+        "Reviewer": "4aa147eb-3cc7-4ebd-99db-c02731e93a3d",
+        "Title": "Using climate information to improve electric utility load forecasting",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\",\"RF 8\",\"RG 4 Great Plains\"]",
+        "_record_number": "3865",
+        "_uuid": "4aa147eb-3cc7-4ebd-99db-c02731e93a3d",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/e0b0da41-8f58-4c8d-ad67-3b13be268888",
+    "href": "http://data.globalchange.gov/reference/4aa147eb-3cc7-4ebd-99db-c02731e93a3d.json",
+    "identifier": "4aa147eb-3cc7-4ebd-99db-c02731e93a3d",
+    "uri": "/reference/4aa147eb-3cc7-4ebd-99db-c02731e93a3d"
+}

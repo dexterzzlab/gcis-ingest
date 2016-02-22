@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "Census data show significant population decreases in many rural areas, notably in the Great Plains (white indicates metropolitan areas). Many rural communities\u2019 existing vulnerabilities to climate change, including physical isolation, reduced services like health care, and an aging population, are projected to increase as population decreases. (Figure source: USDA Economic Research Service 2013<tbib>5a9e656f-8a8f-497e-b11d-85db13fe4b4b</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J01Z429C",
+        "identifier": "rural",
+        "number": 14,
+        "report_identifier": "nca3",
+        "sort_key": 140,
+        "title": "Rural Communities",
+        "url": "http://nca2014.globalchange.gov/report/sectors/rural-communities"
+    },
+    "chapter_identifier": "rural",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-03-19T09:12:00",
+    "files": [
+        {
+            "file": "33/da/98471dc162d9a115d83fa57a5a72/Rural_population_change_v7.png",
+            "href": "http://data.globalchange.gov/assets/33/da/98471dc162d9a115d83fa57a5a72/Rural_population_change_v7.png",
+            "identifier": "4ce95e37-5ede-4324-baba-6a079addabf3",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "c8afa49bc2db3e9d204092dbf7cc24b89f3bfa72",
+            "size": 1158160,
+            "thumbnail": "33/da/98471dc162d9a115d83fa57a5a72/.thumb-4ce95e37-5ede-4324-baba-6a079addabf3.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/33/da/98471dc162d9a115d83fa57a5a72/.thumb-4ce95e37-5ede-4324-baba-6a079addabf3.png",
+            "uri": "/file/4ce95e37-5ede-4324-baba-6a079addabf3",
+            "url": "/assets/33/da/98471dc162d9a115d83fa57a5a72/Rural_population_change_v7.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/rural/figure/many-rural-areas-are-losing-population.json",
+    "identifier": "many-rural-areas-are-losing-population",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2014-03-19T09:12:00",
+            "description": null,
+            "identifier": "8c20f158-11d1-4e40-a08d-bbb705c8ad04",
+            "lat_max": "71.398048",
+            "lat_min": "18.913826",
+            "lon_max": "-66.957802",
+            "lon_min": "-179.133392",
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Many Rural Areas are Losing Population",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 5,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "webpage Atlas of Rural and Small-Town America",
+            "note": null,
+            "publication_type_identifier": "webpage",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/webpage/2cb79b4a-31cf-43ec-a70a-0371626f1407"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/5a9e656f-8a8f-497e-b11d-85db13fe4b4b.json",
+            "uri": "/reference/5a9e656f-8a8f-497e-b11d-85db13fe4b4b"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "USDA Economic Research Service 2013<tbib>5a9e656f-8a8f-497e-b11d-85db13fe4b4b</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Many Rural Areas are Losing Population",
+    "uri": "/report/nca3/chapter/rural/figure/many-rural-areas-are-losing-population",
+    "url": "http://nca2014.globalchange.gov/highlights/regions/rural-communities/graphics/many-rural-areas-are-losing-population",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

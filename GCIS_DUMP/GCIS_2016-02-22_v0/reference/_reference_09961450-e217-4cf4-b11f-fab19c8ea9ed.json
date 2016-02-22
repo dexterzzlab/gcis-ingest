@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Abstract": "The useful lifespan of hydroelectric power infrastructure is 50 years or more; this is long enough that long-term climate change and shorter-term climate variability should be considered when planning new facilities and maintaining existing ones. This study examines observed historical climate variability in Southeast, Alaska, where several new and expanded hydropower facilities are proposed. Analysis suggests that climate trends in this region since the 1920s are modest, while trends since the mid-1940s are somewhat stronger. Sparse data collection increases the uncertainty associated with these trends. Variability in temperature, precipitation, snow, and discharge is largely dominated by random interannual fluctuations, as well as semi-decadal to decadal climate modes such as the El Ni\u00f1o-Southern Oscillation and the Pacific Decadal Oscillation (PDO). The dominance of these modes of variability on the regional climate is useful for risk management because prediction tools exist for season-ahead forecasting. Longerterm climate trends, while smaller in magnitude, will likely lead to warmer and wetter conditions in the coming century. The persistence of a negative PDO may lead to cooler, drier conditions in the short term. Climate variability and change both have implications for shifts in the timing and magnitude of river discharge that could pose challenges to management of capacity-limited reservoir systems. An increasingly interconnected power grid in Southeast Alaska might help mediate these climate impacts, but there are still large data gaps that contribute to management risk. Enhanced monitoring of snow, temperature, runoff, and glacial melt, particularly at elevation and in the watersheds feeding hydropower reservoirs, could help operators reduce risk by eliminating some of the uncertainty about the relationships between climate and water resource availability.",
+        "Author": "Cherry, J. E.\rWalker, S.\rFresco, N.\rTrainor, S.\rTidwell, A.",
+        "Keywords": "energy; Water Resources",
+        "Pages": "28",
+        "Title": "Impacts of Climate Change and Variability on Hydropower in Southeast Alaska: Planning for a Robust Energy Future",
+        "URL": "http://alaskafisheries.noaa.gov/habitat/hydro/reports/ccv_hydro_se.pdf",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "901",
+        "_uuid": "09961450-e217-4cf4-b11f-fab19c8ea9ed",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/akfisheries-impactclimch-2010",
+    "href": "http://data.globalchange.gov/reference/09961450-e217-4cf4-b11f-fab19c8ea9ed.json",
+    "identifier": "09961450-e217-4cf4-b11f-fab19c8ea9ed",
+    "uri": "/reference/09961450-e217-4cf4-b11f-fab19c8ea9ed"
+}

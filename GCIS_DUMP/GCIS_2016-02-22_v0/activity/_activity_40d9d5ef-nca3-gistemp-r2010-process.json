@@ -1,0 +1,15 @@
+{
+    "computing_environment": "Mac OS X (darwin x86_64 m64)",
+    "data_usage": "Global temperature change (relative to 1901-1960) is plotted as a time series.",
+    "duration": null,
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/40d9d5ef-nca3-gistemp-r2010-process.json",
+    "identifier": "40d9d5ef-nca3-gistemp-r2010-process",
+    "methodology": "The mean temperature for the period 1951-1980 was added to the global average annual temperature anomalies to get the annual temperature time series. Anomalies were then calculated relative to a 1901-1960 reference period by subtracting the 1901-1960 mean temperature from the annual temperatures, and plotted as a time series from 1880 to 2012.",
+    "notes": "IDL",
+    "output_artifacts": "HadCRUT.4.1.1.0.annual_ns_avg.txt\r\nGISS.txt\r\naravg.ann.land_ocean.90S.90N.v3.5.2.201301.asc\r\nread_global_combined_surface.pro\r\nplot_timeseries.pro\r\nglobal_combined_surface_timeseries.ps\r\nCAQ_global_average_temp_V6.png",
+    "software": "IDL (version 8)",
+    "start_time": null,
+    "uri": "/activity/40d9d5ef-nca3-gistemp-r2010-process",
+    "visualization_software": "IDL (version 8)"
+}

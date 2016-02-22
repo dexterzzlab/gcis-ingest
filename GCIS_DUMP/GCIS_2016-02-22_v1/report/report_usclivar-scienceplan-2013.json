@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/usclivar-scienceplan-2013.json",
+    "identifier": "usclivar-scienceplan-2013",
+    "in_library": 1,
+    "publication_year": 2013,
+    "report_type_identifier": "report",
+    "summary": "US CLIVAR is a national research program investigating the variability and predictability of the global climate system on time scales ranging from seasons to hundreds of years, with a particular emphasis on the role of the ocean.",
+    "title": "US Climate Variability & Predictability Program Science Plan",
+    "topic": "Oceans,Modeling,Arctic,Extreme Events",
+    "uri": "/report/usclivar-scienceplan-2013",
+    "url": "http://www.usclivar.org/sites/default/files/US_CLIVAR_Science_Plan.pdf"
+}

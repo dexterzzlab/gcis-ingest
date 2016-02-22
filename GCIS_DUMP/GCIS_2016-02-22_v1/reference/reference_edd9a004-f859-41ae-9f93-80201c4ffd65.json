@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Larsen, M.C.",
+        "DOI": "10.1080/02723646.2000.10642723",
+        "ISSN": "0272-3646",
+        "Issue": "6",
+        "Journal": "Physical Geography",
+        "Pages": "494-521",
+        "Title": "Analysis of 20th century rainfall and streamflow to characterize drought and water resources in Puerto Rico",
+        "URL": "http://www.usgs.gov/climate_landuse/contacts/presents/Larsen-PhysGeog-2000.pdf",
+        "Volume": "21",
+        "Year": "2000",
+        "_chapter": "[\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "79",
+        "_uuid": "edd9a004-f859-41ae-9f93-80201c4ffd65",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1080/02723646.2000.10642723",
+    "href": "http://data.globalchange.gov/reference/edd9a004-f859-41ae-9f93-80201c4ffd65.json",
+    "identifier": "edd9a004-f859-41ae-9f93-80201c4ffd65",
+    "uri": "/reference/edd9a004-f859-41ae-9f93-80201c4ffd65"
+}

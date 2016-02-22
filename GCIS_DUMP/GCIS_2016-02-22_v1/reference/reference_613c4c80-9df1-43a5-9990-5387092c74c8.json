@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Daly, C.\rWidrlechner, M.P.\rHalbleib, M.D.\rSmith, J.I.\rGibson, W.P.",
+        "DOI": "10.1175/2010JAMC2536.1",
+        "ISSN": "1558-8432",
+        "Journal": "Journal of Applied Meteorology and Climatology",
+        "Pages": "242-264",
+        "Title": "Development of a new USDA plant hardiness zone map for the United States",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/2010JAMC2536.1",
+        "Volume": "51",
+        "Year": "2012",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "519",
+        "_uuid": "613c4c80-9df1-43a5-9990-5387092c74c8",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/2010JAMC2536.1",
+    "href": "http://data.globalchange.gov/reference/613c4c80-9df1-43a5-9990-5387092c74c8.json",
+    "identifier": "613c4c80-9df1-43a5-9990-5387092c74c8",
+    "uri": "/reference/613c4c80-9df1-43a5-9990-5387092c74c8"
+}

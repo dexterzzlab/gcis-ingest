@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Accession Number": "WOS:000239029600001",
+        "Author": "Vavrus, S.\rWalsh, J. E.\rChapman, W. L.\rPortis, D.",
+        "DOI": "10.1002/joc.1301",
+        "ISSN": "0899-8418",
+        "Issue": "9",
+        "Journal": "International Journal of Climatology",
+        "Pages": "1133-1147",
+        "Title": "The behavior of extreme cold air outbreaks under greenhouse warming",
+        "Volume": "26",
+        "Year": "2006",
+        "_chapter": "[\"RG 3 Midwest\",\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "3278",
+        "_uuid": "e5518dc6-13eb-4dd8-b603-7d48c30435b9",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/joc.1301",
+    "href": "http://data.globalchange.gov/reference/e5518dc6-13eb-4dd8-b603-7d48c30435b9.json",
+    "identifier": "e5518dc6-13eb-4dd8-b603-7d48c30435b9",
+    "uri": "/reference/e5518dc6-13eb-4dd8-b603-7d48c30435b9"
+}

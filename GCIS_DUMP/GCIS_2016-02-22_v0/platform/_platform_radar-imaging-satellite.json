@@ -1,0 +1,12 @@
+{
+    "description": "RISAT is the first indigenous satellite imaging mission of ISRO (Indian Space Research Organization) using an active radar sensor system, namely a C-band SAR (Synthetic Aperture Radar) imager, an important microwave complement to its optical IRS (Indian Remote Sensing Satellite) series observation missions. The overall objective of the RISAT mission is to use the all-weather as well as the day-and-night SAR observation capability in applications such as agriculture, forestry, soil moisture, geology, sea ice, coastal monitoring, object identification, and flood monitoring. The RISAT specifications have been drawn with the national requirements in mind.",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/r/risat-1",
+    "end_date": "2017-04-01T00:00:00",
+    "href": "http://data.globalchange.gov/platform/radar-imaging-satellite.json",
+    "identifier": "radar-imaging-satellite",
+    "name": "Radar Imaging Satellite",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "2012-04-26T00:00:00",
+    "uri": "/platform/radar-imaging-satellite",
+    "url": "http://www.isro.org/"
+}

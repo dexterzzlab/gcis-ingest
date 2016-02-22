@@ -1,0 +1,61 @@
+{
+    "attributes": "Temperature, observed, simulated, North America",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-08-02T10:26:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Changes in surface air temperature at the continental and global scales can only be explained by the influence of human activities on climate. The black line depicts the annually averaged observed changes. The blue shading shows climate model simulations that include the effects of natural (solar and volcanic) forcing only. The orange shading shows climate model simulations that include the effects of both natural and human contributions. These analyses demonstrate that the observed changes, both globally and on a continent-by-continent basis, are caused by the influence of human activities on climate. (Figure source: updated from Jones et al. 2013<tbib>ee56b7fa-1961-49cc-aeea-823510341d5f</tbib>).",
+            "chapter_identifier": "appendix-climate-science-supplement",
+            "create_dt": "2013-10-23T10:49:00",
+            "identifier": "only-human-influence-can-explain-recent-warming",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 18,
+            "report_identifier": "nca3",
+            "source_citation": "updated from Jones et al. 2013<tbib>ee56b7fa-1961-49cc-aeea-823510341d5f</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Only Human Influence Can Explain Recent Warming",
+            "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/only-human-influence-can-explain-recent",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "2e/db/4e79e971046535d5d67073f3fc3e/app-fig18_north-america.png",
+            "href": "http://data.globalchange.gov/assets/2e/db/4e79e971046535d5d67073f3fc3e/app-fig18_north-america.png",
+            "identifier": "4637a73e-0d62-44bc-8b71-121dd42cae90",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "04ea951c84041d258d35e9ac2cd8be03455a0e3d",
+            "size": 82351,
+            "thumbnail": "2e/db/4e79e971046535d5d67073f3fc3e/.thumb-4637a73e-0d62-44bc-8b71-121dd42cae90.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/2e/db/4e79e971046535d5d67073f3fc3e/.thumb-4637a73e-0d62-44bc-8b71-121dd42cae90.png",
+            "uri": "/file/4637a73e-0d62-44bc-8b71-121dd42cae90",
+            "url": "/assets/2e/db/4e79e971046535d5d67073f3fc3e/app-fig18_north-america.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/341191c1-b419-4651-ba8e-a127df9b2057.json",
+    "identifier": "341191c1-b419-4651-ba8e-a127df9b2057",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2005-12-31T23:59:59",
+    "time_start": "1880-01-01T00:00:00",
+    "title": "Only Human Influence Can Explain Recent Warming - North America",
+    "uri": "/image/341191c1-b419-4651-ba8e-a127df9b2057",
+    "url": null,
+    "usage_limits": null
+}

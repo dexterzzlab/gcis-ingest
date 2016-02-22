@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/usgs-national-gap-analysis-program.json",
+    "identifier": "usgs-national-gap-analysis-program",
+    "name": "USGS National Gap Analysis Program",
+    "organization_type_identifier": "academic/operated by fed. government",
+    "uri": "/organization/usgs-national-gap-analysis-program",
+    "url": "http://gapanalysis.usgs.gov/"
+}

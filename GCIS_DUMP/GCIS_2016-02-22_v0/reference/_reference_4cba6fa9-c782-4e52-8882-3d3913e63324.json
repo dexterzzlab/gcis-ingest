@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        ".publisher": "Springer Netherlands",
+        ".reference_type": "0",
+        "Alternate Journal": "GeoJournal",
+        "Author": "Schrag, Anne\rKonrad, Sarah\rMiller, Scott\rWalker, Brett\rForrest, Steve",
+        "DOI": "10.1007/s10708-010-9369-3",
+        "Date": "2011/10/01",
+        "ISSN": "0343-2521",
+        "Issue": "5",
+        "Journal": "GeoJournal",
+        "Keywords": "Climate\rGreater sage-grouse\rNorthern Great Plains\rNorthern Rockies\rSpecies distribution modeling\rWest Nile virus",
+        "Language": "English",
+        "Pages": "561-575",
+        "Title": "Climate-change impacts on sagebrush habitat and West Nile virus transmission risk and conservation implications for greater sage-grouse",
+        "Volume": "76",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\"]",
+        "_record_number": "3869",
+        "_uuid": "4cba6fa9-c782-4e52-8882-3d3913e63324",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10708-010-9369-3",
+    "href": "http://data.globalchange.gov/reference/4cba6fa9-c782-4e52-8882-3d3913e63324.json",
+    "identifier": "4cba6fa9-c782-4e52-8882-3d3913e63324",
+    "uri": "/reference/4cba6fa9-c782-4e52-8882-3d3913e63324"
+}

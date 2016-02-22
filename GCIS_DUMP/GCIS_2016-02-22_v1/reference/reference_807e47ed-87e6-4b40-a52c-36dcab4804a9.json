@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2012",
+        "Author": "U.S. Census Bureau,",
+        "Title": "2010 Census Urban and Rural Classification and Urban Area Criteria",
+        "URL": "http://www.census.gov/geo/reference/frn.html",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"RG 9 Rural\",\"Ch. 14: Rural Communities FINAL\",\"Ch. 13: Land Use and Land Cover Change FINAL\"]",
+        "_record_number": "3131",
+        "_uuid": "807e47ed-87e6-4b40-a52c-36dcab4804a9",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/ef3040ae-893b-4bb4-9bfb-ea4d47c04e6f",
+    "href": "http://data.globalchange.gov/reference/807e47ed-87e6-4b40-a52c-36dcab4804a9.json",
+    "identifier": "807e47ed-87e6-4b40-a52c-36dcab4804a9",
+    "uri": "/reference/807e47ed-87e6-4b40-a52c-36dcab4804a9"
+}

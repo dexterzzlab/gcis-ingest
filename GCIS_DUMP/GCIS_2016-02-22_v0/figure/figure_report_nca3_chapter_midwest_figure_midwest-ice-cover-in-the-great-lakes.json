@@ -1,0 +1,103 @@
+{
+    "attributes": null,
+    "caption": "Bars show decade averages of annual maximum Great Lakes ice coverage from the winter of 1962-1963, when reliable coverage of the entire Great Lakes began, to the winter of 2012-2013. Bar labels indicate the end year of the winter; for example, 1963-1972 indicates the winter of 1962-1963 through the winter of 1971-1972. The most recent period includes the eleven years from 2003 to 2013. (Data updated from Bai and Wang, 2012<tbib>334caaf0-faab-4f7f-8086-c1b216a3b371</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0J1012N",
+        "identifier": "midwest",
+        "number": 18,
+        "report_identifier": "nca3",
+        "sort_key": 180,
+        "title": "Midwest",
+        "url": "http://nca2014.globalchange.gov/report/regions/midwest"
+    },
+    "chapter_identifier": "midwest",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2522.json",
+            "id": 2522,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Kenneth",
+                "id": 1025,
+                "last_name": "Kunkel",
+                "middle_name": null,
+                "orcid": "0000-0001-6667-7047",
+                "url": "http://cicsnc.org/people/kenneth-kunkel/"
+            },
+            "person_id": 1025,
+            "person_uri": "/person/1025",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2522"
+        }
+    ],
+    "create_dt": "2013-11-01T09:16:00",
+    "files": [
+        {
+            "file": "e7/50/3fa853075c7c993deac4aab3f885/e7-50-3fa853075c7c993deac4aab3f885-cs_great-lakes-max-ice-cover_v2.png",
+            "href": "http://data.globalchange.gov/assets/e7/50/3fa853075c7c993deac4aab3f885/e7-50-3fa853075c7c993deac4aab3f885-cs_great-lakes-max-ice-cover_v2.png",
+            "identifier": "3cb7bb3f-2283-4c27-90e3-eac5a549d279",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "16cddf68dc24c0511e0ed2113165603314061b77",
+            "size": 42696,
+            "thumbnail": "e7/50/3fa853075c7c993deac4aab3f885/.thumb-3cb7bb3f-2283-4c27-90e3-eac5a549d279.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/e7/50/3fa853075c7c993deac4aab3f885/.thumb-3cb7bb3f-2283-4c27-90e3-eac5a549d279.png",
+            "uri": "/file/3cb7bb3f-2283-4c27-90e3-eac5a549d279",
+            "url": "/assets/e7/50/3fa853075c7c993deac4aab3f885/e7-50-3fa853075c7c993deac4aab3f885-cs_great-lakes-max-ice-cover_v2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/midwest/figure/midwest-ice-cover-in-the-great-lakes.json",
+    "identifier": "midwest-ice-cover-in-the-great-lakes",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-11-01T09:16:00",
+            "description": null,
+            "identifier": "834f7624-40de-4a09-9ced-faaca30d4d6d",
+            "lat_max": "49",
+            "lat_min": "41",
+            "lon_max": "-76",
+            "lon_min": "-93",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2013-07-31T23:59:59",
+            "time_start": "1963-01-01T00:00:00",
+            "title": "Ice Cover in the Great Lakes",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [
+        "/report/nca3/chapter/our-changing-climate/figure/ice-cover-in-the-great-lakes"
+    ],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 7,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/334caaf0-faab-4f7f-8086-c1b216a3b371.json",
+            "uri": "/reference/334caaf0-faab-4f7f-8086-c1b216a3b371"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Ice Cover in the Great Lakes",
+    "uri": "/report/nca3/chapter/midwest/figure/midwest-ice-cover-in-the-great-lakes",
+    "url": "http://nca2014.globalchange.gov/highlights/regions/midwest/graphics/great-lakes-ice-cover-decline",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

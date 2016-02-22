@@ -1,0 +1,97 @@
+{
+    "attributes": null,
+    "caption": "The Pacific Islands include \u201chigh\u201d volcanic islands, such as that on the left, that reach nearly 14,000 feet above sea level, and \u201clow\u201d atolls and islands, such as that on the right, that peak at just a few feet above present sea level. (Left) Ko\u2018olau Mountains on the windward side of Oahu, Hawai\u2018i (Photo credit: kstrebor via Flickr.com). (Right) Laysan Island, Papah\u0101naumoku\u0101kea Marine National Monument (Photo credit: Andy Collins, NOAA).",
+    "chapter": {
+        "doi": "10.7930/J0W66HPM",
+        "identifier": "hawaii",
+        "number": 23,
+        "report_identifier": "nca3",
+        "sort_key": 230,
+        "title": "Hawai'i and U.S. Affiliated Pacific Islands",
+        "url": "http://nca2014.globalchange.gov/report/regions/hawaii-and-pacific-islands"
+    },
+    "chapter_identifier": "hawaii",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-12T11:17:00",
+    "files": [
+        {
+            "file": "64/8f/f901e9684ea2923601f2be7582c2/HI_high_and_low_islands_V4.png",
+            "href": "http://data.globalchange.gov/assets/64/8f/f901e9684ea2923601f2be7582c2/HI_high_and_low_islands_V4.png",
+            "identifier": "2c748fe7-7013-4688-8a8f-f9cb2adfa032",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "9759d411d7b29b617ea40f271465caf15e165adc",
+            "size": 1093712,
+            "thumbnail": "64/8f/f901e9684ea2923601f2be7582c2/.thumb-2c748fe7-7013-4688-8a8f-f9cb2adfa032.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/64/8f/f901e9684ea2923601f2be7582c2/.thumb-2c748fe7-7013-4688-8a8f-f9cb2adfa032.png",
+            "uri": "/file/2c748fe7-7013-4688-8a8f-f9cb2adfa032",
+            "url": "/assets/64/8f/f901e9684ea2923601f2be7582c2/HI_high_and_low_islands_V4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/hawaii/figure/high-and-low-pacific-islands-face-different-threats.json",
+    "identifier": "high-and-low-pacific-islands-face-different-threats",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-11-12T11:17:00",
+            "description": null,
+            "identifier": "60460b50-dd16-4fd5-8026-e3468d76be48",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "\u201cHigh\u201d and \u201cLow\u201d Pacific Islands Face Different Threats - Ko'olau Mountains",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2013-11-12T11:17:00",
+            "description": null,
+            "identifier": "5844e6c9-d65e-458e-8a6a-482c4180ae1d",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "\u201cHigh\u201d and \u201cLow\u201d Pacific Islands Face Different Threats - Laysan Island",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 2,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "webpage BlueWing (21) | Flickr - Photo Sharing!",
+            "note": null,
+            "publication_type_identifier": "webpage",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/webpage/4e2caecf-3283-44f4-aa82-053434201283"
+        }
+    ],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "\u201cHigh\u201d and \u201cLow\u201d Pacific Islands Face Different Threats",
+    "uri": "/report/nca3/chapter/hawaii/figure/high-and-low-pacific-islands-face-different-threats",
+    "url": "http://nca2014.globalchange.gov/report/regions/hawaii-and-pacific-islands/graphics/%E2%80%9Chigh%E2%80%9D-and-%E2%80%9Clow%E2%80%9D-pacific-islands-face-different",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"superscript\" start=\"1\" /><run start=\"3\" /></field></record>",
+        "Author": "Sutaria, S.\rKulungara, A.\rWyss, K.\rBlumenstock, J.",
+        "Institution": "Association of State and Territorial Health Officials (ASTHO)",
+        "Pages": "7",
+        "Place Published": "Arlington, VA",
+        "Title": "3rd National Climate Assessment Feedback Report. Reference Number 2011-0059",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "13",
+        "_uuid": "43200da6-cfd4-4196-872c-3fa8353d045b",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/3ncafr-2011-0059",
+    "href": "http://data.globalchange.gov/reference/43200da6-cfd4-4196-872c-3fa8353d045b.json",
+    "identifier": "43200da6-cfd4-4196-872c-3fa8353d045b",
+    "uri": "/reference/43200da6-cfd4-4196-872c-3fa8353d045b"
+}

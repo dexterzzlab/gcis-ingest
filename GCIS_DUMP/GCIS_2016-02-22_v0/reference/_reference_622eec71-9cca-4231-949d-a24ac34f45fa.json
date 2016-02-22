@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Avis, Christopher A.\rWeaver, Andrew J.\rMeissner, Katrin J.",
+        "DOI": "10.1038/ngeo1160",
+        "ISSN": "1752-0894, 1752-0908",
+        "Issue": "7",
+        "Journal": "Nature Geoscience",
+        "Pages": "444-448",
+        "Title": "Reduction in areal extent of high-latitude wetlands in response to permafrost thaw",
+        "Volume": "4",
+        "Year": "2011",
+        "_chapter": "[\"RG 7 Alaska\",\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "1398",
+        "_uuid": "622eec71-9cca-4231-949d-a24ac34f45fa",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/ngeo1160",
+    "href": "http://data.globalchange.gov/reference/622eec71-9cca-4231-949d-a24ac34f45fa.json",
+    "identifier": "622eec71-9cca-4231-949d-a24ac34f45fa",
+    "uri": "/reference/622eec71-9cca-4231-949d-a24ac34f45fa"
+}

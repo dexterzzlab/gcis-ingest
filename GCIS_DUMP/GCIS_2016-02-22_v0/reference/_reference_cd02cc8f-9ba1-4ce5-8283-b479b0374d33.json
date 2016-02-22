@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Pryor, S.C.\rBarthelmie, R.J.",
+        "Book Title": "Climate Change in the Midwest: Impacts, Risks, Vulnerability and Adaptation",
+        "Editor": "Pryor, S.C.",
+        "ISBN": "978-0-253-00682-0",
+        "Pages": "12-47",
+        "Place Published": "Bloomington , IN",
+        "Publisher": "Indiana University Press",
+        "Reviewer": "cd02cc8f-9ba1-4ce5-8283-b479b0374d33",
+        "Title": "Ch. 2: The Midwestern United States: Socio-economic context and physical climate",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "2547",
+        "_uuid": "cd02cc8f-9ba1-4ce5-8283-b479b0374d33",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/434135ed-eb50-4c46-9484-77563769e657",
+    "href": "http://data.globalchange.gov/reference/cd02cc8f-9ba1-4ce5-8283-b479b0374d33.json",
+    "identifier": "cd02cc8f-9ba1-4ce5-8283-b479b0374d33",
+    "uri": "/reference/cd02cc8f-9ba1-4ce5-8283-b479b0374d33"
+}

@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "September 2008 followed 2007 as the second sequential year with an extreme summer Arctic sea ice extent minimum. Although such a sea ice loss was not indicated until much later in the century in the Intergovernmental Panel on Climate Change 4th Assessment Report, many models show an accelerating decline in the summer minimum sea ice extent during the 21st century. Using the observed 2007/2008 September sea ice extents as a starting point, we predict an expected value for a nearly sea ice free Arctic in September by the year 2037. The first quartile of the distribution for the timing of September sea ice loss will be reached by 2028. Our analysis is based on projections from six IPCC models, selected subject to an observational constraints. Uncertainty in the timing of a sea ice free Arctic in September is determined based on both within-model contributions from natural variability and between-model differences.",
+        "Author": "Wang, M.\rOverland, J.E.",
+        "DOI": "10.1029/2009GL037820",
+        "ISSN": "0094-8276",
+        "Issue": "7",
+        "Journal": "Geophysical Research Letters",
+        "Keywords": "Arctic; Climate Data; climate models; Marine; sea ice",
+        "Pages": "L07502",
+        "Title": "A sea ice free summer Arctic within 30 years?",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2009GL037820/pdf",
+        "Volume": "36",
+        "Year": "2009",
+        "_chapter": "[\"RG 7 Alaska\",\"Ch. 2: Our Changing Climate FINAL\",\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "3337",
+        "_uuid": "81dee494-06d2-4651-8ddb-f36f45dc5942",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2009GL037820",
+    "href": "http://data.globalchange.gov/reference/81dee494-06d2-4651-8ddb-f36f45dc5942.json",
+    "identifier": "81dee494-06d2-4651-8ddb-f36f45dc5942",
+    "uri": "/reference/81dee494-06d2-4651-8ddb-f36f45dc5942"
+}

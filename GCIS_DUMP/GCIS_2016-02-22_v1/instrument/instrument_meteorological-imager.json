@@ -1,0 +1,8 @@
+{
+    "description": "Multi-purpose imaging Vis/IR radiometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/meteorological-imager.json",
+    "identifier": "meteorological-imager",
+    "name": "Meteorological Imager",
+    "uri": "/instrument/meteorological-imager"
+}

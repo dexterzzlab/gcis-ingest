@@ -1,0 +1,96 @@
+{
+    "attributes": null,
+    "caption": "Change in decadal-averaged annual temperature relative to the 1901-1960 average for the six National Climate Assessment regions in the contiguous United States. This figure shows how regional temperatures can be much more variable than global temperatures, going up and down from decade to decade; all regions, however, show warming over the last two decades or more. In the figure, 00s refers to the 12-year period of 2001-2012. (Figure source: NOAA NCDC / CICS-NC).",
+    "chapter": {
+        "doi": "10.7930/J0G15XS3",
+        "identifier": "appendix-faqs",
+        "number": 34,
+        "report_identifier": "nca3",
+        "sort_key": 340,
+        "title": "Appendix 4: Frequently Asked Questions",
+        "url": "http://nca2014.globalchange.gov/report/appendices/faqs"
+    },
+    "chapter_identifier": "appendix-faqs",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2522.json",
+            "id": 2522,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Kenneth",
+                "id": 1025,
+                "last_name": "Kunkel",
+                "middle_name": null,
+                "orcid": "0000-0001-6667-7047",
+                "url": "http://cicsnc.org/people/kenneth-kunkel/"
+            },
+            "person_id": 1025,
+            "person_uri": "/person/1025",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2522"
+        }
+    ],
+    "create_dt": "2013-10-22T10:45:07",
+    "files": [
+        {
+            "file": "6c/ef/82af6b83cd5480cdc656a76db51b/CAQ_regional_decadal_temp_V7.png",
+            "href": "http://data.globalchange.gov/assets/6c/ef/82af6b83cd5480cdc656a76db51b/CAQ_regional_decadal_temp_V7.png",
+            "identifier": "e4352f23-b2f2-43ed-9065-0b32e7b72cf7",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "0815e0ea340527f32cf8a83af1a5b14e454a81f6",
+            "size": 132783,
+            "thumbnail": "6c/ef/82af6b83cd5480cdc656a76db51b/.thumb-e4352f23-b2f2-43ed-9065-0b32e7b72cf7.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/6c/ef/82af6b83cd5480cdc656a76db51b/.thumb-e4352f23-b2f2-43ed-9065-0b32e7b72cf7.png",
+            "uri": "/file/e4352f23-b2f2-43ed-9065-0b32e7b72cf7",
+            "url": "/assets/6c/ef/82af6b83cd5480cdc656a76db51b/CAQ_regional_decadal_temp_V7.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-faqs/figure/decade-scale-changes-in-average-temperature-for-us-regions.json",
+    "identifier": "decade-scale-changes-in-average-temperature-for-us-regions",
+    "images": [
+        {
+            "attributes": "Temperature, observed, contiguous U.S.",
+            "create_dt": "2013-07-01T14:52:00",
+            "description": null,
+            "identifier": "08fa4162-7f5c-45b3-a46f-64d964b4b47e",
+            "lat_max": "49.38",
+            "lat_min": "24.50",
+            "lon_max": "-66.95",
+            "lon_min": "-124.80",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2012-12-31T00:00:00",
+            "time_start": "1901-01-01T00:00:00",
+            "title": "Decade-Scale Changes in Average Temperature for U.S. Regions",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 9,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Decade-Scale Changes in Average Temperature for U.S. Regions",
+    "uri": "/report/nca3/chapter/appendix-faqs/figure/decade-scale-changes-in-average-temperature-for-us-regions",
+    "url": "http://nca2014.globalchange.gov/report/appendices/faqs/graphics/decade-scale-changes-average-temperature-us-regions",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

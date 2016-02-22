@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "We assess the potential forecast skill of a climate model\u2013based approach for seasonal ensemble hydrologic and streamflow forecasting for the western United States. By using climate model ensemble forecasts and ensembles formed via the resampling of observations, we distinguish hydrologic forecast skill resulting from the predictable evolution of initial hydrologic conditions from that derived from the climate model forecasts. Monthly climate model ensembles of precipitation and temperature produced by the National Centers for Environmental prediction global spectral model (GSM) are downscaled for use as forcings of the variable infiltration capacity (VIC) hydrologic model. VIC then simulates ensembles of streamflow and spatially distributed hydrologic variables such as snowpack, soil moisture, and runoff. The regional averages of the ensemble forcings and derived hydrologic variables were evaluated over five regions: the Pacific Northwest, California, the Great Basin, the Colorado River basin, and the upper Rio Grande River basin. The skill assessment focuses on a retrospective 21-year period (1979\u20131999) during which GSM retrospective forecast ensembles (termed hindcasts), created using similar procedures to GSM real-time forecasts, are available. The observational verification data set for the hindcasts was a retrospective hydroclimatology at 1/8\u00b0\u20131/4\u00b0 consisting of gridded observations of temperature and precipitation and gridded hydrologic simulation results (for hydrologic variables and streamflow) based on the observed meteorological inputs. The GSM hindcast skill was assessed relative to that of a naive ensemble climatology forecast and to that of ensemble streamflow prediction (ESP) hindcasts, a forecast baseline sharing the same initial condition information as the GSM-based hindcasts. We found that the unconditional (all years) GSM hindcasts for regionally averaged variables provided practically no skill improvement over the ESP hindcasts and did not lead to improved regional hydrologic variable or streamflow forecasts. GSM-based conditional (strong El Ni\u00f1o\u2013Southern Oscillation (ENSO) years only) hindcasts, however, had higher skill in a number of hindcast months for surface air temperature, with mixed results (better and worse) for precipitation, depending on location and season. Consequently, for California and to a lesser extent the Pacific Northwest and Great Basin, hydrologic hindcast skill in winter and fall increased enough under the strong ENSO composite that streamflow hindcasts were measurably better than with ESP. The opposite was found, however, for the Colorado and upper Rio Grande River basins, where the ENSO teleconnection is somewhat weaker. ",
+        "Author": "Wood, A.W.\rKumar, A.\rLettenmaier, D.P.",
+        "DOI": "10.1029/2004JD004508",
+        "ISSN": "0148-0227",
+        "Issue": "D04105",
+        "Journal": "Journal of Geophysical Research",
+        "Pages": "16",
+        "Title": "A retrospective assessment of National Centers for Environmental Prediction climate model\u2013based ensemble hydrologic forecasting in the western United States",
+        "Volume": "110",
+        "Year": "2005",
+        "_chapter": "[\"RF 3\",\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "3468",
+        "_uuid": "66b53949-2796-4cb3-ba86-0d0509f128fb",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2004JD004508",
+    "href": "http://data.globalchange.gov/reference/66b53949-2796-4cb3-ba86-0d0509f128fb.json",
+    "identifier": "66b53949-2796-4cb3-ba86-0d0509f128fb",
+    "uri": "/reference/66b53949-2796-4cb3-ba86-0d0509f128fb"
+}

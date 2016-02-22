@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2012",
+        "Author": "USGS,",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "U.S. Geological Survey",
+        "Title": "South Florida Ecosystem Portfolio Model",
+        "URL": "http://lcat.usgs.gov/sflorida/sflorida.html",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "3255",
+        "_uuid": "cc9a51e2-587f-4d72-ac45-37db8292fedd",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/fd29622b-eaaf-478a-bc53-6ee8579e3d18",
+    "href": "http://data.globalchange.gov/reference/cc9a51e2-587f-4d72-ac45-37db8292fedd.json",
+    "identifier": "cc9a51e2-587f-4d72-ac45-37db8292fedd",
+    "uri": "/reference/cc9a51e2-587f-4d72-ac45-37db8292fedd"
+}

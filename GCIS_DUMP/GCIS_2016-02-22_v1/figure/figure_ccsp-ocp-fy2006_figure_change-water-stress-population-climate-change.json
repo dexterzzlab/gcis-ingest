@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Projection of effects of changes in population and climate on changes in water stress between 1990 and 2025. This projection used the Hadley 2 Climate Model with sulfates included to project precipitation and air temperature out to 2025; U.S. census demographic projections to 2025; and 1992 Multi-Resolution Land Characteristics (MRLC) vegetation data. Credit: S. McNulty, USDA/Forest Service.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "e6/52/cb5212f541e410b6875cbea76f9d/our_changing_planet_2006_6_20090708_1729045998.jpg",
+            "href": "http://data.globalchange.gov/assets/e6/52/cb5212f541e410b6875cbea76f9d/our_changing_planet_2006_6_20090708_1729045998.jpg",
+            "identifier": "735c53da-2590-449a-bbad-bb956f485c1c",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "7e0f309dc098557ad0644fe11a838fd6d85e2b4e",
+            "size": 104503,
+            "thumbnail": "e6/52/cb5212f541e410b6875cbea76f9d/.thumb-735c53da-2590-449a-bbad-bb956f485c1c.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/e6/52/cb5212f541e410b6875cbea76f9d/.thumb-735c53da-2590-449a-bbad-bb956f485c1c.png",
+            "uri": "/file/735c53da-2590-449a-bbad-bb956f485c1c",
+            "url": "/assets/e6/52/cb5212f541e410b6875cbea76f9d/our_changing_planet_2006_6_20090708_1729045998.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocp-fy2006/figure/change-water-stress-population-climate-change.json",
+    "identifier": "change-water-stress-population-climate-change",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocp-fy2006",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Change in Water Stress due to Population and Climate Change",
+    "uri": "/report/ccsp-ocp-fy2006/figure/change-water-stress-population-climate-change",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

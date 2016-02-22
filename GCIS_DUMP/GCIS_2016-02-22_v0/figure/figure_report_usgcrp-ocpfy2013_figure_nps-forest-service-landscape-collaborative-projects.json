@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Joint Vulnerability Assessments by the USDA's Forest Service and DOI's National Park Service. Image: Patrick Gonzales. ",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "cf/1f/cb53dc00bc7f142884b4c4f79dcf/OCP_2013_Page_25_Image_0001.jpg",
+            "href": "http://data.globalchange.gov/assets/cf/1f/cb53dc00bc7f142884b4c4f79dcf/OCP_2013_Page_25_Image_0001.jpg",
+            "identifier": "c5e6a718-beae-4227-9f3c-dfa0cb040618",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "d3aeaf76711f802a5c393e164f6e38c535f91087",
+            "size": 621554,
+            "thumbnail": "cf/1f/cb53dc00bc7f142884b4c4f79dcf/.thumb-c5e6a718-beae-4227-9f3c-dfa0cb040618.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/cf/1f/cb53dc00bc7f142884b4c4f79dcf/.thumb-c5e6a718-beae-4227-9f3c-dfa0cb040618.png",
+            "uri": "/file/c5e6a718-beae-4227-9f3c-dfa0cb040618",
+            "url": "/assets/cf/1f/cb53dc00bc7f142884b4c4f79dcf/OCP_2013_Page_25_Image_0001.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2013/figure/nps-forest-service-landscape-collaborative-projects.json",
+    "identifier": "nps-forest-service-landscape-collaborative-projects",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2013",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "NPS & Forest Service Landscape Collaborative Projects",
+    "uri": "/report/usgcrp-ocpfy2013/figure/nps-forest-service-landscape-collaborative-projects",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

@@ -1,0 +1,57 @@
+{
+    "attributes": null,
+    "caption": "Ragweed pollen season length has increased in central North America between 1995 and 2011 by as much as 11 to 27 days in parts of the U.S. and Canada in response to rising temperatures. Increases in the length of this allergenic pollen season are correlated with increases in the number of days before the first frost. As shown in the figure, the largest increases have been observed in northern cities. (Data updated from Ziska et al. 2011<tbib>2d1ffd71-6c31-4d2e-9867-bdf330be45c1</tbib>; Photo credit: Lewis Ziska, USDA).",
+    "chapter": {
+        "doi": "10.7930/J0PN93H5",
+        "identifier": "human-health",
+        "number": 9,
+        "report_identifier": "nca3",
+        "sort_key": 90,
+        "title": "Human Health",
+        "url": "http://nca2014.globalchange.gov/report/sectors/human-health"
+    },
+    "chapter_identifier": "human-health",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "55/1c/a053c25df73108cdc11bd1d0cf1c/health_ragweed_pollen_season_V4.png",
+            "href": "http://data.globalchange.gov/assets/55/1c/a053c25df73108cdc11bd1d0cf1c/health_ragweed_pollen_season_V4.png",
+            "identifier": "28596ccd-8bc0-473d-97ee-ec425e7caebf",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "a0d9972de0fe37d3563d07d58067041ec2706aa8",
+            "size": 586019,
+            "thumbnail": "55/1c/a053c25df73108cdc11bd1d0cf1c/.thumb-28596ccd-8bc0-473d-97ee-ec425e7caebf.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/55/1c/a053c25df73108cdc11bd1d0cf1c/.thumb-28596ccd-8bc0-473d-97ee-ec425e7caebf.png",
+            "uri": "/file/28596ccd-8bc0-473d-97ee-ec425e7caebf",
+            "url": "/assets/55/1c/a053c25df73108cdc11bd1d0cf1c/health_ragweed_pollen_season_V4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/human-health/figure/ragweed-pollen-season-lengthens.json",
+    "identifier": "ragweed-pollen-season-lengthens",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 2,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/2d1ffd71-6c31-4d2e-9867-bdf330be45c1.json",
+            "uri": "/reference/2d1ffd71-6c31-4d2e-9867-bdf330be45c1"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Ragweed Pollen Season Lengthens",
+    "uri": "/report/nca3/chapter/human-health/figure/ragweed-pollen-season-lengthens",
+    "url": "http://nca2014.globalchange.gov/highlights/report-findings/human-health/graphics/ragweed-pollen-season-lengthens",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

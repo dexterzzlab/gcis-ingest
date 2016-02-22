@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Globally averaged temperature anomalies for the lower stratosphere simulated by four global climate models using estimates of natural and anthropogenic forcings (in color) and observational values (in black) from two different satellite data sets. Model runs were conducted by the Parallel Climate Model (PCM, blue); the Community Climate System Model, version 3 (CCSM3, green); the Geophysical Fluid Dynamics Laboratory Climate Model, version 2.1 (GFDL CM 2.1, red); and the Goddard Institute for Space Studies climate model (GISS EH, purple). Observed estimates of lower stratospheric temperature changes are from channel 4 of the satellite-based Microwave Sounding Unit\u2014produced by the University of Alabama in Huntsville (UAH, solid black) and Remote Sensing Systems in Santa Rosa (RSS, dashed black). Source: B. Santer, Lawrence Livermore National Laboratory.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "f7/89/78206efc4509e5a5312b801cef64/our_changing_planet_2006_28_20090708_1726429783.jpg",
+            "href": "http://data.globalchange.gov/assets/f7/89/78206efc4509e5a5312b801cef64/our_changing_planet_2006_28_20090708_1726429783.jpg",
+            "identifier": "5a037f6f-82ec-4ed2-8209-b7a24032adbe",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "336f8d8c8ae8604f1bcfb54ee5eea149e9bb994a",
+            "size": 61530,
+            "thumbnail": "f7/89/78206efc4509e5a5312b801cef64/.thumb-5a037f6f-82ec-4ed2-8209-b7a24032adbe.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/f7/89/78206efc4509e5a5312b801cef64/.thumb-5a037f6f-82ec-4ed2-8209-b7a24032adbe.png",
+            "uri": "/file/5a037f6f-82ec-4ed2-8209-b7a24032adbe",
+            "url": "/assets/f7/89/78206efc4509e5a5312b801cef64/our_changing_planet_2006_28_20090708_1726429783.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocp-fy2006/figure/simulated-observed-stratospheric-temperature-changes.json",
+    "identifier": "simulated-observed-stratospheric-temperature-changes",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocp-fy2006",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Simulated and Observed Stratospheric Temperature Changes",
+    "uri": "/report/ccsp-ocp-fy2006/figure/simulated-observed-stratospheric-temperature-changes",
+    "url": null,
+    "usage_limits": null
+}

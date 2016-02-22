@@ -1,0 +1,8 @@
+{
+    "description": "Multi-channel/direction/polarisation radiometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/along-track-scanning-radiometer-2.json",
+    "identifier": "along-track-scanning-radiometer-2",
+    "name": "Along Track Scanning Radiometer - 2",
+    "uri": "/instrument/along-track-scanning-radiometer-2"
+}

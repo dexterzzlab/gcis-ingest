@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Scientists in the field for the Bering Sea Project. Deployment of a Bongo net system from the stern of the U.S. Coast Guard Cutter Healy to sample zooplankton in the upper water column in the Bering Sea, an area that supports a large biomass of top predators. Zooplankton moderate phytoplankton blooms in the Bering Sea and are a critical food source for many fish populations important in commercial and subsistence fisheries. ",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "2e/82/ce530656d05e727662eab2244ab3/OCP_2012_Page_13_Image_0003.jpg",
+            "href": "http://data.globalchange.gov/assets/2e/82/ce530656d05e727662eab2244ab3/OCP_2012_Page_13_Image_0003.jpg",
+            "identifier": "2507d589-f315-440e-a142-85e4bfbc78e2",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "eb152676d19d2d8e1355ffe170b800b0c54d045d",
+            "size": 19571,
+            "thumbnail": "2e/82/ce530656d05e727662eab2244ab3/.thumb-2507d589-f315-440e-a142-85e4bfbc78e2.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/2e/82/ce530656d05e727662eab2244ab3/.thumb-2507d589-f315-440e-a142-85e4bfbc78e2.png",
+            "uri": "/file/2507d589-f315-440e-a142-85e4bfbc78e2",
+            "url": "/assets/2e/82/ce530656d05e727662eab2244ab3/OCP_2012_Page_13_Image_0003.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2012/figure/bering-sea-project-scientists.json",
+    "identifier": "bering-sea-project-scientists",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2012",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Bering Sea Project Scientists",
+    "uri": "/report/usgcrp-ocpfy2012/figure/bering-sea-project-scientists",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Time series of the vertical extent of cloudiness from the Atmospheric Radiation Measurement (ARM) radar at Nauru (top panel). Bottom panel shows the vertical distribution of the cumulus mass flux, which is an indicator of the vertical extent of the shallow cumulus clouds. Credit: P. Zhu and C.S. Bretherton, University of Washington (reproduced from Monthly Weather Review with permission from the American Meteorological Society).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "a7/46/7486ae1f923279a26030e3a7a049/our_changing_planet_2007_46_20090708_1748459349.jpg",
+            "href": "http://data.globalchange.gov/assets/a7/46/7486ae1f923279a26030e3a7a049/our_changing_planet_2007_46_20090708_1748459349.jpg",
+            "identifier": "b64043fd-977c-4c30-a935-7edbb92d9082",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "c1e265aece7535c4357f22d59bf1aa5dde686c5a",
+            "size": 47282,
+            "thumbnail": "a7/46/7486ae1f923279a26030e3a7a049/.thumb-b64043fd-977c-4c30-a935-7edbb92d9082.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/a7/46/7486ae1f923279a26030e3a7a049/.thumb-b64043fd-977c-4c30-a935-7edbb92d9082.png",
+            "uri": "/file/b64043fd-977c-4c30-a935-7edbb92d9082",
+            "url": "/assets/a7/46/7486ae1f923279a26030e3a7a049/our_changing_planet_2007_46_20090708_1748459349.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/vertical-extent-cloudiness.json",
+    "identifier": "vertical-extent-cloudiness",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Vertical Extent of Cloudiness",
+    "uri": "/report/ccsp-ocpfy2007/figure/vertical-extent-cloudiness",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

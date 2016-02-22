@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Williams, S.L.\rGrosholz, E.D.",
+        "DOI": "10.1007/s12237-007-9031-6",
+        "ISSN": "1559-2723",
+        "Issue": "1",
+        "Journal": "Estuaries and Coasts",
+        "Pages": "3-20",
+        "Title": "The invasive species challenge in estuarine and coastal environments: Marrying management and science",
+        "Volume": "31",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "3444",
+        "_uuid": "92da0798-eb2c-44a8-991d-829fdff77dc3",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s12237-007-9031-6",
+    "href": "http://data.globalchange.gov/reference/92da0798-eb2c-44a8-991d-829fdff77dc3.json",
+    "identifier": "92da0798-eb2c-44a8-991d-829fdff77dc3",
+    "uri": "/reference/92da0798-eb2c-44a8-991d-829fdff77dc3"
+}

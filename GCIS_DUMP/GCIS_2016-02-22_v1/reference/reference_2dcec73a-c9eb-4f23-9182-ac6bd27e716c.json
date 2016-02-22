@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Eakin, C.M.\rMorgan, J.A.\rHeron, S.F.\rSmith, T.B.\rLiu, G.\rAlvarez-Filip, L.\rBaca, B.\rBartels, E.\rBastidas, C.\rBouchon, C.\rBrandt, M.\rBruckner, A.W.\rBunkley-WIlliams, L.\rCameron, A.\rCausey, B.D.\rChiappone, M.\rChristensen, T.R.L.\rCrabbe, M.J.C.\rDay, O.\rde la Guardia, E.\rD\u00edaz-Pulido, G.\rDi Resta, D.\rGil-Agudelo, D.L.\rGilliam, D.S.\rGinsburg, R.N.\rGore, S. \rGuzm\u00e1n, H.M.\rHendee, J.C.\rHern\u00e1ndez-Delgado, E.A.\rHusain, E.\rJeffrey, C.F.G.\rJones, R.J.\rJord\u00e1n-Dahlgren, E. \rKaufman, L.S.\rKline, D.I.\rKramer, P.A.\rLang, J.C.\rLirman, D.\rMallela, J.\rManfrino, C.\rMar\u00e9chal, J.-P.\rMarks, K.\rMihaly, J.\rMiller, W.J.\rMueller, E.M.\rMuller, E.M.\rOrozco Toro, C.A.\rOxenford, H.A.\rPonce-Taylor, D.\rQuinn, N.\rRitchie, K.B.\rRodr\u00edguez, S.\rRodr\u00edguez Ram\u00edrez, A.\rRomano, S.\rSamhouri, J.F.\rS\u00e1nchez, J.A.\rSchmahl, G.P.\rShank, B.V.\rSkirving, W.J.\rSteiner, S.C.C.\rVillamizar, E.\rWalsh, S.M.\rWalter, C.\rWeil, E.\rWilliams, E.H.\rRoberson, K.W.\rYusuf Y.",
+        "DOI": "10.1371/journal.pone.0013969",
+        "ISSN": "1932-6203",
+        "Issue": "11",
+        "Journal": "PLoS ONE",
+        "Pages": "e13969",
+        "Title": "Caribbean corals in crisis: Record thermal stress, bleaching, and mortality in 2005",
+        "URL": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0013969",
+        "Volume": "5",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\",\"RF 11\"]",
+        "_record_number": "186",
+        "_uuid": "2dcec73a-c9eb-4f23-9182-ac6bd27e716c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1371/journal.pone.0013969",
+    "href": "http://data.globalchange.gov/reference/2dcec73a-c9eb-4f23-9182-ac6bd27e716c.json",
+    "identifier": "2dcec73a-c9eb-4f23-9182-ac6bd27e716c",
+    "uri": "/reference/2dcec73a-c9eb-4f23-9182-ac6bd27e716c"
+}

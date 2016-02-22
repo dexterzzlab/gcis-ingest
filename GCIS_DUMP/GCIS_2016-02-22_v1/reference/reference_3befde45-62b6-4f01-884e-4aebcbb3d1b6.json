@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Houston, James R.",
+        "ISSN": "0037-4237",
+        "Issue": "3",
+        "Journal": "Shore & Beach",
+        "Pages": "22-26",
+        "Title": "The economic value of beaches \u2013 a 2008 update",
+        "Volume": "76",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"RG 10 Coasts\"]",
+        "_record_number": "3585",
+        "_uuid": "3befde45-62b6-4f01-884e-4aebcbb3d1b6",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/the-economic-value-of-beaches--a-2008-update",
+    "href": "http://data.globalchange.gov/reference/3befde45-62b6-4f01-884e-4aebcbb3d1b6.json",
+    "identifier": "3befde45-62b6-4f01-884e-4aebcbb3d1b6",
+    "uri": "/reference/3befde45-62b6-4f01-884e-4aebcbb3d1b6"
+}

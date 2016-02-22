@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "(top) Typical wintertime sea surface temperature (colors), sea level pressure (contours), and surface wind stress (arrows) anomaly patterns during positive and negative phases of the Pacific Decadal Oscillation (PDO), as derived from the TOPEX/Poseidon satellite plus other ocean/atmosphere data. Temperature anomalies (colors) are in degrees Celsius. (bottom) Monthly values for the PDO index, 1900-2004. Credit: S. Hare and N. Mantua, University of Washington.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "4b/b0/fde40c24be87cf1d2938ab093d77/our_changing_planet_2006_29_20090708_1924564046.jpg",
+            "href": "http://data.globalchange.gov/assets/4b/b0/fde40c24be87cf1d2938ab093d77/our_changing_planet_2006_29_20090708_1924564046.jpg",
+            "identifier": "0e8895e0-b41d-48f8-af6b-bd9a6e7d575d",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "7c7edac1334318dcaedde649f0d05b092a3a87e6",
+            "size": 107842,
+            "thumbnail": "4b/b0/fde40c24be87cf1d2938ab093d77/.thumb-0e8895e0-b41d-48f8-af6b-bd9a6e7d575d.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/4b/b0/fde40c24be87cf1d2938ab093d77/.thumb-0e8895e0-b41d-48f8-af6b-bd9a6e7d575d.png",
+            "uri": "/file/0e8895e0-b41d-48f8-af6b-bd9a6e7d575d",
+            "url": "/assets/4b/b0/fde40c24be87cf1d2938ab093d77/our_changing_planet_2006_29_20090708_1924564046.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocp-fy2006/figure/pacific-decadal-oscillation.json",
+    "identifier": "pacific-decadal-oscillation",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocp-fy2006",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Pacific Decadal Oscillation",
+    "uri": "/report/ccsp-ocp-fy2006/figure/pacific-decadal-oscillation",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

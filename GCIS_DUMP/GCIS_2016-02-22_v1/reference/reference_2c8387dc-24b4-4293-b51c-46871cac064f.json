@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Hoerling, M.\rM. Chen\rR. Dole\rJ. Eischeid\rA. Kumar\rJ.W. Nielsen-Gammon\rP. Pegion\rJ. Perlwitz\rX.-W. Quan\rT. Zhang",
+        "DOI": "10.1175/JCLI-D-12-00270.1",
+        "ISSN": "0894-8755",
+        "Issue": "9",
+        "Journal": "Journal of Climate",
+        "Pages": "2811\u20132832",
+        "Title": "Anatomy of an extreme event",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/JCLI-D-12-00270.1",
+        "Volume": "26",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\",\"Ch. 2: Our Changing Climate FINAL\",\"RF 2\",\"Appendix 3: Climate Science FINAL\",\"Ch. 10: Energy Water Land FINAL\"]",
+        "_record_number": "83",
+        "_uuid": "2c8387dc-24b4-4293-b51c-46871cac064f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/JCLI-D-12-00270.1",
+    "href": "http://data.globalchange.gov/reference/2c8387dc-24b4-4293-b51c-46871cac064f.json",
+    "identifier": "2c8387dc-24b4-4293-b51c-46871cac064f",
+    "uri": "/reference/2c8387dc-24b4-4293-b51c-46871cac064f"
+}

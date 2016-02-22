@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Peterson, T.C.\rAnderson, D.M.\rCohen,  S.J.\rCortez-V\u00e1zquez, M.\rMurnane, R.J.\rParmesan, C.\rPhillips, D.\rPulwarty, R.S.\rStone, J.M.R.",
+        "Book Title": "Weather and Climate Extremes in a Changing Climate. Regions of Focus: North America, Hawaii, Caribbean, and U.S. Pacific Islands. A Report by the U.S. Climate Change Science Program and the Subcommittee on Global Change Research",
+        "Editor": "Thomas R. Karl\rGerald A. Meehl\rChristopher D. Miller\rSusan J. Hassol\rAnne M. Waple\rWilliam L. Murray ",
+        "Pages": "11-34",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "Department of Commerce, NOAA\u2019s National Climatic Data Center",
+        "Reviewer": "f1de2ba7-1777-4d63-9516-bd0e91a53770",
+        "Title": "Ch. 1: Why weather and climate extremes matter",
+        "URL": "http://library.globalchange.gov/downloads/download.php?id=22",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"Appendix 4: FAQs FINAL\"]",
+        "_record_number": "2476",
+        "_uuid": "f1de2ba7-1777-4d63-9516-bd0e91a53770",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/ccsp-sap-3_3-2008",
+    "href": "http://data.globalchange.gov/reference/f1de2ba7-1777-4d63-9516-bd0e91a53770.json",
+    "identifier": "f1de2ba7-1777-4d63-9516-bd0e91a53770",
+    "uri": "/reference/f1de2ba7-1777-4d63-9516-bd0e91a53770"
+}

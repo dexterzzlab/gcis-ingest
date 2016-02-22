@@ -1,0 +1,9 @@
+{
+    "country_code": null,
+    "href": "http://data.globalchange.gov/organization/biomed-central.json",
+    "identifier": "biomed-central",
+    "name": "BioMed Central",
+    "organization_type_identifier": "commercial",
+    "uri": "/organization/biomed-central",
+    "url": "https://www.biomedcentral.com/"
+}

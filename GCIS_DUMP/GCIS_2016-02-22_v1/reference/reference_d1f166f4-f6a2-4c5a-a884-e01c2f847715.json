@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "F\u00fcssel, H.M.",
+        "DOI": "10.1016/j.gloenvcha.2006.05.002",
+        "ISSN": "0959-3780",
+        "Issue": "2",
+        "Journal": "Global Environmental Change",
+        "Pages": "155-167",
+        "Title": "Vulnerability: A generally applicable conceptual framework for climate change research",
+        "Volume": "17",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 11: Urban Systems FINAL\",\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "1779",
+        "_uuid": "d1f166f4-f6a2-4c5a-a884-e01c2f847715",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.gloenvcha.2006.05.002",
+    "href": "http://data.globalchange.gov/reference/d1f166f4-f6a2-4c5a-a884-e01c2f847715.json",
+    "identifier": "d1f166f4-f6a2-4c5a-a884-e01c2f847715",
+    "uri": "/reference/d1f166f4-f6a2-4c5a-a884-e01c2f847715"
+}

@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/inventory-of-us-greenhouse-gas-emissions-and-sinks-1990-2012-annex-3.json",
+    "identifier": "inventory-of-us-greenhouse-gas-emissions-and-sinks-1990-2012-annex-3",
+    "in_library": null,
+    "publication_year": 2014,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Inventory of US Greenhouse Gas Emissions and Sinks: 1990-2012, Annex 3",
+    "topic": null,
+    "uri": "/report/inventory-of-us-greenhouse-gas-emissions-and-sinks-1990-2012-annex-3",
+    "url": "http://www.epa.gov/climatechange/Downloads/ghgemissions/US-GHG-Inventory-2014-Annex-3-Additional-Source-or-Sink-Categories.pdf"
+}

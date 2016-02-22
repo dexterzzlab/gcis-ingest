@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Satellite observations can be used to provide frequent high-quality land-cover measurements in responding to rapid changes that occur during flooding and large-scale fires. This is graphically demonstrated by the comparison of two Landsat images showing areas of flooding in New Orleans due to Hurricane Katrina. Credit: R. Beck, U.S. Geological Survey.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "7a/8a/24610e70e22339e7fec895e77e85/our_changing_planet_2007_78_20090708_2023882781.jpg",
+            "href": "http://data.globalchange.gov/assets/7a/8a/24610e70e22339e7fec895e77e85/our_changing_planet_2007_78_20090708_2023882781.jpg",
+            "identifier": "0a3ace8e-28c2-44d0-b2bc-df3a8046ab43",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "01a4434cba58b7e1dcc97eaed993ed389523149a",
+            "size": 41843,
+            "thumbnail": "7a/8a/24610e70e22339e7fec895e77e85/.thumb-0a3ace8e-28c2-44d0-b2bc-df3a8046ab43.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/7a/8a/24610e70e22339e7fec895e77e85/.thumb-0a3ace8e-28c2-44d0-b2bc-df3a8046ab43.png",
+            "uri": "/file/0a3ace8e-28c2-44d0-b2bc-df3a8046ab43",
+            "url": "/assets/7a/8a/24610e70e22339e7fec895e77e85/our_changing_planet_2007_78_20090708_2023882781.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/flooding-new-orleans-hurricane-katrina.json",
+    "identifier": "flooding-new-orleans-hurricane-katrina",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Flooding in New Orleans from Hurricane Katrina",
+    "uri": "/report/ccsp-ocpfy2007/figure/flooding-new-orleans-hurricane-katrina",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

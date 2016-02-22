@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "West, J.M.\rJulius, S.H.\rKareiva, P.\rEnquist, C.\rLawler, J.J.\rPetersen, B.\rJohnson, A.E.\rShaw, M.R.",
+        "DOI": "10.1007/s00267-009-9345-1",
+        "ISSN": "0364-152X",
+        "Issue": "6",
+        "Journal": "Environmental Management",
+        "Pages": "1001-1021",
+        "Title": "US natural resources and climate change: Concepts and approaches for management adaptation",
+        "Volume": "44",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\",\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "3393",
+        "_uuid": "43fb3af1-c89c-4ae1-bf07-2d00071420de",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s00267-009-9345-1",
+    "href": "http://data.globalchange.gov/reference/43fb3af1-c89c-4ae1-bf07-2d00071420de.json",
+    "identifier": "43fb3af1-c89c-4ae1-bf07-2d00071420de",
+    "uri": "/reference/43fb3af1-c89c-4ae1-bf07-2d00071420de"
+}

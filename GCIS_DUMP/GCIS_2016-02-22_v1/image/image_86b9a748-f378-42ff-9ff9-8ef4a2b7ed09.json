@@ -1,0 +1,80 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/18224.json",
+            "id": 18224,
+            "organization": null,
+            "organization_uri": null,
+            "person": {
+                "first_name": "May-Le",
+                "id": 10828,
+                "last_name": "Ng",
+                "middle_name": null,
+                "orcid": null,
+                "url": null
+            },
+            "person_id": 10828,
+            "person_uri": "/person/10828",
+            "role_type_identifier": "graphic_artist",
+            "uri": "/contributor/18224"
+        }
+    ],
+    "create_dt": null,
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Progressive drying of lakes in northern forest wetlands in the Yukon Flats National Wildlife Refuge, Alaska.\r\n    Foreground orange area was once a lake. Mid-ground lake once extended to the shrubs. (Photo credit: May-Le Ng).",
+            "chapter_identifier": "alaska",
+            "create_dt": null,
+            "identifier": "drying-lakes-and-changing-habitat",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 7,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Drying Lakes and Changing Habitat",
+            "url": "http://nca2014.globalchange.gov/report/regions/alaska/graphics/drying-lakes-and-changing-habitat",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "67/5e/e5d9ddf235f7c03d0d1c0765bc85/AK_drying_lakes_v2.png",
+            "href": "http://data.globalchange.gov/assets/67/5e/e5d9ddf235f7c03d0d1c0765bc85/AK_drying_lakes_v2.png",
+            "identifier": "56512af2-cdc5-4ba2-9458-365f0280854d",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "f02cb3db0697f348d7f2b920cecaa6ce18d04352",
+            "size": 250885,
+            "thumbnail": "67/5e/e5d9ddf235f7c03d0d1c0765bc85/.thumb-56512af2-cdc5-4ba2-9458-365f0280854d.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/67/5e/e5d9ddf235f7c03d0d1c0765bc85/.thumb-56512af2-cdc5-4ba2-9458-365f0280854d.png",
+            "uri": "/file/56512af2-cdc5-4ba2-9458-365f0280854d",
+            "url": "/assets/67/5e/e5d9ddf235f7c03d0d1c0765bc85/AK_drying_lakes_v2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/86b9a748-f378-42ff-9ff9-8ef4a2b7ed09.json",
+    "identifier": "86b9a748-f378-42ff-9ff9-8ef4a2b7ed09",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Drying Lakes and Changing Habitat",
+    "uri": "/image/86b9a748-f378-42ff-9ff9-8ef4a2b7ed09",
+    "url": null,
+    "usage_limits": null
+}

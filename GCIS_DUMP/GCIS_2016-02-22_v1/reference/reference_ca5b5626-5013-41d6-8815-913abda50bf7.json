@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".publisher": "Institute of Physics Publishing",
+        ".reference_type": "0",
+        "Author": "Titus, J. G.\rHudgens, D.E.\rTrescott, D.L.\rCraghan, M.\rNuckols, W.H.\rHershner, C.H.\rKassakian, J.M.\rLinn, C.J.\rMerritt, P.G.\rMcCue, T.M.\rO\u2019Connell, J.F.\rTanski, J.\rWang, J.",
+        "DOI": "10.1088/1748-9326/4/4/044008",
+        "ISSN": "1748-9326",
+        "Issue": "4",
+        "Journal": "Environmental Research Letters",
+        "Title": "State and local governments plan for development of most land vulnerable to rising sea level along the US Atlantic coast",
+        "Volume": "4",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"Ch. 16: Northeast FINAL\",\"RG 10 Coasts\"]",
+        "_record_number": "3072",
+        "_uuid": "ca5b5626-5013-41d6-8815-913abda50bf7",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1088/1748-9326/4/4/044008",
+    "href": "http://data.globalchange.gov/reference/ca5b5626-5013-41d6-8815-913abda50bf7.json",
+    "identifier": "ca5b5626-5013-41d6-8815-913abda50bf7",
+    "uri": "/reference/ca5b5626-5013-41d6-8815-913abda50bf7"
+}

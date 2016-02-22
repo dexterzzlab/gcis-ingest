@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/nasa-techmemo-2000-206892-vol11.json",
+    "identifier": "nasa-techmemo-2000-206892-vol11",
+    "in_library": null,
+    "publication_year": 2000,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "SeaWiFS Postlaunch Calibration and Validation Analyses, Part 3",
+    "topic": null,
+    "uri": "/report/nasa-techmemo-2000-206892-vol11",
+    "url": "http://oceancolor.gsfc.nasa.gov/REPROCESSING/SeaWiFS/R3/Documents/postlaunch_Volume11.pdf"
+}

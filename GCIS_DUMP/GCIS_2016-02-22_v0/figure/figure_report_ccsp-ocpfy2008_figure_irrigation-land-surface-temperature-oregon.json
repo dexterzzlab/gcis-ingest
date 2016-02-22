@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "The difference between poplar plantations and native vegetation is illustrated in this pair of satellite images, collected by the Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) on NASA\u2019s Terra satellite on 27 August 2006. The top panel depicts vegetation index, a measure of the density of plants based on the amount of photosynthesis recorded by the sensor. The availability of water causes the difference between the densely vegetated areas (dark green) and the lightly vegetated areas (light green). The contrast between irrigated and non-irrigated land is also evident in the bottom panel, which shows land surface temperatures measured by the same ASTER instrument. The coolest areas are dark blue, and the warmest pink and yellow. Irrigated crop lands are much cooler than the surrounding native vegetation. In this semi-arid region, the temperature difference is as much as 30\u00b0C (54\u00b0F), similar to the temperature difference between the Congo Rainforest and the Sahara Desert in Africa. Credit: J. Allen, NASA / Goddard Space Flight Center (<earthobservatory.nasa.gov>), using data provided courtesy of NASA/GSFC/METI/ERSDAC/ JAROS and the U.S./Japan ASTER Science Team.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "47/0c/3cda3c5a96da4a645ff303bd12b0/our_changing_planet_2008_71_20090708_1274914088.jpg",
+            "href": "http://data.globalchange.gov/assets/47/0c/3cda3c5a96da4a645ff303bd12b0/our_changing_planet_2008_71_20090708_1274914088.jpg",
+            "identifier": "f5e83939-afb5-4bdd-974f-75c9564f3af7",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "a16279fb4fb1893183d7e76b275c4e57efa3b866",
+            "size": 60474,
+            "thumbnail": "47/0c/3cda3c5a96da4a645ff303bd12b0/.thumb-f5e83939-afb5-4bdd-974f-75c9564f3af7.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/47/0c/3cda3c5a96da4a645ff303bd12b0/.thumb-f5e83939-afb5-4bdd-974f-75c9564f3af7.png",
+            "uri": "/file/f5e83939-afb5-4bdd-974f-75c9564f3af7",
+            "url": "/assets/47/0c/3cda3c5a96da4a645ff303bd12b0/our_changing_planet_2008_71_20090708_1274914088.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2008/figure/irrigation-land-surface-temperature-oregon.json",
+    "identifier": "irrigation-land-surface-temperature-oregon",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2008",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Irrigation and Land Surface Temperature in Oregon",
+    "uri": "/report/ccsp-ocpfy2008/figure/irrigation-land-surface-temperature-oregon",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

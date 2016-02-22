@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "NOAA,",
+        "Institution": "National Oceanic and Atmospheric Administration, National Weather Service",
+        "Pages": "10",
+        "Title": "United States Flood Loss Report - Water Year 2011",
+        "URL": "http://www.nws.noaa.gov/hic/summaries/WY2011.pdf",
+        "Year": "2013",
+        "_chapter": "[\"RF 2\",\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "4328",
+        "_uuid": "f86905f5-67f7-48c4-9e36-32740977eb73",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/nws-noaa-usfloodlossreport-2011",
+    "href": "http://data.globalchange.gov/reference/f86905f5-67f7-48c4-9e36-32740977eb73.json",
+    "identifier": "f86905f5-67f7-48c4-9e36-32740977eb73",
+    "uri": "/reference/f86905f5-67f7-48c4-9e36-32740977eb73"
+}

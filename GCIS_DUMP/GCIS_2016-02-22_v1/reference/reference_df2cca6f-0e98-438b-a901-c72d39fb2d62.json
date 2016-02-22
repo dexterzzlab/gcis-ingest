@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "CDP,",
+        "Institution": "Carbon Disclosure Project",
+        "Pages": "49",
+        "Place Published": "New York, NY and London, UK",
+        "Title": "CDP S&P 500 Report: Strategic Advantage Through Climate Change Action",
+        "URL": "https://www.cdproject.net/CDPResults/CDP-2011-SP500.pdf",
+        "Volume": "2011",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\",\"RF 12\"]",
+        "_record_number": "192",
+        "_uuid": "df2cca6f-0e98-438b-a901-c72d39fb2d62",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/cdpsp500-2011",
+    "href": "http://data.globalchange.gov/reference/df2cca6f-0e98-438b-a901-c72d39fb2d62.json",
+    "identifier": "df2cca6f-0e98-438b-a901-c72d39fb2d62",
+    "uri": "/reference/df2cca6f-0e98-438b-a901-c72d39fb2d62"
+}

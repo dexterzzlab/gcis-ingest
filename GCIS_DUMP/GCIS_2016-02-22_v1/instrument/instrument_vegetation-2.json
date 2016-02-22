@@ -1,0 +1,8 @@
+{
+    "description": "Medium-resolution spectro-radiometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/vegetation-2.json",
+    "identifier": "vegetation-2",
+    "name": "Vegetation",
+    "uri": "/instrument/vegetation-2"
+}

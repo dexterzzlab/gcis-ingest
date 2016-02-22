@@ -1,0 +1,96 @@
+{
+    "attributes": null,
+    "caption": "Monitoring biodiversity in the field. (Credit: C. K\u00f6rner)",
+    "chapter": {
+        "doi": null,
+        "identifier": "federal-investments-in-global-change-research",
+        "number": 2,
+        "report_identifier": "usgcrp-ocpfy2015",
+        "sort_key": 20,
+        "title": "Federal Investments in Global Change Research",
+        "url": null
+    },
+    "chapter_identifier": "federal-investments-in-global-change-research",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/4159.json",
+            "id": 4159,
+            "organization": {
+                "country_code": "CH",
+                "identifier": "university-basel",
+                "name": "University of Basel",
+                "organization_type_identifier": "academic",
+                "url": null
+            },
+            "organization_uri": "/organization/university-basel",
+            "person": {
+                "first_name": "Christian",
+                "id": 2381,
+                "last_name": "K\u00f6rner",
+                "middle_name": null,
+                "orcid": "0000-0002-8979-0613",
+                "url": "https://plantecology.unibas.ch/koerner/index.shtml"
+            },
+            "person_id": 2381,
+            "person_uri": "/person/2381",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/4159"
+        }
+    ],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "bd/3f/b1e0504ef20094bd2cd22393df4d/international-EBVs-field-work.png",
+            "href": "http://data.globalchange.gov/assets/bd/3f/b1e0504ef20094bd2cd22393df4d/international-EBVs-field-work.png",
+            "identifier": "06b50d85-661d-4ca1-874d-67c9833e2c0e",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "b903470a184b0fe4070226db9d45c91911b6a0ce",
+            "size": 1436727,
+            "thumbnail": "bd/3f/b1e0504ef20094bd2cd22393df4d/.thumb-06b50d85-661d-4ca1-874d-67c9833e2c0e.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/bd/3f/b1e0504ef20094bd2cd22393df4d/.thumb-06b50d85-661d-4ca1-874d-67c9833e2c0e.png",
+            "uri": "/file/06b50d85-661d-4ca1-874d-67c9833e2c0e",
+            "url": "/assets/bd/3f/b1e0504ef20094bd2cd22393df4d/international-EBVs-field-work.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2015/chapter/federal-investments-in-global-change-research/figure/measuring-biodiversity.json",
+    "identifier": "measuring-biodiversity",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": null,
+            "description": "Monitoring biodiversity in the field. (Credit: C. K\u00f6rner 2002)",
+            "identifier": "e31bcd58-1a6c-4fbd-b413-427a64ad17cc",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Measuring Biodiversity",
+            "url": null,
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source. "
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 4,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2015",
+    "source_citation": "Christian K\u00f6rner with students counting individuals of R. glacialis during a two-week field course in Abisko, Sweden, in 2002",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Measuring Biodiversity",
+    "uri": "/report/usgcrp-ocpfy2015/chapter/federal-investments-in-global-change-research/figure/measuring-biodiversity",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source. "
+}

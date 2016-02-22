@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Moss, R.H.\rBrenkert, A.L.\rMalone, E.L.",
+        "Document Number": "September",
+        "Institution": "U.S. Department of Energy ",
+        "Pages": "70",
+        "Title": "Vulnerability to Climate Change. A Quantitative Approach",
+        "URL": "http://www.globalchange.umd.edu/data/publications/Vulnerability_to_Climate_Change.PDF",
+        "Year": "2001",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "2105",
+        "_uuid": "3a9c7315-6d72-480b-bba3-55541f61834c",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/pnnl-sa-33642",
+    "href": "http://data.globalchange.gov/reference/3a9c7315-6d72-480b-bba3-55541f61834c.json",
+    "identifier": "3a9c7315-6d72-480b-bba3-55541f61834c",
+    "uri": "/reference/3a9c7315-6d72-480b-bba3-55541f61834c"
+}

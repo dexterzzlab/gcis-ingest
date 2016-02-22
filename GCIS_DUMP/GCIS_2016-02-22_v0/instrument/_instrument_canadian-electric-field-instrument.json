@@ -1,0 +1,8 @@
+{
+    "description": "Electric field sensor",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/canadian-electric-field-instrument.json",
+    "identifier": "canadian-electric-field-instrument",
+    "name": "Canadian Electric Field Instrument",
+    "uri": "/instrument/canadian-electric-field-instrument"
+}

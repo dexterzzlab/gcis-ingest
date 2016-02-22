@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Results from two state-of-the- art climate models (the Parallel Climate Model and the Community Climate System Model) in which greenhouse gas concentrations are stabilized at the end of the 20th century. Temperature and sea-level values are shown relative to the averages for the base period, 1980-1999. Credit: J. Arblaster, National Center for Atmospheric Research (reproduced with permission from Science).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "18/0f/dce59d1f4fcd5a27bfa442ce4559/our_changing_planet_2007_90_20090708_1351174831.jpg",
+            "href": "http://data.globalchange.gov/assets/18/0f/dce59d1f4fcd5a27bfa442ce4559/our_changing_planet_2007_90_20090708_1351174831.jpg",
+            "identifier": "96edc78e-fdc3-457c-99bc-ab009fe98cab",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "975017da6216fbff9ec77e7a16f8336e3c001349",
+            "size": 37011,
+            "thumbnail": "18/0f/dce59d1f4fcd5a27bfa442ce4559/.thumb-96edc78e-fdc3-457c-99bc-ab009fe98cab.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/18/0f/dce59d1f4fcd5a27bfa442ce4559/.thumb-96edc78e-fdc3-457c-99bc-ab009fe98cab.png",
+            "uri": "/file/96edc78e-fdc3-457c-99bc-ab009fe98cab",
+            "url": "/assets/18/0f/dce59d1f4fcd5a27bfa442ce4559/our_changing_planet_2007_90_20090708_1351174831.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/temperature-sea-level-change-relative-1980-1999.json",
+    "identifier": "temperature-sea-level-change-relative-1980-1999",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Temperature and Sea Level Change Relative to 1980-1999",
+    "uri": "/report/ccsp-ocpfy2007/figure/temperature-sea-level-change-relative-1980-1999",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

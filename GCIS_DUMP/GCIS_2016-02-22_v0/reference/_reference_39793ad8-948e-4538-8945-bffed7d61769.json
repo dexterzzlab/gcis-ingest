@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "IPCC,",
+        "Book Title": "Climate Change 2007: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change",
+        "Editor": "S. Solomon\rD. Qin\rM. Manning\rZ. Chen\rM. Marquis\rK. B. Averyt\rM. Tignor\rH. L. Miller",
+        "ISBN": "978 0521 88010-7",
+        "Place Published": "Cambridge, UK and New York, New York, USA",
+        "Publisher": "Cambridge University Press",
+        "Reviewer": "39793ad8-948e-4538-8945-bffed7d61769",
+        "Title": "Appendix I: Glossary",
+        "URL": "http://www.ipcc.ch/pdf/assessment-report/ar4/wg2/ar4-wg2-app.pdf",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "96",
+        "_uuid": "39793ad8-948e-4538-8945-bffed7d61769",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/ipcc-ar4-wg2",
+    "href": "http://data.globalchange.gov/reference/39793ad8-948e-4538-8945-bffed7d61769.json",
+    "identifier": "39793ad8-948e-4538-8945-bffed7d61769",
+    "uri": "/reference/39793ad8-948e-4538-8945-bffed7d61769"
+}

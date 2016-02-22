@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Global land-cover estimates of percentage tree cover, herbaceous cover, and bare ground within each 500-m by 500-m grid cell, derived from data acquired in 2001 by the Moderate-Resolution Imaging Spectroradiometer (MODIS) sensor onboard the Terra satellite platform. Credit: R. DeFries, M. Hansen, and J. Townshend, University of Maryland-College Park.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "d5/67/488442613616485c9040fc52e5e9/our_changing_planet_2004-2005_9_20090708_1934477962.jpg",
+            "href": "http://data.globalchange.gov/assets/d5/67/488442613616485c9040fc52e5e9/our_changing_planet_2004-2005_9_20090708_1934477962.jpg",
+            "identifier": "5bdafa9e-986a-4f71-a6df-9074c0b7441e",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "bc2d50067c039943fa7d07f72231cc0b664bb238",
+            "size": 52251,
+            "thumbnail": "d5/67/488442613616485c9040fc52e5e9/.thumb-5bdafa9e-986a-4f71-a6df-9074c0b7441e.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/d5/67/488442613616485c9040fc52e5e9/.thumb-5bdafa9e-986a-4f71-a6df-9074c0b7441e.png",
+            "uri": "/file/5bdafa9e-986a-4f71-a6df-9074c0b7441e",
+            "url": "/assets/d5/67/488442613616485c9040fc52e5e9/our_changing_planet_2004-2005_9_20090708_1934477962.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2004and2005/figure/percent-tree-cover-herbaceous-cover-bare-ground.json",
+    "identifier": "percent-tree-cover-herbaceous-cover-bare-ground",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2004and2005",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Percent Tree Cover, Herbaceous Cover, and Bare Ground",
+    "uri": "/report/ccsp-ocpfy2004and2005/figure/percent-tree-cover-herbaceous-cover-bare-ground",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

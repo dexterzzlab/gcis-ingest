@@ -1,0 +1,8 @@
+{
+    "description": "The TOPEX/Poseidon microwave radiometer was a three-frequency sensor used to estimate the atmospheric water vapor content in the nadir column through which the altimeter signal is traveling. Since water vapor distorts the altimeter's reading, the water vapor content is measured to correct the altimetry measurement. The sensor uses one frequency to make the measurement, and two frequencies to remove the effects of wind speed and cloud cover. There is a backup receiver for the measurement frequency.\n",
+    "description_attribution": "https://sealevel.jpl.nasa.gov/technology/technologyinstrumentdescription/instrumentdescriptionradiometer/",
+    "href": "http://data.globalchange.gov/instrument/topex-microwave-radiometer.json",
+    "identifier": "topex-microwave-radiometer",
+    "name": "TOPEX Microwave Radiometer",
+    "uri": "/instrument/topex-microwave-radiometer"
+}

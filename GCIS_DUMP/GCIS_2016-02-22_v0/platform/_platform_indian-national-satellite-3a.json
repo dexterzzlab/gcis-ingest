@@ -1,0 +1,12 @@
+{
+    "description": "The INSAT-3 series of ISRO (Indian Space Research Organization) is a multipurpose spacecraft with an all Ku-band transponder layout for direct-to-home television and roof-top data communication. The satellites incorporate state-of-the-art communication technology such as high power antennas, steerable beam and digital compression/decompression capabilities. The solar panel of the INSAT-3A spacecraft uses an advanced rigid deployable sun-oriented array of GaAs/Ge cells with an area of 26.5 m.",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/i/insat-3",
+    "end_date": "2015-11-01T00:00:00",
+    "href": "http://data.globalchange.gov/platform/indian-national-satellite-3a.json",
+    "identifier": "indian-national-satellite-3a",
+    "name": "Indian National Satellite - 3A",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "2003-04-04T00:00:00",
+    "uri": "/platform/indian-national-satellite-3a",
+    "url": "http://www.isro.org/"
+}

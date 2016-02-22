@@ -1,0 +1,12 @@
+{
+    "description": "The Almaz program (Russian for \u201cdiamond\u201d), a military space program of the former Soviet Union, had its origin in 1964 when officials of the OKB-52 design bureau (chief designer Vladimir N. Chelomey - also spelled \u201cChelomei\u201d), based in Reutov (near Moscow), announced the start of the development of the, code-named as. The Almaz small space station design concept was to support a crew of 2-3 cosmonauts (on a rotating basis) with an operational spacecraft life of one to two years. This new space station was intended to be serviced by the ferry system called (Transportniy Korabl Snabzheniya - Transport Logistics Spacecraft), consisting of a landing capsule (or return apparatus, 11F74 VA) and FGB (Funktsionalno Gruzovoy Blok - Functional Cargo Block) intended to raise the orbit of Almaz and to control the attitude of the Almaz complex.. Eventually, four TKS spacecraft were launched in the timeframe 1977 to 1984. - In 1966, the OKB-52 design bureau was renamed to \u201cCentral Design Bureau of Machine-Building,\u201d or simply TsKBM, by the Ministry of General Machine-Building.",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/a/almaz",
+    "end_date": "2000-01-01T00:00:00",
+    "href": "http://data.globalchange.gov/platform/almaz-1b.json",
+    "identifier": "almaz-1b",
+    "name": "ALMAZ-1B",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "1997-01-01T00:00:00",
+    "uri": "/platform/almaz-1b",
+    "url": null
+}

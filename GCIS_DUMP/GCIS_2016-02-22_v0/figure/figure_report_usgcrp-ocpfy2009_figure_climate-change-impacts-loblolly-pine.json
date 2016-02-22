@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "An example summary output from the Climate Change Tree Atlas (<nrs.fs.fed.us/atlas>) illustrates the potential impacts of changing climate on habitat suitability for loblolly pine under different climate change scenarios relative to current mapped (upper left) and modeled (upper center) distributions. The remaining four panels illustrate average projections from two general circulation models [Hadley CM3, DOE Parallel Climate Model (PCM)] as well as average projections (GCM3 Avg) from three models (Hadley, PCM, and Geophysical Fluid Dynamics models) under high- and low-emission scenarios. Credit: Adapted from A.M.Prasad, L.R. Iverson, S. Matthews, and M. Peters, USDA Forest Service.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "53/9d/c59bf2431c48ea2248bdac61a5df/Figure_18.png",
+            "href": "http://data.globalchange.gov/assets/53/9d/c59bf2431c48ea2248bdac61a5df/Figure_18.png",
+            "identifier": "40354fd7-4066-4e81-abfc-f4093c89fe5d",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "ebc500fce71ad08a33c54198edb688264a008e74",
+            "size": 717722,
+            "thumbnail": "53/9d/c59bf2431c48ea2248bdac61a5df/.thumb-40354fd7-4066-4e81-abfc-f4093c89fe5d.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/53/9d/c59bf2431c48ea2248bdac61a5df/.thumb-40354fd7-4066-4e81-abfc-f4093c89fe5d.png",
+            "uri": "/file/40354fd7-4066-4e81-abfc-f4093c89fe5d",
+            "url": "/assets/53/9d/c59bf2431c48ea2248bdac61a5df/Figure_18.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2009/figure/climate-change-impacts-loblolly-pine.json",
+    "identifier": "climate-change-impacts-loblolly-pine",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2009",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Potential Climate Change Impacts - Loblolly Pine",
+    "uri": "/report/usgcrp-ocpfy2009/figure/climate-change-impacts-loblolly-pine",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

@@ -1,0 +1,97 @@
+{
+    "attributes": null,
+    "caption": "GRACE (Gravity Recovery and Climate Experiment) satellite measurements show that both Greenland and Antarctica are, on the whole, losing ice as the atmosphere and oceans warm. (Figure source: adapted from Wouters et al. 201313).",
+    "chapter": {
+        "doi": "10.7930/J0G15XS3",
+        "identifier": "appendix-faqs",
+        "number": 34,
+        "report_identifier": "nca3",
+        "sort_key": 340,
+        "title": "Appendix 4: Frequently Asked Questions",
+        "url": "http://nca2014.globalchange.gov/report/appendices/faqs"
+    },
+    "chapter_identifier": "appendix-faqs",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-10-22T10:31:00",
+    "files": [
+        {
+            "file": "87/51/e41adc303a7ba6f52251fd82a19d/CAQ_greenland-antarctica_mass_loss_V3.png",
+            "href": "http://data.globalchange.gov/assets/87/51/e41adc303a7ba6f52251fd82a19d/CAQ_greenland-antarctica_mass_loss_V3.png",
+            "identifier": "b82233dd-91b5-4a13-9bf9-d4841c2509d5",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "efd336f0d918e16c23b025c7f6c1cc2e337905de",
+            "size": 126032,
+            "thumbnail": "87/51/e41adc303a7ba6f52251fd82a19d/.thumb-b82233dd-91b5-4a13-9bf9-d4841c2509d5.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/87/51/e41adc303a7ba6f52251fd82a19d/.thumb-b82233dd-91b5-4a13-9bf9-d4841c2509d5.png",
+            "uri": "/file/b82233dd-91b5-4a13-9bf9-d4841c2509d5",
+            "url": "/assets/87/51/e41adc303a7ba6f52251fd82a19d/CAQ_greenland-antarctica_mass_loss_V3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-faqs/figure/ice-loss-from-the-two-polar-ice-sheets.json",
+    "identifier": "ice-loss-from-the-two-polar-ice-sheets",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-10-22T10:31:00",
+            "description": null,
+            "identifier": "dad03735-31e5-4603-a07c-31a1e2f970ea",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2012-12-31T23:59:59",
+            "time_start": "2002-01-01T00:00:00",
+            "title": "Ice Loss from the Two Polar Ice Sheets - Greenland Ice Mass",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2013-10-22T10:31:00",
+            "description": null,
+            "identifier": "1464ce44-38d7-43fe-9ec0-1dc7e3b195b0",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2013-12-31T23:59:59",
+            "time_start": "2002-01-01T00:00:00",
+            "title": "Ice Loss from the Two Polar Ice Sheets - Antarctica Ice Mass",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 17,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Limits in detecting acceleration of ice sheet mass loss due to climate variability",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1038/ngeo1874"
+        }
+    ],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Ice Loss from the Two Polar Ice Sheets",
+    "uri": "/report/nca3/chapter/appendix-faqs/figure/ice-loss-from-the-two-polar-ice-sheets",
+    "url": "http://nca2014.globalchange.gov/report/appendices/faqs/graphics/ice-loss-two-polar-ice-sheets",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

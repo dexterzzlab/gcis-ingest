@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".publisher": "Nature Publishing Group",
+        ".reference_type": "0",
+        "Author": "Sitch, S.\rCox, P. M.\rCollins, W. J.\rHuntingford, C.",
+        "DOI": "10.1038/nature06059",
+        "ISSN": "0028-0836",
+        "Issue": "7155",
+        "Journal": "Nature",
+        "Pages": "791-794",
+        "Title": "Indirect radiative forcing of climate change through ozone effects on the land-carbon sink",
+        "URL": "http://www.clas.ufl.edu/users/rrusso/gly6932/Sitch_etal_Nature07.pdf",
+        "Volume": "448",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "2859",
+        "_uuid": "3c03192a-f9f1-4775-98b6-9c8994d644b9",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/nature06059",
+    "href": "http://data.globalchange.gov/reference/3c03192a-f9f1-4775-98b6-9c8994d644b9.json",
+    "identifier": "3c03192a-f9f1-4775-98b6-9c8994d644b9",
+    "uri": "/reference/3c03192a-f9f1-4775-98b6-9c8994d644b9"
+}

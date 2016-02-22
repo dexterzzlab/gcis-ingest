@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Ziska, L.H.",
+        "Book Title": "Handbook on Climate Change and Agriculture",
+        "Editor": "Dinar, A.\rMendelsohn, R.",
+        "ISBN": "1849801169",
+        "Pages": "9-31",
+        "Place Published": "Cheltenham, United Kingdom",
+        "Publisher": "Edward Elgar Publishing",
+        "Reviewer": "49d46c73-b2da-4977-8c94-fc8d6954d0a0",
+        "Title": "Climate change, carbon dioxide and global crop production: Food security and uncertainty",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "3552",
+        "_uuid": "49d46c73-b2da-4977-8c94-fc8d6954d0a0",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/e6446d47-250c-45f3-886e-855cddb78c8d",
+    "href": "http://data.globalchange.gov/reference/49d46c73-b2da-4977-8c94-fc8d6954d0a0.json",
+    "identifier": "49d46c73-b2da-4977-8c94-fc8d6954d0a0",
+    "uri": "/reference/49d46c73-b2da-4977-8c94-fc8d6954d0a0"
+}

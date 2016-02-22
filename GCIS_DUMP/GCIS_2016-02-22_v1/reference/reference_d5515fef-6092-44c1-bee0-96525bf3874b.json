@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".publisher": "John Wiley & Sons, Inc.",
+        ".reference_type": "0",
+        "Author": "Weaver, Christopher P.\rLempert, Robert J.\rBrown, Casey\rHall, John A.\rRevell, David\rSarewitz, Daniel",
+        "DOI": "10.1002/wcc.202",
+        "ISSN": "1757-7799",
+        "Issue": "1",
+        "Journal": "Wiley Interdisciplinary Reviews: Climate Change",
+        "Pages": "39-60",
+        "Title": "Improving the contribution of climate model information to decision making: The value and demands of robust decision frameworks",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1002/wcc.202/pdf",
+        "Volume": "4",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4052",
+        "_uuid": "d5515fef-6092-44c1-bee0-96525bf3874b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/wcc.202",
+    "href": "http://data.globalchange.gov/reference/d5515fef-6092-44c1-bee0-96525bf3874b.json",
+    "identifier": "d5515fef-6092-44c1-bee0-96525bf3874b",
+    "uri": "/reference/d5515fef-6092-44c1-bee0-96525bf3874b"
+}

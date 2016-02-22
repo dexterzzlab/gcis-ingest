@@ -1,0 +1,74 @@
+{
+    "href": "http://data.globalchange.gov/array/86636303-0f6d-457b-b391-c8c9cea61d1d.json",
+    "identifier": "86636303-0f6d-457b-b391-c8c9cea61d1d",
+    "rows": [
+        [
+            "Dimension",
+            "Scorecard Element",
+            "Question",
+            "Response"
+        ],
+        [
+            "Organizational Capacity",
+            "Employee education",
+            "Are all employees provided with training on the basics of climate change, impacts on forests and grasslands, and the Forest Service response? Are resource specialists made aware of the potential contribution of their own work to climate change response?",
+            null
+        ],
+        [
+            "Organizational Capacity",
+            "Designated climate change coordinators",
+            "Is at least employee assigned to coordinate climate change activities and be a resource for climate change questions and issues? Is this employee provided with training, time, and resources to make his/her assignment successful?",
+            null
+        ],
+        [
+            "Organizational Capacity",
+            "Program guidance",
+            "Does the Unit have written guidance for progressively integrating climate change con- siderations and activities into Unit-level operations?",
+            null
+        ],
+        [
+            "Engagment",
+            "Science and management partnerships",
+            "Does the Unit actively engage with scientists and scientific organizations to improve its ability to respond to climate change?",
+            null
+        ],
+        [
+            "Engagment",
+            "Other partnerships",
+            "Have climate change related considerations and activities been incorporated into exist- ing or new partnerships (other than science partnerships)?",
+            null
+        ],
+        [
+            "Adaptation",
+            "Assessing vulnerability",
+            "Has the Unit engages in developing relevant information about the vulnerability of key resources, such as human communities and ecosystem elements, to the impacts of climate change?",
+            null
+        ],
+        [
+            "Adaptation",
+            "Adaptation actions",
+            "Does the Unit conduct management actions that reduce the vulnerability of resources and places to climate change?",
+            null
+        ],
+        [
+            "Adaptation",
+            "Monitoring",
+            "Is monitoring being conducted to track climate change impacts and the effectiveness of adaptation activities?",
+            null
+        ],
+        [
+            "Mitigation and Sustainable Consumption",
+            "Carbon assessment and stewardship",
+            "Does the Unit have a baseline assessment of carbon stocks and an assessment of the influence of disturbance and management activities on these stocks? Is the Unit integrating carbon stewardship with the management of other benefits being provided by the Unit?",
+            null
+        ],
+        [
+            "Mitigation and Sustainable Consumption",
+            "Sustainable operations",
+            "Is progress being made toward achieving sustainable operations requirements to reduce the environmental footprint of the Agency?",
+            null
+        ]
+    ],
+    "rows_in_header": 1,
+    "uri": "/array/86636303-0f6d-457b-b391-c8c9cea61d1d"
+}

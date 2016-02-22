@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "The Anaktuvuk River Fire on the North Slope of Alaska in 2007.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "75/f6/b8d30c81daf9812705cdcc95f2b8/OCP_2013_Page_16_Image_0001.jpg",
+            "href": "http://data.globalchange.gov/assets/75/f6/b8d30c81daf9812705cdcc95f2b8/OCP_2013_Page_16_Image_0001.jpg",
+            "identifier": "e06a9403-d164-4bd5-9309-d8bc6193a2be",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "dc472f0e59d2eb4c2749b5c6a2a0ca11c3abf02c",
+            "size": 52188,
+            "thumbnail": "75/f6/b8d30c81daf9812705cdcc95f2b8/.thumb-e06a9403-d164-4bd5-9309-d8bc6193a2be.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/75/f6/b8d30c81daf9812705cdcc95f2b8/.thumb-e06a9403-d164-4bd5-9309-d8bc6193a2be.png",
+            "uri": "/file/e06a9403-d164-4bd5-9309-d8bc6193a2be",
+            "url": "/assets/75/f6/b8d30c81daf9812705cdcc95f2b8/OCP_2013_Page_16_Image_0001.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2013/figure/anaktuk-river-fire.json",
+    "identifier": "anaktuk-river-fire",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2013",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Anaktuk River Fire",
+    "uri": "/report/usgcrp-ocpfy2013/figure/anaktuk-river-fire",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "U.S. agriculture includes 300 different commodities with a nearly equal division between crop and livestock products. This chart shows a breakdown of the monetary value of U.S. agriculture products by category. (Data from 2007 Census of Agriculture, USDA National Agricultural Statistics Service 2008<tbib>60a088ff-ad44-49a3-a132-58d0b2af208a</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J02Z13FR",
+        "identifier": "agriculture",
+        "number": 6,
+        "report_identifier": "nca3",
+        "sort_key": 60,
+        "title": "Agriculture",
+        "url": "http://nca2014.globalchange.gov/report/sectors/agriculture"
+    },
+    "chapter_identifier": "agriculture",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-02-28T12:57:00",
+    "files": [
+        {
+            "file": "5f/57/f5acabc772aaad82ef78b88b6ec3/AG_commodities_pie_chart_13843_V5.png",
+            "href": "http://data.globalchange.gov/assets/5f/57/f5acabc772aaad82ef78b88b6ec3/AG_commodities_pie_chart_13843_V5.png",
+            "identifier": "8dae7182-b284-4560-8391-42f536755fd4",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "6bd2de948f30ccec396a0534c51efbbaed01205e",
+            "size": 178396,
+            "thumbnail": "5f/57/f5acabc772aaad82ef78b88b6ec3/.thumb-8dae7182-b284-4560-8391-42f536755fd4.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/5f/57/f5acabc772aaad82ef78b88b6ec3/.thumb-8dae7182-b284-4560-8391-42f536755fd4.png",
+            "uri": "/file/8dae7182-b284-4560-8391-42f536755fd4",
+            "url": "/assets/5f/57/f5acabc772aaad82ef78b88b6ec3/AG_commodities_pie_chart_13843_V5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/agriculture/figure/us-agriculture.json",
+    "identifier": "us-agriculture",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2014-02-28T12:57:00",
+            "description": null,
+            "identifier": "0331e157-c261-4651-a4ad-56e2084733c1",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "U.S. Agriculture",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 1,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "United States Summary and State Data. In 2007 Census of Agriculture, Vol. 1, Geographic Area Series, Part 51. AC-07-A-51.",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/nass-geographicareaseries-51-ac-07-a-51"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/60a088ff-ad44-49a3-a132-58d0b2af208a.json",
+            "uri": "/reference/60a088ff-ad44-49a3-a132-58d0b2af208a"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "2007 Census of Agriculture, USDA National Agricultural Statistics Service 2008<tbib>60a088ff-ad44-49a3-a132-58d0b2af208a</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "U.S. Agriculture",
+    "uri": "/report/nca3/chapter/agriculture/figure/us-agriculture",
+    "url": "http://nca2014.globalchange.gov/report/sectors/agriculture/graphics/us-agriculture",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

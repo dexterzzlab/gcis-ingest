@@ -1,0 +1,12 @@
+{
+    "description": "China began the development of its geostationary meteorological program in the 1980s. FengYun-2, or FY-2 (FenYun means \" \" in Chinese), is the geostationary meteorological satellite series of China, organized and operated by NSMC (National Satellite Meteorological Center) of CMA (China Meteorological Administration) and built by the Shanghai Institute of Satellite Engineering. China started its FY-2 development program in 1980.",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/f/fy-2",
+    "end_date": "2008-11-25T00:00:00",
+    "href": "http://data.globalchange.gov/platform/fy-2c-geostationary-meteorological-satellite.json",
+    "identifier": "fy-2c-geostationary-meteorological-satellite",
+    "name": "FY-2C Geostationary Meteorological Satellite",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "2004-10-19T00:00:00",
+    "uri": "/platform/fy-2c-geostationary-meteorological-satellite",
+    "url": "http://fy3.satellite.cma.gov.cn/arssen/"
+}

@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Schematic showing the interactions among radiation, absorbing aerosol particles in smoke, and cloud formation. Credit: G. Feingold, NOAA/Earth System Research Laboratory.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "59/34/dd5045137041d2b3f4a6dc06ff9d/our_changing_planet_2007_85_20090708_1524549677.jpg",
+            "href": "http://data.globalchange.gov/assets/59/34/dd5045137041d2b3f4a6dc06ff9d/our_changing_planet_2007_85_20090708_1524549677.jpg",
+            "identifier": "d4944687-8692-4702-8f2e-b336a55b8197",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "a6bd387f4747bd0b56df53acaa8354ec7793e3e1",
+            "size": 24783,
+            "thumbnail": "59/34/dd5045137041d2b3f4a6dc06ff9d/.thumb-d4944687-8692-4702-8f2e-b336a55b8197.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/59/34/dd5045137041d2b3f4a6dc06ff9d/.thumb-d4944687-8692-4702-8f2e-b336a55b8197.png",
+            "uri": "/file/d4944687-8692-4702-8f2e-b336a55b8197",
+            "url": "/assets/59/34/dd5045137041d2b3f4a6dc06ff9d/our_changing_planet_2007_85_20090708_1524549677.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/radiation-absorbing-aerosols-cloud-formation.json",
+    "identifier": "radiation-absorbing-aerosols-cloud-formation",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Radiation, Absorbing Aerosols, and Cloud Formation",
+    "uri": "/report/ccsp-ocpfy2007/figure/radiation-absorbing-aerosols-cloud-formation",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

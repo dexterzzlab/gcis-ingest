@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Niyogi, D.M\rMishra, V.",
+        "Book Title": "Climate Change in the Midwest: Impacts, Risks, Vulnerability, and Adaptation",
+        "Editor": "Pryor, S.C.",
+        "ISBN": "978-0253006820",
+        "Pages": "69-81",
+        "Place Published": "Bloomington, IN",
+        "Publisher": "Indiana University Press ",
+        "Reviewer": "1c14f811-3d6d-4808-a21e-661ef32ef080",
+        "Title": "Ch. 5: Climate - agriculture vulnerability assessment for the Midwestern United States",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "2228",
+        "_uuid": "1c14f811-3d6d-4808-a21e-661ef32ef080",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/434135ed-eb50-4c46-9484-77563769e657",
+    "href": "http://data.globalchange.gov/reference/1c14f811-3d6d-4808-a21e-661ef32ef080.json",
+    "identifier": "1c14f811-3d6d-4808-a21e-661ef32ef080",
+    "uri": "/reference/1c14f811-3d6d-4808-a21e-661ef32ef080"
+}

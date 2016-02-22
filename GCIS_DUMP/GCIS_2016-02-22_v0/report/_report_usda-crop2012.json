@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": "1 year",
+    "href": "http://data.globalchange.gov/report/usda-crop2012.json",
+    "identifier": "usda-crop2012",
+    "in_library": null,
+    "publication_year": 2013,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Crop Production 2012 Summary",
+    "topic": null,
+    "uri": "/report/usda-crop2012",
+    "url": "http://usda01.library.cornell.edu/usda/nass/CropProdSu//2010s/2013/CropProdSu-01-11-2013.pdf"
+}

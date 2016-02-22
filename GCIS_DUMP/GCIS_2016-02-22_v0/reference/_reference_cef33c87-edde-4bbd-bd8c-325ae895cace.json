@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Timmermann, A. S.\rMcGregor, S.\rJin, F. -F.",
+        "DOI": "10.1175/2010JCLI3519.1",
+        "Issue": "16",
+        "Journal": "Journal of Climate",
+        "Notes": "Timmermann, A. S., McGregor, S., & Jin, F.-F. (2010). Wind Effects on Past and Future Regional Sea Level Trends in the Southern Indo-Pacific. <i>Journal of Climate, 23</i>(16), 4429-4437",
+        "Pages": "4429-4437",
+        "Title": "Wind effects on past and future regional sea level trends in the Southern Indo-Pacific",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/2010JCLI3519.1",
+        "Volume": "23",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "3063",
+        "_uuid": "cef33c87-edde-4bbd-bd8c-325ae895cace",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/2010JCLI3519.1",
+    "href": "http://data.globalchange.gov/reference/cef33c87-edde-4bbd-bd8c-325ae895cace.json",
+    "identifier": "cef33c87-edde-4bbd-bd8c-325ae895cace",
+    "uri": "/reference/cef33c87-edde-4bbd-bd8c-325ae895cace"
+}

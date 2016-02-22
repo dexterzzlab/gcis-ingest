@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "North American forest disturbance intensity, 1990 to 2000, mapped from about 2,200 Landsat images. Colors represent the percent of each 500 x 500 m cell disturbed during the mapping period. Credit: J. Masek, NASA/ Goddard Space Flight Center.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "59/56/216c56ceae817b5734a8dd87b542/our_changing_planet_2010_image__20091209_2030123194.jpg",
+            "href": "http://data.globalchange.gov/assets/59/56/216c56ceae817b5734a8dd87b542/our_changing_planet_2010_image__20091209_2030123194.jpg",
+            "identifier": "f3050011-a565-4d5c-8f02-a5b62ed74ddd",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "f2bf17fc18c0072525593d4e71d45824bac51d61",
+            "size": 416388,
+            "thumbnail": "59/56/216c56ceae817b5734a8dd87b542/.thumb-f3050011-a565-4d5c-8f02-a5b62ed74ddd.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/59/56/216c56ceae817b5734a8dd87b542/.thumb-f3050011-a565-4d5c-8f02-a5b62ed74ddd.png",
+            "uri": "/file/f3050011-a565-4d5c-8f02-a5b62ed74ddd",
+            "url": "/assets/59/56/216c56ceae817b5734a8dd87b542/our_changing_planet_2010_image__20091209_2030123194.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2010/figure/forest-disturbance-mapped-from-space.json",
+    "identifier": "forest-disturbance-mapped-from-space",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2010",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Forest Disturbance Mapped from Space",
+    "uri": "/report/usgcrp-ocpfy2010/figure/forest-disturbance-mapped-from-space",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

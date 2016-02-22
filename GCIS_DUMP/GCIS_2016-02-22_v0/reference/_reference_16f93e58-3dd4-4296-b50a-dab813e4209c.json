@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Zuray, S.\rKocan, R.\rHershberger, P.",
+        "DOI": "10.1080/00028487.2012.683476",
+        "ISSN": "0002-8487",
+        "Issue": "3",
+        "Journal": "Transactions of the American Fisheries Society",
+        "Pages": "615-623",
+        "Title": "Synchronous cycling of Ichthyophoniasis with Chinook salmon density revealed during the annual Yukon River spawning migration",
+        "Volume": "141",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\"]",
+        "_record_number": "3559",
+        "_uuid": "16f93e58-3dd4-4296-b50a-dab813e4209c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1080/00028487.2012.683476",
+    "href": "http://data.globalchange.gov/reference/16f93e58-3dd4-4296-b50a-dab813e4209c.json",
+    "identifier": "16f93e58-3dd4-4296-b50a-dab813e4209c",
+    "uri": "/reference/16f93e58-3dd4-4296-b50a-dab813e4209c"
+}

@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Exceptionally crisp nighttime images of Hurricane Isaac as it made landfall in August 2012 were made possible by the Suomi National Polar-Orbiting Partnership satellite. ",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "f7/44/2c9eab304661cfdda5676e6dd28f/OCP_2013_Page_30_Image_0001.jpg",
+            "href": "http://data.globalchange.gov/assets/f7/44/2c9eab304661cfdda5676e6dd28f/OCP_2013_Page_30_Image_0001.jpg",
+            "identifier": "9d0db361-4dc4-4967-8554-3a71ad22d6e2",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "9c214da7df53a137ec40a36c2e6e8b38e5a91ecf",
+            "size": 1223815,
+            "thumbnail": "f7/44/2c9eab304661cfdda5676e6dd28f/.thumb-9d0db361-4dc4-4967-8554-3a71ad22d6e2.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/f7/44/2c9eab304661cfdda5676e6dd28f/.thumb-9d0db361-4dc4-4967-8554-3a71ad22d6e2.png",
+            "uri": "/file/9d0db361-4dc4-4967-8554-3a71ad22d6e2",
+            "url": "/assets/f7/44/2c9eab304661cfdda5676e6dd28f/OCP_2013_Page_30_Image_0001.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2013/figure/tropical-storm-isaac-by-night.json",
+    "identifier": "tropical-storm-isaac-by-night",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2013",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Tropical Storm Isaac by Night",
+    "uri": "/report/usgcrp-ocpfy2013/figure/tropical-storm-isaac-by-night",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

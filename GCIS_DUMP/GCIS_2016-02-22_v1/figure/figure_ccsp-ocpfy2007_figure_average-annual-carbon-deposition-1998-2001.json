@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "This product estimates average annual particulate organic carbon flux (in gC m-2 yr-1) deposited on the ocean bottom between 1998 and 2001, with continental margins outlined in white at the 2,000-m depth contour. Credit: F.E. Muller-Karger, University of South Florida; R. Varela, Estaci\u00f3n de Investigaciones Marinas de Margarita; R. Thunell, University of South Carolina; R. Luerssen, University of South Florida; C. Hu, University of South Florida; and J.J. Walsh, University of South Florida (reproduced from Geophysical Research Letters with permission from the American Geophysical Union).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "f3/97/900b39c12987fd9323e02185422c/our_changing_planet_2007_67_20090708_1640385488.jpg",
+            "href": "http://data.globalchange.gov/assets/f3/97/900b39c12987fd9323e02185422c/our_changing_planet_2007_67_20090708_1640385488.jpg",
+            "identifier": "e5fe2c2c-cc04-4792-a51b-ecddf1e78a77",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "ed037fbf532416a8590e79937d6bbdf11c4ec197",
+            "size": 56910,
+            "thumbnail": "f3/97/900b39c12987fd9323e02185422c/.thumb-e5fe2c2c-cc04-4792-a51b-ecddf1e78a77.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/f3/97/900b39c12987fd9323e02185422c/.thumb-e5fe2c2c-cc04-4792-a51b-ecddf1e78a77.png",
+            "uri": "/file/e5fe2c2c-cc04-4792-a51b-ecddf1e78a77",
+            "url": "/assets/f3/97/900b39c12987fd9323e02185422c/our_changing_planet_2007_67_20090708_1640385488.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/average-annual-carbon-deposition-1998-2001.json",
+    "identifier": "average-annual-carbon-deposition-1998-2001",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Average Annual Carbon Deposition, 1998-2001",
+    "uri": "/report/ccsp-ocpfy2007/figure/average-annual-carbon-deposition-1998-2001",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

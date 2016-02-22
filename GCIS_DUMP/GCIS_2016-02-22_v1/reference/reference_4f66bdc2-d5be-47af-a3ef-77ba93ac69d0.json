@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Stanton, E. A. \rAckerman, F.",
+        "Institution": "Tufts University, Global Development and Environment Institute, Stockholm Environment Institute-US Center",
+        "Title": "Florida and Climate Change: The Cost of Inaction",
+        "URL": "http://www.broward.org/NaturalResources/ClimateChange/Documents/Florida_lr.pdf",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 14: Rural Communities FINAL\",\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "2925",
+        "_uuid": "4f66bdc2-d5be-47af-a3ef-77ba93ac69d0",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/gdae-flclimch-2007",
+    "href": "http://data.globalchange.gov/reference/4f66bdc2-d5be-47af-a3ef-77ba93ac69d0.json",
+    "identifier": "4f66bdc2-d5be-47af-a3ef-77ba93ac69d0",
+    "uri": "/reference/4f66bdc2-d5be-47af-a3ef-77ba93ac69d0"
+}

@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "D\u00f6ll, P.",
+        "DOI": "10.1023/A:1016124032231",
+        "ISSN": "0165-0009",
+        "Issue": "3",
+        "Journal": "Climatic Change",
+        "Notes": "D\u00f6ll, P. (2002). Impact of climate change and variability on irrigation requirements: a global perspective. <i>Climatic Change, 54</i>, 269-293",
+        "Pages": "269-293",
+        "Title": "Impact of climate change and variability on irrigation requirements: A global perspective",
+        "Volume": "54",
+        "Year": "2002",
+        "_chapter": "[\"RG 8 Hawaii\",\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "879",
+        "_uuid": "6eb1ee99-0b99-452a-a8cb-48b961fd4ac5",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1023/A:1016124032231",
+    "href": "http://data.globalchange.gov/reference/6eb1ee99-0b99-452a-a8cb-48b961fd4ac5.json",
+    "identifier": "6eb1ee99-0b99-452a-a8cb-48b961fd4ac5",
+    "uri": "/reference/6eb1ee99-0b99-452a-a8cb-48b961fd4ac5"
+}

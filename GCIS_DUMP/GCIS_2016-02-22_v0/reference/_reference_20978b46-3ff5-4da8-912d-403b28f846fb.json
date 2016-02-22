@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Avila, L.A.\rCangliaosi, J.",
+        "Date": "14 December 2011",
+        "Institution": "National Hurricane Center",
+        "Pages": "45",
+        "Title": "Tropical Cyclone Report (AL092011): Hurricane Irene",
+        "URL": "http://www.nhc.noaa.gov/data/tcr/AL092011_Irene.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "1705",
+        "_uuid": "20978b46-3ff5-4da8-912d-403b28f846fb",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/nhc-al092011",
+    "href": "http://data.globalchange.gov/reference/20978b46-3ff5-4da8-912d-403b28f846fb.json",
+    "identifier": "20978b46-3ff5-4da8-912d-403b28f846fb",
+    "uri": "/reference/20978b46-3ff5-4da8-912d-403b28f846fb"
+}

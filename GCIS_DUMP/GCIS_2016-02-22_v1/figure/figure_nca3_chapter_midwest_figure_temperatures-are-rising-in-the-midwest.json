@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "Annual average temperatures (red line) across the Midwest show a trend towards increasing temperature. The trend (heavy black line) calculated over the period 1895-2012 is equal to an increase of 1.5\u00b0F. (Figure source: updated from Kunkel et al. 2013<tbib>95f2ea7d-12e3-4ed5-9247-7cf139db91a9</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0J1012N",
+        "identifier": "midwest",
+        "number": 18,
+        "report_identifier": "nca3",
+        "sort_key": 180,
+        "title": "Midwest",
+        "url": "http://nca2014.globalchange.gov/report/regions/midwest"
+    },
+    "chapter_identifier": "midwest",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-06-28T11:36:15",
+    "files": [
+        {
+            "file": "63/bc/9671aeca6644db492e096bc2d1f9/MW_annual_temperature_V3.png",
+            "href": "http://data.globalchange.gov/assets/63/bc/9671aeca6644db492e096bc2d1f9/MW_annual_temperature_V3.png",
+            "identifier": "88832421-694e-4756-bad0-77b1c11c537e",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "3f119dd31a46a0804b376d8b71eb0db8fad2ca89",
+            "size": 118605,
+            "thumbnail": "63/bc/9671aeca6644db492e096bc2d1f9/.thumb-88832421-694e-4756-bad0-77b1c11c537e.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/63/bc/9671aeca6644db492e096bc2d1f9/.thumb-88832421-694e-4756-bad0-77b1c11c537e.png",
+            "uri": "/file/88832421-694e-4756-bad0-77b1c11c537e",
+            "url": "/assets/63/bc/9671aeca6644db492e096bc2d1f9/MW_annual_temperature_V3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/midwest/figure/temperatures-are-rising-in-the-midwest.json",
+    "identifier": "temperatures-are-rising-in-the-midwest",
+    "images": [
+        {
+            "attributes": "Midwest, temperature, observed",
+            "create_dt": "2013-06-28T11:38:00",
+            "description": null,
+            "identifier": "0eaa9484-50e6-4d85-845a-1bb2926c8d3d",
+            "lat_max": "49.31",
+            "lat_min": "36.06",
+            "lon_max": "-80.56",
+            "lon_min": "-97.19",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2012-12-31T23:59:59",
+            "time_start": "1895-01-01T00:00:00",
+            "title": "Temperatures are Rising in the Midwest",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 1,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Regional Climate Trends and Scenarios for the U.S. National Climate Assessment: Part 3. Climate of the Midwest U.S. NOAA Technical Report NESDIS 142-3",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/noaa-techreport-nesdis-142-3"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/95f2ea7d-12e3-4ed5-9247-7cf139db91a9.json",
+            "uri": "/reference/95f2ea7d-12e3-4ed5-9247-7cf139db91a9"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "updated from Kunkel et al. 2013<tbib>95f2ea7d-12e3-4ed5-9247-7cf139db91a9</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Temperatures are Rising in the Midwest",
+    "uri": "/report/nca3/chapter/midwest/figure/temperatures-are-rising-in-the-midwest",
+    "url": "http://nca2014.globalchange.gov/report/regions/midwest/graphics/temperatures-are-rising-midwest",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

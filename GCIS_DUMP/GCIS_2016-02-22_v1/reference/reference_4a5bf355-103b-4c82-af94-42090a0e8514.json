@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Oyate Omniciye,",
+        "Pages": "141",
+        "Title": "Oglala Lakota Plan",
+        "URL": "http://www.oglalalakotaplan.org/?s=Oglala+Lakota+Plan",
+        "Volume": "2012",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\",\"RG 4 Great Plains\"]",
+        "_record_number": "2394",
+        "_uuid": "4a5bf355-103b-4c82-af94-42090a0e8514",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/oglala-lakota-plan-2011",
+    "href": "http://data.globalchange.gov/reference/4a5bf355-103b-4c82-af94-42090a0e8514.json",
+    "identifier": "4a5bf355-103b-4c82-af94-42090a0e8514",
+    "uri": "/reference/4a5bf355-103b-4c82-af94-42090a0e8514"
+}

@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "These products were generated using censuses of population, housing, and agriculture: (top) change in population density; (middle) change in land area settled at \u201cexurban densities\u201d (i.e., 1 house per 1 to 40 acres); and (bottom) change in percentage of cropland. Credit: D.G. Brown, University of Michigan (reproduced from Ecological Applications with permission from the Ecological Society of America).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "cd/d4/aa16331e92f8a51d46f478b18333/our_changing_planet_2007_58_20090708_1394684259.jpg",
+            "href": "http://data.globalchange.gov/assets/cd/d4/aa16331e92f8a51d46f478b18333/our_changing_planet_2007_58_20090708_1394684259.jpg",
+            "identifier": "49204382-47a2-4373-bfcf-7d5e439805a8",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "0c26853d59a15958c37da04cf7fae9bff9d08092",
+            "size": 42894,
+            "thumbnail": "cd/d4/aa16331e92f8a51d46f478b18333/.thumb-49204382-47a2-4373-bfcf-7d5e439805a8.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/cd/d4/aa16331e92f8a51d46f478b18333/.thumb-49204382-47a2-4373-bfcf-7d5e439805a8.png",
+            "uri": "/file/49204382-47a2-4373-bfcf-7d5e439805a8",
+            "url": "/assets/cd/d4/aa16331e92f8a51d46f478b18333/our_changing_planet_2007_58_20090708_1394684259.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/county-scale-land-use-changes-1950-2000.json",
+    "identifier": "county-scale-land-use-changes-1950-2000",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "County-Scale Land Use Changes, 1950 to 2000",
+    "uri": "/report/ccsp-ocpfy2007/figure/county-scale-land-use-changes-1950-2000",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

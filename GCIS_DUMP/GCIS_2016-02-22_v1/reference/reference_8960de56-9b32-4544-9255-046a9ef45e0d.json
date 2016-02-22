@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Brainard, Russell E.\rBirkeland, Charles\rEakin, C. Mark \rMcElhany, Paul \rMiller, Margaret W.\rPatterson, Matt \rPiniak, Gregory A.",
+        "Date": "September 2011",
+        "Institution": "U.S. Department of Commerce\u00a0",
+        "Pages": "530",
+        "Title": "Status Review Report of 82 Candidate Coral Species Petitioned Under the U.S. Endangered Species Act. NOAA\u00a0Technical\u00a0Memorandum\u00a0NMFS\u2010PIFSC\u201027",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\"]",
+        "_record_number": "4378",
+        "_uuid": "8960de56-9b32-4544-9255-046a9ef45e0d",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/noaa-techmemo-nmfs-pifsc-27",
+    "href": "http://data.globalchange.gov/reference/8960de56-9b32-4544-9255-046a9ef45e0d.json",
+    "identifier": "8960de56-9b32-4544-9255-046a9ef45e0d",
+    "uri": "/reference/8960de56-9b32-4544-9255-046a9ef45e0d"
+}

@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Water use by the electricity sector represents a significant portion of the United States water budget (41% of total freshwater withdrawals; 3% consumed). Sustainable management of water resources necessitates an accurate accounting of all water demands, including water use for generation of electricity. Since 1985, the Department of Energy (DOE) Energy Information Administration (EIA) has collected self-reported data on water consumption and withdrawals from individual power generators. These data represent the only annual collection of water consumption and withdrawals by the electricity sector. Here, we compile publically available information into a comprehensive database and then calculate water withdrawals and consumptive use for power plants in the US. In effect, we evaluate the quality of water use data reported by EIA for the year 2008. Significant differences between reported and calculated water data are evident, yet no consistent reason for the discrepancies emerges.",
+        "Author": "Averyt, K.\rJ. Macknick\rJ. Rogers\rN. Madden\rJ. Fisher\rJ. Meldrum\rR. Newmark",
+        "DOI": "10.1088/1748-9326/8/1/015001",
+        "ISSN": "1748-9326",
+        "Issue": "1",
+        "Journal": "Environmental Research Letters",
+        "Pages": "015001",
+        "Title": "Water use for electricity in the United States: An analysis of reported and calculated water use information for 2008",
+        "URL": "http://iopscience.iop.org/1748-9326/8/1/015001/pdf/1748-9326_8_1_015001.pdf",
+        "Volume": "8",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"Ch. 19: Great Plains FINAL\",\"Ch. 4: Energy Supply and Use FINAL\"]",
+        "_record_number": "4007",
+        "_uuid": "843cf523-c36c-4e7d-8824-22f65394aad9",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1088/1748-9326/8/1/015001",
+    "href": "http://data.globalchange.gov/reference/843cf523-c36c-4e7d-8824-22f65394aad9.json",
+    "identifier": "843cf523-c36c-4e7d-8824-22f65394aad9",
+    "uri": "/reference/843cf523-c36c-4e7d-8824-22f65394aad9"
+}

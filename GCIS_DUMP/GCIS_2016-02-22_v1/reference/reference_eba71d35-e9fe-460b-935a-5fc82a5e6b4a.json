@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Peterson, D.L.\rJohnson, M.C.",
+        "Issue": "3",
+        "Journal": "Fire Management Today",
+        "Pages": "13-18",
+        "Title": "Science-based strategic planning for hazardous fuel treatment",
+        "Volume": "67",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "2474",
+        "_uuid": "eba71d35-e9fe-460b-935a-5fc82a5e6b4a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/sciencebased-strategic-planning-for-hazardous-fuel-treatment",
+    "href": "http://data.globalchange.gov/reference/eba71d35-e9fe-460b-935a-5fc82a5e6b4a.json",
+    "identifier": "eba71d35-e9fe-460b-935a-5fc82a5e6b4a",
+    "uri": "/reference/eba71d35-e9fe-460b-935a-5fc82a5e6b4a"
+}

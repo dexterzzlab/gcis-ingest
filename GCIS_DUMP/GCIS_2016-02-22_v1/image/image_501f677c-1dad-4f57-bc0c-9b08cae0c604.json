@@ -1,0 +1,70 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": null,
+            "chapter_identifier": null,
+            "create_dt": null,
+            "identifier": "indicator-forest-cover",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": null,
+            "report_identifier": "indicator-forest-cover",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": "2011-12-31T23:59:59",
+            "time_start": "2011-01-01T00:00:00",
+            "title": null,
+            "url": null,
+            "usage_limits": "Free to use with credit to USGCRP."
+        }
+    ],
+    "files": [
+        {
+            "file": "54/f3/50faf82e658417e838da4006a459/forests_v3_09.16.2014.jpg",
+            "href": "http://data.globalchange.gov/assets/54/f3/50faf82e658417e838da4006a459/forests_v3_09.16.2014.jpg",
+            "identifier": "48d3eb2b-3402-48ff-85bc-ea3b53417e06",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "d81b991765891b3409afa5bafeaeff9cba97acb3",
+            "size": 20874594,
+            "thumbnail": "54/f3/50faf82e658417e838da4006a459/.thumb-48d3eb2b-3402-48ff-85bc-ea3b53417e06.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/54/f3/50faf82e658417e838da4006a459/.thumb-48d3eb2b-3402-48ff-85bc-ea3b53417e06.png",
+            "uri": "/file/48d3eb2b-3402-48ff-85bc-ea3b53417e06",
+            "url": "/assets/54/f3/50faf82e658417e838da4006a459/forests_v3_09.16.2014.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/501f677c-1dad-4f57-bc0c-9b08cae0c604.json",
+    "identifier": "501f677c-1dad-4f57-bc0c-9b08cae0c604",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [
+        {
+            "activity_uri": "/activity/501f677c-indicator-forest-cover-process",
+            "label": "dataset mrlc-mrlc-nlcd2011",
+            "note": "",
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/mrlc-mrlc-nlcd2011"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": null,
+    "uri": "/image/501f677c-1dad-4f57-bc0c-9b08cae0c604",
+    "url": null,
+    "usage_limits": "Free to use with credit to USGCRP."
+}

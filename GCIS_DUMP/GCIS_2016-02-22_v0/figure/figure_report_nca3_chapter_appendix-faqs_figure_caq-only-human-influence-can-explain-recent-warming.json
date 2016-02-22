@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "caption": "Changes in surface air temperature at the continental and global scales can only be explained by the influence of human activities on climate. The black line depicts the annually averaged observed changes. The blue shading represents estimates from a broad range of climate simulations including solely natural (solar and volcanic) changes in forcing. The orange shading is from climate model simulations that include the effects of both natural and human contributions. These analyses demonstrate that the observed changes, both globally and on a continent-by-continent basis, are caused by the influence of human activities on climate. (Figure source: updated from Jones et al. 2013<tbib>ee56b7fa-1961-49cc-aeea-823510341d5f</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0G15XS3",
+        "identifier": "appendix-faqs",
+        "number": 34,
+        "report_identifier": "nca3",
+        "sort_key": 340,
+        "title": "Appendix 4: Frequently Asked Questions",
+        "url": "http://nca2014.globalchange.gov/report/appendices/faqs"
+    },
+    "chapter_identifier": "appendix-faqs",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "a4/b9/e0c5a5ac0032ffa7b07949fb3f68/CAQ_Detection_and_Attribution_14444_v6.png",
+            "href": "http://data.globalchange.gov/assets/a4/b9/e0c5a5ac0032ffa7b07949fb3f68/CAQ_Detection_and_Attribution_14444_v6.png",
+            "identifier": "7d68474e-7592-43ef-a651-ba81f4129cc8",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "25a5da15a645013668e72a3bb08fa5fad73486e3",
+            "size": 745337,
+            "thumbnail": "a4/b9/e0c5a5ac0032ffa7b07949fb3f68/.thumb-7d68474e-7592-43ef-a651-ba81f4129cc8.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/a4/b9/e0c5a5ac0032ffa7b07949fb3f68/.thumb-7d68474e-7592-43ef-a651-ba81f4129cc8.png",
+            "uri": "/file/7d68474e-7592-43ef-a651-ba81f4129cc8",
+            "url": "/assets/a4/b9/e0c5a5ac0032ffa7b07949fb3f68/CAQ_Detection_and_Attribution_14444_v6.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-faqs/figure/caq-only-human-influence-can-explain-recent-warming.json",
+    "identifier": "caq-only-human-influence-can-explain-recent-warming",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 14,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Attribution of observed historical near-surface temperature variations to anthropogenic and natural causes using CMIP5 simulations",
+            "note": "",
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1002/jgrd.50239"
+        }
+    ],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Only Human Influence Can Explain Recent Warming",
+    "uri": "/report/nca3/chapter/appendix-faqs/figure/caq-only-human-influence-can-explain-recent-warming",
+    "url": "http://nca2014.globalchange.gov/report/appendices/faqs/graphics/only-human-influence-can-explain-recent-warming",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

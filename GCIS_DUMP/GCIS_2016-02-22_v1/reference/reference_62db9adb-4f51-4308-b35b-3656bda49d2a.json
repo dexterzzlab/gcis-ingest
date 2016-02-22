@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Dole, R.\rHoerling, M.\rPerlwitz, J.\rEischeid, J.\rPegion, P.\rZhang, T.\rQuan, X.W.\rXu, T.\rMurray, D.",
+        "DOI": "10.1029/2010GL046582",
+        "Issue": "6",
+        "Journal": "Geophysical Research Letters",
+        "Pages": "L06702",
+        "Title": "Was there a basis for anticipating the 2010 Russian heat wave?",
+        "Volume": "38",
+        "Year": "2011",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "1782",
+        "_uuid": "62db9adb-4f51-4308-b35b-3656bda49d2a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2010GL046582",
+    "href": "http://data.globalchange.gov/reference/62db9adb-4f51-4308-b35b-3656bda49d2a.json",
+    "identifier": "62db9adb-4f51-4308-b35b-3656bda49d2a",
+    "uri": "/reference/62db9adb-4f51-4308-b35b-3656bda49d2a"
+}

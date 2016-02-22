@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Duffy, P.B.\rC. Tebaldi",
+        "DOI": "10.1007/s10584-012-0396-6",
+        "ISSN": "0165-0009",
+        "Issue": "2",
+        "Journal": "Climatic Change",
+        "Pages": "487-495",
+        "Title": "Increasing prevalence of extreme summer temperatures in the U.S.",
+        "Volume": "111",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Ch. 2: Our Changing Climate FINAL\",\"RF 2\"]",
+        "_record_number": "952",
+        "_uuid": "7de011b1-2d12-48e0-b3e1-0d81e4a8a7d6",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-012-0396-6",
+    "href": "http://data.globalchange.gov/reference/7de011b1-2d12-48e0-b3e1-0d81e4a8a7d6.json",
+    "identifier": "7de011b1-2d12-48e0-b3e1-0d81e4a8a7d6",
+    "uri": "/reference/7de011b1-2d12-48e0-b3e1-0d81e4a8a7d6"
+}

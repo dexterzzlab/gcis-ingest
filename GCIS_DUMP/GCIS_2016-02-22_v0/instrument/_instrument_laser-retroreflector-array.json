@@ -1,0 +1,8 @@
+{
+    "description": "This passive sensor of JPL is used by a ground laser network (of 10-15 SLR stations) to track the position of the satellite for precision orbit determination (verification of altitude measurements). The mass of LRA is 29 kg; the LRA accuracy depends on laser station characteristics. The LRA is used to calibrate the other location systems on the satellite (DORIS, GPSDR) with a very high degree of precision.\n",
+    "description_attribution": "https://eoportal.org/web/eoportal/satellite-missions/t/topex-poseidon\n",
+    "href": "http://data.globalchange.gov/instrument/laser-retroreflector-array.json",
+    "identifier": "laser-retroreflector-array",
+    "name": "Laser Retroreflector Array",
+    "uri": "/instrument/laser-retroreflector-array"
+}

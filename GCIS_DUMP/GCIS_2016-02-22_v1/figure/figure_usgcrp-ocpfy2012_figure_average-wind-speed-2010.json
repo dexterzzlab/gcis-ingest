@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Observed average wind speed at almost 11,853 stations with at least five years of observations between 1979 and 2010.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "a8/58/bdc36dc5de69ff869ca96bfc6cb2/OCP_2012_Page_19_Image_0003.jpg",
+            "href": "http://data.globalchange.gov/assets/a8/58/bdc36dc5de69ff869ca96bfc6cb2/OCP_2012_Page_19_Image_0003.jpg",
+            "identifier": "e15391d5-472c-494a-8587-fdc7b1311b68",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "8c55b77485aa1ef975a4923c7baf9673e84b018a",
+            "size": 103881,
+            "thumbnail": "a8/58/bdc36dc5de69ff869ca96bfc6cb2/.thumb-e15391d5-472c-494a-8587-fdc7b1311b68.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/a8/58/bdc36dc5de69ff869ca96bfc6cb2/.thumb-e15391d5-472c-494a-8587-fdc7b1311b68.png",
+            "uri": "/file/e15391d5-472c-494a-8587-fdc7b1311b68",
+            "url": "/assets/a8/58/bdc36dc5de69ff869ca96bfc6cb2/OCP_2012_Page_19_Image_0003.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2012/figure/average-wind-speed-2010.json",
+    "identifier": "average-wind-speed-2010",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2012",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Observed Average Wind Speed in 2010",
+    "uri": "/report/usgcrp-ocpfy2012/figure/average-wind-speed-2010",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

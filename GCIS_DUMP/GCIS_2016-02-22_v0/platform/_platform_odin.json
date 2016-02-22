@@ -1,0 +1,12 @@
+{
+    "description": "Odin is an international aeronomy and astronomy minisatellite mission led by Sweden, with Canada, France, and Finland as partners. The project is carried out and funded jointly by the space agencies of Sweden [SNSB (Swedish National Space Board)], Canada [CSA (Canadian Space Agency) and NSERC (Natural Sciences and Engineering Research Council)], Finland [TEKES (National Technology Agency of Finland)], and France (CNES). The Swedish Space Corporation (SSC) is responsible for spacecraft system design and development. SSC provides also spacecraft operations (the operations center of SSC is located at Esrange; the latitude of 68\u00ba provides excellent visibility for polar orbiting satellites). - The Odin satellite is named after the god Odin - ruler of the Old Norse deities.",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/o/odin",
+    "end_date": "2015-12-01T00:00:00",
+    "href": "http://data.globalchange.gov/platform/odin.json",
+    "identifier": "odin",
+    "name": "Odin",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "2001-02-20T00:00:00",
+    "uri": "/platform/odin",
+    "url": "http://www.ohb-sweden.se/odin"
+}

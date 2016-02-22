@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Smith, W.K.\rCleveland, C.C.\rReed, S.C.\rMiller, N.L.\rRunning, S.W.",
+        "DOI": "10.1021/es203935d",
+        "ISSN": "0013-936X",
+        "Issue": "6",
+        "Journal": "Environmental Science & Technology",
+        "Pages": "3536-3544",
+        "Title": "Bioenergy potential of the United States constrained by satellite observations of existing productivity",
+        "Volume": "46",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "2888",
+        "_uuid": "d43ce72a-fc57-40ee-9b3a-edd5ce27c39b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1021/es203935d",
+    "href": "http://data.globalchange.gov/reference/d43ce72a-fc57-40ee-9b3a-edd5ce27c39b.json",
+    "identifier": "d43ce72a-fc57-40ee-9b3a-edd5ce27c39b",
+    "uri": "/reference/d43ce72a-fc57-40ee-9b3a-edd5ce27c39b"
+}

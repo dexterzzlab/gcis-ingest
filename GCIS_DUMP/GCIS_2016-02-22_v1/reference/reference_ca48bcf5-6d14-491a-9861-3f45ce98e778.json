@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Haimes, Y.",
+        "ISBN": "0470282371",
+        "Number of Pages": "726",
+        "Place Published": "New York",
+        "Publisher": "Wiley",
+        "Reviewer": "ca48bcf5-6d14-491a-9861-3f45ce98e778",
+        "Title": "Risk Modeling, Assessment, and Management",
+        "Year": "1998",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "1467",
+        "_uuid": "ca48bcf5-6d14-491a-9861-3f45ce98e778",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/725a6f88-edc0-4fe9-91fc-bce3f6f5ceb5",
+    "href": "http://data.globalchange.gov/reference/ca48bcf5-6d14-491a-9861-3f45ce98e778.json",
+    "identifier": "ca48bcf5-6d14-491a-9861-3f45ce98e778",
+    "uri": "/reference/ca48bcf5-6d14-491a-9861-3f45ce98e778"
+}

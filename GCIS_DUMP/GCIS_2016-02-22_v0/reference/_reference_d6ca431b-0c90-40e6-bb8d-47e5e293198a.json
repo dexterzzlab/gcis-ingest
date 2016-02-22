@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "van Vuuren, D.P.\rEdmonds, J.\rKainuma, M.\rRiahi, K.\rThomson, A.\rHibbard, K.\rHurtt, G.C.\rKram, T.\rKrey, V.\rLamarque, J.F.",
+        "DOI": "10.1007/s10584-011-0148-z",
+        "Issue": "1-2",
+        "Journal": "Climatic Change",
+        "Pages": "5-31",
+        "Title": "The representative concentration pathways: An overview",
+        "URL": "http://link.springer.com/content/pdf/10.1007%2Fs10584-011-0148-z.pdf",
+        "Volume": "109",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "3270",
+        "_uuid": "d6ca431b-0c90-40e6-bb8d-47e5e293198a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-011-0148-z",
+    "href": "http://data.globalchange.gov/reference/d6ca431b-0c90-40e6-bb8d-47e5e293198a.json",
+    "identifier": "d6ca431b-0c90-40e6-bb8d-47e5e293198a",
+    "uri": "/reference/d6ca431b-0c90-40e6-bb8d-47e5e293198a"
+}

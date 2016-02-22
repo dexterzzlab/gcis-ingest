@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "9",
+        "Editor": "Phillips, B.D.\rThomas, D.S.K.\rFothergill, A.\rBlinn-Pike, L.",
+        "ISBN": "978-1-4200-7856-5",
+        "Number of Pages": "406",
+        "Place Published": "Boca Raton, FL",
+        "Publisher": "CRC Press of the Taylor and Francis Group",
+        "Title": "Social Vulnerability to Disasters",
+        "Volume": "67",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 11: Urban Systems FINAL\"]",
+        "_record_number": "2486",
+        "_uuid": "8f130c5e-1565-41f1-bd2e-47ba49c43d2a",
+        "reftype": "Edited Book"
+    },
+    "child_publication": "/book/58594dc2-005e-4581-bbfe-6d75d1e8d5c8",
+    "href": "http://data.globalchange.gov/reference/8f130c5e-1565-41f1-bd2e-47ba49c43d2a.json",
+    "identifier": "8f130c5e-1565-41f1-bd2e-47ba49c43d2a",
+    "uri": "/reference/8f130c5e-1565-41f1-bd2e-47ba49c43d2a"
+}

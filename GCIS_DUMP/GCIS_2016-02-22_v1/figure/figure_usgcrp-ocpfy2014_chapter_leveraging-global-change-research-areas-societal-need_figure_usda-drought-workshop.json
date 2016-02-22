@@ -1,0 +1,89 @@
+{
+    "attributes": null,
+    "caption": "USDA Agriculture Secretary Tom Vilsack speaks in Omaha, NE at the opening session of a drought workshop with stakeholders. (Source: USDA)",
+    "chapter": {
+        "doi": null,
+        "identifier": "leveraging-global-change-research-areas-societal-need",
+        "number": 4,
+        "report_identifier": "usgcrp-ocpfy2014",
+        "sort_key": 40,
+        "title": "Leveraging Global Change Research In Areas of Societal Need",
+        "url": null
+    },
+    "chapter_identifier": "leveraging-global-change-research-areas-societal-need",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/3908.json",
+            "id": 3908,
+            "organization": {
+                "country_code": "US",
+                "identifier": "us-department-agriculture",
+                "name": "U.S. Department of Agriculture",
+                "organization_type_identifier": "federal",
+                "url": "http://www.usda.gov"
+            },
+            "organization_uri": "/organization/us-department-agriculture",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "lead_agency",
+            "uri": "/contributor/3908"
+        }
+    ],
+    "create_dt": "2012-10-09T00:00:00",
+    "files": [
+        {
+            "file": "03/1c/f48a279d571248c983a70c5b9914/Box_13_Vilsack_Drought_Workshop_High_Res.png",
+            "href": "http://data.globalchange.gov/assets/03/1c/f48a279d571248c983a70c5b9914/Box_13_Vilsack_Drought_Workshop_High_Res.png",
+            "identifier": "ee618102-b014-4339-be13-dad43779fb61",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "e4417030197419eb33b3a60db00b4aad3f330376",
+            "size": 947366,
+            "thumbnail": "03/1c/f48a279d571248c983a70c5b9914/.thumb-ee618102-b014-4339-be13-dad43779fb61.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/03/1c/f48a279d571248c983a70c5b9914/.thumb-ee618102-b014-4339-be13-dad43779fb61.png",
+            "uri": "/file/ee618102-b014-4339-be13-dad43779fb61",
+            "url": "/assets/03/1c/f48a279d571248c983a70c5b9914/Box_13_Vilsack_Drought_Workshop_High_Res.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2014/chapter/leveraging-global-change-research-areas-societal-need/figure/usda-drought-workshop.json",
+    "identifier": "usda-drought-workshop",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2012-10-09T00:00:00",
+            "description": null,
+            "identifier": "196c98ea-bdf0-4aa6-9e12-766211451c9a",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "USDA Drought Workshop",
+            "url": null,
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 12,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2014",
+    "source_citation": "U. S. Department of Agriculture, October 9, 2012 http://blogs.usda.gov/2012/10/11/agriculture-secretary-vilsack-in-omaha-to-kick-off-regional-drought-workshops/",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "USDA Drought Workshop",
+    "uri": "/report/usgcrp-ocpfy2014/chapter/leveraging-global-change-research-areas-societal-need/figure/usda-drought-workshop",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Amundsen, H.\rBerglund, F.\rWestskog, H.",
+        "DOI": "10.1068/c0941",
+        "Issue": "2",
+        "Journal": "Environment and Planning C: Government and Policy",
+        "Pages": "276-289",
+        "Title": "Overcoming barriers to climate change adaptation - a question of multilevel governance?",
+        "Volume": "28",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "1234",
+        "_uuid": "bf9d4e9c-9bd0-4c48-a20c-eeb95b45ac8c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1068/c0941",
+    "href": "http://data.globalchange.gov/reference/bf9d4e9c-9bd0-4c48-a20c-eeb95b45ac8c.json",
+    "identifier": "bf9d4e9c-9bd0-4c48-a20c-eeb95b45ac8c",
+    "uri": "/reference/bf9d4e9c-9bd0-4c48-a20c-eeb95b45ac8c"
+}

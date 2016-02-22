@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Fall, S.\rD. Niyogi\rA. Gluhovsky\rPielke, R.A., Sr.\rE. Kalnay\rG. Rochon",
+        "DOI": "10.1002/joc.1996",
+        "ISSN": "1097-0088",
+        "Issue": "13",
+        "Journal": "International Journal of Climatology",
+        "Pages": "1980-1993",
+        "Title": "Impacts of land use land cover on temperature trends over the continental United States: Assessment using the North American Regional Reanalysis",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1002/joc.1996/pdf",
+        "Volume": "30",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "918",
+        "_uuid": "42b449ef-418d-4f0c-8e9c-9f5c16fc2367",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/joc.1996",
+    "href": "http://data.globalchange.gov/reference/42b449ef-418d-4f0c-8e9c-9f5c16fc2367.json",
+    "identifier": "42b449ef-418d-4f0c-8e9c-9f5c16fc2367",
+    "uri": "/reference/42b449ef-418d-4f0c-8e9c-9f5c16fc2367"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Titus, J.",
+        "Book Title": "The Potential Impacts of Climate Change on Transportation, Summary and Discussion Papers, Federal Research Partnership Workshop, October 1-2, 2002",
+        "Pages": "135-150",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "U.S. Department of Transportation Center for Climate Change and Environmental Forecasting",
+        "Reviewer": "25cd9fdc-22d8-4d87-ac21-3ad5f6c91ffc",
+        "Title": "Does sea level rise matter to transportation along the Atlantic coast?",
+        "URL": "http://climate.dot.gov/documents/workshop1002/workshop.pdf",
+        "Year": "2002",
+        "_chapter": "[\"RG 2 Southeast\",\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "3069",
+        "_uuid": "25cd9fdc-22d8-4d87-ac21-3ad5f6c91ffc",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/dot-climatechange-environmentalforecasting-2002",
+    "href": "http://data.globalchange.gov/reference/25cd9fdc-22d8-4d87-ac21-3ad5f6c91ffc.json",
+    "identifier": "25cd9fdc-22d8-4d87-ac21-3ad5f6c91ffc",
+    "uri": "/reference/25cd9fdc-22d8-4d87-ac21-3ad5f6c91ffc"
+}

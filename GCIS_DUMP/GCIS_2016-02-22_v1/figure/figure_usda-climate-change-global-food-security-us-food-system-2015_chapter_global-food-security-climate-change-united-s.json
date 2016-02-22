@@ -1,0 +1,33 @@
+{
+    "attributes": null,
+    "caption": null,
+    "chapter": {
+        "doi": null,
+        "identifier": "global-food-security-climate-change-united-states",
+        "number": 8,
+        "report_identifier": "usda-climate-change-global-food-security-us-food-system-2015",
+        "sort_key": 80,
+        "title": "Global Food Security, Climate Change, and the United States",
+        "url": null
+    },
+    "chapter_identifier": "global-food-security-climate-change-united-states",
+    "cited_by": [],
+    "create_dt": null,
+    "href": "http://data.globalchange.gov/report/usda-climate-change-global-food-security-us-food-system-2015/chapter/global-food-security-climate-change-united-states/figure/annual-growth-rate-us-public-agricultural-rd-spending-1950-2007.json",
+    "identifier": "annual-growth-rate-us-public-agricultural-rd-spending-1950-2007",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 38,
+    "report_identifier": "usda-climate-change-global-food-security-us-food-system-2015",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Annual growth rate of U.S. public agricultural R&D spending, 1950 to 2007",
+    "uri": "/report/usda-climate-change-global-food-security-us-food-system-2015/chapter/global-food-security-climate-change-united-states/figure/annual-growth-rate-us-public-agricultural-rd-spending-1950-2007",
+    "url": null,
+    "usage_limits": null
+}

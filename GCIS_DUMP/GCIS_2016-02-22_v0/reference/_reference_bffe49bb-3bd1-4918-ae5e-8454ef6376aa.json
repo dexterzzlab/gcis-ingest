@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".publisher": "Blackwell Publishing Ltd",
+        ".reference_type": "0",
+        "Author": "Meko, David M.\rTherrell, Matthew D.\rBaisan, Christopher H.\rHughes, Malcolm K.",
+        "DOI": "10.1111/j.1752-1688.2001.tb05530.x",
+        "ISSN": "1752-1688",
+        "Issue": "4",
+        "Journal": "JAWRA Journal of the American Water Resources Association",
+        "Keywords": "drought\rmodeling\rmeteorology/climatology\rdendro-hydrology\rSacramento River",
+        "Pages": "1029-1039",
+        "Title": "Sacramento River flow reconstructed to AD 869 from tree rings",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/j.1752-1688.2001.tb05530.x/pdf",
+        "Volume": "37",
+        "Year": "2001",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "4125",
+        "_uuid": "bffe49bb-3bd1-4918-ae5e-8454ef6376aa",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1752-1688.2001.tb05530.x",
+    "href": "http://data.globalchange.gov/reference/bffe49bb-3bd1-4918-ae5e-8454ef6376aa.json",
+    "identifier": "bffe49bb-3bd1-4918-ae5e-8454ef6376aa",
+    "uri": "/reference/bffe49bb-3bd1-4918-ae5e-8454ef6376aa"
+}

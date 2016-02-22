@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/indicator-atmospheric-carbon-dioxide.json",
+    "identifier": "indicator-atmospheric-carbon-dioxide",
+    "in_library": null,
+    "publication_year": 2015,
+    "report_type_identifier": "indicator",
+    "summary": "Key Points:\r\n\r\n1.\tThis indicator tracks the global monthly average concentration of carbon dioxide in the atmosphere, capturing both seasonal and interannual trends. Carbon dioxide concentration is an important measure of how human activity has increased the heat-trapping capacity of the atmosphere.\r\n\r\n2.\tGlobal monthly average concentrations of carbon dioxide have risen steadily from 339 parts per million in 1980 (averaged over the year) to 395 parts per million in 2013, an increase of about 16% in just over 30 years.\r\n\r\n3.\tThis indicator can inform carbon emissions policies at national and international levels.\r\n \r\nFull Summary:\r\n\r\nGreenhouse gases such as carbon dioxide trap heat in the atmosphere. Increasing concentrations of these gases have driven an increase in global temperatures. The Annual Greenhouse Gas Index (AGGI) shows that over the past decade, increases in carbon dioxide are responsible for about 84% of the increase in the heat-trapping capacity of the atmosphere. Although the atmospheric concentration of carbon dioxide fluctuates over seasonal cycles, as illustrated by the saw-tooth pattern in the graph, the overall trend has been a steady increase since data collection began. Global monthly average concentrations of carbon dioxide have risen from around 339 parts per million in 1980 (averaged over the year) to 395 parts per million in 2013, an increase of about 16%. \r\n\t\r\nThe National Oceanic and Atmospheric Administration (NOAA) Global Monitoring Division has measured carbon dioxide and other greenhouse gases for several decades through a globally distributed network of about 70 air sampling sites, including the Mauna Loa Observatory in Hawai\u2019i. The data for this indicator come from a subset of about 40 of these sites located in isolated regions of the ocean.  \r\n\r\nInformation about global carbon dioxide concentrations can inform emissions policies at national and international levels. \r\n",
+    "title": "Indicator: Atmospheric Carbon Dioxide",
+    "topic": null,
+    "uri": "/report/indicator-atmospheric-carbon-dioxide",
+    "url": "http://www.globalchange.gov/browse/indicators/indicator-atmospheric-carbon-dioxide"
+}

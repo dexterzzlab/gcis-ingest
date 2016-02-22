@@ -1,0 +1,89 @@
+{
+    "attributes": null,
+    "caption": "An example of a climate change indicator: variation in Antarctic land ice mass over time. (Credit: NASA) ",
+    "chapter": {
+        "doi": null,
+        "identifier": "leveraging-global-change-research-societal-needs",
+        "number": 3,
+        "report_identifier": "usgcrp-ocpfy2015",
+        "sort_key": 30,
+        "title": "Leveraging Global Change Research for Societal Needs",
+        "url": null
+    },
+    "chapter_identifier": "leveraging-global-change-research-societal-needs",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/4162.json",
+            "id": 4162,
+            "organization": {
+                "country_code": "US",
+                "identifier": "national-aeronautics-space-administration",
+                "name": "National Aeronautics and Space Administration",
+                "organization_type_identifier": "federal",
+                "url": "http://www.nasa.gov"
+            },
+            "organization_uri": "/organization/national-aeronautics-space-administration",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "contributing_agency",
+            "uri": "/contributor/4162"
+        }
+    ],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "f8/1b/09b4b5d4825fea3207c770eaf622/Indicator_-_Antarctic_ice_mass.png",
+            "href": "http://data.globalchange.gov/assets/f8/1b/09b4b5d4825fea3207c770eaf622/Indicator_-_Antarctic_ice_mass.png",
+            "identifier": "44679966-0515-4a6e-a8d9-d96335a6095e",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "7bbb5428d5caac43da256898ad30764910e8daf6",
+            "size": 19200,
+            "thumbnail": "f8/1b/09b4b5d4825fea3207c770eaf622/.thumb-44679966-0515-4a6e-a8d9-d96335a6095e.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/f8/1b/09b4b5d4825fea3207c770eaf622/.thumb-44679966-0515-4a6e-a8d9-d96335a6095e.png",
+            "uri": "/file/44679966-0515-4a6e-a8d9-d96335a6095e",
+            "url": "/assets/f8/1b/09b4b5d4825fea3207c770eaf622/Indicator_-_Antarctic_ice_mass.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2015/chapter/leveraging-global-change-research-societal-needs/figure/example-climate-indicator-land-ice.json",
+    "identifier": "example-climate-indicator-land-ice",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": null,
+            "description": null,
+            "identifier": "2331b40d-d174-4f73-94a6-0fcb19ea588f",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Example Climate Indicator: Land Ice ",
+            "url": null,
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 3,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2015",
+    "source_citation": "Credit: NASA (http://climate.nasa.gov/vital-signs/land-ice/)",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Example Climate Indicator: Land Ice ",
+    "uri": "/report/usgcrp-ocpfy2015/chapter/leveraging-global-change-research-societal-needs/figure/example-climate-indicator-land-ice",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Map of operational and planned observatories that comprise the Atmospheric Brown Cloud (ABC) network, May 2005. Credit: V. Ramanathan, Scripps Institution of Oceanography.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "20/3f/13372741cacf610d1125ff0b3bbd/our_changing_planet_2006_19_20090708_1003494029.jpg",
+            "href": "http://data.globalchange.gov/assets/20/3f/13372741cacf610d1125ff0b3bbd/our_changing_planet_2006_19_20090708_1003494029.jpg",
+            "identifier": "88ffc72a-9a0e-456c-b0a8-bdc26a517fe8",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "02b75093cba054df936a237a9bd9ac4467563a53",
+            "size": 95634,
+            "thumbnail": "20/3f/13372741cacf610d1125ff0b3bbd/.thumb-88ffc72a-9a0e-456c-b0a8-bdc26a517fe8.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/20/3f/13372741cacf610d1125ff0b3bbd/.thumb-88ffc72a-9a0e-456c-b0a8-bdc26a517fe8.png",
+            "uri": "/file/88ffc72a-9a0e-456c-b0a8-bdc26a517fe8",
+            "url": "/assets/20/3f/13372741cacf610d1125ff0b3bbd/our_changing_planet_2006_19_20090708_1003494029.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocp-fy2006/figure/atmospheric-brown-cloud-network.json",
+    "identifier": "atmospheric-brown-cloud-network",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocp-fy2006",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Atmospheric Brown Cloud (ABC) Network",
+    "uri": "/report/ccsp-ocp-fy2006/figure/atmospheric-brown-cloud-network",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

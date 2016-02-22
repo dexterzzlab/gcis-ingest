@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Understanding the evolution of Arctic polar climate from the protracted warmth of the middle Pliocene into the earliest glacial cycles in the Northern Hemisphere has been hindered by the lack of continuous, highly resolved Arctic time series. Evidence from Lake El\u2019gygytgyn, in northeast (NE) Arctic Russia, shows that 3.6 to 3.4 million years ago, summer temperatures were ~8\u00b0C warmer than today, when the partial pressure of CO2 was ~400 parts per million. Multiproxy evidence suggests extreme warmth and polar amplification during the middle Pliocene, sudden stepped cooling events during the Pliocene-Pleistocene transition, and warmer than present Arctic summers until ~2.2 million years ago, after the onset of Northern Hemispheric glaciation. Our data are consistent with sea-level records and other proxies indicating that Arctic cooling was insufficient to support large-scale ice sheets until the early Pleistocene.",
+        "Author": "Brigham-Grette, Julie\rMelles, Martin\rMinyuk, Pavel\rAndreev, Andrei\rTarasov, Pavel\rDeConto, Robert\rKoenig, Sebastian\rNowaczyk, Norbert\rWennrich, Volker\rRos\u00e9n, Peter\rHaltia, Eeva\rCook, Tim\rGebhardt, Catalina\rMeyer-Jacob, Carsten\rSnyder, Jeff\rHerzschuh, Ulrike",
+        "DOI": "10.1126/science.1233137",
+        "Date": "June 21, 2013",
+        "Issue": "6139",
+        "Journal": "Science",
+        "Pages": "1421-1427",
+        "Title": "Pliocene warmth, polar amplification, and stepped Pleistocene cooling recorded in NE Arctic Russia",
+        "Volume": "340",
+        "Year": "2013",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "4401",
+        "_uuid": "e2cbb1e3-2fa5-4938-8d93-764a1c6b9c58",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1233137",
+    "href": "http://data.globalchange.gov/reference/e2cbb1e3-2fa5-4938-8d93-764a1c6b9c58.json",
+    "identifier": "e2cbb1e3-2fa5-4938-8d93-764a1c6b9c58",
+    "uri": "/reference/e2cbb1e3-2fa5-4938-8d93-764a1c6b9c58"
+}

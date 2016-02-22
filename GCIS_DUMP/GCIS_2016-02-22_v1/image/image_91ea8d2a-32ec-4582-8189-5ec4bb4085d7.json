@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-04T08:49:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Projected increases in temperature, changes in wind patterns, and ecosystem changes will all affect future ground-level ozone concentrations. Climate projections using an increasing emissions scenario (A2) suggest that ozone concentrations in the New York metropolitan region will increase because of future climate change. This figure shows the estimated increase in ozone-related emergency room visits for children in New York in the 2020s (compared to the mid-1990s) resulting from climate change related increases in ozone concentrations. The results from this modeling exercise are shown as a percent change in visits specifically attributed to ozone exposure. For example, the 10.2% increase in Suffolk County represents five additional emergency room visits that could be attributed to increased ozone exposure over the baseline of 46 ozone-related visits from the mid-1990s. In 2010, an estimated 25.7 million Americans had asthma, which has become a problem in every state. (Figure source: Sheffield et al. 2011<tbib>13baa2f8-b25e-4372-91c8-3c76e0c8dc07</tbib>).",
+            "chapter_identifier": "human-health",
+            "create_dt": "2013-11-04T08:49:00",
+            "identifier": "projected-climate-change-worsens-asthma",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 1,
+            "report_identifier": "nca3",
+            "source_citation": "Sheffield et al. 2011<tbib>13baa2f8-b25e-4372-91c8-3c76e0c8dc07</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Climate Change Projected to Worsen Asthma",
+            "url": "http://nca2014.globalchange.gov/report/sectors/human-health/graphics/climate-change-projected-worsen-asthma",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "99/6c/da6bc833f9bdc2bf4ef76f5f8195/health_ozone_er_visits_nyc_13765_v5_0.png",
+            "href": "http://data.globalchange.gov/assets/99/6c/da6bc833f9bdc2bf4ef76f5f8195/health_ozone_er_visits_nyc_13765_v5_0.png",
+            "identifier": "3292c545-5ed0-4945-bb47-a3e46d08baed",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "157b82df76b426edbb6764e4a6f7cb3ef5bdcd3f",
+            "size": 70671,
+            "thumbnail": "99/6c/da6bc833f9bdc2bf4ef76f5f8195/.thumb-3292c545-5ed0-4945-bb47-a3e46d08baed.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/99/6c/da6bc833f9bdc2bf4ef76f5f8195/.thumb-3292c545-5ed0-4945-bb47-a3e46d08baed.png",
+            "uri": "/file/3292c545-5ed0-4945-bb47-a3e46d08baed",
+            "url": "/assets/99/6c/da6bc833f9bdc2bf4ef76f5f8195/health_ozone_er_visits_nyc_13765_v5_0.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/91ea8d2a-32ec-4582-8189-5ec4bb4085d7.json",
+    "identifier": "91ea8d2a-32ec-4582-8189-5ec4bb4085d7",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Projected Climate Change Worsens Asthma",
+    "uri": "/image/91ea8d2a-32ec-4582-8189-5ec4bb4085d7",
+    "url": null,
+    "usage_limits": null
+}

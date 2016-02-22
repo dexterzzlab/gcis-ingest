@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Sivicek, Valerie A.\rTaft, John B.",
+        "DOI": "10.1016/j.ecolind.2011.01.003",
+        "ISSN": "1470-160X",
+        "Issue": "5",
+        "Journal": "Ecological Indicators",
+        "Keywords": "Plant functional groups\rFloristic quality assessment\rSpecies diversity\rBiotic integrity\rDiscriminant Analysis\rRapid assessment",
+        "Pages": "1251-1258",
+        "Title": "Functional Group Density as an index for assessing habitat quality in tallgrass prairie",
+        "Volume": "11",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "4147",
+        "_uuid": "609b9ffb-f406-468f-8a2d-c26bffe63ac1",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.ecolind.2011.01.003",
+    "href": "http://data.globalchange.gov/reference/609b9ffb-f406-468f-8a2d-c26bffe63ac1.json",
+    "identifier": "609b9ffb-f406-468f-8a2d-c26bffe63ac1",
+    "uri": "/reference/609b9ffb-f406-468f-8a2d-c26bffe63ac1"
+}

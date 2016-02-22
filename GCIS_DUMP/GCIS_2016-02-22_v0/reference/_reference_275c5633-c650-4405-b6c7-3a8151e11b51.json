@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Screen, James A.\rSimmonds, Ian",
+        "DOI": "10.1038/nature09051",
+        "ISSN": "0028-0836, 1476-4687",
+        "Issue": "7293",
+        "Journal": "Nature",
+        "Pages": "1334-1337",
+        "Title": "The central role of diminishing sea ice in recent Arctic temperature amplification",
+        "URL": "ftp://ftp.soest.hawaii.edu/coastal/Climate%20Articles/Arctic%20sea%20ice%202010.pdf",
+        "Volume": "464",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "2798",
+        "_uuid": "275c5633-c650-4405-b6c7-3a8151e11b51",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/nature09051",
+    "href": "http://data.globalchange.gov/reference/275c5633-c650-4405-b6c7-3a8151e11b51.json",
+    "identifier": "275c5633-c650-4405-b6c7-3a8151e11b51",
+    "uri": "/reference/275c5633-c650-4405-b6c7-3a8151e11b51"
+}

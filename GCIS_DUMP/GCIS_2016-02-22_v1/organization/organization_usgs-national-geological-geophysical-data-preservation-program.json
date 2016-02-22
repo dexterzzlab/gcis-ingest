@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/usgs-national-geological-geophysical-data-preservation-program.json",
+    "identifier": "usgs-national-geological-geophysical-data-preservation-program",
+    "name": "USGS National Geological and Geophysical Data Preservation Program",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/usgs-national-geological-geophysical-data-preservation-program",
+    "url": "http://datapreservation.usgs.gov/"
+}

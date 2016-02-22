@@ -1,0 +1,30 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Partial-duration maximum precipitation series from Historical Climatology Network stations are used as a basis for assessing trends in extreme-precipitation recurrence-interval amounts. Two types of time series are analyzed: running series in which the generalized extreme-value (GEV) distribution is fit to separate overlapping 30-yr data series and lengthening series in which more recent years are iteratively added to a base series from the early part of the record. Resampling procedures are used to assess both trend and field significance. Across the United States, nearly two-thirds of the trends in the 2-, 5-, and 10-yr return-period rainfall amounts, as well as the GEV distribution location parameter, are positive. Significant positive trends in these values tend to cluster in the Northeast, western Great Lakes, and Pacific Northwest. Slopes are more pronounced in the 1960-2007 period when compared with the 1950-2007 interval. In the Northeast and western Great Lakes, the 2-yr return-period precipitation amount increases at a rate of approximately 2% per decade, whereas the change in the 100-yr storm amount is between 4% and 9% per decade. These changes result primarily from an increase in the location parameter of the fitted GEV distribution. Collectively, these increases result in a median 20% decrease in the expected recurrence interval, regardless of interval length. Thus, at stations across a large part of the eastern United States and Pacific Northwest, the 50-yr storm based on 1950-79 data can be expected to occur on average once every 40 yr, when data from the 1950-2007 period are considered.",
+        "Alternate Journal": "J Appl Meteorol Clim",
+        "Author": "DeGaetano, A.T.",
+        "Author Address": "DeGaetano, AT; Cornell Univ, Dept Earth & Atmospher Sci, NE Reg Climate Ctr, 1119 Bradfield Hall, Ithaca, NY 14853 USA; Cornell Univ, Dept Earth & Atmospher Sci, NE Reg Climate Ctr, 1119 Bradfield Hall, Ithaca, NY 14853 USA; Cornell Univ, Dept Earth & Atmospher Sci, NE Reg Climate Ctr, Ithaca, NY 14853 USA",
+        "DOI": "10.1175/2009jamc2179.1",
+        "Date": "Oct",
+        "ISSN": "1558-8424",
+        "Issue": "10",
+        "Journal": "Journal of Applied Meteorology and Climatology",
+        "Keywords": "heavy precipitation; hydrological cycle; climate-change; rain events; trends; simulations; 20th-century; temperature; statistics; streamflow",
+        "Language": "English",
+        "Notes": "513SE; Times Cited:5; Cited References Count:34",
+        "Pages": "2086-2099",
+        "Title": "Time-dependent changes in extreme-precipitation return-period amounts in the continental United States",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/2009JAMC2179.1",
+        "Volume": "48",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\",\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "1672",
+        "_uuid": "8c8612b7-b9b5-427e-a1d4-c49de8346733",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/2009jamc2179.1",
+    "href": "http://data.globalchange.gov/reference/8c8612b7-b9b5-427e-a1d4-c49de8346733.json",
+    "identifier": "8c8612b7-b9b5-427e-a1d4-c49de8346733",
+    "uri": "/reference/8c8612b7-b9b5-427e-a1d4-c49de8346733"
+}

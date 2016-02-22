@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "Islands in the western reaches of the Pacific Ocean are getting slightly more rainfall than in the past, while islands more to the east are getting drier (measured in change in inches of monthly rainfall per decade over the period 1950-2010). Darker blue shading indicates that conditions are wetter, while darker red shading indicates drier conditions. The size of the dot is proportional to the size of the trend on the inset scale. (Figure source: Keener et al. 2012<tbib>7350d7b3-6e95-4375-ba23-26756b441fc2</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0W66HPM",
+        "identifier": "hawaii",
+        "number": 23,
+        "report_identifier": "nca3",
+        "sort_key": 230,
+        "title": "Hawai'i and U.S. Affiliated Pacific Islands",
+        "url": "http://nca2014.globalchange.gov/report/regions/hawaii-and-pacific-islands"
+    },
+    "chapter_identifier": "hawaii",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-14T14:03:00",
+    "files": [
+        {
+            "file": "7e/9f/049c9e468fcc9cfa6d470fa2b0e2/HI_micronesia_rain_trend_V3.png",
+            "href": "http://data.globalchange.gov/assets/7e/9f/049c9e468fcc9cfa6d470fa2b0e2/HI_micronesia_rain_trend_V3.png",
+            "identifier": "0fea8a53-3f5f-4004-89db-b34b2018dd58",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "7d7099c0ceba3f96e1273f3f9c34334d45dd2094",
+            "size": 52630,
+            "thumbnail": "7e/9f/049c9e468fcc9cfa6d470fa2b0e2/.thumb-0fea8a53-3f5f-4004-89db-b34b2018dd58.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/7e/9f/049c9e468fcc9cfa6d470fa2b0e2/.thumb-0fea8a53-3f5f-4004-89db-b34b2018dd58.png",
+            "uri": "/file/0fea8a53-3f5f-4004-89db-b34b2018dd58",
+            "url": "/assets/7e/9f/049c9e468fcc9cfa6d470fa2b0e2/HI_micronesia_rain_trend_V3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/hawaii/figure/observed-changes-in-annual-rainfall-in-the-western-north-pacific.json",
+    "identifier": "observed-changes-in-annual-rainfall-in-the-western-north-pacific",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-11-14T14:03:00",
+            "description": null,
+            "identifier": "8dcdc2ea-cee6-4cec-8841-c7c370f420f5",
+            "lat_max": "20.00",
+            "lat_min": "0.00",
+            "lon_max": "180.00",
+            "lon_min": "120.00",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2010-12-31T23:59:59",
+            "time_start": "1950-01-01T00:00:00",
+            "title": "Observed Changes in Annual Rainfall in the Western North Pacific",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 4,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Climate Change and Pacific  Islands: Indicators and Impacts",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/pirca-climate-change-and-pacific-islands"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/7350d7b3-6e95-4375-ba23-26756b441fc2.json",
+            "uri": "/reference/7350d7b3-6e95-4375-ba23-26756b441fc2"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Observed Changes in Annual Rainfall in the Western North Pacific",
+    "uri": "/report/nca3/chapter/hawaii/figure/observed-changes-in-annual-rainfall-in-the-western-north-pacific",
+    "url": "http://nca2014.globalchange.gov/report/regions/hawaii-and-pacific-islands/graphics/observed-changes-annual-rainfall-western-north",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

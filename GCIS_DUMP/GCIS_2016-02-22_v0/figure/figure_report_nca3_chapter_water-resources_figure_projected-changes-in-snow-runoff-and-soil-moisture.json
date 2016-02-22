@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "These projections, assuming continued increases in heat-trapping gas emissions (A2 scenario; Ch. 2: Our Changing Climate), illustrate: a) major losses in the water content of the snowpack that fills western rivers (snow water equivalent, or SWE); b) significant reductions in runoff in California, Arizona, and the central Rocky Mountains; and c) reductions in soil moisture across the Southwest. The changes shown are for mid-century (2041-2070) as percentage changes from 1971-2000 conditions (Figure source: Cayan et al. 2013<tbib>59cf5a07-b64b-418c-acc6-73b7ff4d7d7e</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0G44N6T",
+        "identifier": "water-resources",
+        "number": 3,
+        "report_identifier": "nca3",
+        "sort_key": 30,
+        "title": "Water Resources",
+        "url": "http://nca2014.globalchange.gov/report/sectors/water"
+    },
+    "chapter_identifier": "water-resources",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-08-01T17:57:00",
+    "files": [
+        {
+            "file": "42/8f/5abb90151bd3207d272c99399c6f/Water_snow_runoff_soil_moisture_v5.png",
+            "href": "http://data.globalchange.gov/assets/42/8f/5abb90151bd3207d272c99399c6f/Water_snow_runoff_soil_moisture_v5.png",
+            "identifier": "6d94971d-46ec-497a-8cda-e5da7421cb40",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "a2622f4c5df9e7e2446cc53614a2d0aa71283be1",
+            "size": 343711,
+            "thumbnail": "42/8f/5abb90151bd3207d272c99399c6f/.thumb-6d94971d-46ec-497a-8cda-e5da7421cb40.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/42/8f/5abb90151bd3207d272c99399c6f/.thumb-6d94971d-46ec-497a-8cda-e5da7421cb40.png",
+            "uri": "/file/6d94971d-46ec-497a-8cda-e5da7421cb40",
+            "url": "/assets/42/8f/5abb90151bd3207d272c99399c6f/Water_snow_runoff_soil_moisture_v5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/water-resources/figure/projected-changes-in-snow-runoff-and-soil-moisture.json",
+    "identifier": "projected-changes-in-snow-runoff-and-soil-moisture",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-08-01T17:57:00",
+            "description": null,
+            "identifier": "04ec2a56-6519-4ff0-b966-774b35ac683d",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2070-12-31T23:59:59",
+            "time_start": "1971-01-01T00:00:00",
+            "title": "Projected Changes in Snow, Runoff, and Soil Moisture",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 1,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Assessment of Climate Change in the Southwest United States",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/swccar-assessment-climate-change-in-southwest-us"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/59cf5a07-b64b-418c-acc6-73b7ff4d7d7e.json",
+            "uri": "/reference/59cf5a07-b64b-418c-acc6-73b7ff4d7d7e"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "Cayan et al. 2013",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Projected Changes in Snow, Runoff, and Soil Moisture",
+    "uri": "/report/nca3/chapter/water-resources/figure/projected-changes-in-snow-runoff-and-soil-moisture",
+    "url": "http://nca2014.globalchange.gov/report/sectors/water/graphics/projected-changes-snow-runoff-and-soil-moisture",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

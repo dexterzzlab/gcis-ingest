@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Testing early results from \"Experiment 0\" of an Integrated Earth Systems Model. Preliminary studies illustrate the significance of potential carbon management strategies when land is considered within an Integrated Earth System Model. In the case where only fossil fuel carbon is valued (above of two forest cover images), a shift toward deforestation occurs in comparison with the IPCC Representative Concentration Pathway (RCP) case.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "37/d9/0721ad5f415b713e99f67374d818/OCP_2012_Page_22_Image_0002.jpg",
+            "href": "http://data.globalchange.gov/assets/37/d9/0721ad5f415b713e99f67374d818/OCP_2012_Page_22_Image_0002.jpg",
+            "identifier": "7de52765-d51b-4d02-98eb-5fa13b050df7",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "bff02e8568e97384f32420d68cf87f2383ba940c",
+            "size": 88189,
+            "thumbnail": "37/d9/0721ad5f415b713e99f67374d818/.thumb-7de52765-d51b-4d02-98eb-5fa13b050df7.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/37/d9/0721ad5f415b713e99f67374d818/.thumb-7de52765-d51b-4d02-98eb-5fa13b050df7.png",
+            "uri": "/file/7de52765-d51b-4d02-98eb-5fa13b050df7",
+            "url": "/assets/37/d9/0721ad5f415b713e99f67374d818/OCP_2012_Page_22_Image_0002.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2012/figure/forest-cover-model-results.json",
+    "identifier": "forest-cover-model-results",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2012",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Forest Cover Model Results",
+    "uri": "/report/usgcrp-ocpfy2012/figure/forest-cover-model-results",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

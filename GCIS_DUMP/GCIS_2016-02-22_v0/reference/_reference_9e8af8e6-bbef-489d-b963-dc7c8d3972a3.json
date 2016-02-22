@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "NRC,",
+        "Institution": "National Research Council, The National Academies Press",
+        "Pages": "250",
+        "Place Published": "Washington, D.C.",
+        "Title": "Renewable Fuel Standard: Potential Economic and Environmental Effects of U.S. Biofuel Policy",
+        "URL": "http://www.nap.edu/catalog.php?record_id=13105",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 7: Forests FINAL\",\"Ch. 10: Energy Water Land FINAL\"]",
+        "_record_number": "2306",
+        "_uuid": "9e8af8e6-bbef-489d-b963-dc7c8d3972a3",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/nrc-renewable-2011",
+    "href": "http://data.globalchange.gov/reference/9e8af8e6-bbef-489d-b963-dc7c8d3972a3.json",
+    "identifier": "9e8af8e6-bbef-489d-b963-dc7c8d3972a3",
+    "uri": "/reference/9e8af8e6-bbef-489d-b963-dc7c8d3972a3"
+}

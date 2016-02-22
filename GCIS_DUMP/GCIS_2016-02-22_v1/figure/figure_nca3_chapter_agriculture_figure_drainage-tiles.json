@@ -1,0 +1,96 @@
+{
+    "attributes": null,
+    "caption": "Producers have been installing subsurface drainage to remove more water from the fields.",
+    "chapter": {
+        "doi": "10.7930/J02Z13FR",
+        "identifier": "agriculture",
+        "number": 6,
+        "report_identifier": "nca3",
+        "sort_key": 60,
+        "title": "Agriculture",
+        "url": "http://nca2014.globalchange.gov/report/sectors/agriculture"
+    },
+    "chapter_identifier": "agriculture",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/3190.json",
+            "id": 3190,
+            "organization": {
+                "country_code": "US",
+                "identifier": "us-department-agriculture",
+                "name": "U.S. Department of Agriculture",
+                "organization_type_identifier": "federal",
+                "url": "http://www.usda.gov"
+            },
+            "organization_uri": "/organization/us-department-agriculture",
+            "person": {
+                "first_name": "Jerry",
+                "id": 955,
+                "last_name": "Hatfield",
+                "middle_name": null,
+                "orcid": "0000-0002-2981-8856",
+                "url": "http://www.ars.usda.gov/pandp/people/people.htm?personid=2378"
+            },
+            "person_id": 955,
+            "person_uri": "/person/955",
+            "role_type_identifier": "author",
+            "uri": "/contributor/3190"
+        }
+    ],
+    "create_dt": "2012-10-12T12:20:00",
+    "files": [
+        {
+            "file": "4b/01/47b1826eb43779bb780f197829dc/AG_drainage_tile_13861_v1.png",
+            "href": "http://data.globalchange.gov/assets/4b/01/47b1826eb43779bb780f197829dc/AG_drainage_tile_13861_v1.png",
+            "identifier": "c26d94fc-9e1a-430d-bd53-aa764b8e0173",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "115e6ccbb733ef28cfbb4bf1c5ebdf197201dfa9",
+            "size": 47895,
+            "thumbnail": "4b/01/47b1826eb43779bb780f197829dc/.thumb-c26d94fc-9e1a-430d-bd53-aa764b8e0173.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/4b/01/47b1826eb43779bb780f197829dc/.thumb-c26d94fc-9e1a-430d-bd53-aa764b8e0173.png",
+            "uri": "/file/c26d94fc-9e1a-430d-bd53-aa764b8e0173",
+            "url": "/assets/4b/01/47b1826eb43779bb780f197829dc/AG_drainage_tile_13861_v1.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/agriculture/figure/drainage-tiles.json",
+    "identifier": "drainage-tiles",
+    "images": [
+        {
+            "attributes": "drainage tiles",
+            "create_dt": "2013-01-15T11:32:00",
+            "description": null,
+            "identifier": "9eaab18a-5a61-408f-aa1f-05d7fe5c036b",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Drainage Tiles",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 8,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Drainage Tiles",
+    "uri": "/report/nca3/chapter/agriculture/figure/drainage-tiles",
+    "url": "http://nca2014.globalchange.gov/report/sectors/agriculture/graphics/subsurface-drainage-system",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

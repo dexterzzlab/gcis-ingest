@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Chokshi, D.A.\rFarley, T.A.",
+        "DOI": "10.1056/NEJMp1206268",
+        "ISSN": "0028-4793",
+        "Issue": "4",
+        "Journal": "New England Journal of Medicine",
+        "Pages": "295-297",
+        "Title": "The cost-effectiveness of environmental approaches to disease prevention",
+        "Volume": "367",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "475",
+        "_uuid": "44c6f36b-a252-4e0f-8feb-ebed3d289e64",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1056/NEJMp1206268",
+    "href": "http://data.globalchange.gov/reference/44c6f36b-a252-4e0f-8feb-ebed3d289e64.json",
+    "identifier": "44c6f36b-a252-4e0f-8feb-ebed3d289e64",
+    "uri": "/reference/44c6f36b-a252-4e0f-8feb-ebed3d289e64"
+}

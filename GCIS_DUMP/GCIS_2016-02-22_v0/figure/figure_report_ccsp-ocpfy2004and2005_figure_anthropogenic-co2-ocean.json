@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Distribution of anthropogenic CO2 in the global oceans through 1994. Between 1991 and 1998, global ocean CO2 surveys produced a large number of high-quality measurements of important tracers for anthropogenic carbon. Estimates of the anthropogenic CO2 uptake based on the observations indicate a total anthropogenic CO2 inventory of approximately 117 \u00b1 19 PgC in 1994. Source: Sabine, C.L., et al., Chapter 2: Current status and past trends of the global carbon cycle. In Toward CO2 Stabilization: Issues Strategies, and Consequences [C.B. Field and M.R. Raupach (eds.)], Island Press, Washington D.C. [in press].",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "49/79/252754572354d52f549cd08749c1/our_changing_planet_2004-2005_13_20090708_1669909002.jpg",
+            "href": "http://data.globalchange.gov/assets/49/79/252754572354d52f549cd08749c1/our_changing_planet_2004-2005_13_20090708_1669909002.jpg",
+            "identifier": "dd15abfe-5a35-49b7-8dbe-bd18dc356126",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "ba8d67cbab93d6e8b968b78328aec6f9cc63c273",
+            "size": 71061,
+            "thumbnail": "49/79/252754572354d52f549cd08749c1/.thumb-dd15abfe-5a35-49b7-8dbe-bd18dc356126.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/49/79/252754572354d52f549cd08749c1/.thumb-dd15abfe-5a35-49b7-8dbe-bd18dc356126.png",
+            "uri": "/file/dd15abfe-5a35-49b7-8dbe-bd18dc356126",
+            "url": "/assets/49/79/252754572354d52f549cd08749c1/our_changing_planet_2004-2005_13_20090708_1669909002.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2004and2005/figure/anthropogenic-co2-ocean.json",
+    "identifier": "anthropogenic-co2-ocean",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2004and2005",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Anthropogenic CO2 in the Ocean",
+    "uri": "/report/ccsp-ocpfy2004and2005/figure/anthropogenic-co2-ocean",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

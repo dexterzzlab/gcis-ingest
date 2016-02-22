@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "These model projections employ the 2050 IPCC A2 emissions scenario: (a) temperature changes simulated with the Mesoscale Modeling System Generation 5 (MM5) regional model; (b) ozone changes simulated with the Community Multiscale Air Quality (CMAQ) modeling system; (c) land-use changes simulated with the Slope, Land-Use Elevation, Urban, Transportation, and Hillshading (SLEUTH) model; and (d) change in ozone-related deaths. Credit: C. Rosenzweig, NASA/Goddard Institute for Space Studies (panel d reproduced with permission from Environmental Health Perspectives).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "4f/23/6b0ccab31975b6b8a500a19590e9/our_changing_planet_2007_75_20090708_1457947761.jpg",
+            "href": "http://data.globalchange.gov/assets/4f/23/6b0ccab31975b6b8a500a19590e9/our_changing_planet_2007_75_20090708_1457947761.jpg",
+            "identifier": "0ae95986-c57f-40b9-998c-e3b264ac0cb9",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "aec3142855cd5efc9646c56535bb87d51da75a62",
+            "size": 61335,
+            "thumbnail": "4f/23/6b0ccab31975b6b8a500a19590e9/.thumb-0ae95986-c57f-40b9-998c-e3b264ac0cb9.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/4f/23/6b0ccab31975b6b8a500a19590e9/.thumb-0ae95986-c57f-40b9-998c-e3b264ac0cb9.png",
+            "uri": "/file/0ae95986-c57f-40b9-998c-e3b264ac0cb9",
+            "url": "/assets/4f/23/6b0ccab31975b6b8a500a19590e9/our_changing_planet_2007_75_20090708_1457947761.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/new-york-climate-health-model-projections.json",
+    "identifier": "new-york-climate-health-model-projections",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "New York Climate and Health Project: Model Projections",
+    "uri": "/report/ccsp-ocpfy2007/figure/new-york-climate-health-model-projections",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

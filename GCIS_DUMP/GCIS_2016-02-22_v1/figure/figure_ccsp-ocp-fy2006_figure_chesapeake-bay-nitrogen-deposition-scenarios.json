@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Predicted losses of nitrogen from forested lands of the Chesapeake Bay watershed under no nitrogen deposition (left), current nitrogen deposition (middle), and doubled nitrogen deposition (right). Credit: Pan et al., 2004.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "ec/4a/a06584ac1394456b5a3d035ac4e2/our_changing_planet_2006_15_20090708_1093563172.jpg",
+            "href": "http://data.globalchange.gov/assets/ec/4a/a06584ac1394456b5a3d035ac4e2/our_changing_planet_2006_15_20090708_1093563172.jpg",
+            "identifier": "54a1b566-0946-4692-b5c6-0b06f364c63a",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "d9a537216d7ab2948aab4f87df67489bb524bb9b",
+            "size": 95979,
+            "thumbnail": "ec/4a/a06584ac1394456b5a3d035ac4e2/.thumb-54a1b566-0946-4692-b5c6-0b06f364c63a.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/ec/4a/a06584ac1394456b5a3d035ac4e2/.thumb-54a1b566-0946-4692-b5c6-0b06f364c63a.png",
+            "uri": "/file/54a1b566-0946-4692-b5c6-0b06f364c63a",
+            "url": "/assets/ec/4a/a06584ac1394456b5a3d035ac4e2/our_changing_planet_2006_15_20090708_1093563172.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocp-fy2006/figure/chesapeake-bay-nitrogen-deposition-scenarios.json",
+    "identifier": "chesapeake-bay-nitrogen-deposition-scenarios",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocp-fy2006",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Chesapeake Bay Nitrogen Deposition Scenarios",
+    "uri": "/report/ccsp-ocp-fy2006/figure/chesapeake-bay-nitrogen-deposition-scenarios",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

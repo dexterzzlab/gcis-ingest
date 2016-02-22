@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/bea-fixed-assets-consumer-durable-goods-1997-2010.json",
+    "identifier": "bea-fixed-assets-consumer-durable-goods-1997-2010",
+    "in_library": null,
+    "publication_year": 2011,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Fixed Assets and Consumer Durable Goods for 1997\u20132010",
+    "topic": null,
+    "uri": "/report/bea-fixed-assets-consumer-durable-goods-1997-2010",
+    "url": "https://www.bea.gov/scb/pdf/2011/09%20September/0911_fixed-assets.pdf"
+}

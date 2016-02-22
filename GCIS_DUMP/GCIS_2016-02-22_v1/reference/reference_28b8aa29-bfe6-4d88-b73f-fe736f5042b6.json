@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Article Number": "40",
+        "Author": "Basu, R.",
+        "DOI": "10.1186/1476-069X-8-40",
+        "ISSN": "1476-069X ",
+        "Issue": "1",
+        "Journal": "Environmental Health",
+        "Pages": "1-13",
+        "Title": "High ambient temperature and mortality: A review of epidemiologic studies from 2001 to 2008",
+        "Volume": "8",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "846",
+        "_uuid": "28b8aa29-bfe6-4d88-b73f-fe736f5042b6",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1186/1476-069X-8-40",
+    "href": "http://data.globalchange.gov/reference/28b8aa29-bfe6-4d88-b73f-fe736f5042b6.json",
+    "identifier": "28b8aa29-bfe6-4d88-b73f-fe736f5042b6",
+    "uri": "/reference/28b8aa29-bfe6-4d88-b73f-fe736f5042b6"
+}

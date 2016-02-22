@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "AFWA,",
+        "Institution": "Association of Fish and Wildlife Agencies",
+        "Pages": "50",
+        "Place Published": "Washington, D.C.",
+        "Series Editor": "H. Michael,\rA. O\u2019Brien,\rM. Humpert,\rA. Choudhury,\rT. Rentz",
+        "Title": "Voluntary Guidance for States to Incorporate Climate Change Into State Wildlife Action Plans and Other Management Plans",
+        "URL": "http://www.fishwildlife.org/files/AFWA-Voluntary-Guidance-Incorporating-Climate-Change_SWAP.pdf",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "1766",
+        "_uuid": "e09d97ae-73f6-41f2-bc13-f5c5bfa480bc",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/ascfws-voluntary-2009",
+    "href": "http://data.globalchange.gov/reference/e09d97ae-73f6-41f2-bc13-f5c5bfa480bc.json",
+    "identifier": "e09d97ae-73f6-41f2-bc13-f5c5bfa480bc",
+    "uri": "/reference/e09d97ae-73f6-41f2-bc13-f5c5bfa480bc"
+}

@@ -1,0 +1,89 @@
+{
+    "attributes": null,
+    "caption": "Model simulations of Arctic sea ice extent for September (1900-2100) based on observed concentrations of heat-trapping gases and particles (through 2005) and four scenarios. Colored lines for RCP scenarios are model averages (CMIP5) and lighter shades of the line colors denote ranges among models for each scenario. Dotted gray line and gray shading denotes average and range of the historical simulations through 2005. The thick black line shows observed data for 1953-2012. These newer model (CMIP5) simulations project more rapid sea ice loss compared to the previous generation of models (CMIP3) under similar forcing scenarios, although the simulated September ice losses under all scenarios still lag the observed loss of the past decade. Extrapolation of the present observed trend suggests an essentially ice-free Arctic in summer before mid-century.<tbib>095ba621-feea-4f7f-8b98-890e5bee679f</tbib> The Arctic is considered essentially ice-free when the areal extent of ice is less than one million square kilometers. (Figure source: adapted from Stroeve et al. 2012<tbib>a60d1734-9067-4e1e-9699-d8e998dfa4d3</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0KW5CXT",
+        "identifier": "our-changing-climate",
+        "number": 2,
+        "report_identifier": "nca3",
+        "sort_key": 20,
+        "title": "Our Changing Climate",
+        "url": "http://nca2014.globalchange.gov/report/our-changing-climate/introduction"
+    },
+    "chapter_identifier": "our-changing-climate",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-10-21T12:52:00",
+    "files": [
+        {
+            "file": "c3/b7/d46eeb17258bd124d62891a9597f/CS_sea_ice_projections_V6.png",
+            "href": "http://data.globalchange.gov/assets/c3/b7/d46eeb17258bd124d62891a9597f/CS_sea_ice_projections_V6.png",
+            "identifier": "ba5db9e8-1f01-4278-8081-88b0d84801a9",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "4f53510f47c68e9d37b562556258d5d8a93ae73f",
+            "size": 171501,
+            "thumbnail": "c3/b7/d46eeb17258bd124d62891a9597f/.thumb-ba5db9e8-1f01-4278-8081-88b0d84801a9.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/c3/b7/d46eeb17258bd124d62891a9597f/.thumb-ba5db9e8-1f01-4278-8081-88b0d84801a9.png",
+            "uri": "/file/ba5db9e8-1f01-4278-8081-88b0d84801a9",
+            "url": "/assets/c3/b7/d46eeb17258bd124d62891a9597f/CS_sea_ice_projections_V6.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/our-changing-climate/figure/projected-arctic-sea-ice-decline.json",
+    "identifier": "projected-arctic-sea-ice-decline",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-10-21T12:52:00",
+            "description": null,
+            "identifier": "c39052bf-7c80-4f4f-95e5-0f3bf78d3cc5",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2100-12-31T23:59:59",
+            "time_start": "1953-01-01T00:00:00",
+            "title": "Projected Arctic Sea Ice Decline",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 29,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Trends in Arctic sea ice extent from CMIP5, CMIP3 and observations",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1029/2012GL052676"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/095ba621-feea-4f7f-8b98-890e5bee679f.json",
+            "uri": "/reference/095ba621-feea-4f7f-8b98-890e5bee679f"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/a60d1734-9067-4e1e-9699-d8e998dfa4d3.json",
+            "uri": "/reference/a60d1734-9067-4e1e-9699-d8e998dfa4d3"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "adapted from Stroeve et al. 2012<tbib>a60d1734-9067-4e1e-9699-d8e998dfa4d3</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Projected Arctic Sea Ice Decline",
+    "uri": "/report/nca3/chapter/our-changing-climate/figure/projected-arctic-sea-ice-decline",
+    "url": "http://nca2014.globalchange.gov/report/our-changing-climate/melting-ice/graphics/projected-arctic-sea-ice-decline",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

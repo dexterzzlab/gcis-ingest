@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".publisher": "Nature Publishing Group",
+        ".reference_type": "0",
+        "Author": "Hemer, Mark A.\rFan, Yalin\rMori, Nobuhito\rSemedo, Alvaro\rWang, Xiaolan L.",
+        "DOI": "10.1038/nclimate1791",
+        "ISSN": "1758-678X",
+        "Issue": "5",
+        "Journal": "Nature Climate Change",
+        "Pages": "471-476",
+        "Title": "Projected changes in wave climate from a multi-model ensemble",
+        "Type of Article": "Letter",
+        "Volume": "3",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\"]",
+        "_record_number": "3808",
+        "_uuid": "97d648c2-1cb1-4a5f-8fe1-88d9e7ce1bcb",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/nclimate1791",
+    "href": "http://data.globalchange.gov/reference/97d648c2-1cb1-4a5f-8fe1-88d9e7ce1bcb.json",
+    "identifier": "97d648c2-1cb1-4a5f-8fe1-88d9e7ce1bcb",
+    "uri": "/reference/97d648c2-1cb1-4a5f-8fe1-88d9e7ce1bcb"
+}

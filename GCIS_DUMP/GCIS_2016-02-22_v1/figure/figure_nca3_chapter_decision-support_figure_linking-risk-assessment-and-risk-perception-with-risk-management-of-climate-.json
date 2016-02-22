@@ -1,0 +1,96 @@
+{
+    "attributes": null,
+    "caption": "This figure highlights the importance of incorporating both experts\u2019 assessment of the climate change risk and general public perceptions of this risk in developing risk management strategies for reducing the negative impacts of climate change. As indicated by the arrows, how the public perceives risk should be considered when experts communicate data on the risks associated with climate change so the public refines its understanding of these risks. As the arrows indicate, the general public\u2019s views must also be considered in addition to experts\u2019 judgments when developing risk management strategies that achieve decision-makers\u2019 desired objectives. Climate change policies that are implemented will, in turn, affect both expert assessment and public perception of this risk in the future, as indicated by the feedback loop from risk management to these two boxes.",
+    "chapter": {
+        "doi": "10.7930/J0H12ZXG",
+        "identifier": "decision-support",
+        "number": 26,
+        "report_identifier": "nca3",
+        "sort_key": 260,
+        "title": "Decision Support: Connecting Science, Risk Perception, and Decisions",
+        "url": "http://nca2014.globalchange.gov/report/response-strategies/decision-support"
+    },
+    "chapter_identifier": "decision-support",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/1922.json",
+            "id": 1922,
+            "organization": {
+                "country_code": "US",
+                "identifier": "university-corporation-atmospheric-research",
+                "name": "University Corporation for Atmospheric Research",
+                "organization_type_identifier": "research",
+                "url": "http://www2.ucar.edu/"
+            },
+            "organization_uri": "/organization/university-corporation-atmospheric-research",
+            "person": {
+                "first_name": "Emily Therese",
+                "id": 1036,
+                "last_name": "Cloyd",
+                "middle_name": null,
+                "orcid": "0000-0003-1277-1702",
+                "url": "http://www.globalchange.gov/about/staff/emily-therese-cloyd.html"
+            },
+            "person_id": 1036,
+            "person_uri": "/person/1036",
+            "role_type_identifier": "contributing_author",
+            "uri": "/contributor/1922"
+        }
+    ],
+    "create_dt": "2013-07-17T14:45:00",
+    "files": [
+        {
+            "file": "9b/0e/58673e35c159fb1736a769bd9f8c/DS_risk_flowchart_13672_v5.png",
+            "href": "http://data.globalchange.gov/assets/9b/0e/58673e35c159fb1736a769bd9f8c/DS_risk_flowchart_13672_v5.png",
+            "identifier": "824a4175-720a-4766-8dfe-c18d828d1d5c",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "6ded123596252c72c84edbac5ffcc0fd8f63cda2",
+            "size": 191081,
+            "thumbnail": "9b/0e/58673e35c159fb1736a769bd9f8c/.thumb-824a4175-720a-4766-8dfe-c18d828d1d5c.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/9b/0e/58673e35c159fb1736a769bd9f8c/.thumb-824a4175-720a-4766-8dfe-c18d828d1d5c.png",
+            "uri": "/file/824a4175-720a-4766-8dfe-c18d828d1d5c",
+            "url": "/assets/9b/0e/58673e35c159fb1736a769bd9f8c/DS_risk_flowchart_13672_v5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/decision-support/figure/linking-risk-assessment-and-risk-perception-with-risk-management-of-climate-change.json",
+    "identifier": "linking-risk-assessment-and-risk-perception-with-risk-management-of-climate-change",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-07-17T14:45:00",
+            "description": null,
+            "identifier": "99391ad1-643e-4e9b-834a-743ff4c58a70",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Linking Risk Assessment and Risk Perception with Risk Management of Climate Change",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 4,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Linking Risk Assessment and Risk Perception with Risk Management of Climate Change",
+    "uri": "/report/nca3/chapter/decision-support/figure/linking-risk-assessment-and-risk-perception-with-risk-management-of-climate-change",
+    "url": "http://nca2014.globalchange.gov/report/response-strategies/decision-support/graphics/linking-risk-assessment-and-risk-perception",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

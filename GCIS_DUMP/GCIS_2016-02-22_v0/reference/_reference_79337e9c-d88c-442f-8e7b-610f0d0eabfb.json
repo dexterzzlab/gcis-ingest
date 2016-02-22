@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "McCreary, Scott\rJohn Gamman\rBennett Brooks",
+        "DOI": "10.1002/crq.3890180403",
+        "Issue": "4",
+        "Journal": "Mediation Quarterly ",
+        "Pages": "329-348",
+        "Title": "Refining and testing joint factfinding for environmental dispute resolution: Ten years of success",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1002/crq.3890180403/pdf",
+        "Volume": "18",
+        "Year": "2001",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "1933",
+        "_uuid": "79337e9c-d88c-442f-8e7b-610f0d0eabfb",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/crq.3890180403",
+    "href": "http://data.globalchange.gov/reference/79337e9c-d88c-442f-8e7b-610f0d0eabfb.json",
+    "identifier": "79337e9c-d88c-442f-8e7b-610f0d0eabfb",
+    "uri": "/reference/79337e9c-d88c-442f-8e7b-610f0d0eabfb"
+}

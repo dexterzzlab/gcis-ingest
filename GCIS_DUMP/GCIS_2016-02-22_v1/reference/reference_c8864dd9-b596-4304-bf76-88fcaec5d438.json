@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2013",
+        "Author": "PWD,",
+        "Publisher": "Philadelphia Water Department",
+        "Title": "Green City, Clean Waters",
+        "URL": "http://www.phillywatersheds.org/ltcpu/",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\",\"RG 1 Northeast\"]",
+        "_record_number": "4434",
+        "_uuid": "c8864dd9-b596-4304-bf76-88fcaec5d438",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/e146405a-324f-4419-b567-0779a19fd042",
+    "href": "http://data.globalchange.gov/reference/c8864dd9-b596-4304-bf76-88fcaec5d438.json",
+    "identifier": "c8864dd9-b596-4304-bf76-88fcaec5d438",
+    "uri": "/reference/c8864dd9-b596-4304-bf76-88fcaec5d438"
+}

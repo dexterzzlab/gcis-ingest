@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/national-agricultural-statistics-service.json",
+    "identifier": "national-agricultural-statistics-service",
+    "name": "National Agricultural Statistics Service",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/national-agricultural-statistics-service",
+    "url": "http://www.nass.usda.gov"
+}

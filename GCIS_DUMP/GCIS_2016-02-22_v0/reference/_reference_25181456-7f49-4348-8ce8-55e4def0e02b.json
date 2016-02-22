@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Access Date": "2010/1/1/",
+        "Author": "Haines, Andy\rMcMichael, Anthony J.\rSmith, Kirk R.\rRoberts, Ian\rWoodcock, James\rMarkandya, Anil\rArmstrong, Ben G.\rCampbell-Lendrum, Diarmid\rDangour, Alan D.\rDavies, Michael\rBruce, Nigel\rTonne, Cathryn\rBarrett, Mark\rWilkinson, Paul",
+        "DOI": "10.1016/s0140-6736(09)61759-1",
+        "ISSN": "0140-6736",
+        "Issue": "9707",
+        "Journal": "The Lancet",
+        "Pages": "2104-2114",
+        "Title": "Public health benefits of strategies to reduce greenhouse-gas emissions: Overview and implications for policy makers",
+        "URL": "http://www.sciencedirect.com/science/article/pii/S0140673609617591",
+        "Volume": "374",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "3572",
+        "_uuid": "25181456-7f49-4348-8ce8-55e4def0e02b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/s0140-6736(09)61759-1",
+    "href": "http://data.globalchange.gov/reference/25181456-7f49-4348-8ce8-55e4def0e02b.json",
+    "identifier": "25181456-7f49-4348-8ce8-55e4def0e02b",
+    "uri": "/reference/25181456-7f49-4348-8ce8-55e4def0e02b"
+}

@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Geophysical Fluid Dynamics Laboratory High-Resolution Ocean Simulation. High-resolution ocean simulation running inside the coupled GFDL CM 2.6 model. Higher resolution in the ocean allows for the simulation of mesoscale and smaller eddies and structure in the ocean circulation.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "71/06/98fb15670b1b673dd4c213d15c19/OCP_2012_Page_24_Image_0002.jpg",
+            "href": "http://data.globalchange.gov/assets/71/06/98fb15670b1b673dd4c213d15c19/OCP_2012_Page_24_Image_0002.jpg",
+            "identifier": "d716e866-cc98-44d8-8247-f62c3e548b39",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "f95562cebba37bcbeccc1b3e95883ef8147efc0d",
+            "size": 67705,
+            "thumbnail": "71/06/98fb15670b1b673dd4c213d15c19/.thumb-d716e866-cc98-44d8-8247-f62c3e548b39.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/71/06/98fb15670b1b673dd4c213d15c19/.thumb-d716e866-cc98-44d8-8247-f62c3e548b39.png",
+            "uri": "/file/d716e866-cc98-44d8-8247-f62c3e548b39",
+            "url": "/assets/71/06/98fb15670b1b673dd4c213d15c19/OCP_2012_Page_24_Image_0002.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2012/figure/gfdl-high-res-ocean-simulation.json",
+    "identifier": "gfdl-high-res-ocean-simulation",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2012",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "GFDL High-Res Ocean Simulation",
+    "uri": "/report/usgcrp-ocpfy2012/figure/gfdl-high-res-ocean-simulation",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

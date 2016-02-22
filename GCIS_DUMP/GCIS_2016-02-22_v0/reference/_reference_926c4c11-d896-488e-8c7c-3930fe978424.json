@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Gillett, N.P.\rArora, V.K.\rFlato, G.M.\rScinocca, J.F.\rvon Salzen, K.",
+        "DOI": "10.1029/2011GL050226",
+        "ISSN": "1944-8007",
+        "Issue": "L01704",
+        "Journal": "Geophysical Research Letters",
+        "Pages": "5",
+        "Title": "Improved constraints on 21st-century warming derived using 160 years of temperature observations",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2011GL050226/pdf",
+        "Volume": "39",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "934",
+        "_uuid": "926c4c11-d896-488e-8c7c-3930fe978424",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2011GL050226",
+    "href": "http://data.globalchange.gov/reference/926c4c11-d896-488e-8c7c-3930fe978424.json",
+    "identifier": "926c4c11-d896-488e-8c7c-3930fe978424",
+    "uri": "/reference/926c4c11-d896-488e-8c7c-3930fe978424"
+}

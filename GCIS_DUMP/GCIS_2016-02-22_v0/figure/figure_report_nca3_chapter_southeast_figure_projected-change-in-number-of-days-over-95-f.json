@@ -1,0 +1,130 @@
+{
+    "attributes": null,
+    "caption": "Projected average number of days per year with maximum temperatures above 95\u00b0F for 2041-2070 compared to 1971-2000, assuming emissions continue to grow (A2 scenario). Patterns are similar, but less pronounced, assuming a reduced emissions scenario (B1). (Figure source: NOAA NCDC / CICS-NC).",
+    "chapter": {
+        "doi": "10.7930/J0NP22CB",
+        "identifier": "southeast",
+        "number": 17,
+        "report_identifier": "nca3",
+        "sort_key": 170,
+        "title": "Southeast and the Caribbean",
+        "url": "http://nca2014.globalchange.gov/report/regions/southeast"
+    },
+    "chapter_identifier": "southeast",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2522.json",
+            "id": 2522,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Kenneth",
+                "id": 1025,
+                "last_name": "Kunkel",
+                "middle_name": null,
+                "orcid": "0000-0001-6667-7047",
+                "url": "http://cicsnc.org/people/kenneth-kunkel/"
+            },
+            "person_id": 1025,
+            "person_uri": "/person/1025",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2522"
+        }
+    ],
+    "create_dt": "2013-09-19T14:32:50",
+    "files": [
+        {
+            "file": "d9/0b/3c089e2c3119581892a848a170b7/SE_days_over_95_V5.png",
+            "href": "http://data.globalchange.gov/assets/d9/0b/3c089e2c3119581892a848a170b7/SE_days_over_95_V5.png",
+            "identifier": "65d408b0-5895-494a-af10-c122326f5814",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "93c5e37a6c02d8984bc09a28e14df33879d93e65",
+            "size": 110443,
+            "thumbnail": "d9/0b/3c089e2c3119581892a848a170b7/.thumb-65d408b0-5895-494a-af10-c122326f5814.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/d9/0b/3c089e2c3119581892a848a170b7/.thumb-65d408b0-5895-494a-af10-c122326f5814.png",
+            "uri": "/file/65d408b0-5895-494a-af10-c122326f5814",
+            "url": "/assets/d9/0b/3c089e2c3119581892a848a170b7/SE_days_over_95_V5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/southeast/figure/projected-change-in-number-of-days-over-95-f.json",
+    "identifier": "projected-change-in-number-of-days-over-95-f",
+    "images": [
+        {
+            "attributes": "Southeast, temperature, projections, emissions scenarios",
+            "create_dt": "2013-07-31T09:27:00",
+            "description": null,
+            "identifier": "4e5227d9-c835-4cca-8abf-54a5d0487bb3",
+            "lat_max": "39.44",
+            "lat_min": "25.19",
+            "lon_max": "-75.44",
+            "lon_min": "-94.56",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2070-12-31T23:59:59",
+            "time_start": "1971-01-01T00:00:00",
+            "title": "Projected Change in Number of Days Over 95\u00b0F: Projected Difference from Historical Climate",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": "Southeast, temperature, projections, emissions scenarios",
+            "create_dt": "2013-07-31T09:27:00",
+            "description": null,
+            "identifier": "b232a192-5865-4984-b562-19ca4c1465af",
+            "lat_max": "39.44",
+            "lat_min": "25.19",
+            "lon_max": "-75.44",
+            "lon_min": "-94.56",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2070-12-31T23:59:59",
+            "time_start": "2041-01-01T00:00:00",
+            "title": "Projected Change in Number of Days Over 95\u00b0F: Projection (2041-2070)",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": "Southeast, temperature, observed",
+            "create_dt": "2013-07-31T09:27:00",
+            "description": null,
+            "identifier": "11cf042a-6664-412f-9ca5-ce749575d3d1",
+            "lat_max": "39.44",
+            "lat_min": "25.19",
+            "lon_max": "-75.44",
+            "lon_min": "-94.56",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2000-12-31T23:59:59",
+            "time_start": "1971-01-01T00:00:00",
+            "title": "Projected Change in Number of Days Over 95\u00b0F: Historical Climate (1971-2000)",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 4,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Projected Change in Number of Days Over 95\u00b0F",
+    "uri": "/report/nca3/chapter/southeast/figure/projected-change-in-number-of-days-over-95-f",
+    "url": "http://nca2014.globalchange.gov/report/regions/southeast/graphics/projected-change-number-days-over-95%C2%B0f",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

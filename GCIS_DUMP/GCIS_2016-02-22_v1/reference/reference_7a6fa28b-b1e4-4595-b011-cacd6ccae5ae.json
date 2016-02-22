@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "USDA,",
+        "Institution": "U.S. Department of Agriculture, National Agricultural Statistics Service",
+        "Pages": "15",
+        "Title": "Milk Production, Disposition, and Income, 2011 Summary",
+        "URL": "http://usda01.library.cornell.edu/usda/nass/MilkProdDi//2010s/2012/MilkProdDi-04-25-2012.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "3229",
+        "_uuid": "7a6fa28b-b1e4-4595-b011-cacd6ccae5ae",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usda-milkproduction2011",
+    "href": "http://data.globalchange.gov/reference/7a6fa28b-b1e4-4595-b011-cacd6ccae5ae.json",
+    "identifier": "7a6fa28b-b1e4-4595-b011-cacd6ccae5ae",
+    "uri": "/reference/7a6fa28b-b1e4-4595-b011-cacd6ccae5ae"
+}

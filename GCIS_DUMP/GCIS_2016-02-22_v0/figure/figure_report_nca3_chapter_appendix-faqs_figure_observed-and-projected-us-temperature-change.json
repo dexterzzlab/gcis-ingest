@@ -1,0 +1,98 @@
+{
+    "attributes": null,
+    "caption": "Projected average annual temperature changes over the contiguous United States for multiple future scenarios relative to the 1901- 1960 average temperature. The dashed lines are results from the previous generation of climate models and scenarios, while solid lines show the most recent generation of climate model simulations and scenarios. Changes in temperature over the U.S. are expected to be higher than the change in global average temperatures (Figure 24). Differences in these projections are principally a result of differences in the scenarios. (Data from CMIP3, CMIP5, and NOAA NCDC).",
+    "chapter": {
+        "doi": "10.7930/J0G15XS3",
+        "identifier": "appendix-faqs",
+        "number": 34,
+        "report_identifier": "nca3",
+        "sort_key": 340,
+        "title": "Appendix 4: Frequently Asked Questions",
+        "url": "http://nca2014.globalchange.gov/report/appendices/faqs"
+    },
+    "chapter_identifier": "appendix-faqs",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2522.json",
+            "id": 2522,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Kenneth",
+                "id": 1025,
+                "last_name": "Kunkel",
+                "middle_name": null,
+                "orcid": "0000-0001-6667-7047",
+                "url": "http://cicsnc.org/people/kenneth-kunkel/"
+            },
+            "person_id": 1025,
+            "person_uri": "/person/1025",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2522"
+        }
+    ],
+    "create_dt": "2013-11-19T10:27:45",
+    "files": [
+        {
+            "file": "05/61/ac0a038ab186ba84af93d098d999/CAQ_average_annual_temp_conus_V5.png",
+            "href": "http://data.globalchange.gov/assets/05/61/ac0a038ab186ba84af93d098d999/CAQ_average_annual_temp_conus_V5.png",
+            "identifier": "b737ac3c-4a9c-4ec8-857c-d41ef013db46",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "df97a8375ab24a8c33d5cf3e13a0d80522d5248f",
+            "size": 180142,
+            "thumbnail": "05/61/ac0a038ab186ba84af93d098d999/.thumb-b737ac3c-4a9c-4ec8-857c-d41ef013db46.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/05/61/ac0a038ab186ba84af93d098d999/.thumb-b737ac3c-4a9c-4ec8-857c-d41ef013db46.png",
+            "uri": "/file/b737ac3c-4a9c-4ec8-857c-d41ef013db46",
+            "url": "/assets/05/61/ac0a038ab186ba84af93d098d999/CAQ_average_annual_temp_conus_V5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-faqs/figure/observed-and-projected-us-temperature-change.json",
+    "identifier": "observed-and-projected-us-temperature-change",
+    "images": [
+        {
+            "attributes": "Temperature, observed, projections, CMIP3, CMIP5",
+            "create_dt": "2013-11-13T10:27:45",
+            "description": null,
+            "identifier": "2d6fb90b-7d3d-4fce-8f63-36459f80d366",
+            "lat_max": "49",
+            "lat_min": "24",
+            "lon_max": "-65",
+            "lon_min": "-129",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2099-12-31T23:59:59",
+            "time_start": "1901-01-01T00:00:00",
+            "title": "Observed and Projected U.S. Temperature Change",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [
+        "/report/nca3/chapter/appendix-climate-science-supplement/figure/projected-annually-averaged-temperature-change"
+    ],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 19,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Observed and Projected U.S. Temperature Change",
+    "uri": "/report/nca3/chapter/appendix-faqs/figure/observed-and-projected-us-temperature-change",
+    "url": "http://nca2014.globalchange.gov/report/appendices/faqs/graphics/observed-and-projected-us-temperature-change",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

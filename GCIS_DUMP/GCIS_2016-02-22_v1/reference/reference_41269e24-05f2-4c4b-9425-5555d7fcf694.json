@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Smith, M.D.",
+        "DOI": "10.1111/j.1365-2745.2011.01798.x",
+        "ISSN": "1365-2745",
+        "Issue": "3",
+        "Journal": "Journal of Ecology",
+        "Pages": "656-663",
+        "Title": "An ecological perspective on extreme climatic events: A synthetic definition and framework to guide future research",
+        "Volume": "99",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "2879",
+        "_uuid": "41269e24-05f2-4c4b-9425-5555d7fcf694",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1365-2745.2011.01798.x",
+    "href": "http://data.globalchange.gov/reference/41269e24-05f2-4c4b-9425-5555d7fcf694.json",
+    "identifier": "41269e24-05f2-4c4b-9425-5555d7fcf694",
+    "uri": "/reference/41269e24-05f2-4c4b-9425-5555d7fcf694"
+}

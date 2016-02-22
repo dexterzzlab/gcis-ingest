@@ -1,0 +1,39 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "description": "This is a placeholder for version 11 of report/nca3/figure/observed-us-temperature-change ",
+    "files": [
+        {
+            "file": "d3/c9/f2c53d450f6669413cfb13a0278d/CS_Net_Change_in_Ann_Temp_12910_v11.png",
+            "href": "http://data.globalchange.gov/assets/d3/c9/f2c53d450f6669413cfb13a0278d/CS_Net_Change_in_Ann_Temp_12910_v11.png",
+            "identifier": "4a84012a-23ea-4198-9f78-74ff6b2ced91",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "a082176039e4c097724fe8a4f0f555e6bdc1f169",
+            "size": 455606,
+            "thumbnail": "d3/c9/f2c53d450f6669413cfb13a0278d/.thumb-4a84012a-23ea-4198-9f78-74ff6b2ced91.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/d3/c9/f2c53d450f6669413cfb13a0278d/.thumb-4a84012a-23ea-4198-9f78-74ff6b2ced91.png",
+            "uri": "/file/4a84012a-23ea-4198-9f78-74ff6b2ced91",
+            "url": "/assets/d3/c9/f2c53d450f6669413cfb13a0278d/CS_Net_Change_in_Ann_Temp_12910_v11.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/e14eb227-d924-44d7-9f26-0a71e1502bcd.json",
+    "identifier": "e14eb227-d924-44d7-9f26-0a71e1502bcd",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Observed U.S. Temperature Change",
+    "uri": "/image/e14eb227-d924-44d7-9f26-0a71e1502bcd",
+    "url": null,
+    "usage_limits": null
+}

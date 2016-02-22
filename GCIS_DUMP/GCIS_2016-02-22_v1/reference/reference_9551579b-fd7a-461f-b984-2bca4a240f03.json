@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Biological invasions of marine habitats have been common, and many patterns emerge from the existing literature. In North America, we identify 298 nonindigenous species (NIS) of invertebrates and algae that are established in marine and estuarine waters, generating many \u201capparent patterns\u201d of invasion: (a) The rate of reported invasions has increased exponentially over the past 200 years; (b) Most NIS are crustaceans and molluscs, while NIS in taxonomic groups dominated by small organisms are rare; (c) Most invasions have resulted from shipping; (d) More NIS are present along the Pacific coast than the Atlantic and Gulf coasts; (e) Native and source regions of NIS differ among coasts, corresponding to trade patterns. The validity of these apparent patterns remains to be tested, because strong bias exists in the data. Overall, the emergent patterns reflect interactive effects of propagule supply, invasion resistance, and sampling bias. Understanding the relative contribution of each component remains a major challenge for invasion ecology and requires standardized, quantitative measures in space and time that we now lack.",
+        "Author": "Ruiz, Gregory M.\rFofonoff, Paul W.\rCarlton, James T.\rWonham, Marjorie J.\rHines, Anson H.",
+        "DOI": "10.1146/annurev.ecolsys.31.1.481",
+        "ISSN": "0066-4162",
+        "Journal": "Annual Review of Ecology and Systematics",
+        "Keywords": "invasive species",
+        "Pages": "481-531",
+        "Title": "Invasion of coastal marine communities in North America: Apparent patterns, processes, and biases",
+        "Volume": "31",
+        "Year": "2000",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "2707",
+        "_uuid": "9551579b-fd7a-461f-b984-2bca4a240f03",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1146/annurev.ecolsys.31.1.481",
+    "href": "http://data.globalchange.gov/reference/9551579b-fd7a-461f-b984-2bca4a240f03.json",
+    "identifier": "9551579b-fd7a-461f-b984-2bca4a240f03",
+    "uri": "/reference/9551579b-fd7a-461f-b984-2bca4a240f03"
+}

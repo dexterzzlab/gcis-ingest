@@ -1,0 +1,116 @@
+{
+    "attributes": null,
+    "caption": "Pteropods, or \u201csea butterflies,\u201d are sea creatures about the size of a small pea. Pteropods are eaten by organisms ranging in size from tiny krill to whales, and are an important source of food for North Pacific juvenile salmon. The photos above show what happens to a pteropod\u2019s shell when it encounters seawater that is too acidic. The left panel shows a shell collected from a live pteropod from a region in the Southern Ocean where acidity is not too high. The shell on the right is from a pteropod collected in a region with higher acidity (Photo credits: (left) Bednar\u0161ek et al. 2012;16 (right) Nina Bednar\u0161ek).",
+    "chapter": {
+        "doi": "10.7930/J0G15XS3",
+        "identifier": "appendix-faqs",
+        "number": 34,
+        "report_identifier": "nca3",
+        "sort_key": 340,
+        "title": "Appendix 4: Frequently Asked Questions",
+        "url": "http://nca2014.globalchange.gov/report/appendices/faqs"
+    },
+    "chapter_identifier": "appendix-faqs",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2526.json",
+            "id": 2526,
+            "organization": {
+                "country_code": "US",
+                "identifier": "pacific-marine-environmental-laboratory",
+                "name": "National Oceanic and Atmospheric Administration Pacific Marine Environmental Laboratory",
+                "organization_type_identifier": "federal",
+                "url": "http://www.pmel.noaa.gov"
+            },
+            "organization_uri": "/organization/pacific-marine-environmental-laboratory",
+            "person": {
+                "first_name": "Nina",
+                "id": 1458,
+                "last_name": "Bednarsek",
+                "middle_name": null,
+                "orcid": null,
+                "url": "http://www.pmel.noaa.gov/co2/file/Nina+Bednarsek"
+            },
+            "person_id": 1458,
+            "person_uri": "/person/1458",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2526"
+        }
+    ],
+    "create_dt": "2013-07-12T10:10:22",
+    "files": [
+        {
+            "file": "49/58/44e0304d75f170d86093d648ed04/CAQ_pteropod_series_V5.png",
+            "href": "http://data.globalchange.gov/assets/49/58/44e0304d75f170d86093d648ed04/CAQ_pteropod_series_V5.png",
+            "identifier": "c95ad16a-127c-4277-a27a-bcfc8ce2dd18",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "1dea24067d7ac73903dd3f1d64a4b843d6fbf965",
+            "size": 634995,
+            "thumbnail": "49/58/44e0304d75f170d86093d648ed04/.thumb-c95ad16a-127c-4277-a27a-bcfc8ce2dd18.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/49/58/44e0304d75f170d86093d648ed04/.thumb-c95ad16a-127c-4277-a27a-bcfc8ce2dd18.png",
+            "uri": "/file/c95ad16a-127c-4277-a27a-bcfc8ce2dd18",
+            "url": "/assets/49/58/44e0304d75f170d86093d648ed04/CAQ_pteropod_series_V5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-faqs/figure/ocean-acidification-and-the-food-web.json",
+    "identifier": "ocean-acidification-and-the-food-web",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-07-12T10:10:22",
+            "description": null,
+            "identifier": "eb9bd7dc-3e3a-4001-9a64-f2a0763b3f64",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Ocean Acidification and the Food Web - Right",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2013-07-12T10:10:22",
+            "description": null,
+            "identifier": "8c679de0-4a6c-4fc9-bbd1-59251ffe3d7f",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Ocean Acidification and the Food Web - Left",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [
+        "/report/nca3/chapter/executive-summary/figure/overview-shells-dissolve-in-acidified-ocean-water",
+        "/report/nca3/chapter/our-changing-climate/figure/shells-dissolve-in-acidified-ocean-water"
+    ],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 21,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Ocean Acidification and the Food Web",
+    "uri": "/report/nca3/chapter/appendix-faqs/figure/ocean-acidification-and-the-food-web",
+    "url": "http://nca2014.globalchange.gov/report/appendices/faqs/graphics/ocean-acidification-and-food-web",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

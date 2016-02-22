@@ -1,0 +1,89 @@
+{
+    "attributes": null,
+    "caption": "Forests are the largest component of the U.S. carbon sink, but growth rates of forests vary widely across the country.Well-watered forests of the Pacific Coast and Southeast absorb considerably more than the arid southwestern forests or the colder northeastern forests. Climate change and disturbance rates, combined with current societal trends regarding land use and forest management, are projected to reduce forest CO<sub>2</sub> uptake in the coming decades.<tbib>78f2cbd8-d8f2-4d99-abbd-017bad4d52f1</tbib> Figure shows average forest growth as measured by net primary production from 2000 to 2006. (Figure source: adapted from Running et al. 2004<tbib>3685b300-05a0-44e2-bf75-82fd486896ff</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0Z60KZC",
+        "identifier": "forests",
+        "number": 7,
+        "report_identifier": "nca3",
+        "sort_key": 70,
+        "title": "Forests",
+        "url": "http://nca2014.globalchange.gov/report/sectors/forests"
+    },
+    "chapter_identifier": "forests",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-01-07T11:00:00",
+    "files": [
+        {
+            "file": "4d/b6/c2da47bd56f07bc28933f3e6ec70/Forests_forest_production_V3.png",
+            "href": "http://data.globalchange.gov/assets/4d/b6/c2da47bd56f07bc28933f3e6ec70/Forests_forest_production_V3.png",
+            "identifier": "a519408f-6073-470f-bbcd-b4f418a63999",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "f2bc7724a85df008536ae251ccf40fd1efbb7831",
+            "size": 876809,
+            "thumbnail": "4d/b6/c2da47bd56f07bc28933f3e6ec70/.thumb-a519408f-6073-470f-bbcd-b4f418a63999.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/4d/b6/c2da47bd56f07bc28933f3e6ec70/.thumb-a519408f-6073-470f-bbcd-b4f418a63999.png",
+            "uri": "/file/a519408f-6073-470f-bbcd-b4f418a63999",
+            "url": "/assets/4d/b6/c2da47bd56f07bc28933f3e6ec70/Forests_forest_production_V3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/forests/figure/forest-growth-provides-an-important-carbon-sink.json",
+    "identifier": "forest-growth-provides-an-important-carbon-sink",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2014-01-07T11:00:00",
+            "description": null,
+            "identifier": "f9e5e348-88b3-422b-8429-d559f4e17bfc",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Forest Growth Provides an Important Carbon Sink",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 5,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "A Continuous Satellite-Derived Measure of Global Terrestrial Primary Production",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1641/0006-3568(2004)054%5B0547:ACSMOG%5D2.0.CO;2"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/3685b300-05a0-44e2-bf75-82fd486896ff.json",
+            "uri": "/reference/3685b300-05a0-44e2-bf75-82fd486896ff"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/78f2cbd8-d8f2-4d99-abbd-017bad4d52f1.json",
+            "uri": "/reference/78f2cbd8-d8f2-4d99-abbd-017bad4d52f1"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "adapted from Running et al. 2004<tbib>3685b300-05a0-44e2-bf75-82fd486896ff</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Forest Growth Provides an Important Carbon Sink",
+    "uri": "/report/nca3/chapter/forests/figure/forest-growth-provides-an-important-carbon-sink",
+    "url": "http://nca2014.globalchange.gov/highlights/report-findings/ecosystems-and-biodiversity/graphics/forest-growth-provides-important",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

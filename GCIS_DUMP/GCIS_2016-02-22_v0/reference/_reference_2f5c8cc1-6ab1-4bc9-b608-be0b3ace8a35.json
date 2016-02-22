@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "5",
+        "Issue Date": "August 11, 2012",
+        "Newspaper": "The New York Times",
+        "Place Published": "New York, New York",
+        "Reporter": "Schwalm, C.R.\rWilliams, C.A.\rSchaefer, K.",
+        "Title": "Hundred-year forecast: Drought",
+        "URL": "http://www.nytimes.com/2012/08/12/opinion/sunday/extreme-weather-and-drought-are-here-to-stay.html?_r=0",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "2791",
+        "_uuid": "2f5c8cc1-6ab1-4bc9-b608-be0b3ace8a35",
+        "reftype": "Newspaper Article"
+    },
+    "child_publication": "/generic/703d60a0-1b28-402d-bdea-e7be43d37942",
+    "href": "http://data.globalchange.gov/reference/2f5c8cc1-6ab1-4bc9-b608-be0b3ace8a35.json",
+    "identifier": "2f5c8cc1-6ab1-4bc9-b608-be0b3ace8a35",
+    "uri": "/reference/2f5c8cc1-6ab1-4bc9-b608-be0b3ace8a35"
+}

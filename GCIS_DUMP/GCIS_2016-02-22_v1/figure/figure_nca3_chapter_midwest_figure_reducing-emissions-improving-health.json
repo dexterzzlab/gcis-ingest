@@ -1,0 +1,102 @@
+{
+    "attributes": null,
+    "caption": "Annual reduction in the number of premature deaths\u00a0and annual change in the number of cases with acute respiratory symptoms\u00a0due to reductions in particulate matter and ozone caused by reducing automobile exhaust. The maps project health benefits if automobile trips shorter than five miles (round-trip) were eliminated for the 11 largest metropolitan areas in the Midwest. Making 50% of these trips by bicycle just during four summer months would save 1,295 lives and yield savings of more than $8 billion per year from improved air quality, avoided mortality, and reduced health care costs for the upper Midwest alone. (Figure source: Grabow et al. 2012; reproduced with permission from Environmental Health Perspectives<tbib>4feed3ba-a773-445b-a97d-383477321352</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0J1012N",
+        "identifier": "midwest",
+        "number": 18,
+        "report_identifier": "nca3",
+        "sort_key": 180,
+        "title": "Midwest",
+        "url": "http://nca2014.globalchange.gov/report/regions/midwest"
+    },
+    "chapter_identifier": "midwest",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-09-10T08:56:00",
+    "files": [
+        {
+            "file": "6f/36/2f444bd0fac4d67f0b589d4d9314/MW_health_effects_V4.png",
+            "href": "http://data.globalchange.gov/assets/6f/36/2f444bd0fac4d67f0b589d4d9314/MW_health_effects_V4.png",
+            "identifier": "2d0c290f-3d91-4f39-9187-1163602b488b",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "2141eb0b6a1ba384894371ff5f240a86582af028",
+            "size": 123573,
+            "thumbnail": "6f/36/2f444bd0fac4d67f0b589d4d9314/.thumb-2d0c290f-3d91-4f39-9187-1163602b488b.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/6f/36/2f444bd0fac4d67f0b589d4d9314/.thumb-2d0c290f-3d91-4f39-9187-1163602b488b.png",
+            "uri": "/file/2d0c290f-3d91-4f39-9187-1163602b488b",
+            "url": "/assets/6f/36/2f444bd0fac4d67f0b589d4d9314/MW_health_effects_V4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/midwest/figure/reducing-emissions-improving-health.json",
+    "identifier": "reducing-emissions-improving-health",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-09-10T08:56:00",
+            "description": null,
+            "identifier": "661a7ddd-7daf-4871-9957-d5bbac384f33",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Reducing Emissions, Improving Health - Number of Cases",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2013-09-10T08:56:00",
+            "description": null,
+            "identifier": "74d67912-27b5-4af5-8a05-0e7558746175",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Reducing Emissions, Improving Health - Number of Deaths",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 5,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Air Quality and Exercise-Related Health Benefits from Reduced Car Travel in the Midwestern United States",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1289/ehp.1103440"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/4feed3ba-a773-445b-a97d-383477321352.json",
+            "uri": "/reference/4feed3ba-a773-445b-a97d-383477321352"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "Grabow et al. 2012; reproduced with permission from Environmental Health Perspectives<tbib>4feed3ba-a773-445b-a97d-383477321352</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Reducing Emissions, Improving Health",
+    "uri": "/report/nca3/chapter/midwest/figure/reducing-emissions-improving-health",
+    "url": "http://nca2014.globalchange.gov/report/regions/midwest/graphics/reducing-emissions-improving-health",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

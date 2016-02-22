@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "The USDA Forest Service\u2019s Carbon On-Line Estimation graphical analysis tool provides an interactive, on-line database query capability. A beta version of the program estimates carbon stocks based on the USDA Forest Service Eastwide Forest Inventory database. The program allows the user to designate an area of interest, and currently provides growing stock volume, areas, and carbon stocks for States east of the Great Plains in tabular, graphical, or map format. Credit: USDA Forest Service.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "51/b1/98a59a6cfc62474ea7f513573f3b/our_changing_planet_2004-2005_14_20090708_1746804494.jpg",
+            "href": "http://data.globalchange.gov/assets/51/b1/98a59a6cfc62474ea7f513573f3b/our_changing_planet_2004-2005_14_20090708_1746804494.jpg",
+            "identifier": "8ce1bbde-8c04-4481-bd5a-c40ac0c0286c",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "0e571feb3765b3b93bcf609ca310020620c24aef",
+            "size": 56456,
+            "thumbnail": "51/b1/98a59a6cfc62474ea7f513573f3b/.thumb-8ce1bbde-8c04-4481-bd5a-c40ac0c0286c.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/51/b1/98a59a6cfc62474ea7f513573f3b/.thumb-8ce1bbde-8c04-4481-bd5a-c40ac0c0286c.png",
+            "uri": "/file/8ce1bbde-8c04-4481-bd5a-c40ac0c0286c",
+            "url": "/assets/51/b1/98a59a6cfc62474ea7f513573f3b/our_changing_planet_2004-2005_14_20090708_1746804494.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2004and2005/figure/carbon-graphical-analysis-tool.json",
+    "identifier": "carbon-graphical-analysis-tool",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2004and2005",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Carbon Graphical Analysis Tool ",
+    "uri": "/report/ccsp-ocpfy2004and2005/figure/carbon-graphical-analysis-tool",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

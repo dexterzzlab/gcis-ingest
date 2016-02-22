@@ -1,0 +1,95 @@
+{
+    "attributes": "Precipitation, projections, seasonal, CMIP5, RCP4.5",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/3258.json",
+            "id": 3258,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Andrew",
+                "id": 1948,
+                "last_name": "Buddenberg",
+                "middle_name": null,
+                "orcid": "0000-0003-2047-6527",
+                "url": null
+            },
+            "person_id": 1948,
+            "person_uri": "/person/1948",
+            "role_type_identifier": "analyst",
+            "uri": "/contributor/3258"
+        }
+    ],
+    "create_dt": "2013-10-23T13:17:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Projected changes in summertime precipitation toward the end of this century (2071-2099) relative to the average for 1970-1999. The older generation of models (CMIP3) and emissions scenarios are on the left side; the new models (CMIP5) and scenarios are on the right side. Hatched areas indicate that the projected changes are significant and consistent among models. White areas indicate confidence that the changes are not projected to be larger than could be expected from natural variability. In most of the contiguous U.S., decreases in summer precipitation are projected, but not with as much confidence as the winter increases. When interpreting maps of temperature and precipitation projections, readers are advised to pay less attention to small details and greater attention to the large-scale patterns of change. (Figure source: NOAA NCDC / CICS-NC).",
+            "chapter_identifier": "appendix-climate-science-supplement",
+            "create_dt": "2013-10-23T13:17:09",
+            "identifier": "projected-summertime-precipitation-changes",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 22,
+            "report_identifier": "nca3",
+            "source_citation": "NOAA NCDC / CICS-NC",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Projected Summertime Precipitation Changes",
+            "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/projected-summertime-precipitation-changes",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "8f/c4/e4e5601e94adbcabcf6df9eaf183/rcp45_1.png",
+            "href": "http://data.globalchange.gov/assets/8f/c4/e4e5601e94adbcabcf6df9eaf183/rcp45_1.png",
+            "identifier": "b93edbbf-b82b-4002-8a6e-3502cdbf7363",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "6a35510538324640e71c8c80d408b68426e597e5",
+            "size": 251675,
+            "thumbnail": "8f/c4/e4e5601e94adbcabcf6df9eaf183/.thumb-b93edbbf-b82b-4002-8a6e-3502cdbf7363.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/8f/c4/e4e5601e94adbcabcf6df9eaf183/.thumb-b93edbbf-b82b-4002-8a6e-3502cdbf7363.png",
+            "uri": "/file/b93edbbf-b82b-4002-8a6e-3502cdbf7363",
+            "url": "/assets/8f/c4/e4e5601e94adbcabcf6df9eaf183/rcp45_1.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/1cb52eba-e9f1-4fe5-b3b7-369150c5e19d.json",
+    "identifier": "1cb52eba-e9f1-4fe5-b3b7-369150c5e19d",
+    "lat_max": "82.31",
+    "lat_min": "18.14",
+    "lon_max": "-53.44",
+    "lon_min": "-165.94",
+    "parents": [
+        {
+            "activity_uri": "/activity/1cb52eba-nca3-cmip5-r1-process",
+            "label": "dataset nca3-cmip5-r1",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-cmip5-r1"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2099-12-31T23:59:59",
+    "time_start": "1970-01-01T00:00:00",
+    "title": "Projected Summertime Precipitation Changes: RCP4.5",
+    "uri": "/image/1cb52eba-e9f1-4fe5-b3b7-369150c5e19d",
+    "url": null,
+    "usage_limits": null
+}

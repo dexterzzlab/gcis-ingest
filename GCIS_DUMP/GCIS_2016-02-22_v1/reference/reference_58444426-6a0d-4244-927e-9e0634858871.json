@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "EPA,",
+        "Date": "August 2012",
+        "Institution": "U.S. Environmental Protection Office, Office of Transportation and Air Quality",
+        "Pages": "10",
+        "Place Published": "Washington, D.C.",
+        "Title": "EPA and NHTSA Set Standards to Reduce Greenhouse Gases and Improve Fuel Economy for Model Years 2017-2025 Cars and Light Trucks. EPA-420-F-12-051",
+        "URL": "http://www.epa.gov/otaq/climate/documents/420f12051.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "4230",
+        "_uuid": "58444426-6a0d-4244-927e-9e0634858871",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/epa-f-12-051",
+    "href": "http://data.globalchange.gov/reference/58444426-6a0d-4244-927e-9e0634858871.json",
+    "identifier": "58444426-6a0d-4244-927e-9e0634858871",
+    "uri": "/reference/58444426-6a0d-4244-927e-9e0634858871"
+}

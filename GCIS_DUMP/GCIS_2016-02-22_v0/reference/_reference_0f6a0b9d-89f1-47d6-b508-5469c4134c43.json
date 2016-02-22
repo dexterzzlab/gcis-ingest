@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Cross, M.S.\rMcCarthy, P.D.\rGarfin, G.\rGori, D.\rEnquist, C.A.F.",
+        "DOI": "10.1111/j.1523-1739.2012.01954.x",
+        "Issue": "1",
+        "Journal": "Conservation Biology",
+        "Pages": "4-13",
+        "Title": "Accelerating climate change adaptation for natural resources in southwestern United States",
+        "URL": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3562478/",
+        "Volume": "27",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "30",
+        "_uuid": "0f6a0b9d-89f1-47d6-b508-5469c4134c43",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1523-1739.2012.01954.x",
+    "href": "http://data.globalchange.gov/reference/0f6a0b9d-89f1-47d6-b508-5469c4134c43.json",
+    "identifier": "0f6a0b9d-89f1-47d6-b508-5469c4134c43",
+    "uri": "/reference/0f6a0b9d-89f1-47d6-b508-5469c4134c43"
+}

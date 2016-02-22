@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Maurer, Edwin P",
+        "DOI": "10.1007/s10584-006-9180-9",
+        "Journal": "Climatic Change",
+        "Pages": "309-325",
+        "Title": "Uncertainty in hydrologic impacts of climate change in the Sierra Nevada, California, under two emissions scenarios",
+        "Volume": "82",
+        "Year": "2007",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "4644",
+        "_uuid": "24ab0bdc-bfe9-4b99-92ec-12ccd68e2647",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-006-9180-9",
+    "href": "http://data.globalchange.gov/reference/24ab0bdc-bfe9-4b99-92ec-12ccd68e2647.json",
+    "identifier": "24ab0bdc-bfe9-4b99-92ec-12ccd68e2647",
+    "uri": "/reference/24ab0bdc-bfe9-4b99-92ec-12ccd68e2647"
+}

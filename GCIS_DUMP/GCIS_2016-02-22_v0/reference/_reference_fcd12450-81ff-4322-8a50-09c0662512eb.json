@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Villarini, Gabriele\rSerinaldi, Francesco\rSmith, James A.\rKrajewski, Witold F.",
+        "DOI": "10.1029/2008wr007645",
+        "ISSN": "1944-7973",
+        "Issue": "8",
+        "Journal": "Water Resources Research",
+        "Keywords": "stationarity\rfloods\rtrend\rchange point\rlong-term persistence\rGAMLSS\r1821 Floods\r1817 Extreme events\r1803 Anthropogenic effects\r1872 Time series analysis",
+        "Pages": "W08417",
+        "Title": "On the stationarity of annual flood peaks in the continental United States during the 20th century",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2008WR007645/pdf",
+        "Volume": "45",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"RF 2\",\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "3703",
+        "_uuid": "fcd12450-81ff-4322-8a50-09c0662512eb",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2008wr007645",
+    "href": "http://data.globalchange.gov/reference/fcd12450-81ff-4322-8a50-09c0662512eb.json",
+    "identifier": "fcd12450-81ff-4322-8a50-09c0662512eb",
+    "uri": "/reference/fcd12450-81ff-4322-8a50-09c0662512eb"
+}

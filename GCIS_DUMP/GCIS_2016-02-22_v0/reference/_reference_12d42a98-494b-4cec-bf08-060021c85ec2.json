@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "CCSP,",
+        "Editor": "Karl, Thomas R.\rMeehl, Gerald A.\rMiller, Christopher D.\rHassol, Sussan J.\rWaple, Anne M.\rMurray, William L.",
+        "Number of Pages": "164",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "Department of Commerce, NOAA's National Climatic Data Center",
+        "Reviewer": "12d42a98-494b-4cec-bf08-060021c85ec2",
+        "Title": "Weather and Climate Extremes in a Changing Climate - Regions of Focus - North America, Hawaii, Caribbean, and U.S. Pacific Islands. A Report by the U.S. Climate Change Science Program and the Subcommittee on Global Change Research",
+        "URL": "http://downloads.globalchange.gov/sap/sap3-3/sap3-3-final-all.pdf",
+        "Volume": "3.3",
+        "Year": "2008",
+        "_chapter": "[\"RG 7 Alaska\",\"Ch. 2: Our Changing Climate FINAL\",\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "3170",
+        "_uuid": "12d42a98-494b-4cec-bf08-060021c85ec2",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/ccsp-sap-3_3-2008",
+    "href": "http://data.globalchange.gov/reference/12d42a98-494b-4cec-bf08-060021c85ec2.json",
+    "identifier": "12d42a98-494b-4cec-bf08-060021c85ec2",
+    "uri": "/reference/12d42a98-494b-4cec-bf08-060021c85ec2"
+}

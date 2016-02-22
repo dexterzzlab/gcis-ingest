@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/noep-caoceanecon-2005.json",
+    "identifier": "noep-caoceanecon-2005",
+    "in_library": null,
+    "publication_year": 2005,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "California\u2019s Ocean Economy: Report to the Resources Agency, State of California",
+    "topic": null,
+    "uri": "/report/noep-caoceanecon-2005",
+    "url": "http://www.opc.ca.gov/webmaster/ftp/pdf/docs/Documents_Page/Reports/CA_Ocean_Econ_Report.pdf"
+}

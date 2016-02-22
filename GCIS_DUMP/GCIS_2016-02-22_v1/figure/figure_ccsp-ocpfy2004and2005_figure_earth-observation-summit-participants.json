@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Earth Observation Summit (EOS) participants, U.S. Department of State, 31 July 2003. Credit: NASA.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "bc/f8/5e23cb8ab8b826e4eaeeafeeedbb/our_changing_planet_2004-2005_18_20090708_1453901354.jpg",
+            "href": "http://data.globalchange.gov/assets/bc/f8/5e23cb8ab8b826e4eaeeafeeedbb/our_changing_planet_2004-2005_18_20090708_1453901354.jpg",
+            "identifier": "e25a3324-ccfa-488b-b1b2-35b0f7926455",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "080aab7e443018a11a714e44bc75383227055bdf",
+            "size": 82895,
+            "thumbnail": "bc/f8/5e23cb8ab8b826e4eaeeafeeedbb/.thumb-e25a3324-ccfa-488b-b1b2-35b0f7926455.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/bc/f8/5e23cb8ab8b826e4eaeeafeeedbb/.thumb-e25a3324-ccfa-488b-b1b2-35b0f7926455.png",
+            "uri": "/file/e25a3324-ccfa-488b-b1b2-35b0f7926455",
+            "url": "/assets/bc/f8/5e23cb8ab8b826e4eaeeafeeedbb/our_changing_planet_2004-2005_18_20090708_1453901354.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2004and2005/figure/earth-observation-summit-participants.json",
+    "identifier": "earth-observation-summit-participants",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2004and2005",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Earth Observation Summit (EOS) Participants",
+    "uri": "/report/ccsp-ocpfy2004and2005/figure/earth-observation-summit-participants",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

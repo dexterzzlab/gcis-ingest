@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": "10.3996/082012-FWSReport-1",
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/fws-nfwpcas-2012.json",
+    "identifier": "fws-nfwpcas-2012",
+    "in_library": null,
+    "publication_year": 2012,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "National Fish, Wildlife and Plants Climate Adaptation Strategy",
+    "topic": null,
+    "uri": "/report/fws-nfwpcas-2012",
+    "url": "http://www.wildlifeadaptationstrategy.gov/pdf/NFWPCAS-Final.pdf"
+}

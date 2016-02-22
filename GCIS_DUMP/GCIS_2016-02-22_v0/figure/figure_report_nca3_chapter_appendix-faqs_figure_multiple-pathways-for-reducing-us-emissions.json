@@ -1,0 +1,96 @@
+{
+    "attributes": null,
+    "caption": "Reducing carbon emissions from a higher pathway (here, RCP 8.5) to a lower pathway (here, RCP 4.5) can be accomplished with a combination of many technologies and policies, illustrated here based on the \u201cwedges\u201d concept pioneered by Pacala and Socolow in 2004.20 These wedges could include increasing the energy efficiency of appliances, vehicles, buildings, electronics, and electricity generation (orange wedges); reducing carbon emissions from fossil fuels by switching to lower- carbon fuels or capturing and storing carbon (blue wedges); and switching to renewable and non-carbon emitting sources of energy, including solar, wind, wave, biomass, tidal, and geothermal (green wedges). The shapes and sizes of the wedges shown here are illustrative only. (Data from Boden et al. 201221).",
+    "chapter": {
+        "doi": "10.7930/J0G15XS3",
+        "identifier": "appendix-faqs",
+        "number": 34,
+        "report_identifier": "nca3",
+        "sort_key": 340,
+        "title": "Appendix 4: Frequently Asked Questions",
+        "url": "http://nca2014.globalchange.gov/report/appendices/faqs"
+    },
+    "chapter_identifier": "appendix-faqs",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/3758.json",
+            "id": 3758,
+            "organization": {
+                "country_code": "US",
+                "identifier": "texas-tech-university",
+                "name": "Texas Tech University",
+                "organization_type_identifier": "academic",
+                "url": "http://www.ttu.edu"
+            },
+            "organization_uri": "/organization/texas-tech-university",
+            "person": {
+                "first_name": "Katharine",
+                "id": 1024,
+                "last_name": "Hayhoe",
+                "middle_name": null,
+                "orcid": "0000-0003-3625-1402",
+                "url": "http://www.katharinehayhoe.com/"
+            },
+            "person_id": 1024,
+            "person_uri": "/person/1024",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/3758"
+        }
+    ],
+    "create_dt": "2013-11-12T12:53:00",
+    "files": [
+        {
+            "file": "e2/f2/128f31e79ab72efa0f379c56f661/CAQ_wedges_v2.png",
+            "href": "http://data.globalchange.gov/assets/e2/f2/128f31e79ab72efa0f379c56f661/CAQ_wedges_v2.png",
+            "identifier": "21f69721-7f07-479a-8ae0-7e80ca223cc4",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "16b67389b050d50220f67d2491c5af354beeec80",
+            "size": 266542,
+            "thumbnail": "e2/f2/128f31e79ab72efa0f379c56f661/.thumb-21f69721-7f07-479a-8ae0-7e80ca223cc4.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/e2/f2/128f31e79ab72efa0f379c56f661/.thumb-21f69721-7f07-479a-8ae0-7e80ca223cc4.png",
+            "uri": "/file/21f69721-7f07-479a-8ae0-7e80ca223cc4",
+            "url": "/assets/e2/f2/128f31e79ab72efa0f379c56f661/CAQ_wedges_v2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-faqs/figure/multiple-pathways-for-reducing-us-emissions.json",
+    "identifier": "multiple-pathways-for-reducing-us-emissions",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-11-12T12:53:00",
+            "description": null,
+            "identifier": "17f04855-9247-4f85-af95-bf5154774fba",
+            "lat_max": "90.00",
+            "lat_min": "-90.00",
+            "lon_max": "180.00",
+            "lon_min": "-180.00",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2080-12-31T23:59:59",
+            "time_start": "1980-01-01T00:00:00",
+            "title": "How to Cut Global Warming Emissions in Half",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 26,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Multiple Pathways for Reducing U.S. Emissions",
+    "uri": "/report/nca3/chapter/appendix-faqs/figure/multiple-pathways-for-reducing-us-emissions",
+    "url": "http://nca2014.globalchange.gov/report/appendices/faqs/graphics/multiple-pathways-reducing-us-emissions",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

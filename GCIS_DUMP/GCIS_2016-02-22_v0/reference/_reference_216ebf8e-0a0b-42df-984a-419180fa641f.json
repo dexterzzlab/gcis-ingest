@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Theobald, D.M.\rRomme, W.H.",
+        "DOI": "10.1016/j.landurbplan.2007.06.002",
+        "ISSN": "0169-2046",
+        "Issue": "4",
+        "Journal": "Landscape and Urban Planning",
+        "Pages": "340-354",
+        "Title": "Expansion of the US wildland-urban interface",
+        "Volume": "83",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 13: Land Use and Land Cover Change FINAL\",\"RF 10\"]",
+        "_record_number": "3045",
+        "_uuid": "216ebf8e-0a0b-42df-984a-419180fa641f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.landurbplan.2007.06.002",
+    "href": "http://data.globalchange.gov/reference/216ebf8e-0a0b-42df-984a-419180fa641f.json",
+    "identifier": "216ebf8e-0a0b-42df-984a-419180fa641f",
+    "uri": "/reference/216ebf8e-0a0b-42df-984a-419180fa641f"
+}

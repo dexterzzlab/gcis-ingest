@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "EIA,",
+        "Institution": "U.S. Energy Information Administration",
+        "Pages": "239",
+        "Place Published": "Washington, D.C.",
+        "Title": "Annual Energy Outlook 2012 with Projections to 2035. DOE/EIA-0383(2012)",
+        "URL": "http://www.eia.gov/forecasts/aeo/pdf/0383(2012).pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 4: Energy Supply and Use FINAL\",\"Ch. 27: Mitigation FINAL\",\"Ch. 10: Energy Water Land FINAL\"]",
+        "_record_number": "91",
+        "_uuid": "2af3709d-81eb-48b7-9183-afc6c27015ea",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/aeo2012",
+    "href": "http://data.globalchange.gov/reference/2af3709d-81eb-48b7-9183-afc6c27015ea.json",
+    "identifier": "2af3709d-81eb-48b7-9183-afc6c27015ea",
+    "uri": "/reference/2af3709d-81eb-48b7-9183-afc6c27015ea"
+}

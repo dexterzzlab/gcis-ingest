@@ -1,0 +1,80 @@
+{
+    "attributes": null,
+    "caption": "Residents of places like the Namdrik Atoll in the Republic of the Marshall Islands, with a land area of just 1.1 square miles and a maximum elevation of 10 feet, may be among the first to face the possibility of climate change induced human migration as sea level continues to rise. (Photo credit: Darren Nakata).",
+    "chapter": {
+        "doi": "10.7930/J0W66HPM",
+        "identifier": "hawaii",
+        "number": 23,
+        "report_identifier": "nca3",
+        "sort_key": 230,
+        "title": "Hawai'i and U.S. Affiliated Pacific Islands",
+        "url": "http://nca2014.globalchange.gov/report/regions/hawaii-and-pacific-islands"
+    },
+    "chapter_identifier": "hawaii",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2012-11-06T12:09:00",
+    "files": [
+        {
+            "file": "53/a3/28d99ccdf97c7f7d88d2da837873/HI_Namdrik_atoll_V1.png",
+            "href": "http://data.globalchange.gov/assets/53/a3/28d99ccdf97c7f7d88d2da837873/HI_Namdrik_atoll_V1.png",
+            "identifier": "159b2305-596b-4af6-8315-ab6830b4434a",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "3d1d3d5cbbe81656b6cdb0e2e675fd4101a1f380",
+            "size": 935670,
+            "thumbnail": "53/a3/28d99ccdf97c7f7d88d2da837873/.thumb-159b2305-596b-4af6-8315-ab6830b4434a.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/53/a3/28d99ccdf97c7f7d88d2da837873/.thumb-159b2305-596b-4af6-8315-ab6830b4434a.png",
+            "uri": "/file/159b2305-596b-4af6-8315-ab6830b4434a",
+            "url": "/assets/53/a3/28d99ccdf97c7f7d88d2da837873/HI_Namdrik_atoll_V1.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/hawaii/figure/residents-of-lowlying-islands-at-risk.json",
+    "identifier": "residents-of-lowlying-islands-at-risk",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2012-11-06T12:09:00",
+            "description": null,
+            "identifier": "edcecf52-1b51-4372-9dac-38fd4242f180",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Residents of Low-lying Islands at Risk",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 7,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Climate Change and Pacific  Islands: Indicators and Impacts",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/pirca-climate-change-and-pacific-islands"
+        }
+    ],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Residents of Low-lying Islands at Risk",
+    "uri": "/report/nca3/chapter/hawaii/figure/residents-of-lowlying-islands-at-risk",
+    "url": "http://nca2014.globalchange.gov/report/regions/hawaii-and-pacific-islands/graphics/residents-low-lying-islands-risk",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

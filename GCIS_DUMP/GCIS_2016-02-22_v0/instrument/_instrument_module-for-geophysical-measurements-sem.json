@@ -1,0 +1,8 @@
+{
+    "description": "Space environment monitor",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/module-for-geophysical-measurements-sem.json",
+    "identifier": "module-for-geophysical-measurements-sem",
+    "name": "Module for Geophysical Measurements (SEM)",
+    "uri": "/instrument/module-for-geophysical-measurements-sem"
+}

@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "The top row shows observed daily minimum temperature maps of the mean annual warmest 3-day heat waves in the United States (left) and Europe (right) for 1961 to 1990. The middle row shows the ability of the Parallel Climate Model to simulate these heat waves. The bottom row shows the increased heat wave intensities that are projected by the model for the United States and Europe in the period 2080 to 2099. Credit: G.A. Meehl and C. Tebaldi, National Center for Atmospheric Research.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "43/26/7d9de1e53fd584d283dae0bc9963/our_changing_planet_2006_26_20090708_1655759228.jpg",
+            "href": "http://data.globalchange.gov/assets/43/26/7d9de1e53fd584d283dae0bc9963/our_changing_planet_2006_26_20090708_1655759228.jpg",
+            "identifier": "37328848-658a-4502-a6dd-e1579744a488",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "6d21ce9f0b828c8ffb42993d1a7b5bed2be934c5",
+            "size": 140546,
+            "thumbnail": "43/26/7d9de1e53fd584d283dae0bc9963/.thumb-37328848-658a-4502-a6dd-e1579744a488.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/43/26/7d9de1e53fd584d283dae0bc9963/.thumb-37328848-658a-4502-a6dd-e1579744a488.png",
+            "uri": "/file/37328848-658a-4502-a6dd-e1579744a488",
+            "url": "/assets/43/26/7d9de1e53fd584d283dae0bc9963/our_changing_planet_2006_26_20090708_1655759228.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocp-fy2006/figure/worst-summer-3-day-heat-events.json",
+    "identifier": "worst-summer-3-day-heat-events",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocp-fy2006",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Worst Summer 3-Day Heat Events",
+    "uri": "/report/ccsp-ocp-fy2006/figure/worst-summer-3-day-heat-events",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

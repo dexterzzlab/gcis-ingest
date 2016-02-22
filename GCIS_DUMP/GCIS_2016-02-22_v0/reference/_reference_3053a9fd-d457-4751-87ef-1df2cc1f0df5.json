@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Carmin, J.\rDodman, D.\rChu, E.",
+        "Book Title": "UGEC Viewpoints: Addressing Grand Challenges for Global Sustainability: Monitoring Forecasting, and Governance of Urban Systems",
+        "Pages": "8-10",
+        "Publisher": "Urbanization and Global Environmental Change, International Human Dimensions Programme on Global Environmental Change, and Arizona State University Global Institute of Sustainability",
+        "Reviewer": "3053a9fd-d457-4751-87ef-1df2cc1f0df5",
+        "Title": "Ch. 8: Engaging stakeholders in urban climate adaptation: Early lessons from early adapters ",
+        "URL": "http://www.ugec.org/docs/ViewpointsVI%20Nov2011.pdf",
+        "Volume": "6",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 11: Urban Systems FINAL\"]",
+        "_record_number": "633",
+        "_uuid": "3053a9fd-d457-4751-87ef-1df2cc1f0df5",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/ugec-addressinggrandchallenges-2011",
+    "href": "http://data.globalchange.gov/reference/3053a9fd-d457-4751-87ef-1df2cc1f0df5.json",
+    "identifier": "3053a9fd-d457-4751-87ef-1df2cc1f0df5",
+    "uri": "/reference/3053a9fd-d457-4751-87ef-1df2cc1f0df5"
+}

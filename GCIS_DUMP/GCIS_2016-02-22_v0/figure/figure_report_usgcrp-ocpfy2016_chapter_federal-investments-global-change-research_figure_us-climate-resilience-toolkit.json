@@ -1,0 +1,89 @@
+{
+    "attributes": null,
+    "caption": "The U.S. Climate Resilience Toolkit features science-based resources and real-world case studies to help communities adapt to climate change.",
+    "chapter": {
+        "doi": null,
+        "identifier": "federal-investments-global-change-research",
+        "number": 2,
+        "report_identifier": "usgcrp-ocpfy2016",
+        "sort_key": 20,
+        "title": "Federal Investments in Global Change Research ",
+        "url": null
+    },
+    "chapter_identifier": "federal-investments-global-change-research",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/4187.json",
+            "id": 4187,
+            "organization": {
+                "country_code": "US",
+                "identifier": "us-global-change-research-program",
+                "name": "U.S. Global Change Research Program",
+                "organization_type_identifier": "federal",
+                "url": "http://www.globalchange.gov"
+            },
+            "organization_uri": "/organization/us-global-change-research-program",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "contributing_agency",
+            "uri": "/contributor/4187"
+        }
+    ],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "0c/63/30f94877c6eebf27245f91d27c26/HL17_Climate-Resilience-Toolkit-screengrab.png",
+            "href": "http://data.globalchange.gov/assets/0c/63/30f94877c6eebf27245f91d27c26/HL17_Climate-Resilience-Toolkit-screengrab.png",
+            "identifier": "3aa6deba-9076-4007-8a4d-44be48bbdf68",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "05cde8aae2bfe2b6b93f9276d87bd0fbb76fbe5b",
+            "size": 1174868,
+            "thumbnail": "0c/63/30f94877c6eebf27245f91d27c26/.thumb-3aa6deba-9076-4007-8a4d-44be48bbdf68.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/0c/63/30f94877c6eebf27245f91d27c26/.thumb-3aa6deba-9076-4007-8a4d-44be48bbdf68.png",
+            "uri": "/file/3aa6deba-9076-4007-8a4d-44be48bbdf68",
+            "url": "/assets/0c/63/30f94877c6eebf27245f91d27c26/HL17_Climate-Resilience-Toolkit-screengrab.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2016/chapter/federal-investments-global-change-research/figure/us-climate-resilience-toolkit.json",
+    "identifier": "us-climate-resilience-toolkit",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": null,
+            "description": null,
+            "identifier": "59a7a130-8059-4ffd-b579-d7767efc41bc",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "U.S. Climate Resilience Toolkit",
+            "url": null,
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 11,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2016",
+    "source_citation": "Screen capture taken by the USGCRP National Coordination Office from toolkit.climate.gov in January 2015",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "U.S. Climate Resilience Toolkit",
+    "uri": "/report/usgcrp-ocpfy2016/chapter/federal-investments-global-change-research/figure/us-climate-resilience-toolkit",
+    "url": "http://toolkit.climate.gov/",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/climate-data-record-program.json",
+    "identifier": "climate-data-record-program",
+    "name": "National Climatic Data Center Climate Data Record Program",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/climate-data-record-program",
+    "url": "http://www.ncdc.noaa.gov/cdr/index.html"
+}

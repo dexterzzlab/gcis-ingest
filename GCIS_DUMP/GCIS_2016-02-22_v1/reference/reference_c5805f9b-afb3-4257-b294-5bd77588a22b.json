@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "City of New York,",
+        "Institution": "Mayor\u2019s Office of Long-term Planning and Sustainability",
+        "Pages": "36",
+        "Place Published": "New York, New York",
+        "Series Editor": "Dickinson, J.\rTenorio, A.",
+        "Title": "Inventory of New York City Greenhouse Gas Emissions",
+        "URL": "http://nytelecom.vo.llnwd.net/o15/agencies/planyc2030/pdf/greenhousegas_2011.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "1000",
+        "_uuid": "c5805f9b-afb3-4257-b294-5bd77588a22b",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/nycmayor-greenhousegasinventory-2011",
+    "href": "http://data.globalchange.gov/reference/c5805f9b-afb3-4257-b294-5bd77588a22b.json",
+    "identifier": "c5805f9b-afb3-4257-b294-5bd77588a22b",
+    "uri": "/reference/c5805f9b-afb3-4257-b294-5bd77588a22b"
+}

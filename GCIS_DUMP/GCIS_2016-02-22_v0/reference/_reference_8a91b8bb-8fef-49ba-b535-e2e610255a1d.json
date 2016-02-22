@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Accession Number": "4",
+        "Author": "Denman, K.L.\rBrasseur, G.\rChidthaisong, A.\rCiais, P\rCox, P.M.\rDickinson, R.E.\rHauglustaine, D.\rHeinze, C.\rHolland, E.\rJacob, D.\rLohmann, U.\rRamachandran, S.\rda Silva Dias, P.L.\rWofsy, S.C.\rZhang, X.",
+        "Book Title": "Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change",
+        "Chapter": "Chapter 7",
+        "Editor": "Solomon, S\rQin, D.\rManning, M.\rChen, Z.\rMarquis, M.\rAveryt, K.B.\rTignor, M.\rMiller, H.L.",
+        "Pages": "499-587",
+        "Place Published": "Cambridge, UK and New York, NY",
+        "Publisher": "Cambridge University Press",
+        "Reviewer": "8a91b8bb-8fef-49ba-b535-e2e610255a1d",
+        "Title": "Ch. 7: Couplings between changes in the climate system and biogeochemistry",
+        "URL": "http://www.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4-wg1-chapter7.pdf",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "483",
+        "_uuid": "8a91b8bb-8fef-49ba-b535-e2e610255a1d",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/ipcc-ar4-wg1",
+    "href": "http://data.globalchange.gov/reference/8a91b8bb-8fef-49ba-b535-e2e610255a1d.json",
+    "identifier": "8a91b8bb-8fef-49ba-b535-e2e610255a1d",
+    "uri": "/reference/8a91b8bb-8fef-49ba-b535-e2e610255a1d"
+}

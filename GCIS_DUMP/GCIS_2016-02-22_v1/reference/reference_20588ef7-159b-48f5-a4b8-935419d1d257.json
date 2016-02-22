@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Fire is a common disturbance in the North American boreal forest that influences ecosystem structure and function. The temporal and spatial dynamics of fire are likely to be altered as climate continues to change. In this study, we ask the question: how will area burned in boreal North America by wildfire respond to future changes in climate? To evaluate this question, we developed temporally and spatially explicit relationships between air temperature and fuel moisture codes derived from the Canadian Fire Weather Index System to estimate annual area burned at 2.5\u00b0 (latitude \u00d7 longitude) resolution using a Multivariate Adaptive Regression Spline (MARS) approach across Alaska and Canada. Burned area was substantially more predictable in the western portion of boreal North America than in eastern Canada. Burned area was also not very predictable in areas of substantial topographic relief and in areas along the transition between boreal forest and tundra. At the scale of Alaska and western Canada, the empirical fire models explain on the order of 82% of the variation in annual area burned for the period 1960\u20132002. July temperature was the most frequently occurring predictor across all models, but the fuel moisture codes for the months June through August (as a group) entered the models as the most important predictors of annual area burned. To predict changes in the temporal and spatial dynamics of fire under future climate, the empirical fire models used output from the Canadian Climate Center CGCM2 global climate model to predict annual area burned through the year 2100 across Alaska and western Canada. Relative to 1991\u20132000, the results suggest that average area burned per decade will double by 2041\u20132050 and will increase on the order of 3.5\u20135.5 times by the last decade of the 21st century. To improve the ability to better predict wildfire across Alaska and Canada, future research should focus on incorporating additional effects of long-term and successional vegetation changes on area burned to account more fully for interactions among fire, climate, and vegetation dynamics. [ABSTRACT FROM AUTHOR] Copyright of Global Change Biology is the property of Wiley-Blackwell and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written permission. However, users may print, download, or email articles for individual use. This abstract may be abridged. No warranty is given about the accuracy of the copy. Users should refer to the original published version of the material for the full abstract. (Copyright applies to all Abstracts.)",
+        "Author": "Balshi, M.S.\rMcGuire, A. David\rDuffy, Paul\rFlannigan, Mike\rWalsh, John\rMelillo, Jerry",
+        "DOI": "10.1111/j.1365-2486.2008.01679.x",
+        "ISSN": "13541013",
+        "Issue": "3",
+        "Journal": "Global Change Biology",
+        "Keywords": "boreal forest; Climate change; CLIMATIC changes -- Environmental aspects; CLIMATIC changes -- Research; fire; fire regime; future area burned; Multivariate Adaptive Regression Splines; MULTIVARIATE analysis; REGRESSION analysis; RESEARCH; SPATIAL analysis (Statistics); SPLINES; TAIGAS; WILDFIRES",
+        "Pages": "578-600",
+        "Title": "Assessing the response of area burned to changing climate in western boreal North America using a Multivariate Adaptive Regression Splines (MARS) approach",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2486.2008.01679.x/pdf",
+        "Volume": "15",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "114",
+        "_uuid": "20588ef7-159b-48f5-a4b8-935419d1d257",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1365-2486.2008.01679.x",
+    "href": "http://data.globalchange.gov/reference/20588ef7-159b-48f5-a4b8-935419d1d257.json",
+    "identifier": "20588ef7-159b-48f5-a4b8-935419d1d257",
+    "uri": "/reference/20588ef7-159b-48f5-a4b8-935419d1d257"
+}

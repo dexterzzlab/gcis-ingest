@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Wiedner, C.\rR\u00fccker, J.\rBr\u00fcggemann, R.\rNixdorf, B.",
+        "DOI": "10.1007/s00442-007-0683-5",
+        "ISSN": "0029-8549",
+        "Issue": "3",
+        "Journal": "Oecologia",
+        "Pages": "473-484",
+        "Title": "Climate change affects timing and size of populations of an invasive cyanobacterium in temperate regions",
+        "Volume": "152",
+        "Year": "2007",
+        "_chapter": "[\"RG 2 Southeast\",\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "3416",
+        "_uuid": "204a45ba-2f11-48f2-82e0-8075379b0a7d",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s00442-007-0683-5",
+    "href": "http://data.globalchange.gov/reference/204a45ba-2f11-48f2-82e0-8075379b0a7d.json",
+    "identifier": "204a45ba-2f11-48f2-82e0-8075379b0a7d",
+    "uri": "/reference/204a45ba-2f11-48f2-82e0-8075379b0a7d"
+}

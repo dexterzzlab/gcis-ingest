@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/national-health-nutrition-examination-survey.json",
+    "identifier": "national-health-nutrition-examination-survey",
+    "name": "National Health and Nutrition Examination Survey",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/national-health-nutrition-examination-survey",
+    "url": "http://www.cdc.gov/nchs/nhanes.htm"
+}

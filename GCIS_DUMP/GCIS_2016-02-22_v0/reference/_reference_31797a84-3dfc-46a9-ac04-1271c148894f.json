@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Bricker, S., \rB. Longstaff, \rW. Dennison, \rA. Jones, \rK. Boicourt, \rC. Wicks, \rJ. Woerner",
+        "Number of Pages": "328",
+        "Place Published": "Silver Spring, MD",
+        "Publisher": "National Centers for Coastal Ocean Science",
+        "Reviewer": "31797a84-3dfc-46a9-ac04-1271c148894f",
+        "Title": "Effects of Nutrient Enrichment in the Nation\u2019s Estuaries: A Decade of Change. NOAA Coastal Ocean Program Decision Analysis Series No. 26",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "608",
+        "_uuid": "31797a84-3dfc-46a9-ac04-1271c148894f",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/noss-national-estuarine-eutrophication-update-2007",
+    "href": "http://data.globalchange.gov/reference/31797a84-3dfc-46a9-ac04-1271c148894f.json",
+    "identifier": "31797a84-3dfc-46a9-ac04-1271c148894f",
+    "uri": "/reference/31797a84-3dfc-46a9-ac04-1271c148894f"
+}

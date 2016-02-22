@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "UNISDR,",
+        "ISBN": "978-92-1-132030-5",
+        "Place Published": "Oxford, UK",
+        "Publisher": "UNISDR, The United Nations Office for Disaster Risk Reduction",
+        "Reviewer": "6fbd8a7e-0ceb-4f8f-8ebe-5b8598c72ac9",
+        "Title": "Global Assessment Report on Disaster Risk Reduction 2011: Revealing Risk, Redefining Development",
+        "URL": "http://www.preventionweb.net/english/hyogo/gar/2011/en/home/download.html",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "4330",
+        "_uuid": "6fbd8a7e-0ceb-4f8f-8ebe-5b8598c72ac9",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/unep-gar11",
+    "href": "http://data.globalchange.gov/reference/6fbd8a7e-0ceb-4f8f-8ebe-5b8598c72ac9.json",
+    "identifier": "6fbd8a7e-0ceb-4f8f-8ebe-5b8598c72ac9",
+    "uri": "/reference/6fbd8a7e-0ceb-4f8f-8ebe-5b8598c72ac9"
+}

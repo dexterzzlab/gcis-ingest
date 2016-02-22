@@ -1,0 +1,8 @@
+{
+    "description": "Solar irradiance monitor",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/active-cavity-radiometer-irradiance-monitor.json",
+    "identifier": "active-cavity-radiometer-irradiance-monitor",
+    "name": "Active Cavity Radiometer Irradiance Monitor",
+    "uri": "/instrument/active-cavity-radiometer-irradiance-monitor"
+}

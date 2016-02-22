@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "USGS,",
+        "Book Title": "Historical Statistics for Mineral and Material Commodities in the United States. U.S. Geological Survey Data Series 140",
+        "Pages": "1-2",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "U.S. Geological Survey",
+        "Reviewer": "dce62d0f-97a6-4413-8262-9b13d57cadc4",
+        "Title": "Nitrogen (fixed)-ammonia statistics  ",
+        "URL": "http://minerals.usgs.gov/ds/2005/140/ds140-nitro.pdf",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "3248",
+        "_uuid": "dce62d0f-97a6-4413-8262-9b13d57cadc4",
+        "reftype": "Book Section"
+    },
+    "child_publication": null,
+    "href": "http://data.globalchange.gov/reference/dce62d0f-97a6-4413-8262-9b13d57cadc4.json",
+    "identifier": "dce62d0f-97a6-4413-8262-9b13d57cadc4",
+    "uri": "/reference/dce62d0f-97a6-4413-8262-9b13d57cadc4"
+}

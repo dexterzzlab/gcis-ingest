@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Bloetscher, F.\rMeeroff, D.E.\rHeimlich, B.N.\rBrown, A.R.\rBayler, D.\rLoucraft, M.",
+        "Issue": "11",
+        "Journal": "American Water Works Association",
+        "Pages": "36-46",
+        "Title": "Improving resilience against the effects of climate change",
+        "Volume": "102",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "935",
+        "_uuid": "6cc79fdf-6e4f-4101-9782-bffa28215300",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/improving-resilience-against-the-effects-of-climate-change",
+    "href": "http://data.globalchange.gov/reference/6cc79fdf-6e4f-4101-9782-bffa28215300.json",
+    "identifier": "6cc79fdf-6e4f-4101-9782-bffa28215300",
+    "uri": "/reference/6cc79fdf-6e4f-4101-9782-bffa28215300"
+}

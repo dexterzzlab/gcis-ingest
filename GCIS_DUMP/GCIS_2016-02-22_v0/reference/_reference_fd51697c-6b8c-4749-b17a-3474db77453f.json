@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Hart, C.R.\rBerry, H.L.\rTonna, A.M.",
+        "DOI": "10.1111/j.1440-1584.2011.01225.x",
+        "ISSN": "1440-1584",
+        "Issue": "5",
+        "Journal": "Australian Journal of Rural Health",
+        "Pages": "231-238",
+        "Title": "Improving the mental health of rural New South Wales communities facing drought and other adversities",
+        "Volume": "19",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 14: Rural Communities FINAL\"]",
+        "_record_number": "936",
+        "_uuid": "fd51697c-6b8c-4749-b17a-3474db77453f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1440-1584.2011.01225.x",
+    "href": "http://data.globalchange.gov/reference/fd51697c-6b8c-4749-b17a-3474db77453f.json",
+    "identifier": "fd51697c-6b8c-4749-b17a-3474db77453f",
+    "uri": "/reference/fd51697c-6b8c-4749-b17a-3474db77453f"
+}

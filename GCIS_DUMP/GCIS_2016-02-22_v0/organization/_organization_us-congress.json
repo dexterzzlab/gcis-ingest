@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/us-congress.json",
+    "identifier": "us-congress",
+    "name": "United States Congress",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/us-congress",
+    "url": "https://www.congress.gov"
+}

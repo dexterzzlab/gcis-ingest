@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2012",
+        "Author": "Texas Water Development Board,",
+        "Place Published": "Austin, TX",
+        "Publisher": "State of Texas",
+        "Title": "Texas State Water Plan",
+        "URL": "http://www.twdb.state.tx.us/waterplanning/swp/2012/",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\"]",
+        "_record_number": "3027",
+        "_uuid": "78a7461f-c382-4432-9b04-3698ccb9c49e",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/f97e5615-b7a3-47d4-af90-22dbcfc9bd92",
+    "href": "http://data.globalchange.gov/reference/78a7461f-c382-4432-9b04-3698ccb9c49e.json",
+    "identifier": "78a7461f-c382-4432-9b04-3698ccb9c49e",
+    "uri": "/reference/78a7461f-c382-4432-9b04-3698ccb9c49e"
+}

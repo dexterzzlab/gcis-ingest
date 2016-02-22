@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "These products generated using the RA97 canopy stomatal conductance sub-model in (a) DJF (-7.1 to +9.3 mm day-1) and (b) JJA (-8.7 to +15.9 mm day-1), and change due to new conductance sub-model in (c) DJF (-1.4 to +1.5 mm day-1) and (d) JJA (-1.7 to +1.1 mm day-1). Observations over land from New et al. (1999) and over oceans from Huffman and Bolvin (2005). Global means at upper-right corners. Hatched areas are significant at the 95% confidence level for a paired t test. Credit: A.D. Friend, Laboratoire des Sciences du Climat et de l\u2019Environnement; and and N.Y. Kiang, Columbia University (reproduced from Journal of Climate with permission from the American Meteorological Society).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "4b/9a/f2bf992fab37c70fd5d4c7c390de/our_changing_planet_2007_51_20090708_2042403813.jpg",
+            "href": "http://data.globalchange.gov/assets/4b/9a/f2bf992fab37c70fd5d4c7c390de/our_changing_planet_2007_51_20090708_2042403813.jpg",
+            "identifier": "cbef5b01-714d-4c2b-b133-2ba958c343d4",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "6e0b30c2e27965bc0eef37bed0a3127a6018e959",
+            "size": 77534,
+            "thumbnail": "4b/9a/f2bf992fab37c70fd5d4c7c390de/.thumb-cbef5b01-714d-4c2b-b133-2ba958c343d4.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/4b/9a/f2bf992fab37c70fd5d4c7c390de/.thumb-cbef5b01-714d-4c2b-b133-2ba958c343d4.png",
+            "uri": "/file/cbef5b01-714d-4c2b-b133-2ba958c343d4",
+            "url": "/assets/4b/9a/f2bf992fab37c70fd5d4c7c390de/our_changing_planet_2007_51_20090708_2042403813.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/giss-gcm-seasonal-mean-precipitation-bias.json",
+    "identifier": "giss-gcm-seasonal-mean-precipitation-bias",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "GISS GCM Seasonal Mean Precipiation Bias",
+    "uri": "/report/ccsp-ocpfy2007/figure/giss-gcm-seasonal-mean-precipitation-bias",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".date": "November 11, 2008",
+        ".reference_type": "7",
+        "Author": "Kusky, T.\rQ. Lei\rA. Ghulam\rY. Chen",
+        "Book Title": "Finding the Balance Between Floods, Flood Protection, and River Navigation. ",
+        "Editor": "Criss, Robert E. \rKusky, T.",
+        "Pages": "9-15",
+        "Place Published": "Saint Louis University, St. Louis, MO",
+        "Publisher": "Center for Environmental Sciences at Saint Louis University",
+        "Reviewer": "d6b8b09e-2e8f-44c1-9cd5-7bf1601246d4",
+        "Title": "Urbanization and changes to the Missouri River floodplain",
+        "URL": "http://ces.slu.edu/annualreport/FloodForum_Book_final.pdf",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 5: Transportation FINAL\"]",
+        "_record_number": "3936",
+        "_uuid": "d6b8b09e-2e8f-44c1-9cd5-7bf1601246d4",
+        "reftype": "Book Section"
+    },
+    "child_publication": null,
+    "href": "http://data.globalchange.gov/reference/d6b8b09e-2e8f-44c1-9cd5-7bf1601246d4.json",
+    "identifier": "d6b8b09e-2e8f-44c1-9cd5-7bf1601246d4",
+    "uri": "/reference/d6b8b09e-2e8f-44c1-9cd5-7bf1601246d4"
+}

@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/us-geological-survey.json",
+    "identifier": "us-geological-survey",
+    "name": "U.S. Geological Survey",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/us-geological-survey",
+    "url": "http://www.usgs.gov/"
+}

@@ -1,0 +1,28 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Alternate Journal": "Environ Sci Technol",
+        "Author": "Rose, J. B.\rGerba, C. P.\rJakubowski, W.",
+        "Author Address": "Rose, Jb; Univ S Florida,Coll Publ Hlth,Dept Environm & Occupat Hlth,13301 Bruce B Downs Blvd,Tampa,Fl 33612, USA; Univ S Florida,Coll Publ Hlth,Dept Environm & Occupat Hlth,13301 Bruce B Downs Blvd,Tampa,Fl 33612, USA; Us Epa,Environm Monitoring Syst Lab,Div Microbiol Res,Cincinnati,Oh 45268; Univ Arizona,Dept Microbiol & Immunol,Tucson,Az 85721; Univ Arizona,Dept Soil & Water Sci,Tucson,Az 85721",
+        "DOI": "10.1021/es00020a005",
+        "Date": "Aug",
+        "ISSN": "0013-936X",
+        "Issue": "8",
+        "Journal": "Environment Science & Technology",
+        "Keywords": "river water; oocysts; disinfection; cysts",
+        "Label": "IN",
+        "Language": "English",
+        "Pages": "1393-1400",
+        "Title": "Survey of potable water-supplies for Cryptosporidium and Giardia",
+        "Volume": "25",
+        "Year": "1991",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "2669",
+        "_uuid": "4b489c88-bb40-4d37-8ab4-682e9eb38d57",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1021/es00020a005",
+    "href": "http://data.globalchange.gov/reference/4b489c88-bb40-4d37-8ab4-682e9eb38d57.json",
+    "identifier": "4b489c88-bb40-4d37-8ab4-682e9eb38d57",
+    "uri": "/reference/4b489c88-bb40-4d37-8ab4-682e9eb38d57"
+}

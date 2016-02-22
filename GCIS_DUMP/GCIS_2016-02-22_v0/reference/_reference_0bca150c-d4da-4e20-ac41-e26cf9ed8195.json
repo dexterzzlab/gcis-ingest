@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "The contribution of snowmelt to groundwater recharge at four sites in the southwestern United States was evaluated using stable isotopes of O and H. Paired precipitation collectors were installed at the study sites; data show that (1) there is often a significant difference between the stable isotope composition of fresh snow and the bulk meltwater derived from it (this suggests that using the isotope composition of high-elevation springs as a proxy for precipitation may not be sound if snow is a recharge source) and (2) collector design can significantly influence the stable isotope composition of collected snow. Because the isotope composition of snow from a given location becomes heavier (i.e., more rain-like) with increased exposure, using bulk snowmelt compositions to calculate input to groundwater recharge results in significantly increased estimates of snowmelt contributions to recharge (compared to estimates derived from fresh snow signatures). Snowmelt provides at least 40\u201370% of groundwater recharge at the study sites, although only 25\u201350% of average annual precipitation falls as snow. On the basis of these results and presently accepted scenarios for alterations in precipitation in the western United States over the next 50 years (significantly decreased snowpack due to increased atmospheric CO2), investigations of how climate change may affect groundwater resources are needed. We also investigated the potential for snow/atmospheric water vapor isotope exchange to influence the isotope signature of snow (which has been a subject of debate); the results of a laboratory experiment suggest that it can drive significant shifts in the isotope signature of snow, even at temperatures below 0\u00b0C. ",
+        "Author": "Earman, S.\rCampbell, A.R.\rPhillips, F.M.\rNewman, B.D.",
+        "DOI": "10.1029/2005JD006470",
+        "ISSN": "0148-0227",
+        "Issue": "D9",
+        "Journal": "Journal of Geophysical Research",
+        "Pages": "18",
+        "Title": "Isotopic exchange between snow and atmospheric water vapor: Estimation of the snowmelt component of groundwater recharge in the southwestern United States",
+        "Volume": "111",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "1018",
+        "_uuid": "0bca150c-d4da-4e20-ac41-e26cf9ed8195",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2005JD006470",
+    "href": "http://data.globalchange.gov/reference/0bca150c-d4da-4e20-ac41-e26cf9ed8195.json",
+    "identifier": "0bca150c-d4da-4e20-ac41-e26cf9ed8195",
+    "uri": "/reference/0bca150c-d4da-4e20-ac41-e26cf9ed8195"
+}

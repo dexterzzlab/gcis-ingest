@@ -1,0 +1,86 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/4709.json",
+            "id": 4709,
+            "organization": {
+                "country_code": "BE",
+                "identifier": "globalhort",
+                "name": "GlobalHort",
+                "organization_type_identifier": "non-profit",
+                "url": "http://www.globalhort.org/"
+            },
+            "organization_uri": "/organization/globalhort",
+            "person": {
+                "first_name": "Remi",
+                "id": 2618,
+                "last_name": "Kahane",
+                "middle_name": null,
+                "orcid": null,
+                "url": null
+            },
+            "person_id": 2618,
+            "person_uri": "/person/2618",
+            "role_type_identifier": "contributor",
+            "uri": "/contributor/4709"
+        }
+    ],
+    "create_dt": null,
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "A farmer works a plot in Accra, Ghana. Agriculture in urban and peri-urban (or urban\u2013rural transition) zones can contribute to food security for cities in the developing world, but UPA systems face pressure from the impacts of urbanization and climate change. (Source: R. Kahane, GlobalHort)",
+            "chapter_identifier": "federal-investments-global-change-research",
+            "create_dt": null,
+            "identifier": "urban-peri-urban-agriculture",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 14,
+            "report_identifier": "usgcrp-ocpfy2016",
+            "source_citation": "Photo taken by Remi Kahane (GlobalHort) in Accra, Ghana, in September 2012",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Urban and peri-urban agriculture",
+            "url": null,
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "03/d3/5111a1371bbdd7cdc0f06648130f/HL23_urban-periurban-agriculture-ghana.jpg",
+            "href": "http://data.globalchange.gov/assets/03/d3/5111a1371bbdd7cdc0f06648130f/HL23_urban-periurban-agriculture-ghana.jpg",
+            "identifier": "1abe43e6-e9d3-475b-bac1-804718e1adc7",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "81c7061071c817d01fb9c2d2bdd3bb90df7c8939",
+            "size": 2784324,
+            "thumbnail": "03/d3/5111a1371bbdd7cdc0f06648130f/.thumb-1abe43e6-e9d3-475b-bac1-804718e1adc7.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/03/d3/5111a1371bbdd7cdc0f06648130f/.thumb-1abe43e6-e9d3-475b-bac1-804718e1adc7.png",
+            "uri": "/file/1abe43e6-e9d3-475b-bac1-804718e1adc7",
+            "url": "/assets/03/d3/5111a1371bbdd7cdc0f06648130f/HL23_urban-periurban-agriculture-ghana.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/bc817130-2570-42bf-a2c5-35421df50814.json",
+    "identifier": "bc817130-2570-42bf-a2c5-35421df50814",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Urban and peri-urban agriculture",
+    "uri": "/image/bc817130-2570-42bf-a2c5-35421df50814",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

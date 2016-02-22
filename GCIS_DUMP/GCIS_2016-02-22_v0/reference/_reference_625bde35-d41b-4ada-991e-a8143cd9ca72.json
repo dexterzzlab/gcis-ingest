@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Cicerone, R.J.\rOremland, R.S.",
+        "DOI": "10.1029/GB002i004p00299",
+        "ISSN": "0886-6236",
+        "Issue": "4",
+        "Journal": "Global Biogeochemical Cycles",
+        "Pages": "299-327",
+        "Title": "Biogeochemical aspects of atmospheric methane",
+        "Volume": "2",
+        "Year": "1988",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "157",
+        "_uuid": "625bde35-d41b-4ada-991e-a8143cd9ca72",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/GB002i004p00299",
+    "href": "http://data.globalchange.gov/reference/625bde35-d41b-4ada-991e-a8143cd9ca72.json",
+    "identifier": "625bde35-d41b-4ada-991e-a8143cd9ca72",
+    "uri": "/reference/625bde35-d41b-4ada-991e-a8143cd9ca72"
+}

@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "NPCC,",
+        "Institution": "New York City Panel on Climate Change",
+        "Pages": "74",
+        "Place Published": "New York, New York",
+        "Title": "Climate Risk Information",
+        "URL": "http://www.nyc.gov/html/om/pdf/2009/NPCC_CRI.pdf",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"Ch. 16: Northeast FINAL\",\"RG 10 Coasts\",\"Ch. 4: Energy Supply and Use FINAL\"]",
+        "_record_number": "2276",
+        "_uuid": "207ddc2e-343a-4017-83e1-9ac70c02f723",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/nycpanelonclimch-cri2009",
+    "href": "http://data.globalchange.gov/reference/207ddc2e-343a-4017-83e1-9ac70c02f723.json",
+    "identifier": "207ddc2e-343a-4017-83e1-9ac70c02f723",
+    "uri": "/reference/207ddc2e-343a-4017-83e1-9ac70c02f723"
+}

@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/nca-lulcti-2012.json",
+    "identifier": "nca-lulcti-2012",
+    "in_library": null,
+    "publication_year": 2012,
+    "report_type_identifier": "workshop_report",
+    "summary": null,
+    "title": "Land Use and Land Cover National Stakeholder Workshop Technical Report. Report prepared for 2013 National Climate Assessment",
+    "topic": null,
+    "uri": "/report/nca-lulcti-2012",
+    "url": "http://downloads.usgcrp.gov/NCA/Activities/final_nca_lulc_workshop_report.pdf"
+}

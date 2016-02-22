@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Ferguson, D.B.\rAlvord, C.\rCrimmins, M.\rHiza Redsteer, M.\rHayes, M.\rMcNutt, C.\rPulwarty, R.\rSvoboda, M.",
+        "Institution": "The Climate Assessment for the Southwest (CLIMAS), The Institute of the Environment, The University of Arizona ",
+        "Pages": "42",
+        "Title": "Drought Preparedness for Tribes in the Four Corners Region. Report from April 2010 Workshop. Tucson, AZ: Climate Assessment for the Southwest.",
+        "URL": "http://www.drought.gov/workshops/tribal/Drought-Preparedness-Tribal-Lands-FoursCorners-2011-1.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\",\"Ch. 1: Overview FINAL\"]",
+        "_record_number": "544",
+        "_uuid": "bc2f63ad-916f-466f-9c79-f3304447e3a2",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/climas-droughtprepsouthwest2010-2011",
+    "href": "http://data.globalchange.gov/reference/bc2f63ad-916f-466f-9c79-f3304447e3a2.json",
+    "identifier": "bc2f63ad-916f-466f-9c79-f3304447e3a2",
+    "uri": "/reference/bc2f63ad-916f-466f-9c79-f3304447e3a2"
+}

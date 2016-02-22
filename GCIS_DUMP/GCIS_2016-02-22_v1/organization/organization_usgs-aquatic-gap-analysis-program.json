@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/usgs-aquatic-gap-analysis-program.json",
+    "identifier": "usgs-aquatic-gap-analysis-program",
+    "name": "USGS Aquatic Gap Analysis Program",
+    "organization_type_identifier": "academic/operated by fed. government",
+    "uri": "/organization/usgs-aquatic-gap-analysis-program",
+    "url": "http://gapanalysis.usgs.gov/aquatic-gap/"
+}

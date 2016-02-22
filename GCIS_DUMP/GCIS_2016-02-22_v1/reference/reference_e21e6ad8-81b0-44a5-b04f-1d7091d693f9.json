@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Di Lorenzo, E.\rCobb, K. M.\rFurtado, J. C.\rSchneider, N.\rAnderson, B. T.\rBracco, A.\rAlexander, M. A.\rVimont, D. J.",
+        "DOI": "10.1038/ngeo984",
+        "ISSN": "1752-0894, 1752-0908",
+        "Issue": "11",
+        "Journal": "Nature Geoscience",
+        "Pages": "762-765",
+        "Title": "Central Pacific El Ni\u00f1o and decadal climate change in the North Pacific Ocean",
+        "Volume": "3",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "193",
+        "_uuid": "e21e6ad8-81b0-44a5-b04f-1d7091d693f9",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/ngeo984",
+    "href": "http://data.globalchange.gov/reference/e21e6ad8-81b0-44a5-b04f-1d7091d693f9.json",
+    "identifier": "e21e6ad8-81b0-44a5-b04f-1d7091d693f9",
+    "uri": "/reference/e21e6ad8-81b0-44a5-b04f-1d7091d693f9"
+}

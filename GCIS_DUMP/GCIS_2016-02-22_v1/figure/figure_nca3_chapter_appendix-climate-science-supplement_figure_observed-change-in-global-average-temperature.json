@@ -1,0 +1,98 @@
+{
+    "attributes": null,
+    "caption": "Three different global surface temperature records all show increasing trends over the last century. The lines show annual differences in temperature relative to the 1901-1960 average. Differences among data sets, due to choices in data selection, analysis, and averaging techniques, do not affect the conclusion that global surface temperatures are increasing. (Figure source: NOAA NCDC / CICS-NC).",
+    "chapter": {
+        "doi": "10.7930/J0KS6PHH",
+        "identifier": "appendix-climate-science-supplement",
+        "number": 33,
+        "report_identifier": "nca3",
+        "sort_key": 330,
+        "title": "Appendix 3: Climate Science Supplement",
+        "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement"
+    },
+    "chapter_identifier": "appendix-climate-science-supplement",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2535.json",
+            "id": 2535,
+            "organization": {
+                "country_code": "NO",
+                "identifier": "nansen-environmental-and-remote-sensing-center",
+                "name": "Nansen Environmental and Remote Sensing Center",
+                "organization_type_identifier": "academic",
+                "url": "http://www.nersc.no/"
+            },
+            "organization_uri": "/organization/nansen-environmental-and-remote-sensing-center",
+            "person": {
+                "first_name": "Peter",
+                "id": 1027,
+                "last_name": "Thorne",
+                "middle_name": null,
+                "orcid": "0000-0003-0485-9798",
+                "url": "http://www.nersc.no/staff/peter-thorne"
+            },
+            "person_id": 1027,
+            "person_uri": "/person/1027",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2535"
+        }
+    ],
+    "create_dt": "2013-10-22T09:54:37",
+    "files": [
+        {
+            "file": "50/11/b903c12838643dae96a828e87603/APP_global_average_temp_V6.png",
+            "href": "http://data.globalchange.gov/assets/50/11/b903c12838643dae96a828e87603/APP_global_average_temp_V6.png",
+            "identifier": "ad928b1f-4020-462c-8c3a-08cfe0a7e59b",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "c2c99d59f59450854c706f195c5dabf2985b39da",
+            "size": 142191,
+            "thumbnail": "50/11/b903c12838643dae96a828e87603/.thumb-ad928b1f-4020-462c-8c3a-08cfe0a7e59b.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/50/11/b903c12838643dae96a828e87603/.thumb-ad928b1f-4020-462c-8c3a-08cfe0a7e59b.png",
+            "uri": "/file/ad928b1f-4020-462c-8c3a-08cfe0a7e59b",
+            "url": "/assets/50/11/b903c12838643dae96a828e87603/APP_global_average_temp_V6.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-climate-science-supplement/figure/observed-change-in-global-average-temperature.json",
+    "identifier": "observed-change-in-global-average-temperature",
+    "images": [
+        {
+            "attributes": "Temperature, observed, global",
+            "create_dt": "2013-02-14T09:03:00",
+            "description": null,
+            "identifier": "40d9d5ef-fe78-4d80-bdf8-024cac2c0176",
+            "lat_max": "90.00",
+            "lat_min": "-90.00",
+            "lon_max": "180.00",
+            "lon_min": "-180.00",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2012-12-31T23:59:59",
+            "time_start": "1850-01-01T00:00:00",
+            "title": "Observed Change in Global Average Temperature",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [
+        "/report/nca3/chapter/appendix-faqs/figure/caq-observed-change-in-global-average-temperature"
+    ],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 8,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": "NOAA NCDC / CICS-NC",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Observed Change in Global Average Temperature",
+    "uri": "/report/nca3/chapter/appendix-climate-science-supplement/figure/observed-change-in-global-average-temperature",
+    "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/observed-change-global-average-temperature",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

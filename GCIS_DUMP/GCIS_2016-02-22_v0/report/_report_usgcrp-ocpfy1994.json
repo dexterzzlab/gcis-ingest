@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy1994.json",
+    "identifier": "usgcrp-ocpfy1994",
+    "in_library": 1,
+    "publication_year": 1993,
+    "report_type_identifier": "report",
+    "summary": "A report by the U.S. Global Change Research Program and the Subcommittee on Global Change Research. A supplement to the President's Fiscal Year 1994 Budget. Published 1993.",
+    "title": "Our Changing Planet. The U.S. Global Change Research Program for Fiscal Year 1994",
+    "topic": null,
+    "uri": "/report/usgcrp-ocpfy1994",
+    "url": null
+}

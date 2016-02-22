@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Neumann, J.E.\rHudgens, D.E.\rHerter, J.\rMartinich, J.",
+        "DOI": "10.1080/08920753.2010.496105",
+        "ISSN": "0892-0753",
+        "Issue": "4",
+        "Journal": "Coastal Management",
+        "Pages": "433-455",
+        "Title": "Assessing sea-level rise impacts: A GIS-based framework and application to coastal New Jersey",
+        "Volume": "38",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"RG 10 Coasts\"]",
+        "_record_number": "2203",
+        "_uuid": "60f8e555-b289-4cd6-ad1e-4d1472ebf706",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1080/08920753.2010.496105",
+    "href": "http://data.globalchange.gov/reference/60f8e555-b289-4cd6-ad1e-4d1472ebf706.json",
+    "identifier": "60f8e555-b289-4cd6-ad1e-4d1472ebf706",
+    "uri": "/reference/60f8e555-b289-4cd6-ad1e-4d1472ebf706"
+}

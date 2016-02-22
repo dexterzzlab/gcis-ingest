@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/fs-terrestrialconditionframework-fy2013.json",
+    "identifier": "fs-terrestrialconditionframework-fy2013",
+    "in_library": null,
+    "publication_year": 2012,
+    "report_type_identifier": "report",
+    "summary": "The Terrestrial Condition Framework (TCF) is being developed to assess terrestrial ecosystem conditions through a process that is objective and consistent for all National Forests. Ecosystem and watershed restoration are goals for National Forest lands. The Forest Service is using the Watershed Condition Framework (WCF) to assess conditions affecting water quality and quantity and aquatic life. The TCF is being developed as a parallel framework to assess terrestrial conditions, processes, and stressors. Factors that affect composition and structure of vegetation are of particular interest in the TCF. In the future, the TCF and WCF systems will be used together to help achieve cost efficiencies by integrating restoration activities in areas where both aquatic and terrestrial conditions are priorities.",
+    "title": "The Terrestrial Condition Framework (TCF)",
+    "topic": null,
+    "uri": "/report/fs-terrestrialconditionframework-fy2013",
+    "url": "http://www.fs.fed.us/biology/resources/pubs/soils/TCF_briefingFY13_AWFA.pdf"
+}

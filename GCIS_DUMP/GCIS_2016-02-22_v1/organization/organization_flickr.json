@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/flickr.json",
+    "identifier": "flickr",
+    "name": "Flickr",
+    "organization_type_identifier": "commercial",
+    "uri": "/organization/flickr",
+    "url": "https://www.flickr.com/"
+}

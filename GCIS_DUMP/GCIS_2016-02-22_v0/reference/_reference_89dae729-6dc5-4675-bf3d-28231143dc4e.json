@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".publisher": "Springer Netherlands",
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"33\" /><run start=\"34\" /></field></record>",
+        "Author": "Derwent, R.\rStevenson, D.\rDoherty, R.\rCollins, W.\rSanderson, M.\rJohnson, C.",
+        "DOI": "10.1007/s10584-007-9383-8",
+        "ISSN": "0165-0009",
+        "Issue": "3-4",
+        "Journal": "Climatic Change",
+        "Keywords": "Earth and Environmental Science",
+        "Pages": "385-401",
+        "Title": "Radiative forcing from surface NOx emissions: Spatial and seasonal variations",
+        "Volume": "88",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "1361",
+        "_uuid": "89dae729-6dc5-4675-bf3d-28231143dc4e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-007-9383-8",
+    "href": "http://data.globalchange.gov/reference/89dae729-6dc5-4675-bf3d-28231143dc4e.json",
+    "identifier": "89dae729-6dc5-4675-bf3d-28231143dc4e",
+    "uri": "/reference/89dae729-6dc5-4675-bf3d-28231143dc4e"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Rogers, B.M.\rNeilson, R.P.\rDrapek, R.\rLenihan, J.M.\rWells, J.R.\rBachelet, D.\rLaw, B.E.",
+        "DOI": "10.1029/2011JG001695",
+        "Issue": "G03037",
+        "Journal": "Journal of Geophysical Research",
+        "Pages": "G03037",
+        "Title": "Impacts of climate change on fire regimes and carbon stocks of the US Pacific Northwest",
+        "URL": "http://terraweb.forestry.oregonstate.edu/pubs/Rogers_2011.pdf",
+        "Volume": "116",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "2659",
+        "_uuid": "5915f6b9-bfaf-4572-b27f-7b93ee8d9a9b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2011JG001695",
+    "href": "http://data.globalchange.gov/reference/5915f6b9-bfaf-4572-b27f-7b93ee8d9a9b.json",
+    "identifier": "5915f6b9-bfaf-4572-b27f-7b93ee8d9a9b",
+    "uri": "/reference/5915f6b9-bfaf-4572-b27f-7b93ee8d9a9b"
+}

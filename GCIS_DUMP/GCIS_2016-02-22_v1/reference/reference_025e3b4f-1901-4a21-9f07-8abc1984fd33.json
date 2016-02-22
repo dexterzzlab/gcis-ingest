@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "The observed global-warming rate has been nonuniform, and the cause of each episode of slowing in the expected warming rate is the subject of intense debate. To explain this, nonrecurrent events have commonly been invoked for each episode separately. After reviewing evidence in both the latest global data (HadCRUT4) and the longest instrumental record, Central England Temperature, a revised picture is emerging that gives a consistent attribution for each multidecadal episode of warming and cooling in recent history, and suggests that the anthropogenic global warming trends might have been overestimated by a factor of two in the second half of the 20th century. A recurrent multidecadal oscillation is found to extend to the preindustrial era in the 353-y Central England Temperature and is likely an internal variability related to the Atlantic Multidecadal Oscillation (AMO), possibly caused by the thermohaline circulation variability. The perspective of a long record helps in quantifying the contribution from internal variability, especially one with a period so long that it is often confused with secular trends in shorter records. Solar contribution is found to be minimal for the second half of the 20th century and less than 10% for the first half. The underlying net anthropogenic warming rate in the industrial era is found to have been steady since 1910 at 0.07\u20130.08 \u00b0C/decade, with superimposed AMO-related ups and downs that included the early 20th century warming, the cooling of the 1960s and 1970s, the accelerated warming of the 1980s and 1990s, and the recent slowing of the warming rates. Quantitatively, the recurrent multidecadal internal variability, often underestimated in attribution studies, accounts for 40% of the observed recent 50-y warming trend.",
+        "Author": "Tung, Ka-Kit\rZhou, Jiansong",
+        "DOI": "10.1073/pnas.1212471110",
+        "Date": "January 23, 2013",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Title": "Using data to attribute episodes of warming and cooling in instrumental records",
+        "URL": "http://www.pnas.org/content/early/2013/01/22/1212471110.full.pdf+html",
+        "Year": "2013",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "4407",
+        "_uuid": "025e3b4f-1901-4a21-9f07-8abc1984fd33",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.1212471110",
+    "href": "http://data.globalchange.gov/reference/025e3b4f-1901-4a21-9f07-8abc1984fd33.json",
+    "identifier": "025e3b4f-1901-4a21-9f07-8abc1984fd33",
+    "uri": "/reference/025e3b4f-1901-4a21-9f07-8abc1984fd33"
+}

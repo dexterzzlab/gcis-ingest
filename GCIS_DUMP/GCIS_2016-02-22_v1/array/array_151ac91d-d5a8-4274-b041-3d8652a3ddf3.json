@@ -1,0 +1,56 @@
+{
+    "href": "http://data.globalchange.gov/array/151ac91d-d5a8-4274-b041-3d8652a3ddf3.json",
+    "identifier": "151ac91d-d5a8-4274-b041-3d8652a3ddf3",
+    "rows": [
+        [
+            "Regional Integrated Sciences and Assessment Center",
+            "Example 2012 Research Topics"
+        ],
+        [
+            "Alaska Center for Climate Assessment and Policy",
+            "Food security in the Kenai Peninsula"
+        ],
+        [
+            "California Nevada Applications Program",
+            "Impacts of climate and weather extremes"
+        ],
+        [
+            "Carolinas Integrated Sciences and Assessments",
+            "Vulnerability and adaptation planning processes for coastal\ncommunities"
+        ],
+        [
+            "Climate Assessment for the Southwest",
+            "Future climate in the city of Tucson"
+        ],
+        [
+            "Climate Impacts Research Consortium",
+            "Adaptation to changes in hydrology in the Big Wood River Basin\nof Idaho"
+        ],
+        [
+            "Consortium for Climate Risk in the Urban Northeast",
+            "Modeling coastal storm surges in the northeast"
+        ],
+        [
+            "Great Lakes Integrated Sciences and Assessments Center",
+            "Climate assessment for the mid-west"
+        ],
+        [
+            "Pacific RISA",
+            "Current state of knowledge about climate change impacts on\nPacific Islands and adaptive capacity in the region"
+        ],
+        [
+            "Southeast Climate Consortium",
+            "Corn crop irrigation and winter rainfall storage in Alabama"
+        ],
+        [
+            "Southern Climate Impacts Planning Program",
+            "Historical storm surges along the Gulf Coast and worldwide"
+        ],
+        [
+            "Western Water Assessment",
+            "Drivers of snow accumulation and melt in the Upper Colorado\nRiver Basin and improving quantitative streamflow forecasts"
+        ]
+    ],
+    "rows_in_header": 1,
+    "uri": "/array/151ac91d-d5a8-4274-b041-3d8652a3ddf3"
+}

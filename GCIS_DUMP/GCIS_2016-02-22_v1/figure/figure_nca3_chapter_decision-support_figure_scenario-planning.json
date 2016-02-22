@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "Scenario planning is an important component of decision-making. This \u201ccone of uncertainty\u201d is used to depict potential futures in Denver Water\u2019s scenario planning exercises. (Figure source: adapted from Waage 2010<tbib>f0de84c3-2097-47be-b7a7-e0d40ead0109</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0H12ZXG",
+        "identifier": "decision-support",
+        "number": 26,
+        "report_identifier": "nca3",
+        "sort_key": 260,
+        "title": "Decision Support: Connecting Science, Risk Perception, and Decisions",
+        "url": "http://nca2014.globalchange.gov/report/response-strategies/decision-support"
+    },
+    "chapter_identifier": "decision-support",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2012-10-02T10:02:00",
+    "files": [
+        {
+            "file": "b9/9e/dcb0b9906806dbfafca638b78f72/DS_scenario_planning_13673_v3.png",
+            "href": "http://data.globalchange.gov/assets/b9/9e/dcb0b9906806dbfafca638b78f72/DS_scenario_planning_13673_v3.png",
+            "identifier": "ce45d719-5185-45c1-91a7-f86e7bfed239",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "66f7c4ee0915a4de4ebc52735697e1b62af7fd10",
+            "size": 164306,
+            "thumbnail": "b9/9e/dcb0b9906806dbfafca638b78f72/.thumb-ce45d719-5185-45c1-91a7-f86e7bfed239.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/b9/9e/dcb0b9906806dbfafca638b78f72/.thumb-ce45d719-5185-45c1-91a7-f86e7bfed239.png",
+            "uri": "/file/ce45d719-5185-45c1-91a7-f86e7bfed239",
+            "url": "/assets/b9/9e/dcb0b9906806dbfafca638b78f72/DS_scenario_planning_13673_v3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/decision-support/figure/scenario-planning.json",
+    "identifier": "scenario-planning",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2012-10-02T10:02:00",
+            "description": null,
+            "identifier": "e03d8ed1-4f45-4f30-99fb-8a671e39d94b",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Scenario Planning",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 6,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "generic 7bd61959-19a0-43ad-80ae-d786619956a1",
+            "note": null,
+            "publication_type_identifier": "generic",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/generic/7bd61959-19a0-43ad-80ae-d786619956a1"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/f0de84c3-2097-47be-b7a7-e0d40ead0109.json",
+            "uri": "/reference/f0de84c3-2097-47be-b7a7-e0d40ead0109"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "adapted from Waage 2010<tbib>f0de84c3-2097-47be-b7a7-e0d40ead0109</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Scenario Planning",
+    "uri": "/report/nca3/chapter/decision-support/figure/scenario-planning",
+    "url": "http://nca2014.globalchange.gov/report/response-strategies/decision-support/graphics/scenario-planning",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "9",
+        "Editor": "Landsberg, B.K.",
+        "ISBN": "9780028657493",
+        "Number of Pages": "1178",
+        "Publisher": "Gale/Cengage Learning",
+        "Title": "Major Acts of Congress. Includes Indian General Allotment Act (Dawes Act) (1887)",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\"]",
+        "_record_number": "3914",
+        "_uuid": "a9825d18-9b23-4123-ba44-457b78e9f960",
+        "reftype": "Edited Book"
+    },
+    "child_publication": "/book/5d49b656-7c2b-4057-b999-3172369b97e7",
+    "href": "http://data.globalchange.gov/reference/a9825d18-9b23-4123-ba44-457b78e9f960.json",
+    "identifier": "a9825d18-9b23-4123-ba44-457b78e9f960",
+    "uri": "/reference/a9825d18-9b23-4123-ba44-457b78e9f960"
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Wu, Dong L.\rLee, Jae N.",
+        "DOI": "10.1029/2011JD017050",
+        "ISSN": "0148-0227",
+        "Issue": "D07107",
+        "Journal": "Journal of Geophysical Research",
+        "Title": "Arctic low cloud changes as observed by MISR and CALIOP: Implication for the enhanced autumnal warming and sea ice loss",
+        "Volume": "117",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "3488",
+        "_uuid": "deeec56d-5a65-4d3e-8c8e-781b6f23ea0a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2011JD017050",
+    "href": "http://data.globalchange.gov/reference/deeec56d-5a65-4d3e-8c8e-781b6f23ea0a.json",
+    "identifier": "deeec56d-5a65-4d3e-8c8e-781b6f23ea0a",
+    "uri": "/reference/deeec56d-5a65-4d3e-8c8e-781b6f23ea0a"
+}

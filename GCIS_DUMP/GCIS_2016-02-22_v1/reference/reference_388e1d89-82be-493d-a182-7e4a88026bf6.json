@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "The World Bank,",
+        "Number of Pages": "157",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "The World Bank ",
+        "Reviewer": "388e1d89-82be-493d-a182-7e4a88026bf6",
+        "Title": "Climate Resilient Cities: A Primer on Reducing Vulnerabilities to Disaster",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "3479",
+        "_uuid": "388e1d89-82be-493d-a182-7e4a88026bf6",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/e4d2c78e-d183-4013-8110-06143be3f55b",
+    "href": "http://data.globalchange.gov/reference/388e1d89-82be-493d-a182-7e4a88026bf6.json",
+    "identifier": "388e1d89-82be-493d-a182-7e4a88026bf6",
+    "uri": "/reference/388e1d89-82be-493d-a182-7e4a88026bf6"
+}

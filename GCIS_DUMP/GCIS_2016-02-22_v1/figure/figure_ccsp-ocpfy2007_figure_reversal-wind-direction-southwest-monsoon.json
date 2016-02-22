@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "This schematic shows the reversal in wind direction during the southwestern monsoon (June to September) resulting from changes in the land-sea pressure gradient. Credit: J.I. Goes, Bigelow Laboratory for Ocean Sciences.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "55/34/39cb2a13683a91a465467c4c413d/our_changing_planet_2007_73_20090708_1219850574.jpg",
+            "href": "http://data.globalchange.gov/assets/55/34/39cb2a13683a91a465467c4c413d/our_changing_planet_2007_73_20090708_1219850574.jpg",
+            "identifier": "be41407c-d914-464b-bb3e-b040f8402777",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "0fe0a0246cda03742c788fea13a530168d265063",
+            "size": 67901,
+            "thumbnail": "55/34/39cb2a13683a91a465467c4c413d/.thumb-be41407c-d914-464b-bb3e-b040f8402777.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/55/34/39cb2a13683a91a465467c4c413d/.thumb-be41407c-d914-464b-bb3e-b040f8402777.png",
+            "uri": "/file/be41407c-d914-464b-bb3e-b040f8402777",
+            "url": "/assets/55/34/39cb2a13683a91a465467c4c413d/our_changing_planet_2007_73_20090708_1219850574.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/reversal-wind-direction-southwest-monsoon.json",
+    "identifier": "reversal-wind-direction-southwest-monsoon",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Reversal in Wind Direction during the Southwest Monsoon",
+    "uri": "/report/ccsp-ocpfy2007/figure/reversal-wind-direction-southwest-monsoon",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

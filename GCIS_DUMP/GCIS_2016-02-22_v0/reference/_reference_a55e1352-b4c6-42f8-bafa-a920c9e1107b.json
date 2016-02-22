@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Souza, K.\rTanimoto, J.",
+        "Institution": "U.S. Global Change Research Program",
+        "Pages": "5",
+        "Place Published": "Washington, D.C.",
+        "Title": "PRiMO IKE Hui Technical Input for the National Climate Assessment \u2013 Tribal Chapter. PRiMO IKE Hui Meeting \u2013 January 2012, Hawai\u2018i",
+        "URL": "http://data.globalchange.gov/report/usgcrp-primo-2012",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\",\"Ch. 1: Overview FINAL\"]",
+        "_record_number": "2909",
+        "_uuid": "a55e1352-b4c6-42f8-bafa-a920c9e1107b",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usgcrp-primo-2012",
+    "href": "http://data.globalchange.gov/reference/a55e1352-b4c6-42f8-bafa-a920c9e1107b.json",
+    "identifier": "a55e1352-b4c6-42f8-bafa-a920c9e1107b",
+    "uri": "/reference/a55e1352-b4c6-42f8-bafa-a920c9e1107b"
+}

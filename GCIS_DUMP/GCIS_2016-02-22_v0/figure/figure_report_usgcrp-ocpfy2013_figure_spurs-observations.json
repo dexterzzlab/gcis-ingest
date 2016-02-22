@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Schematic of the SPURS Observational Strategy. A combination of instrumentation generates high-resolution measurements of the upper ocean. ",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "b7/42/09e1780ecf2820fdc633389f32e4/OCP_2013_Page_18_Image_0001.jpg",
+            "href": "http://data.globalchange.gov/assets/b7/42/09e1780ecf2820fdc633389f32e4/OCP_2013_Page_18_Image_0001.jpg",
+            "identifier": "676c75ad-0d39-4f22-bd33-666618ca668e",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "b4b687dceb0e2b78f3ead0ebbad63d30d40f519c",
+            "size": 174673,
+            "thumbnail": "b7/42/09e1780ecf2820fdc633389f32e4/.thumb-676c75ad-0d39-4f22-bd33-666618ca668e.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/b7/42/09e1780ecf2820fdc633389f32e4/.thumb-676c75ad-0d39-4f22-bd33-666618ca668e.png",
+            "uri": "/file/676c75ad-0d39-4f22-bd33-666618ca668e",
+            "url": "/assets/b7/42/09e1780ecf2820fdc633389f32e4/OCP_2013_Page_18_Image_0001.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2013/figure/spurs-observations.json",
+    "identifier": "spurs-observations",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2013",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "SPURS Observations",
+    "uri": "/report/usgcrp-ocpfy2013/figure/spurs-observations",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

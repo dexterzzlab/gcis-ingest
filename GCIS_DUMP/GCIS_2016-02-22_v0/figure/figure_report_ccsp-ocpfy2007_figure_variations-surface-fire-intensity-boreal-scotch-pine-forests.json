@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Variations in surface fire intensity cause a wide range of fuel consumption, fire emissions, and ecosystem fire effects. Credit: S.G. Conard, U.S. Department of Agriculture Forest Service.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "e7/fd/a90a55afdc4b7322d4fb33e367d3/our_changing_planet_2007_66_20090708_1657447242.jpg",
+            "href": "http://data.globalchange.gov/assets/e7/fd/a90a55afdc4b7322d4fb33e367d3/our_changing_planet_2007_66_20090708_1657447242.jpg",
+            "identifier": "7924b765-798e-4341-81ef-d8ed5f484a48",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "58c3a892388baccadd3474ba0bb29bdf6dc6547b",
+            "size": 20496,
+            "thumbnail": "e7/fd/a90a55afdc4b7322d4fb33e367d3/.thumb-7924b765-798e-4341-81ef-d8ed5f484a48.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/e7/fd/a90a55afdc4b7322d4fb33e367d3/.thumb-7924b765-798e-4341-81ef-d8ed5f484a48.png",
+            "uri": "/file/7924b765-798e-4341-81ef-d8ed5f484a48",
+            "url": "/assets/e7/fd/a90a55afdc4b7322d4fb33e367d3/our_changing_planet_2007_66_20090708_1657447242.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/variations-surface-fire-intensity-boreal-scotch-pine-forests.json",
+    "identifier": "variations-surface-fire-intensity-boreal-scotch-pine-forests",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Variations in Surface Fire Intensity in Boreal Scotch Pine Forests",
+    "uri": "/report/ccsp-ocpfy2007/figure/variations-surface-fire-intensity-boreal-scotch-pine-forests",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

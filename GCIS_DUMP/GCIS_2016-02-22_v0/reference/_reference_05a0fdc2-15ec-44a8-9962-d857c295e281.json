@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Ziska, L.H.\rEpstein, P.R.\rRogers, C.A.",
+        "DOI": "10.1007/s11027-007-9134-1",
+        "ISSN": "1381-2386",
+        "Issue": "5",
+        "Journal": "Mitigation and Adaptation Strategies for Global Change",
+        "Pages": "607-613",
+        "Title": "Climate change, aerobiology, and public health in the Northeast United States",
+        "Volume": "13",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "3553",
+        "_uuid": "05a0fdc2-15ec-44a8-9962-d857c295e281",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s11027-007-9134-1",
+    "href": "http://data.globalchange.gov/reference/05a0fdc2-15ec-44a8-9962-d857c295e281.json",
+    "identifier": "05a0fdc2-15ec-44a8-9962-d857c295e281",
+    "uri": "/reference/05a0fdc2-15ec-44a8-9962-d857c295e281"
+}

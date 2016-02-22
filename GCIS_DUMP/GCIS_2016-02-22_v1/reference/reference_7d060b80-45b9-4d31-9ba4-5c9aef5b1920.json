@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Natural gas is seen by many as the future of American energy: a fuel that can provide energy independence and reduce greenhouse gas emissions in the process. However, there has also been confusion about the climate implications of increased use of natural gas for electric power and transportation. We propose and illustrate the use of technology warming potentials as a robust and transparent way to compare the cumulative radiative forcing created by alternative technologies fueled by natural gas and oil or coal by using the best available estimates of greenhouse gas emissions from each fuel cycle (i.e., production, transportation and use). We find that a shift to compressed natural gas vehicles from gasoline or diesel vehicles leads to greater radiative forcing of the climate for 80 or 280\u00a0yr, respectively, before beginning to produce benefits. Compressed natural gas vehicles could produce climate benefits on all time frames if the well-to-wheels CH4 leakage were capped at a level 45\u201370% below current estimates. By contrast, using natural gas instead of coal for electric power plants can reduce radiative forcing immediately, and reducing CH4 losses from the production and transportation of natural gas would produce even greater benefits. There is a need for the natural gas industry and science community to help obtain better emissions data and for increased efforts to reduce methane leakage in order to minimize the climate footprint of natural gas.",
+        "Author": "Alvarez, Ram\u00f3n A.\rPacala, Stephen W.\rWinebrake, James J.\rChameides, William L.\rHamburg, Steven P.",
+        "DOI": "10.1073/pnas.1202407109",
+        "Date": "April 24, 2012",
+        "Issue": "17",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Pages": "6435-6440",
+        "Title": "Greater focus needed on methane leakage from natural gas infrastructure",
+        "URL": "http://www.pnas.org/content/109/17/6435.full.pdf+html?with-ds=yes",
+        "Volume": "109",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 10: Energy Water Land FINAL\"]",
+        "_record_number": "4280",
+        "_uuid": "7d060b80-45b9-4d31-9ba4-5c9aef5b1920",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.1202407109",
+    "href": "http://data.globalchange.gov/reference/7d060b80-45b9-4d31-9ba4-5c9aef5b1920.json",
+    "identifier": "7d060b80-45b9-4d31-9ba4-5c9aef5b1920",
+    "uri": "/reference/7d060b80-45b9-4d31-9ba4-5c9aef5b1920"
+}

@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Madsen, T.\rFigdor, E.",
+        "Number of Pages": "48",
+        "Publisher": "Environment America Research & Policy Center",
+        "Reviewer": "bba024d7-d202-4bfe-be80-bd4089ce874f",
+        "Title": "When It Rains, It Pours: Global Warming and the Rising Frequency of Extreme Precipitation in the United States",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "1846",
+        "_uuid": "bba024d7-d202-4bfe-be80-bd4089ce874f",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/environmentamerica-when-it-rains",
+    "href": "http://data.globalchange.gov/reference/bba024d7-d202-4bfe-be80-bd4089ce874f.json",
+    "identifier": "bba024d7-d202-4bfe-be80-bd4089ce874f",
+    "uri": "/reference/bba024d7-d202-4bfe-be80-bd4089ce874f"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "Medium-resolution spectro-radiometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/hyper-spectrometer.json",
+    "identifier": "hyper-spectrometer",
+    "name": "Hyper-Spectrometer",
+    "uri": "/instrument/hyper-spectrometer"
+}

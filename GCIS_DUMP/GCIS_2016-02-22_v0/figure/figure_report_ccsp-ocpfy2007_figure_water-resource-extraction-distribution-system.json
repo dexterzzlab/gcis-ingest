@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "(a) Diagram showing components of water resource extraction and distribution system; and (b) generalized groundwater budget for the Santa Clara-Calleguas Basin, Ventura County, California. Credit: R.T. Hanson and M.D. Dettinger, University of California at San Diego.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "07/33/4bc949db3e64e73479f2f64f3156/our_changing_planet_2007_52_20090708_1443146702.jpg",
+            "href": "http://data.globalchange.gov/assets/07/33/4bc949db3e64e73479f2f64f3156/our_changing_planet_2007_52_20090708_1443146702.jpg",
+            "identifier": "ef8288c9-728d-4bf4-aef6-72f4727a655e",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "4b0b219acc942423e6625206d52303e44caf4406",
+            "size": 45480,
+            "thumbnail": "07/33/4bc949db3e64e73479f2f64f3156/.thumb-ef8288c9-728d-4bf4-aef6-72f4727a655e.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/07/33/4bc949db3e64e73479f2f64f3156/.thumb-ef8288c9-728d-4bf4-aef6-72f4727a655e.png",
+            "uri": "/file/ef8288c9-728d-4bf4-aef6-72f4727a655e",
+            "url": "/assets/07/33/4bc949db3e64e73479f2f64f3156/our_changing_planet_2007_52_20090708_1443146702.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/water-resource-extraction-distribution-system.json",
+    "identifier": "water-resource-extraction-distribution-system",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Water Resource Extraction and Distribution System",
+    "uri": "/report/ccsp-ocpfy2007/figure/water-resource-extraction-distribution-system",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

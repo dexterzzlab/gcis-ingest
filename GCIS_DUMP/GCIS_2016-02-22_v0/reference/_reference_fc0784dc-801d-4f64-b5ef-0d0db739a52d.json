@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "AFWA,",
+        "Institution": "Association of Fish and Wildlife Agencies",
+        "Pages": "90",
+        "Place Published": "Washington, D.C.",
+        "Title": "State Climate Adaptation Summary Report",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "1592",
+        "_uuid": "fc0784dc-801d-4f64-b5ef-0d0db739a52d",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/state-climate-2011",
+    "href": "http://data.globalchange.gov/reference/fc0784dc-801d-4f64-b5ef-0d0db739a52d.json",
+    "identifier": "fc0784dc-801d-4f64-b5ef-0d0db739a52d",
+    "uri": "/reference/fc0784dc-801d-4f64-b5ef-0d0db739a52d"
+}

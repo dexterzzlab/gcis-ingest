@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/ccsp-sap-3_1-2008.json",
+    "identifier": "ccsp-sap-3_1-2008",
+    "in_library": 1,
+    "publication_year": 2008,
+    "report_type_identifier": "report",
+    "summary": "Climate Models: An Assessment of Strengths and Limitations. A Report by the U.S. Climate Change Science Program. ",
+    "title": "SAP 3.1. Climate Models: An Assessment of Strengths and Limitations",
+    "topic": "Modeling,Physical Climate",
+    "uri": "/report/ccsp-sap-3_1-2008",
+    "url": null
+}

@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Church, J.A.\rWoodworth, P.L.\rAarup, T.\rWilson, W.S.",
+        "ISBN": "9781444334517",
+        "Publisher": "Blackwell Publishing, Ltd",
+        "Reviewer": "add8c30d-0ce5-4564-9078-424fe367a2a4",
+        "Title": "Understanding Sea-Level Rise And Variability",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "1727",
+        "_uuid": "add8c30d-0ce5-4564-9078-424fe367a2a4",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/8bb374ed-497c-44e7-b821-b441d4e787f4",
+    "href": "http://data.globalchange.gov/reference/add8c30d-0ce5-4564-9078-424fe367a2a4.json",
+    "identifier": "add8c30d-0ce5-4564-9078-424fe367a2a4",
+    "uri": "/reference/add8c30d-0ce5-4564-9078-424fe367a2a4"
+}

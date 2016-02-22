@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "3",
+        "Author": "Romanovsky, V.E.\rS.S. Marchenko\rR. Daanen\rD.O. Sergeev\rD.A. Walker",
+        "Conference Location": "Institute of Northern Engineering, University of Alaska Fairbanks",
+        "Conference Name": "Proceedings of the Ninth International Conference on Permafrost",
+        "Editor": "Kane, D.L. \rK.M. Hinkel",
+        "Pages": "1519-1524",
+        "Title": "Soil climate and frost heave along the Permafrost/Ecological North American Arctic Transect",
+        "Volume": "2",
+        "Year of Conference": "2008",
+        "_chapter": "[\"RG 7 Alaska\",\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "3818",
+        "_uuid": "5cd0de9f-02da-4ea2-acb4-fb123bddb22c",
+        "reftype": "Conference Proceedings"
+    },
+    "child_publication": "/generic/8c27c4f0-cab8-4ef9-92ec-0f828d8cd03d",
+    "href": "http://data.globalchange.gov/reference/5cd0de9f-02da-4ea2-acb4-fb123bddb22c.json",
+    "identifier": "5cd0de9f-02da-4ea2-acb4-fb123bddb22c",
+    "uri": "/reference/5cd0de9f-02da-4ea2-acb4-fb123bddb22c"
+}

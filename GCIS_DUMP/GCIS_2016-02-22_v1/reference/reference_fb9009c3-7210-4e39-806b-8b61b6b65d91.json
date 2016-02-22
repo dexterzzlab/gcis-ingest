@@ -1,0 +1,17 @@
+{
+    "attrs": {
+        ".reference_type": "36",
+        "Author": "Massachusetts v. Environmental Protection Agency, ",
+        "Title": "549 U.S. 497",
+        "URL": "http://www.supremecourt.gov/opinions/06pdf/05-1120.pdf",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "4702",
+        "_uuid": "fb9009c3-7210-4e39-806b-8b61b6b65d91",
+        "reftype": "Legal Rule or Regulation"
+    },
+    "child_publication": "/report/supreme-court-05-1120-syllabus",
+    "href": "http://data.globalchange.gov/reference/fb9009c3-7210-4e39-806b-8b61b6b65d91.json",
+    "identifier": "fb9009c3-7210-4e39-806b-8b61b6b65d91",
+    "uri": "/reference/fb9009c3-7210-4e39-806b-8b61b6b65d91"
+}

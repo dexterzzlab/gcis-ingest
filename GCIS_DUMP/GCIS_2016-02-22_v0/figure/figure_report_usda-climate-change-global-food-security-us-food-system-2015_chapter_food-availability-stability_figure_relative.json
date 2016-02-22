@@ -1,0 +1,33 @@
+{
+    "attributes": null,
+    "caption": null,
+    "chapter": {
+        "doi": null,
+        "identifier": "food-availability-stability",
+        "number": 5,
+        "report_identifier": "usda-climate-change-global-food-security-us-food-system-2015",
+        "sort_key": 50,
+        "title": "Food Availability and Stability",
+        "url": null
+    },
+    "chapter_identifier": "food-availability-stability",
+    "cited_by": [],
+    "create_dt": null,
+    "href": "http://data.globalchange.gov/report/usda-climate-change-global-food-security-us-food-system-2015/chapter/food-availability-stability/figure/relative-risks-key-food-availability-elements-different-ssps.json",
+    "identifier": "relative-risks-key-food-availability-elements-different-ssps",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 29,
+    "report_identifier": "usda-climate-change-global-food-security-us-food-system-2015",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Relative risks to key food availability elements for different SSPs",
+    "uri": "/report/usda-climate-change-global-food-security-us-food-system-2015/chapter/food-availability-stability/figure/relative-risks-key-food-availability-elements-different-ssps",
+    "url": null,
+    "usage_limits": null
+}

@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Rahel, Frank J.\rBierwagen, Britta\rTaniguchi, Yoshinori",
+        "DOI": "10.1111/j.1523-1739.2008.00953.x",
+        "ISSN": "1523-1739",
+        "Issue": "3",
+        "Journal": "Conservation Biology",
+        "Keywords": "Climate change",
+        "Pages": "551-561",
+        "Title": "Managing aquatic species of conservation concern in the face of climate change and invasive species",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/j.1523-1739.2008.00953.x/pdf",
+        "Volume": "22",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "2573",
+        "_uuid": "195caf57-7efe-4687-8c4b-54ea3410f842",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1523-1739.2008.00953.x",
+    "href": "http://data.globalchange.gov/reference/195caf57-7efe-4687-8c4b-54ea3410f842.json",
+    "identifier": "195caf57-7efe-4687-8c4b-54ea3410f842",
+    "uri": "/reference/195caf57-7efe-4687-8c4b-54ea3410f842"
+}

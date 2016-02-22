@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Bennett, J.W.",
+        "ISBN": "9781412825627",
+        "Number of Pages": "378",
+        "Place Published": "New Brunswick",
+        "Publisher": "Transaction Publishers",
+        "Reviewer": "786e8d79-be34-48ac-b806-8b9fcb50e122",
+        "Title": "Human Ecology as Human Behavior: Essays in Environmental and Development Anthropology",
+        "Year": "1996",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\"]",
+        "_record_number": "3879",
+        "_uuid": "786e8d79-be34-48ac-b806-8b9fcb50e122",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/7209799d-4bb8-439d-8470-88e6e9c50a95",
+    "href": "http://data.globalchange.gov/reference/786e8d79-be34-48ac-b806-8b9fcb50e122.json",
+    "identifier": "786e8d79-be34-48ac-b806-8b9fcb50e122",
+    "uri": "/reference/786e8d79-be34-48ac-b806-8b9fcb50e122"
+}

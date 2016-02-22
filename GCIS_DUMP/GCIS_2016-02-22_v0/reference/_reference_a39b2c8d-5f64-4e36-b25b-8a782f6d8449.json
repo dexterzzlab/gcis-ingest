@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"34\" /><run start=\"35\" /></field></record>",
+        "Author": "Dijkstra, F.A.\rBlumenthal, D.\rMorgan, J.A.\rPendall, E.\rCarrillo, Y.\rFollett, R.F.",
+        "DOI": "10.1111/j.1469-8137.2010.03293.x",
+        "ISSN": "1469-8137",
+        "Issue": "2",
+        "Journal": "New Phytologist",
+        "Pages": "426-437",
+        "Title": "Contrasting effects of elevated CO2 and warming on nitrogen cycling in a semiarid grassland",
+        "Volume": "187",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "456",
+        "_uuid": "a39b2c8d-5f64-4e36-b25b-8a782f6d8449",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1469-8137.2010.03293.x",
+    "href": "http://data.globalchange.gov/reference/a39b2c8d-5f64-4e36-b25b-8a782f6d8449.json",
+    "identifier": "a39b2c8d-5f64-4e36-b25b-8a782f6d8449",
+    "uri": "/reference/a39b2c8d-5f64-4e36-b25b-8a782f6d8449"
+}

@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "The High-performance Instrumented Airborne Platform (HIAPER) aircraft. Credit: University Corporation for Atmospheric Research.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "d3/73/a100243a164309e868c865cee6fd/our_changing_planet_2004-2005_26_20090708_1335198713.jpg",
+            "href": "http://data.globalchange.gov/assets/d3/73/a100243a164309e868c865cee6fd/our_changing_planet_2004-2005_26_20090708_1335198713.jpg",
+            "identifier": "e397e2a3-0547-44ac-8627-b20bfaba9752",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "94bd01aa627bc89daca0345e96980f83321b72ab",
+            "size": 41731,
+            "thumbnail": "d3/73/a100243a164309e868c865cee6fd/.thumb-e397e2a3-0547-44ac-8627-b20bfaba9752.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/d3/73/a100243a164309e868c865cee6fd/.thumb-e397e2a3-0547-44ac-8627-b20bfaba9752.png",
+            "uri": "/file/e397e2a3-0547-44ac-8627-b20bfaba9752",
+            "url": "/assets/d3/73/a100243a164309e868c865cee6fd/our_changing_planet_2004-2005_26_20090708_1335198713.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2004and2005/figure/hiaper-aircraft.json",
+    "identifier": "hiaper-aircraft",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2004and2005",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "HIAPER Aircraft",
+    "uri": "/report/ccsp-ocpfy2004and2005/figure/hiaper-aircraft",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

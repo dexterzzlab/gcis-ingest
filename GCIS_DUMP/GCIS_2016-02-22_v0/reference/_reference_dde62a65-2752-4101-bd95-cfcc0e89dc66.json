@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Lander, M. A.\rGuard, C. P.",
+        "Institution": "Water and Environmental Research Institute of the Western Pacific, University of Guam",
+        "Pages": "32",
+        "Title": "Creation of a 50-Year Rainfall Database, Annual Rainfall Climatology, and Annual Rainfall Distribution Map for Guam (Report No. 102)",
+        "URL": "http://www.weriguam.org/docs/reports/102.pdf",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "485",
+        "_uuid": "dde62a65-2752-4101-bd95-cfcc0e89dc66",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/weri-report-102",
+    "href": "http://data.globalchange.gov/reference/dde62a65-2752-4101-bd95-cfcc0e89dc66.json",
+    "identifier": "dde62a65-2752-4101-bd95-cfcc0e89dc66",
+    "uri": "/reference/dde62a65-2752-4101-bd95-cfcc0e89dc66"
+}

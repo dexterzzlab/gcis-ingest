@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "Changes in the mix and increasing diversity of technologies used to observe climate (IGY is the International Geophysical Year). (Figure source: adapted from Br\u00f6nnimann et al. 2007<tbib>cbde995d-cb2f-4be8-879b-666e25bd29a1</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0KS6PHH",
+        "identifier": "appendix-climate-science-supplement",
+        "number": 33,
+        "report_identifier": "nca3",
+        "sort_key": 330,
+        "title": "Appendix 3: Climate Science Supplement",
+        "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement"
+    },
+    "chapter_identifier": "appendix-climate-science-supplement",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2012-12-20T14:32:00",
+    "files": [
+        {
+            "file": "ae/cb/698cdc7f97117b85a188eb89bcc2/APP_obs_systems_V2.png",
+            "href": "http://data.globalchange.gov/assets/ae/cb/698cdc7f97117b85a188eb89bcc2/APP_obs_systems_V2.png",
+            "identifier": "a9fbf332-498d-46a3-8121-a5c583e9665e",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "bed50abe75b3195e407612baefda86f5d6d71926",
+            "size": 201739,
+            "thumbnail": "ae/cb/698cdc7f97117b85a188eb89bcc2/.thumb-a9fbf332-498d-46a3-8121-a5c583e9665e.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/ae/cb/698cdc7f97117b85a188eb89bcc2/.thumb-a9fbf332-498d-46a3-8121-a5c583e9665e.png",
+            "uri": "/file/a9fbf332-498d-46a3-8121-a5c583e9665e",
+            "url": "/assets/ae/cb/698cdc7f97117b85a188eb89bcc2/APP_obs_systems_V2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-climate-science-supplement/figure/development-of-observing-capabilities.json",
+    "identifier": "development-of-observing-capabilities",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2012-12-20T14:32:00",
+            "description": null,
+            "identifier": "8c3eca16-50ff-4ec7-b225-17e603d0d3e5",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2000-12-31T23:59:59",
+            "time_start": "1880-01-01T00:00:00",
+            "title": "Development of Observing Capabilities",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 7,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Climate Variability and Extrem...",
+            "note": null,
+            "publication_type_identifier": "book",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/book/998aa4c2-9f0d-478c-b7bb-19e383c628a9"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/cbde995d-cb2f-4be8-879b-666e25bd29a1.json",
+            "uri": "/reference/cbde995d-cb2f-4be8-879b-666e25bd29a1"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "adapted from Br\u00f6nnimann et al. 2007<tbib>cbde995d-cb2f-4be8-879b-666e25bd29a1</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Development of Observing Capabilities",
+    "uri": "/report/nca3/chapter/appendix-climate-science-supplement/figure/development-of-observing-capabilities",
+    "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/development-observing-capabilities",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

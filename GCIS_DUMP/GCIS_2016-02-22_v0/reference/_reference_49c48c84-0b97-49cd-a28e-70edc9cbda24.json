@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "EIA,",
+        "Institution": "U.S. Energy Information Administration",
+        "Place Published": "Washington, D.C.",
+        "Title": "International Energy Outlook 2011",
+        "URL": "http://www.eia.gov/forecasts/archive/ieo11/",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "4084",
+        "_uuid": "49c48c84-0b97-49cd-a28e-70edc9cbda24",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/eia-ieo2011",
+    "href": "http://data.globalchange.gov/reference/49c48c84-0b97-49cd-a28e-70edc9cbda24.json",
+    "identifier": "49c48c84-0b97-49cd-a28e-70edc9cbda24",
+    "uri": "/reference/49c48c84-0b97-49cd-a28e-70edc9cbda24"
+}

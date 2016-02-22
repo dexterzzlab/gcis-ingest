@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Ward, J.R.\rKim, K.\rHarvell, C.D.",
+        "DOI": "10.3354/meps329115",
+        "ISSN": "0171-8630",
+        "Journal": "Marine Ecology Progress Series",
+        "Pages": "115-121",
+        "Title": "Temperature affects coral disease resistance and pathogen growth",
+        "Volume": "329",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\",\"RF 11\"]",
+        "_record_number": "3347",
+        "_uuid": "213f92d3-4f17-4aa9-91de-df0863572b5c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.3354/meps329115",
+    "href": "http://data.globalchange.gov/reference/213f92d3-4f17-4aa9-91de-df0863572b5c.json",
+    "identifier": "213f92d3-4f17-4aa9-91de-df0863572b5c",
+    "uri": "/reference/213f92d3-4f17-4aa9-91de-df0863572b5c"
+}

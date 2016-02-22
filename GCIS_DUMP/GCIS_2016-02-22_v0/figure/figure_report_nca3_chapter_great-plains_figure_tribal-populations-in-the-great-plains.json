@@ -1,0 +1,57 @@
+{
+    "attributes": null,
+    "caption": "Tribal populations in the Great Plains are concentrated near large\r\n    reservations, like various Sioux tribes in South Dakota and Blackfeet and Crow reservations in Montana; and in Cherokee,\r\n    Chickasaw, Choctaw, and other tribal lands in Oklahoma (Figure source: reproduced from Atlas of the Great Plains by Stephen J.\r\n    Lavin, Clark J. Archer, and Fred M. Shelley by permission of the University of Nebraska. Copyright 2011 by the Board of Regents\r\n    of the University of Nebraska<tbib>78ea39e1-a79d-4219-aa6c-7681d3dde246</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0D798BC",
+        "identifier": "great-plains",
+        "number": 19,
+        "report_identifier": "nca3",
+        "sort_key": 190,
+        "title": "Great Plains",
+        "url": "http://nca2014.globalchange.gov/report/regions/great-plains"
+    },
+    "chapter_identifier": "great-plains",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "1b/f9/bfce6bb1f567d3ed73ff9b9248f7/GP_tribal_population_V5_right_panel_only.png",
+            "href": "http://data.globalchange.gov/assets/1b/f9/bfce6bb1f567d3ed73ff9b9248f7/GP_tribal_population_V5_right_panel_only.png",
+            "identifier": "daebd6ec-7006-47ce-b190-42c8e72510bc",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "86bf64ac6264a63ffc8a09fd60db6fa1c2313988",
+            "size": 67707,
+            "thumbnail": "1b/f9/bfce6bb1f567d3ed73ff9b9248f7/.thumb-daebd6ec-7006-47ce-b190-42c8e72510bc.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/1b/f9/bfce6bb1f567d3ed73ff9b9248f7/.thumb-daebd6ec-7006-47ce-b190-42c8e72510bc.png",
+            "uri": "/file/daebd6ec-7006-47ce-b190-42c8e72510bc",
+            "url": "/assets/1b/f9/bfce6bb1f567d3ed73ff9b9248f7/GP_tribal_population_V5_right_panel_only.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/great-plains/figure/tribal-populations-in-the-great-plains.json",
+    "identifier": "tribal-populations-in-the-great-plains",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 9,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/78ea39e1-a79d-4219-aa6c-7681d3dde246.json",
+            "uri": "/reference/78ea39e1-a79d-4219-aa6c-7681d3dde246"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "reproduced from Atlas of the Great Plains by Stephen J. Lavin, Clark J. Archer, and Fred M. Shelley by permission of the University of Nebraska. Copyright 2011 by the Board of Regents of the University of Nebraska<tbib>78ea39e1-a79d-4219-aa6c-7681d3dde246</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Tribal Populations in the Great Plains",
+    "uri": "/report/nca3/chapter/great-plains/figure/tribal-populations-in-the-great-plains",
+    "url": "http://nca2014.globalchange.gov/report/regions/great-plains/graphics/tribal-populations-great-plains",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

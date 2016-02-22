@@ -1,0 +1,52 @@
+{
+    "attributes": null,
+    "caption": "Different amounts of heat-trapping gases released into the atmosphere by human activities produce different projected increases in Earth\u2019s temperature. The lines on the graph represent a central estimate of global average temperature rise (relative to the 1901- 1960 average) for the two main scenarios used in this report. A2 assumes continued increases in emissions throughout this century, and B1 assumes significant emissions reductions, though not due explicitly to climate change policies. Shading indicates the range (5th to 95th percentile) of results from a suite of climate models. In both cases, temperatures are expected to rise, although the difference between lower and higher emissions pathways is substantial. (Figure source: NOAA NCDC / CICS-NC).",
+    "chapter": {
+        "doi": "10.7930/J0QN64NJ",
+        "identifier": "executive-summary",
+        "number": 1,
+        "report_identifier": "nca3",
+        "sort_key": 10,
+        "title": "Overview and Report Findings",
+        "url": " http://nca2014.globalchange.gov/highlights/overview/overview#narrative-page-20884"
+    },
+    "chapter_identifier": "executive-summary",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "2b/a9/40ae3e4b18b2b3eb609662669eb0/OV_projected_global_temp_change_V1.png",
+            "href": "http://data.globalchange.gov/assets/2b/a9/40ae3e4b18b2b3eb609662669eb0/OV_projected_global_temp_change_V1.png",
+            "identifier": "becfd281-769a-4a64-a6f4-bdea4e0f7e71",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "76fe928ee9f714c14cf220717a2646e2ea5a6f40",
+            "size": 90053,
+            "thumbnail": "2b/a9/40ae3e4b18b2b3eb609662669eb0/.thumb-becfd281-769a-4a64-a6f4-bdea4e0f7e71.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/2b/a9/40ae3e4b18b2b3eb609662669eb0/.thumb-becfd281-769a-4a64-a6f4-bdea4e0f7e71.png",
+            "uri": "/file/becfd281-769a-4a64-a6f4-bdea4e0f7e71",
+            "url": "/assets/2b/a9/40ae3e4b18b2b3eb609662669eb0/OV_projected_global_temp_change_V1.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/executive-summary/figure/overview-projected-global-temperature-change.json",
+    "identifier": "overview-projected-global-temperature-change",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Projected Global Temperature Change",
+    "uri": "/report/nca3/chapter/executive-summary/figure/overview-projected-global-temperature-change",
+    "url": null,
+    "usage_limits": null
+}

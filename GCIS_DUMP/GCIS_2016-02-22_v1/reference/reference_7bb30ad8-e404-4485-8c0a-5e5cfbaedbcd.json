@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "3",
+        "Author": "Guston, David H.\rClark, William\rKeating, Terry\rCash, David \rMoser, Susanne\rMiller, Clark\rPowers, Charles",
+        "Conference Location": "Bloustein School of Planning and Public Policy, Rutgers University, New Brunswick, NJ",
+        "Date": "December 9-10, 1999",
+        "Pages": "41",
+        "Publisher": "Environmental and Occupational Health Sciences Institute at Rutgers University and UMDNJ-RWJMS, Global Environmental Assessment Project, Environment and Natural Resources Program, Kennedy School of Government, Harvard University",
+        "Title": "Report of the Workshop on Boundary Organizations in Environmental Policy and Science. Belfer Center for Science and International Affairs (BCSIA) Discussion Paper 2000-32",
+        "URL": "http://www.hks.harvard.edu/gea/pubs/huru1.pdf",
+        "Year of Conference": "2000",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "1432",
+        "_uuid": "7bb30ad8-e404-4485-8c0a-5e5cfbaedbcd",
+        "reftype": "Conference Proceedings"
+    },
+    "child_publication": "/report/gea-project-discussion-paper-2000-32",
+    "href": "http://data.globalchange.gov/reference/7bb30ad8-e404-4485-8c0a-5e5cfbaedbcd.json",
+    "identifier": "7bb30ad8-e404-4485-8c0a-5e5cfbaedbcd",
+    "uri": "/reference/7bb30ad8-e404-4485-8c0a-5e5cfbaedbcd"
+}

@@ -1,0 +1,88 @@
+{
+    "attributes": null,
+    "caption": "These are just some of the indicators measured globally over many decades that show that the Earth\u2019s climate is warming. White arrows indicate increasing trends, and black arrows indicate decreasing trends. All the indicators expected to increase in a warming world are, in fact, increasing, and all those expected to decrease in a warming world are decreasing. (Figure source: NOAA NCDC based on data updated from Kennedy et al. 2010<tbib>25578196-95d0-4ac7-b889-0e863985423d</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0KW5CXT",
+        "identifier": "our-changing-climate",
+        "number": 2,
+        "report_identifier": "nca3",
+        "sort_key": 20,
+        "title": "Our Changing Climate",
+        "url": "http://nca2014.globalchange.gov/report/our-changing-climate/introduction"
+    },
+    "chapter_identifier": "our-changing-climate",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-10-21T13:19:02",
+    "files": [
+        {
+            "file": "e5/ee/9329d76bf3f5298dad58d85887bd/ch02_html_2d17883a.png",
+            "href": "http://data.globalchange.gov/assets/e5/ee/9329d76bf3f5298dad58d85887bd/ch02_html_2d17883a.png",
+            "identifier": "f6b02312-0933-494c-be43-85cb440a1515",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "40a4bd528e408968c49f6db52085ad5044e91689",
+            "size": 1840738,
+            "thumbnail": "e5/ee/9329d76bf3f5298dad58d85887bd/.thumb-f6b02312-0933-494c-be43-85cb440a1515.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/e5/ee/9329d76bf3f5298dad58d85887bd/.thumb-f6b02312-0933-494c-be43-85cb440a1515.png",
+            "uri": "/file/f6b02312-0933-494c-be43-85cb440a1515",
+            "url": "/assets/e5/ee/9329d76bf3f5298dad58d85887bd/ch02_html_2d17883a.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/our-changing-climate/figure/ten-indicators-of-a-warming-world.json",
+    "identifier": "ten-indicators-of-a-warming-world",
+    "images": [
+        {
+            "attributes": "indicators, observed, atmosphere, cryosphere, ocean, terrestrial, warming world, composite",
+            "create_dt": "2013-10-21T13:19:02",
+            "description": null,
+            "identifier": "0bcb7984-50c0-4f94-9946-c3fa635125a4",
+            "lat_max": "90.00",
+            "lat_min": "-90.00",
+            "lon_max": "180.00",
+            "lon_min": "-180.00",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2009-12-31T23:59:59",
+            "time_start": "1850-01-01T00:00:00",
+            "title": "Ten Indicators of a Warming World",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [
+        "/report/nca3/chapter/appendix-faqs/figure/caq-ten-indicators-of-a-warming-world",
+        "/report/nca3/chapter/executive-summary/figure/overview-ten-indicators-of-a-warming-world"
+    ],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 1,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "2009 State of the Climate Highlights",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/noaa-state-of-the-climate-highlights-2009"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/25578196-95d0-4ac7-b889-0e863985423d.json",
+            "uri": "/reference/25578196-95d0-4ac7-b889-0e863985423d"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "NOAA NCDC based on data updated from Kennedy et al. 2010<tbib>25578196-95d0-4ac7-b889-0e863985423d</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Ten Indicators of a Warming World",
+    "uri": "/report/nca3/chapter/our-changing-climate/figure/ten-indicators-of-a-warming-world",
+    "url": "http://nca2014.globalchange.gov/highlights/overview/overview/graphics/ten-indicators-warming-world",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

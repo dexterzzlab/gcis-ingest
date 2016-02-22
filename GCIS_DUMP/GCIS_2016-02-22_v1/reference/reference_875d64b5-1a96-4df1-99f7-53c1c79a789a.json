@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Pidgeon, N.\rFischhoff, B.",
+        "DOI": "10.1038/nclimate1080",
+        "ISSN": "1758-678X",
+        "Issue": "1",
+        "Journal": "Nature Climate Change",
+        "Pages": "35-41",
+        "Title": "The role of social and decision sciences in communicating uncertain climate risks",
+        "URL": "http://www.nature.com/nclimate/journal/v1/n1/pdf/nclimate1080.pdf",
+        "Volume": "1",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "2489",
+        "_uuid": "875d64b5-1a96-4df1-99f7-53c1c79a789a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/nclimate1080",
+    "href": "http://data.globalchange.gov/reference/875d64b5-1a96-4df1-99f7-53c1c79a789a.json",
+    "identifier": "875d64b5-1a96-4df1-99f7-53c1c79a789a",
+    "uri": "/reference/875d64b5-1a96-4df1-99f7-53c1c79a789a"
+}

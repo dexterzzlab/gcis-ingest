@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "A negative correlation existed between summer maximum temperature (mean daily maximum temperature during June) and subsequent abundance of the lichen Collema, which dominates the biological soil crust in many semi-arid western ecosystems. Even after 2 cooler years, the lichen had not recovered from the warm period of 1997 to 2003. Credit: J. Belnap, S.L. Phillips, and T.T. Troxler, U.S. Geological Survey.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "d9/01/391fb67a3c18bd0bbd033cf9906f/our_changing_planet_2007_71_20090708_1035921375.jpg",
+            "href": "http://data.globalchange.gov/assets/d9/01/391fb67a3c18bd0bbd033cf9906f/our_changing_planet_2007_71_20090708_1035921375.jpg",
+            "identifier": "7d9f56ca-beda-4237-8b57-4cb65d35ac41",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "e277a0e53fd00334a9af0b3e4440339254575676",
+            "size": 30654,
+            "thumbnail": "d9/01/391fb67a3c18bd0bbd033cf9906f/.thumb-7d9f56ca-beda-4237-8b57-4cb65d35ac41.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/d9/01/391fb67a3c18bd0bbd033cf9906f/.thumb-7d9f56ca-beda-4237-8b57-4cb65d35ac41.png",
+            "uri": "/file/7d9f56ca-beda-4237-8b57-4cb65d35ac41",
+            "url": "/assets/d9/01/391fb67a3c18bd0bbd033cf9906f/our_changing_planet_2007_71_20090708_1035921375.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/summer-maximum-temperature-abundance-collema.json",
+    "identifier": "summer-maximum-temperature-abundance-collema",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Summer Maximum Temperature and the Abundance of Collema",
+    "uri": "/report/ccsp-ocpfy2007/figure/summer-maximum-temperature-abundance-collema",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/ipcc-ar5-wg3.json",
+    "identifier": "ipcc-ar5-wg3",
+    "in_library": null,
+    "publication_year": null,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Climate Change 2014: Mitigation of Climate Change: IPCC Working Group III Contribution to AR5",
+    "topic": null,
+    "uri": "/report/ipcc-ar5-wg3",
+    "url": "http://mitigation2014.org/"
+}

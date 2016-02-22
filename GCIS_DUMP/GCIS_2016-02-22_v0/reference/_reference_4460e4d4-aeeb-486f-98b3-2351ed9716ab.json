@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Detecting latitudinal range shifts of forest trees in response to recent climate change is difficult because of slow demographic rates and limited dispersal but may be facilitated by spatially compressed climatic zones along elevation gradients in montane environments. We resurveyed forest plots established in 1964 along elevation transects in the Green Mountains (Vermont) to examine whether a shift had occurred in the location of the northern hardwood-boreal forest ecotone (NBE) from 1964 to 2004. We found a 19% increase in dominance of northern hard-woods from 70% in 1964 to 89% in 2004 in the lower half of the NBE. This shift was driven by a decrease (up to 76%) in boreal and increase (up to 16%) in northern hardwood basal area within the lower portions of the ecotone. We used aerial photographs and satellite imagery to estimate a 91- to 119-m upslope shift in the upper limits of the NBE from 1962 to 2005. The upward shift is consistent with regional climatic change during the same period; interpolating climate data to the NBE showed a 1.1 degrees C increase in annual temperature, which would predict a 208-m upslope movement of the ecotone, along with a 34% increase in precipitation. The rapid upward movement of the NBE indicates. little inertia to climatically induced range shifts in montane forests; the upslope shift may have been accelerated by high turnover in canopy trees that provided opportunities for ingrowth of lower elevation species. Our results indicate that high-elevation forests may be jeopardized by climate change sooner than anticipated.",
+        "Alternate Journal": "P Natl Acad Sci USA",
+        "Author": "Beckage, B.\rOsborne, B.\rGavin, D. G.\rPucko, C.\rSiccama, T.\rPerkins, T.",
+        "Author Address": "Beckage, B; Univ Vermont, Dept Plant Biol, Burlington, VT 05405 USA; Univ Vermont, Dept Plant Biol, Burlington, VT 05405 USA; Univ Vermont, Dept Plant Biol, Burlington, VT 05405 USA; Yale Univ, Sch Forestry & Environm Studies, New Haven, CT 06511 USA; Univ Vermont, Proctor Maple Res Ctr, Underhill Ctr, VT 05490 USA",
+        "DOI": "10.1073/pnas.0708921105",
+        "Date": "Mar 18",
+        "ISSN": "0027-8424",
+        "Issue": "11",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Keywords": "climate change; range shift; eastern north-america; climate-change; camels-hump; red spruce; temperature; decline; variability; responses; model; vegetation",
+        "Language": "English",
+        "Notes": "278DH; Times Cited:55; Cited References Count:49",
+        "Pages": "4197-4202",
+        "Title": "A rapid upward shift of a forest ecotone during 40 years of warming in the Green Mountains of Vermont",
+        "Volume": "105",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\",\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "1372",
+        "_uuid": "4460e4d4-aeeb-486f-98b3-2351ed9716ab",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.0708921105",
+    "href": "http://data.globalchange.gov/reference/4460e4d4-aeeb-486f-98b3-2351ed9716ab.json",
+    "identifier": "4460e4d4-aeeb-486f-98b3-2351ed9716ab",
+    "uri": "/reference/4460e4d4-aeeb-486f-98b3-2351ed9716ab"
+}

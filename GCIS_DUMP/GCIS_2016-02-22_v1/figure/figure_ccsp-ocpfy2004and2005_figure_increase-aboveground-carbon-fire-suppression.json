@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Simulated increase in total aboveground carbon (kg m-2) due to fire suppression by the end of 2003. The map represents the first estimate of the amounts and locations of accumulated carbon in ecosystems as a direct result of over 50 years of fire suppression. The MC1 Dynamic General Vegetation Model is being used as a tool for forecasting wildfire over the course of the next 7 months, updated each month. Historical records show a dramatic drop in the area of wildfire over the United States, due to fire suppression, since the early 1950s. Although the map should be treated as an hypothesis to be tested, it does suggest areas that could be at risk of increased wildfire intensity due to fuels accumulation. However, historical simulations also underscore that interannual and interdecadal climatic variability are significant causes of recent increases in U.S. fire area. Credit: James M. Lenihan, MAPSS Team, Pacific Northwest Research Station, USDA Forest Service.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "59/52/832fc86facb5be8d448129e98677/our_changing_planet_2004-2005_16_20090708_1156819828.jpg",
+            "href": "http://data.globalchange.gov/assets/59/52/832fc86facb5be8d448129e98677/our_changing_planet_2004-2005_16_20090708_1156819828.jpg",
+            "identifier": "c7c15b85-10e3-44aa-8b45-7a693fbbacb1",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "d1f768e13c3b11e0e1f257a17e72dc8574a8af2e",
+            "size": 100544,
+            "thumbnail": "59/52/832fc86facb5be8d448129e98677/.thumb-c7c15b85-10e3-44aa-8b45-7a693fbbacb1.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/59/52/832fc86facb5be8d448129e98677/.thumb-c7c15b85-10e3-44aa-8b45-7a693fbbacb1.png",
+            "uri": "/file/c7c15b85-10e3-44aa-8b45-7a693fbbacb1",
+            "url": "/assets/59/52/832fc86facb5be8d448129e98677/our_changing_planet_2004-2005_16_20090708_1156819828.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2004and2005/figure/increase-aboveground-carbon-fire-suppression.json",
+    "identifier": "increase-aboveground-carbon-fire-suppression",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2004and2005",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Increase in Aboveground Carbon from Fire Suppression",
+    "uri": "/report/ccsp-ocpfy2004and2005/figure/increase-aboveground-carbon-fire-suppression",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

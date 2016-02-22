@@ -1,0 +1,95 @@
+{
+    "attributes": "Southeast, temperature, observed",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2523.json",
+            "id": 2523,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Laura",
+                "id": 1101,
+                "last_name": "Stevens",
+                "middle_name": null,
+                "orcid": "0000-0002-8842-702X",
+                "url": "http://www.cicsnc.org/people/laura-stevens"
+            },
+            "person_id": 1101,
+            "person_uri": "/person/1101",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2523"
+        }
+    ],
+    "create_dt": "2013-06-27T15:16:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "The colors on the map show temperature changes over the past 22 years (1991-2012) compared to the 1901-1960 average, and compared to the 1951-1980 average for Alaska and Hawai\u2018i. The bars on the graphs show the average temperature changes by decade for 1901-2012 (relative to the 1901-1960 average) for each region. The far right bar in each graph (2000s decade) includes 2011 and 2012. The period from 2001 to 2012 was warmer than any previous decade in every region. (Figure source: NOAA NCDC / CICS-NC).",
+            "chapter_identifier": "our-changing-climate",
+            "create_dt": "2013-08-03T10:04:00",
+            "identifier": "observed-us-temperature-change",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 7,
+            "report_identifier": "nca3",
+            "source_citation": "NOAA NCDC / CICS-NC",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Observed U.S. Temperature Change",
+            "url": "http://nca2014.globalchange.gov/highlights/report-findings/our-changing-climate/graphics/observed-us-temperature-change",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "43/43/f8cd171ec225e5b379c2c766d17b/2-7_se.png",
+            "href": "http://data.globalchange.gov/assets/43/43/f8cd171ec225e5b379c2c766d17b/2-7_se.png",
+            "identifier": "8a452987-9640-4fc7-9683-25a5b35532a2",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "fadd0b26f515e6774d54feffa05da3f3267c78be",
+            "size": 24052,
+            "thumbnail": "43/43/f8cd171ec225e5b379c2c766d17b/.thumb-8a452987-9640-4fc7-9683-25a5b35532a2.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/43/43/f8cd171ec225e5b379c2c766d17b/.thumb-8a452987-9640-4fc7-9683-25a5b35532a2.png",
+            "uri": "/file/8a452987-9640-4fc7-9683-25a5b35532a2",
+            "url": "/assets/43/43/f8cd171ec225e5b379c2c766d17b/2-7_se.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/ca983a87-53a7-4c42-b0e9-18d26fad40ba.json",
+    "identifier": "ca983a87-53a7-4c42-b0e9-18d26fad40ba",
+    "lat_max": "39.62",
+    "lat_min": "24.50",
+    "lon_max": "-75.22",
+    "lon_min": "-94.70",
+    "parents": [
+        {
+            "activity_uri": "/activity/ca983a87-nca3-cddv2-r1-process",
+            "label": "dataset nca3-cddv2-r1",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-cddv2-r1"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2012-12-31T23:59:00",
+    "time_start": "1901-01-01T00:00:00",
+    "title": "Observed U.S. Temperature Change Decadal Bar Graph - Southeast",
+    "uri": "/image/ca983a87-53a7-4c42-b0e9-18d26fad40ba",
+    "url": null,
+    "usage_limits": null
+}

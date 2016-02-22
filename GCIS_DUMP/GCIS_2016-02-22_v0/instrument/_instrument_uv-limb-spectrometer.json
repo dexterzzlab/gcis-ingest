@@ -1,0 +1,8 @@
+{
+    "description": "Limb-scanning SW spectrometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/uv-limb-spectrometer.json",
+    "identifier": "uv-limb-spectrometer",
+    "name": "UV limb spectrometer",
+    "uri": "/instrument/uv-limb-spectrometer"
+}

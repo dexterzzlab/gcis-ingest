@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "F\u00fcssel, H.M.",
+        "DOI": "10.1007/s11625-007-0032-y",
+        "ISSN": "1862-4065",
+        "Issue": "2",
+        "Journal": "Sustainability Science",
+        "Pages": "265-275",
+        "Title": "Adaptation planning for climate change: Concepts, assessment approaches, and key lessons",
+        "Volume": "2",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 11: Urban Systems FINAL\"]",
+        "_record_number": "36",
+        "_uuid": "f1c255b6-64cf-427b-81d4-7e0165da1304",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s11625-007-0032-y",
+    "href": "http://data.globalchange.gov/reference/f1c255b6-64cf-427b-81d4-7e0165da1304.json",
+    "identifier": "f1c255b6-64cf-427b-81d4-7e0165da1304",
+    "uri": "/reference/f1c255b6-64cf-427b-81d4-7e0165da1304"
+}

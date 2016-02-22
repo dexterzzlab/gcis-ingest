@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-03-21T16:27:45",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Map of selected observed and projected biological responses to climate change across the United States. Case studies listed below correspond to observed responses (black icons on map) and projected responses (white icons on map, italicized statements). In general, because future climatic changes are projected to exceed those experienced in the recent past, projected biological impacts tend to be of greater magnitude than recent observed changes. Because the observations and projections presented here are not paired (that is, they are not for the same species or systems), that general difference is not illustrated. (Figure source: Staudinger et al., 2012<tbib>7406884d-2302-4644-aa50-12ed8baf4fd7</tbib>).",
+            "chapter_identifier": "ecosystems",
+            "create_dt": "2014-03-21T16:27:45",
+            "identifier": "biological-responses-to-climate-change",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 4,
+            "report_identifier": "nca3",
+            "source_citation": "Staudinger et al., 2012",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Biological Responses to Climate Change",
+            "url": "http://nca2014.globalchange.gov/highlights/report-findings/ecosystems-and-biodiversity/graphics/species-responses-climate-change",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "1b/9c/ff713b88f49391304edf8cfd8b72/eco_biodiversity_map_v4_downscaled.png",
+            "href": "http://data.globalchange.gov/assets/1b/9c/ff713b88f49391304edf8cfd8b72/eco_biodiversity_map_v4_downscaled.png",
+            "identifier": "0d701bc7-8dc8-4b71-86b0-b8f49e27fd88",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "36263e55e49a7e8748bfa6a0eeb7f4299d3afdc9",
+            "size": 3158183,
+            "thumbnail": "1b/9c/ff713b88f49391304edf8cfd8b72/.thumb-0d701bc7-8dc8-4b71-86b0-b8f49e27fd88.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/1b/9c/ff713b88f49391304edf8cfd8b72/.thumb-0d701bc7-8dc8-4b71-86b0-b8f49e27fd88.png",
+            "uri": "/file/0d701bc7-8dc8-4b71-86b0-b8f49e27fd88",
+            "url": "/assets/1b/9c/ff713b88f49391304edf8cfd8b72/eco_biodiversity_map_v4_downscaled.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/99441a59-32fd-4484-9ccb-2df0f0429ee6.json",
+    "identifier": "99441a59-32fd-4484-9ccb-2df0f0429ee6",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Biological Responses to Climate Change",
+    "uri": "/image/99441a59-32fd-4484-9ccb-2df0f0429ee6",
+    "url": null,
+    "usage_limits": null
+}

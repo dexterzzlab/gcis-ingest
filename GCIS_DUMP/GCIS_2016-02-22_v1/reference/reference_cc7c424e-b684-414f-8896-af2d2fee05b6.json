@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Gage, K.L.\rBurkot, T.R.\rEisen, R.J.\rHayes, E.B.",
+        "DOI": "10.1016/j.amepre.2008.08.030",
+        "ISSN": "0749-3797",
+        "Issue": "5",
+        "Journal": "American Journal of Preventive Medicine",
+        "Pages": "436-450",
+        "Title": "Climate and vectorborne diseases",
+        "Volume": "35",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "255",
+        "_uuid": "cc7c424e-b684-414f-8896-af2d2fee05b6",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.amepre.2008.08.030",
+    "href": "http://data.globalchange.gov/reference/cc7c424e-b684-414f-8896-af2d2fee05b6.json",
+    "identifier": "cc7c424e-b684-414f-8896-af2d2fee05b6",
+    "uri": "/reference/cc7c424e-b684-414f-8896-af2d2fee05b6"
+}

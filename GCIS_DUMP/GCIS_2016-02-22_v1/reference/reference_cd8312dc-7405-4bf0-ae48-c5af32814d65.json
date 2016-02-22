@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".custom_3": "1:265,000",
+        ".reference_type": "10",
+        "Author": "Couvillion, B.R.\rBarras, J.A.\rSteyer, G.D.\rSleavin, William\rFischer, Michelle\rBeck, Holly\rTrahan, Nadine\rGriffin, Brad\rHeckman, David",
+        "Institution": "U.S. Geological Survey",
+        "Title": "Land Area Change in Coastal Louisiana From 1932 to 2010: U.S. Geological Survey Scientific Investigations Map 3164",
+        "URL": "http://pubs.usgs.gov/sim/3164/",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "1027",
+        "_uuid": "cd8312dc-7405-4bf0-ae48-c5af32814d65",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usgs-sciinvestigationsmap-3164",
+    "href": "http://data.globalchange.gov/reference/cd8312dc-7405-4bf0-ae48-c5af32814d65.json",
+    "identifier": "cd8312dc-7405-4bf0-ae48-c5af32814d65",
+    "uri": "/reference/cd8312dc-7405-4bf0-ae48-c5af32814d65"
+}

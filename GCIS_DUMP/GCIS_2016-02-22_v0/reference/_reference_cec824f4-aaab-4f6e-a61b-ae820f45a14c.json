@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "3",
+        "Author": "Carroll, A.L.\rTaylor, S.W.\rR\u00e9gni\u00e8re, J.\rSafranyik, L.",
+        "Conference Location": "Kelowna, Victoria, BC",
+        "Conference Name": "Mountain Pine Beetle Symposium: Challenges and Solutions",
+        "Date": "Oct. 30-31, 2003",
+        "Editor": "Shore, T.L.",
+        "Pages": "223-232",
+        "Publisher": "Utah State University",
+        "Title": "Effect of climate change on range expansion by the mountain pine beetle in British Columbia. Natural Resources Canada, Information Report BC-X-399",
+        "Year of Conference": "2003",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "580",
+        "_uuid": "cec824f4-aaab-4f6e-a61b-ae820f45a14c",
+        "reftype": "Conference Proceedings"
+    },
+    "child_publication": "/generic/7e5c9cf9-c286-41b5-b117-fa29408f2567",
+    "href": "http://data.globalchange.gov/reference/cec824f4-aaab-4f6e-a61b-ae820f45a14c.json",
+    "identifier": "cec824f4-aaab-4f6e-a61b-ae820f45a14c",
+    "uri": "/reference/cec824f4-aaab-4f6e-a61b-ae820f45a14c"
+}

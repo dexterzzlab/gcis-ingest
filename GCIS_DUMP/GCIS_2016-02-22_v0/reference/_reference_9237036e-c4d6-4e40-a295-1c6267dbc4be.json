@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "5",
+        "Issue Date": "July 20, 2011",
+        "Newspaper": "The New York Times",
+        "Reporter": "Kaufman, L.",
+        "Title": "Seeing trends, coalition works to help a river adapt",
+        "URL": "http://www.nytimes.com/2011/07/21/science/earth/21river.html?pagewanted=all&_r=0",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\"]",
+        "_record_number": "1521",
+        "_uuid": "9237036e-c4d6-4e40-a295-1c6267dbc4be",
+        "reftype": "Newspaper Article"
+    },
+    "child_publication": "/generic/9d7b25f6-95dc-4588-b559-0657780cdc3f",
+    "href": "http://data.globalchange.gov/reference/9237036e-c4d6-4e40-a295-1c6267dbc4be.json",
+    "identifier": "9237036e-c4d6-4e40-a295-1c6267dbc4be",
+    "uri": "/reference/9237036e-c4d6-4e40-a295-1c6267dbc4be"
+}

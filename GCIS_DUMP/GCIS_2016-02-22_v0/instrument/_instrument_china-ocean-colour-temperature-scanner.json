@@ -1,0 +1,8 @@
+{
+    "description": "Medium-resolution spectro-radiometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/china-ocean-colour-temperature-scanner.json",
+    "identifier": "china-ocean-colour-temperature-scanner",
+    "name": "China Ocean Colour & Temperature Scanner",
+    "uri": "/instrument/china-ocean-colour-temperature-scanner"
+}

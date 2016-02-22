@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Mote, Philip\rSnover, Amy K.\rCapalbo, Susan\rEigenbrode, Sanford D.\rGlick, Patty\rLittell, Jeremy\rRaymondi, Richard\rReeder, Spencer",
+        "Book Title": "Climate Change Impacts in the United States: The Third National Climate Assessment",
+        "DOI": "(doi)",
+        "Editor": "Melillo, Jerry M.\rTerese (T.C.) Richmond,\rYohe, Gary W.",
+        "Pages": "21-1\u2013n",
+        "Place Published": "Washington, DC",
+        "Publisher": "U.S. Global Change Research Program",
+        "Reviewer": "db43ca86-0204-4ebf-84c4-6a2dbc2a6e73",
+        "Title": "Ch. 21: Northwest",
+        "URL": "http://nca2014.globalchange.gov/report/regions/northwest",
+        "Year": "2014",
+        "_chapter": "[\"Ch. 0: About this Report FINAL\"]",
+        "_record_number": "4731",
+        "_uuid": "db43ca86-0204-4ebf-84c4-6a2dbc2a6e73",
+        "reftype": "Book Section"
+    },
+    "child_publication": null,
+    "href": "http://data.globalchange.gov/reference/db43ca86-0204-4ebf-84c4-6a2dbc2a6e73.json",
+    "identifier": "db43ca86-0204-4ebf-84c4-6a2dbc2a6e73",
+    "uri": "/reference/db43ca86-0204-4ebf-84c4-6a2dbc2a6e73"
+}

@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Colaizzi, P. D.\rP. H. Gowda\rT. H. Marek\rD. O. Porter ",
+        "DOI": "10.1002/ird.418",
+        "Journal": "Journal of Irrigation and Drainage Engineering",
+        "Pages": "257-274",
+        "Title": "Irrigation in the Texas High Plains: A brief history and potential reductions in demand",
+        "Volume": "58",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\",\"RG 4 Great Plains\"]",
+        "_record_number": "1013",
+        "_uuid": "46a54a3a-dd83-4f37-be2f-c1e809a02ea8",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/ird.418",
+    "href": "http://data.globalchange.gov/reference/46a54a3a-dd83-4f37-be2f-c1e809a02ea8.json",
+    "identifier": "46a54a3a-dd83-4f37-be2f-c1e809a02ea8",
+    "uri": "/reference/46a54a3a-dd83-4f37-be2f-c1e809a02ea8"
+}

@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Hoerling, Martin P. \rEischeid, Jon K.\rQuan, Xiao-Wei\rDiaz, Henry F.\rWebb, Robert S.\rDole, Randall M.\rEasterling, David R.",
+        "DOI": "10.1175/JCLI-D-12-00449.1",
+        "ISSN": "0894-8755",
+        "Issue": "24",
+        "Journal": "Journal of Climate",
+        "Pages": "8380\u20138386",
+        "Title": "Is a transition to semi-permanent drought conditions imminent in the Great Plains?",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/JCLI-D-12-00449.1",
+        "Volume": "25",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"Ch. 3: Water Resources FINAL\",\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "1014",
+        "_uuid": "09d97b0a-79d9-4803-a83d-b5982e4b3371",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/JCLI-D-12-00449.1",
+    "href": "http://data.globalchange.gov/reference/09d97b0a-79d9-4803-a83d-b5982e4b3371.json",
+    "identifier": "09d97b0a-79d9-4803-a83d-b5982e4b3371",
+    "uri": "/reference/09d97b0a-79d9-4803-a83d-b5982e4b3371"
+}

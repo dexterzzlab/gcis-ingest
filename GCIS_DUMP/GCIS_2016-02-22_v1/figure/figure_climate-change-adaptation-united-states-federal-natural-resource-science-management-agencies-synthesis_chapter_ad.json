@@ -1,0 +1,52 @@
+{
+    "attributes": null,
+    "caption": "Locations of Bureau of Land Management Rapid Ecoregional Assessments.",
+    "chapter": {
+        "doi": null,
+        "identifier": "adaptation-efforts-us-natural-resource-science-management-agencies",
+        "number": null,
+        "report_identifier": "climate-change-adaptation-united-states-federal-natural-resource-science-management-agencies-synthesis",
+        "sort_key": 20,
+        "title": "Adaptation Efforts by U.S. Natural Resource Science and Management Agencies",
+        "url": null
+    },
+    "chapter_identifier": "adaptation-efforts-us-natural-resource-science-management-agencies",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "96/9b/955a991c88a68a2a1d7f58d024e4/Figure-5.PNG",
+            "href": "http://data.globalchange.gov/assets/96/9b/955a991c88a68a2a1d7f58d024e4/Figure-5.PNG",
+            "identifier": "7a2494b5-6a50-419a-8ba1-33799336275e",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "2ca50fd6d2ff74ff754bd93bb49ba64ca38a4cac",
+            "size": 509797,
+            "thumbnail": "96/9b/955a991c88a68a2a1d7f58d024e4/.thumb-7a2494b5-6a50-419a-8ba1-33799336275e.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/96/9b/955a991c88a68a2a1d7f58d024e4/.thumb-7a2494b5-6a50-419a-8ba1-33799336275e.png",
+            "uri": "/file/7a2494b5-6a50-419a-8ba1-33799336275e",
+            "url": "/assets/96/9b/955a991c88a68a2a1d7f58d024e4/Figure-5.PNG"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/climate-change-adaptation-united-states-federal-natural-resource-science-management-agencies-synthesis/chapter/adaptation-efforts-us-natural-resource-science-management-agencies/figure/figure5.json",
+    "identifier": "figure5",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "climate-change-adaptation-united-states-federal-natural-resource-science-management-agencies-synthesis",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Figure 5",
+    "uri": "/report/climate-change-adaptation-united-states-federal-natural-resource-science-management-agencies-synthesis/chapter/adaptation-efforts-us-natural-resource-science-management-agencies/figure/figure5",
+    "url": null,
+    "usage_limits": null
+}

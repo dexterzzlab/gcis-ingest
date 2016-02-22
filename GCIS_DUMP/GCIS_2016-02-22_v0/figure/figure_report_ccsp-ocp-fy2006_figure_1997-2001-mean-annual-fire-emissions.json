@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Observations from the VIRS instrument on the Tropical Rainfall Measuring Mission satellite and MODIS instrument on Terra and Aqua satellites provide comprehensive information on the timing and locations of fires. Red to blue indicates high to low emissions of carbon from fires during 1997 to 2001, while white indicates no fires were observed during that period. Credit: NASA/ Goddard Space Flight Center.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "cb/de/8eac6634e7eef49df631b9bf5ba6/our_changing_planet_2006_11_20090708_1169111877.jpg",
+            "href": "http://data.globalchange.gov/assets/cb/de/8eac6634e7eef49df631b9bf5ba6/our_changing_planet_2006_11_20090708_1169111877.jpg",
+            "identifier": "2b98cc08-4879-4b81-808a-22dc5bfadb5c",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "844b7f866d0984ffe566c7da486daaa7c34ce885",
+            "size": 69724,
+            "thumbnail": "cb/de/8eac6634e7eef49df631b9bf5ba6/.thumb-2b98cc08-4879-4b81-808a-22dc5bfadb5c.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/cb/de/8eac6634e7eef49df631b9bf5ba6/.thumb-2b98cc08-4879-4b81-808a-22dc5bfadb5c.png",
+            "uri": "/file/2b98cc08-4879-4b81-808a-22dc5bfadb5c",
+            "url": "/assets/cb/de/8eac6634e7eef49df631b9bf5ba6/our_changing_planet_2006_11_20090708_1169111877.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocp-fy2006/figure/1997-2001-mean-annual-fire-emissions.json",
+    "identifier": "1997-2001-mean-annual-fire-emissions",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocp-fy2006",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "1997-2001 Mean Annual Fire Emissions",
+    "uri": "/report/ccsp-ocp-fy2006/figure/1997-2001-mean-annual-fire-emissions",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

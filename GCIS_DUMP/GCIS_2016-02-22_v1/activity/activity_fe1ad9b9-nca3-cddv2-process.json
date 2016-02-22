@@ -1,0 +1,15 @@
+{
+    "computing_environment": "Mac OS X (darwin x86_64 m64)",
+    "data_usage": "A time series of annual temperatures for the contiguous U.S. from 1960 to 2012 were plotted with a trend line.",
+    "duration": "6 hours",
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/fe1ad9b9-nca3-cddv2-process.json",
+    "identifier": "fe1ad9b9-nca3-cddv2-process",
+    "methodology": "Annual mean temperatures were averaged for all grid points in the contiguous U.S. and plotted as a time series from 1960 to 2012. The temperature trend for the entire period was also calculated using linear least squares regression, and plotted as a trend line.",
+    "notes": "Microsoft Excel",
+    "output_artifacts": "conus.ave.tave\r\nconus_temp_July31_2013_with_regression.xlsx\r\nCAQ_US annual temp_v4.png",
+    "software": "Microsoft Excel for Mac 2011 Version 14.3.9 (131030)",
+    "start_time": null,
+    "uri": "/activity/fe1ad9b9-nca3-cddv2-process",
+    "visualization_software": "Microsoft Excel for Mac 2011 Version 14.3.9 (131030)"
+}

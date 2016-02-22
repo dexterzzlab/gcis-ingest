@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Peterson, D.L.\rMillar, C.I.\rJoyce, L.A.\rFurniss, M.J.\rHalofsky, J.E.\rNeilson, R.P.\rMorelli, T.L.",
+        "Date": "November 2011",
+        "Institution": "U.S. Department of Agriculture, U.S. Forest Service",
+        "Pages": "118",
+        "Place Published": "Pacific Northwest Research Station",
+        "Title": "Responding to climate change on national forests: A guidebook for developing adaptation options. General Technical Report PNW-GTR-855",
+        "URL": "http://www.fs.fed.us/pnw/pubs/pnw_gtr855.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\",\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "2475",
+        "_uuid": "007a7014-723e-4ceb-a395-5c986b1bf884",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usfs-pnw-gtr-855",
+    "href": "http://data.globalchange.gov/reference/007a7014-723e-4ceb-a395-5c986b1bf884.json",
+    "identifier": "007a7014-723e-4ceb-a395-5c986b1bf884",
+    "uri": "/reference/007a7014-723e-4ceb-a395-5c986b1bf884"
+}

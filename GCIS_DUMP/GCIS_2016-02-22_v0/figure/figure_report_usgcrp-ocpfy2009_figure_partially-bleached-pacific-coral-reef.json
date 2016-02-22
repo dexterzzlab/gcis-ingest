@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Coral reef species and communities vary in their resilience (ability to resist or recover) in the face of climate change impacts such as coral bleaching. Credit: E. Mielbrecht, Emerald Coast Environmental Consulting.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "2d/24/e14a149d460be231e3ebd4eec8f5/Figure_19.png",
+            "href": "http://data.globalchange.gov/assets/2d/24/e14a149d460be231e3ebd4eec8f5/Figure_19.png",
+            "identifier": "70df32ff-5c5d-4954-9939-9600dfacafaa",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "9d1570e7e9408abea6d600cc7665df4ea4c25b61",
+            "size": 994686,
+            "thumbnail": "2d/24/e14a149d460be231e3ebd4eec8f5/.thumb-70df32ff-5c5d-4954-9939-9600dfacafaa.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/2d/24/e14a149d460be231e3ebd4eec8f5/.thumb-70df32ff-5c5d-4954-9939-9600dfacafaa.png",
+            "uri": "/file/70df32ff-5c5d-4954-9939-9600dfacafaa",
+            "url": "/assets/2d/24/e14a149d460be231e3ebd4eec8f5/Figure_19.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2009/figure/partially-bleached-pacific-coral-reef.json",
+    "identifier": "partially-bleached-pacific-coral-reef",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2009",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Partially Bleached Pacific Coral Reef",
+    "uri": "/report/usgcrp-ocpfy2009/figure/partially-bleached-pacific-coral-reef",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

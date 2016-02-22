@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Hurteau, Matthew D.\rBrooks, Matthew L.",
+        "DOI": "10.1525/bio.2011.61.2.9",
+        "Issue": "2",
+        "Journal": "BioScience",
+        "Pages": "139-146",
+        "Title": "Short- and long-term effects of fire on carbon in US dry temperate forest systems",
+        "URL": "http://www.jstor.org/stable/10.1525/bio.2011.61.2.9",
+        "Volume": "61",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "3611",
+        "_uuid": "0703cb0a-1c42-4dec-98ab-25fa2bdc6ff9",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1525/bio.2011.61.2.9",
+    "href": "http://data.globalchange.gov/reference/0703cb0a-1c42-4dec-98ab-25fa2bdc6ff9.json",
+    "identifier": "0703cb0a-1c42-4dec-98ab-25fa2bdc6ff9",
+    "uri": "/reference/0703cb0a-1c42-4dec-98ab-25fa2bdc6ff9"
+}

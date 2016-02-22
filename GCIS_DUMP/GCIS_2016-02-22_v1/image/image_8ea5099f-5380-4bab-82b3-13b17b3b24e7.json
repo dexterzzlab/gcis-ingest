@@ -1,0 +1,95 @@
+{
+    "attributes": "Great Plains, precipitation, observed",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2523.json",
+            "id": 2523,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Laura",
+                "id": 1101,
+                "last_name": "Stevens",
+                "middle_name": null,
+                "orcid": "0000-0002-8842-702X",
+                "url": "http://www.cicsnc.org/people/laura-stevens"
+            },
+            "person_id": 1101,
+            "person_uri": "/person/1101",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2523"
+        }
+    ],
+    "create_dt": "2013-09-20T09:52:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Current regional trends of a drier south and a wetter north are projected to become more pronounced by mid-century (2041-2070 as compared to 1971-2000 averages). Maps show the maximum annual number of consecutive days in which limited (less than 0.01 inches) precipitation was recorded on average from 1971 to 2000 (top), projected changes in the number of consecutive dry days assuming substantial reductions in emissions (B1), and projected changes if emissions continue to rise (A2). The southeastern Great Plains, which is the wettest portion of the region, is projected to experience large\u00a0increases in the number of consecutive dry days. (Figure source: NOAA NCDC / CICS-NC).",
+            "chapter_identifier": "great-plains",
+            "create_dt": "2013-11-18T14:28:37",
+            "identifier": "projected-change-in-number-of-consecutive-dry-days",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 5,
+            "report_identifier": "nca3",
+            "source_citation": "NOAA NCDC / CICS-NC",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Projected Change in Number of Consecutive Dry Days",
+            "url": "http://nca2014.globalchange.gov/report/regions/great-plains/graphics/projected-change-number-consecutive-dry-days",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "1d/41/177dcff6f2fb5b93caa5d618dc29/19-5-a.png",
+            "href": "http://data.globalchange.gov/assets/1d/41/177dcff6f2fb5b93caa5d618dc29/19-5-a.png",
+            "identifier": "6ae70afb-e06f-43bc-901e-1be86aa777a8",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "e40c2c042422833856505157af33ead5361778ad",
+            "size": 164425,
+            "thumbnail": "1d/41/177dcff6f2fb5b93caa5d618dc29/.thumb-6ae70afb-e06f-43bc-901e-1be86aa777a8.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/1d/41/177dcff6f2fb5b93caa5d618dc29/.thumb-6ae70afb-e06f-43bc-901e-1be86aa777a8.png",
+            "uri": "/file/6ae70afb-e06f-43bc-901e-1be86aa777a8",
+            "url": "/assets/1d/41/177dcff6f2fb5b93caa5d618dc29/19-5-a.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/8ea5099f-5380-4bab-82b3-13b17b3b24e7.json",
+    "identifier": "8ea5099f-5380-4bab-82b3-13b17b3b24e7",
+    "lat_max": "48.94",
+    "lat_min": "25.94",
+    "lon_max": "-93.56",
+    "lon_min": "-116.06",
+    "parents": [
+        {
+            "activity_uri": "/activity/8ea5099f-nca3-maurer-r201304-process",
+            "label": "dataset nca3-maurer-r201304",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-maurer-r201304"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2000-12-31T23:59:59",
+    "time_start": "1971-01-01T00:00:00",
+    "title": "Projected Change in Number of Consecutive Dry Days: Historical Climate",
+    "uri": "/image/8ea5099f-5380-4bab-82b3-13b17b3b24e7",
+    "url": null,
+    "usage_limits": null
+}

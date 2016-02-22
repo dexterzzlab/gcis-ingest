@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/usgs-national-geospatial-program.json",
+    "identifier": "usgs-national-geospatial-program",
+    "name": "USGS National Geospatial Program",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/usgs-national-geospatial-program",
+    "url": "http://www.usgs.gov/ngpo/"
+}

@@ -1,0 +1,28 @@
+{
+    "attrs": {
+        ".publisher": "Springer Netherlands",
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"italic\" start=\"50\" /><run start=\"62\" /></field></record>",
+        "Alternate Journal": "Mitig Adapt Strateg Glob Change",
+        "Author": "Fogarty, Michael\rIncze, Lewis\rHayhoe, Katherine\rMountain, David\rManning, James",
+        "DOI": "10.1007/s11027-007-9131-4",
+        "Date": "2008/06/01",
+        "ISSN": "1381-2386",
+        "Issue": "5-6",
+        "Journal": "Mitigation and Adaptation Strategies for Global Change",
+        "Keywords": "Climate change impacts\rGulf of Maine\rCod\rBottom water temperatures",
+        "Language": "English",
+        "Pages": "453-466",
+        "Title": "Potential climate change impacts on Atlantic cod (Gadus morhua) off the northeastern USA",
+        "Volume": "13",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "3992",
+        "_uuid": "1742491d-0791-4bdd-8f24-e789347359f8",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s11027-007-9131-4",
+    "href": "http://data.globalchange.gov/reference/1742491d-0791-4bdd-8f24-e789347359f8.json",
+    "identifier": "1742491d-0791-4bdd-8f24-e789347359f8",
+    "uri": "/reference/1742491d-0791-4bdd-8f24-e789347359f8"
+}

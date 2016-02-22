@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Shindell, DT.\rFaluvegi,  G.\rKoch, D.M.\rSchmidt, G.A.\rUnger, N.\rBauer, S.E.",
+        "DOI": "10.1126/science.1174760",
+        "Journal": "Science",
+        "Pages": "716-718",
+        "Title": "Improved attribution of climate forcing to emissions",
+        "URL": "http://saive.com/911/DOCS/AAAS-Aerosols-not-CO2-Cause-Global-Warming.pdf",
+        "Volume": "326",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "2847",
+        "_uuid": "51da5fb4-92fc-46e0-a09d-938220355e13",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1174760",
+    "href": "http://data.globalchange.gov/reference/51da5fb4-92fc-46e0-a09d-938220355e13.json",
+    "identifier": "51da5fb4-92fc-46e0-a09d-938220355e13",
+    "uri": "/reference/51da5fb4-92fc-46e0-a09d-938220355e13"
+}

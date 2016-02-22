@@ -1,0 +1,95 @@
+{
+    "attributes": "temperature, extreme temperature, thresholds",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2530.json",
+            "id": 2530,
+            "organization": {
+                "country_code": "US",
+                "identifier": "noaa-national-climatic-data-center",
+                "name": "National Oceanic and Atmospheric Administration National Climatic Data Center",
+                "organization_type_identifier": "federal",
+                "url": "http://www.ncdc.noaa.gov"
+            },
+            "organization_uri": "/organization/noaa-national-climatic-data-center",
+            "person": {
+                "first_name": "Chris",
+                "id": 1461,
+                "last_name": "Fenimore",
+                "middle_name": null,
+                "orcid": null,
+                "url": null
+            },
+            "person_id": 1461,
+            "person_uri": "/person/1461",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2530"
+        }
+    ],
+    "create_dt": "2012-09-24T14:25:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Map shows numbers of days with temperatures above 100\u00baF during 2011. The black circles denote the location of observing stations recording 100\u00b0F days. The number of days with temperatures exceeding 100\u00b0F is expected to increase. The record temperatures and drought during the summer of 2011 represent conditions that will be more likely in the U.S. as climate change continues. When outdoor temperatures increase, electricity demands for cooling increase, water availability decreases, and water temperatures increase. Alternative energy technologies may require little water (for example, solar and wind) and can enhance resilience of the electricity sector, but still face land-use and habitat considerations. The projected increases in drought and heat waves provide an example of the ways climate changes will challenge energy, water, and land systems. (Figure source: NOAA NCDC, 2012).",
+            "chapter_identifier": "water-energy-land-use",
+            "create_dt": "2012-09-24T14:25:00",
+            "identifier": "coasttocoast-100degree-days-in-2011",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 2,
+            "report_identifier": "nca3",
+            "source_citation": "NOAA NCDC, 2012",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Coast-to-Coast 100-degree Days in 2011",
+            "url": "http://nca2014.globalchange.gov/highlights/report-findings/extreme-weather/graphics/coast-coast-100-degree-days-2011",
+            "usage_limits": null
+        }
+    ],
+    "files": [
+        {
+            "file": "1e/9d/e38d0f26ea03b1870664b565a715/wel_days_above_100_13605_v4.png",
+            "href": "http://data.globalchange.gov/assets/1e/9d/e38d0f26ea03b1870664b565a715/wel_days_above_100_13605_v4.png",
+            "identifier": "079b3f99-4457-4c3a-a369-6e4d3f291455",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "baaf4f0e8f92c1da76377ca57d6dfd9c2b018561",
+            "size": 552149,
+            "thumbnail": "1e/9d/e38d0f26ea03b1870664b565a715/.thumb-079b3f99-4457-4c3a-a369-6e4d3f291455.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/1e/9d/e38d0f26ea03b1870664b565a715/.thumb-079b3f99-4457-4c3a-a369-6e4d3f291455.png",
+            "uri": "/file/079b3f99-4457-4c3a-a369-6e4d3f291455",
+            "url": "/assets/1e/9d/e38d0f26ea03b1870664b565a715/wel_days_above_100_13605_v4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/b8b652de-1629-478b-bdc1-0dcf0e2e6f33.json",
+    "identifier": "b8b652de-1629-478b-bdc1-0dcf0e2e6f33",
+    "lat_max": "49.38",
+    "lat_min": "24.50",
+    "lon_max": "-66.95",
+    "lon_min": "-124.80",
+    "parents": [
+        {
+            "activity_uri": "/activity/b8b652de-nca3-ghcn-daily-r201305-process",
+            "label": "dataset nca3-ghcn-daily-r201305",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-ghcn-daily-r201305"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2011-08-31T23:59:59",
+    "time_start": "2011-06-01T00:00:00",
+    "title": "Coast-to-Coast 100-degree Days in 2011",
+    "uri": "/image/b8b652de-1629-478b-bdc1-0dcf0e2e6f33",
+    "url": null,
+    "usage_limits": null
+}

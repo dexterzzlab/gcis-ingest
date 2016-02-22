@@ -1,0 +1,12 @@
+{
+    "description": null,
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/model/cgcm31_t47.json",
+    "identifier": "cgcm31_t47",
+    "name": "Community Climate System Model, version 3.1 (CCSM3)",
+    "project_identifier": "cmip3",
+    "reference_url": "http://www.cccma.ec.gc.ca/",
+    "uri": "/model/cgcm31_t47",
+    "version": null,
+    "website": "http://www.ec.gc.ca/ccmac-cccma/default.asp?lang=En&n=1299529F-1"
+}

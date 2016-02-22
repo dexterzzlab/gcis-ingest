@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "The overall goal of the present study is to show through a simulation experiment the value of adaptive management under climatic variability and change. The Northern California water resources management system is used as an example of a multi-agency, multi-site, multi-objective water resources management system that supports a trillion dollar economy to demonstrate the utility of the methods and to exemplify the assessment studies. Simulations are performed using an adaptation of the Integrated Forecast and Reservoir Management (INFORM) system of Northern California with 6-hourly 1.4\u00b0 input from the CCSM3.0 climate model for historical/control (1970\u20132019) and future periods (2050\u20132099). The present paper examines the assessment of the hydroclimatological sensitivities and a companion paper (Georgakakos et al., this issue) examines the assessment of reservoir management sensitivities. The future period was based on the moderate CCSM3.0 A1B scenario. The INFORM system includes an intermediate complexity regional model for dynamic downscaling of the CCSM3.0 scenario output to produce surface precipitation and temperature fields with a 10 \u00d7 10 km2 resolution, and snow\u2013soil-channel modeling of all the watersheds upstream of the major reservoirs in Northern California. The flow results indicate a shift in the monthly average flow volume toward earlier times in the year and higher flow variability for the future period. Higher average temperatures in the future period and, consequently, earlier snow pack melt are mainly responsible for these flow changes. Both daytime and nighttime average monthly temperatures are higher in the simulation of the future period for the entire domain with the northern catchments experiencing higher temperature increases. Simulated monthly average precipitation for the future period is higher in the southern high Sierras and lower in the northern drainage basins than the historical period precipitation. The uncertainty in the assessments for Northern California mentioned may be estimated with additional simulations similar to those shown in this work using high spatial and temporal resolution output from different climate models.",
+        "Author": "Georgakakos, K.P.\rGraham, N.E.\rCheng, F.-Y.\rSpencer, C.\rShamir, E.\rGeorgakakos, A.P.\rYao, H.\rKistenmacher, M.",
+        "DOI": "10.1016/j.jhydrol.2011.04.032",
+        "ISSN": "0022-1694",
+        "Issue": "34-46",
+        "Journal": "Journal of Hydrology",
+        "Keywords": "Climate change impact assessment; ; Ensemble flow forecasting; ; California water resources; ; Dynamic downscaling; ; Adaptive water resources management",
+        "Pages": "47-65",
+        "Title": "Value of adaptive water resources management in northern California under climatic variability and change: Dynamic hydroclimatology",
+        "Volume": "412-413",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 17: Southeast and Caribbean FINAL\",\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "1752",
+        "_uuid": "412047fe-33cf-49b8-b714-f1a7b096cd43",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.jhydrol.2011.04.032",
+    "href": "http://data.globalchange.gov/reference/412047fe-33cf-49b8-b714-f1a7b096cd43.json",
+    "identifier": "412047fe-33cf-49b8-b714-f1a7b096cd43",
+    "uri": "/reference/412047fe-33cf-49b8-b714-f1a7b096cd43"
+}

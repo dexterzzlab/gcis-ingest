@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Masek, J.G.\rCohen, W.B.\rLeckie, D.\rWulder, M.A.\rVargas, R.\rde Jong, B.\rHealey, S.\rLaw, B.\rBirdsey, R.\rHoughton, R.A.\rD. Mildrexler \rS. Goward\rW.B. Smit",
+        "DOI": "10.1029/2010JG001471",
+        "Issue": "G4",
+        "Journal": "Journal of Geophysical Research",
+        "Pages": "G00K03",
+        "Title": "Recent rates of forest harvest and conversion in North America",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2010JG001471/pdf",
+        "Volume": "116",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "1900",
+        "_uuid": "7be871ec-0fa3-40ac-9f31-d659abbef766",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2010JG001471",
+    "href": "http://data.globalchange.gov/reference/7be871ec-0fa3-40ac-9f31-d659abbef766.json",
+    "identifier": "7be871ec-0fa3-40ac-9f31-d659abbef766",
+    "uri": "/reference/7be871ec-0fa3-40ac-9f31-d659abbef766"
+}

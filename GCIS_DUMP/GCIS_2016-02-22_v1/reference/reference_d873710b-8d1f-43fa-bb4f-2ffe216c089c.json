@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Ojima, D. S.\rLackett, J. M.\rCentral Great Plains Steering Committee and Assessment Team,",
+        "Institution": "U.S. Global Change Research Program, Central Great Plains Steering Committee and Assessment Team",
+        "Pages": "104",
+        "Place Published": "Colorado State University, Fort Collins, CO",
+        "Title": "Preparing for a Changing Climate: The Potential Consequences of Climate Variability and Change - Central Great Plains. Report for the U.S. Global Change Research Program",
+        "URL": "http://www.nrel.colostate.edu/projects/gpa/gpa_report.pdf",
+        "Year": "2002",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\"]",
+        "_record_number": "2346",
+        "_uuid": "d873710b-8d1f-43fa-bb4f-2ffe216c089c",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/gpa-costateu-prepcentralgreatplains-2002",
+    "href": "http://data.globalchange.gov/reference/d873710b-8d1f-43fa-bb4f-2ffe216c089c.json",
+    "identifier": "d873710b-8d1f-43fa-bb4f-2ffe216c089c",
+    "uri": "/reference/d873710b-8d1f-43fa-bb4f-2ffe216c089c"
+}

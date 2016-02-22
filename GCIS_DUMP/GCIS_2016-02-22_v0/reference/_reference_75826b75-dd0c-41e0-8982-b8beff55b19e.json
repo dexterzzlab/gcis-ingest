@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Alternate Journal": "Ecol. Appl.",
+        "Author": "Baron, J. S.",
+        "DOI": "10.1890/1051-0761(2006)016[0433:hndtda]2.0.co;2",
+        "Date": "Apr",
+        "ISSN": "1051-0761",
+        "Issue": "2",
+        "Journal": "Ecological Applications",
+        "Keywords": "alpine lakes; atmospheric nitrogen deposition; critical load; ecological-change threshold; hindcasting; Loch Vale, Colorado, USA; Rocky Mountain National Park, USA; western united-states; colorado front range; atmospheric deposition; reactive nitrogen; rocky-mountains; lakes; usa; emissions; phytoplankton; precipitation",
+        "Language": "English",
+        "Pages": "433-439",
+        "Title": "Hindcasting nitrogen deposition to determine an ecological critical load",
+        "Type of Article": "Article",
+        "Volume": "16",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "850",
+        "_uuid": "75826b75-dd0c-41e0-8982-b8beff55b19e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/1051-0761(2006)016%5B0433:hndtda%5D2.0.co;2",
+    "href": "http://data.globalchange.gov/reference/75826b75-dd0c-41e0-8982-b8beff55b19e.json",
+    "identifier": "75826b75-dd0c-41e0-8982-b8beff55b19e",
+    "uri": "/reference/75826b75-dd0c-41e0-8982-b8beff55b19e"
+}

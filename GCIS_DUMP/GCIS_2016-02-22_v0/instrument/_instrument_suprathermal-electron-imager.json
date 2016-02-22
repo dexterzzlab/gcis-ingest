@@ -1,0 +1,8 @@
+{
+    "description": "Space environment monitor",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/suprathermal-electron-imager.json",
+    "identifier": "suprathermal-electron-imager",
+    "name": "Suprathermal Electron Imager",
+    "uri": "/instrument/suprathermal-electron-imager"
+}

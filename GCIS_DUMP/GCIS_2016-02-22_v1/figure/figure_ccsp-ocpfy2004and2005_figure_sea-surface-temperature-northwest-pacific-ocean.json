@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Sea surface temperature in the northwest Pacific Ocean from (a) satellite data, (b) a 2x2-degree non-eddy-resolving simulation, (c) a 0.28-degree eddy-permitting simulation, and (d) a 0.1-degree eddy-resolving simulation. All simulations were performed using the Parallel Ocean Program (POP). The detail is much more realistic in the two high-resolution cases, but only the eddy-resolving case can simulate the Kuroshio current separation\u2014the point at which the warm Kuroshio current separates from the coast of Japan and extends into the Pacific. Currents like the Kuroshio and the Gulf Stream are responsible for transporting heat and other quantities to high latitudes and strongly affect the climate in regions including northern Europe. Accurate simulations of these current systems are required for understanding how climate change would affect global ocean circulation and how ocean circulation changes would affect climate in northern Europe and other regions. Credit: Mathew Maltrud, Los Alamos National Laboratory, DOE Climate Change Prediction Program.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "35/c4/955d319651127ffe84a5f1cb3ee2/our_changing_planet_2004-2005_2_20090708_1426888847.jpg",
+            "href": "http://data.globalchange.gov/assets/35/c4/955d319651127ffe84a5f1cb3ee2/our_changing_planet_2004-2005_2_20090708_1426888847.jpg",
+            "identifier": "e3b3a255-d6eb-497c-8dbb-ee357a2503f8",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "b400a81a19ff708892682f114b8fbb452f0f7ead",
+            "size": 102283,
+            "thumbnail": "35/c4/955d319651127ffe84a5f1cb3ee2/.thumb-e3b3a255-d6eb-497c-8dbb-ee357a2503f8.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/35/c4/955d319651127ffe84a5f1cb3ee2/.thumb-e3b3a255-d6eb-497c-8dbb-ee357a2503f8.png",
+            "uri": "/file/e3b3a255-d6eb-497c-8dbb-ee357a2503f8",
+            "url": "/assets/35/c4/955d319651127ffe84a5f1cb3ee2/our_changing_planet_2004-2005_2_20090708_1426888847.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2004and2005/figure/sea-surface-temperature-northwest-pacific-ocean.json",
+    "identifier": "sea-surface-temperature-northwest-pacific-ocean",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2004and2005",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Sea Surface Temperature, Northwest Pacific Ocean ",
+    "uri": "/report/ccsp-ocpfy2004and2005/figure/sea-surface-temperature-northwest-pacific-ocean",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

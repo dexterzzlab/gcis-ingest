@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".place_published": "Washington, DC",
+        ".reference_type": "0",
+        ".secondary_author": "W. M. Post ; R. T.  Venterea",
+        "Author": "King, A. W.\rHayes, D. J.\rHuntzinger, D. N.\rTristram, O.\rWest, T. O.\rPost, W. M.",
+        "DOI": "10.1890/120066",
+        "ISSN": "1540-5072",
+        "Issue": "10",
+        "Journal": "Frontiers in Ecology and the Environment",
+        "Pages": "512-519",
+        "Title": "North America carbon dioxide sources and sinks: Magnitude, attribution, and uncertainty",
+        "Volume": "10",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\",\"RF 10\"]",
+        "_record_number": "1185",
+        "_uuid": "b130f588-b962-4133-9aa9-46f1f8c8ffdb",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/120066",
+    "href": "http://data.globalchange.gov/reference/b130f588-b962-4133-9aa9-46f1f8c8ffdb.json",
+    "identifier": "b130f588-b962-4133-9aa9-46f1f8c8ffdb",
+    "uri": "/reference/b130f588-b962-4133-9aa9-46f1f8c8ffdb"
+}

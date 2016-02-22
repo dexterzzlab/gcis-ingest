@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Naumova, E.N.\rJjagai, J.S.\rMatyas, B.\rDeMaria, A.\rMacNeill, I.B.\rGriffiths, J.K.",
+        "DOI": "10.1017/S0950268806006698",
+        "Issue": "2",
+        "Journal": "Epidemiology and Infection",
+        "Pages": "281-292",
+        "Title": "Seasonality in six enterically transmitted diseases and ambient temperature",
+        "URL": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2870561/",
+        "Volume": "135",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "2173",
+        "_uuid": "6dc3924f-8cb4-4183-9a2c-78457dd00846",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1017/S0950268806006698",
+    "href": "http://data.globalchange.gov/reference/6dc3924f-8cb4-4183-9a2c-78457dd00846.json",
+    "identifier": "6dc3924f-8cb4-4183-9a2c-78457dd00846",
+    "uri": "/reference/6dc3924f-8cb4-4183-9a2c-78457dd00846"
+}

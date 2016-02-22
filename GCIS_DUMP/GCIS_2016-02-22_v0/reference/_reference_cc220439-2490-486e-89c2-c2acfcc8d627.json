@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "Springer Netherlands",
+        ".reference_type": "0",
+        "Alternate Journal": "Climatic Change",
+        "Author": "Sheridan, Scott C.\rLee, Cameron C.\rAllen, Michael J.\rKalkstein, Laurence S.",
+        "DOI": "10.1007/s10584-012-0436-2",
+        "Date": "2012/11/01",
+        "ISSN": "0165-0009",
+        "Issue": "2",
+        "Journal": "Climatic Change",
+        "Language": "English",
+        "Pages": "291-309",
+        "Title": "Future heat vulnerability in California, Part I: Projecting future weather types and heat events",
+        "Volume": "115",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"Overview\"]",
+        "_record_number": "4017",
+        "_uuid": "cc220439-2490-486e-89c2-c2acfcc8d627",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-012-0436-2",
+    "href": "http://data.globalchange.gov/reference/cc220439-2490-486e-89c2-c2acfcc8d627.json",
+    "identifier": "cc220439-2490-486e-89c2-c2acfcc8d627",
+    "uri": "/reference/cc220439-2490-486e-89c2-c2acfcc8d627"
+}

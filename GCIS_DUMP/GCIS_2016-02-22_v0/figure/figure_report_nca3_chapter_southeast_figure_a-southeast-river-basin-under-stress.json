@@ -1,0 +1,93 @@
+{
+    "attributes": null,
+    "caption": "The Apalachicola-Chattahoochee-Flint River Basin in Georgia exemplifies a place where many water uses are in\r\n    conflict, and future climate change is expected to exacerbate this\r\n    conflict.<tbib>47f6b2ff-a48f-4b48-899d-a901424bf5b2</tbib> The basin drains 19,600 square miles in\r\n    three states and supplies water for multiple, often competing, uses, including irrigation, drinking water and other municipal\r\n    uses, power plant cooling, navigation, hydropower, recreation, and ecosystems. Under future climate change, this basin is\r\n    likely to experience more severe water supply shortages, more frequent emptying of reservoirs, violation of environmental flow\r\n    requirements (with possible impacts to fisheries at the mouth of the Apalachicola), less energy\r\n    generation, and more competition for remaining water. Adaptation options include changes in reservoir storage and release\r\n    procedures and possible phased expansion of reservoir\r\n    capacity.<tbib>47f6b2ff-a48f-4b48-899d-a901424bf5b2</tbib><sup>,</sup><tbib>7259bc2b-d0aa-460b-b37a-79a11a386e00</tbib><sup>,</sup><tbib>412047fe-33cf-49b8-b714-f1a7b096cd43</tbib>\r\n    Additional adaptation options could include water conservation and demand management. (Figure source:\r\n    Georgakakos et al. 2010<tbib>47f6b2ff-a48f-4b48-899d-a901424bf5b2</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0NP22CB",
+        "identifier": "southeast",
+        "number": 17,
+        "report_identifier": "nca3",
+        "sort_key": 170,
+        "title": "Southeast and the Caribbean",
+        "url": "http://nca2014.globalchange.gov/report/regions/southeast"
+    },
+    "chapter_identifier": "southeast",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-18T16:25:00",
+    "files": [
+        {
+            "file": "03/aa/9131d649ea4525c66f193bea22b1/SE_acf_river_basin_V2.png",
+            "href": "http://data.globalchange.gov/assets/03/aa/9131d649ea4525c66f193bea22b1/SE_acf_river_basin_V2.png",
+            "identifier": "fc7f48d0-dff3-4c0a-a5d6-bec9df227e6e",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "99b2678a8e42f18e5c766c70dbd8a0da0ce4bf82",
+            "size": 278738,
+            "thumbnail": "03/aa/9131d649ea4525c66f193bea22b1/.thumb-fc7f48d0-dff3-4c0a-a5d6-bec9df227e6e.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/03/aa/9131d649ea4525c66f193bea22b1/.thumb-fc7f48d0-dff3-4c0a-a5d6-bec9df227e6e.png",
+            "uri": "/file/fc7f48d0-dff3-4c0a-a5d6-bec9df227e6e",
+            "url": "/assets/03/aa/9131d649ea4525c66f193bea22b1/SE_acf_river_basin_V2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/southeast/figure/a-southeast-river-basin-under-stress.json",
+    "identifier": "a-southeast-river-basin-under-stress",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-11-18T16:25:00",
+            "description": null,
+            "identifier": "8083aa38-2c72-4759-8d39-c3c813f3cbe1",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "A Southeast River Basin Under Stress",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 12,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Climate Variability and Change Assessment for the ACF River Basin, Southeast US. Georgia Water Resources Institute (GWRI) Technical Report sponsored by NOAA, USGS, and Georgia EPD",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/gwri-climvar-2010"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/412047fe-33cf-49b8-b714-f1a7b096cd43.json",
+            "uri": "/reference/412047fe-33cf-49b8-b714-f1a7b096cd43"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/47f6b2ff-a48f-4b48-899d-a901424bf5b2.json",
+            "uri": "/reference/47f6b2ff-a48f-4b48-899d-a901424bf5b2"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/7259bc2b-d0aa-460b-b37a-79a11a386e00.json",
+            "uri": "/reference/7259bc2b-d0aa-460b-b37a-79a11a386e00"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "Georgakakos et al. 2010<tbib>47f6b2ff-a48f-4b48-899d-a901424bf5b2</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "A Southeast River Basin Under Stress",
+    "uri": "/report/nca3/chapter/southeast/figure/a-southeast-river-basin-under-stress",
+    "url": "http://nca2014.globalchange.gov/report/regions/southeast/graphics/southeast-river-basin-under-stress",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

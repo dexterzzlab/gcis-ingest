@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Jentsch, A.\rKreyling, J.\rBeierkuhnlein, C.",
+        "DOI": "10.1890/1540-9295(2007)5[365:ANGOCE]2.0.CO;2",
+        "ISSN": "1540-9295",
+        "Issue": "7",
+        "Journal": "Frontiers in Ecology and the Environment",
+        "Pages": "365-374",
+        "Title": "A new generation of climate-change experiments: Events, not trends",
+        "Volume": "5",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "1171",
+        "_uuid": "b71bc9a2-2cf3-4544-8cf7-1dde524b5655",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/1540-9295(2007)5%5B365:ANGOCE%5D2.0.CO;2",
+    "href": "http://data.globalchange.gov/reference/b71bc9a2-2cf3-4544-8cf7-1dde524b5655.json",
+    "identifier": "b71bc9a2-2cf3-4544-8cf7-1dde524b5655",
+    "uri": "/reference/b71bc9a2-2cf3-4544-8cf7-1dde524b5655"
+}

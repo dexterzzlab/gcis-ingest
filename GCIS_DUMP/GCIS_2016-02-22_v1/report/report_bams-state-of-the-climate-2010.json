@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": "10.1175/1520-0477-92.6.S1",
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/bams-state-of-the-climate-2010.json",
+    "identifier": "bams-state-of-the-climate-2010",
+    "in_library": null,
+    "publication_year": 2011,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "State of the Climate in 2010",
+    "topic": null,
+    "uri": "/report/bams-state-of-the-climate-2010",
+    "url": "http://dx.doi.org/10.1175/1520-0477-92.6.S1"
+}

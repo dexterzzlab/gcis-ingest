@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Breshears, D.D.\rL\u00f3pez-Hoffman, L.\rGraumlich, L.J.",
+        "DOI": "10.1007/s13280-010-0106-4",
+        "ISSN": "1654-7209",
+        "Issue": "3",
+        "Journal": "AMBIO: A Journal of the Human Environment",
+        "Pages": "256-263",
+        "Title": "When ecosystem services crash: Preparing for big, fast, patchy climate change",
+        "Volume": "40",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "1807",
+        "_uuid": "7bf5e34a-2b24-4a1d-b423-fd0ef85c8aec",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s13280-010-0106-4",
+    "href": "http://data.globalchange.gov/reference/7bf5e34a-2b24-4a1d-b423-fd0ef85c8aec.json",
+    "identifier": "7bf5e34a-2b24-4a1d-b423-fd0ef85c8aec",
+    "uri": "/reference/7bf5e34a-2b24-4a1d-b423-fd0ef85c8aec"
+}

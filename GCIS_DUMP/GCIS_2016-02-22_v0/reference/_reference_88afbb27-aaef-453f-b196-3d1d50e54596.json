@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".publisher": "Ecological Society of America",
+        ".reference_type": "0",
+        "Access Date": "2013/08/05",
+        "Author": "Sobota, Daniel J.\rCompton, Jana E.\rHarrison, John A.",
+        "DOI": "10.1890/110216",
+        "Date": "2013/03/01",
+        "ISSN": "1540-9295",
+        "Issue": "2",
+        "Journal": "Frontiers in Ecology and the Environment",
+        "Pages": "82-90",
+        "Title": "Reactive nitrogen inputs to US lands and waterways: How certain are we about sources and fluxes?",
+        "Volume": "11",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "4187",
+        "_uuid": "88afbb27-aaef-453f-b196-3d1d50e54596",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/110216",
+    "href": "http://data.globalchange.gov/reference/88afbb27-aaef-453f-b196-3d1d50e54596.json",
+    "identifier": "88afbb27-aaef-453f-b196-3d1d50e54596",
+    "uri": "/reference/88afbb27-aaef-453f-b196-3d1d50e54596"
+}

@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Hsia, R.Y.\rKellermann, A.L.\rShen, Yu-Chu",
+        "DOI": "10.1001/jama.2011.620",
+        "ISSN": "0098-7484",
+        "Issue": "19",
+        "Journal": "JAMA: The Journal of the American Medical Association",
+        "Pages": "1978-1985",
+        "Title": "Factors associated with closures of emergency departments in the United States",
+        "URL": "http://jama.jamanetwork.com/article.aspx?articleid=1161864",
+        "Volume": "305",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "3593",
+        "_uuid": "0219f3f2-9fe2-4b30-8b5e-555cd1dd827b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1001/jama.2011.620",
+    "href": "http://data.globalchange.gov/reference/0219f3f2-9fe2-4b30-8b5e-555cd1dd827b.json",
+    "identifier": "0219f3f2-9fe2-4b30-8b5e-555cd1dd827b",
+    "uri": "/reference/0219f3f2-9fe2-4b30-8b5e-555cd1dd827b"
+}

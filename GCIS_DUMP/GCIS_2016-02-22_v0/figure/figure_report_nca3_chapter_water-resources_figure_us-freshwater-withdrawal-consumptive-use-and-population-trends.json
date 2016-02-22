@@ -1,0 +1,89 @@
+{
+    "attributes": null,
+    "caption": "Trends in total freshwater withdrawal (equal to the sum of consumptive use and return flows to rivers) and population in the contiguous United States. This graph illustrates the remarkable change in the relationship between water use and population growth since about 1980. Reductions in per capita water withdrawals are directly related to increases in irrigation efficiency for agriculture, more efficient cooling processes in electrical generation, and, in many areas, price signals, more efficient indoor plumbing fixtures and appliances, and reductions in exterior landscape watering, in addition to shifts in land-use patterns in some areas.<tbib>b9565fca-baa6-4647-9811-5c974a28ce4d</tbib> Efficiency improvements have offset the demands of a growing population and have resulted in more flexibility in meeting water demand. In some cases these improvements have also reduced the flexibility to scale back water use in times of drought because some inefficiencies have already been removed from the system. With drought stress projected to increase in many U.S. regions, drought vulnerability is also expected to rise.<tbib>50d47cc1-5a16-4f5c-bb08-bf6f475a5bb8</tbib>",
+    "chapter": {
+        "doi": "10.7930/J0G44N6T",
+        "identifier": "water-resources",
+        "number": 3,
+        "report_identifier": "nca3",
+        "sort_key": 30,
+        "title": "Water Resources",
+        "url": "http://nca2014.globalchange.gov/report/sectors/water"
+    },
+    "chapter_identifier": "water-resources",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-09-20T16:11:00",
+    "files": [
+        {
+            "file": "27/1a/51673fa10b70fda4e1be485afb8b/water_freshwater_withdrawals_bar_graph_V5.png",
+            "href": "http://data.globalchange.gov/assets/27/1a/51673fa10b70fda4e1be485afb8b/water_freshwater_withdrawals_bar_graph_V5.png",
+            "identifier": "f8333a71-a04c-4118-b473-cbe646e38e0e",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "19ceca898375728366bc0175fa2b711fd5e83a18",
+            "size": 83601,
+            "thumbnail": "27/1a/51673fa10b70fda4e1be485afb8b/.thumb-f8333a71-a04c-4118-b473-cbe646e38e0e.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/27/1a/51673fa10b70fda4e1be485afb8b/.thumb-f8333a71-a04c-4118-b473-cbe646e38e0e.png",
+            "uri": "/file/f8333a71-a04c-4118-b473-cbe646e38e0e",
+            "url": "/assets/27/1a/51673fa10b70fda4e1be485afb8b/water_freshwater_withdrawals_bar_graph_V5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/water-resources/figure/us-freshwater-withdrawal-consumptive-use-and-population-trends.json",
+    "identifier": "us-freshwater-withdrawal-consumptive-use-and-population-trends",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-09-20T16:11:00",
+            "description": null,
+            "identifier": "5c3c4263-348a-46ab-a293-835afdc09048",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Freshwater Withdrawals, Consumptive Use, and Population Trends",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 8,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Water Resources Sector Technical Input Report in Support of the U.S. Global Change Research Program, National Climate Assessment - 2013",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/nca-waterresourcessector-2013"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/50d47cc1-5a16-4f5c-bb08-bf6f475a5bb8.json",
+            "uri": "/reference/50d47cc1-5a16-4f5c-bb08-bf6f475a5bb8"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/b9565fca-baa6-4647-9811-5c974a28ce4d.json",
+            "uri": "/reference/b9565fca-baa6-4647-9811-5c974a28ce4d"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "U.S. Freshwater Withdrawal, Consumptive Use, and Population Trends",
+    "uri": "/report/nca3/chapter/water-resources/figure/us-freshwater-withdrawal-consumptive-use-and-population-trends",
+    "url": "http://nca2014.globalchange.gov/report/sectors/water/graphics/us-freshwater-withdrawal-consumptive-use-and-population-trends",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

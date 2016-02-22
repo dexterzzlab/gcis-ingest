@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "High, B.\rPeery, C.A.\rBennett, D.H.",
+        "DOI": "10.1577/T04-224.1",
+        "ISSN": "0002-8487",
+        "Issue": "2",
+        "Journal": "Transactions of the American Fisheries Society",
+        "Pages": "519-528",
+        "Title": "Temporary staging of Columbia River summer steelhead in coolwater areas and its effect on migration rates",
+        "Volume": "135",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "1653",
+        "_uuid": "fba84aa7-dec6-4e79-82fb-e682980322e5",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1577/T04-224.1",
+    "href": "http://data.globalchange.gov/reference/fba84aa7-dec6-4e79-82fb-e682980322e5.json",
+    "identifier": "fba84aa7-dec6-4e79-82fb-e682980322e5",
+    "uri": "/reference/fba84aa7-dec6-4e79-82fb-e682980322e5"
+}

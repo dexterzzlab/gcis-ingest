@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Black, H.",
+        "Issue": "9",
+        "Journal": "Environmental Health Perspectives",
+        "Pages": "A390-393",
+        "Title": "Unnatural disaster: Human factors in the Mississippi floods",
+        "Volume": "116",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 5: Transportation FINAL\"]",
+        "_record_number": "1731",
+        "_uuid": "b8d001bf-c47f-40f8-91f1-a252a46381b8",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1289/ehp.116-a390",
+    "href": "http://data.globalchange.gov/reference/b8d001bf-c47f-40f8-91f1-a252a46381b8.json",
+    "identifier": "b8d001bf-c47f-40f8-91f1-a252a46381b8",
+    "uri": "/reference/b8d001bf-c47f-40f8-91f1-a252a46381b8"
+}

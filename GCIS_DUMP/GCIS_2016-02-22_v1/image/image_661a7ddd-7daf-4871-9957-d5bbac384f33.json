@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-09-10T08:56:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Annual reduction in the number of premature deaths\u00a0and annual change in the number of cases with acute respiratory symptoms\u00a0due to reductions in particulate matter and ozone caused by reducing automobile exhaust. The maps project health benefits if automobile trips shorter than five miles (round-trip) were eliminated for the 11 largest metropolitan areas in the Midwest. Making 50% of these trips by bicycle just during four summer months would save 1,295 lives and yield savings of more than $8 billion per year from improved air quality, avoided mortality, and reduced health care costs for the upper Midwest alone. (Figure source: Grabow et al. 2012; reproduced with permission from Environmental Health Perspectives<tbib>4feed3ba-a773-445b-a97d-383477321352</tbib>).",
+            "chapter_identifier": "midwest",
+            "create_dt": "2013-09-10T08:56:00",
+            "identifier": "reducing-emissions-improving-health",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 5,
+            "report_identifier": "nca3",
+            "source_citation": "Grabow et al. 2012; reproduced with permission from Environmental Health Perspectives<tbib>4feed3ba-a773-445b-a97d-383477321352</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Reducing Emissions, Improving Health",
+            "url": "http://nca2014.globalchange.gov/report/regions/midwest/graphics/reducing-emissions-improving-health",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "7c/57/13462ad3c3e81986fdd6cc134722/mw_health_effects_v4_right.png",
+            "href": "http://data.globalchange.gov/assets/7c/57/13462ad3c3e81986fdd6cc134722/mw_health_effects_v4_right.png",
+            "identifier": "263368ca-87d3-4e62-9989-2c11751a6f8a",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "7198621b30f219a0b7b7f4c2ae431662e50a540c",
+            "size": 62501,
+            "thumbnail": "7c/57/13462ad3c3e81986fdd6cc134722/.thumb-263368ca-87d3-4e62-9989-2c11751a6f8a.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/7c/57/13462ad3c3e81986fdd6cc134722/.thumb-263368ca-87d3-4e62-9989-2c11751a6f8a.png",
+            "uri": "/file/263368ca-87d3-4e62-9989-2c11751a6f8a",
+            "url": "/assets/7c/57/13462ad3c3e81986fdd6cc134722/mw_health_effects_v4_right.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/661a7ddd-7daf-4871-9957-d5bbac384f33.json",
+    "identifier": "661a7ddd-7daf-4871-9957-d5bbac384f33",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Reducing Emissions, Improving Health - Number of Cases",
+    "uri": "/image/661a7ddd-7daf-4871-9957-d5bbac384f33",
+    "url": null,
+    "usage_limits": null
+}

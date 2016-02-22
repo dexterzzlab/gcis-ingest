@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Epstein, Paul R.",
+        "DOI": "10.1016/S1286-4579(01)01429-0",
+        "ISSN": "1286-4579",
+        "Issue": "9",
+        "Journal": "Microbes and Infection",
+        "Keywords": "climate change\remerging infectious diseases",
+        "Pages": "747-754",
+        "Title": "Climate change and emerging infectious diseases",
+        "URL": "http://www.sciencedirect.com/science/article/pii/S1286457901014290",
+        "Volume": "3",
+        "Year": "2001",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "3944",
+        "_uuid": "aedfdde4-8d62-4bfa-a8c4-39528b4f45f0",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/S1286-4579(01)01429-0",
+    "href": "http://data.globalchange.gov/reference/aedfdde4-8d62-4bfa-a8c4-39528b4f45f0.json",
+    "identifier": "aedfdde4-8d62-4bfa-a8c4-39528b4f45f0",
+    "uri": "/reference/aedfdde4-8d62-4bfa-a8c4-39528b4f45f0"
+}

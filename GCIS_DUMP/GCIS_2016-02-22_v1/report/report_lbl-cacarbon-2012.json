@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/lbl-cacarbon-2012.json",
+    "identifier": "lbl-cacarbon-2012",
+    "in_library": null,
+    "publication_year": 2012,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "California\u2019s Carbon Challenge. Scenarios for Achieving 80% Emissions Reductions in 2050",
+    "topic": null,
+    "uri": "/report/lbl-cacarbon-2012",
+    "url": "http://eaei.lbl.gov/sites/all/files/california_carbon_challenge_feb20_20131_0.pdf"
+}

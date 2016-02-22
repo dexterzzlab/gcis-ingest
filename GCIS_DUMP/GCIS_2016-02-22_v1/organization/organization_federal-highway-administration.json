@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/federal-highway-administration.json",
+    "identifier": "federal-highway-administration",
+    "name": "Federal Highway Administration",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/federal-highway-administration",
+    "url": "https://www.fhwa.dot.gov"
+}

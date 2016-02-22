@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "EIA,",
+        "Institution": "U.S. Department of Energy, U.S. Energy Information Administration",
+        "Title": "Natural Gas Annual 2010. DOE/EIA-0131(10)",
+        "URL": "http://www.eia.gov/naturalgas/annual/pdf/front_matter.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 10: Energy Water Land FINAL\"]",
+        "_record_number": "1157",
+        "_uuid": "e6d73a34-70a6-4cd0-a629-a3e7dd394e65",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/eia-0131-10",
+    "href": "http://data.globalchange.gov/reference/e6d73a34-70a6-4cd0-a629-a3e7dd394e65.json",
+    "identifier": "e6d73a34-70a6-4cd0-a629-a3e7dd394e65",
+    "uri": "/reference/e6d73a34-70a6-4cd0-a629-a3e7dd394e65"
+}

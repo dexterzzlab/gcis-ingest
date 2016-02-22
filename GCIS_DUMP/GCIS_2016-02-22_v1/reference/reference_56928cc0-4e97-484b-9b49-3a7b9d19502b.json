@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Davis, M.A.\rPalumbo, M.G.",
+        "DOI": "10.1016/j.jue.2007.02.003",
+        "ISSN": "0094-1190",
+        "Issue": "1",
+        "Journal": "Journal of Urban Economics",
+        "Pages": "352-384",
+        "Title": "The price of residential land in large US cities",
+        "Volume": "63",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "1319",
+        "_uuid": "56928cc0-4e97-484b-9b49-3a7b9d19502b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.jue.2007.02.003",
+    "href": "http://data.globalchange.gov/reference/56928cc0-4e97-484b-9b49-3a7b9d19502b.json",
+    "identifier": "56928cc0-4e97-484b-9b49-3a7b9d19502b",
+    "uri": "/reference/56928cc0-4e97-484b-9b49-3a7b9d19502b"
+}

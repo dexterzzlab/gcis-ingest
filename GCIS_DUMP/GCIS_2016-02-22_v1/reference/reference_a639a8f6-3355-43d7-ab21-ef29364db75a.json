@@ -1,0 +1,17 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Australian Bureau of Meteorology,\rCSIRO,",
+        "Title": "Climate Change in the Pacific: Scientific Assessment and New Research. Volume 1: Regional Overview. Volume 2: Country Reports.",
+        "URL": "www.pacificclimatechangescience.org/publications/reports/",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "317",
+        "_uuid": "a639a8f6-3355-43d7-ab21-ef29364db75a",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/augovt-climchpac-2011",
+    "href": "http://data.globalchange.gov/reference/a639a8f6-3355-43d7-ab21-ef29364db75a.json",
+    "identifier": "a639a8f6-3355-43d7-ab21-ef29364db75a",
+    "uri": "/reference/a639a8f6-3355-43d7-ab21-ef29364db75a"
+}

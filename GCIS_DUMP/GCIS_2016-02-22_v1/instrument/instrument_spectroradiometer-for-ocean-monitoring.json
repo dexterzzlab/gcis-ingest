@@ -1,0 +1,8 @@
+{
+    "description": "Medium-resolution spectro-radiometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/spectroradiometer-for-ocean-monitoring.json",
+    "identifier": "spectroradiometer-for-ocean-monitoring",
+    "name": "Spectroradiometer for ocean monitoring",
+    "uri": "/instrument/spectroradiometer-for-ocean-monitoring"
+}

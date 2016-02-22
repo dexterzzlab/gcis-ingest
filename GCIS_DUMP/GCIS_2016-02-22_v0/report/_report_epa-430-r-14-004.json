@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/epa-430-r-14-004.json",
+    "identifier": "epa-430-r-14-004",
+    "in_library": null,
+    "publication_year": 2014,
+    "report_type_identifier": "report",
+    "summary": "This report presents a set of 30 indicators that track the causes and effects of climate change. Written for general audiences, the report aims to educate readers about long-term climate-related trends that have been observed across the atmosphere, oceans, snow and ice, ecosystems, and public health. The report builds on an earlier edition released in 2012 and was produced by EPA with support from Federal and non-governmental partners.   ",
+    "title": "Climate Change Indicators in the United States, 2014, Third Edition",
+    "topic": "Oceans,Observing Systems,Ecosystems,Indicators,Human Health,Education",
+    "uri": "/report/epa-430-r-14-004",
+    "url": "http://www.epa.gov/climatechange/science/indicators/download.html"
+}

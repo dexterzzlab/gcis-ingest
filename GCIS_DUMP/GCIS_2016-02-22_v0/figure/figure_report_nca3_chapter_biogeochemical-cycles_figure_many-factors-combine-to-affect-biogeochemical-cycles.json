@@ -1,0 +1,96 @@
+{
+    "attributes": null,
+    "caption": "Top panel shows the impact of the alteration of the carbon cycle alone on radiative forcing. The bottom panel shows the impacts of the alteration of carbon, nitrogen, and sulfur cycles on radiative forcing. SO<sub>2</sub> and NH<sub>3</sub> increase aerosols and decrease radiative forcing. NH<sub>3</sub> is likely to increase plant biomass, and consequently decrease forcing. NO<sub>x </sub>is likely to increase the formation of tropospheric ozone (O<sub>3</sub>) and increase radiative forcing. Ozone has a negative effect on plant growth/biomass, which might increase radiative forcing. CO<sub>2</sub> and NH<sub>3</sub> act synergistically to increase plant growth, and therefore decrease radiative forcing. SO<sub>2</sub> is likely to reduce plant growth, perhaps through the leaching of soil nutrients, and consequently increase radiative forcing. NO<sub>x </sub>is likely to reduce plant growth directly and through the leaching of soil nutrients, therefore increasing radiative forcing. However, it could act as a fertilizer that would have the opposite effect.",
+    "chapter": {
+        "doi": "10.7930/J0X63JT0",
+        "identifier": "biogeochemical-cycles",
+        "number": 15,
+        "report_identifier": "nca3",
+        "sort_key": 150,
+        "title": "Biogeochemical Cycles",
+        "url": "http://nca2014.globalchange.gov/report/sectors/biogeochemical-cycles"
+    },
+    "chapter_identifier": "biogeochemical-cycles",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2532.json",
+            "id": 2532,
+            "organization": {
+                "country_code": "US",
+                "identifier": "university-virginia",
+                "name": "University of Virginia",
+                "organization_type_identifier": "academic",
+                "url": "http://www.virginia.edu"
+            },
+            "organization_uri": "/organization/university-virginia",
+            "person": {
+                "first_name": "James",
+                "id": 829,
+                "last_name": "Galloway",
+                "middle_name": null,
+                "orcid": "0000-0001-7676-8698",
+                "url": "http://www.evsc.virginia.edu/2008/11/galloway-james-n/"
+            },
+            "person_id": 829,
+            "person_uri": "/person/829",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2532"
+        }
+    ],
+    "create_dt": "2014-03-20T12:07:10",
+    "files": [
+        {
+            "file": "f3/7f/96924172907c0babaa3578d6076e/BGC_human_activities_v6.png",
+            "href": "http://data.globalchange.gov/assets/f3/7f/96924172907c0babaa3578d6076e/BGC_human_activities_v6.png",
+            "identifier": "8fce51f3-65c9-4fef-a903-d6ce746312c8",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "3e0b9d69d9bb62c0645532622199fbe84e0139ae",
+            "size": 1109130,
+            "thumbnail": "f3/7f/96924172907c0babaa3578d6076e/.thumb-8fce51f3-65c9-4fef-a903-d6ce746312c8.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/f3/7f/96924172907c0babaa3578d6076e/.thumb-8fce51f3-65c9-4fef-a903-d6ce746312c8.png",
+            "uri": "/file/8fce51f3-65c9-4fef-a903-d6ce746312c8",
+            "url": "/assets/f3/7f/96924172907c0babaa3578d6076e/BGC_human_activities_v6.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/biogeochemical-cycles/figure/many-factors-combine-to-affect-biogeochemical-cycles.json",
+    "identifier": "many-factors-combine-to-affect-biogeochemical-cycles",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2014-03-20T12:07:10",
+            "description": null,
+            "identifier": "a1030f32-8780-4fc0-b7bd-713f4306e8ae",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Many Factors Combine to Affect Biogeochemical Cycles",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 4,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Many Factors Combine to Affect Biogeochemical Cycles",
+    "uri": "/report/nca3/chapter/biogeochemical-cycles/figure/many-factors-combine-to-affect-biogeochemical-cycles",
+    "url": "http://nca2014.globalchange.gov/highlights/report-findings/ecosystems-and-biodiversity/graphics/many-factors-combine-affect",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

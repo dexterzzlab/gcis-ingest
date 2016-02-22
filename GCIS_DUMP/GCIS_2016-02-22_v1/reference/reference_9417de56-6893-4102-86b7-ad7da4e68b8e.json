@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Mote, P.W.",
+        "DOI": "10.1029/2003GL017258",
+        "Issue": "12",
+        "Journal": "Geophysical Research Letters",
+        "Pages": "1601",
+        "Title": "Trends in snow water equivalent in the Pacific Northwest and their climatic causes",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2003GL017258/pdf",
+        "Volume": "30",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "2109",
+        "_uuid": "9417de56-6893-4102-86b7-ad7da4e68b8e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2003GL017258",
+    "href": "http://data.globalchange.gov/reference/9417de56-6893-4102-86b7-ad7da4e68b8e.json",
+    "identifier": "9417de56-6893-4102-86b7-ad7da4e68b8e",
+    "uri": "/reference/9417de56-6893-4102-86b7-ad7da4e68b8e"
+}

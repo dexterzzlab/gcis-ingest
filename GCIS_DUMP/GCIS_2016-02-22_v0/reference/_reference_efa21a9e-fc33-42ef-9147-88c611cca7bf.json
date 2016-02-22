@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".publisher": "Nature Publishing Group",
+        ".reference_type": "0",
+        "Author": "Kinney, Patrick L.",
+        "DOI": "10.1038/nclimate1460",
+        "ISSN": "1758-678X",
+        "Issue": "4",
+        "Journal": "Nature Climate Change",
+        "Notes": "10.1038/nclimate1460",
+        "Pages": "233-234",
+        "Title": "Health: A new measure of health effects",
+        "Volume": "2",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "4210",
+        "_uuid": "efa21a9e-fc33-42ef-9147-88c611cca7bf",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/nclimate1460",
+    "href": "http://data.globalchange.gov/reference/efa21a9e-fc33-42ef-9147-88c611cca7bf.json",
+    "identifier": "efa21a9e-fc33-42ef-9147-88c611cca7bf",
+    "uri": "/reference/efa21a9e-fc33-42ef-9147-88c611cca7bf"
+}

@@ -1,0 +1,15 @@
+{
+    "computing_environment": "Linux (Red Hat Enterprise Linux Server release 6.4)\r\nMac OS X (darwin x86_64 m64)",
+    "data_usage": "The observed number of days with a maximum temperature greater than 90\u00baF for 1971-2000 was plotted for the northeast United States.",
+    "duration": "56 hours",
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/724fda9a-maurer-process.json",
+    "identifier": "724fda9a-maurer-process",
+    "methodology": "1. At each grid point, the number of days with a maximum temperature greater than 90\u00baF was calculated for each year (provided data were available for 95% of the days at that grid point).\r\n2. At each grid point, the mean number of days with a maximum temperature greater than 90\u00baF was computed for the period 1971-2000.\r\n3. Data were plotted for all grid points in the northeast United States.",
+    "notes": "SciPy, IDL, GrADS",
+    "output_artifacts": "array_ops.py\r\narray_ops.pyc\r\nclusterify_each_year.py\r\nclusterify.py\r\nconfig.py\r\nconfig.pyc\r\npi_calc_percentiles.py\r\ntmax_90F_1971-2000.txt\r\ntmax90_plot.pro\r\ntmax90_1971-2000.nc\r\ntmax90_1971-2000.ctl\r\ntmax90_plot.gs\r\ntmax90_maurer_NE.png\r\n16-2a.png\r\nNE_days above90_V5.png",
+    "software": "SciPy (v0.10.1), IDL (v8.0), GrADS (v2.0.2)",
+    "start_time": null,
+    "uri": "/activity/724fda9a-maurer-process",
+    "visualization_software": "GrADS"
+}

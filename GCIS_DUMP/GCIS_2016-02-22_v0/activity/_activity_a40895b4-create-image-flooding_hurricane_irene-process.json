@@ -1,0 +1,15 @@
+{
+    "computing_environment": null,
+    "data_usage": null,
+    "duration": null,
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/a40895b4-create-image-flooding_hurricane_irene-process.json",
+    "identifier": "a40895b4-create-image-flooding_hurricane_irene-process",
+    "methodology": "Two MODIS Aqua dataset MYD021KM input granules were mosaicked and subseted to extract the desired area to display the region covered by Hurricane Irene. The following two inputs were used.\r\n\r\n1. MODIS Aqua dataset MYD021KM granule MYD021KM.A2011240.1750.006.2012076212937.hdf (August 28, 2011, 17:50 UTC)\r\nftp://ladsftp.nascom.nasa.gov/allData/6/MYD021KM/2011/240/MYD021KM.A2011240.1750.006.2012076212937.hdf\r\n\r\n2. MODIS Aqua dataset MYD021KM granule MYD021KM.A2011240.1755.006.2012076211459.hdf  (August 28, 2011, 17:55 UTC)\r\nftp://ladsftp.nascom.nasa.gov/allData/6/MYD021KM/2011/240/MYD021KM.A2011240.1755.006.2012076211459.hdf\r\n\r\nThe GCMD landing page for MODIS Aqua dataset MYD021KM: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=lance&EntryId=MYD021KM&MetadataView=Full",
+    "notes": "There is no image on earthobservatory or MODIS Rapid Response System that matched the image in the figure. The image might have existed in the MODIS Rapid Response System in 2011, but is part of the data that was lost due to a disk crash in 2013. It has not been restored, and may be restored when MODIS Collection 6 processing is completed.",
+    "output_artifacts": "/report/nca3/chapter/northeast/figure/flooding-and-hurricane-irene",
+    "software": null,
+    "start_time": null,
+    "uri": "/activity/a40895b4-create-image-flooding_hurricane_irene-process",
+    "visualization_software": null
+}

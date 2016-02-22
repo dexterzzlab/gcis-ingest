@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Shortwave cloud forcing (SWCF) anomalies from Earth Radiation Budget Experiment (ERBE) and Clouds and Earth\u2019s Radiant Energy System (CERES) observations and CAM3 simulations (Ctrl is the standard model; Exp includes the improved convection scheme). The anomalies are obtained by subtracting the mean SWCF from the observed or computed SWCF at each longitude over the period of interest, which is from Feb 1985 to Apr 1989 for ERBE and from Jan 1980 to Dec 2000 for CAM3. Contour intervals are 20 W m-2 with dotted lines for positive values. Credit: G. Li Nanjing, University of Information Science and Technology, and G. J. Zhang, Scripps Institution of Oceanography (reproduced from Journal of Geophysical Research with permission from the American Geophysical Union).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "81/bf/d652fb8ca62ae767c85955dbe16f/our_changing_planet_2010_image__15_20091209_1632780572.jpg",
+            "href": "http://data.globalchange.gov/assets/81/bf/d652fb8ca62ae767c85955dbe16f/our_changing_planet_2010_image__15_20091209_1632780572.jpg",
+            "identifier": "c55a4f10-838f-4d9f-9acc-6f9d7fd6dc27",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "5094a69b49ba1fc82232af4d6e35a0c3ac192ab2",
+            "size": 709379,
+            "thumbnail": "81/bf/d652fb8ca62ae767c85955dbe16f/.thumb-c55a4f10-838f-4d9f-9acc-6f9d7fd6dc27.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/81/bf/d652fb8ca62ae767c85955dbe16f/.thumb-c55a4f10-838f-4d9f-9acc-6f9d7fd6dc27.png",
+            "uri": "/file/c55a4f10-838f-4d9f-9acc-6f9d7fd6dc27",
+            "url": "/assets/81/bf/d652fb8ca62ae767c85955dbe16f/our_changing_planet_2010_image__15_20091209_1632780572.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2010/figure/clouds-in-earth-energy-budget.json",
+    "identifier": "clouds-in-earth-energy-budget",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2010",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Clouds in Earth's Energy Budget",
+    "uri": "/report/usgcrp-ocpfy2010/figure/clouds-in-earth-energy-budget",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

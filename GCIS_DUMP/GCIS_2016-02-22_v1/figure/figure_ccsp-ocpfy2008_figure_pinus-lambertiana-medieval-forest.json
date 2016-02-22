@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Deadwood of sugar pine preserved from a medieval forest on Whitewing Mountain, eastern Sierra Nevada, California. The current range of this species is west of the Sierra crest (in background) and about 700-m lower in elevation. Credit: C. Millar, USDA / Forest Service.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "13/6e/efc0da8df466e4464f8c1377d175/our_changing_planet_2008_66_20090708_1878310685.jpg",
+            "href": "http://data.globalchange.gov/assets/13/6e/efc0da8df466e4464f8c1377d175/our_changing_planet_2008_66_20090708_1878310685.jpg",
+            "identifier": "0bbf5665-85b6-4583-a799-b043eef4d14d",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "d6006c0680087370bb19c46702a36d3c11154c40",
+            "size": 57205,
+            "thumbnail": "13/6e/efc0da8df466e4464f8c1377d175/.thumb-0bbf5665-85b6-4583-a799-b043eef4d14d.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/13/6e/efc0da8df466e4464f8c1377d175/.thumb-0bbf5665-85b6-4583-a799-b043eef4d14d.png",
+            "uri": "/file/0bbf5665-85b6-4583-a799-b043eef4d14d",
+            "url": "/assets/13/6e/efc0da8df466e4464f8c1377d175/our_changing_planet_2008_66_20090708_1878310685.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2008/figure/pinus-lambertiana-medieval-forest.json",
+    "identifier": "pinus-lambertiana-medieval-forest",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2008",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Pinus lambertiana from a Medieval Forest",
+    "uri": "/report/ccsp-ocpfy2008/figure/pinus-lambertiana-medieval-forest",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

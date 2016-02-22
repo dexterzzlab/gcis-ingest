@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/us-department-energy.json",
+    "identifier": "us-department-energy",
+    "name": "U.S. Department of Energy",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/us-department-energy",
+    "url": "http://www.energy.gov"
+}

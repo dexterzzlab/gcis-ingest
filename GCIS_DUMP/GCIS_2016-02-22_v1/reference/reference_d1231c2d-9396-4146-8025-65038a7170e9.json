@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "SFBCDC,",
+        "Institution": "San Francisco Bay Conservation and Development Commission",
+        "Pages": "187",
+        "Place Published": "San Francisco, CA",
+        "Title": "Living with a Rising Bay: Vulnerability and Adaptation in San Francisco Bay and on its Shoreline",
+        "URL": "http://www.bcdc.ca.gov/BPA/LivingWithRisingBay.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"Ch. 13: Land Use and Land Cover Change FINAL\"]",
+        "_record_number": "1060",
+        "_uuid": "d1231c2d-9396-4146-8025-65038a7170e9",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/sfbcdc-living-2011",
+    "href": "http://data.globalchange.gov/reference/d1231c2d-9396-4146-8025-65038a7170e9.json",
+    "identifier": "d1231c2d-9396-4146-8025-65038a7170e9",
+    "uri": "/reference/d1231c2d-9396-4146-8025-65038a7170e9"
+}

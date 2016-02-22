@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2012",
+        "Author": "NCDC,",
+        "Place Published": "Asheville, NC",
+        "Publisher": "NOAA's National Climatic Data Center",
+        "Title": "State of the Climate Wildfires",
+        "URL": "http://www.ncdc.noaa.gov/sotc/fire/2012/11",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "2181",
+        "_uuid": "990aa49a-a25d-416c-945a-17fad9a5b824",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/52fd9224-9d4c-4d89-9e4d-cc3c00b3e4b6",
+    "href": "http://data.globalchange.gov/reference/990aa49a-a25d-416c-945a-17fad9a5b824.json",
+    "identifier": "990aa49a-a25d-416c-945a-17fad9a5b824",
+    "uri": "/reference/990aa49a-a25d-416c-945a-17fad9a5b824"
+}

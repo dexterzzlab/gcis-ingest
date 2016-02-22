@@ -1,0 +1,102 @@
+{
+    "attributes": null,
+    "caption": "The effects of climate change, primarily associated with increasing temperatures and potential evapotranspiration, are projected to significantly increase water demand across most of the United States. Maps show percent change from 2005 to 2060 in projected demand for water assuming (a) change in population and socioeconomic conditions based on the underlying A1B emissions scenario, but with no change in climate, and (b) combined changes in population, socioeconomic conditions, and climate according to the A1B emissions scenario (gradual reductions from current emission trends beginning around mid-century). (Figure source: Brown et al. 2013<tbib>30f46799-40a7-4e54-97f0-841e22aa4a56</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0G44N6T",
+        "identifier": "water-resources",
+        "number": 3,
+        "report_identifier": "nca3",
+        "sort_key": 30,
+        "title": "Water Resources",
+        "url": "http://nca2014.globalchange.gov/report/sectors/water"
+    },
+    "chapter_identifier": "water-resources",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-03-09T19:18:00",
+    "files": [
+        {
+            "file": "16/21/058d21232ecabd51eb3e9710ec21/water_projected_water_withdrawals_V3.png",
+            "href": "http://data.globalchange.gov/assets/16/21/058d21232ecabd51eb3e9710ec21/water_projected_water_withdrawals_V3.png",
+            "identifier": "262f02db-eb57-4d11-9e7e-d56a21a65744",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "736de700ab4f1415252f838669c22d2dea26898f",
+            "size": 290233,
+            "thumbnail": "16/21/058d21232ecabd51eb3e9710ec21/.thumb-262f02db-eb57-4d11-9e7e-d56a21a65744.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/16/21/058d21232ecabd51eb3e9710ec21/.thumb-262f02db-eb57-4d11-9e7e-d56a21a65744.png",
+            "uri": "/file/262f02db-eb57-4d11-9e7e-d56a21a65744",
+            "url": "/assets/16/21/058d21232ecabd51eb3e9710ec21/water_projected_water_withdrawals_V3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/water-resources/figure/projected-changes-in-water-withdrawals.json",
+    "identifier": "projected-changes-in-water-withdrawals",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2014-03-09T19:18:00",
+            "description": null,
+            "identifier": "ad77ad62-adf2-4eb1-a19e-6e8156be3f45",
+            "lat_max": "49.38",
+            "lat_min": "24.50",
+            "lon_max": "-66.95",
+            "lon_min": "-124.80",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2060-12-31T23:59:59",
+            "time_start": "2005-01-01T00:00:00",
+            "title": "Projected Changes in Water Withdrawals - Without Climate Change",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2014-03-09T19:18:00",
+            "description": null,
+            "identifier": "f11b411b-6920-47b5-b903-e8be02800a63",
+            "lat_max": "49.38",
+            "lat_min": "24.50",
+            "lon_max": "-66.95",
+            "lon_min": "-124.80",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2060-12-31T23:59:59",
+            "time_start": "2005-01-01T00:00:00",
+            "title": "Projected Changes in Water Withdrawals - With Continued Climate Change",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 11,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Projected freshwater withdrawals in the United States under a changing climate",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1002/wrcr.20076"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/30f46799-40a7-4e54-97f0-841e22aa4a56.json",
+            "uri": "/reference/30f46799-40a7-4e54-97f0-841e22aa4a56"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "Brown et al. 2013<tbib>30f46799-40a7-4e54-97f0-841e22aa4a56</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Projected Changes in Water Withdrawals",
+    "uri": "/report/nca3/chapter/water-resources/figure/projected-changes-in-water-withdrawals",
+    "url": "http://nca2014.globalchange.gov/highlights/report-findings/water-supply/graphics/projected-changes-water-withdrawals",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

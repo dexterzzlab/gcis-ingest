@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/national-weather-service-environmental-modeling-center.json",
+    "identifier": "national-weather-service-environmental-modeling-center",
+    "name": "National Weather Service Environmental Modeling Center",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/national-weather-service-environmental-modeling-center",
+    "url": "http://www.emc.ncep.noaa.gov/"
+}

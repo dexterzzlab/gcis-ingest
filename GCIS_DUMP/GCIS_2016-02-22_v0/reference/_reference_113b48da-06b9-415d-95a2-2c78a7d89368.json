@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Dragoni, D.\rH.P. Schmid\rC.A. Wayson\rH. Potter\rC.S.B. Grimmond\rJ.C. Randolph",
+        "DOI": "10.1111/j.1365-2486.2010.02281.x",
+        "Date": "Feb",
+        "ISSN": "1354-1013",
+        "Issue": "2",
+        "Journal": "Global Change Biology",
+        "Keywords": "carbon cycle; climate change; eddy-covariance; leaf senescence; phenology; satellite sensor data; carbon-dioxide; climate-change; spring phenology; plant phenology; hardwood forest; time-series; exchange; co2; variability",
+        "Pages": "886-897",
+        "Title": "Evidence of increased net ecosystem productivity associated with a longer vegetated season in a deciduous forest in south-central Indiana, USA",
+        "Type of Article": "Article",
+        "Volume": "17",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "667",
+        "_uuid": "113b48da-06b9-415d-95a2-2c78a7d89368",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1365-2486.2010.02281.x",
+    "href": "http://data.globalchange.gov/reference/113b48da-06b9-415d-95a2-2c78a7d89368.json",
+    "identifier": "113b48da-06b9-415d-95a2-2c78a7d89368",
+    "uri": "/reference/113b48da-06b9-415d-95a2-2c78a7d89368"
+}

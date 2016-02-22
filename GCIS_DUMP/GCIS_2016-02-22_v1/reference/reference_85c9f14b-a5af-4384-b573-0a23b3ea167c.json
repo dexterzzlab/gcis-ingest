@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Vecchi, Gabriel A.\rClement, Amy\rSoden, Brian J.",
+        "DOI": "10.1029/2008EO090002",
+        "ISSN": "2324-9250",
+        "Issue": "9",
+        "Journal": "Eos, Transactions, American Geophysical Union",
+        "Keywords": "3305 Climate change and variability\r3374 Tropical meteorology\r4504 Air/sea interactions",
+        "Pages": "81-83",
+        "Title": "Examining the tropical Pacific's response to global warming",
+        "Volume": "89",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"RF 2\"]",
+        "_record_number": "4373",
+        "_uuid": "85c9f14b-a5af-4384-b573-0a23b3ea167c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2008EO090002",
+    "href": "http://data.globalchange.gov/reference/85c9f14b-a5af-4384-b573-0a23b3ea167c.json",
+    "identifier": "85c9f14b-a5af-4384-b573-0a23b3ea167c",
+    "uri": "/reference/85c9f14b-a5af-4384-b573-0a23b3ea167c"
+}

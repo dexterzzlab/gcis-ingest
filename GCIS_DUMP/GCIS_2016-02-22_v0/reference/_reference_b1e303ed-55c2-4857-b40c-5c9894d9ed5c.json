@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Omernik, J.M.",
+        "DOI": "10.1111/j.1467-8306.1987.tb00149.x",
+        "Issue": "1",
+        "Journal": "Annals of the Association of American Geographers",
+        "Pages": "118-125",
+        "Title": "Ecoregions of the conterminous United States",
+        "URL": "http://dusk2.geo.orst.edu/prosem/PDFs/lozano_Ecoregions.pdf",
+        "Volume": "77",
+        "Year": "1987",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\"]",
+        "_record_number": "2354",
+        "_uuid": "b1e303ed-55c2-4857-b40c-5c9894d9ed5c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1467-8306.1987.tb00149.x",
+    "href": "http://data.globalchange.gov/reference/b1e303ed-55c2-4857-b40c-5c9894d9ed5c.json",
+    "identifier": "b1e303ed-55c2-4857-b40c-5c9894d9ed5c",
+    "uri": "/reference/b1e303ed-55c2-4857-b40c-5c9894d9ed5c"
+}

@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2012",
+        "Author": "U.S.A. Evacuation Routes,",
+        "Place Published": "Chapel Hill, NC",
+        "Publisher": "University of North Carolina-Chapel Hill",
+        "Title": "U.S.A. Evacuation Routes",
+        "URL": "http://www.ibiblio.org/rcip/evacuationroutes.html",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "3180",
+        "_uuid": "33bc3d73-d850-483e-9bce-091990fcb81a",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/b9b8053e-ff6d-4652-9dba-b11f5185de57",
+    "href": "http://data.globalchange.gov/reference/33bc3d73-d850-483e-9bce-091990fcb81a.json",
+    "identifier": "33bc3d73-d850-483e-9bce-091990fcb81a",
+    "uri": "/reference/33bc3d73-d850-483e-9bce-091990fcb81a"
+}

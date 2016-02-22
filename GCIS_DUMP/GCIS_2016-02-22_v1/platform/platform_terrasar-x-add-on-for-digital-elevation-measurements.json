@@ -1,0 +1,12 @@
+{
+    "description": "TSX/TanDEM-X is a high-resolution interferometric SAR mission of DLR (German Aerospace Center), together with the partners EADS Astrium GmbH and Infoterra GmbH in a PPP (Public Private Partnership) consortium. The mission concept is based on a second TerraSAR-X (TSX) radar satellite flying in close formation to achieve the desired interferometric baselines in a highly reconfigurable constellation. A contract to build the TanDEM-X spacecraft was signed in September 2006 between DLR and EADS Astrium.",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/t/tandem-x",
+    "end_date": "2015-12-01T00:00:00",
+    "href": "http://data.globalchange.gov/platform/terrasar-x-add-on-for-digital-elevation-measurements.json",
+    "identifier": "terrasar-x-add-on-for-digital-elevation-measurements",
+    "name": "TerraSAR-X Add-on for Digital Elevation Measurements",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "2010-06-21T00:00:00",
+    "uri": "/platform/terrasar-x-add-on-for-digital-elevation-measurements",
+    "url": "http://www.dlr.de/hr/desktopdefault.aspx/tabid-2317/3669_read-5488/"
+}

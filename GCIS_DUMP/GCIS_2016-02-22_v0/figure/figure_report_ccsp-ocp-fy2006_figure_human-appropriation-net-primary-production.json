@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Average annual terrestrial NPP (i.e., \u2018supply\u2019) based on 17 years of AVHRR satellite data (top); global distribution of human-appropriated NPP (HANPP, i.e., \u2018demand\u2019) for all food and fiber products (middle); and NPP-carbon balance (HANPP as a percent of NPP, calculated for each grid cell) (bottom). Highly populated areas (yellow and red) consume up to 300 times their local production. Credit: M. Imhoff, NASA/ Goddard Space Flight Center.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "49/a2/e6de4be4473e4f09b1c07a13bbd1/our_changing_planet_2006_14_20090708_1656366962.jpg",
+            "href": "http://data.globalchange.gov/assets/49/a2/e6de4be4473e4f09b1c07a13bbd1/our_changing_planet_2006_14_20090708_1656366962.jpg",
+            "identifier": "8be1314e-1fc1-4aeb-9046-4495a492a9de",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "23102ecbbc8e423e85668e3a0a74b0e2864a9b2d",
+            "size": 81818,
+            "thumbnail": "49/a2/e6de4be4473e4f09b1c07a13bbd1/.thumb-8be1314e-1fc1-4aeb-9046-4495a492a9de.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/49/a2/e6de4be4473e4f09b1c07a13bbd1/.thumb-8be1314e-1fc1-4aeb-9046-4495a492a9de.png",
+            "uri": "/file/8be1314e-1fc1-4aeb-9046-4495a492a9de",
+            "url": "/assets/49/a2/e6de4be4473e4f09b1c07a13bbd1/our_changing_planet_2006_14_20090708_1656366962.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocp-fy2006/figure/human-appropriation-net-primary-production.json",
+    "identifier": "human-appropriation-net-primary-production",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocp-fy2006",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Human Appropriation of Net Primary Production",
+    "uri": "/report/ccsp-ocp-fy2006/figure/human-appropriation-net-primary-production",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

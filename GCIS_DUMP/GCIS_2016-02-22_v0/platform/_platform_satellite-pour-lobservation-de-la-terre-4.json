@@ -1,0 +1,12 @@
+{
+    "description": "SPOT-4 is considered a 2nd generation SPOT-series satellite of CNES, France. The most important advance is the addition of the \u201cVegetation\u201d instrument, with four spectral bands to allow continuous, worldwide crop monitoring. The data may be used for crop forecasts and environmental studies.",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/s/spot-4",
+    "end_date": "2013-06-29T00:00:00",
+    "href": "http://data.globalchange.gov/platform/satellite-pour-lobservation-de-la-terre-4.json",
+    "identifier": "satellite-pour-lobservation-de-la-terre-4",
+    "name": "Satellite Pour l'Observation de la Terre - 4",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "1998-03-24T00:00:00",
+    "uri": "/platform/satellite-pour-lobservation-de-la-terre-4",
+    "url": "http://www.spot.com/home/system/introsat/welcome.htm"
+}

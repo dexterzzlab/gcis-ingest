@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Root, Terry L.\rPrice, Jeff T.\rHall, Kimberly R.\rSchneider, Stephen H.\rRosenzweig, Cynthia\rPounds, J. Alan",
+        "DOI": "10.1038/nature01333",
+        "ISSN": "0028-0836",
+        "Issue": "6918",
+        "Journal": "Nature",
+        "Pages": "57-60",
+        "Title": "Fingerprints of global warming on wild animals and plants",
+        "URL": "http://stephenschneider.stanford.edu/Publications/PDF_Papers/TLRetal-NaturePublished.pdf",
+        "Volume": "421",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "2667",
+        "_uuid": "37f4c175-f826-4106-8f9e-1661f51a470c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/nature01333",
+    "href": "http://data.globalchange.gov/reference/37f4c175-f826-4106-8f9e-1661f51a470c.json",
+    "identifier": "37f4c175-f826-4106-8f9e-1661f51a470c",
+    "uri": "/reference/37f4c175-f826-4106-8f9e-1661f51a470c"
+}

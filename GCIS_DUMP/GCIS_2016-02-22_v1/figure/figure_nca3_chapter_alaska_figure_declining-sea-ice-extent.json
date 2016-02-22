@@ -1,0 +1,57 @@
+{
+    "attributes": null,
+    "caption": "Average September extent of Arctic sea ice in 1980 (second year of satellite record and year of greatest\r\n    September sea ice extent; outer red boundary), 1998 (about halfway through the time series; outer pink boundary) and 2012\r\n    (recent year of record and year of least September sea ice extent; outer white boundary). September is typically the month when\r\n    sea ice is least extensive. Inset is the complete time series of average September sea ice extent (1979-2013). (Figure\r\n    source: NSIDC 2012; Data from Fetterer et al. 2013<tbib>5ca69fe1-86e2-48e2-acc4-363efaf4402a</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J00Z7150",
+        "identifier": "alaska",
+        "number": 22,
+        "report_identifier": "nca3",
+        "sort_key": 220,
+        "title": "Alaska",
+        "url": "http://nca2014.globalchange.gov/report/regions/alaska"
+    },
+    "chapter_identifier": "alaska",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "72/6f/5d7dfa6eb93054a9c5bb129b3022/AK_min_arctic_sea_ice_V7.png",
+            "href": "http://data.globalchange.gov/assets/72/6f/5d7dfa6eb93054a9c5bb129b3022/AK_min_arctic_sea_ice_V7.png",
+            "identifier": "390aa0fe-da41-4a3d-9ece-4f729074addf",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "4a3186541d0b5ff91cc147fc402fed0aa6c66793",
+            "size": 58543,
+            "thumbnail": "72/6f/5d7dfa6eb93054a9c5bb129b3022/.thumb-390aa0fe-da41-4a3d-9ece-4f729074addf.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/72/6f/5d7dfa6eb93054a9c5bb129b3022/.thumb-390aa0fe-da41-4a3d-9ece-4f729074addf.png",
+            "uri": "/file/390aa0fe-da41-4a3d-9ece-4f729074addf",
+            "url": "/assets/72/6f/5d7dfa6eb93054a9c5bb129b3022/AK_min_arctic_sea_ice_V7.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/alaska/figure/declining-sea-ice-extent.json",
+    "identifier": "declining-sea-ice-extent",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 2,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/5ca69fe1-86e2-48e2-acc4-363efaf4402a.json",
+            "uri": "/reference/5ca69fe1-86e2-48e2-acc4-363efaf4402a"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "NSIDC 2012; Data from Fetterer et al. 2013<tbib>5ca69fe1-86e2-48e2-acc4-363efaf4402a</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Declining Sea Ice Extent",
+    "uri": "/report/nca3/chapter/alaska/figure/declining-sea-ice-extent",
+    "url": "http://nca2014.globalchange.gov/report/regions/alaska/graphics/declining-sea-ice-extent",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

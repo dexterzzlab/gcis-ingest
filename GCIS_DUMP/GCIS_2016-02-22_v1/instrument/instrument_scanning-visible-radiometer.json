@@ -1,0 +1,8 @@
+{
+    "description": "Multi-purpose imaging Vis/IR radiometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/scanning-visible-radiometer.json",
+    "identifier": "scanning-visible-radiometer",
+    "name": "Scanning visible radiometer",
+    "uri": "/instrument/scanning-visible-radiometer"
+}

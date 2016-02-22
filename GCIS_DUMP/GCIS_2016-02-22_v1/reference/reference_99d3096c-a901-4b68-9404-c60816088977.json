@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".publisher": "Blackwell Publishing Ltd",
+        ".reference_type": "0",
+        "Author": "Bredehoeft, J. D.",
+        "DOI": "10.1111/j.1745-6584.2011.00799.x",
+        "ISSN": "1745-6584",
+        "Issue": "6",
+        "Journal": "Ground Water",
+        "Pages": "808-814",
+        "Title": "Monitoring regional groundwater extraction: The problem",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/j.1745-6584.2011.00799.x/pdf",
+        "Volume": "49",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "4098",
+        "_uuid": "99d3096c-a901-4b68-9404-c60816088977",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1745-6584.2011.00799.x",
+    "href": "http://data.globalchange.gov/reference/99d3096c-a901-4b68-9404-c60816088977.json",
+    "identifier": "99d3096c-a901-4b68-9404-c60816088977",
+    "uri": "/reference/99d3096c-a901-4b68-9404-c60816088977"
+}

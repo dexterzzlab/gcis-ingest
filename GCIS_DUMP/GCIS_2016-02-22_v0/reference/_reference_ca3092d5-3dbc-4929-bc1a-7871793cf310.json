@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Russell, L.M.\rRasch, P.J.\rMace, G.M.\rJackson, R.B.\rShepherd, J.\rLiss, P.\rLeinen, M.\rSchimel, D.\rVaughan, N.E.\rJanetos, A.C.\rP.W. Boyd\rR. J. Norby\rK. Caldeira\rJ. Merikanto\rP. Artaxo\rJ. Melillo\rM. G. Morgan",
+        "DOI": "10.1007/s13280-012-0258-5",
+        "ISSN": "0044-7447",
+        "Issue": "4",
+        "Journal": "AMBIO: A Journal of the Human Environment",
+        "Pages": "350-369",
+        "Title": "Ecosystem impacts of geoengineering: A review for developing a science plan",
+        "URL": "http://www.bz.duke.edu/jackson/ambio2012.pdf",
+        "Volume": "41",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "2714",
+        "_uuid": "ca3092d5-3dbc-4929-bc1a-7871793cf310",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s13280-012-0258-5",
+    "href": "http://data.globalchange.gov/reference/ca3092d5-3dbc-4929-bc1a-7871793cf310.json",
+    "identifier": "ca3092d5-3dbc-4929-bc1a-7871793cf310",
+    "uri": "/reference/ca3092d5-3dbc-4929-bc1a-7871793cf310"
+}

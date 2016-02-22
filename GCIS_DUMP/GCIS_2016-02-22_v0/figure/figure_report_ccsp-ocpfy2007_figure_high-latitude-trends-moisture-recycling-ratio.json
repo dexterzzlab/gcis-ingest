@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Spring Trends in Recycling Ratio from 1979 to 2003 over the High Latitudes of the Northern Hemisphere. Positive trends dominate over North America, with especially strong and widespread trends over Canada and Alaska. There are also strong positive trends over Scandinavia during spring and over Britain and much of north-central Europe during fall (not shown here). Trends are generally weaker and not as widespread over Asia, where in situ meteorological observations are much less dense. Credit: P.A. Dirmeyer and K.L. Brubaker, Center for Ocean-Land-Atmosphere Studies and the University of Maryland (reproduced from Geophysical Research Letters with permission from the American Geophysical Union).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "bd/6f/5b864be3a353ec54dffa267f5961/our_changing_planet_2007_50_20090708_1987471929.jpg",
+            "href": "http://data.globalchange.gov/assets/bd/6f/5b864be3a353ec54dffa267f5961/our_changing_planet_2007_50_20090708_1987471929.jpg",
+            "identifier": "f35e053b-1c2e-4f88-a719-7dc441e50565",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "3da43888d09f43fb27e21a9fa85d10cdab267299",
+            "size": 58899,
+            "thumbnail": "bd/6f/5b864be3a353ec54dffa267f5961/.thumb-f35e053b-1c2e-4f88-a719-7dc441e50565.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/bd/6f/5b864be3a353ec54dffa267f5961/.thumb-f35e053b-1c2e-4f88-a719-7dc441e50565.png",
+            "uri": "/file/f35e053b-1c2e-4f88-a719-7dc441e50565",
+            "url": "/assets/bd/6f/5b864be3a353ec54dffa267f5961/our_changing_planet_2007_50_20090708_1987471929.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/high-latitude-trends-moisture-recycling-ratio.json",
+    "identifier": "high-latitude-trends-moisture-recycling-ratio",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "High-Latitude Trends in Moisture Recycling Ratio",
+    "uri": "/report/ccsp-ocpfy2007/figure/high-latitude-trends-moisture-recycling-ratio",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

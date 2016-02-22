@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "The effect of climate change on the frequency and intensity of droughts across the contiguous United States over the next century is assessed by applying Standardized Precipitation Indices and the Palmer Drought Severity Index to the full suite of 22 Intergovernmental Panel on Climate Change General Circulation Models for three IPCC-SRES emissions scenarios (B1, A1B, and A2 from the Special Report on Emissions Scenarios (SRES) listed in order of their emissions through 2100 from high to low). The frequency of meteorological drought based on precipitation alone is projected to increase in some parts of the US, for example the southwestern states, and decrease in others. Hydrological drought frequencies based on precipitation and temperature are projected to increase across most of the country, however, with very substantial and almost universally experienced increases in drought risk by 2050. For both measures, the southwestern US and the Rocky Mountain states are projected to experience the largest increases in drought frequency, but these areas may be able to exploit existing excess storage capacity. Drought frequencies and uncertainties in their projection tend to increase considerably over time and show a strong worsening trend along higher greenhouse gas emissions scenarios, suggesting substantial benefits for greenhouse gas emissions reductions.",
+        "Author": "Strzepek, Kenneth\rGary Yohe\rJames Neumann\rBrent Boehlert",
+        "DOI": "10.1088/1748-9326/5/4/044012",
+        "ISSN": "1748-9326",
+        "Issue": "4",
+        "Journal": "Environmental Research Letters",
+        "Pages": "044012",
+        "Title": "Characterizing changes in drought risk for the United States from climate change",
+        "URL": "http://iopscience.iop.org/1748-9326/5/4/044012/pdf/1748-9326_5_4_044012.pdf",
+        "Volume": "5",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"Ch. 19: Great Plains FINAL\",\"Ch. 4: Energy Supply and Use FINAL\",\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "4136",
+        "_uuid": "2c825d36-342b-4b91-a851-bcefdb5d42da",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1088/1748-9326/5/4/044012",
+    "href": "http://data.globalchange.gov/reference/2c825d36-342b-4b91-a851-bcefdb5d42da.json",
+    "identifier": "2c825d36-342b-4b91-a851-bcefdb5d42da",
+    "uri": "/reference/2c825d36-342b-4b91-a851-bcefdb5d42da"
+}

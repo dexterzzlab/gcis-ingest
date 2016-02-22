@@ -1,0 +1,93 @@
+{
+    "attributes": null,
+    "caption": "(Top) Insects and fire have cumulatively affected large areas of the Northwest and are projected to be the dominant drivers of forest change in the near future. Map shows areas recently burned (1984 to 2008)<tbib>6a3ce882-e3f6-47c6-a9ae-dacb25c45e7f</tbib><sup>,</sup><tbib>93ae895c-ab04-4801-bb47-ac963c7311c1</tbib> or affected by insects or disease (1997 to 2008).<tbib>380d02ac-7dd7-49d6-8dc9-3c4a9b989061</tbib> (Middle) Map indicates the increases in area burned that would result from the regional temperature and precipitation changes associated with a 2.2\u00b0F global warming<tbib>e6181014-644e-4d56-ada8-1d0443307a51</tbib> across areas that share broad climatic and vegetation characteristics.<tbib>a60c82f3-709d-4de2-a3c6-9b0fcb62e410</tbib> Local impacts will vary greatly within these broad areas with sensitivity of fuels to climate.<tbib>a30d550d-f0d3-4e76-a494-24b746cce0ed</tbib> (Bottom) Projected changes in the probability of climatic suitability for mountain pine beetles for the period 2001 to 2030 (relative to 1961 to 1990), where brown indicates areas where pine beetles are projected to increase in the future and green indicates areas where pine beetles are expected to decrease in the future. Changes in probability of survival are based on climate-dependent factors important in beetle population success, including cold tolerance,<tbib>0a78dcff-b2b2-4bed-b176-3628489645ad</tbib> spring precipitation,<tbib>3a5064c4-6ed0-455d-8e9c-9b470d0eed91</tbib> and seasonal heat accumulation.<tbib>6cebef1a-87a8-4554-87d3-3ba18107dc04</tbib><sup>,</sup><tbib>703f4c0b-a9f3-4393-ad55-e26a62fa5a95</tbib>",
+    "chapter": {
+        "doi": "10.7930/J04Q7RWX",
+        "identifier": "northwest",
+        "number": 21,
+        "report_identifier": "nca3",
+        "sort_key": 210,
+        "title": "Northwest",
+        "url": "http://nca2014.globalchange.gov/report/regions/northwest"
+    },
+    "chapter_identifier": "northwest",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "18/cc/c6188b061d523c75b217d5113617/NW_insects_and_fire_V4.png",
+            "href": "http://data.globalchange.gov/assets/18/cc/c6188b061d523c75b217d5113617/NW_insects_and_fire_V4.png",
+            "identifier": "5ffd375d-4ae9-4560-8541-3a199bc71be8",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "0e6b162c2fc243136203fa68c6b485c6398d54d6",
+            "size": 629818,
+            "thumbnail": "18/cc/c6188b061d523c75b217d5113617/.thumb-5ffd375d-4ae9-4560-8541-3a199bc71be8.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/18/cc/c6188b061d523c75b217d5113617/.thumb-5ffd375d-4ae9-4560-8541-3a199bc71be8.png",
+            "uri": "/file/5ffd375d-4ae9-4560-8541-3a199bc71be8",
+            "url": "/assets/18/cc/c6188b061d523c75b217d5113617/NW_insects_and_fire_V4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/northwest/figure/insects-and-fire-in-northwest-forests.json",
+    "identifier": "insects-and-fire-in-northwest-forests",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 7,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/0a78dcff-b2b2-4bed-b176-3628489645ad.json",
+            "uri": "/reference/0a78dcff-b2b2-4bed-b176-3628489645ad"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/380d02ac-7dd7-49d6-8dc9-3c4a9b989061.json",
+            "uri": "/reference/380d02ac-7dd7-49d6-8dc9-3c4a9b989061"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/3a5064c4-6ed0-455d-8e9c-9b470d0eed91.json",
+            "uri": "/reference/3a5064c4-6ed0-455d-8e9c-9b470d0eed91"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/6a3ce882-e3f6-47c6-a9ae-dacb25c45e7f.json",
+            "uri": "/reference/6a3ce882-e3f6-47c6-a9ae-dacb25c45e7f"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/6cebef1a-87a8-4554-87d3-3ba18107dc04.json",
+            "uri": "/reference/6cebef1a-87a8-4554-87d3-3ba18107dc04"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/703f4c0b-a9f3-4393-ad55-e26a62fa5a95.json",
+            "uri": "/reference/703f4c0b-a9f3-4393-ad55-e26a62fa5a95"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/93ae895c-ab04-4801-bb47-ac963c7311c1.json",
+            "uri": "/reference/93ae895c-ab04-4801-bb47-ac963c7311c1"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/a30d550d-f0d3-4e76-a494-24b746cce0ed.json",
+            "uri": "/reference/a30d550d-f0d3-4e76-a494-24b746cce0ed"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/a60c82f3-709d-4de2-a3c6-9b0fcb62e410.json",
+            "uri": "/reference/a60c82f3-709d-4de2-a3c6-9b0fcb62e410"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/e6181014-644e-4d56-ada8-1d0443307a51.json",
+            "uri": "/reference/e6181014-644e-4d56-ada8-1d0443307a51"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Insects and Fire in Northwest Forests",
+    "uri": "/report/nca3/chapter/northwest/figure/insects-and-fire-in-northwest-forests",
+    "url": "http://nca2014.globalchange.gov/highlights/regions/northwest/graphics/insects-and-fire-northwest-forests",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

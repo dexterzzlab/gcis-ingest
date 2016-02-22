@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Rinaldi, S.M.\rPeerenboom, J.P.\rKelly, T.K.",
+        "DOI": "10.1109/37.969131",
+        "ISSN": "1066-033X",
+        "Issue": "6",
+        "Journal": "Control Systems, IEEE",
+        "Pages": "11-25",
+        "Title": "Identifying, understanding, and analyzing critical infrastructure interdependencies",
+        "Volume": "21",
+        "Year": "2001",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "2638",
+        "_uuid": "cef9b566-9e93-407b-95ab-8fbbefd07823",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1109/37.969131",
+    "href": "http://data.globalchange.gov/reference/cef9b566-9e93-407b-95ab-8fbbefd07823.json",
+    "identifier": "cef9b566-9e93-407b-95ab-8fbbefd07823",
+    "uri": "/reference/cef9b566-9e93-407b-95ab-8fbbefd07823"
+}

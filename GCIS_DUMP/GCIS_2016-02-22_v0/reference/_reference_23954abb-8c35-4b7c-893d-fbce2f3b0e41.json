@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".publisher": "John Wiley & Sons, Ltd.",
+        ".reference_type": "0",
+        "Author": "Cook, Edward R.\rSeager, Richard\rHeim, Richard R.\rVose, Russell S.\rHerweijer, Celine\rWoodhouse, Connie",
+        "DOI": "10.1002/jqs.1303",
+        "ISSN": "1099-1417",
+        "Issue": "1",
+        "Journal": "Journal of Quaternary Science",
+        "Keywords": "megadrought\rNorth America\rIPCC\rhydroclimatic change\rpalaeoclimate",
+        "Pages": "48-61",
+        "Title": "Megadroughts in North America: Placing IPCC projections of hydroclimatic change in a long-term palaeoclimate context",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1002/jqs.1303/pdf",
+        "Volume": "25",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "4003",
+        "_uuid": "23954abb-8c35-4b7c-893d-fbce2f3b0e41",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/jqs.1303",
+    "href": "http://data.globalchange.gov/reference/23954abb-8c35-4b7c-893d-fbce2f3b0e41.json",
+    "identifier": "23954abb-8c35-4b7c-893d-fbce2f3b0e41",
+    "uri": "/reference/23954abb-8c35-4b7c-893d-fbce2f3b0e41"
+}

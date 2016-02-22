@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "2",
+        "Academic Department": "College of Forest Resources",
+        "Author": "Oneil, E.E.",
+        "ISBN": "054298038X",
+        "Number of Pages": "99",
+        "Title": "Developing Stand Density Thresholds to Address Mountain Pine Beetle Susceptibility in Eastern Washington Forests",
+        "URL": "http://www.ruraltech.org/pubs/theses/oneil/phd/oneil_dissertation.pdf",
+        "University": "University of Wisconsin",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "2356",
+        "_uuid": "02ee0755-97ac-40e5-979b-e7d60fd5e179",
+        "reftype": "Thesis"
+    },
+    "child_publication": "/generic/0a1c1b9e-d33d-40ad-b0ca-5ecfdb96e654",
+    "href": "http://data.globalchange.gov/reference/02ee0755-97ac-40e5-979b-e7d60fd5e179.json",
+    "identifier": "02ee0755-97ac-40e5-979b-e7d60fd5e179",
+    "uri": "/reference/02ee0755-97ac-40e5-979b-e7d60fd5e179"
+}

@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/nextor-tidis-2010.json",
+    "identifier": "nextor-tidis-2010",
+    "in_library": null,
+    "publication_year": 2010,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Total Delay Impact Study: a Comprehensive Assessment of the Costs and Impacts of Flight Delay in the United States",
+    "topic": null,
+    "uri": "/report/nextor-tidis-2010",
+    "url": "http://its.berkeley.edu/sites/default/files/NEXTOR_TDI_Report_Final_October_2010.pdf"
+}

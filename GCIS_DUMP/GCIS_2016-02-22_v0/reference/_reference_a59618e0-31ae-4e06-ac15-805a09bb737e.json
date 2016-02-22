@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Fowler, H.J.\rWilby, R.L.",
+        "DOI": "10.1002/joc.1616",
+        "ISSN": "1097-0088",
+        "Issue": "12",
+        "Journal": "International Journal of Climatology",
+        "Pages": "1543-1545",
+        "Title": "Beyond the downscaling comparison study",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1002/joc.1616/pdf",
+        "Volume": "27",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "150",
+        "_uuid": "a59618e0-31ae-4e06-ac15-805a09bb737e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/joc.1616",
+    "href": "http://data.globalchange.gov/reference/a59618e0-31ae-4e06-ac15-805a09bb737e.json",
+    "identifier": "a59618e0-31ae-4e06-ac15-805a09bb737e",
+    "uri": "/reference/a59618e0-31ae-4e06-ac15-805a09bb737e"
+}

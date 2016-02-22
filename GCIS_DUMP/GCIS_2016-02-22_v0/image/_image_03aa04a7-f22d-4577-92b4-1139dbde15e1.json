@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-08-05T09:51:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Figure shows how climate change will affect U.S. reactive nitrogen emissions, in Teragrams (Tg) CO<sub>2</sub> equivalent, on a 20-year (top) and 100-year (bottom) global temperature potential basis. Positive values on the vertical axis depict warming; negative values reflect cooling. The height of the bar denotes the range of uncertainty, and the white line denotes the best estimate. The relative contribution of combustion (dark brown) and agriculture (green) is denoted by the color shading. (Figure source: adapted from Pinder et al. 2012<tbib>061d6ff2-42ec-4051-8c3f-416e30680df0</tbib>).",
+            "chapter_identifier": "biogeochemical-cycles",
+            "create_dt": "2013-08-05T09:51:00",
+            "identifier": "nitrogen-emissions",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 3,
+            "report_identifier": "nca3",
+            "source_citation": "adapted from Pinder et al. 2012<tbib>061d6ff2-42ec-4051-8c3f-416e30680df0</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Nitrogen Emissions",
+            "url": "http://nca2014.globalchange.gov/report/sectors/biogeochemical-cycles/graphics/nitrogen-emissions",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "62/eb/a00e2dcea58d76462fa6fdd4f668/bgc_nitrogen_emissions_v3_top.png",
+            "href": "http://data.globalchange.gov/assets/62/eb/a00e2dcea58d76462fa6fdd4f668/bgc_nitrogen_emissions_v3_top.png",
+            "identifier": "d7c4a8c4-4a15-4061-a47d-8c1ef4d60616",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "7f3875679e38a37917e8b7dec31756e5ef33dfb7",
+            "size": 111518,
+            "thumbnail": "62/eb/a00e2dcea58d76462fa6fdd4f668/.thumb-d7c4a8c4-4a15-4061-a47d-8c1ef4d60616.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/62/eb/a00e2dcea58d76462fa6fdd4f668/.thumb-d7c4a8c4-4a15-4061-a47d-8c1ef4d60616.png",
+            "uri": "/file/d7c4a8c4-4a15-4061-a47d-8c1ef4d60616",
+            "url": "/assets/62/eb/a00e2dcea58d76462fa6fdd4f668/bgc_nitrogen_emissions_v3_top.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/03aa04a7-f22d-4577-92b4-1139dbde15e1.json",
+    "identifier": "03aa04a7-f22d-4577-92b4-1139dbde15e1",
+    "lat_max": "90.00",
+    "lat_min": "-90.00",
+    "lon_max": "180.00",
+    "lon_min": "-180.00",
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Nitrogen Emissions - Top",
+    "uri": "/image/03aa04a7-f22d-4577-92b4-1139dbde15e1",
+    "url": null,
+    "usage_limits": null
+}

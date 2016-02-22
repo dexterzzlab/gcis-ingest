@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Copeland, H.E.\rDoherty, K.E.\rNaugle, D.E.\rPocewicz, A.\rKiesecker, J.M.",
+        "DOI": "10.1371/journal.pone.0007400",
+        "ISSN": "1932-6203",
+        "Issue": "10",
+        "Journal": "PLoS ONE",
+        "Pages": "e7400",
+        "Title": "Mapping oil and gas development potential in the US Intermountain West and estimating impacts to species",
+        "Volume": "4",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\"]",
+        "_record_number": "1092",
+        "_uuid": "f0f839ae-4295-4726-8160-9361e6e254f1",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1371/journal.pone.0007400",
+    "href": "http://data.globalchange.gov/reference/f0f839ae-4295-4726-8160-9361e6e254f1.json",
+    "identifier": "f0f839ae-4295-4726-8160-9361e6e254f1",
+    "uri": "/reference/f0f839ae-4295-4726-8160-9361e6e254f1"
+}

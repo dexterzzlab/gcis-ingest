@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "Map shows large variations across the Pacific Ocean in sea level trends for 1993-2010. The largest sea level increase has been observed in the western Pacific. (Figure source: adapted from Merrifield 2011<tbib>ef9a0ca6-0996-46b5-aed6-fff7e8f9a1bd</tbib> by permission of American Meteorological Society).",
+    "chapter": {
+        "doi": "10.7930/J0W66HPM",
+        "identifier": "hawaii",
+        "number": 23,
+        "report_identifier": "nca3",
+        "sort_key": 230,
+        "title": "Hawai'i and U.S. Affiliated Pacific Islands",
+        "url": "http://nca2014.globalchange.gov/report/regions/hawaii-and-pacific-islands"
+    },
+    "chapter_identifier": "hawaii",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-12T14:02:00",
+    "files": [
+        {
+            "file": "f4/40/637c140672b358cc3c2f9caf01f6/HI_sea_level_V4.png",
+            "href": "http://data.globalchange.gov/assets/f4/40/637c140672b358cc3c2f9caf01f6/HI_sea_level_V4.png",
+            "identifier": "2804b033-3dbc-4829-b70e-77ed0ef0d342",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "bfba9b7831517f0a59f227df3a7df633f2d1a22a",
+            "size": 240455,
+            "thumbnail": "f4/40/637c140672b358cc3c2f9caf01f6/.thumb-2804b033-3dbc-4829-b70e-77ed0ef0d342.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/f4/40/637c140672b358cc3c2f9caf01f6/.thumb-2804b033-3dbc-4829-b70e-77ed0ef0d342.png",
+            "uri": "/file/2804b033-3dbc-4829-b70e-77ed0ef0d342",
+            "url": "/assets/f4/40/637c140672b358cc3c2f9caf01f6/HI_sea_level_V4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/hawaii/figure/higher-sea-level-rise-in-western-pacific.json",
+    "identifier": "higher-sea-level-rise-in-western-pacific",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-11-12T14:02:00",
+            "description": null,
+            "identifier": "44117c3e-354d-4f03-b994-d5473fe5733d",
+            "lat_max": "90.00",
+            "lat_min": "-90.00",
+            "lon_max": "180.00",
+            "lon_min": "-180.00",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2010-12-31T23:59:59",
+            "time_start": "1993-01-01T00:00:00",
+            "title": "Higher Sea Level Rise in Western Pacific",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 8,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "A Shift in Western Tropical Pacific Sea Level Trends during the 1990s",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1175/2011JCLI3932.1"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/ef9a0ca6-0996-46b5-aed6-fff7e8f9a1bd.json",
+            "uri": "/reference/ef9a0ca6-0996-46b5-aed6-fff7e8f9a1bd"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "adapted from Merrifield 2011<tbib>ef9a0ca6-0996-46b5-aed6-fff7e8f9a1bd</tbib> by permission of American Meteorological Society",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Higher Sea Level Rise in Western Pacific",
+    "uri": "/report/nca3/chapter/hawaii/figure/higher-sea-level-rise-in-western-pacific",
+    "url": "http://nca2014.globalchange.gov/highlights/regions/hawaii/graphics/higher-sea-level-rise-western-pacific",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Pendleton, Linwood\rKarl, Thomas R.\rMills, Evan",
+        "DOI": "10.1002/2013eo250005",
+        "ISSN": "2324-9250",
+        "Issue": "25",
+        "Journal": "Eos, Transactions, American Geophysical Union",
+        "Keywords": "economics\rclimate\rextremes\rrisk management\r4336 Economic impacts of disasters\r4333 Disaster risk analysis and assessment\r4315 Monitoring, forecasting, prediction\r4328 Risk\r4313 Extreme events",
+        "Pages": "225-226",
+        "Title": "Economic growth in the face of weather and climate extremes: A call for better data",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1002/2013EO250005/pdf",
+        "Volume": "94",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 4: Energy Supply and Use FINAL\"]",
+        "_record_number": "4194",
+        "_uuid": "c38a0b0e-6b1d-4ca5-b5e4-11cf102d8a1f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/2013eo250005",
+    "href": "http://data.globalchange.gov/reference/c38a0b0e-6b1d-4ca5-b5e4-11cf102d8a1f.json",
+    "identifier": "c38a0b0e-6b1d-4ca5-b5e4-11cf102d8a1f",
+    "uri": "/reference/c38a0b0e-6b1d-4ca5-b5e4-11cf102d8a1f"
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Barsugli, J.J.\rVogel, J.M.\rKaatz, L.\rSmith, J.B.\rWaage, M\rAnderson, C.",
+        "DOI": "10.1061/(ASCE)WR.1943-5452.0000188",
+        "Issue": "5",
+        "Journal": "Journal of Water Resources Planning and Management ",
+        "Pages": "389-395",
+        "Title": "Two faces of uncertainty: Climate science and water utility planning methods",
+        "Volume": "138",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "1714",
+        "_uuid": "243adacb-1b08-4c0e-95a6-5149c6c2c887",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1061/(ASCE)WR.1943-5452.0000188",
+    "href": "http://data.globalchange.gov/reference/243adacb-1b08-4c0e-95a6-5149c6c2c887.json",
+    "identifier": "243adacb-1b08-4c0e-95a6-5149c6c2c887",
+    "uri": "/reference/243adacb-1b08-4c0e-95a6-5149c6c2c887"
+}

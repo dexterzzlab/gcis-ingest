@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Laidler, G.J.\rFord, J.D.\rGough, W.A.\rIkummaq, T.\rGagnon, A.S.\rKowal, S.\rQrunnut, K.\rIrngaut, C.",
+        "DOI": "10.1007/s10584-008-9512-z",
+        "ISSN": "0165-0009",
+        "Issue": "4",
+        "Journal": "Climatic Change",
+        "Pages": "363-397",
+        "Title": "Travelling and hunting in a changing Arctic: Assessing Inuit vulnerability to sea ice change in Igloolik, Nunavut",
+        "Volume": "94",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\",\"Ch. 1: Overview FINAL\"]",
+        "_record_number": "1688",
+        "_uuid": "a63cc83e-0b3a-4b65-9c44-76e80f23dab3",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-008-9512-z",
+    "href": "http://data.globalchange.gov/reference/a63cc83e-0b3a-4b65-9c44-76e80f23dab3.json",
+    "identifier": "a63cc83e-0b3a-4b65-9c44-76e80f23dab3",
+    "uri": "/reference/a63cc83e-0b3a-4b65-9c44-76e80f23dab3"
+}

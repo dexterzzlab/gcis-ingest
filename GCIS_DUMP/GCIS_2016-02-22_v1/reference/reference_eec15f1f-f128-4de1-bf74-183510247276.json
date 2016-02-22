@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Walsh, J.E.\rW.L. Chapman",
+        "DOI": "10.3189/172756401781818671",
+        "Journal": "Annals of Glaciology",
+        "Pages": "444-448",
+        "Title": "20th-century sea ice variations from observational data",
+        "URL": "ftp://psc.apl.washington.edu/incoming/PolarFridays/2-walsh_2001.pdf",
+        "Volume": "33",
+        "Year": "2001",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\"]",
+        "_record_number": "3327",
+        "_uuid": "eec15f1f-f128-4de1-bf74-183510247276",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.3189/172756401781818671",
+    "href": "http://data.globalchange.gov/reference/eec15f1f-f128-4de1-bf74-183510247276.json",
+    "identifier": "eec15f1f-f128-4de1-bf74-183510247276",
+    "uri": "/reference/eec15f1f-f128-4de1-bf74-183510247276"
+}

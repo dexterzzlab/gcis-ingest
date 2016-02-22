@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2011",
+        "Author": "NASA Earth Observatory,",
+        "Publisher": "NASA Earth Observatory, EOS Project Science Office, NASA Goddard Space Flight Center",
+        "Title": "Toxic Algae Bloom in Lake Erie",
+        "URL": "http://earthobservatory.nasa.gov/IOTD/view.php?id=76127",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "4672",
+        "_uuid": "8c172cce-ec6c-417e-83fd-d646f79edfb4",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/afe12af6-a7d3-4b70-99e5-0f80b67b7047",
+    "href": "http://data.globalchange.gov/reference/8c172cce-ec6c-417e-83fd-d646f79edfb4.json",
+    "identifier": "8c172cce-ec6c-417e-83fd-d646f79edfb4",
+    "uri": "/reference/8c172cce-ec6c-417e-83fd-d646f79edfb4"
+}

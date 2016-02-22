@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "28",
+        "Author": "Esri,",
+        "Periodical Title": "ArcNews",
+        "Place Published": "Redlands, CA",
+        "Reviewer": "66866ae6-3b8b-4c09-b564-2ce96da023e6",
+        "Title": "Climate Change Scenario Planning for Cape Cod: A Collaborative Exercise in GeoDesign",
+        "URL": "http://www.esri.com/news/arcnews/fall11articles/climate-change-scenario-planning-for-cape-cod.html",
+        "Volume": "Fall 2011",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "327",
+        "_uuid": "66866ae6-3b8b-4c09-b564-2ce96da023e6",
+        "reftype": "Electronic Article"
+    },
+    "child_publication": "/webpage/31c26232-7aa1-45ca-ab5c-860d6ea4d6d8",
+    "href": "http://data.globalchange.gov/reference/66866ae6-3b8b-4c09-b564-2ce96da023e6.json",
+    "identifier": "66866ae6-3b8b-4c09-b564-2ce96da023e6",
+    "uri": "/reference/66866ae6-3b8b-4c09-b564-2ce96da023e6"
+}

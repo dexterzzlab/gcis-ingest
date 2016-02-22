@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Corfee-Morlot, J.\rCochran, I.\rHallegatte, S.\rTeasdale, P.J.",
+        "DOI": "10.1007/s10584-010-9980-9",
+        "ISSN": "0165-0009",
+        "Issue": "1",
+        "Journal": "Climatic Change",
+        "Pages": "169-197",
+        "Title": "Multilevel risk governance and urban adaptation policy",
+        "Volume": "104",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 11: Urban Systems FINAL\"]",
+        "_record_number": "1139",
+        "_uuid": "7bee514d-97da-4482-b5b3-0c98223962a4",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-010-9980-9",
+    "href": "http://data.globalchange.gov/reference/7bee514d-97da-4482-b5b3-0c98223962a4.json",
+    "identifier": "7bee514d-97da-4482-b5b3-0c98223962a4",
+    "uri": "/reference/7bee514d-97da-4482-b5b3-0c98223962a4"
+}

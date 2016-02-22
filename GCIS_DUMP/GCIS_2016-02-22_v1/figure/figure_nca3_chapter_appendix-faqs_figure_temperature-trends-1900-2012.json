@@ -1,0 +1,96 @@
+{
+    "attributes": null,
+    "caption": null,
+    "chapter": {
+        "doi": "10.7930/J0G15XS3",
+        "identifier": "appendix-faqs",
+        "number": 34,
+        "report_identifier": "nca3",
+        "sort_key": 340,
+        "title": "Appendix 4: Frequently Asked Questions",
+        "url": "http://nca2014.globalchange.gov/report/appendices/faqs"
+    },
+    "chapter_identifier": "appendix-faqs",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2548.json",
+            "id": 2548,
+            "organization": {
+                "country_code": "US",
+                "identifier": "noaa-national-climatic-data-center",
+                "name": "National Oceanic and Atmospheric Administration National Climatic Data Center",
+                "organization_type_identifier": "federal",
+                "url": "http://www.ncdc.noaa.gov"
+            },
+            "organization_uri": "/organization/noaa-national-climatic-data-center",
+            "person": {
+                "first_name": "David",
+                "id": 1465,
+                "last_name": "Wuertz",
+                "middle_name": null,
+                "orcid": null,
+                "url": null
+            },
+            "person_id": 1465,
+            "person_uri": "/person/1465",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2548"
+        }
+    ],
+    "create_dt": "2013-08-02T14:34:19",
+    "files": [
+        {
+            "file": "da/15/815e6e75f404e615144f70abf5dd/caq_temp_trends_mlost_1900-2012_v2.png",
+            "href": "http://data.globalchange.gov/assets/da/15/815e6e75f404e615144f70abf5dd/caq_temp_trends_mlost_1900-2012_v2.png",
+            "identifier": "5758d48c-38de-4518-bd9a-46adc036eab3",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "de43d4b40b2661098ffe82d4f97495e83230ba78",
+            "size": 221240,
+            "thumbnail": "da/15/815e6e75f404e615144f70abf5dd/.thumb-5758d48c-38de-4518-bd9a-46adc036eab3.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/da/15/815e6e75f404e615144f70abf5dd/.thumb-5758d48c-38de-4518-bd9a-46adc036eab3.png",
+            "uri": "/file/5758d48c-38de-4518-bd9a-46adc036eab3",
+            "url": "/assets/da/15/815e6e75f404e615144f70abf5dd/caq_temp_trends_mlost_1900-2012_v2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-faqs/figure/temperature-trends-1900-2012.json",
+    "identifier": "temperature-trends-1900-2012",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-08-02T14:34:19",
+            "description": null,
+            "identifier": "14d6d5e3-f40d-42fe-b4eb-b0e2a66f4260",
+            "lat_max": "90.00",
+            "lat_min": "-90.00",
+            "lon_max": "180.00",
+            "lon_min": "-180.00",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2012-12-31T23:59:59",
+            "time_start": "1900-01-01T00:00:00",
+            "title": "Temperature Trends, 1900-2012",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 8,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Temperature Trends, 1900-2012",
+    "uri": "/report/nca3/chapter/appendix-faqs/figure/temperature-trends-1900-2012",
+    "url": "http://nca2014.globalchange.gov/report/appendices/faqs/graphics/temperature-trends-1900-2012",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

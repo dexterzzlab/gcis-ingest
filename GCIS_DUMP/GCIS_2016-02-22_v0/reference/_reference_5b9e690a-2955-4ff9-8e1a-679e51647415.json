@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        ".section": "1-51",
+        "Author": "Schrank, D.L.\rLomax, T.J.\rEisele, B.",
+        "Institution": "Texas Transportation Institute, The Texas A&M University System",
+        "Title": "2011 The Urban Mobility Report",
+        "URL": "http://www.cahighspeedrail.ca.gov/assets/0/152/302/312/429d5288-3505-4618-bd64-ec9c87c41071.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 5: Transportation FINAL\"]",
+        "_record_number": "2783",
+        "_uuid": "5b9e690a-2955-4ff9-8e1a-679e51647415",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/tti-2011umr",
+    "href": "http://data.globalchange.gov/reference/5b9e690a-2955-4ff9-8e1a-679e51647415.json",
+    "identifier": "5b9e690a-2955-4ff9-8e1a-679e51647415",
+    "uri": "/reference/5b9e690a-2955-4ff9-8e1a-679e51647415"
+}

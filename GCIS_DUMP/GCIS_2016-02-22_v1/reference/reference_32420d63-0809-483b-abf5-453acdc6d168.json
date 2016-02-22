@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Nelson, D.R.\rAdger, W.N.\rBrown, K.",
+        "DOI": "10.1146/annurev.energy.32.051807.090348",
+        "Journal": "Annual Review of Environment and Resources",
+        "Pages": "395-419",
+        "Title": "Adaptation to environmental change: Contributions of a resilience framework",
+        "URL": "http://eprints.icrisat.ac.in/4245/1/AnnualReviewofEnvResources_32_395-419_2007.pdf",
+        "Volume": "32",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "2194",
+        "_uuid": "32420d63-0809-483b-abf5-453acdc6d168",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1146/annurev.energy.32.051807.090348",
+    "href": "http://data.globalchange.gov/reference/32420d63-0809-483b-abf5-453acdc6d168.json",
+    "identifier": "32420d63-0809-483b-abf5-453acdc6d168",
+    "uri": "/reference/32420d63-0809-483b-abf5-453acdc6d168"
+}

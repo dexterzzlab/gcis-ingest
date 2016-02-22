@@ -1,0 +1,12 @@
+{
+    "description": null,
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/model/csiro-mk3_5.json",
+    "identifier": "csiro-mk3_5",
+    "name": "CSIRO Mark 3.5",
+    "project_identifier": "cmip3",
+    "reference_url": "http://www-pcmdi.llnl.gov/ipcc/model_documentation/CSIRO-Mk3.5.htm",
+    "uri": "/model/csiro-mk3_5",
+    "version": null,
+    "website": null
+}

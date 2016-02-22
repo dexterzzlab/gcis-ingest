@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"italic\" start=\"32\" /><run start=\"53\" /></field></record>",
+        "Author": "Altstatt, J.M.\rAmbrose, R.F.\rEngle, J.M.\rHaaker, P.L.\rLafferty, K.D.\rRaimondi, P.T.",
+        "DOI": "10.3554/meps142185",
+        "ISSN": "0171-8630",
+        "Issue": "1",
+        "Journal": "Marine Ecology Progress Series",
+        "Pages": "185-192",
+        "Title": "Recent declines of black abalone Haliotis cracherodii on the mainland coast of central California",
+        "URL": "http://www.int-res.com/articles/meps/142/m142p185.pdf",
+        "Volume": "142",
+        "Year": "1996",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\"]",
+        "_record_number": "1382",
+        "_uuid": "85ce766d-3223-45a6-b800-d39984520926",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.3354/meps142185",
+    "href": "http://data.globalchange.gov/reference/85ce766d-3223-45a6-b800-d39984520926.json",
+    "identifier": "85ce766d-3223-45a6-b800-d39984520926",
+    "uri": "/reference/85ce766d-3223-45a6-b800-d39984520926"
+}

@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Ashley, S.T.\rAshley, W.S.",
+        "DOI": "10.1175/2007JAMX1611.1",
+        "ISSN": "1558-8432",
+        "Issue": "3",
+        "Journal": "Journal of Applied Meteorology and Climatology",
+        "Pages": "805-818",
+        "Title": "Flood fatalities in the United States",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/2007JAMC1611.1",
+        "Volume": "47",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"RF 2\",\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "708",
+        "_uuid": "5884b839-f80e-471d-82a9-c3bac6603227",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/2007JAMC1611.1",
+    "href": "http://data.globalchange.gov/reference/5884b839-f80e-471d-82a9-c3bac6603227.json",
+    "identifier": "5884b839-f80e-471d-82a9-c3bac6603227",
+    "uri": "/reference/5884b839-f80e-471d-82a9-c3bac6603227"
+}

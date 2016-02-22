@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Libardoni, Alex G.\rForest, Chris E.",
+        "DOI": "10.1029/2011gl049431",
+        "ISSN": "1944-8007",
+        "Issue": "22",
+        "Journal": "Geophysical Research Letters",
+        "Keywords": "climate prediction\rclimate sensitivity\rmodel calibration\rtransient climate response\r3333 Model calibration",
+        "Pages": "L22705",
+        "Title": "Sensitivity of distributions of climate system properties to the surface temperature dataset",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2011GL049431/pdf",
+        "Volume": "38",
+        "Year": "2011",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "3727",
+        "_uuid": "401780c9-7d61-4e61-8c4d-a839e0b8b736",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2011gl049431",
+    "href": "http://data.globalchange.gov/reference/401780c9-7d61-4e61-8c4d-a839e0b8b736.json",
+    "identifier": "401780c9-7d61-4e61-8c4d-a839e0b8b736",
+    "uri": "/reference/401780c9-7d61-4e61-8c4d-a839e0b8b736"
+}

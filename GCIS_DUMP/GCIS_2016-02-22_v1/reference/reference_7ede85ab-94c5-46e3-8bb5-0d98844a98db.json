@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Severe thunderstorms comprise an extreme class of deep convective clouds and produce high-impact weather such as destructive surface winds, hail, and tornadoes. This study addresses the question of how severe thunderstorm frequency in the United States might change because of enhanced global radiative forcing associated with elevated greenhouse gas concentrations. We use global climate models and a high-resolution regional climate model to examine the larger-scale (or \u201cenvironmental\u201d) meteorological conditions that foster severe thunderstorm formation. Across this model suite, we find a net increase during the late 21st century in the number of days in which these severe thunderstorm environmental conditions (NDSEV) occur. Attributed primarily to increases in atmospheric water vapor within the planetary boundary layer, the largest increases in NDSEV are shown during the summer season, in proximity to the Gulf of Mexico and Atlantic coastal regions. For example, this analysis suggests a future increase in NDSEV of 100% or more in locations such as Atlanta, GA, and New York, NY. Any direct application of these results to the frequency of actual storms also must consider the storm initiation. ",
+        "Author": "Trapp, R.J.\rDiffenbaugh, N.S.\rBrooks, H.E.\rBaldwin, M.E.\rRobinson, E.D.\rPal, J.S.",
+        "DOI": "10.1073/pnas.0705494104",
+        "ISSN": "0027-8424",
+        "Issue": "50",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Keywords": "climate change; United States; convective storm",
+        "Pages": "19719-19723",
+        "Title": "Changes in severe thunderstorm environment frequency during the 21st century caused by anthropogenically enhanced global radiative forcing",
+        "Volume": "104",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "3086",
+        "_uuid": "7ede85ab-94c5-46e3-8bb5-0d98844a98db",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.0705494104",
+    "href": "http://data.globalchange.gov/reference/7ede85ab-94c5-46e3-8bb5-0d98844a98db.json",
+    "identifier": "7ede85ab-94c5-46e3-8bb5-0d98844a98db",
+    "uri": "/reference/7ede85ab-94c5-46e3-8bb5-0d98844a98db"
+}

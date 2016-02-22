@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"italic\" start=\"55\" /><run start=\"63\" /></field></record>",
+        "Author": "Breton, M.C.\rGarneau, M.\rFortier, I.\rGuay, F.\rLouis, J.",
+        "DOI": "10.1016/j.scitotenv.2006.05.022",
+        "ISSN": "0048-9697",
+        "Issue": "1",
+        "Journal": "Science of The Total Environment",
+        "Pages": "39-50",
+        "Title": "Relationship between climate, pollen concentrations of Ambrosia and medical consultations for allergic rhinitis in Montreal, 1994\u20132002",
+        "Volume": "370",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "1424",
+        "_uuid": "7eaad122-f1a7-4062-bbfc-c4c9ad7d3078",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.scitotenv.2006.05.022",
+    "href": "http://data.globalchange.gov/reference/7eaad122-f1a7-4062-bbfc-c4c9ad7d3078.json",
+    "identifier": "7eaad122-f1a7-4062-bbfc-c4c9ad7d3078",
+    "uri": "/reference/7eaad122-f1a7-4062-bbfc-c4c9ad7d3078"
+}

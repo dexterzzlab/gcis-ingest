@@ -1,0 +1,89 @@
+{
+    "attributes": null,
+    "caption": "Students gather around Science on a Sphere, an educational tool that displays and animates Earth data on a globe. The Climate Education and Literacy Initiative will harness innovative approaches like this one to build awareness and understanding among the American public.  (Source: NOAA)",
+    "chapter": {
+        "doi": null,
+        "identifier": "federal-investments-global-change-research",
+        "number": 2,
+        "report_identifier": "usgcrp-ocpfy2016",
+        "sort_key": 20,
+        "title": "Federal Investments in Global Change Research ",
+        "url": null
+    },
+    "chapter_identifier": "federal-investments-global-change-research",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2688.json",
+            "id": 2688,
+            "organization": {
+                "country_code": "US",
+                "identifier": "earth-system-research-laboratory",
+                "name": "National Oceanic and Atmospheric Administration Earth System Research Laboratory",
+                "organization_type_identifier": "federal",
+                "url": "http://www.esrl.noaa.gov"
+            },
+            "organization_uri": "/organization/earth-system-research-laboratory",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "host",
+            "uri": "/contributor/2688"
+        }
+    ],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "59/b0/98ba054968ad1b70afc9655db565/HL24_climate-ed-literacy-SOS-NOAA.jpg",
+            "href": "http://data.globalchange.gov/assets/59/b0/98ba054968ad1b70afc9655db565/HL24_climate-ed-literacy-SOS-NOAA.jpg",
+            "identifier": "98697e88-095a-4e5a-ada6-f48209628515",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "b3377a374cb19f28e76c22ded2514ba7d47b117c",
+            "size": 2943305,
+            "thumbnail": "59/b0/98ba054968ad1b70afc9655db565/.thumb-98697e88-095a-4e5a-ada6-f48209628515.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/59/b0/98ba054968ad1b70afc9655db565/.thumb-98697e88-095a-4e5a-ada6-f48209628515.png",
+            "uri": "/file/98697e88-095a-4e5a-ada6-f48209628515",
+            "url": "/assets/59/b0/98ba054968ad1b70afc9655db565/HL24_climate-ed-literacy-SOS-NOAA.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2016/chapter/federal-investments-global-change-research/figure/science-sphere.json",
+    "identifier": "science-sphere",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": null,
+            "description": null,
+            "identifier": "d8ba042a-8419-4e2e-adfb-4f13d60914ac",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Science on a Sphere",
+            "url": null,
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 15,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2016",
+    "source_citation": "Science on a Sphere photo taken at the NOAA Earth System Research Laboratory in Boulder, Colorado",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Science on a Sphere",
+    "uri": "/report/usgcrp-ocpfy2016/chapter/federal-investments-global-change-research/figure/science-sphere",
+    "url": "http://sos.noaa.gov/What_is_SOS/index.html",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

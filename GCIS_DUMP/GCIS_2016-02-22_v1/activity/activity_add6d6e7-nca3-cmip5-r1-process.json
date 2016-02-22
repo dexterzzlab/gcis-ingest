@@ -1,0 +1,15 @@
+{
+    "computing_environment": "UNIX",
+    "data_usage": "Multi-model mean CMIP5 (RCP 8.5 scenario) projections of extreme precipitation events (a daily amount that now occurs once in 20 years) were plotted for the United States, for the later part of this century (2081-2100) compared to the later part of last century (1981-2000).",
+    "duration": null,
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/add6d6e7-nca3-cmip5-r1-process.json",
+    "identifier": "add6d6e7-nca3-cmip5-r1-process",
+    "methodology": "1. Projected 2080-2100 return periods of current 20-year daily precipitation return values were obtained directly from Slava Kharin. This data, derived from the CMIP5 archive, is as presented in figure 1 of Kharin et al. (2013). The following models were used:\r\nACCESS1-0, ACCESS1-3, bcc-csm1-1, BNU-ESM, CanESM2, CCSM4, CESM1-BGC, CESM1-CAM5, CESM1-WACCM, CMCC-CM, CNRM-CM5, CSIRO-Mk3-6-0, EC-EARTH, FGOALS-g2, FGOALS-s2, FIO-ESM, GFDL-CM3, GFDL-ESM2G, GFDL-ESM2M, GISS-E2-R, HadGEM2-AO, HadGEM2-CC, HadGEM2-ES, inmcm4, IPSL-CM5A-LR, IPSL-CM5A-MR, MIROC5, MIROC-ESM-CHEM, MIROC-ESM, MPI-ESM-LR, MPI-ESM-MR, MRI-CGCM3, NorESM1-ME, and NorESM1-M.\r\n2. The present return period (by definition 20 years) is divided by the projected future return periods for RCP8.5.\r\n3. These data were plotted for the United States.",
+    "notes": "Python",
+    "output_artifacts": "pr_return_frequency_rcp85_2081_2100.nc\r\nCustom python codes written by Michael Wehner\r\nCS_rare precip events_RCPs_original.jpeg\r\n2-19_b.png\r\nCS_rare precip events_RCPs_V6.png",
+    "software": "Python",
+    "start_time": null,
+    "uri": "/activity/add6d6e7-nca3-cmip5-r1-process",
+    "visualization_software": "Python"
+}

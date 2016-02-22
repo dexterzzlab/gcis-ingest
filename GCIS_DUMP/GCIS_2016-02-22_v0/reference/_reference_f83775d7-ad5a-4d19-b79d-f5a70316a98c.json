@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Pratt, L.W.\rGon, S.M., III\rJuvik, S.P.\rJuvik, J.O.",
+        "Book Title": "Atlas of Hawaii, Third Edition",
+        "Chapter": "121-129",
+        "ISBN": "9780824821258",
+        "Place Published": "Honolulu, HI",
+        "Publisher": "University of Hawaii Press",
+        "Reviewer": "f83775d7-ad5a-4d19-b79d-f5a70316a98c",
+        "Title": "Terrestrial ecosystems",
+        "Year": "1998",
+        "_chapter": "[\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "2529",
+        "_uuid": "f83775d7-ad5a-4d19-b79d-f5a70316a98c",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/a98e66c1-a031-4369-998d-cd7bd50f08d3",
+    "href": "http://data.globalchange.gov/reference/f83775d7-ad5a-4d19-b79d-f5a70316a98c.json",
+    "identifier": "f83775d7-ad5a-4d19-b79d-f5a70316a98c",
+    "uri": "/reference/f83775d7-ad5a-4d19-b79d-f5a70316a98c"
+}

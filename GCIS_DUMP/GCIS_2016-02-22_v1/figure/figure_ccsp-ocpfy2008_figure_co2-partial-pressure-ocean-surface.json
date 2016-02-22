@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "This illustration provides a summary of trends in CO2 partial pressure (pCO2) at the ocean surface and controls in the North Pacific. Increasing trends in the subplots indicate that ocean CO2 is increasing with the atmospheric concentration as expected. Flat or decreasing trends indicate that other processes are working to counteract the natural CO2 increase. The text in the figure identifies the observed variability and primary controls on the observed trends. IA, DIC, and T stand for interannual variability, dissolved inorganic carbon, and temperature, respectively. Credit: C. Sabine, NOAA / Pacific Marine Environmental Laboratory and N. Gruber, University of California - Los Angeles (reproduced from the Journal of Geophysical Research with permission from the American Geophysical Union).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "d6/70/f50661373c44913d82aa2ae3ac81/our_changing_planet_2008_68_20090708_1564345334.jpg",
+            "href": "http://data.globalchange.gov/assets/d6/70/f50661373c44913d82aa2ae3ac81/our_changing_planet_2008_68_20090708_1564345334.jpg",
+            "identifier": "4f5f1c5f-29b3-495e-8a62-2d5a1daabc1b",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "7b402de0c569058696c74531b214d3418ce50b6c",
+            "size": 60531,
+            "thumbnail": "d6/70/f50661373c44913d82aa2ae3ac81/.thumb-4f5f1c5f-29b3-495e-8a62-2d5a1daabc1b.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/d6/70/f50661373c44913d82aa2ae3ac81/.thumb-4f5f1c5f-29b3-495e-8a62-2d5a1daabc1b.png",
+            "uri": "/file/4f5f1c5f-29b3-495e-8a62-2d5a1daabc1b",
+            "url": "/assets/d6/70/f50661373c44913d82aa2ae3ac81/our_changing_planet_2008_68_20090708_1564345334.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2008/figure/co2-partial-pressure-ocean-surface.json",
+    "identifier": "co2-partial-pressure-ocean-surface",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2008",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "CO2 Partial Pressure at the Ocean Surface",
+    "uri": "/report/ccsp-ocpfy2008/figure/co2-partial-pressure-ocean-surface",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

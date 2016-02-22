@@ -1,0 +1,80 @@
+{
+    "attributes": null,
+    "caption": "This \u201cmock-up\u201d shows the existing Highway LA-1 and Leeville Bridge in coastal \r\nLouisiana (on the right) with a planned new, elevated bridge that would retain functionality under \r\nfuture, higher sea level conditions (center left). (Current sea level and sinking bridge are shown \r\nhere.) A 7-mile portion of the planned bridge has been completed and opened to traffic in \r\nDecember 2011. (Figure source: Greater Lafourche Port Commission, reprinted with permission).",
+    "chapter": {
+        "doi": "10.7930/J0MS3QNW",
+        "identifier": "coastal-zone",
+        "number": 25,
+        "report_identifier": "nca3",
+        "sort_key": 250,
+        "title": "Coastal Zone Development and Ecosystems",
+        "url": "http://nca2014.globalchange.gov/report/regions/coasts"
+    },
+    "chapter_identifier": "coastal-zone",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-14T13:06:00",
+    "files": [
+        {
+            "file": "e3/9e/3df26a030a8a8cc9d8458fce19a2/Coastal_adaptation_possiblilities_V4.png",
+            "href": "http://data.globalchange.gov/assets/e3/9e/3df26a030a8a8cc9d8458fce19a2/Coastal_adaptation_possiblilities_V4.png",
+            "identifier": "1e0e2df9-76e7-4ba3-8695-9c3e6c370663",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "a6cbdc3af15315a5ed0e128c0dcaa17d9faa29da",
+            "size": 233114,
+            "thumbnail": "e3/9e/3df26a030a8a8cc9d8458fce19a2/.thumb-1e0e2df9-76e7-4ba3-8695-9c3e6c370663.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/e3/9e/3df26a030a8a8cc9d8458fce19a2/.thumb-1e0e2df9-76e7-4ba3-8695-9c3e6c370663.png",
+            "uri": "/file/1e0e2df9-76e7-4ba3-8695-9c3e6c370663",
+            "url": "/assets/e3/9e/3df26a030a8a8cc9d8458fce19a2/Coastal_adaptation_possiblilities_V4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/coastal-zone/figure/adapting-coastal-infrastructure-to-sea-level-rise-and-land-loss.json",
+    "identifier": "adapting-coastal-infrastructure-to-sea-level-rise-and-land-loss",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-11-14T13:06:00",
+            "description": null,
+            "identifier": "f61bb438-f964-4291-a169-0c2e8face97b",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Adaptation Coastal Infrastructure to Sea Level Rse and Land Loss",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 5,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "webpage Along the Road - Vol. 71 No. 3 - Public Roads",
+            "note": null,
+            "publication_type_identifier": "webpage",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/webpage/5f3538ab-eb81-4858-b44e-1304b949b288"
+        }
+    ],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Adapting Coastal Infrastructure to Sea Level Rise and Land Loss",
+    "uri": "/report/nca3/chapter/coastal-zone/figure/adapting-coastal-infrastructure-to-sea-level-rise-and-land-loss",
+    "url": "http://nca2014.globalchange.gov/report/regions/coasts/graphics/adapting-coastal-infrastructure-sea-level-rise-and-land-loss",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

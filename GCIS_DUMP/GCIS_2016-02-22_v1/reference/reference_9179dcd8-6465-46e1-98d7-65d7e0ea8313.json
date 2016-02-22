@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Scibek, Jacek\rAllen, Diana M.\rCannon, Alex J.\rWhitfield, Paul H.",
+        "DOI": "10.1016/j.jhydrol.2006.08.005",
+        "ISSN": "0022-1694",
+        "Issue": "2\u20134",
+        "Journal": "Journal of Hydrology",
+        "Keywords": "Hydrologic modeling\rClimate change\rGroundwater\u2013surface water interaction\rGroundwater modeling",
+        "Pages": "165-181",
+        "Title": "Groundwater\u2013surface water interaction under scenarios of climate change using a high-resolution transient groundwater model",
+        "Volume": "333",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "4133",
+        "_uuid": "9179dcd8-6465-46e1-98d7-65d7e0ea8313",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.jhydrol.2006.08.005",
+    "href": "http://data.globalchange.gov/reference/9179dcd8-6465-46e1-98d7-65d7e0ea8313.json",
+    "identifier": "9179dcd8-6465-46e1-98d7-65d7e0ea8313",
+    "uri": "/reference/9179dcd8-6465-46e1-98d7-65d7e0ea8313"
+}

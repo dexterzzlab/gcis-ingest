@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Villarini, Gabriele\rSmith, James A.",
+        "DOI": "10.1029/2009wr008395",
+        "ISSN": "1944-7973",
+        "Issue": "6",
+        "Journal": "Water Resources Research",
+        "Keywords": "stationarity\rtropical cyclone\rmixture distribution\rextreme\ranthropogenic effects\rclimate change\r1821 Floods\r1817 Extreme events\r1803 Anthropogenic effects\r1807 Climate impacts",
+        "Pages": "W06504",
+        "Title": "Flood peak distributions for the eastern United States",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2009WR008395/pdf",
+        "Volume": "46",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"RF 2\",\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "3704",
+        "_uuid": "a639de52-b0d2-4580-a27c-5039d036d210",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2009wr008395",
+    "href": "http://data.globalchange.gov/reference/a639de52-b0d2-4580-a27c-5039d036d210.json",
+    "identifier": "a639de52-b0d2-4580-a27c-5039d036d210",
+    "uri": "/reference/a639de52-b0d2-4580-a27c-5039d036d210"
+}

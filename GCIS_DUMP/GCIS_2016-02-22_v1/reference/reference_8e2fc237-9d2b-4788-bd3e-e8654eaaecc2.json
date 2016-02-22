@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Trenberth, K.E.\rOverpeck, J.T.\rSolomon, S.",
+        "DOI": "10.1029/2004EO030004",
+        "Issue": "3",
+        "Journal": "Eos, Transactions, American Geophysical Union",
+        "Pages": "27",
+        "Title": "Exploring drought and its implications for the future",
+        "Volume": "85",
+        "Year": "2004",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\",\"Ch. 3: Water Resources FINAL\",\"RG 4 Great Plains\"]",
+        "_record_number": "3091",
+        "_uuid": "8e2fc237-9d2b-4788-bd3e-e8654eaaecc2",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2004EO030004",
+    "href": "http://data.globalchange.gov/reference/8e2fc237-9d2b-4788-bd3e-e8654eaaecc2.json",
+    "identifier": "8e2fc237-9d2b-4788-bd3e-e8654eaaecc2",
+    "uri": "/reference/8e2fc237-9d2b-4788-bd3e-e8654eaaecc2"
+}

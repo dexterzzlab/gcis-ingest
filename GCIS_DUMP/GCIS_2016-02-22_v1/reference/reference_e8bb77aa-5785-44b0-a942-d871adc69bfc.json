@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Hydrologic time series of groundwater levels, streamflow, precipitation, and tree-ring indices from four alluvial basins in the southwestern United States were spectrally analyzed, and then frequency components were reconstructed to isolate variability due to climatic variations on four time scales. Reconstructed components (RCs), from each time series, were compared to climatic indices like the Pacific Decadal Oscillation (PDO), North American Monsoon (NAM), and El Ni\u00f1o-Southern Oscillation (ENSO), to reveal that as much as 80% of RC variation can be correlated with climate variations on corresponding time scales. In most cases, the hydrologic RCs lag behind the climate indices by 1\u201336 months. In all four basins, PDO-like components were the largest contributors to cyclic hydrologic variability. Generally, California time series have more variation associated with PDO and ENSO than the Arizona series, and Arizona basins have more variation associated with NAM. ENSO cycles were present in all four basins but were the largest relative contributors in southeastern Arizona. Groundwater levels show a wide range of climate responses that can be correlated from well to well in the various basins, with climate responses found in unconfined and confined aquifers from pumping centers to mountain fronts.",
+        "Author": "Hanson, R.T.\rDettinger, M.D.\rNewhouse, M.W.",
+        "DOI": "10.1007/s10040-006-0067-7",
+        "ISSN": "1431-2174",
+        "Issue": "7",
+        "Journal": "Hydrogeology Journal",
+        "Keywords": "Groundwater/surface-water relations; Groundwater statistics; Climate; Climatic variability; United States",
+        "Pages": "1122-1146",
+        "Title": "Relations between climatic variability and hydrologic time series from four alluvial basins across the southwestern United States",
+        "Volume": "14",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "1423",
+        "_uuid": "e8bb77aa-5785-44b0-a942-d871adc69bfc",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10040-006-0067-7",
+    "href": "http://data.globalchange.gov/reference/e8bb77aa-5785-44b0-a942-d871adc69bfc.json",
+    "identifier": "e8bb77aa-5785-44b0-a942-d871adc69bfc",
+    "uri": "/reference/e8bb77aa-5785-44b0-a942-d871adc69bfc"
+}

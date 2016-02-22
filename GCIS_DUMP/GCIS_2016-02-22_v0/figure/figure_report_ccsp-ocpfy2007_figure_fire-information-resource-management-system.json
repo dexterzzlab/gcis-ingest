@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "This tool provides web-based depictions of MODIS fire products for 1 day, in this case for Namibia. This same information is transmitted by cell phone as a text message to fire wardens in protected areas alerting them to the times and locations of the detected fires. This information has proven very useful for detecting and preventing incursions into protected areas in Africa and elsewhere. Credit: D.K. Davies, University of Maryland (with permission from GIM International, <http://www.gim-international.com>).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "a6/d9/297c2d0588c15f61a4ff15ad66cb/our_changing_planet_2007_57_20090708_1866119253.jpg",
+            "href": "http://data.globalchange.gov/assets/a6/d9/297c2d0588c15f61a4ff15ad66cb/our_changing_planet_2007_57_20090708_1866119253.jpg",
+            "identifier": "5188bea6-5da1-4f09-8465-940c6e2b7373",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "a1e907eac85536e61a55560a27476b21d77baad5",
+            "size": 64142,
+            "thumbnail": "a6/d9/297c2d0588c15f61a4ff15ad66cb/.thumb-5188bea6-5da1-4f09-8465-940c6e2b7373.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/a6/d9/297c2d0588c15f61a4ff15ad66cb/.thumb-5188bea6-5da1-4f09-8465-940c6e2b7373.png",
+            "uri": "/file/5188bea6-5da1-4f09-8465-940c6e2b7373",
+            "url": "/assets/a6/d9/297c2d0588c15f61a4ff15ad66cb/our_changing_planet_2007_57_20090708_1866119253.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/fire-information-resource-management-system.json",
+    "identifier": "fire-information-resource-management-system",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "The Fire Information for Resource Management System",
+    "uri": "/report/ccsp-ocpfy2007/figure/fire-information-resource-management-system",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

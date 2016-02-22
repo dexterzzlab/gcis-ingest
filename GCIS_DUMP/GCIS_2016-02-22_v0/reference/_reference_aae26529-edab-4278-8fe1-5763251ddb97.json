@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "FHWA,",
+        "Date": "June 2008",
+        "Institution": "Federal Highway Administration. Department of Civil Engineering, University of South Alabama",
+        "Pages": "250",
+        "Place Published": "Mobile, AL",
+        "Series Editor": "Douglass, S.L.; Krolak, J.",
+        "Title": "Highways in the Coastal Environment, Second Edition. Hydraulic Engineering Circular No. 25. FHWA-NHI-07-096",
+        "URL": "http://www.fhwa.dot.gov/engineering/hydraulics/pubs/07096/07096.pdf",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"RG 10 Coasts\"]",
+        "_record_number": "849",
+        "_uuid": "aae26529-edab-4278-8fe1-5763251ddb97",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/fhwa-nhi-07-096",
+    "href": "http://data.globalchange.gov/reference/aae26529-edab-4278-8fe1-5763251ddb97.json",
+    "identifier": "aae26529-edab-4278-8fe1-5763251ddb97",
+    "uri": "/reference/aae26529-edab-4278-8fe1-5763251ddb97"
+}

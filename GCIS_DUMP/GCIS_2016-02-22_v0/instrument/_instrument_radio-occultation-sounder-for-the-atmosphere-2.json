@@ -1,0 +1,8 @@
+{
+    "description": "GNSS radio-occultation receiver",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/radio-occultation-sounder-for-the-atmosphere-2.json",
+    "identifier": "radio-occultation-sounder-for-the-atmosphere-2",
+    "name": "Radio Occultation Sounder for the Atmosphere",
+    "uri": "/instrument/radio-occultation-sounder-for-the-atmosphere-2"
+}

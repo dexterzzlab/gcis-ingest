@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "The left panels show results for December\u2013February (DJF), and the right panels for June\u2013August (JJA). The top two panels are from a control run (CAM); the middle two panels are from the experimental model (SP-CAM); and the bottom two panels show observations from the International Satellite Cloud Climatology Project (ISCCP). Credit: M. Khairoutdinov, D. Randall, and C. DeMott, Colorado State University (reproduced from Journal of the Atmospheric Sciences with permission from the American Meteorological Society).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "f1/3f/7e1ad94ddbf4f64516b8041661c4/our_changing_planet_2007_45_20090708_1688420284.jpg",
+            "href": "http://data.globalchange.gov/assets/f1/3f/7e1ad94ddbf4f64516b8041661c4/our_changing_planet_2007_45_20090708_1688420284.jpg",
+            "identifier": "c4147a50-57f2-4fe8-8d66-452d7066e50f",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "55a02959b3ec066e277e917ec476d9d03b4dd739",
+            "size": 83041,
+            "thumbnail": "f1/3f/7e1ad94ddbf4f64516b8041661c4/.thumb-c4147a50-57f2-4fe8-8d66-452d7066e50f.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/f1/3f/7e1ad94ddbf4f64516b8041661c4/.thumb-c4147a50-57f2-4fe8-8d66-452d7066e50f.png",
+            "uri": "/file/c4147a50-57f2-4fe8-8d66-452d7066e50f",
+            "url": "/assets/f1/3f/7e1ad94ddbf4f64516b8041661c4/our_changing_planet_2007_45_20090708_1688420284.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/high-level-cloud-fraction.json",
+    "identifier": "high-level-cloud-fraction",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "High-Level Cloud Fraction",
+    "uri": "/report/ccsp-ocpfy2007/figure/high-level-cloud-fraction",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

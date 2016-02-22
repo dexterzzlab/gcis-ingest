@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "These products illustrate the impact of carbon-climate feedback on carbon storage in oceanic (left panel) and terrestrial (right panel) systems. Units are grams carbon m-2; DIC = dissolved inorganic carbon. Credit: I.Y. Fung, University of California; S. C. Doney, Woods Hole Oceanographic Institution; K. Lindsay, National Center for Atmospheric Research; and J. John, University of California (reproduced from Proceedings of the National Academy of Sciences with permission from the National Academy of Sciences).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "d3/fa/06952e948848469fe4fc054b0836/our_changing_planet_2007_62_20090708_1998444179.jpg",
+            "href": "http://data.globalchange.gov/assets/d3/fa/06952e948848469fe4fc054b0836/our_changing_planet_2007_62_20090708_1998444179.jpg",
+            "identifier": "32a2adc4-9b73-40cd-b0d9-b9cd7693c905",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "feaec26d9fc5415eb81a31c0dc49e3d780e732b7",
+            "size": 69063,
+            "thumbnail": "d3/fa/06952e948848469fe4fc054b0836/.thumb-32a2adc4-9b73-40cd-b0d9-b9cd7693c905.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/d3/fa/06952e948848469fe4fc054b0836/.thumb-32a2adc4-9b73-40cd-b0d9-b9cd7693c905.png",
+            "uri": "/file/32a2adc4-9b73-40cd-b0d9-b9cd7693c905",
+            "url": "/assets/d3/fa/06952e948848469fe4fc054b0836/our_changing_planet_2007_62_20090708_1998444179.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/impact-carbon-climate-feedback-carbon-storage.json",
+    "identifier": "impact-carbon-climate-feedback-carbon-storage",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "The Impact of Carbon-Climate Feedback on Carbon Storage",
+    "uri": "/report/ccsp-ocpfy2007/figure/impact-carbon-climate-feedback-carbon-storage",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

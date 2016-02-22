@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Kirshen, P., \rDouglas, E., \rPaolisso, M., \rEnrici, A.",
+        "Book Title": "Restoring Lands - Coordinating Science, Politics and Action: Complexities of Climate and Governance",
+        "Editor": "Karl, Herman\rLynn Scarlett\rJuan Carlos Vargas-Moreno\rMichael Flaxman",
+        "ISBN": "978-9400725485",
+        "Pages": "85-107",
+        "Publisher": "Springer Netherlands",
+        "Reviewer": "5de8d745-b8b7-4153-8a48-64841a1425ba",
+        "Title": "Ch. 5: Social and cultural incentives and obstacles to adaptation to increased coastal flooding in East Boston, MA USA",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "428",
+        "_uuid": "5de8d745-b8b7-4153-8a48-64841a1425ba",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/5e3b5313-71b5-49e9-9590-67f16a9a6f67",
+    "href": "http://data.globalchange.gov/reference/5de8d745-b8b7-4153-8a48-64841a1425ba.json",
+    "identifier": "5de8d745-b8b7-4153-8a48-64841a1425ba",
+    "uri": "/reference/5de8d745-b8b7-4153-8a48-64841a1425ba"
+}

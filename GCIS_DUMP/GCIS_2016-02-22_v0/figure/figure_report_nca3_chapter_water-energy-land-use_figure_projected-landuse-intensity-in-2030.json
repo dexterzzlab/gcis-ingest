@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "The figure shows illustrative projections for 2030 of the total land-use intensity associated with various electricity production methods. Estimates consider both the footprint of the power plant as well as land affected by energy extraction. There is a relatively large range in impacts across technologies. For example, a change from nuclear to wind power could mean a significant change in associated land use. For each electricity production method, the figure shows the average of a most-compact and least-compact estimate for how much land will be needed per unit of energy. The figure uses projections from the Energy Information Administration Reference scenario for the year 2030, based on energy consumption by fuel type and power plant \u201ccapacity factors\u201d (the ratio of total power generation to maximum possible power generation). The most-compact and least-compact estimates of biofuel land-use intensities reflect differences between current yield and production efficiency levels and those that are projected for 2030 assuming technology improvements.<tbib>62df8fca-fcfe-41c4-8b33-85cc3f126441</tbib> (Figure source: adapted from McDonald et al. 2009<tbib>62df8fca-fcfe-41c4-8b33-85cc3f126441</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0JW8BSF",
+        "identifier": "water-energy-land-use",
+        "number": 10,
+        "report_identifier": "nca3",
+        "sort_key": 100,
+        "title": "Energy, Water, and Land Use",
+        "url": "http://nca2014.globalchange.gov/report/sectors/energy-water-and-land"
+    },
+    "chapter_identifier": "water-energy-land-use",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-01T08:32:00",
+    "files": [
+        {
+            "file": "ab/04/0ac2f3aa61c8c9ff1b53b27df1f5/WEL_land-use-intensity-in-2030_V3.png",
+            "href": "http://data.globalchange.gov/assets/ab/04/0ac2f3aa61c8c9ff1b53b27df1f5/WEL_land-use-intensity-in-2030_V3.png",
+            "identifier": "0069bcdd-fb4b-4219-834c-e9552ce43db8",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "9c13370ea54a45fc0d94d9024b98c203418834c7",
+            "size": 86437,
+            "thumbnail": "ab/04/0ac2f3aa61c8c9ff1b53b27df1f5/.thumb-0069bcdd-fb4b-4219-834c-e9552ce43db8.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/ab/04/0ac2f3aa61c8c9ff1b53b27df1f5/.thumb-0069bcdd-fb4b-4219-834c-e9552ce43db8.png",
+            "uri": "/file/0069bcdd-fb4b-4219-834c-e9552ce43db8",
+            "url": "/assets/ab/04/0ac2f3aa61c8c9ff1b53b27df1f5/WEL_land-use-intensity-in-2030_V3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/water-energy-land-use/figure/projected-landuse-intensity-in-2030.json",
+    "identifier": "projected-landuse-intensity-in-2030",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-11-01T08:32:00",
+            "description": null,
+            "identifier": "933c10a5-f966-4411-827b-8a7ede328823",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2030-12-31T23:59:59",
+            "time_start": "2030-01-01T00:00:00",
+            "title": "Projected Land-use Intensity in 2030",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 6,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Energy Sprawl or Energy Efficiency: Climate Policy Impacts on Natural Habitat for the United States of America",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1371/journal.pone.0006802"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/62df8fca-fcfe-41c4-8b33-85cc3f126441.json",
+            "uri": "/reference/62df8fca-fcfe-41c4-8b33-85cc3f126441"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Projected Land-use Intensity in 2030",
+    "uri": "/report/nca3/chapter/water-energy-land-use/figure/projected-landuse-intensity-in-2030",
+    "url": "http://nca2014.globalchange.gov/report/sectors/energy-water-and-land/graphics/projected-land-use-intensity-2030",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

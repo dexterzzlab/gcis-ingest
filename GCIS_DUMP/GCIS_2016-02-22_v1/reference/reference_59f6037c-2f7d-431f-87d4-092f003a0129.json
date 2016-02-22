@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Galloway, James N.\rSchlesinger, William H.\rClark, Christopher M.\rGrimm, Nancy B.\rJackson, Robert B.\rLaw, Beverly E.\rThornton, Peter E.\rTownsend, Alan R.\rMartin, Rebecca",
+        "Book Title": "Climate Change Impacts in the United States: The Third National Climate Assessment",
+        "DOI": "(doi)",
+        "Editor": "Melillo, Jerry M.\rTerese (T.C.) Richmond,\rYohe, Gary W.",
+        "Pages": "15-1\u2013nn",
+        "Place Published": "Washington, DC",
+        "Publisher": "U.S. Global Change Research Program",
+        "Reviewer": "59f6037c-2f7d-431f-87d4-092f003a0129",
+        "Title": "Ch. 15: Biogeochemical Cycles",
+        "URL": "http://nca2014.globalchange.gov/report/sectors/biogeochemical-cycles",
+        "Year": "2014",
+        "_chapter": "[\"Ch. 0: About this Report FINAL\"]",
+        "_record_number": "4693",
+        "_uuid": "59f6037c-2f7d-431f-87d4-092f003a0129",
+        "reftype": "Book Section"
+    },
+    "child_publication": null,
+    "href": "http://data.globalchange.gov/reference/59f6037c-2f7d-431f-87d4-092f003a0129.json",
+    "identifier": "59f6037c-2f7d-431f-87d4-092f003a0129",
+    "uri": "/reference/59f6037c-2f7d-431f-87d4-092f003a0129"
+}

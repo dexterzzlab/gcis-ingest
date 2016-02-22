@@ -1,0 +1,136 @@
+{
+    "attributes": null,
+    "caption": "Variation of winter storm frequency and intensity during the cold season (November-March) for high latitudes (60-90\u00b0N) and mid-latitudes (30-60\u00b0N) of the Northern Hemisphere over the period 1949-2010. The bar for each decade represents the difference from the long-term average. Storm frequencies have increased in middle and high latitudes, and storm intensities have increased in middle latitudes. (Figure source: updated from CCSP 2008<tbib>12d42a98-494b-4cec-bf08-060021c85ec2</tbib>)",
+    "chapter": {
+        "doi": "10.7930/J0KW5CXT",
+        "identifier": "our-changing-climate",
+        "number": 2,
+        "report_identifier": "nca3",
+        "sort_key": 20,
+        "title": "Our Changing Climate",
+        "url": "http://nca2014.globalchange.gov/report/our-changing-climate/introduction"
+    },
+    "chapter_identifier": "our-changing-climate",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-07-31T09:27:00",
+    "files": [
+        {
+            "file": "41/3d/5db1f196caa552fbda2d29bbb1e1/CS_winter_storms_v4.png",
+            "href": "http://data.globalchange.gov/assets/41/3d/5db1f196caa552fbda2d29bbb1e1/CS_winter_storms_v4.png",
+            "identifier": "27c4ba07-7667-45df-9b33-53f235dd181d",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "6198327277989d00acccb941d93287acd261980d",
+            "size": 143954,
+            "thumbnail": "41/3d/5db1f196caa552fbda2d29bbb1e1/.thumb-27c4ba07-7667-45df-9b33-53f235dd181d.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/41/3d/5db1f196caa552fbda2d29bbb1e1/.thumb-27c4ba07-7667-45df-9b33-53f235dd181d.png",
+            "uri": "/file/27c4ba07-7667-45df-9b33-53f235dd181d",
+            "url": "/assets/41/3d/5db1f196caa552fbda2d29bbb1e1/CS_winter_storms_v4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/our-changing-climate/figure/variation-of-storm-frequency-and-intensity-during-the-cold-season-november--march.json",
+    "identifier": "variation-of-storm-frequency-and-intensity-during-the-cold-season-november--march",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-07-31T09:27:00",
+            "description": null,
+            "identifier": "54e8d7d2-804b-4adc-82eb-773a1e828794",
+            "lat_max": "90.00",
+            "lat_min": "30.00",
+            "lon_max": "180.00",
+            "lon_min": "-180.00",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2010-03-31T23:59:59",
+            "time_start": "1948-11-01T00:00:00",
+            "title": "Frequency: Mid-Latitudes",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2013-07-31T09:27:00",
+            "description": null,
+            "identifier": "e6201ce4-21ee-4bb3-ab03-23d32baf9f75",
+            "lat_max": "90.00",
+            "lat_min": "30.00",
+            "lon_max": "180.00",
+            "lon_min": "-180.00",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2010-03-31T23:59:59",
+            "time_start": "1948-11-01T00:00:00",
+            "title": "Intensity: Mid-Latitudes",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2013-07-31T09:27:00",
+            "description": null,
+            "identifier": "b229781f-3215-4a0c-945f-fd838c9fabea",
+            "lat_max": "90.00",
+            "lat_min": "30.00",
+            "lon_max": "180.00",
+            "lon_min": "-180.00",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2010-03-31T23:59:59",
+            "time_start": "1948-11-01T00:00:00",
+            "title": "Frequency - High-Latitudes",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2013-07-31T09:27:00",
+            "description": null,
+            "identifier": "31d7c787-5229-4cfb-9a73-060204ce520e",
+            "lat_max": "90.00",
+            "lat_min": "30.00",
+            "lon_max": "180.00",
+            "lon_min": "-180.00",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2010-03-31T23:59:59",
+            "time_start": "1948-11-01T00:00:00",
+            "title": "Intensity: High-Latitudes",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 24,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Monitoring and Understanding Changes in Extremes: Extratropical Storms, Winds, and Waves",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1175/BAMS-D-12-00162.1"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/12d42a98-494b-4cec-bf08-060021c85ec2.json",
+            "uri": "/reference/12d42a98-494b-4cec-bf08-060021c85ec2"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "updated from CCSP 2008<tbib>12d42a98-494b-4cec-bf08-060021c85ec2</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Variation of Storm Frequency and Intensity during the Cold Season (November \u2013 March)",
+    "uri": "/report/nca3/chapter/our-changing-climate/figure/variation-of-storm-frequency-and-intensity-during-the-cold-season-november--march",
+    "url": "http://nca2014.globalchange.gov/report/our-changing-climate/changes-storms/graphics/variation-storm-frequency-and-intensity-during",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

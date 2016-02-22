@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Miller, J.\rMuller, E.\rRogers, C.\rWaara, R.\rAtkinson, A.\rWhelan, K.R.T.\rPatterson, M.\rWitcher, B.",
+        "DOI": "10.1007/s00338-009-0531-7",
+        "ISSN": "0722-4028",
+        "Issue": "4",
+        "Journal": "Coral Reefs",
+        "Pages": "925-937",
+        "Title": "Coral disease following massive bleaching in 2005 causes 60% decline in coral cover on reefs in the US Virgin Islands",
+        "URL": "http://link.springer.com/content/pdf/10.1007%2Fs00338-009-0531-7",
+        "Volume": "28",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\",\"Appendix 1: Process FINAL\"]",
+        "_record_number": "2033",
+        "_uuid": "cc79dc88-e0c2-4d10-ada0-ec542a42547d",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s00338-009-0531-7",
+    "href": "http://data.globalchange.gov/reference/cc79dc88-e0c2-4d10-ada0-ec542a42547d.json",
+    "identifier": "cc79dc88-e0c2-4d10-ada0-ec542a42547d",
+    "uri": "/reference/cc79dc88-e0c2-4d10-ada0-ec542a42547d"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Tirado, M.C.\rCohen, M.J.\rAberman, N.\rMeerman, J.\rThompson, B.",
+        "DOI": "10.1016/j.foodres.2010.03.010",
+        "ISSN": "0963-9969",
+        "Issue": "7",
+        "Journal": "Food Research International",
+        "Pages": "1729-1744",
+        "Title": "Addressing the challenges of climate change and biofuel production for food and nutrition security",
+        "Volume": "43",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "3066",
+        "_uuid": "a8a74c61-73ac-49d3-a832-f5179bdb24dd",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.foodres.2010.03.010",
+    "href": "http://data.globalchange.gov/reference/a8a74c61-73ac-49d3-a832-f5179bdb24dd.json",
+    "identifier": "a8a74c61-73ac-49d3-a832-f5179bdb24dd",
+    "uri": "/reference/a8a74c61-73ac-49d3-a832-f5179bdb24dd"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Arendt, Anthony A.\rLuthcke, S.B.\rHock, R.",
+        "DOI": "10.3189/172756409787769753",
+        "ISSN": "0260-3055",
+        "Issue": "50",
+        "Journal": "Annals of Glaciology",
+        "Pages": "148-154",
+        "Title": "Glacier changes in Alaska: Can mass-balance models explain GRACE mascon trends?",
+        "Volume": "50",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "756",
+        "_uuid": "0a0ac996-a92d-4584-9d24-f94dd27844c6",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.3189/172756409787769753",
+    "href": "http://data.globalchange.gov/reference/0a0ac996-a92d-4584-9d24-f94dd27844c6.json",
+    "identifier": "0a0ac996-a92d-4584-9d24-f94dd27844c6",
+    "uri": "/reference/0a0ac996-a92d-4584-9d24-f94dd27844c6"
+}

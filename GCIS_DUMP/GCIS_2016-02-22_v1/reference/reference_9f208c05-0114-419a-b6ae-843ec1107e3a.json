@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Wu, May\rChiu, Yiwen",
+        "Date": "July 2011",
+        "Institution": "Argonne National Laboratory, Energy Systems Division",
+        "Pages": "100",
+        "Title": "Consumptive Water Use in the Production of Ethanol and Petroleum Gasoline \u2013 2011 Update. ANL/ESD/09-1 \u2013 Update",
+        "URL": "http://greet.es.anl.gov/files/consumptive-water",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 10: Energy Water Land FINAL\"]",
+        "_record_number": "4398",
+        "_uuid": "9f208c05-0114-419a-b6ae-843ec1107e3a",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/anl-esd-09-1",
+    "href": "http://data.globalchange.gov/reference/9f208c05-0114-419a-b6ae-843ec1107e3a.json",
+    "identifier": "9f208c05-0114-419a-b6ae-843ec1107e3a",
+    "uri": "/reference/9f208c05-0114-419a-b6ae-843ec1107e3a"
+}

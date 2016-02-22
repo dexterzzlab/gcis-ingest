@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "MacDonald, G. K.\rBennett, E. M.\rPotter, P. A.\rRamankutty, N.",
+        "DOI": "10.1073/pnas.1010808108",
+        "Date": "Feb",
+        "ISSN": "0027-8424",
+        "Issue": "7",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Keywords": "agriculture; eutrophication; nutrient balances; phosphorus depletion; nutrient balances; crop production; nitrogen; management; flows; livestock; systems; eutrophication; methodology; perspective",
+        "Language": "English",
+        "Pages": "3086-3091",
+        "Title": "Agronomic phosphorus imbalances across the world's croplands",
+        "Type of Article": "Article",
+        "URL": "http://www.pnas.org/content/108/7/3086.full.pdf",
+        "Volume": "108",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "1829",
+        "_uuid": "f05d1b2b-ceb2-491b-a6b0-33b062e7ac4f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.1010808108",
+    "href": "http://data.globalchange.gov/reference/f05d1b2b-ceb2-491b-a6b0-33b062e7ac4f.json",
+    "identifier": "f05d1b2b-ceb2-491b-a6b0-33b062e7ac4f",
+    "uri": "/reference/f05d1b2b-ceb2-491b-a6b0-33b062e7ac4f"
+}

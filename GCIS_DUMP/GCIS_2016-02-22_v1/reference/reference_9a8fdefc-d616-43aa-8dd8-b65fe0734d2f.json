@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".publisher": "Ecological Society of America",
+        ".reference_type": "0",
+        "Access Date": "2013/08/03",
+        "Author": "Swanson, Mark E.\rFranklin, Jerry F.\rBeschta, Robert L.\rCrisafulli, Charles M.\rDellaSala, Dominick A.\rHutto, Richard L.\rLindenmayer, David B.\rSwanson, Frederick J.",
+        "DOI": "10.1890/090157",
+        "Date": "2011/03/01",
+        "ISSN": "1540-9295",
+        "Issue": "2",
+        "Journal": "Frontiers in Ecology and the Environment",
+        "Pages": "117-125",
+        "Title": "The forgotten stage of forest succession: Early-successional ecosystems on forest sites",
+        "Volume": "9",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "4157",
+        "_uuid": "9a8fdefc-d616-43aa-8dd8-b65fe0734d2f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/090157",
+    "href": "http://data.globalchange.gov/reference/9a8fdefc-d616-43aa-8dd8-b65fe0734d2f.json",
+    "identifier": "9a8fdefc-d616-43aa-8dd8-b65fe0734d2f",
+    "uri": "/reference/9a8fdefc-d616-43aa-8dd8-b65fe0734d2f"
+}

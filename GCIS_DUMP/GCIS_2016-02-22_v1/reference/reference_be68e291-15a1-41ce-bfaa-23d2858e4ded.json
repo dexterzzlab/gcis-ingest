@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "AGU",
+        ".reference_type": "0",
+        "Abstract": "A newly available data set of daily temperature observations was used to study the temporal variability of the frost-free season, based on an inclusive 0\u00b0C threshold, for 1895&#8211;2000 in the conterminous United States. A national average time series of the length of the frost-free season is characterized by 3 distinct regimes. The period prior to 1930 was notable for decreasing frost-free season length from 1895 to a minimum around 1910, followed by a marked increase in length of about 1 week from 1910 to 1930. During 1930&#8211;1980, frost-free season length was near the period average with relatively little decadal-scale variability. Since 1980, frost-free season length has increased by about 1 week. The national average increase in frost-free season length from the beginning to the end of the 20th Century is about 2 weeks. Frost-free season length has increased much more in the western U.S. than in the eastern U.S.",
+        "Author": "Kunkel, K.E.\rEasterling, David R.\rHubbard, Kenneth\rRedmond, Kelly",
+        "DOI": "10.1029/2003gl018624",
+        "ISSN": "1944-8007",
+        "Issue": "3",
+        "Journal": "Geophysical Research Letters",
+        "Keywords": "1610 Global Change: Atmosphere; 3309 Meteorology and Atmospheric Dynamics: Climatology; 3399 Meteorology and Atmospheric Dynamics: General or miscellaneous",
+        "Pages": "L03201",
+        "Title": "Temporal variations in frost-free season in the United States: 1895 - 2000",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2003GL018624/full",
+        "Volume": "31",
+        "Year": "2004",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "1652",
+        "_uuid": "be68e291-15a1-41ce-bfaa-23d2858e4ded",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2003gl018624",
+    "href": "http://data.globalchange.gov/reference/be68e291-15a1-41ce-bfaa-23d2858e4ded.json",
+    "identifier": "be68e291-15a1-41ce-bfaa-23d2858e4ded",
+    "uri": "/reference/be68e291-15a1-41ce-bfaa-23d2858e4ded"
+}

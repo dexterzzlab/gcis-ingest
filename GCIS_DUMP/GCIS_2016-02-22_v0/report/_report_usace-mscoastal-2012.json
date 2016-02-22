@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/usace-mscoastal-2012.json",
+    "identifier": "usace-mscoastal-2012",
+    "in_library": null,
+    "publication_year": 2012,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Mississippi Coastal Improvement Plan: Voluntary Buy-out Program",
+    "topic": null,
+    "uri": "/report/usace-mscoastal-2012",
+    "url": "http://www.sam.usace.army.mil/Missions/ProgramandProjectManagement/MsCIPProgram.aspx"
+}

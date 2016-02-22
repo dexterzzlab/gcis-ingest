@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Gotham, D.\rAngel, J.R.\rPryor, S.C.",
+        "Book Title": "Climate Change in the Midwest: Impacts, Risks, Vulnerability and Adaptation",
+        "Editor": "Pryor, S.C.",
+        "ISBN": "978-0-253-00682-0",
+        "Pages": "192-211",
+        "Place Published": "Bloomington ",
+        "Publisher": "Indiana University Press",
+        "Reviewer": "702a188c-0663-4022-9903-d675574b8095",
+        "Title": "Ch. 12: Vulnerability of the electricity and water sectors to climate change in the Midwest",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "1775",
+        "_uuid": "702a188c-0663-4022-9903-d675574b8095",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/434135ed-eb50-4c46-9484-77563769e657",
+    "href": "http://data.globalchange.gov/reference/702a188c-0663-4022-9903-d675574b8095.json",
+    "identifier": "702a188c-0663-4022-9903-d675574b8095",
+    "uri": "/reference/702a188c-0663-4022-9903-d675574b8095"
+}

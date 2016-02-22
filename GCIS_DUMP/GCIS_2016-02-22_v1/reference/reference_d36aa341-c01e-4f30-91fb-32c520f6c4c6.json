@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Osterkamp, W.R.\rHupp, C.R.",
+        "DOI": "10.1016/j.geomorph.2009.11.018",
+        "ISSN": "0169-555X",
+        "Issue": "3-4",
+        "Journal": "Geomorphology",
+        "Pages": "274-285",
+        "Title": "Fluvial processes and vegetation--Glimpses of the past, the present, and perhaps the future",
+        "Volume": "116",
+        "Year": "2010",
+        "_chapter": "[\"RF 7\",\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "2378",
+        "_uuid": "d36aa341-c01e-4f30-91fb-32c520f6c4c6",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.geomorph.2009.11.018",
+    "href": "http://data.globalchange.gov/reference/d36aa341-c01e-4f30-91fb-32c520f6c4c6.json",
+    "identifier": "d36aa341-c01e-4f30-91fb-32c520f6c4c6",
+    "uri": "/reference/d36aa341-c01e-4f30-91fb-32c520f6c4c6"
+}

@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Plattner, G.K.\rKnutti, R.\rJoos, F.\rStocker, T.F.\rvon Bloh, W.\rBrovkin, V.\rCameron, D.\rDriesschaert, E.\rDutkiewicz, S.\rEby, M.\rEdwards, N. R.\rFichefet, T.\rHargreaves, J. C.\rJones, C. D.\rLoutre, M. F.\rMatthews, H. D.\rMouchet, A.\rM\u00fcller, S. A.\rNawrath, S.\rPrice, A.\rSokolov, A.\rStrassmann, K. M.\rWeaver, A. J.",
+        "DOI": "10.1175/2007jcli1905.1",
+        "ISSN": "1520-0442",
+        "Issue": "12",
+        "Journal": "Journal of Climate",
+        "Pages": "2721-2751",
+        "Title": "Long-term climate commitments projected with climate-carbon cycle models",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/2007JCLI1905.1",
+        "Volume": "21",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "2506",
+        "_uuid": "d534bf8b-1ec0-4dad-bf30-041e923780f6",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/2007jcli1905.1",
+    "href": "http://data.globalchange.gov/reference/d534bf8b-1ec0-4dad-bf30-041e923780f6.json",
+    "identifier": "d534bf8b-1ec0-4dad-bf30-041e923780f6",
+    "uri": "/reference/d534bf8b-1ec0-4dad-bf30-041e923780f6"
+}

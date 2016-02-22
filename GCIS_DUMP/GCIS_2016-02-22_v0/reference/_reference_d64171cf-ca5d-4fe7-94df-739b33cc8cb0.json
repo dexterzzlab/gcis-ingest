@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Jury, M.R.",
+        "DOI": "10.1080/09603120701849836",
+        "ISSN": "0960-3123",
+        "Issue": "5",
+        "Journal": "International Journal of Environmental Health Research",
+        "Pages": "323-334",
+        "Title": "Climate influence on dengue epidemics in Puerto Rico",
+        "Volume": "18",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "364",
+        "_uuid": "d64171cf-ca5d-4fe7-94df-739b33cc8cb0",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1080/09603120701849836",
+    "href": "http://data.globalchange.gov/reference/d64171cf-ca5d-4fe7-94df-739b33cc8cb0.json",
+    "identifier": "d64171cf-ca5d-4fe7-94df-739b33cc8cb0",
+    "uri": "/reference/d64171cf-ca5d-4fe7-94df-739b33cc8cb0"
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".publisher": "American Geophysical Union",
+        ".reference_type": "0",
+        "Author": "Woodhouse, C.A.\rGray, S.T.\rMeko, D.M.",
+        "DOI": "10.1029/2005WR004455",
+        "Issue": "W05415",
+        "Journal": "Water Resources Research",
+        "Title": "Updated streamflow reconstructions for the Upper Colorado River Basin",
+        "Volume": "42",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\",\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "3475",
+        "_uuid": "f2f784e5-5e76-4f30-9740-f2650990e433",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2005WR004455",
+    "href": "http://data.globalchange.gov/reference/f2f784e5-5e76-4f30-9740-f2650990e433.json",
+    "identifier": "f2f784e5-5e76-4f30-9740-f2650990e433",
+    "uri": "/reference/f2f784e5-5e76-4f30-9740-f2650990e433"
+}

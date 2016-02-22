@@ -1,0 +1,8 @@
+{
+    "description": "Communications system",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/software-defined-radio.json",
+    "identifier": "software-defined-radio",
+    "name": "Software Defined Radio",
+    "uri": "/instrument/software-defined-radio"
+}

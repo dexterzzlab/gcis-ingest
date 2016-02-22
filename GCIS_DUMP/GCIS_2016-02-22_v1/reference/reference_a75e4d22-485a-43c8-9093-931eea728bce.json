@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Gao, Yanhong\rLeung, L. Ruby\rSalath\u00e9, Eric P.\rDominguez, Francina\rNijssen, Bart\rLettenmaier, Dennis P.",
+        "DOI": "10.1029/2012gl051560",
+        "ISSN": "1944-8007",
+        "Issue": "9",
+        "Journal": "Geophysical Research Letters",
+        "Keywords": "climate change\rregional climate models\rsouthwestern United States\r1637 Regional climate change\r1860 Streamflow",
+        "Pages": "L09711",
+        "Title": "Moisture flux convergence in regional and global climate models: Implications for droughts in the southwestern United States under climate change",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2012GL051560/pdf",
+        "Volume": "39",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "4111",
+        "_uuid": "a75e4d22-485a-43c8-9093-931eea728bce",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2012gl051560",
+    "href": "http://data.globalchange.gov/reference/a75e4d22-485a-43c8-9093-931eea728bce.json",
+    "identifier": "a75e4d22-485a-43c8-9093-931eea728bce",
+    "uri": "/reference/a75e4d22-485a-43c8-9093-931eea728bce"
+}

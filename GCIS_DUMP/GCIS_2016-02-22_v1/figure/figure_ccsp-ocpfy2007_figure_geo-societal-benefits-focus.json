@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "This illustration highlights the areas of societal benefit identified in the GEOSS Implementation Plan. Credit: U.S. Group on Earth Observations.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "ec/4a/d8fb1cc0aa86a8f4389cdc3a1986/our_changing_planet_2007_79_20090708_1770252688.jpg",
+            "href": "http://data.globalchange.gov/assets/ec/4a/d8fb1cc0aa86a8f4389cdc3a1986/our_changing_planet_2007_79_20090708_1770252688.jpg",
+            "identifier": "f7fe1e70-7ae7-4023-954e-ef48f391ee37",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "16600adfed651d70158f608622ea45752416cef9",
+            "size": 34189,
+            "thumbnail": "ec/4a/d8fb1cc0aa86a8f4389cdc3a1986/.thumb-f7fe1e70-7ae7-4023-954e-ef48f391ee37.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/ec/4a/d8fb1cc0aa86a8f4389cdc3a1986/.thumb-f7fe1e70-7ae7-4023-954e-ef48f391ee37.png",
+            "uri": "/file/f7fe1e70-7ae7-4023-954e-ef48f391ee37",
+            "url": "/assets/ec/4a/d8fb1cc0aa86a8f4389cdc3a1986/our_changing_planet_2007_79_20090708_1770252688.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/geo-societal-benefits-focus.json",
+    "identifier": "geo-societal-benefits-focus",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "GEO Societal Benefits Focus",
+    "uri": "/report/ccsp-ocpfy2007/figure/geo-societal-benefits-focus",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

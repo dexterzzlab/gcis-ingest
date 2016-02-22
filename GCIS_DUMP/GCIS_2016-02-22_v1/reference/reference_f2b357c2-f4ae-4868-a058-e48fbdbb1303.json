@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Forster, P.\rRamaswamy, V.\rArtaxo, P.\rBerntsen, T.\rBetts, R.\rFahey, D.W.\rHaywood, J.\rLean, J.\rLowe, D.C.\rMyhre, G.\rNganga, J.\rPrinn, R.\rRaga, G.\rSchulz, M.\rVan Dorland, R.",
+        "Book Title": "Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report (AR4) of the Intergovernmental Panel on Climate Change",
+        "Editor": "S. Solomon\rD. Qin\rM. Manning\rZ. Chen\rM. Marquis\rK. B. Averyt\rM. Tignor\rH. L. Miller",
+        "Place Published": "Cambridge, UK",
+        "Publisher": "Cambridge University Press",
+        "Reviewer": "f2b357c2-f4ae-4868-a058-e48fbdbb1303",
+        "Title": "Ch. 2: Changes in atmospheric constituents and in radiative forcing",
+        "URL": "http://www.ipcc.ch/publications_and_data/ar4/wg1/en/ch2.html",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\",\"Appendix 3: Climate Science FINAL\",\"RF 1\"]",
+        "_record_number": "228",
+        "_uuid": "f2b357c2-f4ae-4868-a058-e48fbdbb1303",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/ipcc-ar4-wg1",
+    "href": "http://data.globalchange.gov/reference/f2b357c2-f4ae-4868-a058-e48fbdbb1303.json",
+    "identifier": "f2b357c2-f4ae-4868-a058-e48fbdbb1303",
+    "uri": "/reference/f2b357c2-f4ae-4868-a058-e48fbdbb1303"
+}

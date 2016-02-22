@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Adams, R.M.,\rMcCarl, B.A.\rSegerson, K.\rRosenzweig, C.\rBryant, K.J.\rDixon, B.L.\rConner, R.\rEvenson, R.E.\rOjima, D. ",
+        "Book Title": "The Impact of Climate Change on the United States Economy",
+        "DOI": "10.1017/cbo9780511573149.002",
+        "Editor": "R. Mendelsohn\rJ. Neumann",
+        "ISBN": "9780511573149",
+        "Pages": "18-54",
+        "Place Published": "Cambridge, UK",
+        "Publisher": "Cambridge University Press",
+        "Reviewer": "b8214969-4e35-4afb-982b-a218ecbf2db9",
+        "Title": "Ch. 2: The economic effects of climate change on U.S. agriculture",
+        "Year": "1999",
+        "_chapter": "[\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "3561",
+        "_uuid": "b8214969-4e35-4afb-982b-a218ecbf2db9",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/679bfed3-66ae-4ad6-86f1-ae9e3e59dcae",
+    "href": "http://data.globalchange.gov/reference/b8214969-4e35-4afb-982b-a218ecbf2db9.json",
+    "identifier": "b8214969-4e35-4afb-982b-a218ecbf2db9",
+    "uri": "/reference/b8214969-4e35-4afb-982b-a218ecbf2db9"
+}

@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/acia-2005.json",
+    "identifier": "acia-2005",
+    "in_library": null,
+    "publication_year": 2005,
+    "report_type_identifier": "assessment",
+    "summary": null,
+    "title": "Arctic Climate Impact Assessment",
+    "topic": null,
+    "uri": "/report/acia-2005",
+    "url": "http://www.acia.uaf.edu/pages/scientific.html"
+}

@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Moritz, M.A.\rParisien, M.A.\rBatllori, E.\rKrawchuk, M.A.\rVan Dorn, J.\rGanz, D.J.\rHayhoe, K.",
+        "DOI": "10.1890/ES11-00345.1",
+        "ISSN": "2150-8925",
+        "Issue": "6",
+        "Journal": "Ecosphere",
+        "Pages": "1-22",
+        "Title": "Climate change and disruptions to global fire activity",
+        "URL": "http://www.esajournals.org/doi/pdf/10.1890/ES11-00345.1",
+        "Volume": "3",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"RG 5 Southwest\",\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "2088",
+        "_uuid": "78ccfd46-befc-4726-8dea-985aa6efb5b8",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/ES11-00345.1",
+    "href": "http://data.globalchange.gov/reference/78ccfd46-befc-4726-8dea-985aa6efb5b8.json",
+    "identifier": "78ccfd46-befc-4726-8dea-985aa6efb5b8",
+    "uri": "/reference/78ccfd46-befc-4726-8dea-985aa6efb5b8"
+}

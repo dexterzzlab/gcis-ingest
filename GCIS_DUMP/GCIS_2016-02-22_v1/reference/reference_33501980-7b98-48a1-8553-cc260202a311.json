@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "American Meteorological Society",
+        ".reference_type": "0",
+        "Access Date": "2013/07/30",
+        "Author": "Therrell, Matthew D.\rTrotter, Makayla J.",
+        "DOI": "10.1175/2011bams3146.1",
+        "Date": "2011/05/01",
+        "ISSN": "0003-0007",
+        "Issue": "5",
+        "Journal": "Bulletin of the American Meteorological Society",
+        "Pages": "583-592",
+        "Title": "Waniyetu W\u00f3wapi: Native American records of weather and climate",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/2011BAMS3146.1",
+        "Volume": "92",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\",\"Ch. 19: Great Plains FINAL\"]",
+        "_record_number": "3902",
+        "_uuid": "33501980-7b98-48a1-8553-cc260202a311",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/2011bams3146.1",
+    "href": "http://data.globalchange.gov/reference/33501980-7b98-48a1-8553-cc260202a311.json",
+    "identifier": "33501980-7b98-48a1-8553-cc260202a311",
+    "uri": "/reference/33501980-7b98-48a1-8553-cc260202a311"
+}

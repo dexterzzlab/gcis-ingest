@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"56\" /><run start=\"57\" /></field></record>",
+        "Author": "EPA,",
+        "Date": "September 28, 2012",
+        "Institution": "U.S. Environmental Protection Agency",
+        "Pages": "81",
+        "Place Published": "Washington, D.C.",
+        "Title": "SAB Review of EPA\u2019s Accounting Framework for Biogenic CO2 Emissions from Stationary Sources (September 2011). EPA-SAB-12-011",
+        "URL": "http://yosemite.epa.gov/sab/sabproduct.nsf/0/57B7A4F1987D7F7385257A87007977F6/$File/EPA-SAB-12-011-unsigned.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "4393",
+        "_uuid": "97f668c5-f969-4bb6-b234-d51874a11ab8",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/epa-sab-12-011",
+    "href": "http://data.globalchange.gov/reference/97f668c5-f969-4bb6-b234-d51874a11ab8.json",
+    "identifier": "97f668c5-f969-4bb6-b234-d51874a11ab8",
+    "uri": "/reference/97f668c5-f969-4bb6-b234-d51874a11ab8"
+}

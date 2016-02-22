@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Taylor, A.H.\rScholl, A.E.",
+        "DOI": "10.1016/j.foreco.2011.11.026",
+        "ISSN": "0378-1127",
+        "Issue": "1",
+        "Journal": "Forest Ecology and Management",
+        "Pages": "144-156",
+        "Title": "Climatic and human influences on fire regimes in mixed conifer forests in Yosemite National Park, USA",
+        "Volume": "267",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "3016",
+        "_uuid": "b939c889-e2f4-4e11-ae17-2382a4a2a44b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.foreco.2011.11.026",
+    "href": "http://data.globalchange.gov/reference/b939c889-e2f4-4e11-ae17-2382a4a2a44b.json",
+    "identifier": "b939c889-e2f4-4e11-ae17-2382a4a2a44b",
+    "uri": "/reference/b939c889-e2f4-4e11-ae17-2382a4a2a44b"
+}

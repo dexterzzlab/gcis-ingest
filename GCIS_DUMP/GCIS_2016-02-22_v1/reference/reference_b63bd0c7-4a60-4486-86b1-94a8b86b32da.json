@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "AGU",
+        ".reference_type": "0",
+        "Abstract": "Lake Superior summer (July-September) surface water temperatures have increased approximately 2.5\u00b0C over the interval 1979-2006, equivalent to a rate of (11 \u00b1 6) \u00d7 10^-2\u00b0C yr^-1, significantly in excess of regional atmospheric warming. This discrepancy is caused by declining winter ice cover, which is causing the onset of the positively stratified season to occur earlier at a rate of roughly a half day per year. An earlier start of the stratified season significantly increases the period over which the lake warms during the summer months, leading to a stronger trend in mean summer temperatures than would be expected from changes in summer air temperature alone.",
+        "Author": "Austin, Jay A.\rColman, Steven M.",
+        "DOI": "10.1029/2006GL029021",
+        "ISSN": "0094-8276",
+        "Issue": "6",
+        "Journal": "Geophysical Research Letters",
+        "Keywords": "Lake Superior; climate change; ice; 0746 Cryosphere: Lakes; 1630 Global Change: Impacts of global change; 1637 Global Change: Regional climate change; 1845 Hydrology: Limnology; 4239 Oceanography: General: Limnology",
+        "Pages": "L06604",
+        "Title": "Lake Superior summer water temperatures are increasing more rapidly than regional air temperatures: A positive ice-albedo feedback",
+        "URL": "http://www.cee.mtu.edu/~reh/papers/pubs/non_Honrath/austin07_2006GL029021.pdf",
+        "Volume": "34",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "1026",
+        "_uuid": "b63bd0c7-4a60-4486-86b1-94a8b86b32da",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2006GL029021",
+    "href": "http://data.globalchange.gov/reference/b63bd0c7-4a60-4486-86b1-94a8b86b32da.json",
+    "identifier": "b63bd0c7-4a60-4486-86b1-94a8b86b32da",
+    "uri": "/reference/b63bd0c7-4a60-4486-86b1-94a8b86b32da"
+}

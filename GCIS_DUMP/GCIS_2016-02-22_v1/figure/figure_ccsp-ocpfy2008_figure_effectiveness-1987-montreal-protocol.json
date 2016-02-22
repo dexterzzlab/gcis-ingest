@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Past, present, and projected future abundances of ozone-depleting substances in the stratosphere show the effectiveness of the 1987 Montreal Protocol agreement that reduced worldwide use of these substances (panel a). Because ozone-depleting substances are also greenhouse gases, the Montreal Protocol and its amendments gave an early start to slowing climate warming (panel b). The left axis (Climate Warming Ability) gives the climate forcing in units of watts per meter squared (Wm-2). Credit: G.J.M. Velders, Netherlands Environmental Assessment Agency; S.O. Andersen, USEPA; J.S. Daniel, NOAA; D.W. Fahey, NOAA; and M. McFarland, DuPont Fluoroproducts.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "f4/0f/9f894406b103fdceff36926c246d/our_changing_planet_2008_64_20090708_2054874707.jpg",
+            "href": "http://data.globalchange.gov/assets/f4/0f/9f894406b103fdceff36926c246d/our_changing_planet_2008_64_20090708_2054874707.jpg",
+            "identifier": "f8e1d998-9b69-4610-84a8-52bbbdc5e0b3",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "c95e1f7b6a1458f2442a89b5c45c32a1f43a9d86",
+            "size": 51072,
+            "thumbnail": "f4/0f/9f894406b103fdceff36926c246d/.thumb-f8e1d998-9b69-4610-84a8-52bbbdc5e0b3.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/f4/0f/9f894406b103fdceff36926c246d/.thumb-f8e1d998-9b69-4610-84a8-52bbbdc5e0b3.png",
+            "uri": "/file/f8e1d998-9b69-4610-84a8-52bbbdc5e0b3",
+            "url": "/assets/f4/0f/9f894406b103fdceff36926c246d/our_changing_planet_2008_64_20090708_2054874707.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2008/figure/effectiveness-1987-montreal-protocol.json",
+    "identifier": "effectiveness-1987-montreal-protocol",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2008",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Effectiveness of the 1987 Montreal Protocol Agreement",
+    "uri": "/report/ccsp-ocpfy2008/figure/effectiveness-1987-montreal-protocol",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

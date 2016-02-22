@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"italic\" start=\"53\" /><run start=\"74\" /></field></record>",
+        "Author": "Mueter, F. J.\rBond, N. A.\rIanelli, J. N.\rHollowed, A. B.",
+        "DOI": "10.1093/icesjms/fsr022",
+        "ISSN": "1054-3139, 1095-9289",
+        "Issue": "6",
+        "Journal": "ICES Journal of Marine Science",
+        "Pages": "1284-1296",
+        "Title": "Expected declines in recruitment of walleye pollock (Theragra chalcogramma) in the eastern Bering Sea under future climate change",
+        "URL": "http://icesjms.oxfordjournals.org/content/68/6/1284.full.pdf+html",
+        "Volume": "68",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\",\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "2122",
+        "_uuid": "8c3c048d-74b7-4c5e-b071-381d74036bfe",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1093/icesjms/fsr022",
+    "href": "http://data.globalchange.gov/reference/8c3c048d-74b7-4c5e-b071-381d74036bfe.json",
+    "identifier": "8c3c048d-74b7-4c5e-b071-381d74036bfe",
+    "uri": "/reference/8c3c048d-74b7-4c5e-b071-381d74036bfe"
+}

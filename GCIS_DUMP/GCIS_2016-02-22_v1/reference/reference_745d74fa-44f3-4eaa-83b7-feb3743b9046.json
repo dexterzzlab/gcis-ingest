@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Fenner, D., \rSpeicher, M.\rGulick, S.\rAeby, G.\rCooper, S.\rAnderson, P.\rCarroll, B.\rDiDonato, E.\rDiDonato, G.\rFarmer, V.\rGove, J.\rHouk, P.\rLundland, E.\rNadon, M.\rRiolo, E.\rSabater, M.\rSchroeder, R.\rSmith, E.\rTuitele, C.\rTagarino, A.\rVaitautolu, S.\rVaoli, E.\rVargas-Angel, B.\rVroom, P. ",
+        "Book Title": "The State of Coral Reef Ecosystems of the United States and Pacific Freely Associated States: 2008. NOAA Technical Memorandum NOS NCCOS 73",
+        "Editor": "Waddell, J.E.\rClarke, A.M.  ",
+        "Pages": "307-352",
+        "Place Published": "Silver Spring, MD",
+        "Publisher": "NOAA/NCCOS Center for Coastal Monitoring and Assessment\u2019s Biogeography Team",
+        "Reviewer": "745d74fa-44f3-4eaa-83b7-feb3743b9046",
+        "Title": "Ch. 10: The state of coral reef ecosystems of American Samoa",
+        "URL": "http://ccma.nos.noaa.gov/ecosystems/coralreef/coral2008/pdf/CoralReport2008.pdf",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "1593",
+        "_uuid": "745d74fa-44f3-4eaa-83b7-feb3743b9046",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/noaa-techmemo-nos-nccos-73",
+    "href": "http://data.globalchange.gov/reference/745d74fa-44f3-4eaa-83b7-feb3743b9046.json",
+    "identifier": "745d74fa-44f3-4eaa-83b7-feb3743b9046",
+    "uri": "/reference/745d74fa-44f3-4eaa-83b7-feb3743b9046"
+}

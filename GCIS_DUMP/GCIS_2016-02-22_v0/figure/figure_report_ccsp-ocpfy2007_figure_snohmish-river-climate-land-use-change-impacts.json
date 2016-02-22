@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Snohomish River: Climate and Land-Use Change Impacts by Subbasin, Year 2050. This graphic provides the projected change in abundance of spawning Chinook salmon between 2000 and 2050 under two scenarios of future climate and three scenarios of future land use. The panels in column A are based on downscaled predictions of the GFDL_R30 climate model; column B is based on the HadCM3 climate model. Row 1 features current (2001) land use; row 2 features a scenario including a moderate amount of habitat restoration; and row 3 features a scenario in which the restoration plan for the basin is fully implemented. The number in the lower left corner of each panel indicates basin-wide total change in abundance. Credit: M.W. Wiley, University of Washington.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "14/86/b76142b32fba2e3606ec312109be/our_changing_planet_2007_72_20090708_1980203410.jpg",
+            "href": "http://data.globalchange.gov/assets/14/86/b76142b32fba2e3606ec312109be/our_changing_planet_2007_72_20090708_1980203410.jpg",
+            "identifier": "f22bd6b5-00d2-4316-8821-764e407c4738",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "52b1d8bad527998c08a08947e1b736b719aafd54",
+            "size": 79160,
+            "thumbnail": "14/86/b76142b32fba2e3606ec312109be/.thumb-f22bd6b5-00d2-4316-8821-764e407c4738.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/14/86/b76142b32fba2e3606ec312109be/.thumb-f22bd6b5-00d2-4316-8821-764e407c4738.png",
+            "uri": "/file/f22bd6b5-00d2-4316-8821-764e407c4738",
+            "url": "/assets/14/86/b76142b32fba2e3606ec312109be/our_changing_planet_2007_72_20090708_1980203410.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/snohmish-river-climate-land-use-change-impacts.json",
+    "identifier": "snohmish-river-climate-land-use-change-impacts",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Snohomish River: Climate and Land Use Change Impacts",
+    "uri": "/report/ccsp-ocpfy2007/figure/snohmish-river-climate-land-use-change-impacts",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

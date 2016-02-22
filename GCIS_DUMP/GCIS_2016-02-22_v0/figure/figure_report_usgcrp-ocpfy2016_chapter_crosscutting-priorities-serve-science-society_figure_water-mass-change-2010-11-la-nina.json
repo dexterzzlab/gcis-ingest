@@ -1,0 +1,80 @@
+{
+    "attributes": null,
+    "caption": "The 2010\u20132011 La Ni\u00f1a caused unusually high rainfall and flooding in some regions of the Southern Hemisphere, with major effects on ecosystems and thereby on the carbon cycle. This map shows the change in water mass over continents between the beginning of 2010 and mid-2011 (shades of blue indicate increases). (Source: Boening et al., 2012)",
+    "chapter": {
+        "doi": null,
+        "identifier": "crosscutting-priorities-serve-science-society",
+        "number": 3,
+        "report_identifier": "usgcrp-ocpfy2016",
+        "sort_key": 30,
+        "title": "Crosscutting Priorities to Serve Science and Society ",
+        "url": null
+    },
+    "chapter_identifier": "crosscutting-priorities-serve-science-society",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "7a/e6/a5bc4e71fd9aba38ff1c052ff70f/HL35_La-Nina-greening-noSL.pdf",
+            "href": "http://data.globalchange.gov/assets/7a/e6/a5bc4e71fd9aba38ff1c052ff70f/HL35_La-Nina-greening-noSL.pdf",
+            "identifier": "caaaab67-eeb5-4386-80d8-708e81362945",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "application/pdf",
+            "sha1": "795b50f4e24ef90e21ca0e006deef03fda8b4869",
+            "size": 4842971,
+            "thumbnail": "7a/e6/a5bc4e71fd9aba38ff1c052ff70f/.thumb-caaaab67-eeb5-4386-80d8-708e81362945.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/7a/e6/a5bc4e71fd9aba38ff1c052ff70f/.thumb-caaaab67-eeb5-4386-80d8-708e81362945.png",
+            "uri": "/file/caaaab67-eeb5-4386-80d8-708e81362945",
+            "url": "/assets/7a/e6/a5bc4e71fd9aba38ff1c052ff70f/HL35_La-Nina-greening-noSL.pdf"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2016/chapter/crosscutting-priorities-serve-science-society/figure/water-mass-change-2010-11-la-nina.json",
+    "identifier": "water-mass-change-2010-11-la-nina",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": null,
+            "description": null,
+            "identifier": "f5e87802-08dd-4908-927b-a9b3d99f16f9",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Satellite measurements of cropland greenness",
+            "url": null,
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 23,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "The 2011 La Ni\u00f1a: So strong, the oceans fell",
+            "note": "",
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1029/2012GL053055"
+        }
+    ],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2016",
+    "source_citation": "Boening, C., J.K. Willis, F.W. Landerer, R.S. Nerem, and J. Fasullo. 2012. The 2011 La Ni\u00f1a: So strong, the oceans fell. Geophysical Research Letters 39, L19602",
+    "submission_dt": "2012-10-04T00:00:00",
+    "time_end": null,
+    "time_start": null,
+    "title": "Water mass change during 2010-11 La Nina",
+    "uri": "/report/usgcrp-ocpfy2016/chapter/crosscutting-priorities-serve-science-society/figure/water-mass-change-2010-11-la-nina",
+    "url": "http://dx.doi.org/10.1029/2012GL053055",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

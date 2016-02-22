@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "3",
+        "Author": "Mader, T.L.",
+        "Conference Location": "Phoenix, AZ",
+        "Conference Name": "Western Section, American Society of Animal Science",
+        "Date": "July 15-19",
+        "Pages": "335-339",
+        "Title": "Impact of environmental stress on feedlot cattle",
+        "URL": "http://www.jtmtg.org/JAM/2012/abstracts/WSASAS_2012.pdf",
+        "Volume": "62",
+        "Year of Conference": "2012",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\",\"RF 8\"]",
+        "_record_number": "1843",
+        "_uuid": "e3041ff9-008c-411f-bbbd-98b8ecf612c6",
+        "reftype": "Conference Proceedings"
+    },
+    "child_publication": "/generic/99271945-99dd-44ca-9600-6073b95bb68e",
+    "href": "http://data.globalchange.gov/reference/e3041ff9-008c-411f-bbbd-98b8ecf612c6.json",
+    "identifier": "e3041ff9-008c-411f-bbbd-98b8ecf612c6",
+    "uri": "/reference/e3041ff9-008c-411f-bbbd-98b8ecf612c6"
+}

@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "32",
+        "Author": "Goidel, K.\rKenny, C.\rClimek, M.\rMeans, M.\rSwann, L.\rSempier, T.\rSchneider, M.",
+        "Pages": "36",
+        "Publisher": "National Oceanic and Atmospheric Administration, Texas Sea Grant, Louisiana Sea Grant, Florida Sea Grant, Mississippi-Alabama Sea Grant Consortium",
+        "Report Number": "MASGP-12-017",
+        "Title": "2012 Gulf Coast Climate Change Survey Executive Summary",
+        "URL": "http://www.southernclimate.org/documents/resources/Climate_change_perception_survey_summary_NOAA_Sea_Grant_2012.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"RG 10 Coasts\"]",
+        "_record_number": "24",
+        "_uuid": "21f975c5-1795-430a-a6e9-3d76ceb9ef62",
+        "reftype": "Government Document"
+    },
+    "child_publication": "/report/seagrant-gulfclimchsurvey-2012",
+    "href": "http://data.globalchange.gov/reference/21f975c5-1795-430a-a6e9-3d76ceb9ef62.json",
+    "identifier": "21f975c5-1795-430a-a6e9-3d76ceb9ef62",
+    "uri": "/reference/21f975c5-1795-430a-a6e9-3d76ceb9ef62"
+}

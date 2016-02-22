@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Patz, J.A.\rMcGeehin, M.A.\rBernard, S.M.\rEbi, K.L.\rEpstein, P.R.\rGrambsch, A.\rGubler, D.J.\rReither, P.\rRomieu, I.\rRose, J.B.\rSamet, J.M.\rTrtanj, J.",
+        "Issue": "4",
+        "Journal": "Environmental Health Perspectives",
+        "Pages": "367-376",
+        "Title": "The potential health impacts of climate variability and change for the United States: Executive summary of the report of the health sector of the U.S. National Assessment",
+        "URL": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1638004/pdf/envhper00305-0123.pdf",
+        "Volume": "108",
+        "Year": "2000",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "2442",
+        "_uuid": "f77ef996-fbed-4d64-887a-ee9525aa84a1",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/the-potential-health-impacts-of-climate-variability-and-change-for-the-united-states-executive-summary-of-the-report-of-the-health-sector-of-the-us-national-assessment",
+    "href": "http://data.globalchange.gov/reference/f77ef996-fbed-4d64-887a-ee9525aa84a1.json",
+    "identifier": "f77ef996-fbed-4d64-887a-ee9525aa84a1",
+    "uri": "/reference/f77ef996-fbed-4d64-887a-ee9525aa84a1"
+}

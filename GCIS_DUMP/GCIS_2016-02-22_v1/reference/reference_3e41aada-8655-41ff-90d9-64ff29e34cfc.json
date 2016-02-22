@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Date": "May 2013",
+        "Author": "UNAVCO",
+        "Title": "Plate Boundary Observatory (PBO)  GPS Data Products",
+        "URL": "http://pbo.unavco.org/data/gps",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "3836",
+        "_uuid": "3e41aada-8655-41ff-90d9-64ff29e34cfc",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/d0856b6c-60e4-4828-a774-26a698dab761",
+    "href": "http://data.globalchange.gov/reference/3e41aada-8655-41ff-90d9-64ff29e34cfc.json",
+    "identifier": "3e41aada-8655-41ff-90d9-64ff29e34cfc",
+    "uri": "/reference/3e41aada-8655-41ff-90d9-64ff29e34cfc"
+}

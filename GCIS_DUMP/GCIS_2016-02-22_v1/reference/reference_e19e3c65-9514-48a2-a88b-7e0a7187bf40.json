@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "Ecological Society of America",
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"italic\" start=\"36\" /><run start=\"52\" /><run face=\"italic\" start=\"81\" /><run start=\"95\" /></field></record>",
+        "Access Date": "2012/05/27",
+        "Author": "Orwig, David A.\rThompson, Jonathan R.\rPovak, Nicholas A.\rManner, Megan\rNiebyl, Donald\rFoster, David R.",
+        "DOI": "10.1890/es11-0277.1",
+        "Date": "2012/01/09",
+        "ISSN": "2150-8925",
+        "Issue": "1",
+        "Journal": "Ecosphere",
+        "Pages": "Article 10, 1-16",
+        "Title": "A foundation tree at the precipice: Tsuga canadensis health after the arrival of Adelges tsugae in central New England",
+        "Volume": "3",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "2371",
+        "_uuid": "e19e3c65-9514-48a2-a88b-7e0a7187bf40",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/es11-0277.1",
+    "href": "http://data.globalchange.gov/reference/e19e3c65-9514-48a2-a88b-7e0a7187bf40.json",
+    "identifier": "e19e3c65-9514-48a2-a88b-7e0a7187bf40",
+    "uri": "/reference/e19e3c65-9514-48a2-a88b-7e0a7187bf40"
+}

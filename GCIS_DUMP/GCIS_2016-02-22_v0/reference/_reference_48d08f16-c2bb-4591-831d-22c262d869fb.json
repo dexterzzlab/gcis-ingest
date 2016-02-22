@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Desch\u00eanes, O.\rGreenstone, M.",
+        "DOI": "10.1257/app.3.4.152",
+        "ISSN": "1945-7782",
+        "Issue": "4",
+        "Journal": "American Economic Journal: Applied Economics",
+        "Pages": "152-185",
+        "Title": "Climate change, mortality, and adaptation: Evidence from annual fluctuations in weather in the US",
+        "Volume": "3",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 4: Energy Supply and Use FINAL\"]",
+        "_record_number": "343",
+        "_uuid": "48d08f16-c2bb-4591-831d-22c262d869fb",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1257/app.3.4.152",
+    "href": "http://data.globalchange.gov/reference/48d08f16-c2bb-4591-831d-22c262d869fb.json",
+    "identifier": "48d08f16-c2bb-4591-831d-22c262d869fb",
+    "uri": "/reference/48d08f16-c2bb-4591-831d-22c262d869fb"
+}

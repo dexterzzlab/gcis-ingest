@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "A soil core from the Florida scrub experiment. Credit: B. Hungate, Northern Arizona University.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "97/a4/2977c0aa8cebe89d82ddf3d16165/Figure_17.png",
+            "href": "http://data.globalchange.gov/assets/97/a4/2977c0aa8cebe89d82ddf3d16165/Figure_17.png",
+            "identifier": "62c3a1e3-91e4-415f-9ed1-4ef8b691ea32",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "ad4cb844c8ffd98d32a08f1a77b65ed5b86737da",
+            "size": 588995,
+            "thumbnail": "97/a4/2977c0aa8cebe89d82ddf3d16165/.thumb-62c3a1e3-91e4-415f-9ed1-4ef8b691ea32.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/97/a4/2977c0aa8cebe89d82ddf3d16165/.thumb-62c3a1e3-91e4-415f-9ed1-4ef8b691ea32.png",
+            "uri": "/file/62c3a1e3-91e4-415f-9ed1-4ef8b691ea32",
+            "url": "/assets/97/a4/2977c0aa8cebe89d82ddf3d16165/Figure_17.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2009/figure/florida-scrub-experiment.json",
+    "identifier": "florida-scrub-experiment",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2009",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Florida Scrub Experiment",
+    "uri": "/report/usgcrp-ocpfy2009/figure/florida-scrub-experiment",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

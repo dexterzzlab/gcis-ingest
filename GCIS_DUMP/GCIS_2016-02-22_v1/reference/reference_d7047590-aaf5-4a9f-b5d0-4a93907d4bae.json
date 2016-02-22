@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "EIA,",
+        "Date": "April 2013",
+        "Institution": "U.S. Energy Information Administration",
+        "Pages": "244",
+        "Place Published": "Washington, D.C.",
+        "Title": "Annual Energy Outlook 2013 with Projections to 2040. DOE/EIA-0383(2013)",
+        "URL": "http://www.eia.gov/forecasts/aeo/pdf/0383(2013).pdf",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "4513",
+        "_uuid": "d7047590-aaf5-4a9f-b5d0-4a93907d4bae",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/aeo2013",
+    "href": "http://data.globalchange.gov/reference/d7047590-aaf5-4a9f-b5d0-4a93907d4bae.json",
+    "identifier": "d7047590-aaf5-4a9f-b5d0-4a93907d4bae",
+    "uri": "/reference/d7047590-aaf5-4a9f-b5d0-4a93907d4bae"
+}

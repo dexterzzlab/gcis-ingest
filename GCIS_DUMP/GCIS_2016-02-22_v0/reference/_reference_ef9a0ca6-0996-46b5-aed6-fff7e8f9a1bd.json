@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Merrifield, M.A.",
+        "DOI": "10.1175/2011JCLI3932.1",
+        "ISSN": "0894-8755",
+        "Issue": "15",
+        "Journal": "Journal of Climate",
+        "Pages": "4126-4138",
+        "Title": "A shift in western tropical Pacific sea level trends during the 1990s",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/2011JCLI3932.1",
+        "Volume": "24",
+        "Year": "2011",
+        "_chapter": "[\"RG 8 Hawaii\",\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "2003",
+        "_uuid": "ef9a0ca6-0996-46b5-aed6-fff7e8f9a1bd",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/2011JCLI3932.1",
+    "href": "http://data.globalchange.gov/reference/ef9a0ca6-0996-46b5-aed6-fff7e8f9a1bd.json",
+    "identifier": "ef9a0ca6-0996-46b5-aed6-fff7e8f9a1bd",
+    "uri": "/reference/ef9a0ca6-0996-46b5-aed6-fff7e8f9a1bd"
+}

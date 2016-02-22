@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "Springer Netherlands",
+        ".reference_type": "0",
+        "Alternate Journal": "Climatic Change",
+        "Author": "Wu, Shuang-Ye\rNajjar, Raymond\rSiewert, John",
+        "DOI": "10.1007/s10584-008-9522-x",
+        "Date": "2009/07/01",
+        "ISSN": "0165-0009",
+        "Issue": "1-2",
+        "Journal": "Climatic Change",
+        "Language": "English",
+        "Pages": "121-138",
+        "Title": "Potential impacts of sea-level rise on the Mid- and Upper-Atlantic Region of the United States",
+        "Volume": "95",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "3986",
+        "_uuid": "655b42de-11c6-496f-91b7-785afd449cd5",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-008-9522-x",
+    "href": "http://data.globalchange.gov/reference/655b42de-11c6-496f-91b7-785afd449cd5.json",
+    "identifier": "655b42de-11c6-496f-91b7-785afd449cd5",
+    "uri": "/reference/655b42de-11c6-496f-91b7-785afd449cd5"
+}

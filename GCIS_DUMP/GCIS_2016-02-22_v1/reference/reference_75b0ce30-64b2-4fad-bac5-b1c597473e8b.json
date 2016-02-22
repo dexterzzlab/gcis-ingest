@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Allen, G.R.",
+        "DOI": "10.1002/aqc.880",
+        "ISSN": "1099-0755",
+        "Issue": "5",
+        "Journal": "Aquatic Conservation: Marine and Freshwater Ecosystems",
+        "Pages": "541-556",
+        "Title": "Conservation hotspots of biodiversity and endemism for Indo-Pacific coral reef fishes",
+        "Volume": "18",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "450",
+        "_uuid": "75b0ce30-64b2-4fad-bac5-b1c597473e8b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/aqc.880",
+    "href": "http://data.globalchange.gov/reference/75b0ce30-64b2-4fad-bac5-b1c597473e8b.json",
+    "identifier": "75b0ce30-64b2-4fad-bac5-b1c597473e8b",
+    "uri": "/reference/75b0ce30-64b2-4fad-bac5-b1c597473e8b"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Curry, J.",
+        "DOI": "10.1002/wcc/141",
+        "ISSN": "1757-7799",
+        "Issue": "6",
+        "Journal": "Wiley Interdisciplinary Reviews: Climate Change",
+        "Pages": "919-924",
+        "Title": "Nullifying the climate null hypothesis",
+        "Volume": "2",
+        "Year": "2011",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "1192",
+        "_uuid": "2b13e0de-22ca-45e6-ba75-4469333791f8",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/wcc.141",
+    "href": "http://data.globalchange.gov/reference/2b13e0de-22ca-45e6-ba75-4469333791f8.json",
+    "identifier": "2b13e0de-22ca-45e6-ba75-4469333791f8",
+    "uri": "/reference/2b13e0de-22ca-45e6-ba75-4469333791f8"
+}

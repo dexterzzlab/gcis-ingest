@@ -1,0 +1,118 @@
+{
+    "attributes": null,
+    "caption": "The region has a distinct north-south gradient in average temperature patterns (left), with a hotter south and colder north. For precipitation (right), the regional gradient runs west-east, with a wetter east and a much drier west. Averages shown here are for the period 1981-2010. (Figure source: adapted from Kunkel et al. 2013<tbib>994416dc-705b-4063-b8f5-bd3ed21d4a71</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0D798BC",
+        "identifier": "great-plains",
+        "number": 19,
+        "report_identifier": "nca3",
+        "sort_key": 190,
+        "title": "Great Plains",
+        "url": "http://nca2014.globalchange.gov/report/regions/great-plains"
+    },
+    "chapter_identifier": "great-plains",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2527.json",
+            "id": 2527,
+            "organization": {
+                "country_code": "US",
+                "identifier": "noaa-national-climatic-data-center",
+                "name": "National Oceanic and Atmospheric Administration National Climatic Data Center",
+                "organization_type_identifier": "federal",
+                "url": "http://www.ncdc.noaa.gov"
+            },
+            "organization_uri": "/organization/noaa-national-climatic-data-center",
+            "person": {
+                "first_name": "Mike",
+                "id": 1464,
+                "last_name": "Squires",
+                "middle_name": null,
+                "orcid": null,
+                "url": "https://www.ncdc.noaa.gov/news/ncdc-insider-meet-meteorologist-mike-squires"
+            },
+            "person_id": 1464,
+            "person_uri": "/person/1464",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2527"
+        }
+    ],
+    "create_dt": "2013-11-14T13:24:44",
+    "files": [
+        {
+            "file": "a8/54/646c598b4931ac089be72eb11435/GP_temp_and_precip_distribution_V2.png",
+            "href": "http://data.globalchange.gov/assets/a8/54/646c598b4931ac089be72eb11435/GP_temp_and_precip_distribution_V2.png",
+            "identifier": "5210c9ff-8ef1-40d8-a832-9898e6c3fc91",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "816ad2dd5df4c31e9390204e5ffa5e7f2d90f3d6",
+            "size": 91965,
+            "thumbnail": "a8/54/646c598b4931ac089be72eb11435/.thumb-5210c9ff-8ef1-40d8-a832-9898e6c3fc91.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/a8/54/646c598b4931ac089be72eb11435/.thumb-5210c9ff-8ef1-40d8-a832-9898e6c3fc91.png",
+            "uri": "/file/5210c9ff-8ef1-40d8-a832-9898e6c3fc91",
+            "url": "/assets/a8/54/646c598b4931ac089be72eb11435/GP_temp_and_precip_distribution_V2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/great-plains/figure/temperature-and-precipitation-distribution-in-the-great-plains.json",
+    "identifier": "temperature-and-precipitation-distribution-in-the-great-plains",
+    "images": [
+        {
+            "attributes": "Mean temperature, mean precipitation, 1981-2010 Climate Division Normals",
+            "create_dt": "2013-01-15T10:59:00",
+            "description": null,
+            "identifier": "a92a35a8-4bf1-4291-bcbb-2e00a5458141",
+            "lat_max": "50.427244",
+            "lat_min": "24.796052",
+            "lon_max": "-92.570835",
+            "lon_min": "-117.126361",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2010-12-31T23:59:59",
+            "time_start": "1981-01-01T00:00:00",
+            "title": "Temperature and Precipitation Distribution in the Great Plains - Temp",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": "Mean temperature, mean precipitation, 1981-2010 Climate Division Normals",
+            "create_dt": "2013-01-15T11:32:00",
+            "description": null,
+            "identifier": "36c13a53-2f3b-4924-ac7c-8e6cb02e4d34",
+            "lat_max": "50.427244",
+            "lat_min": "24.796052",
+            "lon_max": "-92.570835",
+            "lon_min": "-117.126361",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2010-12-31T23:59:59",
+            "time_start": "1981-01-01T00:00:00",
+            "title": "Temperature and Precipitation Distribution in the Great Plains - Precip",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 1,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/994416dc-705b-4063-b8f5-bd3ed21d4a71.json",
+            "uri": "/reference/994416dc-705b-4063-b8f5-bd3ed21d4a71"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "adapted from Kunkel et al. 2013<tbib>994416dc-705b-4063-b8f5-bd3ed21d4a71</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Temperature and Precipitation Distribution in the Great Plains",
+    "uri": "/report/nca3/chapter/great-plains/figure/temperature-and-precipitation-distribution-in-the-great-plains",
+    "url": "http://nca2014.globalchange.gov/report/regions/great-plains/graphics/temperature-and-precipitation-distribution-great-plains",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "CEPA,",
+        "Date": "December 2010",
+        "Institution": "California Environmental Protection Agency, Office of Environmental Health Hazard Assessment ",
+        "Pages": "69",
+        "Title": "Cumulative Impacts: Building a Scientific Foundation",
+        "URL": "http://oehha.ca.gov/ej/pdf/CIReport123110.pdf",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "4233",
+        "_uuid": "3bfe5e02-c95c-4c1c-9e1f-640a342bd0f2",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/oehha-cumimpacts-2010",
+    "href": "http://data.globalchange.gov/reference/3bfe5e02-c95c-4c1c-9e1f-640a342bd0f2.json",
+    "identifier": "3bfe5e02-c95c-4c1c-9e1f-640a342bd0f2",
+    "uri": "/reference/3bfe5e02-c95c-4c1c-9e1f-640a342bd0f2"
+}

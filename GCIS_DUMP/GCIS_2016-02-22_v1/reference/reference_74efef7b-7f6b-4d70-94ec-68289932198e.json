@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Leadley, P.\rH.M. Pereira\rR. Alkemade\rJ.F. Fernandez-Manjarres\rV. Proenca\rJ.P.W. Scharlemann",
+        "Number of Pages": "132",
+        "Publisher": "Secretariat of the Convention on Biological Diversity, Montreal, Technical Series no. 50",
+        "Reviewer": "74efef7b-7f6b-4d70-94ec-68289932198e",
+        "Title": "Biodiversity Scenarios: Projections of 21st Century Change in Biodiversity and Associated Ecosystem Services. A Technical Report for the Global Biodiversity Outlook 3",
+        "URL": "http://www.cbd.int/doc/publications/cbd-ts-50-en.pdf",
+        "Volume": "2010",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "22",
+        "_uuid": "74efef7b-7f6b-4d70-94ec-68289932198e",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/cbd-technical-series-50",
+    "href": "http://data.globalchange.gov/reference/74efef7b-7f6b-4d70-94ec-68289932198e.json",
+    "identifier": "74efef7b-7f6b-4d70-94ec-68289932198e",
+    "uri": "/reference/74efef7b-7f6b-4d70-94ec-68289932198e"
+}

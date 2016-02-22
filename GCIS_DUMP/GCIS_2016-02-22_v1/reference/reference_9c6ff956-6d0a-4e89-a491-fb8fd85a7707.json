@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Berkes, F.",
+        "DOI": "10.007/s11069-006-9036-7",
+        "ISSN": "0921-030X",
+        "Issue": "2",
+        "Journal": "Natural Hazards",
+        "Pages": "283-295",
+        "Title": "Understanding uncertainty and reducing vulnerability: Lessons from resilience thinking",
+        "Volume": "41",
+        "Year": "2007",
+        "_chapter": "[\"RG 9 Rural\",\"Ch. 14: Rural Communities FINAL\"]",
+        "_record_number": "1728",
+        "_uuid": "9c6ff956-6d0a-4e89-a491-fb8fd85a7707",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s11069-006-9036-7",
+    "href": "http://data.globalchange.gov/reference/9c6ff956-6d0a-4e89-a491-fb8fd85a7707.json",
+    "identifier": "9c6ff956-6d0a-4e89-a491-fb8fd85a7707",
+    "uri": "/reference/9c6ff956-6d0a-4e89-a491-fb8fd85a7707"
+}

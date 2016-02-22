@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Favis-Mortlock, D.T.\rGuerra, A.J.T.",
+        "DOI": "10.1016/S0341-8162(99)00025-9",
+        "ISSN": "0341-8162",
+        "Issue": "3-4",
+        "Journal": "Catena",
+        "Pages": "329-354",
+        "Title": "The implications of general circulation model estimates of rainfall for future erosion: A case study from Brazil",
+        "Volume": "37",
+        "Year": "1999",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "929",
+        "_uuid": "882c354b-b99a-4cc2-b43b-50486549758e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/S0341-8162(99)00025-9",
+    "href": "http://data.globalchange.gov/reference/882c354b-b99a-4cc2-b43b-50486549758e.json",
+    "identifier": "882c354b-b99a-4cc2-b43b-50486549758e",
+    "uri": "/reference/882c354b-b99a-4cc2-b43b-50486549758e"
+}

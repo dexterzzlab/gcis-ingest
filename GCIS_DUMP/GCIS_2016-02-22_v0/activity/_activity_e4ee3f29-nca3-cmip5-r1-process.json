@@ -1,0 +1,15 @@
+{
+    "computing_environment": "Linux (Red Hat Enterprise Linux Server release 6.4)",
+    "data_usage": "Multi-model mean CMIP5 (RCP 6.0 scenario) temperature projections were plotted for the United States, for 2071-2099 relative to 1970-1999.",
+    "duration": "100 hours",
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/e4ee3f29-nca3-cmip5-r1-process.json",
+    "identifier": "e4ee3f29-nca3-cmip5-r1-process",
+    "methodology": "1. For each model at each grid point, the mean annual temperature under the RCP 6.0 scenario was calculated.\r\n2. For each model, these data were re-gridded to a common grid.\r\n3. For each model at each grid point, the mean temperature under the RCP 6.0 scenario was calculated for two periods: 1970-1999 and 2071-2099.\r\n4. At each grid point, the mean temperature for the two periods was computed by averaging the following models:\r\nbcc-csm1-1, bcc-csm1-1-m, CCSM4, CESM1-CAM5, CSIRO-Mk3-6-0, FGOALS-s2, FIO-ESM, GFDL-CM3, GFDL-ESM2G, GFDL-ESM2M, GISS-E2-H, GISS-E2-R, HadGEM2-A0, HadGEM2-ES, IPSL-CM5A-LR, IPSL-CM5A-MR, MIROC5, MIROC-ESM, MIROC-ESM-CHEM, MRI-CGCM3, NorESM1-ME, and NorESM1-M.\r\n5. At each grid point, the difference in projected temperature was calculated for 2071-2099 minus 1970-1999.\r\n6. Data were plotted for grid points in the United States.",
+    "notes": "Python",
+    "output_artifacts": "tas_rcp60_1970-1999_2071-2099_change.nc\r\ntemp_scenarios_annual.eps\r\ntemp_scenarios_annual_new_colors_darker.eps\r\ntemp_scenarios_annual_new_colors_darker.png\r\ntemp_scenarios_HI_annual.eps\r\ntemp_scenarios_HI_annual_new_colors_darker.eps\r\ntemp_scenarios_HI_annual_new_colors_darker.png\r\nconfig.py\r\nplot_annual_temp_maps.py\r\n2-9_c.png\r\nCS_projected temperature change_RCPs_V9.png",
+    "software": "Python (v2.7.6)",
+    "start_time": null,
+    "uri": "/activity/e4ee3f29-nca3-cmip5-r1-process",
+    "visualization_software": "Python (v2.7.6), Matplotlib (v1.3.1), Basemap (v1.0.7)"
+}

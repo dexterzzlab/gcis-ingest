@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Aerts, J.C.J.H.\rBotzen, W.J.W.",
+        "DOI": "10.1038/nclimate1487",
+        "ISSN": "1758-678X",
+        "Issue": "6",
+        "Journal": "Nature Climate Change",
+        "Pages": "377-377",
+        "Title": "Managing exposure to flooding in New York City",
+        "Volume": "2",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "1082",
+        "_uuid": "fc366ced-fcf5-41de-9bd3-cc09c1d33ab6",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/nclimate1487",
+    "href": "http://data.globalchange.gov/reference/fc366ced-fcf5-41de-9bd3-cc09c1d33ab6.json",
+    "identifier": "fc366ced-fcf5-41de-9bd3-cc09c1d33ab6",
+    "uri": "/reference/fc366ced-fcf5-41de-9bd3-cc09c1d33ab6"
+}

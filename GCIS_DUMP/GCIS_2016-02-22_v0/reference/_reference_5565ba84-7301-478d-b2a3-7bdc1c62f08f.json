@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Fossil fuel emissions aside, temperate North America is a net sink of carbon dioxide at present1, 2, 3. Year-to-year variations in this carbon sink are linked to variations in hydroclimate that affect net ecosystem productivity3, 4. The severity and incidence of climatic extremes, including drought, have increased as a result of climate warming5, 6, 7, 8. Here, we examine the effect of the turn of the century drought in western North America on carbon uptake in the region, using reanalysis data, remote sensing observations and data from global monitoring networks. We show that the area-integrated strength of the western North American carbon sink declined by 30\u2013298\u2009Tg C\u2009 yr\u22121 during the 2000\u20132004 drought. We further document a pronounced drying of the terrestrial biosphere during this period, together with a reduction in river discharge and a loss of cropland productivity. We compare our findings with previous palaeoclimate reconstructions7 and show that the last drought of this magnitude occurred more than 800 years ago. Based on projected changes in precipitation and drought severity, we estimate that the present mid-latitude carbon sink of 177\u2013623 Tg C yr\u22121 in western North America could disappear by the end of the century.",
+        "Author": "Schwalm, C.R.\rWilliams, C.A.\rSchaefer, K.\rBaldocchi, D.\rBlack, T.A.\rGoldstein, A.H.\rLaw, B.E.\rOechel, W.C.\rPaw, K.T.\rScott, R.L.",
+        "DOI": "10.1038/ngeo1529",
+        "ISSN": "1752-0894",
+        "Issue": "8",
+        "Journal": "Nature Geoscience",
+        "Keywords": "Biogeochemistry ; Climate science ; Hydrology, hydrogeology and limnology ",
+        "Pages": "551-556",
+        "Title": "Reduction in carbon uptake during turn of the century drought in western North America",
+        "URL": "http://ir.library.oregonstate.edu/xmlui/bitstream/handle/1957/33148/LawBeverlyForestryReductionCarbonUptake.pdf?sequence=1",
+        "Volume": "5",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 13: Land Use and Land Cover Change FINAL\",\"Ch. 2: Our Changing Climate FINAL\",\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "2792",
+        "_uuid": "5565ba84-7301-478d-b2a3-7bdc1c62f08f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/ngeo1529",
+    "href": "http://data.globalchange.gov/reference/5565ba84-7301-478d-b2a3-7bdc1c62f08f.json",
+    "identifier": "5565ba84-7301-478d-b2a3-7bdc1c62f08f",
+    "uri": "/reference/5565ba84-7301-478d-b2a3-7bdc1c62f08f"
+}

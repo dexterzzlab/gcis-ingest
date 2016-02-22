@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Current state-of-the-art models under-predict the rapid formation of large amounts of SOA. Here, data are shown from Mexico City on 9 April 2003. Solid dots indicate observations and shaded areas indicate the predicted SOA- mass concentration attributed to classes of anthropogenic volatile organic compounds, such as aromatics (red), alkenes (green), and alkanes (black). Credit: R. Volkamer, University of California, San Diego; J.L. Jimenez, University of Colorado; F. San Martini, National Academy of Sciences; K. Dzepina, University of Colorado; Q. Zhang, SUNY Albany; D. Salcedo, Universidad Aut\u00f3noma del Estado de Morelos, Cuernavaca, Mexico; L.T. Molina, University of California, San Diego; D.R. Worsnop, Aerodyne Research; and M.J. Molina, University of California, San Diego (redrawn from Geophysical Research Letters with permission from the American Geophysical Union).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "8e/80/6e5ad50788d2e8965c1b9f66b4ac/our_changing_planet_2008_31_20090708_1903996806.jpg",
+            "href": "http://data.globalchange.gov/assets/8e/80/6e5ad50788d2e8965c1b9f66b4ac/our_changing_planet_2008_31_20090708_1903996806.jpg",
+            "identifier": "e780ba0d-a8a8-4475-966c-eb2f69be2cf9",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "e6e192b56afe7879a951cbc558cf569ba5f2c80f",
+            "size": 174563,
+            "thumbnail": "8e/80/6e5ad50788d2e8965c1b9f66b4ac/.thumb-e780ba0d-a8a8-4475-966c-eb2f69be2cf9.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/8e/80/6e5ad50788d2e8965c1b9f66b4ac/.thumb-e780ba0d-a8a8-4475-966c-eb2f69be2cf9.png",
+            "uri": "/file/e780ba0d-a8a8-4475-966c-eb2f69be2cf9",
+            "url": "/assets/8e/80/6e5ad50788d2e8965c1b9f66b4ac/our_changing_planet_2008_31_20090708_1903996806.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2008/figure/secondary-organic-aerosol-formation-mexico-city.json",
+    "identifier": "secondary-organic-aerosol-formation-mexico-city",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2008",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Secondary Organic Aerosol (SOA) Formation in Mexico City ",
+    "uri": "/report/ccsp-ocpfy2008/figure/secondary-organic-aerosol-formation-mexico-city",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"2\" /><run start=\"3\" /></field></record>",
+        "Author": "Morgan, Jack\rMosier, Arvin\rMilchunas, D\rLecain, Daniel\rNelson, Jim\rParton, W",
+        "DOI": "10.1890/02-5213",
+        "Journal": "Ecological Applications",
+        "Pages": "208-219",
+        "Title": "CO2 enhances productivity of the Shortgrass Steppe, alters species composition and reduces forage digestibility",
+        "Volume": "14",
+        "Year": "2004",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "3949",
+        "_uuid": "3aec509d-245f-4205-892a-49765e693ae7",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/02-5213",
+    "href": "http://data.globalchange.gov/reference/3aec509d-245f-4205-892a-49765e693ae7.json",
+    "identifier": "3aec509d-245f-4205-892a-49765e693ae7",
+    "uri": "/reference/3aec509d-245f-4205-892a-49765e693ae7"
+}

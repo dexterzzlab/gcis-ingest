@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "Reduced June flows in many Northwest snow-fed rivers is a signature of warming in basins that\r\n    have a significant snowmelt contribution. The fraction of annual flow occurring in June increased slightly in rain-dominated\r\n    coastal basins and decreased in mixed rain-snow basins and snowmelt-dominated basins over the period 1948 to\r\n    2008.<tbib>cc98a8b5-74b3-4df2-8961-7799768da2ed</tbib> The high flow period is in June for most\r\n    Northwest river basins; decreases in summer flows can make it more difficult to meet a variety of competing human and natural\r\n    demands for water. (Figure source: adapted from Fritze et al.\r\n    2011<tbib>cc98a8b5-74b3-4df2-8961-7799768da2ed</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J04Q7RWX",
+        "identifier": "northwest",
+        "number": 21,
+        "report_identifier": "nca3",
+        "sort_key": 210,
+        "title": "Northwest",
+        "url": "http://nca2014.globalchange.gov/report/regions/northwest"
+    },
+    "chapter_identifier": "northwest",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2012-10-28T13:20:00",
+    "files": [
+        {
+            "file": "26/24/047d83f2cdec88c11010a2396ed0/NW_streamflow_timing_V1.png",
+            "href": "http://data.globalchange.gov/assets/26/24/047d83f2cdec88c11010a2396ed0/NW_streamflow_timing_V1.png",
+            "identifier": "7ea9bcf5-3879-44df-b7bd-bf6f020a221f",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "96261f565172d68642a6b2e71d2945aca04f511b",
+            "size": 179315,
+            "thumbnail": "26/24/047d83f2cdec88c11010a2396ed0/.thumb-7ea9bcf5-3879-44df-b7bd-bf6f020a221f.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/26/24/047d83f2cdec88c11010a2396ed0/.thumb-7ea9bcf5-3879-44df-b7bd-bf6f020a221f.png",
+            "uri": "/file/7ea9bcf5-3879-44df-b7bd-bf6f020a221f",
+            "url": "/assets/26/24/047d83f2cdec88c11010a2396ed0/NW_streamflow_timing_V1.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/northwest/figure/observed-shifts-in-streamflow-timing.json",
+    "identifier": "observed-shifts-in-streamflow-timing",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2012-10-28T13:20:00",
+            "description": null,
+            "identifier": "a2309e3e-0e0f-49c7-acf1-f6f4034571f1",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Observed Shifts in Streamflow Timing",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 1,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Shifts in Western North American Snowmelt Runoff Regimes for the Recent Warm Decades",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1175/2011JHM1360.1"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/cc98a8b5-74b3-4df2-8961-7799768da2ed.json",
+            "uri": "/reference/cc98a8b5-74b3-4df2-8961-7799768da2ed"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "adapted from Fritze et al. 2011<tbib>cc98a8b5-74b3-4df2-8961-7799768da2ed</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Observed Shifts in Streamflow Timing",
+    "uri": "/report/nca3/chapter/northwest/figure/observed-shifts-in-streamflow-timing",
+    "url": "http://nca2014.globalchange.gov/report/regions/northwest/graphics/observed-shifts-streamflow-timing",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

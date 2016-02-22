@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Accession Number": "WOS:000226272500004",
+        "Author": "Stern, D. I.",
+        "DOI": "10.1016/j.chemosphere.2004.08.022",
+        "Date": "Jan",
+        "ISSN": "0045-6535",
+        "Issue": "2",
+        "Journal": "Chemosphere",
+        "Pages": "163-175",
+        "Title": "Global sulfur emissions from 1850 to 2000",
+        "Volume": "58",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "2948",
+        "_uuid": "0bd97f74-cac6-4954-9fc6-671521aadc52",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.chemosphere.2004.08.022",
+    "href": "http://data.globalchange.gov/reference/0bd97f74-cac6-4954-9fc6-671521aadc52.json",
+    "identifier": "0bd97f74-cac6-4954-9fc6-671521aadc52",
+    "uri": "/reference/0bd97f74-cac6-4954-9fc6-671521aadc52"
+}

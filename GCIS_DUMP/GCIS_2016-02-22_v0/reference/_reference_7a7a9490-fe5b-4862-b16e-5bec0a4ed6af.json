@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Crowell, Mark\rJonathan Westcott\rSusan Phelps\rTucker Mahoney\rKevin Coulton\rDoug Bellomo",
+        "Book Title": "Coastal Hazards",
+        "DOI": "10.1007/978-94-007-5234-4",
+        "Editor": "Charles W. Finkl",
+        "ISBN": "978-94-007-5233-7",
+        "Pages": "151-183",
+        "Publisher": "Springer",
+        "Reviewer": "7a7a9490-fe5b-4862-b16e-5bec0a4ed6af",
+        "Title": "Estimating the United States population at risk from coastal flood-related hazards",
+        "URL": "http://link.springer.com/content/pdf/bfm%3A978-94-007-5234-4%2F1.pdf",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "3767",
+        "_uuid": "7a7a9490-fe5b-4862-b16e-5bec0a4ed6af",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/e1dbe6c7-fa17-4b0a-b958-fdad61bf4d54",
+    "href": "http://data.globalchange.gov/reference/7a7a9490-fe5b-4862-b16e-5bec0a4ed6af.json",
+    "identifier": "7a7a9490-fe5b-4862-b16e-5bec0a4ed6af",
+    "uri": "/reference/7a7a9490-fe5b-4862-b16e-5bec0a4ed6af"
+}

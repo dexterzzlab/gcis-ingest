@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2012-12-07T16:30:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Projected percentages in each land-cover\r\n    category for 2050 compared with 2010, assuming demographic and\r\n    economic growth consistent with the high-growth emissions\r\n    scenario (A2) (Data from USDA).",
+            "chapter_identifier": "land-use-land-cover-change",
+            "create_dt": "2012-12-07T16:30:00",
+            "identifier": "projected-land-covers-20102050",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 3,
+            "report_identifier": "nca3",
+            "source_citation": "USDA",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Projected Land Covers (2010-2050)",
+            "url": "http://nca2014.globalchange.gov/report/sectors/land-use-and-land-cover-change/graphics/projected-land-covers-2010-2050",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "eb/a9/b22b6f399ea69e22539be7adb15c/13.3-ne.png",
+            "href": "http://data.globalchange.gov/assets/eb/a9/b22b6f399ea69e22539be7adb15c/13.3-ne.png",
+            "identifier": "a09bf4cb-45d9-4ef7-98d4-c1bde019cbd7",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "309f2a940ba7704b1f1cfe5a0b8553ff3dda38b6",
+            "size": 10721,
+            "thumbnail": "eb/a9/b22b6f399ea69e22539be7adb15c/.thumb-a09bf4cb-45d9-4ef7-98d4-c1bde019cbd7.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/eb/a9/b22b6f399ea69e22539be7adb15c/.thumb-a09bf4cb-45d9-4ef7-98d4-c1bde019cbd7.png",
+            "uri": "/file/a09bf4cb-45d9-4ef7-98d4-c1bde019cbd7",
+            "url": "/assets/eb/a9/b22b6f399ea69e22539be7adb15c/13.3-ne.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/e25d02b9-3f9e-45f3-a563-d92f1aae0347.json",
+    "identifier": "e25d02b9-3f9e-45f3-a563-d92f1aae0347",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2050-12-31T23:59:59",
+    "time_start": "2010-01-01T00:00:00",
+    "title": "Projected Land Covers (2010-2050) - Northeast",
+    "uri": "/image/e25d02b9-3f9e-45f3-a563-d92f1aae0347",
+    "url": null,
+    "usage_limits": null
+}

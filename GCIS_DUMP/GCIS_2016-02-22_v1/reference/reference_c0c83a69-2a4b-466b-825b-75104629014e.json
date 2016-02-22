@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Jungclaus, J.H.\rLorenz, S.J.\rTimmreck, C.\rReick, C.H.\rBrovkin, V.\rSix, K.\rSegschneider, J.\rGiorgetta, M.A.\rCrowley, T.J.\rPongratz, J.\rKrivova, N. A.\rVieira, L. E.\rSolanki, S. K.\rKlocke, D.\rBotzet, M.\rEsch, M.\rGayler, V.\rHaak, H.\rRaddatz, T. J.\rRoeckner, E.\rSchnur, R.\rWidmann, H.\rClaussen, M.\rStevens, B.\rMarotzke, J.",
+        "DOI": "10.5194/cp-6-723-2010",
+        "ISSN": "1814-9324",
+        "Issue": "5",
+        "Journal": "Climate of the Past",
+        "Pages": "723-737",
+        "Title": "Climate and carbon-cycle variability over the last millennium",
+        "URL": "http://www.clim-past-discuss.net/6/1009/2010/cpd-6-1009-2010.pdf",
+        "Volume": "6",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\"]",
+        "_record_number": "253",
+        "_uuid": "c0c83a69-2a4b-466b-825b-75104629014e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.5194/cp-6-723-2010",
+    "href": "http://data.globalchange.gov/reference/c0c83a69-2a4b-466b-825b-75104629014e.json",
+    "identifier": "c0c83a69-2a4b-466b-825b-75104629014e",
+    "uri": "/reference/c0c83a69-2a4b-466b-825b-75104629014e"
+}

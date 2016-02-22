@@ -1,0 +1,28 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Alternate Journal": "Environ Sci Technol",
+        "Author": "Haaland, S.\rHongve, D.\rLaudon, H.\rRiise, G.\rVogt, R. D.",
+        "Author Address": "Haaland, S; Norwegian Inst Agr & Environm Res, Fr A Dahls Vei 20, NO-1432 As, Norway; Norwegian Inst Agr & Environm Res, Fr A Dahls Vei 20, NO-1432 As, Norway; Norwegian Inst Agr & Environm Res, NO-1432 As, Norway; Norwegian Inst Publ Hlth, NO-0403 Oslo, Norway; Swedish Univ Agr Sci, Dept Forest Ecol & Management, SLU, SE-90183 Umea, Sweden; Norwegian Univ Life Sci, Dept Plant & Environm Sci, NO-1432 As, Norway; Univ Oslo, Dept Chem, NO-0315 Oslo, Norway",
+        "DOI": "10.1021/Es903179j",
+        "Date": "Apr 15",
+        "ISSN": "0013-936X",
+        "Issue": "8",
+        "Journal": "Environmental Science & Technology",
+        "Keywords": "acid deposition; northern sweden; southern norway; climate-change; carbon; lakes; chemistry; export; soils; precipitation",
+        "Label": "IN",
+        "Language": "English",
+        "Pages": "2975-2980",
+        "Title": "Quantifying the drivers of the increasing colored organic matter in boreal surface waters",
+        "Volume": "44",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "1358",
+        "_uuid": "49b7c1e5-50d2-4b34-8237-86c97c3ae5e0",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1021/Es903179j",
+    "href": "http://data.globalchange.gov/reference/49b7c1e5-50d2-4b34-8237-86c97c3ae5e0.json",
+    "identifier": "49b7c1e5-50d2-4b34-8237-86c97c3ae5e0",
+    "uri": "/reference/49b7c1e5-50d2-4b34-8237-86c97c3ae5e0"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Backer, L.C.\rMcNeel, S.V.\rBarber, T.\rKirkpatrick, B.\rWilliams, C.\rIrvin, M.\rZhou, Y.\rJohnson, T.B.\rNierenberg, K.\rAubel, M.\rLe Prell, R.\rChapman, A. \rFoss, A.\rCorum, S.\rHill, V.R.\rKiezak, S.M.\rCheng, Y.-S.",
+        "DOI": "10.1016/j.toxicon.2009.07.006",
+        "ISSN": "0041-0101",
+        "Issue": "5",
+        "Journal": "Toxicon",
+        "Pages": "909-921",
+        "Title": "Recreational exposure to microcystins during algal blooms in two California lakes",
+        "Volume": "55",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "1397",
+        "_uuid": "c41878da-d01e-4bfc-a839-484d89334c7a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.toxicon.2009.07.006",
+    "href": "http://data.globalchange.gov/reference/c41878da-d01e-4bfc-a839-484d89334c7a.json",
+    "identifier": "c41878da-d01e-4bfc-a839-484d89334c7a",
+    "uri": "/reference/c41878da-d01e-4bfc-a839-484d89334c7a"
+}

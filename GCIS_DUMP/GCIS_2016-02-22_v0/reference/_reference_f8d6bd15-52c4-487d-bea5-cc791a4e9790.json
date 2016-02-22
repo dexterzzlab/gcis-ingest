@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "USDA,",
+        "Institution": "U.S. Department of Agriculture",
+        "Pages": "739",
+        "Place Published": "Washington, D.C.",
+        "Title": "United States Summary and State Data. In 2007 Census of Agriculture, Vol. 1, Geographic Area Series, Part 51. AC-07-A-51.",
+        "URL": "http://www.agcensus.usda.gov/Publications/2007/Full_Report/usv1.pdf",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "4011",
+        "_uuid": "f8d6bd15-52c4-487d-bea5-cc791a4e9790",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/nass-geographicareaseries-51-ac-07-a-51",
+    "href": "http://data.globalchange.gov/reference/f8d6bd15-52c4-487d-bea5-cc791a4e9790.json",
+    "identifier": "f8d6bd15-52c4-487d-bea5-cc791a4e9790",
+    "uri": "/reference/f8d6bd15-52c4-487d-bea5-cc791a4e9790"
+}

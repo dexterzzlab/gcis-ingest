@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-10-24T13:25:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Census data show that American Indian and Alaska Native populations are concentrated around, but are not limited to, reservation lands like the Hopi and Navajo in Arizona and New Mexico, the Choctaw, Chickasaw, and Cherokee in Oklahoma, and various Sioux tribes in the Dakotas and Montana. Not depicted in this graphic is the proportion of Native Americans who live off-reservation and in and around urban centers (such as Chicago, Minneapolis, Denver, Albuquerque, and Los Angeles) yet still maintain strong family ties to their tribes, tribal lands, and cultural resources. (Figure source: Norris et al. 2012<tbib>01f614e1-f014-44fa-95ba-82421990ec9b</tbib>).",
+            "chapter_identifier": "tribal-indigenous-native-lands-resources",
+            "create_dt": "2013-10-24T13:25:00",
+            "identifier": "indigenous-populations-extend-beyond-reservation-lands",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 1,
+            "report_identifier": "nca3",
+            "source_citation": "Norris et al. 2012<tbib>01f614e1-f014-44fa-95ba-82421990ec9b</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Indigenous Populations Extend beyond Reservation Lands",
+            "url": "http://nca2014.globalchange.gov/report/sectors/indigenous-peoples/graphics/indigenous-populations-extend-beyond-reservation-lands",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "af/d1/f21f5f6071fab32e37398238bbf3/tribal_tribal_population_v2.png",
+            "href": "http://data.globalchange.gov/assets/af/d1/f21f5f6071fab32e37398238bbf3/tribal_tribal_population_v2.png",
+            "identifier": "e896c786-88de-4714-84f0-5be9bfcdf365",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "7410d0efe0e12dd1248547ff9d18b761e3e06926",
+            "size": 430548,
+            "thumbnail": "af/d1/f21f5f6071fab32e37398238bbf3/.thumb-e896c786-88de-4714-84f0-5be9bfcdf365.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/af/d1/f21f5f6071fab32e37398238bbf3/.thumb-e896c786-88de-4714-84f0-5be9bfcdf365.png",
+            "uri": "/file/e896c786-88de-4714-84f0-5be9bfcdf365",
+            "url": "/assets/af/d1/f21f5f6071fab32e37398238bbf3/tribal_tribal_population_v2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/35851351-20c5-424d-a0e3-942bcae8317e.json",
+    "identifier": "35851351-20c5-424d-a0e3-942bcae8317e",
+    "lat_max": "49.38",
+    "lat_min": "24.50",
+    "lon_max": "-66.95",
+    "lon_min": "-124.80",
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2010-12-31T23:59:59",
+    "time_start": "2010-01-01T00:00:00",
+    "title": "Indigenous Populations Extend beyond Reservation Lands",
+    "uri": "/image/35851351-20c5-424d-a0e3-942bcae8317e",
+    "url": null,
+    "usage_limits": null
+}

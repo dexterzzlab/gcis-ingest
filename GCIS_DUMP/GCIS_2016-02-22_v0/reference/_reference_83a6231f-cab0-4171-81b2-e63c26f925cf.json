@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        ".publisher": "Springer-Verlag",
+        ".reference_type": "0",
+        "Alternate Journal": "J Environ Stud Sci",
+        "Author": "Romsdahl, Rebecca J.\rAtkinson, Lorilie\rSchultz, Jeannie",
+        "DOI": "10.1007/s13412-012-0078-8",
+        "Date": "2013/03/01",
+        "ISSN": "2190-6483",
+        "Issue": "1",
+        "Journal": "Journal of Environmental Studies and Sciences",
+        "Keywords": "Global climate change\rUS Great Plains\rGovernment decision-makers\rNatural resources management\rAttitudes about climate change\rIssue framing",
+        "Language": "English",
+        "Pages": "1-14",
+        "Title": "Planning for climate change across the US Great Plains: Concerns and insights from government decision-makers",
+        "Volume": "3",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 14: Rural Communities FINAL\",\"Ch. 19: Great Plains FINAL\",\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "3870",
+        "_uuid": "83a6231f-cab0-4171-81b2-e63c26f925cf",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s13412-012-0078-8",
+    "href": "http://data.globalchange.gov/reference/83a6231f-cab0-4171-81b2-e63c26f925cf.json",
+    "identifier": "83a6231f-cab0-4171-81b2-e63c26f925cf",
+    "uri": "/reference/83a6231f-cab0-4171-81b2-e63c26f925cf"
+}

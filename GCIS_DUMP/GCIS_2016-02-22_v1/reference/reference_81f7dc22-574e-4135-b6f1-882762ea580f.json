@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Litschert, S.E.\rBrown, T.C.\rTheobald, D.M.",
+        "DOI": "10.1016/j.foreco.2011.12.024",
+        "ISSN": "0378-1127",
+        "Journal": "Forest Ecology and Management",
+        "Pages": "124-133",
+        "Title": "Historic and future extent of wildfires in the Southern Rockies Ecoregion, USA",
+        "Volume": "269",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"RG 5 Southwest\"]",
+        "_record_number": "851",
+        "_uuid": "81f7dc22-574e-4135-b6f1-882762ea580f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.foreco.2011.12.024",
+    "href": "http://data.globalchange.gov/reference/81f7dc22-574e-4135-b6f1-882762ea580f.json",
+    "identifier": "81f7dc22-574e-4135-b6f1-882762ea580f",
+    "uri": "/reference/81f7dc22-574e-4135-b6f1-882762ea580f"
+}

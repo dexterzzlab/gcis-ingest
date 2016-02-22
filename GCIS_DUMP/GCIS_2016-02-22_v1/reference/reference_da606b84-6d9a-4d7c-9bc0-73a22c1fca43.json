@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "GCP,",
+        "Institution": "Global Carbon Project",
+        "Place Published": "Tsukuba, Japan",
+        "Series Editor": "Lavinia Poruschi\rShobhakar Dhakal\rJosep Canadel",
+        "Title": "Ten Years of Advancing Knowledge on the Global Carbon Cycle and its Management",
+        "URL": "http://www.globalcarbonproject.org/global/pdf/GCP_10years_med_res.pdf",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "1655",
+        "_uuid": "da606b84-6d9a-4d7c-9bc0-73a22c1fca43",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/globalcarbonproject-tenyrs-2010",
+    "href": "http://data.globalchange.gov/reference/da606b84-6d9a-4d7c-9bc0-73a22c1fca43.json",
+    "identifier": "da606b84-6d9a-4d7c-9bc0-73a22c1fca43",
+    "uri": "/reference/da606b84-6d9a-4d7c-9bc0-73a22c1fca43"
+}

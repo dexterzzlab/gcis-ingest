@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Accession Number": "WOS:000303246100014",
+        "Alternate Journal": "Proc. Natl. Acad. Sci. U. S. A.",
+        "Author": "Townsend, A. R.\rPorder, S.",
+        "DOI": "10.1073/pnas.1203766109",
+        "Date": "Apr",
+        "ISSN": "0027-8424",
+        "Issue": "16",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Keywords": "phosphorus; nitrogen; imbalances; responses; forest; trends; cycle",
+        "Language": "English",
+        "Pages": "5917-5918",
+        "Title": "Agricultural legacies, food production and its environmental consequences",
+        "Type of Article": "Editorial Material",
+        "URL": "<Go to ISI>://WOS:000303246100014",
+        "Volume": "109",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "3079",
+        "_uuid": "d809f14b-29ae-49f0-ba12-bd4674e1556c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.1203766109",
+    "href": "http://data.globalchange.gov/reference/d809f14b-29ae-49f0-ba12-bd4674e1556c.json",
+    "identifier": "d809f14b-29ae-49f0-ba12-bd4674e1556c",
+    "uri": "/reference/d809f14b-29ae-49f0-ba12-bd4674e1556c"
+}

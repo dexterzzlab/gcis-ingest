@@ -1,0 +1,52 @@
+{
+    "attributes": null,
+    "caption": null,
+    "chapter": {
+        "doi": "10.7930/J07H1GGT",
+        "identifier": "adaptation",
+        "number": 28,
+        "report_identifier": "nca3",
+        "sort_key": 280,
+        "title": "Adaptation",
+        "url": "http://nca2014.globalchange.gov/report/response-strategies/adaptation"
+    },
+    "chapter_identifier": "adaptation",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "b4/05/0ec1af7f6a72f803156486945a8d/ADAPT_adaptation_map_V2.png",
+            "href": "http://data.globalchange.gov/assets/b4/05/0ec1af7f6a72f803156486945a8d/ADAPT_adaptation_map_V2.png",
+            "identifier": "24019989-5c34-4e87-8e5c-024453de18f8",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "45616435cb03e397c9ecf29c93719d345aa41b6d",
+            "size": 317445,
+            "thumbnail": "b4/05/0ec1af7f6a72f803156486945a8d/.thumb-24019989-5c34-4e87-8e5c-024453de18f8.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/b4/05/0ec1af7f6a72f803156486945a8d/.thumb-24019989-5c34-4e87-8e5c-024453de18f8.png",
+            "uri": "/file/24019989-5c34-4e87-8e5c-024453de18f8",
+            "url": "/assets/b4/05/0ec1af7f6a72f803156486945a8d/ADAPT_adaptation_map_V2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/adaptation/figure/adaptation-activity.json",
+    "identifier": "adaptation-activity",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 4,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Adaptation Activity",
+    "uri": "/report/nca3/chapter/adaptation/figure/adaptation-activity",
+    "url": "http://nca2014.globalchange.gov/report/response-strategies/adaptation/graphics/adaptation-activity",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

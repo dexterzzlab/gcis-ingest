@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Markoff, M.S.\rCullen, A.C.",
+        "DOI": "10.1007/s10584-007-9306-8",
+        "ISSN": "0165-0009",
+        "Issue": "3",
+        "Journal": "Climatic Change",
+        "Pages": "451-469",
+        "Title": "Impact of climate change on Pacific Northwest hydropower",
+        "Volume": "87",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "1882",
+        "_uuid": "d05c3cb8-b26e-4867-af5c-81376c0990e4",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-007-9306-8",
+    "href": "http://data.globalchange.gov/reference/d05c3cb8-b26e-4867-af5c-81376c0990e4.json",
+    "identifier": "d05c3cb8-b26e-4867-af5c-81376c0990e4",
+    "uri": "/reference/d05c3cb8-b26e-4867-af5c-81376c0990e4"
+}

@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Porter, J. H.\rParry, M. L.\rCarter, T. R.",
+        "DOI": "10.1016/0168-1923(91)90088-8",
+        "Date": "12//",
+        "ISSN": "0168-1923",
+        "Issue": "1\u20133",
+        "Journal": "Agricultural and Forest Meteorology",
+        "Pages": "221-240",
+        "Title": "The potential effects of climatic change on agricultural insect pests",
+        "Volume": "57",
+        "Year": "1991",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "4305",
+        "_uuid": "3a93beed-22d8-4fab-8ce7-6cc6907f1c52",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/0168-1923(91)90088-8",
+    "href": "http://data.globalchange.gov/reference/3a93beed-22d8-4fab-8ce7-6cc6907f1c52.json",
+    "identifier": "3a93beed-22d8-4fab-8ce7-6cc6907f1c52",
+    "uri": "/reference/3a93beed-22d8-4fab-8ce7-6cc6907f1c52"
+}

@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Brown, H.E.\rA. Comrie\rD. Drechsler\rC.M. Barker\rR. Basu\rT. Brown\rA. Gershunov\rA.M. Kilpatrick\rW.K. Reisen\rD.M. Ruddell",
+        "Book Title": "Assessment of Climate Change in the Southwest United States: A Report Prepared for the National Climate Assessment",
+        "Editor": "Garfin, G.\rJardine, A.\rMerideth, R.\rBlack, Mary\rLeRoy, Sarah.",
+        "ISBN": "9781610914468",
+        "Pages": "312-339",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "Island Press",
+        "Reviewer": "d8bd2def-be9b-47e3-84de-199bcd26c31d",
+        "Title": "Ch. 15: Human health",
+        "URL": "http://swccar.org/sites/all/themes/files/SW-NCA-color-FINALweb.pdf",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "828",
+        "_uuid": "d8bd2def-be9b-47e3-84de-199bcd26c31d",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/c9625c65-c20f-4163-87fe-cebf734f7836",
+    "href": "http://data.globalchange.gov/reference/d8bd2def-be9b-47e3-84de-199bcd26c31d.json",
+    "identifier": "d8bd2def-be9b-47e3-84de-199bcd26c31d",
+    "uri": "/reference/d8bd2def-be9b-47e3-84de-199bcd26c31d"
+}

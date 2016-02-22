@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "CEQ,",
+        "Institution": "The White House Council on Environmental Quality (CEQ)",
+        "Pages": "72",
+        "Place Published": "Washington, D.C",
+        "Title": "Progress Report of the Interagency Climate Change Adaptation Task Force: Recommended Actions in Support of a National Climate Change Adaptation Strategy ",
+        "URL": "http://www.whitehouse.gov/sites/default/files/microsites/ceq/Interagency-Climate-Change-Adaptation-Progress-Report.pdf",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "1329",
+        "_uuid": "37163c2c-5801-4702-9191-f32bf0f05b26",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/ceq-progrep-2010",
+    "href": "http://data.globalchange.gov/reference/37163c2c-5801-4702-9191-f32bf0f05b26.json",
+    "identifier": "37163c2c-5801-4702-9191-f32bf0f05b26",
+    "uri": "/reference/37163c2c-5801-4702-9191-f32bf0f05b26"
+}

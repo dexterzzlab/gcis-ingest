@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2012",
+        "Author": "USDA,",
+        "Last Update Date": "May 30, 2012",
+        "Publisher": "U.S. Department of Agriculture",
+        "Title": "Import Share of Consumption",
+        "URL": "http://www.ers.usda.gov/topics/international-markets-trade/us-agricultural-trade/import-share-of-consumption.aspx",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "3226",
+        "_uuid": "59e34d62-54f9-44cd-828c-4cd91b9fbd58",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/c7c3796d-0182-4938-a1f1-930c825d2434",
+    "href": "http://data.globalchange.gov/reference/59e34d62-54f9-44cd-828c-4cd91b9fbd58.json",
+    "identifier": "59e34d62-54f9-44cd-828c-4cd91b9fbd58",
+    "uri": "/reference/59e34d62-54f9-44cd-828c-4cd91b9fbd58"
+}

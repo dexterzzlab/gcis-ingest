@@ -1,0 +1,12 @@
+{
+    "description": "IRS-1C is an ISRO-built (Indian Space Research Organization) second generation remote sensing satellite with enhanced capabilities in terms of spatial resolution and spectral bands.",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/i/irs-1c-1d",
+    "end_date": "2010-01-02T00:00:00",
+    "href": "http://data.globalchange.gov/platform/indian-remote-sensing-satellite-1d.json",
+    "identifier": "indian-remote-sensing-satellite-1d",
+    "name": "Indian Remote Sensing Satellite - 1D",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "1997-09-29T00:00:00",
+    "uri": "/platform/indian-remote-sensing-satellite-1d",
+    "url": "http://www.isro.org/insat2b.htm"
+}

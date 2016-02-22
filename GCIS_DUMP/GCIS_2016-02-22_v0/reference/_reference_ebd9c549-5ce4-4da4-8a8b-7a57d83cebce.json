@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Salzer, M.W.\rHughes, M.K.\rBunn, A.G.\rKipfmueller, K.F.",
+        "DOI": "10.1073/pnas.0903029106",
+        "ISSN": "0027-8424",
+        "Issue": "48",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Pages": "20348-20353",
+        "Title": "Recent unprecedented tree-ring growth in bristlecone pine at the highest elevations and possible causes",
+        "URL": "http://www.pnas.org/content/106/48/20348.full.pdf",
+        "Volume": "106",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "2734",
+        "_uuid": "ebd9c549-5ce4-4da4-8a8b-7a57d83cebce",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.0903029106",
+    "href": "http://data.globalchange.gov/reference/ebd9c549-5ce4-4da4-8a8b-7a57d83cebce.json",
+    "identifier": "ebd9c549-5ce4-4da4-8a8b-7a57d83cebce",
+    "uri": "/reference/ebd9c549-5ce4-4da4-8a8b-7a57d83cebce"
+}

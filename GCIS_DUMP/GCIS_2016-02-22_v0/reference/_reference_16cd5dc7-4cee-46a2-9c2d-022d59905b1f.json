@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Reilly, J.\rTubiello, F.\rMcCarl, B.\rAbler, D.\rDarwin, R.\rFuglie, K.\rHollinger, S.\rIzaurralde, C.\rJagtap, S.\rJones, J.\rMearns, L.\rOjima, D.\rPaul, E.\rPaustian, K.\rRiha, S.\rRosenberg, N.\rRosenzweig, C.",
+        "DOI": "10.1023/A:1022103315424",
+        "ISSN": "0165-0009",
+        "Issue": "1-2",
+        "Journal": "Climatic Change",
+        "Pages": "43-67",
+        "Title": "US agriculture and climate change: New results",
+        "URL": "http://link.springer.com/content/pdf/10.1023%2FA%3A1022103315424",
+        "Volume": "57",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "2614",
+        "_uuid": "16cd5dc7-4cee-46a2-9c2d-022d59905b1f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1023/A:1022103315424",
+    "href": "http://data.globalchange.gov/reference/16cd5dc7-4cee-46a2-9c2d-022d59905b1f.json",
+    "identifier": "16cd5dc7-4cee-46a2-9c2d-022d59905b1f",
+    "uri": "/reference/16cd5dc7-4cee-46a2-9c2d-022d59905b1f"
+}

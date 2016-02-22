@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Using a cell-based urban model (SLEUTH), projections of development patterns in 2030 were created assuming three different policy scenarios (current trends, managed growth, and low growth). SLEUTH was calibrated using Landsat-derived maps of the built environment that documented development patterns between 1986 and 2000. This data set provided a baseline that the calibrated model used to extrapolate patterns into the future. Following business-as-usual patterns of low density and dispersed development, this model projects that the amount of developed land could increase 123%, putting at least 1,300 km2 of forests and 1,537 km2 of agricultural lands at risk. Credit: C. Jantz and S. Goetz, The Woods Hole Research Center.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "b0/b3/8fe759dc62d7977c6745169a681c/our_changing_planet_2006_8_20090708_1342661571.jpg",
+            "href": "http://data.globalchange.gov/assets/b0/b3/8fe759dc62d7977c6745169a681c/our_changing_planet_2006_8_20090708_1342661571.jpg",
+            "identifier": "acc11551-453a-403e-9589-07b32aabd9ee",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "a6b3b250e4aa28c83f52ac71405426ee077fa797",
+            "size": 114448,
+            "thumbnail": "b0/b3/8fe759dc62d7977c6745169a681c/.thumb-acc11551-453a-403e-9589-07b32aabd9ee.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/b0/b3/8fe759dc62d7977c6745169a681c/.thumb-acc11551-453a-403e-9589-07b32aabd9ee.png",
+            "uri": "/file/acc11551-453a-403e-9589-07b32aabd9ee",
+            "url": "/assets/b0/b3/8fe759dc62d7977c6745169a681c/our_changing_planet_2006_8_20090708_1342661571.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocp-fy2006/figure/projection-development-patterns-2030.json",
+    "identifier": "projection-development-patterns-2030",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocp-fy2006",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Projection of Development Patterns in 2030",
+    "uri": "/report/ccsp-ocp-fy2006/figure/projection-development-patterns-2030",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

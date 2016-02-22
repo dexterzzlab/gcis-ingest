@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Schwartz, M. D.\rAhas, R.\rAasa, A.",
+        "DOI": "10.1111/j.1365-2486.2005.01097.x",
+        "Date": "Feb",
+        "ISSN": "1354-1013",
+        "Issue": "2",
+        "Journal": "Global Change Biology",
+        "Keywords": "climate change; freeze dates; global warming; growing season; Northern; Hemisphere; phenology; spring; surface air-temperature; growing-season length; frost-free season; united-states; climatic extremes; deciduous forest; central-europe; green-wave; phenology; trends",
+        "Pages": "343-351",
+        "Title": "Onset of spring starting earlier across the Northern Hemisphere",
+        "Type of Article": "Article",
+        "Volume": "12",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "2793",
+        "_uuid": "655d6652-08ae-4f55-960d-f06297e9eb9e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1365-2486.2005.01097.x",
+    "href": "http://data.globalchange.gov/reference/655d6652-08ae-4f55-960d-f06297e9eb9e.json",
+    "identifier": "655d6652-08ae-4f55-960d-f06297e9eb9e",
+    "uri": "/reference/655d6652-08ae-4f55-960d-f06297e9eb9e"
+}

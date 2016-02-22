@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Carmin, J.\rNadkarni, N.\rRhie, C. ",
+        "Institution": "Massachusetts Institute of Technology, ICLEI - Local Governments for Sustainability",
+        "Pages": "30",
+        "Place Published": "Cambridge, MA",
+        "Title": "Progress and Challenges in Urban Climate Adaptation Planning: Results of a Global Survey",
+        "URL": "http://web.mit.edu/jcarmin/www/urbanadapt/Urban%20Adaptation%20Report%20FINAL.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"Ch. 11: Urban Systems FINAL\",\"Ch. 28: Adaptation FINAL\",\"RF 12\"]",
+        "_record_number": "1327",
+        "_uuid": "a2875003-195d-4ac8-8b94-63b7618af926",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/mit-urbanadaptresults-2012",
+    "href": "http://data.globalchange.gov/reference/a2875003-195d-4ac8-8b94-63b7618af926.json",
+    "identifier": "a2875003-195d-4ac8-8b94-63b7618af926",
+    "uri": "/reference/a2875003-195d-4ac8-8b94-63b7618af926"
+}

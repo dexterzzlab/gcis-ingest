@@ -1,0 +1,33 @@
+{
+    "attributes": null,
+    "caption": null,
+    "chapter": {
+        "doi": null,
+        "identifier": "food-availability-stability",
+        "number": 5,
+        "report_identifier": "usda-climate-change-global-food-security-us-food-system-2015",
+        "sort_key": 50,
+        "title": "Food Availability and Stability",
+        "url": null
+    },
+    "chapter_identifier": "food-availability-stability",
+    "cited_by": [],
+    "create_dt": null,
+    "href": "http://data.globalchange.gov/report/usda-climate-change-global-food-security-us-food-system-2015/chapter/food-availability-stability/figure/historical-trend-global-per-capita-global-cereal-meat-exports.json",
+    "identifier": "historical-trend-global-per-capita-global-cereal-meat-exports",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 28,
+    "report_identifier": "usda-climate-change-global-food-security-us-food-system-2015",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Historical trend in global per-capita global cereal and meat exports",
+    "uri": "/report/usda-climate-change-global-food-security-us-food-system-2015/chapter/food-availability-stability/figure/historical-trend-global-per-capita-global-cereal-meat-exports",
+    "url": null,
+    "usage_limits": null
+}

@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Howard, Jennifer\rEleanora Babij\rRoger Griffis\rBrian Helmuth\rAmber Himes-Cornell\rPaul Niemier\rMichael Orbach\rLaura Petes\rStewart Allen\rGuillermo Auad",
+        "Book Title": "Oceanography and Marine Biology: An Annual Review",
+        "Editor": "Hughes, R.N.\rHughes, D.J.\rSmith, I.P.",
+        "ISBN": "9781466568662",
+        "Pages": "71-192",
+        "Publisher": "CRC Press",
+        "Reviewer": "a8c80335-18ea-447b-9197-4b15637f2dc1",
+        "Title": "Oceans and marine resources in a changing climate",
+        "Volume": "51",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "1217",
+        "_uuid": "a8c80335-18ea-447b-9197-4b15637f2dc1",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/aa57f460-5187-4d87-b54e-904de2099138",
+    "href": "http://data.globalchange.gov/reference/a8c80335-18ea-447b-9197-4b15637f2dc1.json",
+    "identifier": "a8c80335-18ea-447b-9197-4b15637f2dc1",
+    "uri": "/reference/a8c80335-18ea-447b-9197-4b15637f2dc1"
+}

@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "USACE,",
+        "Institution": "U.S. Army Corps of Engineers",
+        "Pages": "42",
+        "Title": "Western States Watershed Study: Report to the Western States Water Council  ",
+        "URL": "http://www.westgov.org/wswc/wsws%20main%20report_jan09.pdf",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "3217",
+        "_uuid": "d7cd63a2-95c8-48a5-9dfc-a97e47657a92",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/westgov-wswc-2009",
+    "href": "http://data.globalchange.gov/reference/d7cd63a2-95c8-48a5-9dfc-a97e47657a92.json",
+    "identifier": "d7cd63a2-95c8-48a5-9dfc-a97e47657a92",
+    "uri": "/reference/d7cd63a2-95c8-48a5-9dfc-a97e47657a92"
+}

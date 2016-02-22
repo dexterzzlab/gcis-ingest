@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "DOT,",
+        "Institution": "U.S. Department of Transportation: Federal Highway Administration, John A. Volpe National Transportation Systems Center",
+        "Pages": "20",
+        "Place Published": "Washington, D.C.",
+        "Title": "Interagency Transportation, Land Use, and Climate Change Cape Cod Pilot Project. One-Pager.",
+        "URL": "http://www.volpe.dot.gov/sites/volpe.dot.gov/files/docs/Cape%20Cod%20Pilot%20Project%20One%20Pager_092811.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "3688",
+        "_uuid": "dfc4d555-c652-4084-adc4-2549fbaf7afb",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/dot-volpe-interagencytransportation-onepager-2011",
+    "href": "http://data.globalchange.gov/reference/dfc4d555-c652-4084-adc4-2549fbaf7afb.json",
+    "identifier": "dfc4d555-c652-4084-adc4-2549fbaf7afb",
+    "uri": "/reference/dfc4d555-c652-4084-adc4-2549fbaf7afb"
+}

@@ -1,0 +1,12 @@
+{
+    "description": "Through the key project of short-term climate prediction in the national \"Ninth Five-Year Plan\" and its enhancement project, a global ocean-atmosphere coupled model with mediate resolution has been established in Beijing Climate Center, which is named as BCC_CM1.0.",
+    "description_attribution": "http://forecast.bcccsm.ncc-cma.net/web/channel-26.htm",
+    "href": "http://data.globalchange.gov/model/bcc-cm1.json",
+    "identifier": "bcc-cm1",
+    "name": "Beijing Climate Center Climate System Model",
+    "project_identifier": "cmip3",
+    "reference_url": "http://www-pcmdi.llnl.gov/ipcc/model_documentation/BCC-CM1.htm",
+    "uri": "/model/bcc-cm1",
+    "version": null,
+    "website": "http://forecast.bcccsm.ncc-cma.net/web/channel-26.htm"
+}

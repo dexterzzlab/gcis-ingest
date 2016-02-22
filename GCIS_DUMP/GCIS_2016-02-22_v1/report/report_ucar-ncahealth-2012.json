@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/ucar-ncahealth-2012.json",
+    "identifier": "ucar-ncahealth-2012",
+    "in_library": null,
+    "publication_year": 2012,
+    "report_type_identifier": "technical_input",
+    "summary": null,
+    "title": "National Climate Assessment Health Sector Workshop Report: Northwest Region",
+    "topic": null,
+    "uri": "/report/ucar-ncahealth-2012",
+    "url": "http://downloads.globalchange.gov/nca/technical_inputs/Health_CC_NW_Report.pdf"
+}

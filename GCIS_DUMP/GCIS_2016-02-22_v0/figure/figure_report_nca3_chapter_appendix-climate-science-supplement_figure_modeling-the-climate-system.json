@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "Some of the many processes often included in models of the Earth\u2019s climate system. (Figure source: Karl and Trenberth 2003<tbib>01812ac1-5424-4d88-ba1a-8dd40acd29c3</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0KS6PHH",
+        "identifier": "appendix-climate-science-supplement",
+        "number": 33,
+        "report_identifier": "nca3",
+        "sort_key": 330,
+        "title": "Appendix 3: Climate Science Supplement",
+        "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement"
+    },
+    "chapter_identifier": "appendix-climate-science-supplement",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-08-13T17:12:39",
+    "files": [
+        {
+            "file": "cf/f7/7af0f5daa912dc10656d5a64b7d3/APP_modeling_the_climate_V2.png",
+            "href": "http://data.globalchange.gov/assets/cf/f7/7af0f5daa912dc10656d5a64b7d3/APP_modeling_the_climate_V2.png",
+            "identifier": "c1314a66-9761-4d16-bb2f-237f2b498a83",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "f7508baf1d25ab98d7591e339c72b25f1d33e7a8",
+            "size": 777239,
+            "thumbnail": "cf/f7/7af0f5daa912dc10656d5a64b7d3/.thumb-c1314a66-9761-4d16-bb2f-237f2b498a83.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/cf/f7/7af0f5daa912dc10656d5a64b7d3/.thumb-c1314a66-9761-4d16-bb2f-237f2b498a83.png",
+            "uri": "/file/c1314a66-9761-4d16-bb2f-237f2b498a83",
+            "url": "/assets/cf/f7/7af0f5daa912dc10656d5a64b7d3/APP_modeling_the_climate_V2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-climate-science-supplement/figure/modeling-the-climate-system.json",
+    "identifier": "modeling-the-climate-system",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-08-13T17:12:13",
+            "description": null,
+            "identifier": "24f52f54-2d17-45b1-a48a-65e7bf6049a9",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Modeling the Climate System",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 24,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Modern Global Climate Change",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1126/science.1090228"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/01812ac1-5424-4d88-ba1a-8dd40acd29c3.json",
+            "uri": "/reference/01812ac1-5424-4d88-ba1a-8dd40acd29c3"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "Karl and Trenberth 2003<tbib>01812ac1-5424-4d88-ba1a-8dd40acd29c3</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Modeling the Climate System",
+    "uri": "/report/nca3/chapter/appendix-climate-science-supplement/figure/modeling-the-climate-system",
+    "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/modeling-climate-system",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

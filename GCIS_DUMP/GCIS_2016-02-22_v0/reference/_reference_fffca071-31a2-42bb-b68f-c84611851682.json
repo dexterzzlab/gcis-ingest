@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Sathre, R.\rO\u2019Connor, J.",
+        "DOI": "10.1016/j.envsci.2009.12.005",
+        "ISSN": "1462-9011",
+        "Issue": "2",
+        "Journal": "Environmental Science & Policy",
+        "Pages": "104-114",
+        "Title": "Meta-analysis of greenhouse gas displacement factors of wood product substitution",
+        "Volume": "13",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "2752",
+        "_uuid": "fffca071-31a2-42bb-b68f-c84611851682",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.envsci.2009.12.005",
+    "href": "http://data.globalchange.gov/reference/fffca071-31a2-42bb-b68f-c84611851682.json",
+    "identifier": "fffca071-31a2-42bb-b68f-c84611851682",
+    "uri": "/reference/fffca071-31a2-42bb-b68f-c84611851682"
+}

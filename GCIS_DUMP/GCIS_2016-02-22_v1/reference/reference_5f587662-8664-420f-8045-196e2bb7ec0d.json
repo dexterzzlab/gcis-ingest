@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Harlan, S.L.\rBrazel, A.J.\rPrashad, L.\rStefanov, W.L.\rLarsen, L.",
+        "DOI": "10.1016/j.socscimed.2006.07.030",
+        "ISSN": "0277-9536",
+        "Issue": "11",
+        "Journal": "Social Science & Medicine",
+        "Pages": "2847-2863",
+        "Title": "Neighborhood microclimates and vulnerability to heat stress",
+        "Volume": "63",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "1165",
+        "_uuid": "5f587662-8664-420f-8045-196e2bb7ec0d",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.socscimed.2006.07.030",
+    "href": "http://data.globalchange.gov/reference/5f587662-8664-420f-8045-196e2bb7ec0d.json",
+    "identifier": "5f587662-8664-420f-8045-196e2bb7ec0d",
+    "uri": "/reference/5f587662-8664-420f-8045-196e2bb7ec0d"
+}

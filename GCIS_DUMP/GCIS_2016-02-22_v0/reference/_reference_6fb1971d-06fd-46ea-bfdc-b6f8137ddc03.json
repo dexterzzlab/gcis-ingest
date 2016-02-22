@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "NMFS,",
+        "Date": "August 2012",
+        "Institution": "National Marine Fisheries Service, Office of Science and Technology",
+        "Pages": "139",
+        "Place Published": "Silver Spring, MD",
+        "Title": "Fisheries of the United States 2011",
+        "URL": "http://www.st.nmfs.noaa.gov/st1/fus/fus11/FUS_2011.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\",\"RF 11\"]",
+        "_record_number": "3625",
+        "_uuid": "6fb1971d-06fd-46ea-bfdc-b6f8137ddc03",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/nmfs-fisheries-2011",
+    "href": "http://data.globalchange.gov/reference/6fb1971d-06fd-46ea-bfdc-b6f8137ddc03.json",
+    "identifier": "6fb1971d-06fd-46ea-bfdc-b6f8137ddc03",
+    "uri": "/reference/6fb1971d-06fd-46ea-bfdc-b6f8137ddc03"
+}

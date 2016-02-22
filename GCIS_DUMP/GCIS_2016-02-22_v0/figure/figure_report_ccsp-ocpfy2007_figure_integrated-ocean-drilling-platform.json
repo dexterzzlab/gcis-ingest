@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "The dedicated JOIDES Resolution scientific drilling vessel used for recovering sequences of sediment and rock cores from global ocean basins. Credit: D. Anderson, NOAA/National Geophysical Data Center.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "a9/df/b99b06c15c4db5c86fef26679d70/our_changing_planet_2007_82_20090708_1402477159.jpg",
+            "href": "http://data.globalchange.gov/assets/a9/df/b99b06c15c4db5c86fef26679d70/our_changing_planet_2007_82_20090708_1402477159.jpg",
+            "identifier": "ee07e2aa-29d8-45cb-a0b4-f09536442500",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "4f5a2488675f1f545ac2303f940a27d81407d0d1",
+            "size": 50794,
+            "thumbnail": "a9/df/b99b06c15c4db5c86fef26679d70/.thumb-ee07e2aa-29d8-45cb-a0b4-f09536442500.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/a9/df/b99b06c15c4db5c86fef26679d70/.thumb-ee07e2aa-29d8-45cb-a0b4-f09536442500.png",
+            "uri": "/file/ee07e2aa-29d8-45cb-a0b4-f09536442500",
+            "url": "/assets/a9/df/b99b06c15c4db5c86fef26679d70/our_changing_planet_2007_82_20090708_1402477159.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/integrated-ocean-drilling-platform.json",
+    "identifier": "integrated-ocean-drilling-platform",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Integrated Ocean Drilling Platform",
+    "uri": "/report/ccsp-ocpfy2007/figure/integrated-ocean-drilling-platform",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

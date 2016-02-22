@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Puma, M.J.\rCook, B.I.",
+        "DOI": "10.1029/2010JD014122",
+        "Issue": "D16",
+        "Journal": "Journal Of Geophysical Research",
+        "Pages": "D16120",
+        "Title": "Effects of irrigation on global climate during the 20th century",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2010JD014122/pdf",
+        "Volume": "115",
+        "Year": "2010",
+        "_chapter": "[\"Appendix 4: FAQs FINAL\",\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "2555",
+        "_uuid": "2b9d6a7f-80b4-47f9-8aed-52dd2f2a11eb",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2010JD014122",
+    "href": "http://data.globalchange.gov/reference/2b9d6a7f-80b4-47f9-8aed-52dd2f2a11eb.json",
+    "identifier": "2b9d6a7f-80b4-47f9-8aed-52dd2f2a11eb",
+    "uri": "/reference/2b9d6a7f-80b4-47f9-8aed-52dd2f2a11eb"
+}

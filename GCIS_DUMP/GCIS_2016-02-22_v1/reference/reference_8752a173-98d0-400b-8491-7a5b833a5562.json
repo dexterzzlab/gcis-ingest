@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Detrimental impacts of climate change on the international ski tourism industry have been projected in numerous studies. Modeling-based studies project shortened ski seasons and increased snowmaking requirements under warmer temperatures. The present study uses a climate change analogue approach to examine how a wider range of ski area performance indicators were affected by anomalously warm winters in the Northeast region of the USA. The record warm winter of 2001\u20132002 is representative of projected future average winter climate conditions in the USA Northeast under a high greenhouse gas emission scenario for the 2040\u20132069 period and was used as one climate change analogue for this analysis. The 1998\u20131999 ski season was also used as a climate change analogue as it represents the last of 3 consecutive warm winters (1997 to 1999) that are representative of a mid-range emissions scenario projected for the 2040\u20132069 period. Ski area performance indicators for the 2001\u20132002 and 1998\u20131999 analogue years were compared to the climatically normal (based on 1961\u20131990 means) years of 2000\u20132001 and 2004\u20132005. The indicators examined include: ski season length, snowmaking (hours of operation and % energy utilized as a proxy for fuel costs), total skier visits and operating profit (% of total gross fixed assets). The effect of ski season length during the climate change analogue years is compared with modeled effects for the region. The differential vulnerability of small, medium, large and extra-large ski areas was also examined and the greatest economic effects were found among small and extra large ski areas. ",
+        "Author": "Dawson, J.\rScott, D.\rMcBoyle, G.",
+        "DOI": "10.3354/cr00793",
+        "ISSN": "0936-577X",
+        "Issue": "1",
+        "Journal": "Climate Research",
+        "Keywords": "Ski tourism  ; Analogue ; Climate change ; Northeastern USA ",
+        "Pages": "1-9",
+        "Title": "Climate change analogue analysis of ski tourism in the northeastern USA",
+        "URL": "http://www.int-res.com/articles/cr2009/39/c039p001.pdf",
+        "Volume": "39",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "270",
+        "_uuid": "8752a173-98d0-400b-8491-7a5b833a5562",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.3354/cr00793",
+    "href": "http://data.globalchange.gov/reference/8752a173-98d0-400b-8491-7a5b833a5562.json",
+    "identifier": "8752a173-98d0-400b-8491-7a5b833a5562",
+    "uri": "/reference/8752a173-98d0-400b-8491-7a5b833a5562"
+}

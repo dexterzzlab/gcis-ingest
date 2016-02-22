@@ -1,0 +1,89 @@
+{
+    "attributes": null,
+    "caption": "An example of the variability and distribution of major ecosystem disturbance types in North America, compiled from 2005 to 2009. Forest disturbance varies by topography, vegetation, weather patterns, climate gradients, and proximity to human settlement. Severity is mapped as a percent change in a satellite-derived Disturbance Index. White areas represent natural annual variability, orange represents moderate severity, and red represents high severity.<tbib>f4e0a73e-f6c2-451f-9af1-07aa1cffdc05</tbib> Fire dominates much of the western forest ecosystems, and storms affect the Gulf Coast. Insect damage is widespread but currently concentrated in western regions, and timber harvest is predominant in the Southeast. (Figure source: modified from Goetz et al. 2012,<tbib>088ac1ea-02ab-48cf-b9e2-c8a1a0501e16</tbib> Copyright 2012 American Geophysical Union).",
+    "chapter": {
+        "doi": "10.7930/J0Z60KZC",
+        "identifier": "forests",
+        "number": 7,
+        "report_identifier": "nca3",
+        "sort_key": 70,
+        "title": "Forests",
+        "url": "http://nca2014.globalchange.gov/report/sectors/forests"
+    },
+    "chapter_identifier": "forests",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-09-13T13:43:00",
+    "files": [
+        {
+            "file": "47/c5/9d996f4be435a286ee0a0c87e9d8/Forests_disturbance_type_V2.png",
+            "href": "http://data.globalchange.gov/assets/47/c5/9d996f4be435a286ee0a0c87e9d8/Forests_disturbance_type_V2.png",
+            "identifier": "e3472167-7e91-45aa-bc2f-1e98bdd27996",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "9748095c27e2fb4b6da24e0a62434aac95e42a41",
+            "size": 514517,
+            "thumbnail": "47/c5/9d996f4be435a286ee0a0c87e9d8/.thumb-e3472167-7e91-45aa-bc2f-1e98bdd27996.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/47/c5/9d996f4be435a286ee0a0c87e9d8/.thumb-e3472167-7e91-45aa-bc2f-1e98bdd27996.png",
+            "uri": "/file/e3472167-7e91-45aa-bc2f-1e98bdd27996",
+            "url": "/assets/47/c5/9d996f4be435a286ee0a0c87e9d8/Forests_disturbance_type_V2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/forests/figure/forest-ecosystem-disturbances.json",
+    "identifier": "forest-ecosystem-disturbances",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-09-13T13:43:00",
+            "description": null,
+            "identifier": "eb542896-5ba3-4333-aa4f-e44a71f28317",
+            "lat_max": "71.398048",
+            "lat_min": "18.913826",
+            "lon_max": "-66.957802",
+            "lon_min": "-179.133392",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2009-12-31T23:59:59",
+            "time_start": "2005-01-01T00:00:00",
+            "title": "Forest Ecosystem Disturbances",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 1,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Observations and assessment of forest carbon dynamics following disturbance in North America",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1029/2011JG001733"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/088ac1ea-02ab-48cf-b9e2-c8a1a0501e16.json",
+            "uri": "/reference/088ac1ea-02ab-48cf-b9e2-c8a1a0501e16"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/f4e0a73e-f6c2-451f-9af1-07aa1cffdc05.json",
+            "uri": "/reference/f4e0a73e-f6c2-451f-9af1-07aa1cffdc05"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "modified from Goetz et al. 2012; Copyright 2012 American Geophysical Union<tbib>088ac1ea-02ab-48cf-b9e2-c8a1a0501e16</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Forest Ecosystem Disturbances",
+    "uri": "/report/nca3/chapter/forests/figure/forest-ecosystem-disturbances",
+    "url": "http://nca2014.globalchange.gov/report/sectors/forests/graphics/forest-ecosystem-disturbances",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

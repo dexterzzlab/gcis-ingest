@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Craine, J.M.\rTowne, E.G.\rJoern, A.\rHamilton, R.G.",
+        "DOI": "10.1111/j.1365-2486.2008.01769.x",
+        "ISSN": "1365-2486",
+        "Issue": "3",
+        "Journal": "Global Change Biology",
+        "Pages": "772-779",
+        "Title": "Consequences of climate variability for the performance of bison in tallgrass prairie",
+        "Volume": "15",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "446",
+        "_uuid": "71f6a5b6-77c4-418b-8a27-4c06951724bc",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1365-2486.2008.01769.x",
+    "href": "http://data.globalchange.gov/reference/71f6a5b6-77c4-418b-8a27-4c06951724bc.json",
+    "identifier": "71f6a5b6-77c4-418b-8a27-4c06951724bc",
+    "uri": "/reference/71f6a5b6-77c4-418b-8a27-4c06951724bc"
+}

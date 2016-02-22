@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Jacobs, K.L.\rGarfin, G.M.\rMorehouse, B.J.",
+        "DOI": "10.1111/j.1752-1688.2005.tb03747.x",
+        "ISSN": "1752-1688",
+        "Issue": "2",
+        "Journal": "JAWRA Journal of the American Water Resources Association",
+        "Pages": "437-446",
+        "Title": "Climate science and drought planning: The Arizona experience",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/j.1752-1688.2005.tb03747.x/pdf",
+        "Volume": "41",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "378",
+        "_uuid": "e15b5e81-6749-4fa6-9f90-8916025c17e7",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1752-1688.2005.tb03747.x",
+    "href": "http://data.globalchange.gov/reference/e15b5e81-6749-4fa6-9f90-8916025c17e7.json",
+    "identifier": "e15b5e81-6749-4fa6-9f90-8916025c17e7",
+    "uri": "/reference/e15b5e81-6749-4fa6-9f90-8916025c17e7"
+}

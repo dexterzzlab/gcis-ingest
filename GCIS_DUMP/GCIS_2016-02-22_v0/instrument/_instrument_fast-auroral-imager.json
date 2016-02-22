@@ -1,0 +1,8 @@
+{
+    "description": "Space environment monitor",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/fast-auroral-imager.json",
+    "identifier": "fast-auroral-imager",
+    "name": "Fast Auroral Imager",
+    "uri": "/instrument/fast-auroral-imager"
+}

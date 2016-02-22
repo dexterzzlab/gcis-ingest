@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Milly, P. C. D.\rDunne, Krista A.",
+        "DOI": "10.1175/2010ei363.1",
+        "ISSN": "1087-3562; 1087-3562",
+        "Issue": "1",
+        "Journal": "Earth Interactions",
+        "Pages": "1-14",
+        "Title": "On the hydrologic adjustment of climate-model projections: The potential pitfall of potential evapotranspiration",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/2010EI363.1",
+        "Volume": "15",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "2045",
+        "_uuid": "245ddd4d-d30c-436e-a6aa-4f525b71325f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/2010ei363.1",
+    "href": "http://data.globalchange.gov/reference/245ddd4d-d30c-436e-a6aa-4f525b71325f.json",
+    "identifier": "245ddd4d-d30c-436e-a6aa-4f525b71325f",
+    "uri": "/reference/245ddd4d-d30c-436e-a6aa-4f525b71325f"
+}

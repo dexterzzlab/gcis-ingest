@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/usgs-openfilereport-00-179.json",
+    "identifier": "usgs-openfilereport-00-179",
+    "in_library": null,
+    "publication_year": 2000,
+    "report_type_identifier": "assessment",
+    "summary": null,
+    "title": "National assessment of coastal vulnerability to sea-level rise: Preliminary results for the U.S. Gulf of Mexico Coast. U.S. Geological Survey Open-File Report 00-179, 1 map sheet.",
+    "topic": null,
+    "uri": "/report/usgs-openfilereport-00-179",
+    "url": "http://pubs.usgs.gov/of/2000/of00-179/"
+}

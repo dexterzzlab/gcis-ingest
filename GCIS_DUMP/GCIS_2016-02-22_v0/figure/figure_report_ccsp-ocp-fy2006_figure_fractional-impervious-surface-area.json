@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "The U.S.-constructed impervious surface area (ISA) in 2000 was nearly the size of Ohio. Population is increasing at a rate of 3 million people per year. Annual U.S. public and private sector construction spending is greater than US$480 billion. This includes more than a million new single-family homes and more than 10,000 miles of new roads per year. Credit: C.D. Elvidge, NOAA/National Geophysical Data Center.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "fb/5b/1e13326c5676eea2645c857a4bbe/our_changing_planet_2006_9_20090708_1196564930.jpg",
+            "href": "http://data.globalchange.gov/assets/fb/5b/1e13326c5676eea2645c857a4bbe/our_changing_planet_2006_9_20090708_1196564930.jpg",
+            "identifier": "cf21cd67-c0f7-43bd-a4b2-51a6f6070f35",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "107012c86f268acb782fcf863c19dca61b26df03",
+            "size": 81858,
+            "thumbnail": "fb/5b/1e13326c5676eea2645c857a4bbe/.thumb-cf21cd67-c0f7-43bd-a4b2-51a6f6070f35.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/fb/5b/1e13326c5676eea2645c857a4bbe/.thumb-cf21cd67-c0f7-43bd-a4b2-51a6f6070f35.png",
+            "uri": "/file/cf21cd67-c0f7-43bd-a4b2-51a6f6070f35",
+            "url": "/assets/fb/5b/1e13326c5676eea2645c857a4bbe/our_changing_planet_2006_9_20090708_1196564930.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocp-fy2006/figure/fractional-impervious-surface-area.json",
+    "identifier": "fractional-impervious-surface-area",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocp-fy2006",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Fractional Impervious Surface Area",
+    "uri": "/report/ccsp-ocp-fy2006/figure/fractional-impervious-surface-area",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

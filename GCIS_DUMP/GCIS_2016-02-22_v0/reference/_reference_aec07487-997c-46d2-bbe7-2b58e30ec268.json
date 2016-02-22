@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        ".text_styles": "<record><field id=\"4\"><run face=\"italic\" start=\"0\" /><run start=\"41\" /></field></record>",
+        "Author": "Misra, Vasubandhu\rCarlson, Elwood\rCraig, Robin K.\rEnfield, David\rKirtman, Benjamin\rLanding, William\rLee, Sang-Ki\rLetson, David\rMarks, Frank\rObeysekera, Jayantha\rPowell, Mark\rShin, Sang-lk",
+        "Institution": "Florida Climate Change Task Force",
+        "Pages": "61",
+        "Title": "Climate Scenarios: A Florida-Centric View. A White Paper on Climate Scenarios for Florida",
+        "URL": "http://floridaclimate.org/docs/climate_scenario.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "2058",
+        "_uuid": "aec07487-997c-46d2-bbe7-2b58e30ec268",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/flclimchtaskforce-climscenarios-2011",
+    "href": "http://data.globalchange.gov/reference/aec07487-997c-46d2-bbe7-2b58e30ec268.json",
+    "identifier": "aec07487-997c-46d2-bbe7-2b58e30ec268",
+    "uri": "/reference/aec07487-997c-46d2-bbe7-2b58e30ec268"
+}

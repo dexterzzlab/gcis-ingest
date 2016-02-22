@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"55\" /><run start=\"56\" /></field></record>",
+        "Alternate Journal": "Nature",
+        "Author": "Loulergue, L.\rSchilt, A.\rSpahni, R.\rMasson-Delmotte, V.\rBlunier, T.\rLemieux, B.\rBarnola, J. M.\rRaynaud, D.\rStocker, T. F.\rChappellaz, J.",
+        "DOI": "10.1038/nature06950",
+        "Date": "May",
+        "ISSN": "0028-0836",
+        "Issue": "7193",
+        "Journal": "Nature",
+        "Keywords": "climate variability; ice cores; terrestrial plants; methane emissions; greenland; sensitivity; antarctica; atlantic",
+        "Language": "English",
+        "Pages": "383-386",
+        "Title": "Orbital and millennial-scale features of atmospheric CH4 over the past 800,000 years",
+        "Type of Article": "Article",
+        "URL": "http://www.nature.com/nature/journal/v453/n7193/pdf/nature06950.pdf",
+        "Volume": "453",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "1231",
+        "_uuid": "1edf49ce-5f68-4b5a-86b1-a9770d401acc",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/nature06950",
+    "href": "http://data.globalchange.gov/reference/1edf49ce-5f68-4b5a-86b1-a9770d401acc.json",
+    "identifier": "1edf49ce-5f68-4b5a-86b1-a9770d401acc",
+    "uri": "/reference/1edf49ce-5f68-4b5a-86b1-a9770d401acc"
+}

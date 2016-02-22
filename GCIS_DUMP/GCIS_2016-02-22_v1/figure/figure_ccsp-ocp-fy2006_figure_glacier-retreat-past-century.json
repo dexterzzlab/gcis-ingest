@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Repeating photographs from the same location have provided visual documentation of the extent of glacier retreat over the past century. Credit: USGS/Northern Rocky Mountain Science Center.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "46/e5/5a8babc608be8c087b46827b5d50/our_changing_planet_2006_17_20090708_1079500911.jpg",
+            "href": "http://data.globalchange.gov/assets/46/e5/5a8babc608be8c087b46827b5d50/our_changing_planet_2006_17_20090708_1079500911.jpg",
+            "identifier": "da344502-0396-49d6-84f7-d5f86a978ecc",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "bf0ef2c66353a4dfd2af0691895dc8f81a0970cf",
+            "size": 56624,
+            "thumbnail": "46/e5/5a8babc608be8c087b46827b5d50/.thumb-da344502-0396-49d6-84f7-d5f86a978ecc.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/46/e5/5a8babc608be8c087b46827b5d50/.thumb-da344502-0396-49d6-84f7-d5f86a978ecc.png",
+            "uri": "/file/da344502-0396-49d6-84f7-d5f86a978ecc",
+            "url": "/assets/46/e5/5a8babc608be8c087b46827b5d50/our_changing_planet_2006_17_20090708_1079500911.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocp-fy2006/figure/glacier-retreat-past-century.json",
+    "identifier": "glacier-retreat-past-century",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocp-fy2006",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Glacier Retreat over the Past Century",
+    "uri": "/report/ccsp-ocp-fy2006/figure/glacier-retreat-past-century",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

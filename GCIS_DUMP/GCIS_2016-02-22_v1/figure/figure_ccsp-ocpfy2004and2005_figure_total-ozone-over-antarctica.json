@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Satellite maps of total ozone over Antarctica on 24 September 2001, 2002, and 2003. The color scale shows the amount of ozone in Dobson units, indicating the depth of the hole. The images are based on multiple satellite records and analyses. Credit: Susan Solomon, \u201cThe hole truth.\u201d Nature, 427, 22 January 2004. World Ozone and Ultraviolet Radiation Data Centre, Toronto, Canada.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "dc/2e/10867746968aca28d5b486c99798/our_changing_planet_2004-2005_24_20090708_1202912568.jpg",
+            "href": "http://data.globalchange.gov/assets/dc/2e/10867746968aca28d5b486c99798/our_changing_planet_2004-2005_24_20090708_1202912568.jpg",
+            "identifier": "8e104c0a-65f4-4487-a37b-207a5107b038",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "3011a171089c324a931278ba78c7a0fa06b0983e",
+            "size": 47213,
+            "thumbnail": "dc/2e/10867746968aca28d5b486c99798/.thumb-8e104c0a-65f4-4487-a37b-207a5107b038.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/dc/2e/10867746968aca28d5b486c99798/.thumb-8e104c0a-65f4-4487-a37b-207a5107b038.png",
+            "uri": "/file/8e104c0a-65f4-4487-a37b-207a5107b038",
+            "url": "/assets/dc/2e/10867746968aca28d5b486c99798/our_changing_planet_2004-2005_24_20090708_1202912568.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2004and2005/figure/total-ozone-over-antarctica.json",
+    "identifier": "total-ozone-over-antarctica",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2004and2005",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Total Ozone Over Antarctica",
+    "uri": "/report/ccsp-ocpfy2004and2005/figure/total-ozone-over-antarctica",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

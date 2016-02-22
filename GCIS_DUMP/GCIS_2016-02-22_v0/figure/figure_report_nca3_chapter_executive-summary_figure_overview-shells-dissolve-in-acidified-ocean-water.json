@@ -1,0 +1,130 @@
+{
+    "attributes": null,
+    "caption": "Pteropods, or \u201csea butterflies,\u201d are eaten by a variety of marine species ranging from tiny krill to salmon to whales. The photos show what happens to a pteropod\u2019s shell in seawater that is too acidic. On the left is a shell from a live pteropod from a region in the Southern Ocean where acidity is not too high. The shell on the right is from a pteropod in a region where the water is more acidic. (Figure source: (left) Bednar\u0161ek et al. 2012<tbib>f5ea3c8e-a727-47a1-981c-4db49a0b6d33</tbib> (right) Nina Bednar\u0161ek).",
+    "chapter": {
+        "doi": "10.7930/J0QN64NJ",
+        "identifier": "executive-summary",
+        "number": 1,
+        "report_identifier": "nca3",
+        "sort_key": 10,
+        "title": "Overview and Report Findings",
+        "url": " http://nca2014.globalchange.gov/highlights/overview/overview#narrative-page-20884"
+    },
+    "chapter_identifier": "executive-summary",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2526.json",
+            "id": 2526,
+            "organization": {
+                "country_code": "US",
+                "identifier": "pacific-marine-environmental-laboratory",
+                "name": "National Oceanic and Atmospheric Administration Pacific Marine Environmental Laboratory",
+                "organization_type_identifier": "federal",
+                "url": "http://www.pmel.noaa.gov"
+            },
+            "organization_uri": "/organization/pacific-marine-environmental-laboratory",
+            "person": {
+                "first_name": "Nina",
+                "id": 1458,
+                "last_name": "Bednarsek",
+                "middle_name": null,
+                "orcid": null,
+                "url": "http://www.pmel.noaa.gov/co2/file/Nina+Bednarsek"
+            },
+            "person_id": 1458,
+            "person_uri": "/person/1458",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2526"
+        }
+    ],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "5a/e8/99a6d8cc9c7e286663299828a1fd/CS_pteropod_series_V3.png",
+            "href": "http://data.globalchange.gov/assets/5a/e8/99a6d8cc9c7e286663299828a1fd/CS_pteropod_series_V3.png",
+            "identifier": "071a85bb-1633-47d6-818f-22b0a95beb18",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "6918e3cd8fb5cb54561c6736532a9bd834f37f58",
+            "size": 636561,
+            "thumbnail": "5a/e8/99a6d8cc9c7e286663299828a1fd/.thumb-071a85bb-1633-47d6-818f-22b0a95beb18.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/5a/e8/99a6d8cc9c7e286663299828a1fd/.thumb-071a85bb-1633-47d6-818f-22b0a95beb18.png",
+            "uri": "/file/071a85bb-1633-47d6-818f-22b0a95beb18",
+            "url": "/assets/5a/e8/99a6d8cc9c7e286663299828a1fd/CS_pteropod_series_V3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/executive-summary/figure/overview-shells-dissolve-in-acidified-ocean-water.json",
+    "identifier": "overview-shells-dissolve-in-acidified-ocean-water",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-07-12T10:10:22",
+            "description": null,
+            "identifier": "eb9bd7dc-3e3a-4001-9a64-f2a0763b3f64",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Ocean Acidification and the Food Web - Right",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2013-07-12T10:10:22",
+            "description": null,
+            "identifier": "8c679de0-4a6c-4fc9-bbd1-59251ffe3d7f",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Ocean Acidification and the Food Web - Left",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [
+        "/report/nca3/chapter/appendix-faqs/figure/ocean-acidification-and-the-food-web",
+        "/report/nca3/chapter/our-changing-climate/figure/shells-dissolve-in-acidified-ocean-water"
+    ],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Extensive dissolution of live pteropods in the Southern Ocean",
+            "note": "",
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1038/ngeo1635"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/f5ea3c8e-a727-47a1-981c-4db49a0b6d33.json",
+            "uri": "/reference/f5ea3c8e-a727-47a1-981c-4db49a0b6d33"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "(left) Bednar\u0161ek et al. 2012;<tbib>f5ea3c8e-a727-47a1-981c-4db49a0b6d33</tbib> (right) Nina Bednar\u0161ek",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Shells Dissolve in Acidifed Ocean Water",
+    "uri": "/report/nca3/chapter/executive-summary/figure/overview-shells-dissolve-in-acidified-ocean-water",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

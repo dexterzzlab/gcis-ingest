@@ -1,0 +1,76 @@
+{
+    "attributes": null,
+    "caption": "Ocean waters have already become more acidic from absorbing carbon dioxide from the atmosphere. As this absorption lowers pH, it reduces the amount of calcium carbonate, which is critical for many marine species to reproduce and grow. Maps show projections of the saturation state of aragonite (the form of calcium carbonate used by coral and many other species) if CO2 levels were stabilized at 380 ppm (a level that has already been exceeded), 450 ppm (middle map), and 500 ppm (bottom map), corresponding approximately to the years 2005, 2030, and 2050, assuming a decrease in emissions from the current trend (scenario A1B). As shown on the maps, many areas that are adequate will become marginal. Higher emissions will lead to many more places where aragonite concentrations are \u201cmarginal\u201d or \u201cextremely marginal\u201d in much of the Pacific. (Figure source: Burke et al. 2011<tbib>3d9112b9-6aa1-4614-9599-6966c9591ef9</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0W66HPM",
+        "identifier": "hawaii",
+        "number": 23,
+        "report_identifier": "nca3",
+        "sort_key": 230,
+        "title": "Hawai'i and U.S. Affiliated Pacific Islands",
+        "url": "http://nca2014.globalchange.gov/report/regions/hawaii-and-pacific-islands"
+    },
+    "chapter_identifier": "hawaii",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-12T13:54:00",
+    "files": [
+        {
+            "file": "0d/7e/4ffc0f2be5e0729f0af1fd5eb387/HI_acidification_hi-res_V2.png",
+            "href": "http://data.globalchange.gov/assets/0d/7e/4ffc0f2be5e0729f0af1fd5eb387/HI_acidification_hi-res_V2.png",
+            "identifier": "9417ab52-c9d9-4056-b5d8-a3630d8c8c5b",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "a2f61d66708bec35974a5a50c7cff2dd119ea040",
+            "size": 1386073,
+            "thumbnail": "0d/7e/4ffc0f2be5e0729f0af1fd5eb387/.thumb-9417ab52-c9d9-4056-b5d8-a3630d8c8c5b.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/0d/7e/4ffc0f2be5e0729f0af1fd5eb387/.thumb-9417ab52-c9d9-4056-b5d8-a3630d8c8c5b.png",
+            "uri": "/file/9417ab52-c9d9-4056-b5d8-a3630d8c8c5b",
+            "url": "/assets/0d/7e/4ffc0f2be5e0729f0af1fd5eb387/HI_acidification_hi-res_V2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/hawaii/figure/increased-acidification-decreases-suitable-coral-habitat.json",
+    "identifier": "increased-acidification-decreases-suitable-coral-habitat",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-11-12T13:54:00",
+            "description": null,
+            "identifier": "182695b1-5984-474e-b1da-15613b0f3fdd",
+            "lat_max": "90.00",
+            "lat_min": "-90.00",
+            "lon_max": "180.00",
+            "lon_min": "-180.00",
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Increased Acidification Decreases Suitable Coral Habitat",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 3,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/3d9112b9-6aa1-4614-9599-6966c9591ef9.json",
+            "uri": "/reference/3d9112b9-6aa1-4614-9599-6966c9591ef9"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "Burke et al. 2011<tbib>3d9112b9-6aa1-4614-9599-6966c9591ef9</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Increased Acidification Decreases Suitable Coral Habitat",
+    "uri": "/report/nca3/chapter/hawaii/figure/increased-acidification-decreases-suitable-coral-habitat",
+    "url": "http://nca2014.globalchange.gov/report/regions/hawaii-and-pacific-islands/graphics/increased-acidification-decreases-suitable-coral",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

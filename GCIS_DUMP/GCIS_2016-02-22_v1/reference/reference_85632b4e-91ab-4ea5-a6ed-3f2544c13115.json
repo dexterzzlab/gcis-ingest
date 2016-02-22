@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Johnson, T.D.",
+        "ISSN": "0028-0496",
+        "Issue": "4",
+        "Journal": "The Nation\u2019s Health",
+        "Title": "Shortage of US public health workers projected to worsen: About 250,000 new workers needed",
+        "URL": "http://www.medscape.com/viewarticle/573792",
+        "Volume": "38",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "1535",
+        "_uuid": "85632b4e-91ab-4ea5-a6ed-3f2544c13115",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/shortage-of-us-public-health-workers-projected-to-worsen-about-250000-new-workers-needed",
+    "href": "http://data.globalchange.gov/reference/85632b4e-91ab-4ea5-a6ed-3f2544c13115.json",
+    "identifier": "85632b4e-91ab-4ea5-a6ed-3f2544c13115",
+    "uri": "/reference/85632b4e-91ab-4ea5-a6ed-3f2544c13115"
+}

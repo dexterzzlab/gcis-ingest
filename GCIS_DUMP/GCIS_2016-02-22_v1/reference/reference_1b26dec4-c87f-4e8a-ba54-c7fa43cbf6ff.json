@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "EPA,",
+        "Institution": "U.S. Environmental Protection Agency, National Center for Environmental Assessment, Office of Research and Development",
+        "Pages": "131",
+        "Place Published": "Washington, D.C.",
+        "Title": "Assessment of the Impacts of Global Change on Regional U.S. Air Quality: A Synthesis of Climate Change Impacts on Ground-Level Ozone. An Interim Report of the U.S. EPA Global Change Research Program",
+        "URL": "http://cfpub.epa.gov/ncea/cfm/recordisplay.cfm?deid=203459",
+        "Volume": "2009",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "122",
+        "_uuid": "1b26dec4-c87f-4e8a-ba54-c7fa43cbf6ff",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/epa-600-r-07-09f",
+    "href": "http://data.globalchange.gov/reference/1b26dec4-c87f-4e8a-ba54-c7fa43cbf6ff.json",
+    "identifier": "1b26dec4-c87f-4e8a-ba54-c7fa43cbf6ff",
+    "uri": "/reference/1b26dec4-c87f-4e8a-ba54-c7fa43cbf6ff"
+}

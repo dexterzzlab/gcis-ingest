@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".date": "October 28-November 1, 1998",
+        ".reference_type": "7",
+        "Author": "Pungowiyi, C.",
+        "Book Title": "Native Peoples-Native Homelands Climate Change Workshop: Final Report: Circles of Wisdom",
+        "Editor": "Maynard, N.G.",
+        "Pages": "11-12",
+        "Place Published": "Albuquerque Convention Center, Albuquerque, New Mexico",
+        "Publisher": "NASA Goddard Space Flight Center",
+        "Reviewer": "55866e23-04c0-406a-aee0-6df58cde18be",
+        "Title": "Special report on climate impacts in the Arctic",
+        "URL": "http://www.usgcrp.gov/usgcrp/Library/nationalassessment/native.pdf",
+        "Year": "2002",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\",\"Ch. 1: Overview FINAL\"]",
+        "_record_number": "4569",
+        "_uuid": "55866e23-04c0-406a-aee0-6df58cde18be",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/usgcrp-nativepeoples-workshop",
+    "href": "http://data.globalchange.gov/reference/55866e23-04c0-406a-aee0-6df58cde18be.json",
+    "identifier": "55866e23-04c0-406a-aee0-6df58cde18be",
+    "uri": "/reference/55866e23-04c0-406a-aee0-6df58cde18be"
+}

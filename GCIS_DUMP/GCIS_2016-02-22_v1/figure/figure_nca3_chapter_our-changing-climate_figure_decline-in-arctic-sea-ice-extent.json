@@ -1,0 +1,135 @@
+{
+    "attributes": null,
+    "caption": "Summer Arctic sea ice has declined dramatically since satellites began measuring it in 1979. The extent of sea ice in September 2012, shown in white in the top figure, was more than 40% below the median for 1979-2000. The graph on the bottom left shows annual variations in September Arctic sea ice extent for 1979-2013. It is also notable that the ice has become much thinner in recent years, so its total volume (bottom right) has declined even more rapidly than the extent.<tbib>2ecb64ff-f4e0-4acd-b049-e5d04f44c57a</tbib> (Figure and data from National Snow and Ice Data Center).",
+    "chapter": {
+        "doi": "10.7930/J0KW5CXT",
+        "identifier": "our-changing-climate",
+        "number": 2,
+        "report_identifier": "nca3",
+        "sort_key": 20,
+        "title": "Our Changing Climate",
+        "url": "http://nca2014.globalchange.gov/report/our-changing-climate/introduction"
+    },
+    "chapter_identifier": "our-changing-climate",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/4729.json",
+            "id": 4729,
+            "organization": {
+                "country_code": "US",
+                "identifier": "national-aeronautics-space-administration",
+                "name": "National Aeronautics and Space Administration",
+                "organization_type_identifier": "federal",
+                "url": "http://www.nasa.gov"
+            },
+            "organization_uri": "/organization/national-aeronautics-space-administration",
+            "person": {
+                "first_name": "Walt",
+                "id": 2207,
+                "last_name": "Meier",
+                "middle_name": null,
+                "orcid": null,
+                "url": "https://nsidc.org/research/bios/meier.html"
+            },
+            "person_id": 2207,
+            "person_uri": "/person/2207",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/4729"
+        }
+    ],
+    "create_dt": "2013-11-13T10:54:00",
+    "files": [
+        {
+            "file": "14/3c/811f9381628a1fd7bd55e2082caa/CS_arctic_sea_ice_loss_V2.png",
+            "href": "http://data.globalchange.gov/assets/14/3c/811f9381628a1fd7bd55e2082caa/CS_arctic_sea_ice_loss_V2.png",
+            "identifier": "7eb4ff01-ad68-4285-af39-b39de9fb15c7",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "5378924f8a6a60a0165f17ace5f76cb0202b1842",
+            "size": 705855,
+            "thumbnail": "14/3c/811f9381628a1fd7bd55e2082caa/.thumb-7eb4ff01-ad68-4285-af39-b39de9fb15c7.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/14/3c/811f9381628a1fd7bd55e2082caa/.thumb-7eb4ff01-ad68-4285-af39-b39de9fb15c7.png",
+            "uri": "/file/7eb4ff01-ad68-4285-af39-b39de9fb15c7",
+            "url": "/assets/14/3c/811f9381628a1fd7bd55e2082caa/CS_arctic_sea_ice_loss_V2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/our-changing-climate/figure/decline-in-arctic-sea-ice-extent.json",
+    "identifier": "decline-in-arctic-sea-ice-extent",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-11-13T10:54:00",
+            "description": null,
+            "identifier": "93450c9e-10c4-4486-8637-0bfb85c811e9",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2012-12-31T23:59:59",
+            "time_start": "1980-01-01T00:00:00",
+            "title": "Decline in Sea Ice Extent - Map",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2013-11-13T10:54:00",
+            "description": null,
+            "identifier": "ea5b50f6-3608-4e86-8dff-733323153b4f",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2013-12-31T23:59:59",
+            "time_start": "1975-01-01T00:00:00",
+            "title": "Decline in Sea Ice Extent - Average Extent in September (Bottom Left)",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2013-11-13T10:54:00",
+            "description": null,
+            "identifier": "95193b35-7284-489b-8487-b4815d947499",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2012-12-31T23:59:59",
+            "time_start": "2003-01-01T00:00:00",
+            "title": "Decline in Sea Ice Extent - Average Volume",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 28,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/2ecb64ff-f4e0-4acd-b049-e5d04f44c57a.json",
+            "uri": "/reference/2ecb64ff-f4e0-4acd-b049-e5d04f44c57a"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "National Snow and Ice Data Center",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Decline in Arctic Sea Ice Extent",
+    "uri": "/report/nca3/chapter/our-changing-climate/figure/decline-in-arctic-sea-ice-extent",
+    "url": "http://nca2014.globalchange.gov/report/our-changing-climate/melting-ice/graphics/decline-arctic-sea-ice-extent",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

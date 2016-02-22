@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "City of Keene,",
+        "Institution": "City of Keene",
+        "Place Published": "Keene, New Hampshire",
+        "Title": "Keene Comprehensive Master Plan",
+        "URL": "http://www.ci.keene.nh.us/sites/default/files/CMPprint-final-1027-fullversion_2.pdf",
+        "Volume": "2010",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "1021",
+        "_uuid": "b9ec7567-97e8-41c8-84b5-e40e45ab97d6",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/cityofkeene-cmp-2010",
+    "href": "http://data.globalchange.gov/reference/b9ec7567-97e8-41c8-84b5-e40e45ab97d6.json",
+    "identifier": "b9ec7567-97e8-41c8-84b5-e40e45ab97d6",
+    "uri": "/reference/b9ec7567-97e8-41c8-84b5-e40e45ab97d6"
+}

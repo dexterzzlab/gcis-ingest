@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "The water resources of the western United States depend heavily on snowpack to store part of the wintertime precipitation into the drier summer months. A well-documented shift toward earlier runoff in recent decades has been attributed to 1) more precipitation falling as rain instead of snow and 2) earlier snowmelt. The present study addresses the former, documenting a regional trend toward smaller ratios of winter-total snowfall water equivalent (SFE) to winter-total precipitation (P) during the period 1949-2004.|The trends toward reduced SFE are a response to warming across the region, with the most significant reductions occurring where winter wet-day minimum temperatures, averaged over the study period, were warmer than -5 degrees C. Most SFE reductions were associated with winter wet-day temperature increases between 0 degrees and -3 degrees C over the study period. Warmings larger than this occurred mainly at sites where the mean temperatures were cool enough that the precipitation form was less susceptible to warming trends.|The trends toward reduced SFE/P ratios were most pronounced in March regionwide and in January near the West Coast, corresponding to widespread warming in these months. While mean temperatures in March were sufficiently high to allow the warming trend to produce SFE/P declines across the study region, mean January temperatures were cooler, with the result that January SFE/P impacts were restricted to the lower elevations near the West Coast.|Extending the analysis back to 1920 shows that although the trends presented here may be partially attributable to interdecadal climate variability associated with the Pacific decadal oscillation, they also appear to result from still longer-term climate shifts.",
+        "Accession Number": "154",
+        "Author": "Knowles, N.\rDettinger, M.D.\rCayan, D.R.",
+        "Author Address": "Knowles, N (reprint author), US Geol Survey, MS 496,345 Middlefield Rd, Menlo Pk, CA 94025 USA; US Geol Survey, Menlo Pk, CA 94025 USA; Univ Calif San Diego, Scripps Inst Oceanog, La Jolla, CA 92093 USA",
+        "DOI": "10.1175/JCLI3850.1",
+        "Date": "SEP 2006",
+        "ISSN": "1520-0442",
+        "Issue": "18",
+        "Journal": "Journal of Climate",
+        "Keywords": "SNOWMELT RUNOFF; NORTH-AMERICA; CLIMATE; TEMPERATURE; CALIFORNIA; ACCURACY; BASIN",
+        "Language": "English",
+        "Pages": "4545-4559",
+        "Title": "Trends in snowfall versus rainfall in the western United States",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/JCLI3850.1",
+        "Volume": "19",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\",\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "1697",
+        "_uuid": "73760c11-7b97-4876-a24f-8fb54b01bca9",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/JCLI3850.1",
+    "href": "http://data.globalchange.gov/reference/73760c11-7b97-4876-a24f-8fb54b01bca9.json",
+    "identifier": "73760c11-7b97-4876-a24f-8fb54b01bca9",
+    "uri": "/reference/73760c11-7b97-4876-a24f-8fb54b01bca9"
+}

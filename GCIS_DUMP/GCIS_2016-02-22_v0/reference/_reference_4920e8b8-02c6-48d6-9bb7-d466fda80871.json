@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Lawrence, David M.\rSlater, Andrew G.",
+        "DOI": "10.1007/s00382-007-0278-1",
+        "ISSN": "0930-7575",
+        "Issue": "2-3",
+        "Journal": "Climate Dynamics",
+        "Pages": "145-160",
+        "Title": "Incorporating organic soil into a global climate model",
+        "URL": "http://www.springerlink.com/index/10.1007/s00382-007-0278-1",
+        "Volume": "30",
+        "Year": "2008",
+        "_chapter": "[\"RG 7 Alaska\",\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "942",
+        "_uuid": "4920e8b8-02c6-48d6-9bb7-d466fda80871",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s00382-007-0278-1",
+    "href": "http://data.globalchange.gov/reference/4920e8b8-02c6-48d6-9bb7-d466fda80871.json",
+    "identifier": "4920e8b8-02c6-48d6-9bb7-d466fda80871",
+    "uri": "/reference/4920e8b8-02c6-48d6-9bb7-d466fda80871"
+}

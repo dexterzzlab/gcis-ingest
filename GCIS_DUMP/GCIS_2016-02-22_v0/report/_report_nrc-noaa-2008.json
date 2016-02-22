@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": "10.17226/12015",
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/nrc-noaa-2008.json",
+    "identifier": "nrc-noaa-2008",
+    "in_library": null,
+    "publication_year": 2008,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Research and Networks for Decision Support in the NOAA Sectoral Applications Research Program",
+    "topic": null,
+    "uri": "/report/nrc-noaa-2008",
+    "url": "http://www.nap.edu/catalog/12015/research-and-networks-for-decision-support-in-the-noaa-sectoral-applications-research-program"
+}

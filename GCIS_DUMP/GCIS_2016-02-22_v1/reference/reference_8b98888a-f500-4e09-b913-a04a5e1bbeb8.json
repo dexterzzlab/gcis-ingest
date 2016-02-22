@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Huppert, Daniel D.\rMoore, Amber\rDyson, Karen",
+        "Book Title": "The Washington Climate Change Impacts Assessment: Evaluating Washington\u2019s Future in a Changing Climate",
+        "Chapter": "8",
+        "Pages": "285-309",
+        "Place Published": "Seattle, WA",
+        "Publisher": "Climate Impacts Group, University of Washington",
+        "Reviewer": "8b98888a-f500-4e09-b913-a04a5e1bbeb8",
+        "Title": "Coasts: Impacts of climate change on the coasts of Washington State",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "3610",
+        "_uuid": "8b98888a-f500-4e09-b913-a04a5e1bbeb8",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/uwash-waclimch-2009",
+    "href": "http://data.globalchange.gov/reference/8b98888a-f500-4e09-b913-a04a5e1bbeb8.json",
+    "identifier": "8b98888a-f500-4e09-b913-a04a5e1bbeb8",
+    "uri": "/reference/8b98888a-f500-4e09-b913-a04a5e1bbeb8"
+}

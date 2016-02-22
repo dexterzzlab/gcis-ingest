@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Izaurralde, R.C.\rThomson, A.M.\rMorgan, J.A.\rFay, P.A.\rPolley, H.W.\rHatfield, J.L.",
+        "DOI": "10.2134/agronj2010.0304",
+        "ISSN": "1435-0645",
+        "Issue": "2",
+        "Journal": "Agronomy Journal",
+        "Pages": "371-381",
+        "Title": "Climate impacts on agriculture: Implications for forage and rangeland production",
+        "Volume": "103",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "362",
+        "_uuid": "f2d332c1-eccb-4442-9036-b8bf9d586b17",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.2134/agronj2010.0304",
+    "href": "http://data.globalchange.gov/reference/f2d332c1-eccb-4442-9036-b8bf9d586b17.json",
+    "identifier": "f2d332c1-eccb-4442-9036-b8bf9d586b17",
+    "uri": "/reference/f2d332c1-eccb-4442-9036-b8bf9d586b17"
+}

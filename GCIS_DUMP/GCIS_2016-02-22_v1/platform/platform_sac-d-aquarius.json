@@ -1,0 +1,12 @@
+{
+    "description": "SAC-D/Aquarius is a cooperative international mission between CONAE (Comisi\u00f3n Nacional de Actividades Espaciales), Argentina, and NASA, USA. NASA uses the term for the mission within its ESSP (Earth System Science Pathfinder) program (where Aquarius happens to be the prime instrument of the mission). At CONAE, which provides the spacecraft, the mission is referred to as (Scientific Application Satellite-D) in reference to its previous missions. On March 3, 2004, the Memorandum of Understanding (MOU) for SAC-D/Aquarius construction was signed by Jorge Taiana, vice-chairman of the Board of the Argentine Space Agency CONAE, and the Administrator of NASA, Sean O'Keefe. The MOU was signed in Buenos Aires giving formal status to the decision to construct fully in Argentina the joint space mission SAC-D/Aquarius.",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/s/sac-d",
+    "end_date": "2017-06-01T00:00:00",
+    "href": "http://data.globalchange.gov/platform/sac-d-aquarius.json",
+    "identifier": "sac-d-aquarius",
+    "name": "SAC-D/Aquarius",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "2011-06-10T00:00:00",
+    "uri": "/platform/sac-d-aquarius",
+    "url": "http://www.conae.gov.ar/"
+}

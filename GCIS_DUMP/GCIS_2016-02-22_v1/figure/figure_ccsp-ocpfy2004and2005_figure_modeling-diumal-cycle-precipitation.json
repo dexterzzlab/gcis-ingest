@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Modeling the diurnal cycle of precipitation. The mean June-July-August local solar time of non-drizzle precipitation frequency maximum has been simulated with the standard Community Atmosphere Model (CAM) (upper panel); super-parameterization CAM (middle panel); and from observational data set by Dai (bottom panel). Non-drizzle precipitation was defined as producing mean precipitation rate in excess of 1 mm per day over a 3-hour interval. Source: From Khairoutdinov et al. 2004, J. Atmos. Sci., submitted.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "84/a6/ebe14821d1c5208e7b1a2cbeadd1/our_changing_planet_2004-2005_3_20090708_1284242744.jpg",
+            "href": "http://data.globalchange.gov/assets/84/a6/ebe14821d1c5208e7b1a2cbeadd1/our_changing_planet_2004-2005_3_20090708_1284242744.jpg",
+            "identifier": "492edcc6-13a1-4d37-841a-36fb9ed13239",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "52baf418b0e6958ca460a64dcd6cb29d6ac29447",
+            "size": 141844,
+            "thumbnail": "84/a6/ebe14821d1c5208e7b1a2cbeadd1/.thumb-492edcc6-13a1-4d37-841a-36fb9ed13239.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/84/a6/ebe14821d1c5208e7b1a2cbeadd1/.thumb-492edcc6-13a1-4d37-841a-36fb9ed13239.png",
+            "uri": "/file/492edcc6-13a1-4d37-841a-36fb9ed13239",
+            "url": "/assets/84/a6/ebe14821d1c5208e7b1a2cbeadd1/our_changing_planet_2004-2005_3_20090708_1284242744.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2004and2005/figure/modeling-diumal-cycle-precipitation.json",
+    "identifier": "modeling-diumal-cycle-precipitation",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2004and2005",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Modeling the Diumal Cycle of Precipitation",
+    "uri": "/report/ccsp-ocpfy2004and2005/figure/modeling-diumal-cycle-precipitation",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

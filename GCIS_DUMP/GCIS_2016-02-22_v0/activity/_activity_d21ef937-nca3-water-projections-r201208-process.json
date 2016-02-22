@@ -1,0 +1,15 @@
+{
+    "computing_environment": "Linux",
+    "data_usage": "- The input data were monthly soil moisture content; there are 16 models with a total of 73 ensemble members.\r\n\r\n-The Western U.S. includes 8 regions and basins: Pacific Northwest, California Klamath, Great Basin, Colorado River Basin, Rio Grande, Missouri River Basin, Arkansas-Red, and West Gulf.\r\n\r\n- There are two emission scenarios: higher emission scenario (A2) and lower emission scenario (B1)\r\n\r\n- Three periods selected: base 1971-2000, mid-century 2041-2070, and end-of-century 2070-2099. For each period, long-term mean SMC is computed for each scenario. The future to base period percent change is drawn on map.",
+    "duration": "160 hours",
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/d21ef937-nca3-water-projections-r201208-process.json",
+    "identifier": "d21ef937-nca3-water-projections-r201208-process",
+    "methodology": "For each scenario and each future period, the percent change is calculated by:\r\n\r\n{[futureMean \u2013 baseMean]/baseMean}x100",
+    "notes": "GrADS 2.0\r\nFortran 95",
+    "output_artifacts": "step1_create_ctl.f95: generating GrADS control files for each dataset\r\nstep2-percent_all.gs: computing percentage change and draw maps\r\nall-percent-smc.eps\r\nall-percent-smc.png",
+    "software": "2.0",
+    "start_time": null,
+    "uri": "/activity/d21ef937-nca3-water-projections-r201208-process",
+    "visualization_software": "GrADS 2.0"
+}

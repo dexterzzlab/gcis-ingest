@@ -1,0 +1,95 @@
+{
+    "attributes": "freeze-free season, frost-free season, temperature, projections, emissions scenarios",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2523.json",
+            "id": 2523,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Laura",
+                "id": 1101,
+                "last_name": "Stevens",
+                "middle_name": null,
+                "orcid": "0000-0002-8842-702X",
+                "url": "http://www.cicsnc.org/people/laura-stevens"
+            },
+            "person_id": 1101,
+            "person_uri": "/person/1101",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2523"
+        }
+    ],
+    "create_dt": "2013-11-05T10:57:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "The maps show projected increases in frost-free season length for the last three decades of this century (2070-2099 as compared to 1971-2000) under two emissions scenarios, one in which heat-trapping gas emissions continue to grow (A2) and one in which emissions peak in 2050 (B1). Increases in the frost-free season correspond to similar increases in the growing season. White areas are projected to experience no freezes for 2070-2099, and gray areas are projected to experience more than 10 frost-free years during the same period. (Figure source: NOAA NCDC / CICS-NC).",
+            "chapter_identifier": "our-changing-climate",
+            "create_dt": "2013-11-19T12:36:00",
+            "identifier": "projected-changes-in-frostfree-season-length",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 11,
+            "report_identifier": "nca3",
+            "source_citation": "NOAA NCDC / CICS-NC",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Projected Changes in Frost-Free Season Length",
+            "url": "http://nca2014.globalchange.gov/report/our-changing-climate/frost-free-season/graphics/projected-changes-frost-free-season-length",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "94/68/fda805f76b51a1086baf08f3cb9d/2-11_a.png",
+            "href": "http://data.globalchange.gov/assets/94/68/fda805f76b51a1086baf08f3cb9d/2-11_a.png",
+            "identifier": "96600f4c-7f93-4db9-acac-3743dcb2c944",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "f8af5219f3d9cf500b0843e7b7def18a4e84d9d8",
+            "size": 299724,
+            "thumbnail": "94/68/fda805f76b51a1086baf08f3cb9d/.thumb-96600f4c-7f93-4db9-acac-3743dcb2c944.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/94/68/fda805f76b51a1086baf08f3cb9d/.thumb-96600f4c-7f93-4db9-acac-3743dcb2c944.png",
+            "uri": "/file/96600f4c-7f93-4db9-acac-3743dcb2c944",
+            "url": "/assets/94/68/fda805f76b51a1086baf08f3cb9d/2-11_a.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/e5101c70-a821-4f52-ba56-d7f5c3cd3e79.json",
+    "identifier": "e5101c70-a821-4f52-ba56-d7f5c3cd3e79",
+    "lat_max": "49.31",
+    "lat_min": "25.19",
+    "lon_max": "-67.06",
+    "lon_min": "-124.69",
+    "parents": [
+        {
+            "activity_uri": "/activity/e5101c70-nca3-cmip3-downscaled-r201304-process",
+            "label": "dataset nca3-cmip3-downscaled-r201304",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-cmip3-downscaled-r201304"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2099-12-31T23:59:59",
+    "time_start": "1971-01-01T00:00:00",
+    "title": "Projected Changes in Frost-Free Season: Higher Emissions (A2)",
+    "uri": "/image/e5101c70-a821-4f52-ba56-d7f5c3cd3e79",
+    "url": null,
+    "usage_limits": null
+}

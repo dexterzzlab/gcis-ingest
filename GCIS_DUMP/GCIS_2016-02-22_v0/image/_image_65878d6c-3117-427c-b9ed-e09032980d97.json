@@ -1,0 +1,78 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": null,
+            "chapter_identifier": null,
+            "create_dt": null,
+            "identifier": "indicator-arctic-sea-ice-extent",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 1,
+            "report_identifier": "indicator-arctic-sea-ice-extent",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": "2014-12-31T23:59:59",
+            "time_start": "1979-01-01T00:00:00",
+            "title": null,
+            "url": null,
+            "usage_limits": "Free to use with credit to USGCRP."
+        }
+    ],
+    "files": [
+        {
+            "file": "50/71/056c15ddfe9b1024c0cc2a2dff7e/Annual_Sea_Ice_Extent_3_3_15.jpg",
+            "href": "http://data.globalchange.gov/assets/50/71/056c15ddfe9b1024c0cc2a2dff7e/Annual_Sea_Ice_Extent_3_3_15.jpg",
+            "identifier": "52505d0d-512c-4413-b718-d7a849ef3c13",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "426be0e2ba198b19263bcebd603fc2bd897d397a",
+            "size": 1037160,
+            "thumbnail": "50/71/056c15ddfe9b1024c0cc2a2dff7e/.thumb-52505d0d-512c-4413-b718-d7a849ef3c13.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/50/71/056c15ddfe9b1024c0cc2a2dff7e/.thumb-52505d0d-512c-4413-b718-d7a849ef3c13.png",
+            "uri": "/file/52505d0d-512c-4413-b718-d7a849ef3c13",
+            "url": "/assets/50/71/056c15ddfe9b1024c0cc2a2dff7e/Annual_Sea_Ice_Extent_3_3_15.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/65878d6c-3117-427c-b9ed-e09032980d97.json",
+    "identifier": "65878d6c-3117-427c-b9ed-e09032980d97",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "table indicator-arctic-sea-ice-extent-data-pilot",
+            "note": "",
+            "publication_type_identifier": "table",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/indicator-arctic-sea-ice-extent/table/indicator-arctic-sea-ice-extent-data-pilot"
+        },
+        {
+            "activity_uri": "/activity/65878d6c-arctic-sea-ice-extent-process",
+            "label": "dataset nsidc-g02135",
+            "note": "",
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nsidc-g02135"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": null,
+    "uri": "/image/65878d6c-3117-427c-b9ed-e09032980d97",
+    "url": null,
+    "usage_limits": "Free to use with credit to USGCRP."
+}

@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Titus, James G.",
+        "Date": "June 2011",
+        "Institution": "U.S. Environmental Protection Agency",
+        "Pages": "179",
+        "Title": "Rolling Easements. EPA 430R11001",
+        "URL": "http://water.epa.gov/type/oceb/cre/upload/rollingeasementsprimer.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "3797",
+        "_uuid": "404d47ed-88ff-422d-989e-8747d295df8a",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/epa-430r-11001",
+    "href": "http://data.globalchange.gov/reference/404d47ed-88ff-422d-989e-8747d295df8a.json",
+    "identifier": "404d47ed-88ff-422d-989e-8747d295df8a",
+    "uri": "/reference/404d47ed-88ff-422d-989e-8747d295df8a"
+}

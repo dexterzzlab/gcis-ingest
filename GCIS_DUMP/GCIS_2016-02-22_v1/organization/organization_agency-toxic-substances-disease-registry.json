@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/agency-toxic-substances-disease-registry.json",
+    "identifier": "agency-toxic-substances-disease-registry",
+    "name": "Agency for Toxic Substances and Disease Registry",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/agency-toxic-substances-disease-registry",
+    "url": "http://www.atsdr.cdc.gov/"
+}

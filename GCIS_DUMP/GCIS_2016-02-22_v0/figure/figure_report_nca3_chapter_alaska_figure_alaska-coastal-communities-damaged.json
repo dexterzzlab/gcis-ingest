@@ -1,0 +1,52 @@
+{
+    "attributes": null,
+    "caption": "One effect of the reduction in Alaska sea ice is that storm surges that used to be buffered by the ice are now\r\n    causing more shoreline damage. Photos show infrastructure damage from coastal erosion in Tuntutuliak (left) and Shishmaref,\r\n    Alaska (right). (Photo credits: (left) Alaska Department of Environmental Conservation; (right) Ned Rozell).",
+    "chapter": {
+        "doi": "10.7930/J00Z7150",
+        "identifier": "alaska",
+        "number": 22,
+        "report_identifier": "nca3",
+        "sort_key": 220,
+        "title": "Alaska",
+        "url": "http://nca2014.globalchange.gov/report/regions/alaska"
+    },
+    "chapter_identifier": "alaska",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "17/85/e5f1ff4539c068514c8f64381a98/AK_coastal_communities_damaged_V5.png",
+            "href": "http://data.globalchange.gov/assets/17/85/e5f1ff4539c068514c8f64381a98/AK_coastal_communities_damaged_V5.png",
+            "identifier": "98cc89f5-48cd-4255-95b3-a9212daf0ad1",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "b873f0a079fa2b4f281ad274118300914659bbb3",
+            "size": 481189,
+            "thumbnail": "17/85/e5f1ff4539c068514c8f64381a98/.thumb-98cc89f5-48cd-4255-95b3-a9212daf0ad1.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/17/85/e5f1ff4539c068514c8f64381a98/.thumb-98cc89f5-48cd-4255-95b3-a9212daf0ad1.png",
+            "uri": "/file/98cc89f5-48cd-4255-95b3-a9212daf0ad1",
+            "url": "/assets/17/85/e5f1ff4539c068514c8f64381a98/AK_coastal_communities_damaged_V5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/alaska/figure/alaska-coastal-communities-damaged.json",
+    "identifier": "alaska-coastal-communities-damaged",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 8,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": "(left) Alaska Department of Environmental Conservation; (right) Ned Rozell",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Alaska Coastal Communities Damaged",
+    "uri": "/report/nca3/chapter/alaska/figure/alaska-coastal-communities-damaged",
+    "url": "http://nca2014.globalchange.gov/report/regions/alaska/graphics/alaska-coastal-communities-damaged",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

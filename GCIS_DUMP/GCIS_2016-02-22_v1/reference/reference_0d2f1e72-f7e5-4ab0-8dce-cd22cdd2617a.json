@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Dennekamp, M.\rAbramson, M.J.",
+        "DOI": "10.1111/j.1440-1843.2010.01868.x",
+        "ISSN": "1440-1843",
+        "Issue": "2",
+        "Journal": "Respirology",
+        "Pages": "198-209",
+        "Title": "The effects of bushfire smoke on respiratory health",
+        "Volume": "16",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "592",
+        "_uuid": "0d2f1e72-f7e5-4ab0-8dce-cd22cdd2617a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1440-1843.2010.01868.x",
+    "href": "http://data.globalchange.gov/reference/0d2f1e72-f7e5-4ab0-8dce-cd22cdd2617a.json",
+    "identifier": "0d2f1e72-f7e5-4ab0-8dce-cd22cdd2617a",
+    "uri": "/reference/0d2f1e72-f7e5-4ab0-8dce-cd22cdd2617a"
+}

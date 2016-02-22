@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "American Meteorological Society",
+        ".reference_type": "0",
+        "Access Date": "2013/06/07",
+        "Author": "Shi, Xiaogang\rD\u00e9ry, Stephen J.\rGroisman, Pavel Ya\rLettenmaier, Dennis P.",
+        "DOI": "10.1175/jcli-d-12-00044.1",
+        "Date": "2013/03/01",
+        "ISSN": "0894-8755",
+        "Issue": "6",
+        "Journal": "Journal of Climate",
+        "Pages": "2048-2064",
+        "Title": "Relationships between recent pan-Arctic snow cover and hydroclimate trends",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/JCLI-D-12-00044.1",
+        "Volume": "26",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "3748",
+        "_uuid": "a600ab73-7283-4837-a5aa-5744d63e4a9b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/jcli-d-12-00044.1",
+    "href": "http://data.globalchange.gov/reference/a600ab73-7283-4837-a5aa-5744d63e4a9b.json",
+    "identifier": "a600ab73-7283-4837-a5aa-5744d63e4a9b",
+    "uri": "/reference/a600ab73-7283-4837-a5aa-5744d63e4a9b"
+}

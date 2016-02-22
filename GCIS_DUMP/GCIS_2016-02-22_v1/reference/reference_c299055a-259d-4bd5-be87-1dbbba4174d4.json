@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "The absorption of atmospheric carbon dioxide (CO2) into the ocean lowers the pH of the waters. This so-called ocean acidification could have important consequences for marine ecosystems. To better understand the extent of this ocean acidification in coastal waters, we conducted hydrographic surveys along the continental shelf of western North America from central Canada to northern Mexico. We observed seawater that is undersaturated with respect to aragonite upwelling onto large portions of the continental shelf, reaching depths of similar to 40 to 120 meters along most transect lines and all the way to the surface on one transect off northern California. Although seasonal upwelling of the undersaturated waters onto the shelf is a natural phenomenon in this region, the ocean uptake of anthropogenic CO2 has increased the areal extent of the affected area.",
+        "Accession Number": "259",
+        "Author": "Feely, R.A.\rC.L. Sabine\rJ.M. Hernandez-Ayon\rD. Ianson\rB. Hales",
+        "Author Address": "Feely, RA (reprint author), NOAA, Pacific Marine Environm Lab, 7600 Sand Point Way NE, Seattle, WA 98115 USA NOAA, Pacific Marine Environm Lab, Seattle, WA 98115 USA Univ Autonoma Baja California, Inst Invest Oceanol, Ensenada, Baja California, Mexico Inst Ocean Sci, Fisheries & Oceans Canada, Sidney, BC V8L 4B2, Canada Oregon State Univ, Coll Ocean & Atmospher Sci, Corvallis, OR 97331 USA",
+        "DOI": "10.1126/science.1155676",
+        "Date": "JUN 13 2008",
+        "ISSN": "0036-8075",
+        "Issue": "5882",
+        "Journal": "Science",
+        "Keywords": "ANTHROPOGENIC CO2; INORGANIC CARBON; PACIFIC-OCEAN; SYSTEM; CALCIFICATION; DISSOLUTION; CALIFORNIA; IMPACT",
+        "Language": "English",
+        "Pages": "1490-1492",
+        "Title": "Evidence for upwelling of corrosive \u201cacidified\u201d water onto the continental shelf",
+        "URL": "http://www.sciencemag.org/content/320/5882/1490.short",
+        "Volume": "320",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\",\"Ch. 2: Our Changing Climate FINAL\",\"RF 11\",\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "664",
+        "_uuid": "c299055a-259d-4bd5-be87-1dbbba4174d4",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1155676",
+    "href": "http://data.globalchange.gov/reference/c299055a-259d-4bd5-be87-1dbbba4174d4.json",
+    "identifier": "c299055a-259d-4bd5-be87-1dbbba4174d4",
+    "uri": "/reference/c299055a-259d-4bd5-be87-1dbbba4174d4"
+}

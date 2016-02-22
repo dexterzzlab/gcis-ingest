@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Cumulative forest loss within the Gunung Palung National Park boundary (yellow line), Indonesia, and its surrounding 10-km buffer, 1988\u20132002. Forest and non-forest classifications are based on Landsat Thematic Mapper time series. Lowland (green) and peat (olive) forests were converted to non-forest (red), first predominantly in the buffer and later within the park. Grey areas are montane forest and excluded from the analyses. Credit: S.N. Trigg, University of Maryland (from Curran et al., 2004).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "53/9d/99ec25bff33c86ac5e693a21e0ad/our_changing_planet_2006_7_20090708_1762625400.jpg",
+            "href": "http://data.globalchange.gov/assets/53/9d/99ec25bff33c86ac5e693a21e0ad/our_changing_planet_2006_7_20090708_1762625400.jpg",
+            "identifier": "ed47e2a4-5524-46e2-ad9c-d449f225df8d",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "4b11d6ee5e73556724e7148a0c0ca55f270aa30a",
+            "size": 45824,
+            "thumbnail": "53/9d/99ec25bff33c86ac5e693a21e0ad/.thumb-ed47e2a4-5524-46e2-ad9c-d449f225df8d.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/53/9d/99ec25bff33c86ac5e693a21e0ad/.thumb-ed47e2a4-5524-46e2-ad9c-d449f225df8d.png",
+            "uri": "/file/ed47e2a4-5524-46e2-ad9c-d449f225df8d",
+            "url": "/assets/53/9d/99ec25bff33c86ac5e693a21e0ad/our_changing_planet_2006_7_20090708_1762625400.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocp-fy2006/figure/forest-clearing-gunung-palung-national-park.json",
+    "identifier": "forest-clearing-gunung-palung-national-park",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocp-fy2006",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Forest Clearing in Gunung Palung National Park",
+    "uri": "/report/ccsp-ocp-fy2006/figure/forest-clearing-gunung-palung-national-park",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

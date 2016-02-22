@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "The reliability of Arctic climate predictions is currently hampered by insufficient knowledge of natural climate variability in the past. A sediment core from Lake El\u2019gygytgyn in northeastern (NE) Russia provides a continuous, high-resolution record from the Arctic, spanning the past 2.8 million years. This core reveals numerous \u201csuper interglacials\u201d during the Quaternary; for marine benthic isotope stages (MIS) 11c and 31, maximum summer temperatures and annual precipitation values are ~4\u00b0 to 5\u00b0C and ~300 millimeters higher than those of MIS 1 and 5e. Climate simulations show that these extreme warm conditions are difficult to explain with greenhouse gas and astronomical forcing alone, implying the importance of amplifying feedbacks and far field influences. The timing of Arctic warming relative to West Antarctic Ice Sheet retreats implies strong interhemispheric climate connectivity.",
+        "Author": "Melles, Martin\rBrigham-Grette, Julie\rMinyuk, Pavel S.\rNowaczyk, Norbert R.\rWennrich, Volker\rDeConto, Robert M.\rAnderson, Patricia M.\rAndreev, Andrei A.\rColetti, Anthony\rCook, Timothy L.\rHaltia-Hovi, Eeva\rKukkonen, Maaret\rLozhkin, Anatoli V.\rRos\u00e9n, Peter\rTarasov, Pavel\rVogel, Hendrik\rWagner, Bernd",
+        "DOI": "10.1126/science.1222135",
+        "Date": "July 20, 2012",
+        "Issue": "6092",
+        "Journal": "Science",
+        "Pages": "315-320",
+        "Title": "2.8 million years of Arctic climate change from Lake El\u2019gygytgyn, NE Russia",
+        "Volume": "337",
+        "Year": "2012",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "4402",
+        "_uuid": "547c621b-1bc9-40e9-b3b1-f55c11daca76",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1222135",
+    "href": "http://data.globalchange.gov/reference/547c621b-1bc9-40e9-b3b1-f55c11daca76.json",
+    "identifier": "547c621b-1bc9-40e9-b3b1-f55c11daca76",
+    "uri": "/reference/547c621b-1bc9-40e9-b3b1-f55c11daca76"
+}

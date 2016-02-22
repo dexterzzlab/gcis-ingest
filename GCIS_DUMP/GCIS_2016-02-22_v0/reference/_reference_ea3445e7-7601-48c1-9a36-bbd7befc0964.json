@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Sun, G.\rS. Arumugam\rP.V. Caldwell\rP.A. Conrads\rA.P. Covich\rJ. Cruise\rJ. Feldt\rA.P. Georgakakos\rR.T. McNider\rS.G. McNulty\rD.A. Marion\rV. Misra\rT.C. Rasmussen\rL. Romolo\rA. Terando",
+        "Book Title": "Climate of the Southeast United States: Variability, Change, Impacts, and Vulnerability",
+        "Editor": "K.T. Ingram\rK. Dow\rL. Carter\rJ. Anderson",
+        "ISBN": "9781610915090",
+        "Pages": " 210-236",
+        "Publisher": "Island Press",
+        "Reviewer": "ea3445e7-7601-48c1-9a36-bbd7befc0964",
+        "Title": "Impacts of climate change and variability on water resources in the Southeast USA",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "4074",
+        "_uuid": "ea3445e7-7601-48c1-9a36-bbd7befc0964",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/7951fbd8-5877-41aa-ae62-9da3eb56b5c5",
+    "href": "http://data.globalchange.gov/reference/ea3445e7-7601-48c1-9a36-bbd7befc0964.json",
+    "identifier": "ea3445e7-7601-48c1-9a36-bbd7befc0964",
+    "uri": "/reference/ea3445e7-7601-48c1-9a36-bbd7befc0964"
+}

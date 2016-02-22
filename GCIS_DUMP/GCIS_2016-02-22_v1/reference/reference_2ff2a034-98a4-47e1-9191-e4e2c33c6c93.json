@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Tomich, T.\rBrodt, S.\rFerris, F.\rGalt, R.\rHorwath, W.\rKebreab, E.\rLeveau, J.\rLiptzin, D.\rLubell, M.\rMerel, P.",
+        "DOI": "10.1146/annurev-environ-012110-121302",
+        "Journal": "Annual Review of Environment and Resources",
+        "Pages": "193-222",
+        "Title": "Agroecology: A review from a global-change perspective",
+        "Volume": "36",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "3077",
+        "_uuid": "2ff2a034-98a4-47e1-9191-e4e2c33c6c93",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1146/annurev-environ-012110-121302",
+    "href": "http://data.globalchange.gov/reference/2ff2a034-98a4-47e1-9191-e4e2c33c6c93.json",
+    "identifier": "2ff2a034-98a4-47e1-9191-e4e2c33c6c93",
+    "uri": "/reference/2ff2a034-98a4-47e1-9191-e4e2c33c6c93"
+}

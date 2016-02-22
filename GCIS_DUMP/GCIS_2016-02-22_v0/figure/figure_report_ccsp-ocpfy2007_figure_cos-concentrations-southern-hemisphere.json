@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "The blue line represents a history of COS concentrations in the Southern Hemisphere. Note the rather significant increase in concentration coincident with the onset of global industrialization, and the decrease more recently as global sulfur emissions have declined. This history was derived from measurements of COS trapped in ice at Siple Dome, Antarctica (black points) and of COS trapped in the snowpack at the South Pole (red line with grey error bounds). Modern-day measurements from the South Pole and Tasmania are indicated with red circles. Open circle and squares were not used in the calculation because meaningful dates could not be assigned. Credit: S.A. Montzka, NOAA/ Earth System Research Laboratory.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "6d/7b/4c5bf6326ea76c330906542c1a43/our_changing_planet_2007_83_20090708_1641563617.jpg",
+            "href": "http://data.globalchange.gov/assets/6d/7b/4c5bf6326ea76c330906542c1a43/our_changing_planet_2007_83_20090708_1641563617.jpg",
+            "identifier": "c17d716b-3719-410c-be00-18c366a10eff",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "bfd1d4bfec71a9a9634c5a0338cc2ba15558c36e",
+            "size": 28604,
+            "thumbnail": "6d/7b/4c5bf6326ea76c330906542c1a43/.thumb-c17d716b-3719-410c-be00-18c366a10eff.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/6d/7b/4c5bf6326ea76c330906542c1a43/.thumb-c17d716b-3719-410c-be00-18c366a10eff.png",
+            "uri": "/file/c17d716b-3719-410c-be00-18c366a10eff",
+            "url": "/assets/6d/7b/4c5bf6326ea76c330906542c1a43/our_changing_planet_2007_83_20090708_1641563617.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/cos-concentrations-southern-hemisphere.json",
+    "identifier": "cos-concentrations-southern-hemisphere",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "COS Concentrations in the Southern Hemisphere",
+    "uri": "/report/ccsp-ocpfy2007/figure/cos-concentrations-southern-hemisphere",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "City of New York,",
+        "Pages": "48",
+        "Place Published": "New York",
+        "Title": "PlaNYC Progress Report 2012. A Greener, Greater New York",
+        "URL": "http://nytelecom.vo.llnwd.net/o15/agencies/planyc2030/pdf/planyc_progress_report_2012.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\",\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "1275",
+        "_uuid": "7b0bf3a9-1644-4dd5-aa9d-694fd413f48a",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/cityofnewyork-planyc2012",
+    "href": "http://data.globalchange.gov/reference/7b0bf3a9-1644-4dd5-aa9d-694fd413f48a.json",
+    "identifier": "7b0bf3a9-1644-4dd5-aa9d-694fd413f48a",
+    "uri": "/reference/7b0bf3a9-1644-4dd5-aa9d-694fd413f48a"
+}

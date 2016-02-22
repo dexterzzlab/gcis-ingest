@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2012.json",
+    "identifier": "usgcrp-ocpfy2012",
+    "in_library": 1,
+    "publication_year": 2012,
+    "report_type_identifier": "report",
+    "summary": "A report by the U.S. Global Research Program and the Subcommittee on Global Change Research. A Supplement to the President's Budget for Fiscal Year 2012.",
+    "title": "Our Changing Planet: The U.S. Global Change Research Program for Fiscal Year 2012 ",
+    "topic": null,
+    "uri": "/report/usgcrp-ocpfy2012",
+    "url": null
+}

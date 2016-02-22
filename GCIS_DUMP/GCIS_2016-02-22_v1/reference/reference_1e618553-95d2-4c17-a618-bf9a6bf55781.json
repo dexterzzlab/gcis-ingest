@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Midwest Independent Transmission System Operator,",
+        "Pages": "123",
+        "Title": "MISO transmission expansion plan 2011",
+        "URL": "https://www.midwestiso.org/Library/Repository/Study/MTEP/MTEP11/MTEP11DraftReport.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "2019",
+        "_uuid": "1e618553-95d2-4c17-a618-bf9a6bf55781",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/miso-tep2011",
+    "href": "http://data.globalchange.gov/reference/1e618553-95d2-4c17-a618-bf9a6bf55781.json",
+    "identifier": "1e618553-95d2-4c17-a618-bf9a6bf55781",
+    "uri": "/reference/1e618553-95d2-4c17-a618-bf9a6bf55781"
+}

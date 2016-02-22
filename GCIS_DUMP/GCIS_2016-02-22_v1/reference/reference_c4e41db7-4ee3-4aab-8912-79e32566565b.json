@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".publisher": "Nature Publishing Group",
+        ".reference_type": "0",
+        "Author": "Wouters, B.\rBamber, J. L.\rvan den Broeke, M. R.\rLenaerts, J. T. M.\rSasgen, I.",
+        "DOI": "10.1038/ngeo1874",
+        "ISSN": "1752-0894",
+        "Issue": "8",
+        "Journal": "Nature Geoscience",
+        "Pages": "613-616",
+        "Title": "Limits in detecting acceleration of ice sheet mass loss due to climate variability",
+        "Volume": "6",
+        "Year": "2013",
+        "_chapter": "[\"Appendix 4: FAQs FINAL\",\"RF 1\"]",
+        "_record_number": "4645",
+        "_uuid": "c4e41db7-4ee3-4aab-8912-79e32566565b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/ngeo1874",
+    "href": "http://data.globalchange.gov/reference/c4e41db7-4ee3-4aab-8912-79e32566565b.json",
+    "identifier": "c4e41db7-4ee3-4aab-8912-79e32566565b",
+    "uri": "/reference/c4e41db7-4ee3-4aab-8912-79e32566565b"
+}

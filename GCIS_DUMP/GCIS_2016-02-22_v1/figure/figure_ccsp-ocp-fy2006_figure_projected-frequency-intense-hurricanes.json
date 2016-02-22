@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Via a high-resolution version of the GFDL hurricane prediction system, the model-projected increase in frequency of intense hurricanes can be seen by comparing the \u201ccontrol\u201d simulation of a climate model run with present-day levels of greenhouse gases (yellow circles) to a simulation corresponding approximately to the year 2080 in which carbon dioxide levels were increased by 1% per year (brown circles). Category 4 hurricane wind speeds range from 131 to 155 mph and Category 5 wind speeds exceed 155 mph. Credit: T. Knutson, NOAA/ Geophysical Fluid Dynamics Laboratory.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "24/d3/3fd50e3cd02b0183c7a7c41c13b9/our_changing_planet_2006_27_20090708_1497830262.jpg",
+            "href": "http://data.globalchange.gov/assets/24/d3/3fd50e3cd02b0183c7a7c41c13b9/our_changing_planet_2006_27_20090708_1497830262.jpg",
+            "identifier": "6f813da7-ff0b-4d9d-a3d7-c676808cf68f",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "b69b6cc2f5666387b2227e9698002187d39cf9e0",
+            "size": 47958,
+            "thumbnail": "24/d3/3fd50e3cd02b0183c7a7c41c13b9/.thumb-6f813da7-ff0b-4d9d-a3d7-c676808cf68f.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/24/d3/3fd50e3cd02b0183c7a7c41c13b9/.thumb-6f813da7-ff0b-4d9d-a3d7-c676808cf68f.png",
+            "uri": "/file/6f813da7-ff0b-4d9d-a3d7-c676808cf68f",
+            "url": "/assets/24/d3/3fd50e3cd02b0183c7a7c41c13b9/our_changing_planet_2006_27_20090708_1497830262.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocp-fy2006/figure/projected-frequency-intense-hurricanes.json",
+    "identifier": "projected-frequency-intense-hurricanes",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocp-fy2006",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Projected Frequency of Intense Hurricanes",
+    "uri": "/report/ccsp-ocp-fy2006/figure/projected-frequency-intense-hurricanes",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

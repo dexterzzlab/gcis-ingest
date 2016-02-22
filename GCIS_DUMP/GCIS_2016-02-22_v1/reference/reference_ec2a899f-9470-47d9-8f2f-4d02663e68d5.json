@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"121\" /><run start=\"122\" /><run face=\"subscript\" start=\"163\" /></field></record>",
+        "Author": "Lenihan, James M.\rBachelet, Dominique\rNeilson, Ronald P.\rDrapek, Raymond",
+        "DOI": "10.1016/j.gloplacha.2008.01.006",
+        "ISSN": "0921-8181",
+        "Issue": "1\u20132",
+        "Journal": "Global and Planetary Change",
+        "Keywords": "climate change\rbiogeography\rcarbon\rCO2 effect\rfire suppression\rMC1 DGVM",
+        "Pages": "16-25",
+        "Title": "Simulated response of conterminous United States ecosystems to climate change at different levels of fire suppression, CO2 emission rate, and growth response to CO2",
+        "Volume": "64",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "3823",
+        "_uuid": "ec2a899f-9470-47d9-8f2f-4d02663e68d5",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.gloplacha.2008.01.006",
+    "href": "http://data.globalchange.gov/reference/ec2a899f-9470-47d9-8f2f-4d02663e68d5.json",
+    "identifier": "ec2a899f-9470-47d9-8f2f-4d02663e68d5",
+    "uri": "/reference/ec2a899f-9470-47d9-8f2f-4d02663e68d5"
+}

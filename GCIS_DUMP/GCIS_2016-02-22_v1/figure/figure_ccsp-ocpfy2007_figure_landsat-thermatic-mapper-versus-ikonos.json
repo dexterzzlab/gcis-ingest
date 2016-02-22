@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "A side-by-side comparison of Landsat Thematic Mapper 30m (left) and Ikonos 1m (right) false-color imagery shows the ancient ruins of Tikal\u2014a Mayan city deep in the Guatemalan rainforest that was lost for almost 1,000 years. The Ikonos imagery resolution of approximately 1 meter can detect individual pyramids, pathways, and small structures. Credit: T.L. Sever, NASA/ Marshall Space Flight Center.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "27/78/960207ef8dcd4e1599c0c834206d/our_changing_planet_2007_59_20090708_1553615498.jpg",
+            "href": "http://data.globalchange.gov/assets/27/78/960207ef8dcd4e1599c0c834206d/our_changing_planet_2007_59_20090708_1553615498.jpg",
+            "identifier": "e6c641e1-b668-4398-9af6-b600932bfe44",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "6be235c17e182c0ae245df49f171fc6325ec7cb7",
+            "size": 31666,
+            "thumbnail": "27/78/960207ef8dcd4e1599c0c834206d/.thumb-e6c641e1-b668-4398-9af6-b600932bfe44.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/27/78/960207ef8dcd4e1599c0c834206d/.thumb-e6c641e1-b668-4398-9af6-b600932bfe44.png",
+            "uri": "/file/e6c641e1-b668-4398-9af6-b600932bfe44",
+            "url": "/assets/27/78/960207ef8dcd4e1599c0c834206d/our_changing_planet_2007_59_20090708_1553615498.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/landsat-thermatic-mapper-versus-ikonos.json",
+    "identifier": "landsat-thermatic-mapper-versus-ikonos",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Landsat Thermatic Mapper vs. Ikonos ",
+    "uri": "/report/ccsp-ocpfy2007/figure/landsat-thermatic-mapper-versus-ikonos",
+    "url": null,
+    "usage_limits": null
+}

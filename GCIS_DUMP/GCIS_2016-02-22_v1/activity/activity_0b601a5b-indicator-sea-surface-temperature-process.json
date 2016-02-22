@@ -1,0 +1,15 @@
+{
+    "computing_environment": null,
+    "data_usage": null,
+    "duration": null,
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/0b601a5b-indicator-sea-surface-temperature-process.json",
+    "identifier": "0b601a5b-indicator-sea-surface-temperature-process",
+    "methodology": "Summary data for 1880-2014 for three latitude bands (0-30N, 0-30S, and 60S-60N) were downloaded from ftp://ftp.ncdc.noaa.gov/pub/data/mlost/operational/products. The result was converted to Fahrenheit. Data are plotted for the three latitude bands for the period 1880 to 2014.  \r\n\r\nThe data used are from January 1, 1880 to June 30, 2014.\r\n\r\nData was accessed on July 2, 2014.",
+    "notes": null,
+    "output_artifacts": null,
+    "software": null,
+    "start_time": null,
+    "uri": "/activity/0b601a5b-indicator-sea-surface-temperature-process",
+    "visualization_software": null
+}

@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Krueger, K.L.\rPierce, K.B.,  Jr.\rQuinn, T.\rPenttila, D.E.",
+        "Book Title": "Puget Sound Shorelines and the Impacts of Armoring\u2014Proceedings of a State of the Science Workshop, May 2009: U.S. Geological Survey Scientific Investigations Report 2010-5254",
+        "Editor": "Shipman, H.\rM.N. Dethier\rG. Gelfenbaum\rK.L. Fresh\rR.S. Dinicola ",
+        "Pages": "171-178",
+        "Place Published": "Reston, VA",
+        "Publisher": "U.S. Geological Survey",
+        "Reviewer": "2c04afbf-ec75-4a9a-a4db-dcb68d2718d0",
+        "Title": "Anticipated Effects of Sea Level Rise in Puget Sound on Two Beach-Spawning Fishes",
+        "URL": "http://pubs.usgs.gov/sir/2010/5254/pdf/sir20105254.pdf",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "94",
+        "_uuid": "2c04afbf-ec75-4a9a-a4db-dcb68d2718d0",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/usgs-sciinvesrep-2010-5254",
+    "href": "http://data.globalchange.gov/reference/2c04afbf-ec75-4a9a-a4db-dcb68d2718d0.json",
+    "identifier": "2c04afbf-ec75-4a9a-a4db-dcb68d2718d0",
+    "uri": "/reference/2c04afbf-ec75-4a9a-a4db-dcb68d2718d0"
+}

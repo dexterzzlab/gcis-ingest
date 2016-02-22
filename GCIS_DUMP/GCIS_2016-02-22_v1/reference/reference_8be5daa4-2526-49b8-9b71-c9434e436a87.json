@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "Ecological Society of America",
+        ".reference_type": "0",
+        "Access Date": "2013/07/29",
+        "Author": "Barbier, Edward B.\rHacker, Sally D.\rKennedy, Chris\rKoch, Evamaria W.\rStier, Adrian C.\rSilliman, Brian R.",
+        "DOI": "10.1890/10-1510.1",
+        "Date": "2011/05/01",
+        "ISSN": "0012-9615",
+        "Issue": "2",
+        "Journal": "Ecological Monographs",
+        "Pages": "169-193",
+        "Title": "The value of estuarine and coastal ecosystem services",
+        "URL": "http://www.esajournals.org/doi/pdf/10.1890/10-1510.1",
+        "Volume": "81",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "3853",
+        "_uuid": "8be5daa4-2526-49b8-9b71-c9434e436a87",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/10-1510.1",
+    "href": "http://data.globalchange.gov/reference/8be5daa4-2526-49b8-9b71-c9434e436a87.json",
+    "identifier": "8be5daa4-2526-49b8-9b71-c9434e436a87",
+    "uri": "/reference/8be5daa4-2526-49b8-9b71-c9434e436a87"
+}

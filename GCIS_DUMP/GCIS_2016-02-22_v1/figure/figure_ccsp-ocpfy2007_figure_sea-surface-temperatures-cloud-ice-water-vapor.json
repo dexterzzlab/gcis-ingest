@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Observations of sea surface temperature [from the National Center for Environmental Prediction (top)], cloud ice [from Aura Microwave Limb Sounder (MLS, middle)], and upper tropospheric water vapor [from Aura MLS (bottom)] averaged for August 2004 through July 2005. These products illustrate increasing sea surface temperature associated with increasing convective clouds and increasing upper tropospheric water vapor. This convective cloud-induced moistening of the upper troposphere leads to an enhanced greenhouse effect due to water vapor\u2014three times larger than without convection\u2014exacerbating the impact of global warming. Credit: H. Su, California Institute of Technology/ Jet Propulsion Laboratory.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "0c/9f/c8b545048de7fc9a8540b0302dc2/our_changing_planet_2007_81_20090708_1755533424.jpg",
+            "href": "http://data.globalchange.gov/assets/0c/9f/c8b545048de7fc9a8540b0302dc2/our_changing_planet_2007_81_20090708_1755533424.jpg",
+            "identifier": "9fc37249-d4fe-4325-9253-497e0f6a6682",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "9ef4b80f4be6a6cc41804e83b2cb1788d6871ef5",
+            "size": 60127,
+            "thumbnail": "0c/9f/c8b545048de7fc9a8540b0302dc2/.thumb-9fc37249-d4fe-4325-9253-497e0f6a6682.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/0c/9f/c8b545048de7fc9a8540b0302dc2/.thumb-9fc37249-d4fe-4325-9253-497e0f6a6682.png",
+            "uri": "/file/9fc37249-d4fe-4325-9253-497e0f6a6682",
+            "url": "/assets/0c/9f/c8b545048de7fc9a8540b0302dc2/our_changing_planet_2007_81_20090708_1755533424.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/sea-surface-temperatures-cloud-ice-water-vapor.json",
+    "identifier": "sea-surface-temperatures-cloud-ice-water-vapor",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Sea Surface Temperatures, Cloud Ice, and Water Vapor",
+    "uri": "/report/ccsp-ocpfy2007/figure/sea-surface-temperatures-cloud-ice-water-vapor",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

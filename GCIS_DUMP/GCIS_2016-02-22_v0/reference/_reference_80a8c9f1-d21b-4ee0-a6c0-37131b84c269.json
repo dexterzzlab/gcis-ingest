@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Brunkard, J.\rNamulanda, G.\rRatard, R.",
+        "DOI": "10.1097/DMP.0b013e31818aaf55",
+        "Issue": "4",
+        "Journal": "Disaster Medicine and Public Health Preparedness",
+        "Pages": "215-223",
+        "Title": "Hurricane Katrina deaths, Louisiana, 2005",
+        "Volume": "2",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "864",
+        "_uuid": "80a8c9f1-d21b-4ee0-a6c0-37131b84c269",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1097/DMP.0b013e31818aaf55",
+    "href": "http://data.globalchange.gov/reference/80a8c9f1-d21b-4ee0-a6c0-37131b84c269.json",
+    "identifier": "80a8c9f1-d21b-4ee0-a6c0-37131b84c269",
+    "uri": "/reference/80a8c9f1-d21b-4ee0-a6c0-37131b84c269"
+}

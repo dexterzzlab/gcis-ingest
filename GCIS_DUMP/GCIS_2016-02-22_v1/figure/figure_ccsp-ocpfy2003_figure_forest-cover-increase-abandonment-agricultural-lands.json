@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Forest cover increase and abandonment of marginal agricultural lands in the Upper Midwest. An increase in forest cover since 1970 has been found in analyses of the U.S. Upper Midwest. This increase results in increased carbon sequestration because forest cover is primarily replacing pastures and croplands. Credit: School of Natural Resources and Environment, University of Michigan. | Grand Traverse County, Michigan. The left image illustrates land use change by parcel interpreted from aerial photographs. Green colors are forest, beige/yellow is agriculture and pink color is residential development. The right image is forest cover from Landsat MSS satellite images. Green is forest and light yellow is not forest. The images illustrate the forest regrowth that is occurring across the Upper Midwest concurrently with parcel fragmentation, agricultural abandonment, and rural residential development.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "6d/82/c9a81c925ea1b9de54c0094095be/our_changing_planet_2003_23_20090708_1171067307.jpg",
+            "href": "http://data.globalchange.gov/assets/6d/82/c9a81c925ea1b9de54c0094095be/our_changing_planet_2003_23_20090708_1171067307.jpg",
+            "identifier": "9b697986-9073-4918-b7f4-b069f2d1bbdb",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "56b209d4f0303060181d8d7e110dba1de87b34bf",
+            "size": 230440,
+            "thumbnail": "6d/82/c9a81c925ea1b9de54c0094095be/.thumb-9b697986-9073-4918-b7f4-b069f2d1bbdb.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/6d/82/c9a81c925ea1b9de54c0094095be/.thumb-9b697986-9073-4918-b7f4-b069f2d1bbdb.png",
+            "uri": "/file/9b697986-9073-4918-b7f4-b069f2d1bbdb",
+            "url": "/assets/6d/82/c9a81c925ea1b9de54c0094095be/our_changing_planet_2003_23_20090708_1171067307.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2003/figure/forest-cover-increase-abandonment-agricultural-lands.json",
+    "identifier": "forest-cover-increase-abandonment-agricultural-lands",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2003",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Forest Cover Increase and Abandonment of Agricultural Lands",
+    "uri": "/report/ccsp-ocpfy2003/figure/forest-cover-increase-abandonment-agricultural-lands",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

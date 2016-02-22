@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "We compare global-scale changes in satellite estimates of the temperature of the lower troposphere (TLT) with model simulations of forced and unforced TLT changes. While previous work has focused on a single period of record, we select analysis timescales ranging from 10 to 32 years, and then compare all possible observed TLT trends on each timescale with corresponding multi-model distributions of forced and unforced trends. We use observed estimates of the signal component of TLT changes and model estimates of climate noise to calculate timescale-dependent signal-to-noise ratios (S/N). These ratios are small (less than 1) on the 10-year timescale, increasing to more than 3.9 for 32-year trends. This large change in S/N is primarily due to a decrease in the amplitude of internally generated variability with increasing trend length. Because of the pronounced effect of interannual noise on decadal trends, a multi-model ensemble of anthropogenically-forced simulations displays many 10-year periods with little warming. A single decade of observational TLT data is therefore inadequate for identifying a slowly evolving anthropogenic warming signal. Our results show that temperature records of at least 17 years in length are required for identifying human effects on global-mean tropospheric temperature. ",
+        "Author": "Santer, B.D.\rMears, C.\rDoutriaux, C.\rCaldwell, P.\rGleckler, P.J.\rWigley, T.M.L\rSolomon, S.\rGillett, N.P.\rIvanova, D.\rKarl, T.R.\rJ. R. Lanzante\rG. A. Meehl\rP. A. Stott\rK. E. Taylor\rP. W. Thorne\rM. F. Wehner\rF. J. Wentz",
+        "DOI": "10.1029/2011JD016263",
+        "ISSN": "0148-0227",
+        "Issue": "D22105",
+        "Journal": "Journal of Geophysical Research",
+        "Pages": "1-19",
+        "Title": "Separating signal and noise in atmospheric temperature changes: The importance of timescale",
+        "URL": "http://xa.yimg.com/kq/groups/18383638/1244615018/name/2011JD016263.pdf",
+        "Volume": "116",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "2744",
+        "_uuid": "3ce3977a-7902-4276-9f6c-17dc3f121c17",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2011JD016263",
+    "href": "http://data.globalchange.gov/reference/3ce3977a-7902-4276-9f6c-17dc3f121c17.json",
+    "identifier": "3ce3977a-7902-4276-9f6c-17dc3f121c17",
+    "uri": "/reference/3ce3977a-7902-4276-9f6c-17dc3f121c17"
+}

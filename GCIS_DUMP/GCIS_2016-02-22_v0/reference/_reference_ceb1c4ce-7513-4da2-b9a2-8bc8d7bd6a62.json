@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Stephens, S.L.\rAdams, M.A.\rHandmer, J.\rKearns, F.R.\rLeicester, B.\rLeonard, J.\rMoritz, M.A.",
+        "DOI": "10.1088/1748-9326/4/1/014010",
+        "Issue": "1",
+        "Journal": "Environmental Research Letters",
+        "Pages": "014010",
+        "Title": "Urban\u2013wildland fires: How California and other regions of the US can learn from Australia",
+        "Volume": "4",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 13: Land Use and Land Cover Change FINAL\",\"RF 10\"]",
+        "_record_number": "2945",
+        "_uuid": "ceb1c4ce-7513-4da2-b9a2-8bc8d7bd6a62",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1088/1748-9326/4/1/014010",
+    "href": "http://data.globalchange.gov/reference/ceb1c4ce-7513-4da2-b9a2-8bc8d7bd6a62.json",
+    "identifier": "ceb1c4ce-7513-4da2-b9a2-8bc8d7bd6a62",
+    "uri": "/reference/ceb1c4ce-7513-4da2-b9a2-8bc8d7bd6a62"
+}

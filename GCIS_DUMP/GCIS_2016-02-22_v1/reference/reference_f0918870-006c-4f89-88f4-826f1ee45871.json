@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Surface temperature reconstructions of the past 1500 years suggest that recent warming is unprecedented in that time. Here we provide a broader perspective by reconstructing regional and global temperature anomalies for the past 11,300 years from 73 globally distributed records. Early Holocene (10,000 to 5000 years ago) warmth is followed by ~0.7\u00b0C cooling through the middle to late Holocene (<5000 years ago), culminating in the coolest temperatures of the Holocene during the Little Ice Age, about 200 years ago. This cooling is largely associated with ~2\u00b0C change in the North Atlantic. Current global temperatures of the past decade have not yet exceeded peak interglacial values but are warmer than during ~75% of the Holocene temperature history. Intergovernmental Panel on Climate Change model projections for 2100 exceed the full distribution of Holocene temperature under all plausible greenhouse gas emission scenarios.",
+        "Author": "Marcott, Shaun A.\rShakun, Jeremy D.\rClark, Peter U.\rMix, Alan C.",
+        "DOI": "10.1126/science.1228026",
+        "Date": "March 8, 2013",
+        "Issue": "6124",
+        "Journal": "Science",
+        "Pages": "1198-1201",
+        "Title": "A reconstruction of regional and global temperature for the past 11,300 years",
+        "Volume": "339",
+        "Year": "2013",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "4262",
+        "_uuid": "f0918870-006c-4f89-88f4-826f1ee45871",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1228026",
+    "href": "http://data.globalchange.gov/reference/f0918870-006c-4f89-88f4-826f1ee45871.json",
+    "identifier": "f0918870-006c-4f89-88f4-826f1ee45871",
+    "uri": "/reference/f0918870-006c-4f89-88f4-826f1ee45871"
+}

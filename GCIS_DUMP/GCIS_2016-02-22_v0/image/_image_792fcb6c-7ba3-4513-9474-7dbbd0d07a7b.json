@@ -1,0 +1,96 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/3905.json",
+            "id": 3905,
+            "organization": {
+                "country_code": "US",
+                "identifier": "us-geological-survey",
+                "name": "U.S. Geological Survey",
+                "organization_type_identifier": "federal",
+                "url": "http://www.usgs.gov/"
+            },
+            "organization_uri": "/organization/us-geological-survey",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "contributing_agency",
+            "uri": "/contributor/3905"
+        },
+        {
+            "href": "http://data.globalchange.gov/contributor/3897.json",
+            "id": 3897,
+            "organization": {
+                "country_code": "US",
+                "identifier": "national-aeronautics-space-administration",
+                "name": "National Aeronautics and Space Administration",
+                "organization_type_identifier": "federal",
+                "url": "http://www.nasa.gov"
+            },
+            "organization_uri": "/organization/national-aeronautics-space-administration",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "contributing_agency",
+            "uri": "/contributor/3897"
+        }
+    ],
+    "create_dt": "2013-03-18T13:40:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "The first image from the Operational Land Imager (OLI) instrument aboard Landsat 8 shows the area around Ft. Collins, CO, at 15 m resolution using natural color. A charcoal-colored burn scar from the 2013 Galena Fire is indicated with arrows. (Source: NASA) ",
+            "chapter_identifier": "federal-investments-global-change-research",
+            "create_dt": "2013-03-18T13:40:00",
+            "identifier": "burn-scar-outside-fort-collins-co",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 2,
+            "report_identifier": "usgcrp-ocpfy2014",
+            "source_citation": "NASA 2013 (Arrows added in 2014 by U.S. Global Change Research Program National Coordination Office)",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Burn Scar Outside Fort Collins, CO",
+            "url": null,
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "a8/1c/4f8def8864c136d95f49c6f3dbae/Box_4_Satellite_Image_High_Res.png",
+            "href": "http://data.globalchange.gov/assets/a8/1c/4f8def8864c136d95f49c6f3dbae/Box_4_Satellite_Image_High_Res.png",
+            "identifier": "6bbba026-4246-4797-a0de-9bc81c1e82eb",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "dfb00682459738f07906a3a5dbc43a6166039a3e",
+            "size": 1870246,
+            "thumbnail": "a8/1c/4f8def8864c136d95f49c6f3dbae/.thumb-6bbba026-4246-4797-a0de-9bc81c1e82eb.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/a8/1c/4f8def8864c136d95f49c6f3dbae/.thumb-6bbba026-4246-4797-a0de-9bc81c1e82eb.png",
+            "uri": "/file/6bbba026-4246-4797-a0de-9bc81c1e82eb",
+            "url": "/assets/a8/1c/4f8def8864c136d95f49c6f3dbae/Box_4_Satellite_Image_High_Res.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/792fcb6c-7ba3-4513-9474-7dbbd0d07a7b.json",
+    "identifier": "792fcb6c-7ba3-4513-9474-7dbbd0d07a7b",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Burn Scar Outside Fort Collins, CO",
+    "uri": "/image/792fcb6c-7ba3-4513-9474-7dbbd0d07a7b",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

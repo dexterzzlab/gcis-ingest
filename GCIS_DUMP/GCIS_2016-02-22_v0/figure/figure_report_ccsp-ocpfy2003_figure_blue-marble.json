@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "True-color images of the Earth depict the global interactions between the atmosphere, oceans, land surfaces, and snow/ice surfaces, which together comprise the global water and energy cycles of the Earth system. Credit: NASA Goddard Space Flight Center; USGS.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "70/0c/7b7ab7912c424bcdd992fadec97d/our_changing_planet_2003_33_20090708_1707844920.jpg",
+            "href": "http://data.globalchange.gov/assets/70/0c/7b7ab7912c424bcdd992fadec97d/our_changing_planet_2003_33_20090708_1707844920.jpg",
+            "identifier": "31c7e844-a086-481c-983e-d29e5867dda6",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "5ab6d5447ab785bb3a3a413a25c3cc152d87eefc",
+            "size": 69604,
+            "thumbnail": "70/0c/7b7ab7912c424bcdd992fadec97d/.thumb-31c7e844-a086-481c-983e-d29e5867dda6.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/70/0c/7b7ab7912c424bcdd992fadec97d/.thumb-31c7e844-a086-481c-983e-d29e5867dda6.png",
+            "uri": "/file/31c7e844-a086-481c-983e-d29e5867dda6",
+            "url": "/assets/70/0c/7b7ab7912c424bcdd992fadec97d/our_changing_planet_2003_33_20090708_1707844920.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2003/figure/blue-marble.json",
+    "identifier": "blue-marble",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2003",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "The \"Blue Marble\"",
+    "uri": "/report/ccsp-ocpfy2003/figure/blue-marble",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

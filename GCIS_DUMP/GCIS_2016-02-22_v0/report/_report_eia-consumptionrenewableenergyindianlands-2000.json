@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/eia-consumptionrenewableenergyindianlands-2000.json",
+    "identifier": "eia-consumptionrenewableenergyindianlands-2000",
+    "in_library": null,
+    "publication_year": 2000,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Energy Consumption and Renewable Energy Development Potential on Indian Lands. April 2000. SR/CNEAF/2000-01",
+    "topic": null,
+    "uri": "/report/eia-consumptionrenewableenergyindianlands-2000",
+    "url": "http://pbadupws.nrc.gov/docs/ML0504/ML050480069.pdf"
+}

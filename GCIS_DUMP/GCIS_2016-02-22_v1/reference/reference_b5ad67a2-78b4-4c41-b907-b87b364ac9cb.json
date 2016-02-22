@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Henry, Adam Douglas",
+        "ISSN": "1074-4827",
+        "Issue": "2",
+        "Journal": "Human Ecology Review",
+        "Pages": "131-140",
+        "Title": "The challenge of learning for sustainability: A prolegomenon to theory",
+        "Volume": "16",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4029",
+        "_uuid": "b5ad67a2-78b4-4c41-b907-b87b364ac9cb",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/the-challenge-of-learning-for-sustainability-a-prolegomenon-to-theory",
+    "href": "http://data.globalchange.gov/reference/b5ad67a2-78b4-4c41-b907-b87b364ac9cb.json",
+    "identifier": "b5ad67a2-78b4-4c41-b907-b87b364ac9cb",
+    "uri": "/reference/b5ad67a2-78b4-4c41-b907-b87b364ac9cb"
+}

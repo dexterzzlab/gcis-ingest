@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Mendelsohn, R.\rNordhaus, W.D.\rShaw, D.",
+        "ISSN": "0002-8282",
+        "Journal": "The American Economic Review",
+        "Pages": "753-771",
+        "Title": "The impact of global warming on agriculture: A Ricardian analysis",
+        "URL": "http://www.jstor.org/stable/pdfplus/2118029.pdf",
+        "Year": "1994",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "1997",
+        "_uuid": "00391a36-58d4-42e9-b728-56b83fee5c04",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/the-impact-of-global-warming-on-agriculture-a-ricardian-analysis",
+    "href": "http://data.globalchange.gov/reference/00391a36-58d4-42e9-b728-56b83fee5c04.json",
+    "identifier": "00391a36-58d4-42e9-b728-56b83fee5c04",
+    "uri": "/reference/00391a36-58d4-42e9-b728-56b83fee5c04"
+}

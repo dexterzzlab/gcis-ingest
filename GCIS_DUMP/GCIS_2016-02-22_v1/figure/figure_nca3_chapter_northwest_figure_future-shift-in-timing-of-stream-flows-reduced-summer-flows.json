@@ -1,0 +1,126 @@
+{
+    "attributes": null,
+    "caption": "(Left) Projected increased winter flows and decreased summer flows in many Northwest rivers will cause widespread impacts. Mixed rain-snow watersheds, such as the Yakima River basin, an important agricultural area in eastern Washington, will see increased winter flows, earlier spring peak flows, and decreased summer flows in a warming climate. Changes in average monthly streamflow by the 2020s, 2040s, and 2080s (as compared to the period 1916 to 2006) indicate that the Yakima River basin could change from a snow-dominant to a rain-dominant basin by the 2080s under the A1B emissions scenario (with eventual reductions from current rising emissions trends). (Figure source: adapted from Elsner et al. 2010).<tbib>f05b7c3d-51e4-4a58-ae86-c684b3682dd4</tbib>\r\n\r\n\t(Right) Natural surface water availability during the already dry late summer period is projected to decrease across most of the Northwest. The map shows projected changes in local runoff (shading) and streamflow (colored circles) for the 2040s (compared to the period 1915 to 2006) under the same scenario as the left figure (A1B).<tbib>e51238d0-cf6c-4cea-88a6-8d61df7e8e3d</tbib> Streamflow reductions such as these would stress freshwater fish species (for instance, endangered salmon and bull trout) and necessitate increasing tradeoffs among conflicting uses of summer water. Watersheds with significant groundwater contributions to summer streamflow may be less responsive to climate change than indicated here.<tbib>4f07c4b9-ff00-4d78-8433-3c94ef2eb6db</tbib>",
+    "chapter": {
+        "doi": "10.7930/J04Q7RWX",
+        "identifier": "northwest",
+        "number": 21,
+        "report_identifier": "nca3",
+        "sort_key": 210,
+        "title": "Northwest",
+        "url": "http://nca2014.globalchange.gov/report/regions/northwest"
+    },
+    "chapter_identifier": "northwest",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/4733.json",
+            "id": 4733,
+            "organization": {
+                "country_code": "US",
+                "identifier": "university-washington",
+                "name": "University of Washington",
+                "organization_type_identifier": "academic",
+                "url": "http://www.washington.edu"
+            },
+            "organization_uri": "/organization/university-washington",
+            "person": {
+                "first_name": "Robert",
+                "id": 2635,
+                "last_name": "Norheim",
+                "middle_name": null,
+                "orcid": null,
+                "url": "https://staff.washington.edu/norheim/"
+            },
+            "person_id": 2635,
+            "person_uri": "/person/2635",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/4733"
+        }
+    ],
+    "create_dt": "2014-04-15T11:53:00",
+    "files": [
+        {
+            "file": "6d/dd/b948f6e0ed2df89eb772d93c39cd/nw_future_shift_reduced_summer_flows_V6.png",
+            "href": "http://data.globalchange.gov/assets/6d/dd/b948f6e0ed2df89eb772d93c39cd/nw_future_shift_reduced_summer_flows_V6.png",
+            "identifier": "4018a520-16ba-42ea-b246-8d0e8bc0fef2",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "462fa6f6f44ef85b20dc0c098c527a2a805c25d0",
+            "size": 1145227,
+            "thumbnail": "6d/dd/b948f6e0ed2df89eb772d93c39cd/.thumb-4018a520-16ba-42ea-b246-8d0e8bc0fef2.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/6d/dd/b948f6e0ed2df89eb772d93c39cd/.thumb-4018a520-16ba-42ea-b246-8d0e8bc0fef2.png",
+            "uri": "/file/4018a520-16ba-42ea-b246-8d0e8bc0fef2",
+            "url": "/assets/6d/dd/b948f6e0ed2df89eb772d93c39cd/nw_future_shift_reduced_summer_flows_V6.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/northwest/figure/future-shift-in-timing-of-stream-flows-reduced-summer-flows.json",
+    "identifier": "future-shift-in-timing-of-stream-flows-reduced-summer-flows",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2014-04-15T11:53:00",
+            "description": null,
+            "identifier": "066f96f3-d723-4f17-8f3b-aac259fe8eea",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Future Shift in Timing of Stream Flows",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2014-04-15T11:53:00",
+            "description": null,
+            "identifier": "d9a5eae0-6fe4-4fb8-a2bf-5076690f8a38",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Reduced Summer Flows",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 2,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/4f07c4b9-ff00-4d78-8433-3c94ef2eb6db.json",
+            "uri": "/reference/4f07c4b9-ff00-4d78-8433-3c94ef2eb6db"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/e51238d0-cf6c-4cea-88a6-8d61df7e8e3d.json",
+            "uri": "/reference/e51238d0-cf6c-4cea-88a6-8d61df7e8e3d"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/f05b7c3d-51e4-4a58-ae86-c684b3682dd4.json",
+            "uri": "/reference/f05b7c3d-51e4-4a58-ae86-c684b3682dd4"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Future Shift in Timing of Stream Flows Reduced Summer Flows",
+    "uri": "/report/nca3/chapter/northwest/figure/future-shift-in-timing-of-stream-flows-reduced-summer-flows",
+    "url": "http://nca2014.globalchange.gov/highlights/regions/northwest/graphics/future-shift-timing-streamflows",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

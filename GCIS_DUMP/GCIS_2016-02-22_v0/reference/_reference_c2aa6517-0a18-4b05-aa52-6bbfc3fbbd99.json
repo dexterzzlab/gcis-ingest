@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "3",
+        "Author": "Aeby, G\rWork, T\rFenner, D\rDidonato, E",
+        "Conference Name": "Proceedings of the 11th International Coral Reef Symposium, Ft. Lauderdale, Florida, 7-11 July 2008. Session number 7",
+        "Pages": "197-201",
+        "Title": "Coral and crustose coralline algae disease on the reefs of American Samoa",
+        "URL": "http://www.nwhc.usgs.gov/hfs/Globals/Products/Coral%20and%20crustose%20coralline%20algae%20disease%20American%20Samoa.pdf",
+        "Year of Conference": "2009",
+        "_chapter": "[\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "4335",
+        "_uuid": "c2aa6517-0a18-4b05-aa52-6bbfc3fbbd99",
+        "reftype": "Conference Proceedings"
+    },
+    "child_publication": "/generic/f2ad99a6-ad14-48a2-9293-000179cdabe7",
+    "href": "http://data.globalchange.gov/reference/c2aa6517-0a18-4b05-aa52-6bbfc3fbbd99.json",
+    "identifier": "c2aa6517-0a18-4b05-aa52-6bbfc3fbbd99",
+    "uri": "/reference/c2aa6517-0a18-4b05-aa52-6bbfc3fbbd99"
+}

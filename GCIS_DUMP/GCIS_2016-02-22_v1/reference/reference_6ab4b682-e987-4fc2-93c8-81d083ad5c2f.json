@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Scheurer, K.\rAlewell, C.\rBanninger, D.\rBurkhardt-Holm, P.",
+        "DOI": "10.1007/s11356-008-0075-3",
+        "Date": "Mar",
+        "ISSN": "0944-1344",
+        "Issue": "2",
+        "Journal": "Environmental Science and Pollution Research",
+        "Keywords": "Alpine region; Agriculture; Brown trout; Climate change; Clogging; erosion; Fish health; Global change; Gravel-spawning; Hydrology; Land-use change; Precipitation; Reproduction; Rivers; Salmonids; Salmo; trutta; Suspended sediment; salmon salmo-salar; egg burial depths; atlantic salmon; oncorhynchus-kisutch; suspended sediment; spawning gravels; dissolved-oxygen; embryo survival; soil-erosion; sea-trout",
+        "Pages": "232-242",
+        "Title": "Climate and land-use changes affecting river sediment and brown trout in alpine countries - A review",
+        "Type of Article": "Review",
+        "Volume": "16",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "2763",
+        "_uuid": "6ab4b682-e987-4fc2-93c8-81d083ad5c2f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s11356-008-0075-3",
+    "href": "http://data.globalchange.gov/reference/6ab4b682-e987-4fc2-93c8-81d083ad5c2f.json",
+    "identifier": "6ab4b682-e987-4fc2-93c8-81d083ad5c2f",
+    "uri": "/reference/6ab4b682-e987-4fc2-93c8-81d083ad5c2f"
+}

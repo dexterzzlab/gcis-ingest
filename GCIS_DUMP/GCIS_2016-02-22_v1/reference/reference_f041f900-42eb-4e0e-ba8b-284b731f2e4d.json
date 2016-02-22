@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Zimmerman, R.\rFaris, C.",
+        "DOI": "10.1111/j.1749-6632.2009.05318.x",
+        "ISSN": "1749-6632",
+        "Issue": "1",
+        "Journal": "Annals of the New York Academy of Sciences",
+        "Pages": "63-86",
+        "Title": "Infrastructure impacts and adaptation challenges",
+        "Volume": "1196",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"Ch. 16: Northeast FINAL\",\"Ch. 5: Transportation FINAL\",\"Ch. 11: Urban Systems FINAL\",\"RF 6\"]",
+        "_record_number": "3546",
+        "_uuid": "f041f900-42eb-4e0e-ba8b-284b731f2e4d",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1749-6632.2009.05318.x",
+    "href": "http://data.globalchange.gov/reference/f041f900-42eb-4e0e-ba8b-284b731f2e4d.json",
+    "identifier": "f041f900-42eb-4e0e-ba8b-284b731f2e4d",
+    "uri": "/reference/f041f900-42eb-4e0e-ba8b-284b731f2e4d"
+}

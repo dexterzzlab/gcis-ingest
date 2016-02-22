@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-01T15:41:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Changes in seasonal surface soil moisture per year over the period 1988 to 2010 based on multi-satellite datasets.<tbib>dcbcf1b2-fd1f-4565-a914-a045d60fe10f</tbib> Seasonal drying is observed in central and lower Midwest and Southeast for most seasons (with the exception of the Southeast summer), and in most of the Southwest and West (with the exception of the Northwest) for spring and summer. Soil moisture in the upper Midwest, Northwest, and most of the Northeast is increasing in most seasons. (Images provided by W. Dorigo.)",
+            "chapter_identifier": "water-resources",
+            "create_dt": "2013-11-01T15:41:00",
+            "identifier": "seasonal-surface-soil-moisture-trends",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 3,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Seasonal Surface Soil Moisture Trends",
+            "url": "http://nca2014.globalchange.gov/report/sectors/water/graphics/seasonal-surface-soil-moisture-trends",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "17/2f/8fcef287dec99a674b01ea86135e/water_3-11_fall.png",
+            "href": "http://data.globalchange.gov/assets/17/2f/8fcef287dec99a674b01ea86135e/water_3-11_fall.png",
+            "identifier": "e19327eb-cf10-4fc7-94cf-0f54b03245a7",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "8a44d5939b14f1b77f41e9c159292e79cf1f6f36",
+            "size": 214782,
+            "thumbnail": "17/2f/8fcef287dec99a674b01ea86135e/.thumb-e19327eb-cf10-4fc7-94cf-0f54b03245a7.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/17/2f/8fcef287dec99a674b01ea86135e/.thumb-e19327eb-cf10-4fc7-94cf-0f54b03245a7.png",
+            "uri": "/file/e19327eb-cf10-4fc7-94cf-0f54b03245a7",
+            "url": "/assets/17/2f/8fcef287dec99a674b01ea86135e/water_3-11_fall.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/27231ad5-bf35-48bb-a9d2-72261def137b.json",
+    "identifier": "27231ad5-bf35-48bb-a9d2-72261def137b",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Seasonal Surface Soil Moisture Trends - Fall",
+    "uri": "/image/27231ad5-bf35-48bb-a9d2-72261def137b",
+    "url": null,
+    "usage_limits": null
+}

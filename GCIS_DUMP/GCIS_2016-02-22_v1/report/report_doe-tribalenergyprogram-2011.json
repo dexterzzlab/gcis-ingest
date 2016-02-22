@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/doe-tribalenergyprogram-2011.json",
+    "identifier": "doe-tribalenergyprogram-2011",
+    "in_library": null,
+    "publication_year": 2011,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Tribal Energy Program: Financial Assistance and Project Management",
+    "topic": null,
+    "uri": "/report/doe-tribalenergyprogram-2011",
+    "url": "http://apps1.eere.energy.gov/tribalenergy/pdfs/peer-review-2012_3_financial_assistance_project_management.pdf"
+}

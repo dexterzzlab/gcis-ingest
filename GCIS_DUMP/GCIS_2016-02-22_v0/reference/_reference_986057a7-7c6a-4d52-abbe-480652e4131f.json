@@ -1,0 +1,31 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Accession Number": "17604645",
+        "Alternate Journal": "Annals of epidemiology",
+        "Author": "Hu, W.\rTong, S.\rMengersen, K.\rConnell, D.",
+        "Author Address": "Centre for Health Research, School of Public Health, Queensland University of Technology, Brisbane, Queensland, Australia.",
+        "DOI": "10.1016/j.annepidem.2007.03.020",
+        "Database Provider": "NLM",
+        "Date": "Sep",
+        "Epub Date": "2007/07/03",
+        "ISSN": "1047-2797 (Print); 1047-2797 (Linking)",
+        "Issue": "9",
+        "Journal": "Annals of Epidemiology",
+        "Keywords": "Cryptosporidiosis/ epidemiology/transmission; Epidemiologic Studies; Humans; Models, Statistical; Poisson Distribution; Queensland/epidemiology; Time Factors; Weather",
+        "Language": "eng",
+        "Pages": "679-688",
+        "Title": "Weather variability and the incidence of cryptosporidiosis: Comparison of time series Poisson regression and SARIMA models",
+        "UUID": "Food/water-borne disease (m/m), Model, non-US",
+        "Volume": "17",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "3597",
+        "_uuid": "986057a7-7c6a-4d52-abbe-480652e4131f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.annepidem.2007.03.020",
+    "href": "http://data.globalchange.gov/reference/986057a7-7c6a-4d52-abbe-480652e4131f.json",
+    "identifier": "986057a7-7c6a-4d52-abbe-480652e4131f",
+    "uri": "/reference/986057a7-7c6a-4d52-abbe-480652e4131f"
+}

@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Irrigation of beans in Morada Nova, Cear\u00e1, Brazil. In northeastern Brazil, a collaboration between the state of Cear\u00e1 and the International Research Institute for Climate Prediction is working to improve the state's water management systems in this vast, semi-arid region. Photo credit: Kenneth Broad, IRI.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "f9/4e/95d17c0dcebc1f5511fb81cb229b/our_changing_planet_2004-2005_19_20090708_1066036749.jpg",
+            "href": "http://data.globalchange.gov/assets/f9/4e/95d17c0dcebc1f5511fb81cb229b/our_changing_planet_2004-2005_19_20090708_1066036749.jpg",
+            "identifier": "df9a6b42-fa1b-4dbe-9e3d-4dfbe0c0b8cc",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "3f1b6e1608181a73af0d11b162239ea675f7301c",
+            "size": 99003,
+            "thumbnail": "f9/4e/95d17c0dcebc1f5511fb81cb229b/.thumb-df9a6b42-fa1b-4dbe-9e3d-4dfbe0c0b8cc.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/f9/4e/95d17c0dcebc1f5511fb81cb229b/.thumb-df9a6b42-fa1b-4dbe-9e3d-4dfbe0c0b8cc.png",
+            "uri": "/file/df9a6b42-fa1b-4dbe-9e3d-4dfbe0c0b8cc",
+            "url": "/assets/f9/4e/95d17c0dcebc1f5511fb81cb229b/our_changing_planet_2004-2005_19_20090708_1066036749.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2004and2005/figure/irrigation-beans-brazil.json",
+    "identifier": "irrigation-beans-brazil",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2004and2005",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Irrigation of Beans in Brazil",
+    "uri": "/report/ccsp-ocpfy2004and2005/figure/irrigation-beans-brazil",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

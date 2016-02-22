@@ -1,0 +1,28 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "We use a quantitative modeling framework capable of translating increasing stress on energy demand and costs, infrastructure maintenance, and capital investments into economic impacts to estimate future climate change effects on urban infrastructure and economy. This framework enables quantitative estimates of the economic impacts of climate change based on observed relationships between key climate thresholds and their impacts on energy and infrastructure. Although the version presented here is based on information specific to city departments, the generalized modeling framework can be applied across entire urban and metro areas. For the City of Chicago, energy and infrastructure impacts, including both costs and savings, are driven primarily by increases in mean annual temperature and secondarily by increases in the frequency of extreme-heat events and decreases in cold days. With more frequent, severe, and longer periods of extreme-heat, annual average and peak electricity demands will increase. Aggregated costs for Chicago's maintenance, labor, and capital investments could be as much as 3.5 times greater under a higher (A1FI) emissions scenario as compared to the lower (B1) scenario. These differences highlight how even partial success at reducing emissions could produce a disproportionately large reduction in economic costs for the City, the Great Lakes Region, and the nation at large. At the same time, since a single city's mitigation efforts represent only a small proportion of what is required at the global scale, adaptation to anticipated changes is also essential. (c) 2010 Published by Elsevier B.V.",
+        "Alternate Journal": "J Great Lakes Res",
+        "Author": "Hayhoe, K.\rRobson, M.\rRogula, J.\rAuffhammer, M.\rMiller, N.\rVanDorn, J.\rWuebbles, D.",
+        "Author Address": "Hayhoe, K; Texas Tech Univ, Dept Geosci, POB 41053, Lubbock, TX 79409 USA; Texas Tech Univ, Dept Geosci, POB 41053, Lubbock, TX 79409 USA; Texas Tech Univ, Dept Geosci, Lubbock, TX 79409 USA; ATMOS Res & Consulting, Lubbock, TX 79490 USA; Oliver Wyman, Toronto, ON M5J 2B5, Canada; Oliver Wyman, Chicago, IL 60606 USA; Univ Calif Berkeley, Dept Agr & Resource Econ, Berkeley, CA 94720 USA; Univ Calif Berkeley, Lawrence Berkeley Lab, Div Earth Sci, Atmospher & Ocean Sci Grp, Berkeley, CA 94720 USA; Univ Illinois, Dept Atmospher Sci, Urbana, IL 61801 USA",
+        "DOI": "10.1016/j.jglr.2010.03.011",
+        "ISSN": "0380-1330",
+        "Issue": "Supplement 2",
+        "Journal": "Journal of Great Lakes Research",
+        "Keywords": "climate change; chicago; urban; energy; infrastructure; economic impacts; demand; temperature; canada; methodology; adaptation; strategies; responses; ontario; model; state",
+        "Language": "English",
+        "Notes": "Suppl. 2 Sp. Iss. SI; 671CE; Times Cited:6; Cited References Count:40",
+        "Pages": "94-105",
+        "Title": "An integrated framework for quantifying and valuing climate change impacts on urban energy and infrastructure: A Chicago case study",
+        "Volume": "36",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"Ch. 25: Coastal Zone FINAL\",\"RG 10 Coasts\"]",
+        "_record_number": "976",
+        "_uuid": "f34ea0cd-8d4a-4725-b08f-d3bf687734d2",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.jglr.2010.03.011",
+    "href": "http://data.globalchange.gov/reference/f34ea0cd-8d4a-4725-b08f-d3bf687734d2.json",
+    "identifier": "f34ea0cd-8d4a-4725-b08f-d3bf687734d2",
+    "uri": "/reference/f34ea0cd-8d4a-4725-b08f-d3bf687734d2"
+}

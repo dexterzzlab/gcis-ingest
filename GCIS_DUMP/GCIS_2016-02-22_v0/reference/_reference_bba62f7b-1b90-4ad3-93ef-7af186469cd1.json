@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Chameides, W.L.\rKasibhatla, P.S.\rYienger, J.\rLevy, H.",
+        "DOI": "10.1126/science.264.5155.74",
+        "ISSN": "0036-8075",
+        "Issue": "5155",
+        "Journal": "Science",
+        "Pages": "74-77",
+        "Title": "Growth of continental-scale metro-agro-plexes, regional ozone pollution, and world food production",
+        "Volume": "264",
+        "Year": "1994",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "814",
+        "_uuid": "bba62f7b-1b90-4ad3-93ef-7af186469cd1",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.264.5155.74",
+    "href": "http://data.globalchange.gov/reference/bba62f7b-1b90-4ad3-93ef-7af186469cd1.json",
+    "identifier": "bba62f7b-1b90-4ad3-93ef-7af186469cd1",
+    "uri": "/reference/bba62f7b-1b90-4ad3-93ef-7af186469cd1"
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Brekke, L.D.\rKiang, J. E.\rOlsen, J. R.\rPulwarty, R. S.\rRaff, D. A.\rTurnipseed, D. P.\rWebb, R.S.\rWhite, K. D",
+        "Institution": "U.S. Department of the Interior, U.S. Geological Survey",
+        "Pages": "65",
+        "Place Published": "Reston, VA",
+        "Report Number": "978\u20131\u20134113\u20132325\u20134",
+        "Title": "Climate change and water resources management: A federal perspective. U.S. Geological Survey Circular 1331",
+        "URL": "http://pubs.usgs.gov/circ/1331/",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\",\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "297",
+        "_uuid": "e0ef030a-67cc-4e80-bc36-0c5b38565145",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usgs-circular-1331",
+    "href": "http://data.globalchange.gov/reference/e0ef030a-67cc-4e80-bc36-0c5b38565145.json",
+    "identifier": "e0ef030a-67cc-4e80-bc36-0c5b38565145",
+    "uri": "/reference/e0ef030a-67cc-4e80-bc36-0c5b38565145"
+}

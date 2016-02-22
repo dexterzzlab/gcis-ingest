@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Adams, H.D.\rGuardiola-Claramonte, M.\rBarron-Gafford, G.A.\rVillegas, J.C.\rBreshears, D.D.\rZou, C.B.\rTroch, P.A.\rHuxman, T.E.",
+        "DOI": "10.1073/pnas.0901438106",
+        "ISSN": "0027-8424",
+        "Issue": "17",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Pages": "7063-7066",
+        "Title": "Temperature sensitivity of drought-induced tree mortality portends increased regional die-off under global-change-type drought",
+        "Volume": "106",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "3649",
+        "_uuid": "e9b2f293-1699-4bee-99b7-0d2fd93d267d",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.0901438106",
+    "href": "http://data.globalchange.gov/reference/e9b2f293-1699-4bee-99b7-0d2fd93d267d.json",
+    "identifier": "e9b2f293-1699-4bee-99b7-0d2fd93d267d",
+    "uri": "/reference/e9b2f293-1699-4bee-99b7-0d2fd93d267d"
+}

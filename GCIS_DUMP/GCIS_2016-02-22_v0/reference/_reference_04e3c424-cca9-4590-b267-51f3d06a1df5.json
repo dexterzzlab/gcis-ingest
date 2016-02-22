@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Garroway, C.J.\rBowman, J.\rCascaden, T.J.\rHolloway, G.L.\rMahan, C.G.\rMalcolm, J.R.\rSteele, M.A.\rTurner, G.\rWilson, P.J.",
+        "DOI": "10.1111/j.1365-2486.2009.01948.x",
+        "ISSN": "1365-2486",
+        "Issue": "1",
+        "Journal": "Global Change Biology",
+        "Pages": "113-121",
+        "Title": "Climate change induced hybridization in flying squirrels",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2486.2009.01948.x/pdf",
+        "Volume": "16",
+        "Year": "2009",
+        "_chapter": "[\"RF 10\",\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "321",
+        "_uuid": "04e3c424-cca9-4590-b267-51f3d06a1df5",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1365-2486.2009.01948.x",
+    "href": "http://data.globalchange.gov/reference/04e3c424-cca9-4590-b267-51f3d06a1df5.json",
+    "identifier": "04e3c424-cca9-4590-b267-51f3d06a1df5",
+    "uri": "/reference/04e3c424-cca9-4590-b267-51f3d06a1df5"
+}

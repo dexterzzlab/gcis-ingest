@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Potential afforestation carbon gains in (a) relatively low-production crop areas, and (b) relatively low-production rangelands. Both panels are mapped to show predicted gross carbon sink flux per year at 1-km resolution. Corrections for probable net primary productivity loss over time due to decomposition, disturbance, and aging in predicted forest stands are not included. Credit: C. Potter and M. Fladeland, NASA / Ames Research Center; S. Klooster and V. Genovese, California State University \u2013 Monterey Bay; and S. Hiatt, San Jose State University and Education Associates (reproduced from Climatic Change with permission from Springer Netherlands).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "68/2f/a173556b2a602e7bb236033955b6/our_changing_planet_2008_69_20090708_1517589941.jpg",
+            "href": "http://data.globalchange.gov/assets/68/2f/a173556b2a602e7bb236033955b6/our_changing_planet_2008_69_20090708_1517589941.jpg",
+            "identifier": "13bd609e-e490-4f8d-a426-95ef3169e041",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "c4395d25e0b087a15a0b52140f852443affccd02",
+            "size": 41291,
+            "thumbnail": "68/2f/a173556b2a602e7bb236033955b6/.thumb-13bd609e-e490-4f8d-a426-95ef3169e041.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/68/2f/a173556b2a602e7bb236033955b6/.thumb-13bd609e-e490-4f8d-a426-95ef3169e041.png",
+            "uri": "/file/13bd609e-e490-4f8d-a426-95ef3169e041",
+            "url": "/assets/68/2f/a173556b2a602e7bb236033955b6/our_changing_planet_2008_69_20090708_1517589941.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2008/figure/potential-carbon-gains-afforestation.json",
+    "identifier": "potential-carbon-gains-afforestation",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2008",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Potential Carbon Gains from Afforestation",
+    "uri": "/report/ccsp-ocpfy2008/figure/potential-carbon-gains-afforestation",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

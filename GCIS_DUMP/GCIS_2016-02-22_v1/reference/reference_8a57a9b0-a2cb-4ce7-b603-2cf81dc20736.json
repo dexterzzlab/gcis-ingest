@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Francis, J.A.\rS.J. Vavrus",
+        "DOI": "10.1029/2012GL051000",
+        "ISSN": "1944-8007",
+        "Issue": "6",
+        "Journal": "Geophysical Research Letters",
+        "Pages": "L06801",
+        "Title": "Evidence linking Arctic amplification to extreme weather in mid-latitudes",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2012GL051000/pdf",
+        "Volume": "39",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\",\"Ch. 2: Our Changing Climate FINAL\",\"Appendix 3: Climate Science FINAL\",\"RF 1\",\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "665",
+        "_uuid": "8a57a9b0-a2cb-4ce7-b603-2cf81dc20736",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2012GL051000",
+    "href": "http://data.globalchange.gov/reference/8a57a9b0-a2cb-4ce7-b603-2cf81dc20736.json",
+    "identifier": "8a57a9b0-a2cb-4ce7-b603-2cf81dc20736",
+    "uri": "/reference/8a57a9b0-a2cb-4ce7-b603-2cf81dc20736"
+}

@@ -1,0 +1,12 @@
+{
+    "description": "In 2004, a new family of GFDL climate models (the CM2.x family) was first used to conduct climate research. The GFDL CM2.x models have become the workhorse model for GFDL's climate research. They are being applied to topics focusing on decadal-to-centennial (deccen) time scale issues (including multi-century control experiments and climate change projections), as well as to seasonal-to-interannual (si) problems, such as El Nino research and experimental forecasts.",
+    "description_attribution": "http://nomads.gfdl.noaa.gov/nomads/forms/deccen/",
+    "href": "http://data.globalchange.gov/model/gfdl-cm2_1.json",
+    "identifier": "gfdl-cm2_1",
+    "name": "Geophysical Fluid Dynamics Laboratory Coupled Model, Version 2.1",
+    "project_identifier": "cmip3",
+    "reference_url": "http://www-pcmdi.llnl.gov/ipcc/model_documentation/GFDL-cm2.htm",
+    "uri": "/model/gfdl-cm2_1",
+    "version": null,
+    "website": "http://nomads.gfdl.noaa.gov/CM2.X/references/"
+}

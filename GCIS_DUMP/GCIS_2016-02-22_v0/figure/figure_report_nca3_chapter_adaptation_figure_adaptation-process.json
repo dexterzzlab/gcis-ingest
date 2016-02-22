@@ -1,0 +1,76 @@
+{
+    "attributes": null,
+    "caption": "Generalized Adaptation Process\r\n    (Figure source: adapted from NRC\r\n    2010<tbib>65ce3b87-d63b-4582-a9b5-f25510b64e97</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J07H1GGT",
+        "identifier": "adaptation",
+        "number": 28,
+        "report_identifier": "nca3",
+        "sort_key": 280,
+        "title": "Adaptation",
+        "url": "http://nca2014.globalchange.gov/report/response-strategies/adaptation"
+    },
+    "chapter_identifier": "adaptation",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2012-10-05T08:18:00",
+    "files": [
+        {
+            "file": "c1/66/140140ec4189a57ff96a6e1ed230/ADAPT_adaptation_process_13905_v1.png",
+            "href": "http://data.globalchange.gov/assets/c1/66/140140ec4189a57ff96a6e1ed230/ADAPT_adaptation_process_13905_v1.png",
+            "identifier": "d4af3af6-dacc-4174-89a4-7d827005605e",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "03a88a711e58bb03a4508859a8a62c4ecfd950ce",
+            "size": 148760,
+            "thumbnail": "c1/66/140140ec4189a57ff96a6e1ed230/.thumb-d4af3af6-dacc-4174-89a4-7d827005605e.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/c1/66/140140ec4189a57ff96a6e1ed230/.thumb-d4af3af6-dacc-4174-89a4-7d827005605e.png",
+            "uri": "/file/d4af3af6-dacc-4174-89a4-7d827005605e",
+            "url": "/assets/c1/66/140140ec4189a57ff96a6e1ed230/ADAPT_adaptation_process_13905_v1.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/adaptation/figure/adaptation-process.json",
+    "identifier": "adaptation-process",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2012-10-05T08:18:00",
+            "description": null,
+            "identifier": "39c4a2b0-011a-4fb9-8fbe-f5750c3f3e17",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Generalized Adaptation Process",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 3,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/65ce3b87-d63b-4582-a9b5-f25510b64e97.json",
+            "uri": "/reference/65ce3b87-d63b-4582-a9b5-f25510b64e97"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "adapted from NRC, 2010",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Adaptation Process",
+    "uri": "/report/nca3/chapter/adaptation/figure/adaptation-process",
+    "url": "http://nca2014.globalchange.gov/report/response-strategies/adaptation/graphics/adaptation-process",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

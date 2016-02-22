@@ -1,0 +1,52 @@
+{
+    "attributes": null,
+    "caption": "Projected percentages in each housing-unit\r\n    density category for 2050 compared with 2010, assuming\r\n    demographic and economic growth consistent with the high-growth\r\n    emissions scenario (A2). (Data from U.S. EPA Integrated Climate\r\n    and Land Use Scenarios).",
+    "chapter": {
+        "doi": "10.7930/J05Q4T1Q",
+        "identifier": "land-use-land-cover-change",
+        "number": 13,
+        "report_identifier": "nca3",
+        "sort_key": 130,
+        "title": "Land Use and Land Cover Change",
+        "url": "http://nca2014.globalchange.gov/report/sectors/land-use-and-land-cover-change"
+    },
+    "chapter_identifier": "land-use-land-cover-change",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "be/ec/41b7fc07c50c8d0427808e6bb78a/Land_Use_Settlement_Densities-12522_v7.png",
+            "href": "http://data.globalchange.gov/assets/be/ec/41b7fc07c50c8d0427808e6bb78a/Land_Use_Settlement_Densities-12522_v7.png",
+            "identifier": "46cfba88-5574-4899-8299-4dc44c51cf36",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "c654d3f8ba509800767fa9e972dae8ad2bfc0766",
+            "size": 158103,
+            "thumbnail": "be/ec/41b7fc07c50c8d0427808e6bb78a/.thumb-46cfba88-5574-4899-8299-4dc44c51cf36.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/be/ec/41b7fc07c50c8d0427808e6bb78a/.thumb-46cfba88-5574-4899-8299-4dc44c51cf36.png",
+            "uri": "/file/46cfba88-5574-4899-8299-4dc44c51cf36",
+            "url": "/assets/be/ec/41b7fc07c50c8d0427808e6bb78a/Land_Use_Settlement_Densities-12522_v7.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/land-use-land-cover-change/figure/projections-of-settlement-densities-20102050.json",
+    "identifier": "projections-of-settlement-densities-20102050",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 2,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": "U.S. EPA Integrated Climate and Land Use Scenarios",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Projections of Settlement Densities (2010-2050)",
+    "uri": "/report/nca3/chapter/land-use-land-cover-change/figure/projections-of-settlement-densities-20102050",
+    "url": "http://nca2014.globalchange.gov/report/sectors/land-use-and-land-cover-change/graphics/projections-settlement-densities-2010-2050",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

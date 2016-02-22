@@ -1,0 +1,113 @@
+{
+    "attributes": null,
+    "caption": "Top: Illustration of the eastern North American topography in a resolution of 68 x 68 miles (110 x 110 km). Bottom: Illustration of the eastern North American topography in a resolution of 19 x 19 miles (30 x 30 km).",
+    "chapter": {
+        "doi": "10.7930/J0KS6PHH",
+        "identifier": "appendix-climate-science-supplement",
+        "number": 33,
+        "report_identifier": "nca3",
+        "sort_key": 330,
+        "title": "Appendix 3: Climate Science Supplement",
+        "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement"
+    },
+    "chapter_identifier": "appendix-climate-science-supplement",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2546.json",
+            "id": 2546,
+            "organization": {
+                "country_code": "US",
+                "identifier": "university-illinois",
+                "name": "University of Illinois",
+                "organization_type_identifier": "academic",
+                "url": "http://illinois.edu/"
+            },
+            "organization_uri": "/organization/university-illinois",
+            "person": {
+                "first_name": "Donald",
+                "id": 1008,
+                "last_name": "Wuebbles",
+                "middle_name": null,
+                "orcid": null,
+                "url": "http://www.atmos.illinois.edu/people/wuebbles.html"
+            },
+            "person_id": 1008,
+            "person_uri": "/person/1008",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2546"
+        }
+    ],
+    "create_dt": "2012-12-20T16:05:28",
+    "files": [
+        {
+            "file": "09/22/fc3859546b67c7483bb785f9b35d/APP_model_resolution-2panel.png",
+            "href": "http://data.globalchange.gov/assets/09/22/fc3859546b67c7483bb785f9b35d/APP_model_resolution-2panel.png",
+            "identifier": "d7159422-7c96-44be-8982-d7beb97ae599",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "91010fac6216e44669c96e94615776a7470c63e9",
+            "size": 730451,
+            "thumbnail": "09/22/fc3859546b67c7483bb785f9b35d/.thumb-d7159422-7c96-44be-8982-d7beb97ae599.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/09/22/fc3859546b67c7483bb785f9b35d/.thumb-d7159422-7c96-44be-8982-d7beb97ae599.png",
+            "uri": "/file/d7159422-7c96-44be-8982-d7beb97ae599",
+            "url": "/assets/09/22/fc3859546b67c7483bb785f9b35d/APP_model_resolution-2panel.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-climate-science-supplement/figure/increasing-model-resolution.json",
+    "identifier": "increasing-model-resolution",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2012-12-20T16:05:28",
+            "description": null,
+            "identifier": "02b21e9f-f63c-43c9-8157-e6a58f4f7681",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Increasing Model Resolution - Top",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2012-12-20T16:05:28",
+            "description": null,
+            "identifier": "ef594029-9a66-4564-8f1c-ec2852bb55ff",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Increasing Model Resolution - Bottom",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 25,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Increasing Model Resolution",
+    "uri": "/report/nca3/chapter/appendix-climate-science-supplement/figure/increasing-model-resolution",
+    "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/increasing-model-resolution",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

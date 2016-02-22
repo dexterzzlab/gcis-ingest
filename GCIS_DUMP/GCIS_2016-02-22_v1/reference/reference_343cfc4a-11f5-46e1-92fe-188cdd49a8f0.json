@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Nordhaus, William",
+        "ISBN": "9780300189773",
+        "Number of Pages": "392",
+        "Place Published": "New Haven, CT",
+        "Publisher": "Yale University Press",
+        "Reviewer": "343cfc4a-11f5-46e1-92fe-188cdd49a8f0",
+        "Title": "The Climate Casino: Risk, Uncertainty, and Economics for a Warming World",
+        "Year": "2013",
+        "_chapter": "[\"Appendix 4: FAQs FINAL\"]",
+        "_record_number": "4705",
+        "_uuid": "343cfc4a-11f5-46e1-92fe-188cdd49a8f0",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/b24e00f1-22dc-471d-9464-6cdb829239ea",
+    "href": "http://data.globalchange.gov/reference/343cfc4a-11f5-46e1-92fe-188cdd49a8f0.json",
+    "identifier": "343cfc4a-11f5-46e1-92fe-188cdd49a8f0",
+    "uri": "/reference/343cfc4a-11f5-46e1-92fe-188cdd49a8f0"
+}

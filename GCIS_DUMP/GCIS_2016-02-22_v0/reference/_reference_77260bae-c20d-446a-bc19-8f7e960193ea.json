@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Simpson, D. P. ",
+        "Date": "December 30, 2011",
+        "Institution": "Coast & Harbor Engineering",
+        "Pages": "112",
+        "Place Published": "Edmonds, WA",
+        "Title": "City of Olympia: Engineered Response to Sea Level Rise. Technical Report prepared for the City of Olympia Public Works Department, Planning & Engineering",
+        "URL": "http://olympiawa.gov/community/sustainability/~/media/Files/PublicWorks/Sustainability/Sea%20Level%20Rise%20Response%20Technical%20Report.ashx",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "3844",
+        "_uuid": "77260bae-c20d-446a-bc19-8f7e960193ea",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/cityofolympia-engineered-2011",
+    "href": "http://data.globalchange.gov/reference/77260bae-c20d-446a-bc19-8f7e960193ea.json",
+    "identifier": "77260bae-c20d-446a-bc19-8f7e960193ea",
+    "uri": "/reference/77260bae-c20d-446a-bc19-8f7e960193ea"
+}

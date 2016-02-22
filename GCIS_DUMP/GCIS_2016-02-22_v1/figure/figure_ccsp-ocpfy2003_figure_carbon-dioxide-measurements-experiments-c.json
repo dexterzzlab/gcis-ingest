@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Carbon dioxide measurements and experiments \u2014 (a) AmeriFlux tower; (b) Free Air CO2 Enrichment (FACE);(c) ElevatedCO2 concentration experiment Credits: AmeriFlux \u2013 Oak Ridge National Laboratory; FACE \u2013 Brookhaven National Laboratory; Smithsonian Environmental Research Center.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "d5/3b/dda48491c9678a4275f1c6ea8c35/our_changing_planet_2003_18_20090708_1806605660.jpg",
+            "href": "http://data.globalchange.gov/assets/d5/3b/dda48491c9678a4275f1c6ea8c35/our_changing_planet_2003_18_20090708_1806605660.jpg",
+            "identifier": "ef153af1-dc25-4995-99ef-3c02ab9e25a1",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "a78be60d316d31a0928fa2feaab28c3f638c3065",
+            "size": 26679,
+            "thumbnail": "d5/3b/dda48491c9678a4275f1c6ea8c35/.thumb-ef153af1-dc25-4995-99ef-3c02ab9e25a1.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/d5/3b/dda48491c9678a4275f1c6ea8c35/.thumb-ef153af1-dc25-4995-99ef-3c02ab9e25a1.png",
+            "uri": "/file/ef153af1-dc25-4995-99ef-3c02ab9e25a1",
+            "url": "/assets/d5/3b/dda48491c9678a4275f1c6ea8c35/our_changing_planet_2003_18_20090708_1806605660.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2003/figure/carbon-dioxide-measurements-experiments-c.json",
+    "identifier": "carbon-dioxide-measurements-experiments-c",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2003",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Carbon Dioxide Measurements and Experiments (c)",
+    "uri": "/report/ccsp-ocpfy2003/figure/carbon-dioxide-measurements-experiments-c",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

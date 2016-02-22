@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/epa-supplemental-2010.json",
+    "identifier": "epa-supplemental-2010",
+    "in_library": null,
+    "publication_year": 2010,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Supplemental EPA Analysis of the American Clean Energy and Security Act of 2009 H.R. 2454 in the 111th Congress",
+    "topic": null,
+    "uri": "/report/epa-supplemental-2010",
+    "url": "http://www.epa.gov/climatechange/Downloads/EPAactivities/HR2454_Analysis.pdf"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "O\u2019Neill, M.S.\rZanobetti, A.\rSchwartz, J.",
+        "DOI": "10.1093/jurban/jti043",
+        "ISSN": "1099-3460",
+        "Issue": "2",
+        "Journal": "Journal of Urban Health, Bulletin of the New York Academy of Medicine",
+        "Pages": "191-197",
+        "Title": "Disparities by race in heat-related mortality in four US cities: The role of air conditioning prevalence",
+        "Volume": "82",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "2335",
+        "_uuid": "29da63ed-20d4-4ac6-9ec7-ac886a25c040",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1093/jurban/jti043",
+    "href": "http://data.globalchange.gov/reference/29da63ed-20d4-4ac6-9ec7-ac886a25c040.json",
+    "identifier": "29da63ed-20d4-4ac6-9ec7-ac886a25c040",
+    "uri": "/reference/29da63ed-20d4-4ac6-9ec7-ac886a25c040"
+}

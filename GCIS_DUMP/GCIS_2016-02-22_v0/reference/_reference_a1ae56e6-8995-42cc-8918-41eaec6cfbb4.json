@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Pimentel, David \rZuniga, Rudolfo\rMorrison, Doug ",
+        "DOI": "10.1016/j.ecolecon.2004.10.002",
+        "ISSN": "0921-8009",
+        "Issue": "3",
+        "Journal": "Ecological Economics",
+        "Pages": "273-288",
+        "Title": "Update on the environmental and economic costs associated with alien-invasive species in the United States",
+        "Volume": "52",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "2499",
+        "_uuid": "a1ae56e6-8995-42cc-8918-41eaec6cfbb4",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.ecolecon.2004.10.002",
+    "href": "http://data.globalchange.gov/reference/a1ae56e6-8995-42cc-8918-41eaec6cfbb4.json",
+    "identifier": "a1ae56e6-8995-42cc-8918-41eaec6cfbb4",
+    "uri": "/reference/a1ae56e6-8995-42cc-8918-41eaec6cfbb4"
+}

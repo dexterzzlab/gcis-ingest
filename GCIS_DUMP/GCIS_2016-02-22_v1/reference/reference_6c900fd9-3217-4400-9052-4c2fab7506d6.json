@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "NRC,",
+        "Number of Pages": "196",
+        "Place Published": "Washington D.C.",
+        "Publisher": "National Research Council, Committee on Analysis of Global Change Assessments, Board on Atmospheric Sciences and Climate, Division on Earth and Life Studies. National Academies Press",
+        "Reviewer": "6c900fd9-3217-4400-9052-4c2fab7506d6",
+        "Title": "Analysis of Global Change Assessments: Lessons Learned",
+        "URL": "http://www.nap.edu/catalog.php?record_id=11868",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\",\"RX 1 Future\",\"Ch. 30: NCA Long-Term Process FINAL\"]",
+        "_record_number": "2289",
+        "_uuid": "6c900fd9-3217-4400-9052-4c2fab7506d6",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/nrc-analysis-assessments-2007",
+    "href": "http://data.globalchange.gov/reference/6c900fd9-3217-4400-9052-4c2fab7506d6.json",
+    "identifier": "6c900fd9-3217-4400-9052-4c2fab7506d6",
+    "uri": "/reference/6c900fd9-3217-4400-9052-4c2fab7506d6"
+}

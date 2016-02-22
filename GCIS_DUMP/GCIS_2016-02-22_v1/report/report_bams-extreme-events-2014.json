@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": "10.1175/BAMS-D-15-00157.1",
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/bams-extreme-events-2014.json",
+    "identifier": "bams-extreme-events-2014",
+    "in_library": null,
+    "publication_year": 2015,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Explaining Extreme Events of 2014 from a Climate Perspective",
+    "topic": null,
+    "uri": "/report/bams-extreme-events-2014",
+    "url": "https://www2.ametsoc.org/ams/index.cfm/publications/bulletin-of-the-american-meteorological-society-bams/explaining-extreme-events-from-a-climate-perspective/"
+}

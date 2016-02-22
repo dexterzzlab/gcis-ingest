@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "AchutaRao, K.M.\rIshii, M.\rSanter, B.D.\rGleckler, P.J.\rTaylor, K.E.\rBarnett, T.P.\rPierce, D.W.\rStouffer, R.J.\rWigley, T.M.L.",
+        "DOI": "10.1073/pnas.0611375104",
+        "ISSN": "0027-8424",
+        "Issue": "26",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Pages": "10768-10773",
+        "Title": "Simulated and observed variability in ocean temperature and heat content",
+        "Volume": "104",
+        "Year": "2007",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "3647",
+        "_uuid": "5acc6aab-1ad4-44c3-a8f5-906cd314a835",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.0611375104",
+    "href": "http://data.globalchange.gov/reference/5acc6aab-1ad4-44c3-a8f5-906cd314a835.json",
+    "identifier": "5acc6aab-1ad4-44c3-a8f5-906cd314a835",
+    "uri": "/reference/5acc6aab-1ad4-44c3-a8f5-906cd314a835"
+}

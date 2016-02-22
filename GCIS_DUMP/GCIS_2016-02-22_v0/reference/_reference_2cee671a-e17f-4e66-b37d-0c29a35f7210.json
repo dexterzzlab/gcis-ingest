@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Kinney, P.L.\rPascal, M.\rVautard, R.\rLaaidi, K.",
+        "Journal": "Bulletin Epidemiologique Hebdomadaire",
+        "Pages": "5-7",
+        "Title": "Winter mortality in a changing climate: Will it go down?",
+        "Volume": "12-13",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "4208",
+        "_uuid": "2cee671a-e17f-4e66-b37d-0c29a35f7210",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/winter-mortality-in-a-changing-climate-will-it-go-down",
+    "href": "http://data.globalchange.gov/reference/2cee671a-e17f-4e66-b37d-0c29a35f7210.json",
+    "identifier": "2cee671a-e17f-4e66-b37d-0c29a35f7210",
+    "uri": "/reference/2cee671a-e17f-4e66-b37d-0c29a35f7210"
+}

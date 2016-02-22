@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Hurricane Charley moving across Florida, August 2004. Image captured by the NOAA/National Weather Service Tampa Bay, Florida, Weather Forecast Office\u2019s WSR-88D doppler weather radar. Credit: NOAA/ National Climatic Data Center.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "5f/5b/ab03fa48744fda8304c53d6cf40b/our_changing_planet_2006_21_20090708_1385326125.jpg",
+            "href": "http://data.globalchange.gov/assets/5f/5b/ab03fa48744fda8304c53d6cf40b/our_changing_planet_2006_21_20090708_1385326125.jpg",
+            "identifier": "630b6829-b1e6-454e-9659-aa5e4c9e76a8",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "e1c3bbab2767bb54576f438cc06aa0570a134bb1",
+            "size": 142329,
+            "thumbnail": "5f/5b/ab03fa48744fda8304c53d6cf40b/.thumb-630b6829-b1e6-454e-9659-aa5e4c9e76a8.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/5f/5b/ab03fa48744fda8304c53d6cf40b/.thumb-630b6829-b1e6-454e-9659-aa5e4c9e76a8.png",
+            "uri": "/file/630b6829-b1e6-454e-9659-aa5e4c9e76a8",
+            "url": "/assets/5f/5b/ab03fa48744fda8304c53d6cf40b/our_changing_planet_2006_21_20090708_1385326125.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocp-fy2006/figure/hurricane-charley-13-august-2004.json",
+    "identifier": "hurricane-charley-13-august-2004",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocp-fy2006",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Hurricane Charley, 13 August 2004",
+    "uri": "/report/ccsp-ocp-fy2006/figure/hurricane-charley-13-august-2004",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

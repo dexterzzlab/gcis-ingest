@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"italic\" start=\"70\" /></field></record>",
+        "Author": "Litaker, R.W.\rVandersea, M.W.\rFaust, M.A.\rKibler, S.R.\rNau, A.W.\rHolland, W.C.\rChinain, M.\rHolmes, M.J.\rTester, P.A.",
+        "DOI": "10.1016/j.toxicon.2010.05.017",
+        "ISSN": "0041-0101",
+        "Issue": "5",
+        "Journal": "Toxicon",
+        "Pages": "711-730",
+        "Title": "Global distribution of ciguatera causing dinoflagellates in the genus Gambierdiscus",
+        "Volume": "56",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "773",
+        "_uuid": "b8371b89-5518-405a-81ec-83b83940ef88",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.toxicon.2010.05.017",
+    "href": "http://data.globalchange.gov/reference/b8371b89-5518-405a-81ec-83b83940ef88.json",
+    "identifier": "b8371b89-5518-405a-81ec-83b83940ef88",
+    "uri": "/reference/b8371b89-5518-405a-81ec-83b83940ef88"
+}

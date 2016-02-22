@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"18\"><run start=\"0\" /><run charset=\"161\" start=\"237\" /><run start=\"612\" /><run charset=\"161\" start=\"621\" /><run start=\"1017\" /><run charset=\"161\" start=\"1137\" /><run start=\"1161\" /><run charset=\"161\" start=\"1249\" /></field></record>",
+        "Abstract": "Water column pH and carbonate mineral saturation states were calculated from dissolved inorganic carbon (DIC) and total alkalinity data collected over the eastern Bering Sea shelf in the spring and summer of 2008. The saturation states (\u03a9) of the two most important carbonate minerals, calcite (\u03a9calcite) and aragonite (\u03a9aragonite) were strongly coupled to terrestrial runoff from the Yukon and Kuskokwim rivers, primary production in the surface waters, and remineralization of organic matter at depth over the shelf. In spring, before ice melt occurred, pH over the shelf was largely confined to a range of 7.9\u20138.1 and \u03a9calcite and \u03a9aragonite ranged from 1.5 to 3.0 and 0.8 to 2.0, respectively. At the stations closest to river outflows, aragonite was undersaturated in the water column from the surface to the bottom. During the summer sea ice retreat, high rates of primary production consumed DIC in the mixed layer, which increased pH and \u03a9calcite and \u03a9aragonite. However, \u03a9calcite and \u03a9aragonite decreased by \u223c0.3 in the bottom waters over the middle and outer shelf. Over the northern shelf, where export production is highest, \u03a9aragonite decreased by \u223c0.35 and became highly undersaturated. The observed suppression and undersaturation of \u03a9calcite and \u03a9aragonite in the eastern Bering Sea are correlated with anthropogenic carbon dioxide uptake into the ocean and will likely be exacerbated under business-as-usual emission scenarios. Therefore, ocean acidification could threaten some benthic and pelagic calcifying organisms across the Bering Sea shelf in the coming decades. ",
+        "Author": "Mathis, J.T.\rCross, J.N.\rBates, N.R.",
+        "DOI": "10.1029/2010JC006453",
+        "ISSN": "0148-0227",
+        "Issue": "C2",
+        "Journal": "Journal of Geophysical Research",
+        "Keywords": "Bering Sea; ocean acidification; carbon biogeochemistry; carbonate mineral saturation states",
+        "Pages": "C02030",
+        "Title": "Coupling primary production and terrestrial runoff to ocean acidification and carbonate mineral suppression in the eastern Bering Sea",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2010JC006453/pdf",
+        "Volume": "116",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "1907",
+        "_uuid": "8b6872ff-2751-40e4-8da2-cac25d6d3daf",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2010JC006453",
+    "href": "http://data.globalchange.gov/reference/8b6872ff-2751-40e4-8da2-cac25d6d3daf.json",
+    "identifier": "8b6872ff-2751-40e4-8da2-cac25d6d3daf",
+    "uri": "/reference/8b6872ff-2751-40e4-8da2-cac25d6d3daf"
+}

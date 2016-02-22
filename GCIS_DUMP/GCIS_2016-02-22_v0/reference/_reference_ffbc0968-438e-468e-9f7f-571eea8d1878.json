@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Medell\u00edn-Azuara, J.\rHowitt, R.E.\rMacEwan, D.J.\rLund, J.R.",
+        "DOI": "10.1007/s10584-011-0314-3",
+        "ISSN": "0165-0009",
+        "Issue": "1",
+        "Journal": "Climatic Change",
+        "Pages": "387-405",
+        "Title": "Economic impacts of climate-related changes to California agriculture",
+        "Volume": "109",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"RG 5 Southwest\"]",
+        "_record_number": "1976",
+        "_uuid": "ffbc0968-438e-468e-9f7f-571eea8d1878",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-011-0314-3",
+    "href": "http://data.globalchange.gov/reference/ffbc0968-438e-468e-9f7f-571eea8d1878.json",
+    "identifier": "ffbc0968-438e-468e-9f7f-571eea8d1878",
+    "uri": "/reference/ffbc0968-438e-468e-9f7f-571eea8d1878"
+}

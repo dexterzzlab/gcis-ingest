@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Model simulations of changes in radiative forcing (W m-2) from 2000 to 2100 for all greenhouse gases (panel a, top left) and short-lived species only (panel b, bottom left). The short-lived species (sulfate, black carbon, tropospheric ozone, and organic carbon) exhibit a northern mid-latitude maximum. The right-hand panels show the simulated time series of summer average surface air temperature changes (\u00b0C) relative to the year 2001 for the continental United States, showing the increasing contribution from short-lived species after the year 2030 (panel d, lower right). Credit: H. Levy II, M . D. Schwarzkopf, L . Horowit z, V. Ramaswamy, and K . L . Findell, NO A A/Geophysical Fluid Dynamics Laboratory (reproduced from Journal of Geophysical Research with permission from the American Geophysical Union).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "29/94/3353a5e47faab1dc983cd46347a1/our_changing_planet_2010_image__20091209_1954521738.jpg",
+            "href": "http://data.globalchange.gov/assets/29/94/3353a5e47faab1dc983cd46347a1/our_changing_planet_2010_image__20091209_1954521738.jpg",
+            "identifier": "b09ad8a5-3905-4cc7-9e4b-13652c3e6e61",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "566aec8e742ba828d2323ec3afdafc8240bd3aba",
+            "size": 279236,
+            "thumbnail": "29/94/3353a5e47faab1dc983cd46347a1/.thumb-b09ad8a5-3905-4cc7-9e4b-13652c3e6e61.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/29/94/3353a5e47faab1dc983cd46347a1/.thumb-b09ad8a5-3905-4cc7-9e4b-13652c3e6e61.png",
+            "uri": "/file/b09ad8a5-3905-4cc7-9e4b-13652c3e6e61",
+            "url": "/assets/29/94/3353a5e47faab1dc983cd46347a1/our_changing_planet_2010_image__20091209_1954521738.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2010/figure/short-lived-air-pollutants-influence-temperature-trends.json",
+    "identifier": "short-lived-air-pollutants-influence-temperature-trends",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2010",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Short-Lived Air Pollutants Influence Temperature Trends",
+    "uri": "/report/usgcrp-ocpfy2010/figure/short-lived-air-pollutants-influence-temperature-trends",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

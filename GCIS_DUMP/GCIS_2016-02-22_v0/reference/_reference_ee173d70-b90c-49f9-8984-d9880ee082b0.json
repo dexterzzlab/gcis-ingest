@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Snowfall data are subject to quality issues that affect their usefulness for detection of climate trends. A new analysis of lake-effect snowfall trends utilizes a restricted set of stations identified as suitable for trends analysis based on a careful quality assessment of long-term observation stations in the lake-effect snowbelts of the Laurentian Great Lakes. An upward trend in snowfall was found in two (Superior and Michigan) of the four snowbelt areas. The trends for Lakes Erie and Ontario depended on the period of analysis. Although these results are qualitatively similar to outcomes of other recent studies, the magnitude of the upward trend is about half as large as trends in previous findings. The upward trend in snowfall was accompanied by an upward trend in liquid water equivalent for Superior and Michigan, while no trend was observed for Erie and Ontario. Air temperature has also trended upward for Superior and Michigan, suggesting that warmer surface waters and less ice cover are contributing to the upward snowfall trends by enhancing lake heat and moisture fluxes during cold air outbreaks. However, a more comprehensive study is needed to definitely determine cause and effect. Overall, this study finds that trends in lake-effect snowfall are not as large as was believed based on prior research.",
+        "Author": "Kunkel, K.E.\rL. Ensor\rM. Palecki\rD. Easterling\rD. Robinson\rK.G. Hubbard\rK. Redmond",
+        "DOI": "10.1016/j.jglr.2008.11.003",
+        "ISSN": "0380-1330",
+        "Issue": "1",
+        "Journal": "Journal of Great Lakes Research",
+        "Keywords": "Snowfall, Trends, Lake-effect, Great Lakes",
+        "Pages": "23-29",
+        "Title": "A new look at lake-effect snowfall trends in the Laurentian Great Lakes using a temporally homogeneous data set",
+        "URL": "http://www.bioone.org/doi/pdf/10.1016/j.jglr.2008.11.003",
+        "Volume": "35",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "1172",
+        "_uuid": "ee173d70-b90c-49f9-8984-d9880ee082b0",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.jglr.2008.11.003",
+    "href": "http://data.globalchange.gov/reference/ee173d70-b90c-49f9-8984-d9880ee082b0.json",
+    "identifier": "ee173d70-b90c-49f9-8984-d9880ee082b0",
+    "uri": "/reference/ee173d70-b90c-49f9-8984-d9880ee082b0"
+}

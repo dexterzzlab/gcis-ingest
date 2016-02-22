@@ -1,0 +1,96 @@
+{
+    "attributes": null,
+    "caption": "Hydraulic fracturing, a drilling method used to retrieve deep reservoirs of natural gas, uses large quantities of water, sand, and chemicals that are injected at high pressure into horizontally-drilled wells as deep as 10,000 feet below Earth\u2019s surface. The pressurized mixture causes the rock layer to crack. Sand particles hold the fissures open so that natural gas from the shale can flow into the well. Questions about the water quantity necessary for this extraction method as well as the potential to affect water quality have produced national debate. (Figure source: NOAA NCDC).",
+    "chapter": {
+        "doi": "10.7930/J0JW8BSF",
+        "identifier": "water-energy-land-use",
+        "number": 10,
+        "report_identifier": "nca3",
+        "sort_key": 100,
+        "title": "Energy, Water, and Land Use",
+        "url": "http://nca2014.globalchange.gov/report/sectors/energy-water-and-land"
+    },
+    "chapter_identifier": "water-energy-land-use",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2574.json",
+            "id": 2574,
+            "organization": {
+                "country_code": "US",
+                "identifier": "pacific-northwest-national-laboratory",
+                "name": "Pacific Northwest National Laboratory",
+                "organization_type_identifier": "federal (managed private)",
+                "url": "http://www.pnnl.gov/"
+            },
+            "organization_uri": "/organization/pacific-northwest-national-laboratory",
+            "person": {
+                "first_name": "Kathy",
+                "id": 831,
+                "last_name": "Hibbard",
+                "middle_name": null,
+                "orcid": "0000-0003-2278-4064",
+                "url": "http://www.pnnl.gov/science/staff/staff_info.asp?staff_num=7439"
+            },
+            "person_id": 831,
+            "person_uri": "/person/831",
+            "role_type_identifier": "lead_author",
+            "uri": "/contributor/2574"
+        }
+    ],
+    "create_dt": "2013-11-21T19:55:33",
+    "files": [
+        {
+            "file": "c1/22/04ed175598360949cfa456d413f4/WEL_HydraulicFracturing_13447_v4.png",
+            "href": "http://data.globalchange.gov/assets/c1/22/04ed175598360949cfa456d413f4/WEL_HydraulicFracturing_13447_v4.png",
+            "identifier": "35de7842-2180-4fb3-9a7e-db5b80d03426",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "4c62180673a9226456920250510191a5f9320374",
+            "size": 2654664,
+            "thumbnail": "c1/22/04ed175598360949cfa456d413f4/.thumb-35de7842-2180-4fb3-9a7e-db5b80d03426.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/c1/22/04ed175598360949cfa456d413f4/.thumb-35de7842-2180-4fb3-9a7e-db5b80d03426.png",
+            "uri": "/file/35de7842-2180-4fb3-9a7e-db5b80d03426",
+            "url": "/assets/c1/22/04ed175598360949cfa456d413f4/WEL_HydraulicFracturing_13447_v4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/water-energy-land-use/figure/hydraulic-fracturing-and-water-use.json",
+    "identifier": "hydraulic-fracturing-and-water-use",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-11-21T19:55:33",
+            "description": null,
+            "identifier": "bda33c80-8b59-40b8-9c69-4d29872c0270",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Hydraulic Fracturing and Water Use",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 7,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": "NOAA NCDC",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Hydraulic Fracturing and Water Use",
+    "uri": "/report/nca3/chapter/water-energy-land-use/figure/hydraulic-fracturing-and-water-use",
+    "url": "http://nca2014.globalchange.gov/report/sectors/energy-water-and-land/graphics/hydraulic-fracturing-and-water-use",
+    "usage_limits": null
+}

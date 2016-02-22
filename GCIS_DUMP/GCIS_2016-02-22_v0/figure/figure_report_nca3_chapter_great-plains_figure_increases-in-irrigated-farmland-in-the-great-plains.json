@@ -1,0 +1,102 @@
+{
+    "attributes": null,
+    "caption": "Irrigation in western Kansas, Oklahoma, and Texas supports crop development in semiarid areas. Declining aquifer levels threaten the ability to maintain production. Some aquifer-dependent regions, like southeastern Nebraska, have seen steep rises in irrigated farmland, from around 5% to more than 40%, during the period shown. (Figure source: reproduced from Atlas of the Great Plains by Stephen J. Lavin, Clark J. Archer, and Fred M. Shelley by permission of the University of Nebraska. Copyright 2011 by the Board of Regents of the University of Nebraska<tbib>78ea39e1-a79d-4219-aa6c-7681d3dde246</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0D798BC",
+        "identifier": "great-plains",
+        "number": 19,
+        "report_identifier": "nca3",
+        "sort_key": 190,
+        "title": "Great Plains",
+        "url": "http://nca2014.globalchange.gov/report/regions/great-plains"
+    },
+    "chapter_identifier": "great-plains",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-14T13:32:00",
+    "files": [
+        {
+            "file": "9e/82/bdf6a7ca303ca289ce66157e6e34/GP_irrigated_farmland_V3.png",
+            "href": "http://data.globalchange.gov/assets/9e/82/bdf6a7ca303ca289ce66157e6e34/GP_irrigated_farmland_V3.png",
+            "identifier": "83afd664-7b3f-4bc8-9006-3c04d31995dd",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "788203abf52a464809883d7df985526f08035aae",
+            "size": 116656,
+            "thumbnail": "9e/82/bdf6a7ca303ca289ce66157e6e34/.thumb-83afd664-7b3f-4bc8-9006-3c04d31995dd.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/9e/82/bdf6a7ca303ca289ce66157e6e34/.thumb-83afd664-7b3f-4bc8-9006-3c04d31995dd.png",
+            "uri": "/file/83afd664-7b3f-4bc8-9006-3c04d31995dd",
+            "url": "/assets/9e/82/bdf6a7ca303ca289ce66157e6e34/GP_irrigated_farmland_V3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/great-plains/figure/increases-in-irrigated-farmland-in-the-great-plains.json",
+    "identifier": "increases-in-irrigated-farmland-in-the-great-plains",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-11-14T13:32:00",
+            "description": null,
+            "identifier": "78202211-dff9-4cf7-8208-95576a9d5bb2",
+            "lat_max": "49",
+            "lat_min": "25.83",
+            "lon_max": "-93.52",
+            "lon_min": "-116.03",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "1951-12-31T23:59:59",
+            "time_start": "1950-01-01T00:00:00",
+            "title": "Increases in Irrigated Farmland in the Great Plains - 1950/1951",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2013-11-14T13:32:00",
+            "description": null,
+            "identifier": "362ded28-cafa-4a4f-a49a-aa26247ca5a8",
+            "lat_max": "49",
+            "lat_min": "25.83",
+            "lon_max": "-93.52",
+            "lon_min": "-116.03",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2002-12-31T23:59:59",
+            "time_start": "2001-01-01T00:00:00",
+            "title": "Increases in Irrigated Farmland in the Great Plains - 2001/2002",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 6,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Atlas of the Great Plains...",
+            "note": null,
+            "publication_type_identifier": "book",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/book/caa427c9-38bd-4dc0-89d3-456c7ab68d56"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/78ea39e1-a79d-4219-aa6c-7681d3dde246.json",
+            "uri": "/reference/78ea39e1-a79d-4219-aa6c-7681d3dde246"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "reproduced from Atlas of the Great Plains by Stephen J. Lavin, Clark J. Archer, and Fred M. Shelley by permission of the University of Nebraska. Copyright 2011 by the Board of Regents of the University of Nebraska<tbib>78ea39e1-a79d-4219-aa6c-7681d3dde246</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Increases in Irrigated Farmland in the Great Plains",
+    "uri": "/report/nca3/chapter/great-plains/figure/increases-in-irrigated-farmland-in-the-great-plains",
+    "url": "http://nca2014.globalchange.gov/report/regions/great-plains/graphics/increases-irrigated-farmland-great-plains",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/cityofnewyork-planyc2012.json",
+    "identifier": "cityofnewyork-planyc2012",
+    "in_library": null,
+    "publication_year": 2012,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "PlaNYC Progress Report 2012. A Greener, Greater New York",
+    "topic": null,
+    "uri": "/report/cityofnewyork-planyc2012",
+    "url": "http://nytelecom.vo.llnwd.net/o15/agencies/planyc2030/pdf/planyc_progress_report_2012.pdf"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "Limb-scanning MW spectrometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/microwave-limb-sounder-uars.json",
+    "identifier": "microwave-limb-sounder-uars",
+    "name": "Microwave Limb Sounder (UARS)",
+    "uri": "/instrument/microwave-limb-sounder-uars"
+}

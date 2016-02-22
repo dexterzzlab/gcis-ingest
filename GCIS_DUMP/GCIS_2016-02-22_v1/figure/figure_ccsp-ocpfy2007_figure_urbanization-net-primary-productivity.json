@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "The top product provides an urbanization map generated from Defense Meteorological Satellite (DMSP) Operational Linescan System data collected from October 1994 to March 1995, showing urban, peri-urban, and non-urban areas. The lower product simulates total annual net primary production for the United States at 1-km spatial resolution. Credit: M.L. Imhoff, NASA/ Goddard Space Flight Center (reproduced from Remote Sensing of Environment with permission from Elsevier Inc.).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "5a/f9/ad36c2a4cd52412fde19e3d128db/our_changing_planet_2007_60_20090708_1817361471.jpg",
+            "href": "http://data.globalchange.gov/assets/5a/f9/ad36c2a4cd52412fde19e3d128db/our_changing_planet_2007_60_20090708_1817361471.jpg",
+            "identifier": "e9bf2f37-9fd3-4cd5-81cd-f1ba2003972b",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "a4cda7f37ca16096007ac0acc9389de336a65719",
+            "size": 45232,
+            "thumbnail": "5a/f9/ad36c2a4cd52412fde19e3d128db/.thumb-e9bf2f37-9fd3-4cd5-81cd-f1ba2003972b.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/5a/f9/ad36c2a4cd52412fde19e3d128db/.thumb-e9bf2f37-9fd3-4cd5-81cd-f1ba2003972b.png",
+            "uri": "/file/e9bf2f37-9fd3-4cd5-81cd-f1ba2003972b",
+            "url": "/assets/5a/f9/ad36c2a4cd52412fde19e3d128db/our_changing_planet_2007_60_20090708_1817361471.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/urbanization-net-primary-productivity.json",
+    "identifier": "urbanization-net-primary-productivity",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Urbanization and Net Primary Productivity",
+    "uri": "/report/ccsp-ocpfy2007/figure/urbanization-net-primary-productivity",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

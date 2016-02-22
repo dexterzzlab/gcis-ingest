@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".publisher": "Public Library of Science",
+        ".reference_type": "0",
+        "Author": "Price, Nichole N.\rMartz, Todd R.\rBrainard, Russell E.\rSmith, Jennifer E.",
+        "DOI": "10.1371/journal.pone.0043843",
+        "Issue": "8",
+        "Journal": "PLoS ONE",
+        "Pages": "e43843",
+        "Title": "Diel variability in seawater pH relates to calcification and benthic community structure on coral reefs",
+        "URL": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0043843&representation=PDF",
+        "Volume": "7",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "4338",
+        "_uuid": "3da133aa-972c-4f41-b43c-347f202a8554",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1371/journal.pone.0043843",
+    "href": "http://data.globalchange.gov/reference/3da133aa-972c-4f41-b43c-347f202a8554.json",
+    "identifier": "3da133aa-972c-4f41-b43c-347f202a8554",
+    "uri": "/reference/3da133aa-972c-4f41-b43c-347f202a8554"
+}

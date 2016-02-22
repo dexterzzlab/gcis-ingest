@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "NOAA,",
+        "Institution": "NOAA Office of Ocean and Coastal Resource Management",
+        "Pages": "133",
+        "Place Published": "Silver Spring, MD",
+        "Title": "Adapting to Climate Change: A Planning Guide for State Coastal Managers",
+        "URL": "http://coastalmanagement.noaa.gov/climate/docs/adaptationguide.pdf",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\",\"RG 8 Hawaii\"]",
+        "_record_number": "2236",
+        "_uuid": "c2fed0ee-870d-44d1-880f-139034fbaa87",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/noaa-adaptingtoclimchplanning-2010",
+    "href": "http://data.globalchange.gov/reference/c2fed0ee-870d-44d1-880f-139034fbaa87.json",
+    "identifier": "c2fed0ee-870d-44d1-880f-139034fbaa87",
+    "uri": "/reference/c2fed0ee-870d-44d1-880f-139034fbaa87"
+}

@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/noaa-center-operational-oceanographic-products-services.json",
+    "identifier": "noaa-center-operational-oceanographic-products-services",
+    "name": "National Oceanic and Atmospheric Administration Center for Operational Oceanographic Products and Services",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/noaa-center-operational-oceanographic-products-services",
+    "url": "https://tidesandcurrents.noaa.gov"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Goniea, T.M.\rKeefer, M.L.\rBjornn, T.C.\rPeery, C.A.\rBennett, D.H.\rStuehrenberg, L.C.",
+        "DOI": "10.1577/T04-113.1",
+        "ISSN": "0002-8487",
+        "Issue": "2",
+        "Journal": "Transactions of the American Fisheries Society",
+        "Pages": "408-419",
+        "Title": "Behavioral thermoregulation and slowed migration by adult fall Chinook salmon in response to high Columbia River water temperatures",
+        "Volume": "135",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "145",
+        "_uuid": "3f80d7c1-de4a-4bcb-8a09-9a1e70dd1189",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1577/T04-113.1",
+    "href": "http://data.globalchange.gov/reference/3f80d7c1-de4a-4bcb-8a09-9a1e70dd1189.json",
+    "identifier": "3f80d7c1-de4a-4bcb-8a09-9a1e70dd1189",
+    "uri": "/reference/3f80d7c1-de4a-4bcb-8a09-9a1e70dd1189"
+}

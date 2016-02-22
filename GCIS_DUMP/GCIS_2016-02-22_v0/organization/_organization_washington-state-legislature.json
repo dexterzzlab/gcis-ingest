@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/washington-state-legislature.json",
+    "identifier": "washington-state-legislature",
+    "name": "Washington State Legislature",
+    "organization_type_identifier": "state",
+    "uri": "/organization/washington-state-legislature",
+    "url": "http://leg.wa.gov/"
+}

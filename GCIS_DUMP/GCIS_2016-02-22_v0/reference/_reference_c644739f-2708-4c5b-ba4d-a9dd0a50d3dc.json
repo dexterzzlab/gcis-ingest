@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Spracklen, D.V.\rMickley, L.J.\rLogan, J.A.\rHudman, R.C.\rYevich, R.\rFlannigan, M.D.\rWesterling, A.L.",
+        "DOI": "10.1029/2008JD010966",
+        "Issue": "D20",
+        "Journal": "Journal of Geophysical Research",
+        "Pages": "D20301",
+        "Title": "Impacts of climate change from 2000 to 2050 on wildfire activity and carbonaceous aerosol concentrations in the western United States",
+        "Volume": "114",
+        "Year": "2009",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "2914",
+        "_uuid": "c644739f-2708-4c5b-ba4d-a9dd0a50d3dc",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2008JD010966",
+    "href": "http://data.globalchange.gov/reference/c644739f-2708-4c5b-ba4d-a9dd0a50d3dc.json",
+    "identifier": "c644739f-2708-4c5b-ba4d-a9dd0a50d3dc",
+    "uri": "/reference/c644739f-2708-4c5b-ba4d-a9dd0a50d3dc"
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Smith, K.R.\rHaigler, E.",
+        "DOI": "10.1146/annurev.publhealth.29.020907.090759",
+        "ISSN": "0163-7525",
+        "Journal": "Annual Review of Public Health",
+        "Pages": "11-25",
+        "Title": "Co-benefits of climate mitigation and health protection in energy systems: Scoping methods",
+        "Volume": "29",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "2877",
+        "_uuid": "0be715d7-184e-42cb-af4a-25f9dae2081c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1146/annurev.publhealth.29.020907.090759",
+    "href": "http://data.globalchange.gov/reference/0be715d7-184e-42cb-af4a-25f9dae2081c.json",
+    "identifier": "0be715d7-184e-42cb-af4a-25f9dae2081c",
+    "uri": "/reference/0be715d7-184e-42cb-af4a-25f9dae2081c"
+}

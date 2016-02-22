@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Albrecht, G.\rSartore, G.M.\rConnor, L.\rHigginbotham, N.\rFreeman, S.\rKelly, B.\rStain, H.\rTonna, A.\rPollard, G.",
+        "DOI": "10.1080/10398560701701288",
+        "ISSN": "0004-8674",
+        "Issue": "S1",
+        "Journal": "Australasian Psychiatry",
+        "Pages": "95-98",
+        "Title": "Solastalgia: The distress caused by environmental change",
+        "Volume": "15",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "1561",
+        "_uuid": "7960314c-23ff-4120-b15e-bcf9392d969c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1080/10398560701701288",
+    "href": "http://data.globalchange.gov/reference/7960314c-23ff-4120-b15e-bcf9392d969c.json",
+    "identifier": "7960314c-23ff-4120-b15e-bcf9392d969c",
+    "uri": "/reference/7960314c-23ff-4120-b15e-bcf9392d969c"
+}

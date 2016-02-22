@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Western Governors' Association,",
+        "Institution": "Western Governors' Association and Western States Water Council",
+        "Place Published": "Denver, CO",
+        "Title": "Water Needs and Strategies for a Sustainable Future: 2010 Progress Report",
+        "URL": "http://www.westgov.org/wswc/wswc_2010_complete%20-compressed.pdf",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "3401",
+        "_uuid": "10fd9379-7c7d-4687-b234-6202f215c3ae",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/westgov-waterneeds-2010",
+    "href": "http://data.globalchange.gov/reference/10fd9379-7c7d-4687-b234-6202f215c3ae.json",
+    "identifier": "10fd9379-7c7d-4687-b234-6202f215c3ae",
+    "uri": "/reference/10fd9379-7c7d-4687-b234-6202f215c3ae"
+}

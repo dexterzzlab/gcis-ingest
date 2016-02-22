@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Deloria, V., Jr. \rLytle, C.M.",
+        "ISBN": "9780292738348",
+        "Number of Pages": "262",
+        "Place Published": "Austin, TX",
+        "Publisher": "University of Texas Press",
+        "Reviewer": "445c08c8-fd32-4e23-aa2b-c1c1e43a5b80",
+        "Title": "American Indians, American Justice",
+        "Year": "1983",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\"]",
+        "_record_number": "3912",
+        "_uuid": "445c08c8-fd32-4e23-aa2b-c1c1e43a5b80",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/c7f2d97c-166a-4f2a-bd5d-5f512ef64b82",
+    "href": "http://data.globalchange.gov/reference/445c08c8-fd32-4e23-aa2b-c1c1e43a5b80.json",
+    "identifier": "445c08c8-fd32-4e23-aa2b-c1c1e43a5b80",
+    "uri": "/reference/445c08c8-fd32-4e23-aa2b-c1c1e43a5b80"
+}

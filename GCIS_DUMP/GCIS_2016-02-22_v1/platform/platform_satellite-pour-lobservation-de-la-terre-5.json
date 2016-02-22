@@ -1,0 +1,12 @@
+{
+    "description": "SPOT-5 is the fifth satellite in the SPOT series of CNES (Space Agency of France), placed into orbit by an Ariane launcher. Since the first SPOT satellite was launched in 1986, the SPOT system has sought to provide continuity of service and constantly improved the quality of its products for the global user community.",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/s/spot-5",
+    "end_date": "2015-03-01T00:00:00",
+    "href": "http://data.globalchange.gov/platform/satellite-pour-lobservation-de-la-terre-5.json",
+    "identifier": "satellite-pour-lobservation-de-la-terre-5",
+    "name": "Satellite Pour l'Observation de la Terre - 5",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "2002-05-04T00:00:00",
+    "uri": "/platform/satellite-pour-lobservation-de-la-terre-5",
+    "url": "http://www.spotimage.fr/home/system/future/spot5/welcome.htm"
+}

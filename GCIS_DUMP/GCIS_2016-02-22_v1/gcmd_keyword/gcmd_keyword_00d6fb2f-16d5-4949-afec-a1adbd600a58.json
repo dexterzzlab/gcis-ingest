@@ -1,0 +1,8 @@
+{
+    "definition": "The frequency distribution of drop sizes (diameters, volumes) that is characteristic of a given cloud or of a given fall of rain. Most natural clouds have unimodal (single maximum) distributions, but occasionally bimodal distributions are observed. In convective clouds, the drop-size distribution is found to change with time and to vary systematically with height, the modal size increasing and the number decreasing with height. For many purposes a useful single parameter representing a given distribution is the volume median diameter, that is, that diameter for which the total volume of all drops having greater diameters is just equal to the total volume of all drops having smaller diameters. The drop- size distribution is one of the primary factors involved in determining the radar reflectivity of any fall of precipitation, or of a cloud mass.",
+    "href": "http://data.globalchange.gov/gcmd_keyword/00d6fb2f-16d5-4949-afec-a1adbd600a58.json",
+    "identifier": "00d6fb2f-16d5-4949-afec-a1adbd600a58",
+    "label": "PARTICLE SIZE DISTRIBUTION",
+    "parent_identifier": "0cfcbaa7-727b-4199-8cca-93824b427e9b",
+    "uri": "/gcmd_keyword/00d6fb2f-16d5-4949-afec-a1adbd600a58"
+}

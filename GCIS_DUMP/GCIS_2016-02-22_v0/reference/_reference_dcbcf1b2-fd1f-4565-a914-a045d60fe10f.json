@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Dorigo, Wouter\rde Jeu, Richard\rChung, Daniel\rParinussa, Robert\rLiu, Yi\rWagner, Wolfgang\rFern\u00e1ndez-Prieto, Diego",
+        "DOI": "10.1029/2012gl052988",
+        "ISSN": "1944-8007",
+        "Issue": "18",
+        "Journal": "Geophysical Research Letters",
+        "Keywords": "climate change\rhydrology\rmicrowave\rsoil moisture\rtrend\rwater cycle\r1807 Climate impacts\r1812 Drought\r1854 Precipitation\r1855 Remote sensing\r1872 Time series analysis",
+        "Pages": "L18405",
+        "Title": "Evaluating global trends (1988\u20132010) in harmonized multi-satellite surface soil moisture",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2012GL052988/pdf",
+        "Volume": "39",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "4107",
+        "_uuid": "dcbcf1b2-fd1f-4565-a914-a045d60fe10f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2012gl052988",
+    "href": "http://data.globalchange.gov/reference/dcbcf1b2-fd1f-4565-a914-a045d60fe10f.json",
+    "identifier": "dcbcf1b2-fd1f-4565-a914-a045d60fe10f",
+    "uri": "/reference/dcbcf1b2-fd1f-4565-a914-a045d60fe10f"
+}

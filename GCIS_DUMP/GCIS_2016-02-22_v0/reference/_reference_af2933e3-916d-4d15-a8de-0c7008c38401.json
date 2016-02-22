@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Lawrimore, J.H.\rMenne, M.J.\rGleason, B.E.\rWilliams, C.N.\rWuertz, D.B.\rVose, R.S.\rRennie, J.",
+        "DOI": "10.1029/2011JD016187",
+        "ISSN": "2156-2202",
+        "Issue": "D19",
+        "Journal": "Journal Of Geophysical Research",
+        "Pages": "D19121",
+        "Title": "An overview of the Global Historical Climatology Network monthly mean temperature data set, version 3",
+        "Volume": "116",
+        "Year": "2011",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "1241",
+        "_uuid": "af2933e3-916d-4d15-a8de-0c7008c38401",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2011JD016187",
+    "href": "http://data.globalchange.gov/reference/af2933e3-916d-4d15-a8de-0c7008c38401.json",
+    "identifier": "af2933e3-916d-4d15-a8de-0c7008c38401",
+    "uri": "/reference/af2933e3-916d-4d15-a8de-0c7008c38401"
+}

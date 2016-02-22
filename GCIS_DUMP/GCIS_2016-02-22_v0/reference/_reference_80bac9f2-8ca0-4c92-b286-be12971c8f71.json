@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "DOE,",
+        "Date": "2/1/2013",
+        "Institution": "U.S. Department of Energy",
+        "Pages": "1",
+        "Title": "Database of State Incentives for Renewables & Efficiency. Energy Efficiency Resource Standards.",
+        "URL": "http://www.dsireusa.org/documents/summarymaps/EERS_map.pdf",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "4565",
+        "_uuid": "80bac9f2-8ca0-4c92-b286-be12971c8f71",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/doe-ncsu-dsireusa-energyeff-2013",
+    "href": "http://data.globalchange.gov/reference/80bac9f2-8ca0-4c92-b286-be12971c8f71.json",
+    "identifier": "80bac9f2-8ca0-4c92-b286-be12971c8f71",
+    "uri": "/reference/80bac9f2-8ca0-4c92-b286-be12971c8f71"
+}

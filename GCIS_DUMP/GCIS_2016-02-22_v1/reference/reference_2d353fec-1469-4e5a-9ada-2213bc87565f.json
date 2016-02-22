@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "EPA,",
+        "Institution": "U.S. Environmental Protection Agency, Science Advisory Board",
+        "Pages": "138",
+        "Place Published": "Washington, D.C.",
+        "Title": "Valuing the Protection of Ecological Systems and Services: A Report of the EPA Science Advisory Board. EPA-SAB-09-012",
+        "URL": "www.epa/gov/sab",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "1756",
+        "_uuid": "2d353fec-1469-4e5a-9ada-2213bc87565f",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/epa-sab-09-012",
+    "href": "http://data.globalchange.gov/reference/2d353fec-1469-4e5a-9ada-2213bc87565f.json",
+    "identifier": "2d353fec-1469-4e5a-9ada-2213bc87565f",
+    "uri": "/reference/2d353fec-1469-4e5a-9ada-2213bc87565f"
+}

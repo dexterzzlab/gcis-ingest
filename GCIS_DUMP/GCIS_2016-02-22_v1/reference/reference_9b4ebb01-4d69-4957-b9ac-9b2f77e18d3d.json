@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "UNWTO,",
+        "Institution": "United Nations World Tourism Organization",
+        "Pages": "12",
+        "Title": "Tourism Highlights: 2011 Edition",
+        "URL": "http://mkt.unwto.org/sites/all/files/docpdf/unwtohighlights11enhr.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "4323",
+        "_uuid": "9b4ebb01-4d69-4957-b9ac-9b2f77e18d3d",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/unwto-tourism-2011",
+    "href": "http://data.globalchange.gov/reference/9b4ebb01-4d69-4957-b9ac-9b2f77e18d3d.json",
+    "identifier": "9b4ebb01-4d69-4957-b9ac-9b2f77e18d3d",
+    "uri": "/reference/9b4ebb01-4d69-4957-b9ac-9b2f77e18d3d"
+}

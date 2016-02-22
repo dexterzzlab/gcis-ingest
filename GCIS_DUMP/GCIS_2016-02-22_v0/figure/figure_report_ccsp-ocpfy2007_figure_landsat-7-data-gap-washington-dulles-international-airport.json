@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "These products represent a portion of a false-color Landsat-7 scene over the Dulles airport area in Virginia, showing the gap-filled product developed to compensate for a mechanical problem on Landsat-7. Credit: R. Beck, U.S. Geological Survey.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "5c/74/3bff589daec74063736fad0fb7c4/our_changing_planet_2007_77_20090708_1679593023.jpg",
+            "href": "http://data.globalchange.gov/assets/5c/74/3bff589daec74063736fad0fb7c4/our_changing_planet_2007_77_20090708_1679593023.jpg",
+            "identifier": "b8eb52a6-04c7-45d3-899d-8f28ff185f2d",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "a39a08102f4e1bcc0f192f4ec5d2a021aa6696fe",
+            "size": 55907,
+            "thumbnail": "5c/74/3bff589daec74063736fad0fb7c4/.thumb-b8eb52a6-04c7-45d3-899d-8f28ff185f2d.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/5c/74/3bff589daec74063736fad0fb7c4/.thumb-b8eb52a6-04c7-45d3-899d-8f28ff185f2d.png",
+            "uri": "/file/b8eb52a6-04c7-45d3-899d-8f28ff185f2d",
+            "url": "/assets/5c/74/3bff589daec74063736fad0fb7c4/our_changing_planet_2007_77_20090708_1679593023.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/landsat-7-data-gap-washington-dulles-international-airport.json",
+    "identifier": "landsat-7-data-gap-washington-dulles-international-airport",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Landsat-7 Data Gap Correction: Washington Dulles International Airport",
+    "uri": "/report/ccsp-ocpfy2007/figure/landsat-7-data-gap-washington-dulles-international-airport",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

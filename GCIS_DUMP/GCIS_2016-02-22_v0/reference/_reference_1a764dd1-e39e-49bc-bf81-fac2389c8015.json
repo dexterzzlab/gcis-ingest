@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Boisvenue, C.\rRunning, S.W.",
+        "DOI": "10.1890/09-0504.1",
+        "ISSN": "1051-0761",
+        "Issue": "5",
+        "Journal": "Ecological Applications",
+        "Pages": "1302-1319",
+        "Title": "Simulations show decreasing carbon stocks and potential for carbon emissions in Rocky Mountain forests over the next century",
+        "Volume": "20",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "1544",
+        "_uuid": "1a764dd1-e39e-49bc-bf81-fac2389c8015",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/09-0504.1",
+    "href": "http://data.globalchange.gov/reference/1a764dd1-e39e-49bc-bf81-fac2389c8015.json",
+    "identifier": "1a764dd1-e39e-49bc-bf81-fac2389c8015",
+    "uri": "/reference/1a764dd1-e39e-49bc-bf81-fac2389c8015"
+}

@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Dyson, Karen\rHuppert, Daniel D.",
+        "DOI": "10.1016/j.hal.2009.11.003",
+        "ISSN": "1568-9883",
+        "Issue": "3",
+        "Journal": "Harmful Algae",
+        "Keywords": "Economic impact\rHarmful algal bloom\rInput\u2013output model\rRazor clams\rRecreational fishery\rWashington",
+        "Pages": "264-271",
+        "Title": "Regional economic impacts of razor clam beach closures due to harmful algal blooms (HABs) on the Pacific coast of Washington",
+        "URL": "http://www.sciencedirect.com/science/article/pii/S1568988309001279",
+        "Volume": "9",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "3841",
+        "_uuid": "88a14f98-26bd-4955-9850-5024812c40d1",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.hal.2009.11.003",
+    "href": "http://data.globalchange.gov/reference/88a14f98-26bd-4955-9850-5024812c40d1.json",
+    "identifier": "88a14f98-26bd-4955-9850-5024812c40d1",
+    "uri": "/reference/88a14f98-26bd-4955-9850-5024812c40d1"
+}

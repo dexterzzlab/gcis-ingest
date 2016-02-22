@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-04-15T11:53:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "(Left) Projected increased winter flows and decreased summer flows in many Northwest rivers will cause widespread impacts. Mixed rain-snow watersheds, such as the Yakima River basin, an important agricultural area in eastern Washington, will see increased winter flows, earlier spring peak flows, and decreased summer flows in a warming climate. Changes in average monthly streamflow by the 2020s, 2040s, and 2080s (as compared to the period 1916 to 2006) indicate that the Yakima River basin could change from a snow-dominant to a rain-dominant basin by the 2080s under the A1B emissions scenario (with eventual reductions from current rising emissions trends). (Figure source: adapted from Elsner et al. 2010).<tbib>f05b7c3d-51e4-4a58-ae86-c684b3682dd4</tbib>\r\n\r\n\t(Right) Natural surface water availability during the already dry late summer period is projected to decrease across most of the Northwest. The map shows projected changes in local runoff (shading) and streamflow (colored circles) for the 2040s (compared to the period 1915 to 2006) under the same scenario as the left figure (A1B).<tbib>e51238d0-cf6c-4cea-88a6-8d61df7e8e3d</tbib> Streamflow reductions such as these would stress freshwater fish species (for instance, endangered salmon and bull trout) and necessitate increasing tradeoffs among conflicting uses of summer water. Watersheds with significant groundwater contributions to summer streamflow may be less responsive to climate change than indicated here.<tbib>4f07c4b9-ff00-4d78-8433-3c94ef2eb6db</tbib>",
+            "chapter_identifier": "northwest",
+            "create_dt": "2014-04-15T11:53:00",
+            "identifier": "future-shift-in-timing-of-stream-flows-reduced-summer-flows",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 2,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Future Shift in Timing of Stream Flows Reduced Summer Flows",
+            "url": "http://nca2014.globalchange.gov/highlights/regions/northwest/graphics/future-shift-timing-streamflows",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "a7/f2/8f79f31a4f2c21c9356bb277035b/fig21-2_map-right.png",
+            "href": "http://data.globalchange.gov/assets/a7/f2/8f79f31a4f2c21c9356bb277035b/fig21-2_map-right.png",
+            "identifier": "00edfd35-5319-4356-a3d7-c1c30ee06021",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "ecbec5590f607ebb31a2abf8076f0323764058e6",
+            "size": 336002,
+            "thumbnail": "a7/f2/8f79f31a4f2c21c9356bb277035b/.thumb-00edfd35-5319-4356-a3d7-c1c30ee06021.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/a7/f2/8f79f31a4f2c21c9356bb277035b/.thumb-00edfd35-5319-4356-a3d7-c1c30ee06021.png",
+            "uri": "/file/00edfd35-5319-4356-a3d7-c1c30ee06021",
+            "url": "/assets/a7/f2/8f79f31a4f2c21c9356bb277035b/fig21-2_map-right.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/d9a5eae0-6fe4-4fb8-a2bf-5076690f8a38.json",
+    "identifier": "d9a5eae0-6fe4-4fb8-a2bf-5076690f8a38",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Reduced Summer Flows",
+    "uri": "/image/d9a5eae0-6fe4-4fb8-a2bf-5076690f8a38",
+    "url": null,
+    "usage_limits": null
+}

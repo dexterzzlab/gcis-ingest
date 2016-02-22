@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Daily flow data from four central wastewater treatment systems in coastal North Carolina were examined for responses to rainfall, tide level, and other environmental variables during the period January 2005 through December 2008. Flow data revealed substantial variation at several timescales, indicating external effects on flow volumes, most likely through inflow and infiltration (I&I). Daily flow volumes were strongly influenced by short-term rainfall quantities, as expected, but other factors contribute on a longer-term basis. The portion of total flow attributable to I&I varied from <10% to >100% of base flow. Multiple regression analysis showed that infiltration, defined in this analysis as flow responses to rainfall integrated over 3 day or longer periods, contributed the majority of increased flow. Significant infiltration effects indicate that collection systems are leaky and that elevated groundwater levels drive increased influent flows through central treatment systems. Sea-level variations also drove significant responses of influent flows. Increases in groundwater levels, whether from heavy rainfall or from increases in sea level, thus pose three threats to coastal sewer infrastructure: (1) reduction in treatment efficiency with higher flow volumes, (2) increased risk of bypasses as flow capacity is exceeded, and (3) introduction of saline water into treatment systems, with possibly negative consequences for the mechanical and biological integrity of these systems and higher operating and maintenance costs. Heavy rainfalls from coastal storms and higher than normal seawater levels from flooding tides would periodically increase the hazards from rising average sea levels. We recommend that additional studies be undertaken to assess saltwater infiltration into collection systems and that coastal municipalities monitor the integrity of their system components in relation to the threats posed.",
+        "Author": "Flood, J.F.\rCahoon, L.B.",
+        "DOI": "10.2112/JCOASTRES-D-10-00129.1",
+        "ISSN": "1551-5036",
+        "Issue": "4",
+        "Journal": "Journal of Coastal Research",
+        "Keywords": "Wastewater treatment, ; inflow, infiltration, ; sea level, ; rainfall",
+        "Pages": "652-660",
+        "Title": "Risks to coastal wastewater collection systems from sea-level rise and climate change",
+        "URL": "http://www.jcronline.org/doi/pdf/10.2112/JCOASTRES-D-10-00129.1",
+        "Volume": "27",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "1469",
+        "_uuid": "388a539b-7eb8-48a5-be34-6568a5af8682",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.2112/JCOASTRES-D-10-00129.1",
+    "href": "http://data.globalchange.gov/reference/388a539b-7eb8-48a5-be34-6568a5af8682.json",
+    "identifier": "388a539b-7eb8-48a5-be34-6568a5af8682",
+    "uri": "/reference/388a539b-7eb8-48a5-be34-6568a5af8682"
+}

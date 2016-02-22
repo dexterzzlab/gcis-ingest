@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "3",
+        "Author": "McLaughlin, B. J.\rMurrell, S. D.\rDesRoches, S.",
+        "Conference Location": "Reston, VA",
+        "Conference Name": "TD&I Congress 2011:  Integrated Transportation and Development for a Better Tomorrow",
+        "DOI": "10.1061/41167(398)92",
+        "ISBN": "978-0-7844-1167-4",
+        "Publisher": "American Society of Civil Engineers",
+        "Title": "Case study: Assessment of the vulnerability of Port Authority of NY & NJ facilities to the impacts of climate change",
+        "URL": "http://ascelibrary.org/doi/abs/10.1061/41167%28398%2992",
+        "Year of Conference": "2011",
+        "_chapter": "[\"Ch. 5: Transportation FINAL\"]",
+        "_record_number": "1955",
+        "_uuid": "39ae0c82-cd8f-41e9-978e-4d6dd4c59a9a",
+        "reftype": "Conference Proceedings"
+    },
+    "child_publication": "/generic/be2d4e25-39a6-4bdf-920d-debf9fd71f70",
+    "href": "http://data.globalchange.gov/reference/39ae0c82-cd8f-41e9-978e-4d6dd4c59a9a.json",
+    "identifier": "39ae0c82-cd8f-41e9-978e-4d6dd4c59a9a",
+    "uri": "/reference/39ae0c82-cd8f-41e9-978e-4d6dd4c59a9a"
+}

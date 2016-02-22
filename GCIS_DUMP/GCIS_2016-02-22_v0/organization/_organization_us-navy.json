@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/us-navy.json",
+    "identifier": "us-navy",
+    "name": "U.S. Navy",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/us-navy",
+    "url": "http://www.navy.mil"
+}

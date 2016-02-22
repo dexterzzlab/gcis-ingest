@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "DeAngelis, A.\rDominguez, F.\rFan, Y.\rRobock, A.\rKustu, M.D.\rRobinson, D.",
+        "DOI": "10.1029/2010JD013892",
+        "Journal": "Journal of Geophysical Research",
+        "Pages": "D15115",
+        "Title": "Evidence of enhanced precipitation due to irrigation over the Great Plains of the United States",
+        "Volume": "115",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 13: Land Use and Land Cover Change FINAL\",\"Ch. 2: Our Changing Climate FINAL\",\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "666",
+        "_uuid": "167035c2-5b82-42df-bb49-2df31100ebeb",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2010JD013892",
+    "href": "http://data.globalchange.gov/reference/167035c2-5b82-42df-bb49-2df31100ebeb.json",
+    "identifier": "167035c2-5b82-42df-bb49-2df31100ebeb",
+    "uri": "/reference/167035c2-5b82-42df-bb49-2df31100ebeb"
+}

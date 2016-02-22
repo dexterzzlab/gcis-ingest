@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "ICLEI,",
+        "Institution": "ICLEI-Local Governments for Sustainability USA ",
+        "Pages": "133",
+        "Place Published": "San Diego, CA",
+        "Series Editor": "Hirschfeld, D.\rHolland, B.",
+        "Title": "Sea Level Rise Adaptation Strategy for San Diego Bay",
+        "URL": "http://www.icleiusa.org/static/San_Diego_Bay_SLR_Adaptation_Strategy_Complete.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 13: Land Use and Land Cover Change FINAL\",\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "1506",
+        "_uuid": "af79e6ab-05c2-451e-9c0c-af791d8bf2fb",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/icleiusa-slr-sandiego-2012",
+    "href": "http://data.globalchange.gov/reference/af79e6ab-05c2-451e-9c0c-af791d8bf2fb.json",
+    "identifier": "af79e6ab-05c2-451e-9c0c-af791d8bf2fb",
+    "uri": "/reference/af79e6ab-05c2-451e-9c0c-af791d8bf2fb"
+}

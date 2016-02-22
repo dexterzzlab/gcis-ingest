@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "IPCC,",
+        "Institution": "Intergovernmental Panel on Climate Change, Institute for Global Environmental Strategies (IGES)",
+        "Place Published": "Japan",
+        "Series Editor": "S. Eggleston\rL. Buendia\rK. Miwa\rT. Ngara\rK. Tanabe ",
+        "Title": "IPCC Guidelines for National Greenhouse Gas Inventories, Prepared by the National Greenhouse Gas Inventories Programme",
+        "URL": "http://www.ipcc-nggip.iges.or.jp/public/2006gl/index.html",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "818",
+        "_uuid": "efc48005-9a18-477a-aee7-72879653a8cd",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/ipcc-guidelines-2006",
+    "href": "http://data.globalchange.gov/reference/efc48005-9a18-477a-aee7-72879653a8cd.json",
+    "identifier": "efc48005-9a18-477a-aee7-72879653a8cd",
+    "uri": "/reference/efc48005-9a18-477a-aee7-72879653a8cd"
+}

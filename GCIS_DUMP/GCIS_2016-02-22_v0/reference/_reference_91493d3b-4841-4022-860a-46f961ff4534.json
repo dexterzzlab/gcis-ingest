@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Teschke, K.\rBellack, N.\rShen, H.\rAtwater, J.\rChu, R.\rKoehoorn, M.\rMacNab, Y.C.\rSchreier, H.\rIsaac-Renton, J.L.",
+        "DOI": "10.1186/1471-2458-10-767",
+        "ISSN": "1471-2458",
+        "Issue": "1",
+        "Journal": "BMC Public Health",
+        "Pages": "767",
+        "Title": "Water and sewage systems, socio-demographics, and duration of residence associated with endemic intestinal infectious diseases: A cohort study",
+        "URL": "http://www.biomedcentral.com/1471-2458/10/767",
+        "Volume": "10",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "3022",
+        "_uuid": "91493d3b-4841-4022-860a-46f961ff4534",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1186/1471-2458-10-767",
+    "href": "http://data.globalchange.gov/reference/91493d3b-4841-4022-860a-46f961ff4534.json",
+    "identifier": "91493d3b-4841-4022-860a-46f961ff4534",
+    "uri": "/reference/91493d3b-4841-4022-860a-46f961ff4534"
+}

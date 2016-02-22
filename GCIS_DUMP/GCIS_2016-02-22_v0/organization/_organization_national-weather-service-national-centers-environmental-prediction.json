@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/national-weather-service-national-centers-environmental-prediction.json",
+    "identifier": "national-weather-service-national-centers-environmental-prediction",
+    "name": "National Weather Service National Centers for Environmental Prediction",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/national-weather-service-national-centers-environmental-prediction",
+    "url": "http://www.ncep.noaa.gov/"
+}

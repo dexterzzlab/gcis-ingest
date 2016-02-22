@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Thomson, L. C.\rEscobar, M. I.\rMosser, M.\rPurkey, D.\rYates, D.\rMoyle, P.",
+        "DOI": "10.1061/(ASCE)WR.1943-5452.0000194",
+        "Issue": "5",
+        "Journal": "Journal of Water Resources Planning and Management",
+        "Pages": "465-478",
+        "Title": "Water management adaptations to prevent loss of spring-run Chinook salmon in California under climate change",
+        "Volume": "138",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "3053",
+        "_uuid": "965c6f03-752d-46af-8b52-35fa526c57c0",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1061/(ASCE)WR.1943-5452.0000194",
+    "href": "http://data.globalchange.gov/reference/965c6f03-752d-46af-8b52-35fa526c57c0.json",
+    "identifier": "965c6f03-752d-46af-8b52-35fa526c57c0",
+    "uri": "/reference/965c6f03-752d-46af-8b52-35fa526c57c0"
+}

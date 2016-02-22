@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".publisher": "Ecological Society of America",
+        ".reference_type": "0",
+        "Access Date": "2013/08/01",
+        "Author": "Polasky, Stephen\rNelson, Erik\rLonsdorf, Eric\rFackler, Paul\rStarfield, Anthony",
+        "DOI": "10.1890/03-5423",
+        "Date": "2005/08/01",
+        "ISSN": "1051-0761",
+        "Issue": "4",
+        "Journal": "Ecological Applications",
+        "Pages": "1387-1401",
+        "Title": "Conserving species in a working landscape: Land use with biological and economic objectives",
+        "Volume": "15",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4058",
+        "_uuid": "12dcce3a-9016-4583-82e6-d1800381e97b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/03-5423",
+    "href": "http://data.globalchange.gov/reference/12dcce3a-9016-4583-82e6-d1800381e97b.json",
+    "identifier": "12dcce3a-9016-4583-82e6-d1800381e97b",
+    "uri": "/reference/12dcce3a-9016-4583-82e6-d1800381e97b"
+}

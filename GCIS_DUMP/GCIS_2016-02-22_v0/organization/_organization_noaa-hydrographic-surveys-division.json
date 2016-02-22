@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/noaa-hydrographic-surveys-division.json",
+    "identifier": "noaa-hydrographic-surveys-division",
+    "name": "NOAA Hydrographic Surveys Division",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/noaa-hydrographic-surveys-division",
+    "url": "http://www.nauticalcharts.noaa.gov/hsd/survey_data.html"
+}

@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"11\" /><run start=\"12\" /><run face=\"subscript\" start=\"16\" /><run start=\"17\" /><run face=\"subscript\" start=\"24\" /><run start=\"25\" /></field></record>",
+        "Author": "MacFarling Meure, C.\rEtheridge, D.\rTrudinger, C.\rSteele, P.\rLangenfelds, R.\rvan Ommen, T.",
+        "DOI": "10.1029/2006GL026152",
+        "Issue": "14",
+        "Journal": "Geophysical Research Letters",
+        "Pages": "L14810",
+        "Title": "Law Dome CO2, CH4, and N2O ice core records extended to 2000 years BP",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2006GL026152/pdf",
+        "Volume": "33",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\",\"RF 11\"]",
+        "_record_number": "1831",
+        "_uuid": "e3517517-912e-4104-86f4-3db3a38e4385",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2006GL026152",
+    "href": "http://data.globalchange.gov/reference/e3517517-912e-4104-86f4-3db3a38e4385.json",
+    "identifier": "e3517517-912e-4104-86f4-3db3a38e4385",
+    "uri": "/reference/e3517517-912e-4104-86f4-3db3a38e4385"
+}

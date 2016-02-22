@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/doe-netl-2010-1397.json",
+    "identifier": "doe-netl-2010-1397",
+    "in_library": null,
+    "publication_year": 2010,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Cost and Performance Baseline for Fossil Energy Plants Volume 1: Bituminous Coal and Natural Gas to Electricity Revision 2, November 2010. DOE/NETL-2010/1397",
+    "topic": null,
+    "uri": "/report/doe-netl-2010-1397",
+    "url": "http://www.netl.doe.gov/File%20Library/Research/Coal/ewr/water/BitBase_FinRep_Rev2.pdf"
+}

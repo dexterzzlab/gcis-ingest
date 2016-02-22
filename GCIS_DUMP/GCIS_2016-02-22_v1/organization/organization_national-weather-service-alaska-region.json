@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/national-weather-service-alaska-region.json",
+    "identifier": "national-weather-service-alaska-region",
+    "name": "National Weather Service Alaska Region",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/national-weather-service-alaska-region",
+    "url": "http://www.arh.noaa.gov/"
+}

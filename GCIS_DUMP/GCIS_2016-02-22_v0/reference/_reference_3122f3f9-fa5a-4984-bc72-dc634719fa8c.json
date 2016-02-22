@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Fischbach, A. S.\rAmstrup, S. C.\rDouglas, D. C.",
+        "DOI": "10.1007/s00300-007-0300-4",
+        "ISSN": "0722-4060",
+        "Issue": "11",
+        "Journal": "Polar Biology",
+        "Pages": "1395-1405",
+        "Title": "Landward and eastward shift of Alaskan polar bear denning associated with recent sea ice changes",
+        "URL": "http://www.springerlink.com/index/10.1007/s00300-007-0300-4",
+        "Volume": "30",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "1034",
+        "_uuid": "3122f3f9-fa5a-4984-bc72-dc634719fa8c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s00300-007-0300-4",
+    "href": "http://data.globalchange.gov/reference/3122f3f9-fa5a-4984-bc72-dc634719fa8c.json",
+    "identifier": "3122f3f9-fa5a-4984-bc72-dc634719fa8c",
+    "uri": "/reference/3122f3f9-fa5a-4984-bc72-dc634719fa8c"
+}

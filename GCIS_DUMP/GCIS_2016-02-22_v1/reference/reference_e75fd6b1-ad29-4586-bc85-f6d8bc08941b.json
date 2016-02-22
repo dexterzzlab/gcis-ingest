@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Rogers, D. J.\rRandolph, S. E.",
+        "Book Title": "Advances in Parasitology",
+        "DOI": "10.1016/S0065-308X(05)62010-6",
+        "Editor": "Hay, Simon I.\rGraham, Alastair\rRogers, David J.",
+        "ISBN": "0065-308X",
+        "Pages": "345-381",
+        "Publisher": "Academic Press",
+        "Reviewer": "e75fd6b1-ad29-4586-bc85-f6d8bc08941b",
+        "Title": "Climate change and vector-borne diseases",
+        "Volume": "62",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "4576",
+        "_uuid": "e75fd6b1-ad29-4586-bc85-f6d8bc08941b",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/fc2a06a7-90c7-47b7-a36f-b60d59977da0",
+    "href": "http://data.globalchange.gov/reference/e75fd6b1-ad29-4586-bc85-f6d8bc08941b.json",
+    "identifier": "e75fd6b1-ad29-4586-bc85-f6d8bc08941b",
+    "uri": "/reference/e75fd6b1-ad29-4586-bc85-f6d8bc08941b"
+}

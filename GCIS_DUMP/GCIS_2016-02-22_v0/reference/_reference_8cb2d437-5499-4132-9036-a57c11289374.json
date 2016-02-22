@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Bennett, J.W.",
+        "ISBN": "9781412822077",
+        "Number of Pages": "378",
+        "Place Published": "New York",
+        "Publisher": "Pergamon press",
+        "Reviewer": "8cb2d437-5499-4132-9036-a57c11289374",
+        "Title": "The Ecological Transition: Cultural Anthropology and Human Adaptation",
+        "Year": "1976",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\"]",
+        "_record_number": "3878",
+        "_uuid": "8cb2d437-5499-4132-9036-a57c11289374",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/838c4733-2b20-4bf7-9f10-06f370260788",
+    "href": "http://data.globalchange.gov/reference/8cb2d437-5499-4132-9036-a57c11289374.json",
+    "identifier": "8cb2d437-5499-4132-9036-a57c11289374",
+    "uri": "/reference/8cb2d437-5499-4132-9036-a57c11289374"
+}

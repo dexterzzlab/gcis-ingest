@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/usgs-national-map.json",
+    "identifier": "usgs-national-map",
+    "name": "U.S. Geological Survey National Map",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/usgs-national-map",
+    "url": "http://nationalmap.gov/"
+}

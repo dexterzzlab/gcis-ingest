@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Alanis, A.J.",
+        "DOI": "10.1016/j.arcmed.2005.06.009",
+        "ISSN": "0188-4409",
+        "Issue": "6",
+        "Journal": "Archives of medical research",
+        "Pages": "697-705",
+        "Title": "Resistance to antibiotics: Are we in the post-antibiotic era?",
+        "Volume": "36",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 14: Rural Communities FINAL\"]",
+        "_record_number": "3677",
+        "_uuid": "47fb5b3c-bd9e-443e-8f60-79f0887a92df",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.arcmed.2005.06.009",
+    "href": "http://data.globalchange.gov/reference/47fb5b3c-bd9e-443e-8f60-79f0887a92df.json",
+    "identifier": "47fb5b3c-bd9e-443e-8f60-79f0887a92df",
+    "uri": "/reference/47fb5b3c-bd9e-443e-8f60-79f0887a92df"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "Space environment monitor",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/particle-environment-monitor.json",
+    "identifier": "particle-environment-monitor",
+    "name": "Particle Environment Monitor",
+    "uri": "/instrument/particle-environment-monitor"
+}

@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "Many forested areas in the U.S. have experienced a recent building boom in what is known as the \u201cwildland-urban interface.\u201d This figure shows the number of buildings lost from the 25 most destructive wildland-urban interface fires in California history from 1960 to 2007 (Figure source: Stephens et al. 2009<tbib>ceb1c4ce-7513-4da2-b9a2-8bc8d7bd6a62</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J05Q4T1Q",
+        "identifier": "land-use-land-cover-change",
+        "number": 13,
+        "report_identifier": "nca3",
+        "sort_key": 130,
+        "title": "Land Use and Land Cover Change",
+        "url": "http://nca2014.globalchange.gov/report/sectors/land-use-and-land-cover-change"
+    },
+    "chapter_identifier": "land-use-land-cover-change",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2012-12-07T16:30:00",
+    "files": [
+        {
+            "file": "bd/bf/01d6202c1f2fadc1304b920c1743/LULCC__WUI_Fires_13522_V2.png",
+            "href": "http://data.globalchange.gov/assets/bd/bf/01d6202c1f2fadc1304b920c1743/LULCC__WUI_Fires_13522_V2.png",
+            "identifier": "c264d765-8d1f-4e25-8b8d-c4017ae74c43",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "3521874552d6e62297f83c070e05b1fb56f76a86",
+            "size": 51242,
+            "thumbnail": "bd/bf/01d6202c1f2fadc1304b920c1743/.thumb-c264d765-8d1f-4e25-8b8d-c4017ae74c43.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/bd/bf/01d6202c1f2fadc1304b920c1743/.thumb-c264d765-8d1f-4e25-8b8d-c4017ae74c43.png",
+            "uri": "/file/c264d765-8d1f-4e25-8b8d-c4017ae74c43",
+            "url": "/assets/bd/bf/01d6202c1f2fadc1304b920c1743/LULCC__WUI_Fires_13522_V2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/land-use-land-cover-change/figure/building-loss-by-fires-at-california-wildlandurban-interfaces.json",
+    "identifier": "building-loss-by-fires-at-california-wildlandurban-interfaces",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2012-12-07T16:30:00",
+            "description": null,
+            "identifier": "3566d50e-bc2e-42f6-a565-9c8e4027ba2e",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2007-12-31T23:59:59",
+            "time_start": "1960-01-01T00:00:00",
+            "title": "Building Loss by Fires at California Wildland-Urban Interfaces",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 4,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Urban\u2013wildland fires: how California and other regions of the US can learn from Australia",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1088/1748-9326/4/1/014010"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/ceb1c4ce-7513-4da2-b9a2-8bc8d7bd6a62.json",
+            "uri": "/reference/ceb1c4ce-7513-4da2-b9a2-8bc8d7bd6a62"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "Stephens et al. 2009<tbib>ceb1c4ce-7513-4da2-b9a2-8bc8d7bd6a62</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Building Loss by Fires at California Wildland-Urban Interfaces",
+    "uri": "/report/nca3/chapter/land-use-land-cover-change/figure/building-loss-by-fires-at-california-wildlandurban-interfaces",
+    "url": "http://nca2014.globalchange.gov/highlights/report-findings/ecosystems-and-biodiversity/graphics/building-loss-fires-california",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

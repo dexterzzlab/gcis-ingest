@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Dale, V.H.\rTharp, M.L.\rLannom, K.O.\rHodges, D.G.",
+        "DOI": "10.1016/j.scitotenv.2009.11.050",
+        "ISSN": "0048-9697",
+        "Issue": "8",
+        "Journal": "Science of The Total Environment",
+        "Pages": "1888-1901",
+        "Title": "Modeling transient response of forests to climate change",
+        "Volume": "408",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "1124",
+        "_uuid": "19710f0a-4207-4830-aa73-4a7104ec1536",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.scitotenv.2009.11.050",
+    "href": "http://data.globalchange.gov/reference/19710f0a-4207-4830-aa73-4a7104ec1536.json",
+    "identifier": "19710f0a-4207-4830-aa73-4a7104ec1536",
+    "uri": "/reference/19710f0a-4207-4830-aa73-4a7104ec1536"
+}

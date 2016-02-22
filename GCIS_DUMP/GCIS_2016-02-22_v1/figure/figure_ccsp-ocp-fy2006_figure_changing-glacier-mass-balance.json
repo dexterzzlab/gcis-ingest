@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Mid-latitude glaciers respond quickly and dramatically to fluctuations in climate. Aerial views of South Cascade Glacier, Washington, in 1928 and 2000, illustrate the magnitude of glacier wastage (negative mass balance) and the terminus retreat that has been characteristic of glaciers in the region. Over this time span, the glacier has lost half its volume and retreated 1.5 km. Credit: USGS.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "07/1a/0c205b187da54dab3f191a19749d/our_changing_planet_2006_3_20090708_1598018504.jpg",
+            "href": "http://data.globalchange.gov/assets/07/1a/0c205b187da54dab3f191a19749d/our_changing_planet_2006_3_20090708_1598018504.jpg",
+            "identifier": "23e605f8-e4d3-45a4-9ae0-d45d35c36901",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "aa14d6d7a5956879226024fe58bc8b79a11eef3a",
+            "size": 47650,
+            "thumbnail": "07/1a/0c205b187da54dab3f191a19749d/.thumb-23e605f8-e4d3-45a4-9ae0-d45d35c36901.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/07/1a/0c205b187da54dab3f191a19749d/.thumb-23e605f8-e4d3-45a4-9ae0-d45d35c36901.png",
+            "uri": "/file/23e605f8-e4d3-45a4-9ae0-d45d35c36901",
+            "url": "/assets/07/1a/0c205b187da54dab3f191a19749d/our_changing_planet_2006_3_20090708_1598018504.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocp-fy2006/figure/changing-glacier-mass-balance.json",
+    "identifier": "changing-glacier-mass-balance",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocp-fy2006",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Changing Glacier Mass Balance",
+    "uri": "/report/ccsp-ocp-fy2006/figure/changing-glacier-mass-balance",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

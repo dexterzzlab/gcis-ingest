@@ -1,0 +1,8 @@
+{
+    "description": "Space environment monitor",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/solar-x-ray-imager.json",
+    "identifier": "solar-x-ray-imager",
+    "name": "Solar X-ray Imager",
+    "uri": "/instrument/solar-x-ray-imager"
+}

@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "U.S. Commission on Civil Rights,",
+        "Date": "July 2003",
+        "Pages": "139",
+        "Title": "A Quiet Crisis: Federal Funding and Unmet Needs in Indian Country",
+        "URL": "http://www.usccr.gov/pubs/na0703/na0731.pdf",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\"]",
+        "_record_number": "3888",
+        "_uuid": "3f7a5390-929e-412e-8882-24cd5d79f11d",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usccr-quietcrisis-2003",
+    "href": "http://data.globalchange.gov/reference/3f7a5390-929e-412e-8882-24cd5d79f11d.json",
+    "identifier": "3f7a5390-929e-412e-8882-24cd5d79f11d",
+    "uri": "/reference/3f7a5390-929e-412e-8882-24cd5d79f11d"
+}

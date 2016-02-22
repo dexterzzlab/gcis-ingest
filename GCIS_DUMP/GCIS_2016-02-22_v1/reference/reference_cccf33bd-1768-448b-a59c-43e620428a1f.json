@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Hughes, T.P.\rGraham, N.A.J.\rJackson, J.B.C.\rMumby, P.J.\rSteneck, R.S.",
+        "DOI": "10.1016/j.tree.2010.07.011",
+        "ISSN": "0169-5347",
+        "Issue": "11",
+        "Journal": "Trends in Ecology & Evolution",
+        "Pages": "633-642",
+        "Title": "Rising to the challenge of sustaining coral reef resilience",
+        "Volume": "25",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\",\"Appendix 1: Process FINAL\"]",
+        "_record_number": "3604",
+        "_uuid": "cccf33bd-1768-448b-a59c-43e620428a1f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.tree.2010.07.011",
+    "href": "http://data.globalchange.gov/reference/cccf33bd-1768-448b-a59c-43e620428a1f.json",
+    "identifier": "cccf33bd-1768-448b-a59c-43e620428a1f",
+    "uri": "/reference/cccf33bd-1768-448b-a59c-43e620428a1f"
+}

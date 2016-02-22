@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "DOC,",
+        "Document Number": "13 April 2012",
+        "Institution": "U.S. Department of Commerce",
+        "Pages": "13",
+        "Title": "U.S. Travel and Tourism Industries: A Year in Review 2010",
+        "URL": "http://www.tinet.ita.doc.gov/pdf/2010-year-in-review.pdf",
+        "Volume": "2012",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "1019",
+        "_uuid": "ca80fa7a-8707-4e68-8266-e3b92da7d45e",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/ita-2010inreview-2012",
+    "href": "http://data.globalchange.gov/reference/ca80fa7a-8707-4e68-8266-e3b92da7d45e.json",
+    "identifier": "ca80fa7a-8707-4e68-8266-e3b92da7d45e",
+    "uri": "/reference/ca80fa7a-8707-4e68-8266-e3b92da7d45e"
+}

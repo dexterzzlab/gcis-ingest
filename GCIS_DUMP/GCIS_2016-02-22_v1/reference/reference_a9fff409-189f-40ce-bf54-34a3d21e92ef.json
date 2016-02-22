@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Brown, P.M.\rHeyerdahl, E.K.\rKitchen, S.G.\rWeber, M.H.",
+        "DOI": "10.1071/WF07023",
+        "ISSN": "1448-5516",
+        "Issue": "1",
+        "Journal": "International Journal of Wildland Fire",
+        "Pages": "28-39",
+        "Title": "Climate effects on historical fires (1630\u20131900) in Utah",
+        "Volume": "17",
+        "Year": "2008",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "357",
+        "_uuid": "a9fff409-189f-40ce-bf54-34a3d21e92ef",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1071/WF07023",
+    "href": "http://data.globalchange.gov/reference/a9fff409-189f-40ce-bf54-34a3d21e92ef.json",
+    "identifier": "a9fff409-189f-40ce-bf54-34a3d21e92ef",
+    "uri": "/reference/a9fff409-189f-40ce-bf54-34a3d21e92ef"
+}

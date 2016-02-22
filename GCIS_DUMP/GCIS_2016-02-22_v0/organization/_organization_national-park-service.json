@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/national-park-service.json",
+    "identifier": "national-park-service",
+    "name": "National Park Service",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/national-park-service",
+    "url": "http://www.nps.gov/"
+}

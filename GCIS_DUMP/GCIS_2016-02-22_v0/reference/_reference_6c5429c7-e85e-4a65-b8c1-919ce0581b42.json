@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".publisher": "Public Library of Science",
+        ".reference_type": "0",
+        "Abstract": "<p>In the recent discussion how biotic systems may react to ocean acidification caused by the rapid rise in carbon dioxide partial pressure (<italic>p</italic>CO<sub>2</sub>) in the marine realm, substantial research is devoted to calcifiers such as stony corals. The antagonistic process \u2013 biologically induced carbonate dissolution via bioerosion \u2013 has largely been neglected. Unlike skeletal growth, we expect bioerosion by chemical means to be facilitated in a high-CO<sub>2</sub> world. This study focuses on one of the most detrimental bioeroders, the sponge <italic>Cliona orientalis</italic>, which attacks and kills live corals on Australia\u2019s Great Barrier Reef. Experimental exposure to lowered and elevated levels of <italic>p</italic>CO<sub>2</sub> confirms a significant enforcement of the sponges\u2019 bioerosion capacity with increasing <italic>p</italic>CO<sub>2</sub> under more acidic conditions. Considering the substantial contribution of sponges to carbonate bioerosion, this finding implies that tropical reef ecosystems are facing the combined effects of weakened coral calcification and accelerated bioerosion, resulting in critical pressure on the dynamic balance between biogenic carbonate build-up and degradation.</p>",
+        "Author": "Wisshak, Max\rSch\u00f6nberg, Christine H. L.\rForm, Armin\rFreiwald, Andr\u00e9",
+        "DOI": "10.1371/journal.pone.0045124",
+        "Issue": "9",
+        "Journal": "PLoS ONE",
+        "Pages": "e45124",
+        "Title": "Ocean acidification accelerates reef bioerosion",
+        "URL": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0045124&representation=PDF",
+        "Volume": "7",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\",\"RF 11\",\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "4336",
+        "_uuid": "6c5429c7-e85e-4a65-b8c1-919ce0581b42",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1371/journal.pone.0045124",
+    "href": "http://data.globalchange.gov/reference/6c5429c7-e85e-4a65-b8c1-919ce0581b42.json",
+    "identifier": "6c5429c7-e85e-4a65-b8c1-919ce0581b42",
+    "uri": "/reference/6c5429c7-e85e-4a65-b8c1-919ce0581b42"
+}

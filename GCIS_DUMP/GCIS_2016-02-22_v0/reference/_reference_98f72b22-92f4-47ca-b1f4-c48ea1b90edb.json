@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".publisher": "Nature Publishing Group",
+        ".reference_type": "0",
+        "Author": "Sheffield, Justin\rWood, Eric F.\rRoderick, Michael L.",
+        "DOI": "10.1038/nature11575",
+        "ISSN": "0028-0836",
+        "Issue": "7424",
+        "Journal": "Nature",
+        "Notes": "10.1038/nature11575",
+        "Pages": "435-438",
+        "Title": "Little change in global drought over the past 60 years",
+        "URL": "http://www.nature.com/nature/journal/v491/n7424/pdf/nature11575.pdf",
+        "Volume": "491",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"RF 2\",\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "3747",
+        "_uuid": "98f72b22-92f4-47ca-b1f4-c48ea1b90edb",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/nature11575",
+    "href": "http://data.globalchange.gov/reference/98f72b22-92f4-47ca-b1f4-c48ea1b90edb.json",
+    "identifier": "98f72b22-92f4-47ca-b1f4-c48ea1b90edb",
+    "uri": "/reference/98f72b22-92f4-47ca-b1f4-c48ea1b90edb"
+}

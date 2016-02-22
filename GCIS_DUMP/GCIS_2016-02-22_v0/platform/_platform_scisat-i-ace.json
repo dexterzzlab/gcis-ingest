@@ -1,0 +1,12 @@
+{
+    "description": "SciSat-1/ACE is a Canadian atmospheric science mission. In the time frame 1996/97, CSA (Canadian Space Agency) initiated the SciSat program with the objective to provide opportunities for Canadian scientists to define and conduct space experiments in the following fields: Earth sciences, space astronomy, and solar-terrestrial relations. Mission selection procedures in the program were conducted via an AO (Announcement of Opportunity) process and peer reviews.",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/s/scisat-1",
+    "end_date": "2015-03-01T00:00:00",
+    "href": "http://data.globalchange.gov/platform/scisat-i-ace.json",
+    "identifier": "scisat-i-ace",
+    "name": "SCISAT-I/ACE",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "2003-08-12T00:00:00",
+    "uri": "/platform/scisat-i-ace",
+    "url": "http://www.asc-csa.gc.ca/eng/satellites/scisat/default.asp"
+}

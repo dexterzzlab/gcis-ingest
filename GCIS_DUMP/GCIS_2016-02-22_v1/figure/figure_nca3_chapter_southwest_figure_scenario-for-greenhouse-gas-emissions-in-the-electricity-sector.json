@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "caption": "Major shifts in how electricity is produced can lead to large reductions in heat-trapping gas emissions. Shown is an illustrative scenario in which different energy combinations could, by 2050, achieve an 80% reduction of heat-trapping gas emissions from 1990 levels in the electricity sector in the Southwest. For each state, that mix varies, with the circle representing the average hourly generation in megawatts (the number above each circle) from 10 potential energy sources. CCS refers to carbon capture and storage. (Data from Wei et al. 2012, 2013<tbib>ec3c0821-5258-4ddc-a904-0b216554e9cc</tbib><sup>,</sup><tbib>0733dc3f-1365-42f3-898e-bffd91746f09</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J08G8HMN",
+        "identifier": "southwest",
+        "number": 20,
+        "report_identifier": "nca3",
+        "sort_key": 200,
+        "title": "Southwest",
+        "url": "http://nca2014.globalchange.gov/report/regions/southwest"
+    },
+    "chapter_identifier": "southwest",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "b3/60/da7c54e0a73557bc427b85b4c17b/SW_energy_generation_by_2045_12447_v10.png",
+            "href": "http://data.globalchange.gov/assets/b3/60/da7c54e0a73557bc427b85b4c17b/SW_energy_generation_by_2045_12447_v10.png",
+            "identifier": "4e3c7eac-59bc-4232-a38e-dcfe464310a4",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "adc3b8c704d748878346476f54318b0badda1c9d",
+            "size": 118216,
+            "thumbnail": "b3/60/da7c54e0a73557bc427b85b4c17b/.thumb-4e3c7eac-59bc-4232-a38e-dcfe464310a4.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/b3/60/da7c54e0a73557bc427b85b4c17b/.thumb-4e3c7eac-59bc-4232-a38e-dcfe464310a4.png",
+            "uri": "/file/4e3c7eac-59bc-4232-a38e-dcfe464310a4",
+            "url": "/assets/b3/60/da7c54e0a73557bc427b85b4c17b/SW_energy_generation_by_2045_12447_v10.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/southwest/figure/scenario-for-greenhouse-gas-emissions-in-the-electricity-sector.json",
+    "identifier": "scenario-for-greenhouse-gas-emissions-in-the-electricity-sector",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 3,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/0733dc3f-1365-42f3-898e-bffd91746f09.json",
+            "uri": "/reference/0733dc3f-1365-42f3-898e-bffd91746f09"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/ec3c0821-5258-4ddc-a904-0b216554e9cc.json",
+            "uri": "/reference/ec3c0821-5258-4ddc-a904-0b216554e9cc"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "Wei et al. 2012, 2013<tbib>ec3c0821-5258-4ddc-a904-0b216554e9cc</tbib><sup>,</sup><tbib>0733dc3f-1365-42f3-898e-bffd91746f09</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Scenario for Greenhouse Gas Emissions in the Electricity Sector",
+    "uri": "/report/nca3/chapter/southwest/figure/scenario-for-greenhouse-gas-emissions-in-the-electricity-sector",
+    "url": "http://nca2014.globalchange.gov/highlights/regions/southwest/graphics/selected-responses",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

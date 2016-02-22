@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Verbout, S.M.\rBrooks, H.E.\rLeslie, L.M.\rSchultz, D.M.",
+        "DOI": "10.1175/WAF910.1",
+        "ISSN": "1520-0434",
+        "Issue": "1",
+        "Journal": "Weather and Forecasting",
+        "Pages": "86-93",
+        "Title": "Evolution of the US tornado database: 1954-2003",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/WAF910.1",
+        "Volume": "21",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "3283",
+        "_uuid": "de941baf-a8d8-4b50-9d33-fd70a7d01442",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/WAF910.1",
+    "href": "http://data.globalchange.gov/reference/de941baf-a8d8-4b50-9d33-fd70a7d01442.json",
+    "identifier": "de941baf-a8d8-4b50-9d33-fd70a7d01442",
+    "uri": "/reference/de941baf-a8d8-4b50-9d33-fd70a7d01442"
+}

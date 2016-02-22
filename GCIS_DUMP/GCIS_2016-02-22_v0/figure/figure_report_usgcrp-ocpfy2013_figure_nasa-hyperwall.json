@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "At the Planet Under Pressure 2012 Conference, NASA's hyperwall was showcased to demonstrate global change visually. ",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "b7/e1/90aba595b8c295e376bb01446596/OCP_2013_Page_32_Image_0001.jpg",
+            "href": "http://data.globalchange.gov/assets/b7/e1/90aba595b8c295e376bb01446596/OCP_2013_Page_32_Image_0001.jpg",
+            "identifier": "e0e64741-ab7f-4795-8cc1-3b9250ef442d",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "75542f65f85c334d5a88afd6541d206024605e99",
+            "size": 262050,
+            "thumbnail": "b7/e1/90aba595b8c295e376bb01446596/.thumb-e0e64741-ab7f-4795-8cc1-3b9250ef442d.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/b7/e1/90aba595b8c295e376bb01446596/.thumb-e0e64741-ab7f-4795-8cc1-3b9250ef442d.png",
+            "uri": "/file/e0e64741-ab7f-4795-8cc1-3b9250ef442d",
+            "url": "/assets/b7/e1/90aba595b8c295e376bb01446596/OCP_2013_Page_32_Image_0001.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2013/figure/nasa-hyperwall.json",
+    "identifier": "nasa-hyperwall",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2013",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "NASA Hyperwall",
+    "uri": "/report/usgcrp-ocpfy2013/figure/nasa-hyperwall",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

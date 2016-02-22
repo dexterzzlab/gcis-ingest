@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".publisher": "Blackwell Science, Inc.",
+        ".reference_type": "0",
+        "Author": "Jenkins, David G.\rGrissom, Scott\rMiller, Keith",
+        "DOI": "10.1046/j.1523-1739.2003.01450.x",
+        "ISSN": "1523-1739",
+        "Issue": "1",
+        "Journal": "Conservation Biology",
+        "Pages": "158-167",
+        "Title": "Consequences of prairie wetland drainage for crustacean biodiversity and metapopulations",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1046/j.1523-1739.2003.01450.x/pdf",
+        "Volume": "17",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "4144",
+        "_uuid": "615cce5b-a119-4036-ac29-b8907c02c1fd",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1046/j.1523-1739.2003.01450.x",
+    "href": "http://data.globalchange.gov/reference/615cce5b-a119-4036-ac29-b8907c02c1fd.json",
+    "identifier": "615cce5b-a119-4036-ac29-b8907c02c1fd",
+    "uri": "/reference/615cce5b-a119-4036-ac29-b8907c02c1fd"
+}

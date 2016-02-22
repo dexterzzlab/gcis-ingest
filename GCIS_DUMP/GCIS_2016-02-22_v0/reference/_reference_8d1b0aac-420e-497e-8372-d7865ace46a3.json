@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Dijkstra, F.A.\rPrior, S.A.,\rRunion, G.B.,\rTorbert, H. A.\rTian, H.\rLu, C.\rVenterea, R.T.",
+        "DOI": "10.1890/120059",
+        "Date": "November",
+        "Issue": "10",
+        "Journal": "Frontiers in Ecology and the Environment",
+        "Pages": "520-527",
+        "Title": "Effects of elevated carbon dioxide and increased temperature on methane and nitrous oxide fluxes: Evidence from field experiments",
+        "Volume": "10",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "1656",
+        "_uuid": "8d1b0aac-420e-497e-8372-d7865ace46a3",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/120059",
+    "href": "http://data.globalchange.gov/reference/8d1b0aac-420e-497e-8372-d7865ace46a3.json",
+    "identifier": "8d1b0aac-420e-497e-8372-d7865ace46a3",
+    "uri": "/reference/8d1b0aac-420e-497e-8372-d7865ace46a3"
+}

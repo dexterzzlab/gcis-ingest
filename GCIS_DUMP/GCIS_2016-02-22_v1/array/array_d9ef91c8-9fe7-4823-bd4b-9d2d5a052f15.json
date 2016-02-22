@@ -1,0 +1,140 @@
+{
+    "href": "http://data.globalchange.gov/array/d9ef91c8-9fe7-4823-bd4b-9d2d5a052f15.json",
+    "identifier": "d9ef91c8-9fe7-4823-bd4b-9d2d5a052f15",
+    "rows": [
+        [
+            "Sample Federal Mitigation Measures"
+        ],
+        [
+            "Greenhouse Gas Regulations"
+        ],
+        [
+            "Emissions Standards for Vehicles and Engines"
+        ],
+        [
+            "-- For light-duty vehicles, rules establishing standards for 2012-2016 model years and 2017-2025 model years."
+        ],
+        [
+            "-- For heavy- and medium-duty trucks, a rule establishing standards for 2014-2018 model years."
+        ],
+        [
+            "Carbon Pollution Standard for New Power Plants"
+        ],
+        [
+            "-- A proposed rule setting limits on CO2 emissions from future power plants."
+        ],
+        [
+            "Stationary Source Permitting"
+        ],
+        [
+            "-- A rule setting greenhouse gas emissions thresholds to define when permits under the New Source Review Prevention of"
+        ],
+        [
+            "Significant Deterioration and Title V Operating Permit programs are required for new and modified industrial facilities."
+        ],
+        [
+            "Greenhouse Gas Reporting Program"
+        ],
+        [
+            "-- A program requiring annual reporting of greenhouse gas data from large emission sources and suppliers of products that emit"
+        ],
+        [
+            "greenhouse gases when released or combusted. "
+        ],
+        [
+            null
+        ],
+        [
+            "Other Rules and Regulations with Climate Co-Benefits"
+        ],
+        [
+            "Oil and Natural Gas Air Pollution Standards"
+        ],
+        [
+            "-- A rule revising New Source Performance Standards and National Emission Standards for Hazardous Air Pollutants for certain"
+        ],
+        [
+            "components of the oil and natural gas industry."
+        ],
+        [
+            "Mobile Source Control Programs"
+        ],
+        [
+            "-- Particle control regulations affecting mobile sources (especially diesel engines) that reduce black carbon by controlling direct"
+        ],
+        [
+            "particle emissions."
+        ],
+        [
+            "-- The requirement to blend increasing volumes of renewable fuels."
+        ],
+        [
+            "National Forest Planning"
+        ],
+        [
+            "-- Identification and evaluation of information relevant to a baseline assessment of carbon stocks."
+        ],
+        [
+            "-- Reporting of net carbon stock changes on forestland. "
+        ],
+        [
+            null
+        ],
+        [
+            "Standards and Subsidies"
+        ],
+        [
+            "Appliance and Building Efficiency Standards"
+        ],
+        [
+            "-- Energy efficiency standards and test procedures for residential, commercial, industrial, lighting, and plumbing products."
+        ],
+        [
+            "-- Model residential and commercial building energy codes, and technical assistance to state and local governments, and nongovernmental"
+        ],
+        [
+            "organizations."
+        ],
+        [
+            "Financial Incentives for Efficiency and Alternative Fuels and Technology"
+        ],
+        [
+            "-- Weatherization assistance for low-income households, tax incentives for commercial and residential buildings and efficient"
+        ],
+        [
+            "appliances, and support for state and local efficiency programs."
+        ],
+        [
+            "-- Tax credits for biodiesel and advanced biofuel production, alternative fuel infrastructure, and purchase of electric vehicles."
+        ],
+        [
+            "-- Loan guarantees for innovative energy or advanced technology vehicle production and manufacturing; investment and production"
+        ],
+        [
+            "tax credits for renewable energy."
+        ],
+        [
+            ""
+        ],
+        [
+            "Funding of Research, Development, Demonstration, and Deployment"
+        ],
+        [
+            "-- Programs on clean fuels, energy end-use and infrastructure, CO2 capture and storage, and agricultural practices."
+        ],
+        [
+            ""
+        ],
+        [
+            "Federal Agency Practices and Procurement"
+        ],
+        [
+            "-- Executive orders and federal statutes requiring federal agencies to reduce building energy and resource consumption intensity and\nto procure alternative fuel vehicles."
+        ],
+        [
+            "-- Agency-initiated programs in most departments oriented to lowering energy use and greenhouse gas emissions."
+        ]
+    ],
+    "rows_in_header": 1,
+    "uri": "/array/d9ef91c8-9fe7-4823-bd4b-9d2d5a052f15"
+}

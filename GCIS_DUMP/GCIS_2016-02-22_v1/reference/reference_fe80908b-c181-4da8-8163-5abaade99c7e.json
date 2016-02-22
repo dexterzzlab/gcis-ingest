@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "American Meteorological Society",
+        ".reference_type": "0",
+        "Access Date": "2013/11/04",
+        "Author": "Greene, Scott\rKalkstein, Laurence S.\rMills, David M.\rSamenow, Jason",
+        "DOI": "10.1175/WCAS-D-11-00055.1",
+        "Date": "2011/10/01",
+        "ISSN": "1948-8327",
+        "Issue": "4",
+        "Journal": "Weather, Climate, and Society",
+        "Pages": "281-292",
+        "Title": "An examination of climate change on extreme heat events and climate\u2013mortality relationships in large U.S. cities",
+        "URL": "http://journals.ametsoc.org/doi/abs/10.1175/WCAS-D-11-00055.1",
+        "Volume": "3",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "4491",
+        "_uuid": "fe80908b-c181-4da8-8163-5abaade99c7e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/WCAS-D-11-00055.1",
+    "href": "http://data.globalchange.gov/reference/fe80908b-c181-4da8-8163-5abaade99c7e.json",
+    "identifier": "fe80908b-c181-4da8-8163-5abaade99c7e",
+    "uri": "/reference/fe80908b-c181-4da8-8163-5abaade99c7e"
+}

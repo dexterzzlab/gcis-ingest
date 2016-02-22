@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Global warming increases the occurrence probability of hot extremes, and improving the predictability of such events is thus becoming of critical importance. Hot extremes have been shown to be induced by surface moisture deficits in some regions. In this study, we assess whether such a relationship holds at the global scale. We find that wide areas of the world display a strong relationship between the number of hot days in the regions\u2019 hottest month and preceding precipitation deficits. The occurrence probability of an above-average number of hot days is over 70% after precipitation deficits in most parts of South America as well as the Iberian Peninsula and Eastern Australia, and over 60% in most of North America and Eastern Europe, while it is below 30\u201340% after wet conditions in these regions. Using quantile regression analyses, we show that the impact of precipitation deficits on the number of hot days is asymmetric, i.e. extreme high numbers of hot days are most strongly influenced. This relationship also applies to the 2011 extreme event in Texas. These findings suggest that effects of soil moisture-temperature coupling are geographically more widespread than commonly assumed. ",
+        "Author": "Mueller, B.\rS.I. Seneviratne",
+        "DOI": "10.1073/pnas.1204330109",
+        "ISSN": "0027-8424",
+        "Issue": "31",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Keywords": "hot day prediction; soil moisture\u2013temperature coupling; standardized precipitation index; temperature extremes;  ",
+        "Pages": "12398-12403",
+        "Title": "Hot days induced by precipitation deficits at the global scale",
+        "URL": "http://www.pnas.org/content/109/31/12398.full.pdf+html",
+        "Volume": "109",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"RF 2\"]",
+        "_record_number": "2121",
+        "_uuid": "77718bdb-b632-4762-b8a5-d4151785f65b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.1204330109",
+    "href": "http://data.globalchange.gov/reference/77718bdb-b632-4762-b8a5-d4151785f65b.json",
+    "identifier": "77718bdb-b632-4762-b8a5-d4151785f65b",
+    "uri": "/reference/77718bdb-b632-4762-b8a5-d4151785f65b"
+}

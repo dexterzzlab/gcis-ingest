@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "A composite image showing CALIPSO observations of lidar backscatter superimposed with aerosol optical measurements from Aqua MODIS over south central Asia on 25 October 2006. CALIPSO measurements show aerosols pooling next to the Himalayan mountains (seen by bright yellow and red colors). These data aid studies of aerosols over India and the aerosol-induced warming of the atmosphere, which contribute to retreat of Himalayan glaciers. Credit: C.R. Trepte, NASA / Langley Research Center.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "d1/b3/bb4c0b650e927631c5e9776c6c40/Figure_20.png",
+            "href": "http://data.globalchange.gov/assets/d1/b3/bb4c0b650e927631c5e9776c6c40/Figure_20.png",
+            "identifier": "1107cdfe-d8aa-46e7-bba5-0a04df30d66f",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "cd9f97c6dcb5ffe7d361e38ec7d797a1eca3bfdd",
+            "size": 869396,
+            "thumbnail": "d1/b3/bb4c0b650e927631c5e9776c6c40/.thumb-1107cdfe-d8aa-46e7-bba5-0a04df30d66f.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/d1/b3/bb4c0b650e927631c5e9776c6c40/.thumb-1107cdfe-d8aa-46e7-bba5-0a04df30d66f.png",
+            "uri": "/file/1107cdfe-d8aa-46e7-bba5-0a04df30d66f",
+            "url": "/assets/d1/b3/bb4c0b650e927631c5e9776c6c40/Figure_20.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2009/figure/calipso-modis-composite-product.json",
+    "identifier": "calipso-modis-composite-product",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2009",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "CALIPSO and MODIS Composite Product",
+    "uri": "/report/usgcrp-ocpfy2009/figure/calipso-modis-composite-product",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "OTA,",
+        "Institution": "Office of Technology Assessment, US Government Printing Office",
+        "Pages": "365",
+        "Place Published": "Washington, D.C.",
+        "Series Editor": "U.S. Congress",
+        "Title": "Preparing for an Uncertain Climate. Volume I and II (OTA-O-567; OTA-O-568)",
+        "URL": "www.fas.org/ota/reports/9338.pdf",
+        "Year": "1993",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "2385",
+        "_uuid": "afaa6c76-9d9e-4238-9346-2cfefd6bb2b5",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/ota-o-567",
+    "href": "http://data.globalchange.gov/reference/afaa6c76-9d9e-4238-9346-2cfefd6bb2b5.json",
+    "identifier": "afaa6c76-9d9e-4238-9346-2cfefd6bb2b5",
+    "uri": "/reference/afaa6c76-9d9e-4238-9346-2cfefd6bb2b5"
+}

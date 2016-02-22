@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Analysis of the global mean surface air temperature has shown that its increase is due, at least in part, to differential changes in daily maximum and minimum temperatures, resulting in a narrowing of the diurnal temperature range (DTR). The analysis, using station metadata and improved areal coverage for much of the Southern Hemisphere landmass, indicates that the DTR is continuing to decrease in most parts of the world, that urban effects on globally and hemispherically averaged time series are negligible, and that circulation variations in parts of the Northern Hemisphere appear to be related to the DTR. Atmospheric aerosol loading in the Southern Hemisphere is much less than that in the Northern Hemisphere, suggesting that there are likely a number of factors, such as increases in cloudiness, contributing to the decreases in DTR.",
+        "Author": "Easterling, David R.\rHorton, Briony\rJones, Philip D.\rPeterson, Thomas C.\rKarl, Thomas R.\rParker, David E.\rSalinger, M. James\rRazuvayev, Vyacheslav\rPlummer, Neil\rJamason, Paul\rFolland, Christopher K.",
+        "DOI": "10.1126/science.277.5324.364",
+        "Date": "July 18, 1997",
+        "Issue": "5324",
+        "Journal": "Science",
+        "Pages": "364-367",
+        "Title": "Maximum and minimum temperature trends for the globe",
+        "Volume": "277",
+        "Year": "1997",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "4350",
+        "_uuid": "64aca5a3-3ede-46e6-8a1e-e53ef21dcf05",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.277.5324.364",
+    "href": "http://data.globalchange.gov/reference/64aca5a3-3ede-46e6-8a1e-e53ef21dcf05.json",
+    "identifier": "64aca5a3-3ede-46e6-8a1e-e53ef21dcf05",
+    "uri": "/reference/64aca5a3-3ede-46e6-8a1e-e53ef21dcf05"
+}

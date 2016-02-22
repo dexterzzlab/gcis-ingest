@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Swetnam, T. W.\rC. H. Baisan",
+        "Book Title": "Fire and Climatic Change in Temperate Ecosystems of the Western Americas. Ecological Studies Vol. 160",
+        "Editor": "T. T. Veblen\rW. Baker\rG. Montenegro\rT. W. Swetnam",
+        "ISBN": "978-0-387-21710-9",
+        "Pages": "158-195",
+        "Place Published": "New York",
+        "Publisher": "Springer",
+        "Reviewer": "b8a712f7-14f4-4681-96c7-0f87ee0f0121",
+        "Title": "Ch. 6: Tree-ring reconstructions of fire and climate history in the Sierra Nevada and Southwestern United States.",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "4158",
+        "_uuid": "b8a712f7-14f4-4681-96c7-0f87ee0f0121",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/969f103b-5a7a-483c-ac40-b9fd063e63c6",
+    "href": "http://data.globalchange.gov/reference/b8a712f7-14f4-4681-96c7-0f87ee0f0121.json",
+    "identifier": "b8a712f7-14f4-4681-96c7-0f87ee0f0121",
+    "uri": "/reference/b8a712f7-14f4-4681-96c7-0f87ee0f0121"
+}

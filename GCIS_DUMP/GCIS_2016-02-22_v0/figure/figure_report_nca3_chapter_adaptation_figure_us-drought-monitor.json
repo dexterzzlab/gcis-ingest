@@ -1,0 +1,80 @@
+{
+    "attributes": null,
+    "caption": "U.S. Drought Monitor Map accessed on August 20, 2012. The U.S. Drought Monitor is produced in partnership between the national Drought Mitigation Center at the University of Nebraska-Lincoln, the United States Department of Agriculture, and the National Oceanic and Atmospheric Administration. Map courtesy of NDMC-UNL.",
+    "chapter": {
+        "doi": "10.7930/J07H1GGT",
+        "identifier": "adaptation",
+        "number": 28,
+        "report_identifier": "nca3",
+        "sort_key": 280,
+        "title": "Adaptation",
+        "url": "http://nca2014.globalchange.gov/report/response-strategies/adaptation"
+    },
+    "chapter_identifier": "adaptation",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-03-14T13:30:00",
+    "files": [
+        {
+            "file": "52/c8/ff02f59ce210dbb959efc220665b/ADAPT_drought_monitor_V2.png",
+            "href": "http://data.globalchange.gov/assets/52/c8/ff02f59ce210dbb959efc220665b/ADAPT_drought_monitor_V2.png",
+            "identifier": "ed00a99a-9b0c-441e-af2e-920a61b5d732",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "9c9fdc877260971ab5d5fcab096a140109483b9a",
+            "size": 865200,
+            "thumbnail": "52/c8/ff02f59ce210dbb959efc220665b/.thumb-ed00a99a-9b0c-441e-af2e-920a61b5d732.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/52/c8/ff02f59ce210dbb959efc220665b/.thumb-ed00a99a-9b0c-441e-af2e-920a61b5d732.png",
+            "uri": "/file/ed00a99a-9b0c-441e-af2e-920a61b5d732",
+            "url": "/assets/52/c8/ff02f59ce210dbb959efc220665b/ADAPT_drought_monitor_V2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/adaptation/figure/us-drought-monitor.json",
+    "identifier": "us-drought-monitor",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2014-03-14T13:30:00",
+            "description": null,
+            "identifier": "1e725912-7bc2-418b-b0a5-2b43c78fce08",
+            "lat_max": "49.38",
+            "lat_min": "24.50",
+            "lon_max": "-66.95",
+            "lon_min": "-124.80",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2012-08-14T07:00:00",
+            "time_start": "2012-08-14T07:00:00",
+            "title": "U.S. Drought Monitor August 14, 2012",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 5,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "webpage U.S. Drought Monitor",
+            "note": null,
+            "publication_type_identifier": "webpage",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/webpage/daafa5f7-b679-49fb-a880-10ba7afbd2ce"
+        }
+    ],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "U.S. Drought Monitor August 14, 2012",
+    "uri": "/report/nca3/chapter/adaptation/figure/us-drought-monitor",
+    "url": "http://nca2014.globalchange.gov/report/response-strategies/adaptation/graphics/us-drought-monitor-august-14-2012",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

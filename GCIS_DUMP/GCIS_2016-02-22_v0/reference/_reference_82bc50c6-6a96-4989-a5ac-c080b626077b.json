@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "5",
+        "Access Date": "June 17, 2012",
+        "Issue Date": "September 9, 2011",
+        "Newspaper": "The New York Times",
+        "Pages": "A15",
+        "Reporter": "Medina, J.,",
+        "Title": "Human error investigated in California blackout\u2019s spread to six million",
+        "URL": "http://www.nytimes.com/2011/09/10/us/10power.html",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "1977",
+        "_uuid": "82bc50c6-6a96-4989-a5ac-c080b626077b",
+        "reftype": "Newspaper Article"
+    },
+    "child_publication": "/generic/c3d08699-586a-4551-856e-7f7effaad3c0",
+    "href": "http://data.globalchange.gov/reference/82bc50c6-6a96-4989-a5ac-c080b626077b.json",
+    "identifier": "82bc50c6-6a96-4989-a5ac-c080b626077b",
+    "uri": "/reference/82bc50c6-6a96-4989-a5ac-c080b626077b"
+}

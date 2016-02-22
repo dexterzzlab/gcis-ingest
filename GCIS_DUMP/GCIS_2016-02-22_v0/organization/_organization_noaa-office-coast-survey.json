@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/noaa-office-coast-survey.json",
+    "identifier": "noaa-office-coast-survey",
+    "name": "NOAA Office of Coast Survey ",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/noaa-office-coast-survey",
+    "url": "http://www.nauticalcharts.noaa.gov/"
+}

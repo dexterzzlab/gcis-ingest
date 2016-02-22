@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "9",
+        ".section": ".",
+        "Editor": "Mitchell, R.B.\rClark, W.C.\rCash, D. W.\rDickson, N. M.",
+        "ISBN": "9780262134682",
+        "Number of Pages": "352",
+        "Place Published": "Cambridge, MA",
+        "Publisher": "MIT Press",
+        "Title": "Global Environmental Assessments: Information and Influence",
+        "Year": "2006",
+        "_chapter": "[\"RX 1 Future\",\"Ch. 30: NCA Long-Term Process FINAL\"]",
+        "_record_number": "2061",
+        "_uuid": "9516a45d-6eab-4463-b21c-d498e4c2988c",
+        "reftype": "Edited Book"
+    },
+    "child_publication": "/book/a219546f-cc1e-437c-b832-a068e4837824",
+    "href": "http://data.globalchange.gov/reference/9516a45d-6eab-4463-b21c-d498e4c2988c.json",
+    "identifier": "9516a45d-6eab-4463-b21c-d498e4c2988c",
+    "uri": "/reference/9516a45d-6eab-4463-b21c-d498e4c2988c"
+}

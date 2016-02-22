@@ -1,0 +1,12 @@
+{
+    "description": "The Aqua mission is a part of the NASA's international Earth Observing System (EOS). Aqua was formerly named EOS/PM-1, signifying its afternoon equatorial crossing time. NASA renamed the EOS/PM-1 satellite to Aqua on Oct. 18, 1999. The Aqua mission is part of NASA's ESE (Earth Science Enterprise) program.",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/a/aqua",
+    "end_date": "2015-10-01T00:00:00",
+    "href": "http://data.globalchange.gov/platform/aqua.json",
+    "identifier": "aqua",
+    "name": "Aqua (formerly EOS PM-1)",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "2002-05-04T00:00:00",
+    "uri": "/platform/aqua",
+    "url": "http://www.gsfc.nasa.gov"
+}

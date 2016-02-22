@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2013",
+        "Author": "NIDIS,",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "National Integrated Drought Information System",
+        "Title": "U.S. Drought Portal",
+        "URL": "http://www.drought.gov",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4455",
+        "_uuid": "d6356162-681b-427e-806f-5dd517124110",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/d8df8389-8969-4681-b5fd-ad6683d1463b",
+    "href": "http://data.globalchange.gov/reference/d6356162-681b-427e-806f-5dd517124110.json",
+    "identifier": "d6356162-681b-427e-806f-5dd517124110",
+    "uri": "/reference/d6356162-681b-427e-806f-5dd517124110"
+}

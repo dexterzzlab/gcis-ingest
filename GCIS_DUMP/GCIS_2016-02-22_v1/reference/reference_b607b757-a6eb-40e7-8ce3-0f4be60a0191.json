@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Land use has generally been considered a local environmental issue, but it is becoming a force of global importance. Worldwide changes to forests, farmlands, waterways, and air are being driven by the need to provide food, fiber, water, and shelter to more than six billion people. Global croplands, pastures, plantations, and urban areas have expanded in recent decades, accompanied by large increases in energy, water, and fertilizer consumption, along with considerable losses of biodiversity. Such changes in land use have enabled humans to appropriate an increasing share of the planet's resources, but they also potentially undermine the capacity of ecosystems to sustain food production, maintain freshwater and forest resources, regulate climate and air quality, and ameliorate infectious diseases. We face the challenge of managing trade-offs between immediate human needs and maintaining the capacity of the biosphere to provide goods and services in the long term.",
+        "Author": "Foley, Jonathan A.\rDeFries, Ruth\rAsner, Gregory P.\rBarford, Carol\rBonan, Gordon\rCarpenter, Stephen R.\rChapin, F. Stuart, III\rCoe, Michael T.\rDaily, Gretchen C.\rGibbs, Holly K.\rHelkowski, Joseph H.\rHolloway, Tracey\rHoward, Erica A.\rKucharik, Christopher J.\rMonfreda, Chad\rPatz, Jonathan A.\rPrentice, I. Colin\rRamankutty, Navin\rSnyder, Peter K.",
+        "DOI": "10.1126/science.1111772",
+        "Date": "July 22, 2005",
+        "Issue": "5734",
+        "Journal": "Science",
+        "Pages": "570-574",
+        "Title": "Global Consequences of Land Use",
+        "Volume": "309",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 13: Land Use and Land Cover Change FINAL\"]",
+        "_record_number": "4321",
+        "_uuid": "b607b757-a6eb-40e7-8ce3-0f4be60a0191",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1111772",
+    "href": "http://data.globalchange.gov/reference/b607b757-a6eb-40e7-8ce3-0f4be60a0191.json",
+    "identifier": "b607b757-a6eb-40e7-8ce3-0f4be60a0191",
+    "uri": "/reference/b607b757-a6eb-40e7-8ce3-0f4be60a0191"
+}

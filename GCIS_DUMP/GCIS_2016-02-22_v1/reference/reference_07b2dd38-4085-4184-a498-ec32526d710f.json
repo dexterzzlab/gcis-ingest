@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "O\u2019Neill, M.S.\rEbi, K.L.",
+        "DOI": "10.1097/JOM.0b013e318173e122",
+        "Issue": "1",
+        "Journal": "Journal of Occupational and Environmental Medicine",
+        "Pages": "13-25",
+        "Title": "Temperature extremes and health: Impacts of climate variability and change in the United States",
+        "Volume": "51",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "3634",
+        "_uuid": "07b2dd38-4085-4184-a498-ec32526d710f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1097/JOM.0b013e318173e122",
+    "href": "http://data.globalchange.gov/reference/07b2dd38-4085-4184-a498-ec32526d710f.json",
+    "identifier": "07b2dd38-4085-4184-a498-ec32526d710f",
+    "uri": "/reference/07b2dd38-4085-4184-a498-ec32526d710f"
+}

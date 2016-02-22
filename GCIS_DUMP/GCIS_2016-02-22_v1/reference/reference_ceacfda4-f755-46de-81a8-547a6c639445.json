@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Colson, Mia\rKristin Heery\rAllan Wallis",
+        "Institution": "The National Association of Regional Councils",
+        "Pages": "20",
+        "Place Published": "Washington, DC",
+        "Research Notes": "New author list for existing Wallis, 2011 reference",
+        "Title": "A Survey Of Regional Planning For Climate Adaptation",
+        "URL": "http://narc.org/wp-content/uploads/NOAA_White_Paper-FINAL2.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\",\"RF 12\"]",
+        "_record_number": "3326",
+        "_uuid": "ceacfda4-f755-46de-81a8-547a6c639445",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/narc-surveyregionalplanning-2011",
+    "href": "http://data.globalchange.gov/reference/ceacfda4-f755-46de-81a8-547a6c639445.json",
+    "identifier": "ceacfda4-f755-46de-81a8-547a6c639445",
+    "uri": "/reference/ceacfda4-f755-46de-81a8-547a6c639445"
+}

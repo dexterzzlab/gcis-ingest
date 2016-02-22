@@ -1,0 +1,84 @@
+{
+    "attributes": null,
+    "caption": "Iowa is the nation\u2019s top corn and soybean producing state. These crops are planted in the spring. Heavy rain can delay planting and create problems in obtaining a good stand of plants, both of which can reduce crop productivity. In Iowa soils with even modest slopes, rainfall of more than 1.25 inches in a single day leads to runoff that causes soil erosion and loss of nutrients and, under some circumstances, can lead to flooding. The figure shows the number of days per year during which more than 1.25 inches of rain fell in Des Moines, Iowa. Recent frequent occurrences of such events are consistent with the significant upward trend of heavy precipitation events documented in the Midwest.<tbib>0ebef171-4903-4aa6-b436-2936da69f84e</tbib><sup>,</sup><tbib>f054a8d1-8992-41ed-bc20-5f56070df30a</tbib> (Figure source: adapted from Takle 2011<tbib>6b059ace-63ae-4fbe-a3a0-b503970e8bb5</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J02Z13FR",
+        "identifier": "agriculture",
+        "number": 6,
+        "report_identifier": "nca3",
+        "sort_key": 60,
+        "title": "Agriculture",
+        "url": "http://nca2014.globalchange.gov/report/sectors/agriculture"
+    },
+    "chapter_identifier": "agriculture",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "c1/f9/b3a0343da7708bad605f5e58f940/AG_Des_Moines_precip_13669_v5.png",
+            "href": "http://data.globalchange.gov/assets/c1/f9/b3a0343da7708bad605f5e58f940/AG_Des_Moines_precip_13669_v5.png",
+            "identifier": "0dac2f1e-641c-4dd2-99f9-c6c38b977079",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "5529c25864fabb222fcfacf099cf5c18c4d3f654",
+            "size": 47354,
+            "thumbnail": "c1/f9/b3a0343da7708bad605f5e58f940/.thumb-0dac2f1e-641c-4dd2-99f9-c6c38b977079.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/c1/f9/b3a0343da7708bad605f5e58f940/.thumb-0dac2f1e-641c-4dd2-99f9-c6c38b977079.png",
+            "uri": "/file/0dac2f1e-641c-4dd2-99f9-c6c38b977079",
+            "url": "/assets/c1/f9/b3a0343da7708bad605f5e58f940/AG_Des_Moines_precip_13669_v5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/agriculture/figure/increasing-heavy-downpours-in-iowa.json",
+    "identifier": "increasing-heavy-downpours-in-iowa",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": null,
+            "description": null,
+            "identifier": "86040d40-ffd1-40fe-b7b6-f8c28d3abae8",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Increasing Heavy Downpours in Iowa",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 9,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/0ebef171-4903-4aa6-b436-2936da69f84e.json",
+            "uri": "/reference/0ebef171-4903-4aa6-b436-2936da69f84e"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/6b059ace-63ae-4fbe-a3a0-b503970e8bb5.json",
+            "uri": "/reference/6b059ace-63ae-4fbe-a3a0-b503970e8bb5"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/f054a8d1-8992-41ed-bc20-5f56070df30a.json",
+            "uri": "/reference/f054a8d1-8992-41ed-bc20-5f56070df30a"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "adapted from Takle 2011<tbib>6b059ace-63ae-4fbe-a3a0-b503970e8bb5</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Increasing Heavy Downpours in Iowa",
+    "uri": "/report/nca3/chapter/agriculture/figure/increasing-heavy-downpours-in-iowa",
+    "url": "http://nca2014.globalchange.gov/report/sectors/agriculture/graphics/increasing-heavy-downpours-iowa",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

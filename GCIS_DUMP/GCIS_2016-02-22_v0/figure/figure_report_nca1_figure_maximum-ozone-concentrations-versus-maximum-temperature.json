@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "These graphs illustrate the observed association between ground-level ozone concentrations and temperature in Atlanta and New York City (May to Octover 1988-1990). The projected higher temperature across the US int eh 21st century will likely increase the occurence of high ozone concentrations, especially because extremely hot days frequently have stagnant air circulation patterns, although this will also depend on emission of ozone precursors and meteorological factors. Ground-level ozone can exacerbate respiratory diseases and cause short-term reductions in lung function. (Maximum Daily Ozone Chart provided by USEPA.)",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "49/e1/8c605486db49e82c9a1db5c95251/health_section_of_climate_change_impacts_2001_2_20090708_1331559803.jpg",
+            "href": "http://data.globalchange.gov/assets/49/e1/8c605486db49e82c9a1db5c95251/health_section_of_climate_change_impacts_2001_2_20090708_1331559803.jpg",
+            "identifier": "921140e4-135b-4bf9-8f73-21f8aa69438f",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "10304e58a0a8e7d252a8e0cdc2bf077dd2174277",
+            "size": 91504,
+            "thumbnail": "49/e1/8c605486db49e82c9a1db5c95251/.thumb-921140e4-135b-4bf9-8f73-21f8aa69438f.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/49/e1/8c605486db49e82c9a1db5c95251/.thumb-921140e4-135b-4bf9-8f73-21f8aa69438f.png",
+            "uri": "/file/921140e4-135b-4bf9-8f73-21f8aa69438f",
+            "url": "/assets/49/e1/8c605486db49e82c9a1db5c95251/health_section_of_climate_change_impacts_2001_2_20090708_1331559803.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca1/figure/maximum-ozone-concentrations-versus-maximum-temperature.json",
+    "identifier": "maximum-ozone-concentrations-versus-maximum-temperature",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca1",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Maximum Ozone Concentrations versus Maximum Temperature ",
+    "uri": "/report/nca1/figure/maximum-ozone-concentrations-versus-maximum-temperature",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

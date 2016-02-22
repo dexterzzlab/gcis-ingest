@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "3",
+        "Author": "Zervas, C. E.",
+        "Conference Location": "Washington, D.C.",
+        "Conference Name": "OCEANS, 2005. Proceedings of MTS/IEEE",
+        "DOI": "10.1109/oceans.2005.1640144",
+        "Date": "2005",
+        "ISBN": "0-933957-34-3",
+        "Keywords": "data analysis\roceanography\rprobability\rstorms\rtides\rtime series\rcoastal hazard assessment\rcoastal locations\recosystem management\rextreme storm tide levels\rlong term sea level change\rnavigational safety\rEcosystems\rHazards\rHurricanes\rNavigation\rOceans\rSafety\rSea level\rSea measurements",
+        "Pages": "2501-2506",
+        "Title": "Response of extreme storm tide levels to long-term sea level change",
+        "URL": "http://tidesandcurrents.noaa.gov/est/050415-53.pdf",
+        "Volume": "3",
+        "Year of Conference": "2005",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "3845",
+        "_uuid": "fd73d381-d3df-4079-b48d-20027a7ba63b",
+        "reftype": "Conference Proceedings"
+    },
+    "child_publication": "/generic/a14515ea-d2a1-49fc-a78c-9210367c8fc7",
+    "href": "http://data.globalchange.gov/reference/fd73d381-d3df-4079-b48d-20027a7ba63b.json",
+    "identifier": "fd73d381-d3df-4079-b48d-20027a7ba63b",
+    "uri": "/reference/fd73d381-d3df-4079-b48d-20027a7ba63b"
+}

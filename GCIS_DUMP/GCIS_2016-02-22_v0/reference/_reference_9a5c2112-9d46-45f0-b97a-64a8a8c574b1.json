@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Chu, P. S.\rChen, H.",
+        "DOI": "10.1175/JCLI3578.1",
+        "Issue": "22",
+        "Journal": "Journal of Climate",
+        "Pages": "4796-4813",
+        "Title": "Interannual and interdecadal rainfall variations in the Hawaiian islands",
+        "Volume": "18",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "987",
+        "_uuid": "9a5c2112-9d46-45f0-b97a-64a8a8c574b1",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/JCLI3578.1",
+    "href": "http://data.globalchange.gov/reference/9a5c2112-9d46-45f0-b97a-64a8a8c574b1.json",
+    "identifier": "9a5c2112-9d46-45f0-b97a-64a8a8c574b1",
+    "uri": "/reference/9a5c2112-9d46-45f0-b97a-64a8a8c574b1"
+}

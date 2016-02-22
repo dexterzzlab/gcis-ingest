@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2010",
+        "Author": "U.S. Census Bureau,",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "U.S. Census Bureau, U.S. Department of Commerce",
+        "Title": "2010 Population Finder",
+        "URL": "http://www.census.gov/popfinder/",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "3126",
+        "_uuid": "102d8007-bf40-4d14-abad-eb9b99d8da50",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/79607022-21e0-464c-8af9-c83acbe1bb84",
+    "href": "http://data.globalchange.gov/reference/102d8007-bf40-4d14-abad-eb9b99d8da50.json",
+    "identifier": "102d8007-bf40-4d14-abad-eb9b99d8da50",
+    "uri": "/reference/102d8007-bf40-4d14-abad-eb9b99d8da50"
+}

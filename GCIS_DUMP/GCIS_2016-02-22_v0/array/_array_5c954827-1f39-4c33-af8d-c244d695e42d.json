@@ -1,0 +1,127 @@
+{
+    "href": "http://data.globalchange.gov/array/5c954827-1f39-4c33-af8d-c244d695e42d.json",
+    "identifier": "5c954827-1f39-4c33-af8d-c244d695e42d",
+    "rows": [
+        [
+            "Tribe",
+            "Location",
+            "Adaptation Efforts",
+            "Guides",
+            "Website(s)"
+        ],
+        [
+            "Bad River Band\nof Lake Superior\nChippewa",
+            "Northern\nWisconsin",
+            "Examining climate change effects on forest\nresources\nIdentifying possible adaptation options\nIncorporating climate change into Integrated\nResources Management Plan",
+            "Integrated Resources\nManagement\nPlan (in preparation)",
+            "http://forestadaptation.\norg/node/205"
+        ],
+        [
+            "Confederated\nTribes of Siletz\nIndians",
+            "Oregon",
+            "Working to restore and protect traditional foods\nfrom climate change through forest thinning\ntreatments, hazardous fuel reductions, and\nmeadow restoration",
+            null,
+            null
+        ],
+        [
+            "Coquille Indian\nTribe",
+            "Western\nOregon",
+            "Preparing Climate Action Plan\nEstablished Climate Change Committee\nResearching climate change impacts, engaging\nthe community, and strengthening partnerships",
+            "Climate Action Plan\n(in preparation)",
+            "http://www4.nau.edu/\ntribalclimatechange/\ntribes/northwest_coquille.\nasp"
+        ],
+        [
+            "Fond Du Lac Band\nof Lake Superior\nChippewa",
+            "Northeast\nMinnesota",
+            "Reforesting lands, prescribed burning, conducting\nfuel reduction treatments, and engaging in\npublic education\nResource management plan acknowledges\nseveral impacts of climate change and the need\nfor more research and adaptation measures",
+            "Integrated\nResource Management\nPlan",
+            "http://www4.nau.edu/\ntribalclimatechange/\ntribes/greatlakes.asp;\nhttp://www.fdlrez.com/\nnewnr/IRMP.pdf"
+        ],
+        [
+            "Forest County\nPotawatomi",
+            "Northeast\nWisconsin",
+            "Active participant in the Wisconsin Climate\nChange Task Force",
+            null,
+            "http://www4.nau.edu/\ntribalclimatechange/\ntribes/greatlakes_\nfcpotawatomi.asp"
+        ],
+        [
+            "Grand Portage\nBand of Lake Superior\nChippewa",
+            "Northeast\nMinnesota",
+            "Developing an adaptation and mitigation plan for\nclimate change effects on subsistence species,\nfisheries, invasive species, and forests",
+            null,
+            "http://www4.nau.edu/\ntribalclimatechange/\ntribes/greatlakes_lschippewa.\nasp"
+        ],
+        [
+            "Hualapai Tribe",
+            "Arizona",
+            "Written plans for drought conditions and fire and\nwatershed management",
+            "Drought Contingency\nPlan, Fire\nManagement Plan,\nWatershed Management\nPlan",
+            "http://hualapai.org/index2.\nhtml"
+        ],
+        [
+            "Karuk Tribe",
+            "Northern\nCalifornia",
+            "Integrate traditional ecological knowledge with\nscience to inform ecosystem management\nAdaptation efforts include prescribed burns and\nforest thinning",
+            "Eco-Cultural\nResource Management\nPlan",
+            "www.karuk.us/karuk2/\ndepartments/natural-resources/"
+        ],
+        [
+            "Navajo Nation",
+            "Northeast\nArizona,\nNorthwest\nNew\nMexico,\nSoutheast\nUtah",
+            "Used projections of future climate to inform a\nDrought Contingency Plan\nConducted study of sand dunes highlighting\nclimate change impacts\nConducting a Land Use Planning Project that\naddresses climate change",
+            "Water Resources\nDevelopment\nStrategy; Drought\nContingency Plan",
+            "http://www4.nau.edu/\ntribalclimatechange/\ntribes/southwest.asp;\nhttp://www.frontiernet.\nnet/~nndwr_wmb/PDF/\ndrought/drghtcon_\nplan2003_final.pdf"
+        ],
+        [
+            "Nez Perce Tribe",
+            "Northern\nIdaho",
+            "Developed Water Resources Division climate\nchange adaptation plan\nConduct surveys of natural resources",
+            "Clearwater River\nSubbasin (ID)\nClimate Change\nAdaptation Plan",
+            "http://www.mfpp.\norg/wp-content/\nuploads/2012/03/\nClearwaterRiver-Subbasin_\nID_Forest-and-Water-\nClimate-Adaptation-\nPlan_2011.pdf"
+        ],
+        [
+            "Oglala Lakota",
+            "Southwest\nSouth\nDakota",
+            "Working on mitigating climate change, promoting\nsustainability, and developing adaptation\nmeasures",
+            "Oglala Lakota Plan\n(regional plan for\nsustainable development)",
+            "http://www4.nau.edu/\ntribalclimatechange/\ntribes/plains_oglala.asp;\nhttp://www.oglalalakotaplan.\norg/"
+        ],
+        [
+            "Pueblo of Tesuque",
+            "Northern\nNew\nMexico",
+            "Conducting watershed management and planning,\ninvasive species removal, water quality\nmonitoring, wildland restoration, grassland restoration,\nforest thinning, and wildlife monitoring",
+            null,
+            "http://www4.nau.edu/\ntribalclimatechange/\ntribes/southwest_tesuque.\nasp"
+        ],
+        [
+            "Saint Regis Mohawk\nTribe",
+            "Northern\nNew York",
+            "Bringing many Indian Nations together to identify\npriorities in adaptation planning\nIdentifying changes in climate and resulting\nimpacts, including cultural impacts",
+            null,
+            "http://www4.nau.edu/\ntribalclimatechange/\ntribes/northeast_stregismohawk.\nasp"
+        ],
+        [
+            "Swinomish Tribe",
+            "Northwest\nWashington",
+            "Developed Impact Assessment Report on climate\nchange effects for Swinomish communities\nCompleted Climate Change Action Plan with\nrecommendations, priorities, and steps for\nadaptation implementation",
+            "Climate Adaptation\nAction Plan",
+            "http://www.swinomish-\nnsn.gov/climate_\nchange/climate_main.\nhtml"
+        ],
+        [
+            "Tulalip Tribe",
+            "Northwest\nWashington",
+            "Developed Tulalip Adaptation and Mitigation\nPolicy Frameworks for Climate Change\nStrive to develop climate change policies and\nactions that are: integrated, cross-scale, adaptive,\nrestorative, participatory, and sustainable",
+            null,
+            "http://www.tulalip.nsn.\nus/pdf.docs/FINAL%20\nCC%20FLYER.pdf"
+        ],
+        [
+            "Tuscarora Nation",
+            "Western\nNew York",
+            "Practice land stewardship and conduct restoration\nof soil and fish and wildlife habitat to\nprepare for climate change",
+            null,
+            "http://www4.nau.edu/\ntribalclimatechange/\ntribes/northeast_tuscarora.\nasp"
+        ]
+    ],
+    "rows_in_header": 1,
+    "uri": "/array/5c954827-1f39-4c33-af8d-c244d695e42d"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "King, C.W.\rHolman, A.S.\rWebber, M.E.",
+        "DOI": "10.1038/ngeo195",
+        "ISSN": "1752-0894",
+        "Issue": "5",
+        "Journal": "Nature Geoscience",
+        "Pages": "283-286",
+        "Title": "Thirst for energy",
+        "Volume": "1",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "1662",
+        "_uuid": "596d3213-d7c1-4eb1-8f66-b1dcc0478854",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/ngeo195",
+    "href": "http://data.globalchange.gov/reference/596d3213-d7c1-4eb1-8f66-b1dcc0478854.json",
+    "identifier": "596d3213-d7c1-4eb1-8f66-b1dcc0478854",
+    "uri": "/reference/596d3213-d7c1-4eb1-8f66-b1dcc0478854"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "NRC,",
+        "ISBN": "978-0-309-26230-9",
+        "Number of Pages": "124",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "National Research Council. The National Academies Press",
+        "Reviewer": "4398f1ba-6bae-4115-81fe-c76f3d93e663",
+        "Title": "Sustainability for the Nation: Resource Connection and Governance Linkages",
+        "URL": "http://www.nap.edu/catalog.php?record_id=13471",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 10: Energy Water Land FINAL\"]",
+        "_record_number": "4397",
+        "_uuid": "4398f1ba-6bae-4115-81fe-c76f3d93e663",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/nrc-sustainability-2013",
+    "href": "http://data.globalchange.gov/reference/4398f1ba-6bae-4115-81fe-c76f3d93e663.json",
+    "identifier": "4398f1ba-6bae-4115-81fe-c76f3d93e663",
+    "uri": "/reference/4398f1ba-6bae-4115-81fe-c76f3d93e663"
+}

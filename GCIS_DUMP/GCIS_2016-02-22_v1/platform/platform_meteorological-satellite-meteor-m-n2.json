@@ -1,0 +1,12 @@
+{
+    "description": "The Meteor-M-1 (also referred to as Meteor-M N1) satellite is a Roskosmos/Roshydromet/Planeta (Moscow, Russia) follow-up polar-orbiting meteorological mission to Meteor-3M-1 (launch Dec. 10, 2001). The organization responsible for the acquisition, recording, processing, archiving, cataloging, and dissemination of space data is NTs OMZ (Research Center for Earth Operative Monitoring), Moscow.",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/m/meteor-m-1",
+    "end_date": "2019-12-01T00:00:00",
+    "href": "http://data.globalchange.gov/platform/meteorological-satellite-meteor-m-n2.json",
+    "identifier": "meteorological-satellite-meteor-m-n2",
+    "name": "Meteorological Satellite Meteor-M N2",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "2014-07-08T00:00:00",
+    "uri": "/platform/meteorological-satellite-meteor-m-n2",
+    "url": "http://planet.iitp.ru; http://eng.ntsomz.ru/ks_dzz/satellites;"
+}

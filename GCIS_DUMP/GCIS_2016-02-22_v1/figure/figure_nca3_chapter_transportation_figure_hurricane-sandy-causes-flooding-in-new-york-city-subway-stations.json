@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "The nation\u2019s busiest subway system sustained the worst damage in its 108 years of operation on October 29, 2012, as a result of Hurricane Sandy. Millions of people were left without service for at least one week after the storm, as the Metropolitan Transportation Authority rapidly worked to repair extensive flood damage (Photo credit: William Vantuono, Railway Age Magazine, 2012<tbib>fadc1df6-145a-4701-8833-3d9438d09fa1</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J06Q1V53",
+        "identifier": "transportation",
+        "number": 5,
+        "report_identifier": "nca3",
+        "sort_key": 50,
+        "title": "Transportation",
+        "url": "http://nca2014.globalchange.gov/report/sectors/transportation"
+    },
+    "chapter_identifier": "transportation",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-03-13T10:25:06",
+    "files": [
+        {
+            "file": "3d/ff/f65f34eed0b8d8145e2661c7dabe/Transport_hurricane_sandy_subway_flooding_V4.png",
+            "href": "http://data.globalchange.gov/assets/3d/ff/f65f34eed0b8d8145e2661c7dabe/Transport_hurricane_sandy_subway_flooding_V4.png",
+            "identifier": "0c306ee9-6809-46cb-aaa1-ae88b3bfcf71",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "d9929513af6f7b19e207a2c7a67cecf5b624e3df",
+            "size": 941934,
+            "thumbnail": "3d/ff/f65f34eed0b8d8145e2661c7dabe/.thumb-0c306ee9-6809-46cb-aaa1-ae88b3bfcf71.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/3d/ff/f65f34eed0b8d8145e2661c7dabe/.thumb-0c306ee9-6809-46cb-aaa1-ae88b3bfcf71.png",
+            "uri": "/file/0c306ee9-6809-46cb-aaa1-ae88b3bfcf71",
+            "url": "/assets/3d/ff/f65f34eed0b8d8145e2661c7dabe/Transport_hurricane_sandy_subway_flooding_V4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/transportation/figure/hurricane-sandy-causes-flooding-in-new-york-city-subway-stations.json",
+    "identifier": "hurricane-sandy-causes-flooding-in-new-york-city-subway-stations",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2014-03-13T10:25:06",
+            "description": null,
+            "identifier": "a0407362-d1ea-4957-8cab-2efd73524a3a",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Hurricane Sandy Causes Flooding in New York City Subway Stations",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 4,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "webpage Hurricane Sandy Devastates NY/NJ-area passenger rail systems",
+            "note": null,
+            "publication_type_identifier": "webpage",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/webpage/135ae7d9-56e3-4dcb-a81c-42a6f1e9b332"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/fadc1df6-145a-4701-8833-3d9438d09fa1.json",
+            "uri": "/reference/fadc1df6-145a-4701-8833-3d9438d09fa1"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Hurricane Sandy Causes Flooding in New York City Subway Stations",
+    "uri": "/report/nca3/chapter/transportation/figure/hurricane-sandy-causes-flooding-in-new-york-city-subway-stations",
+    "url": "http://nca2014.globalchange.gov/report/sectors/transportation/graphics/hurricane-sandy-causes-flooding-new-york-city-subway-stations",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

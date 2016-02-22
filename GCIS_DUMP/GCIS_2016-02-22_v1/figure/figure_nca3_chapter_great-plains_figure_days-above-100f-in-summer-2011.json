@@ -1,0 +1,101 @@
+{
+    "attributes": null,
+    "caption": "In 2011, cities including Houston, Dallas, Austin, Oklahoma City, and Wichita, among others, all set records for the highest number of days recording temperatures of 100\u00b0F or higher in those cities\u2019 recorded history. The black circles denote the location of observing stations recording 100\u00b0F days. (Figure source: NOAA NCDC 2012<tbib>6c80afef-61e7-4017-b926-f4a11f6faa2d</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0D798BC",
+        "identifier": "great-plains",
+        "number": 19,
+        "report_identifier": "nca3",
+        "sort_key": 190,
+        "title": "Great Plains",
+        "url": "http://nca2014.globalchange.gov/report/regions/great-plains"
+    },
+    "chapter_identifier": "great-plains",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2530.json",
+            "id": 2530,
+            "organization": {
+                "country_code": "US",
+                "identifier": "noaa-national-climatic-data-center",
+                "name": "National Oceanic and Atmospheric Administration National Climatic Data Center",
+                "organization_type_identifier": "federal",
+                "url": "http://www.ncdc.noaa.gov"
+            },
+            "organization_uri": "/organization/noaa-national-climatic-data-center",
+            "person": {
+                "first_name": "Chris",
+                "id": 1461,
+                "last_name": "Fenimore",
+                "middle_name": null,
+                "orcid": null,
+                "url": null
+            },
+            "person_id": 1461,
+            "person_uri": "/person/1461",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2530"
+        }
+    ],
+    "create_dt": "2012-09-24T14:25:00",
+    "files": [
+        {
+            "file": "7f/33/4a66ac5b234dc4074055e8d31ef1/GP_days_above_100_13605_V3.png",
+            "href": "http://data.globalchange.gov/assets/7f/33/4a66ac5b234dc4074055e8d31ef1/GP_days_above_100_13605_V3.png",
+            "identifier": "035e511f-8358-44de-b7dd-3ff92b64fd4e",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "e9157987ab6b4695fa6b5ff1fcbe457e6ada758e",
+            "size": 552618,
+            "thumbnail": "7f/33/4a66ac5b234dc4074055e8d31ef1/.thumb-035e511f-8358-44de-b7dd-3ff92b64fd4e.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/7f/33/4a66ac5b234dc4074055e8d31ef1/.thumb-035e511f-8358-44de-b7dd-3ff92b64fd4e.png",
+            "uri": "/file/035e511f-8358-44de-b7dd-3ff92b64fd4e",
+            "url": "/assets/7f/33/4a66ac5b234dc4074055e8d31ef1/GP_days_above_100_13605_V3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/great-plains/figure/days-above-100f-in-summer-2011.json",
+    "identifier": "days-above-100f-in-summer-2011",
+    "images": [
+        {
+            "attributes": "temperature, extreme temperature, thresholds",
+            "create_dt": "2012-09-24T14:25:00",
+            "description": null,
+            "identifier": "cfe0088a-0157-43e0-90f3-f6b13b4b92db",
+            "lat_max": "49.38",
+            "lat_min": "24.50",
+            "lon_max": "-66.95",
+            "lon_min": "-124.80",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2011-08-31T23:59:59",
+            "time_start": "2011-06-01T00:00:00",
+            "title": "Days Above 100\u00baF in Summer 2011",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 10,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/6c80afef-61e7-4017-b926-f4a11f6faa2d.json",
+            "uri": "/reference/6c80afef-61e7-4017-b926-f4a11f6faa2d"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "NOAA NCDC 2012<tbib>6c80afef-61e7-4017-b926-f4a11f6faa2d</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Days Above 100\u00baF in Summer 2011",
+    "uri": "/report/nca3/chapter/great-plains/figure/days-above-100f-in-summer-2011",
+    "url": "http://nca2014.globalchange.gov/report/regions/great-plains/graphics/days-above-100%C2%BAf-summer-2011",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

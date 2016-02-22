@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Villarini, G.\rSmith, J.A.\rBaeck, M.L.\rVitolo, R.\rStephenson, D.B.\rKrajewski, W.F.",
+        "DOI": "10.1016/j.jhydrol.2011.01.027",
+        "Issue": "1-2",
+        "Journal": "Journal of Hydrology",
+        "Pages": "103-120",
+        "Title": "On the frequency of heavy rainfall for the Midwest of the United States",
+        "Volume": "400",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "3298",
+        "_uuid": "e74ecefb-ae29-40be-97af-99aca1e40e99",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.jhydrol.2011.01.027",
+    "href": "http://data.globalchange.gov/reference/e74ecefb-ae29-40be-97af-99aca1e40e99.json",
+    "identifier": "e74ecefb-ae29-40be-97af-99aca1e40e99",
+    "uri": "/reference/e74ecefb-ae29-40be-97af-99aca1e40e99"
+}

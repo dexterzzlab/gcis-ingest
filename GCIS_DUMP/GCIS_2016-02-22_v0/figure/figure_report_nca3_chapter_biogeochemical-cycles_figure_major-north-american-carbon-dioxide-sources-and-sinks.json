@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "The release of carbon dioxide from fossil fuel burning in North America (shown here for 2010) vastly exceeds the amount that is taken up and temporarily stored in forests, crops, and other ecosystems (shown here is the annual average for 2000-2006). (Figure source: King et al. 2012<tbib>b130f588-b962-4133-9aa9-46f1f8c8ffdb</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0X63JT0",
+        "identifier": "biogeochemical-cycles",
+        "number": 15,
+        "report_identifier": "nca3",
+        "sort_key": 150,
+        "title": "Biogeochemical Cycles",
+        "url": "http://nca2014.globalchange.gov/report/sectors/biogeochemical-cycles"
+    },
+    "chapter_identifier": "biogeochemical-cycles",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2012-11-01T10:33:00",
+    "files": [
+        {
+            "file": "68/88/1ff82b84091ee0da3c81d5cec093/BGC_CO2_sources___sinks_V1.png",
+            "href": "http://data.globalchange.gov/assets/68/88/1ff82b84091ee0da3c81d5cec093/BGC_CO2_sources___sinks_V1.png",
+            "identifier": "51c4c4c5-85aa-41eb-bb5d-03aa06ab2826",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "df7d197c7a47e356919a19aa0239a6c3e3839e25",
+            "size": 70909,
+            "thumbnail": "68/88/1ff82b84091ee0da3c81d5cec093/.thumb-51c4c4c5-85aa-41eb-bb5d-03aa06ab2826.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/68/88/1ff82b84091ee0da3c81d5cec093/.thumb-51c4c4c5-85aa-41eb-bb5d-03aa06ab2826.png",
+            "uri": "/file/51c4c4c5-85aa-41eb-bb5d-03aa06ab2826",
+            "url": "/assets/68/88/1ff82b84091ee0da3c81d5cec093/BGC_CO2_sources___sinks_V1.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/biogeochemical-cycles/figure/major-north-american-carbon-dioxide-sources-and-sinks.json",
+    "identifier": "major-north-american-carbon-dioxide-sources-and-sinks",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2012-11-01T10:33:00",
+            "description": null,
+            "identifier": "8fffcb9c-053b-4574-9196-f88450d3389d",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2010-12-31T23:59:59",
+            "time_start": "2010-01-01T00:00:00",
+            "title": "Major North American Carbon Dioxide Sources and Sinks",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 1,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "North American carbon dioxide sources and sinks: magnitude, attribution, and uncertainty",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1890/120066"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/b130f588-b962-4133-9aa9-46f1f8c8ffdb.json",
+            "uri": "/reference/b130f588-b962-4133-9aa9-46f1f8c8ffdb"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "King et al. 2012<tbib>b130f588-b962-4133-9aa9-46f1f8c8ffdb</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Major North American Carbon Dioxide Sources and Sinks",
+    "uri": "/report/nca3/chapter/biogeochemical-cycles/figure/major-north-american-carbon-dioxide-sources-and-sinks",
+    "url": "http://nca2014.globalchange.gov/highlights/report-findings/ecosystems-and-biodiversity/graphics/major-north-american-carbon-dioxide",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

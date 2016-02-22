@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/nmfs-f-spo-118.json",
+    "identifier": "nmfs-f-spo-118",
+    "in_library": null,
+    "publication_year": 2010,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Fisheries Economics of the United States, 2009. U.S. Department of Commerce, NOAA Technical Memorandum NOAA NMFS-F/SPO-118",
+    "topic": null,
+    "uri": "/report/nmfs-f-spo-118",
+    "url": "http://www.st.nmfs.noaa.gov/st5/publication/econ/2009/FEUS%202009%20ALL.pdf"
+}

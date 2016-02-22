@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Najjar, Raymond G.\rPyke, Christopher R.\rAdams, Mary Beth\rBreitburg, Denise\rHershner, Carl\rKemp, Michael\rHowarth, Robert\rMulholland, Margaret R.\rPaolisso, Michael\rSecor, David\rSellner, Kevin\rWardrop, Denice\rWood, Robert",
+        "DOI": "10.1016/j.ecss.2009.09.026",
+        "ISSN": "0272-7714",
+        "Issue": "1",
+        "Journal": "Estuarine, Coastal and Shelf Science",
+        "Keywords": "climate\restuaries\rcirculation\rbiogeochemistry\rvascular plants\rfisheries",
+        "Pages": "1-20",
+        "Title": "Potential climate-change impacts on the Chesapeake Bay",
+        "Volume": "86",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "3994",
+        "_uuid": "11bd4ad9-197f-4041-bfef-ab4c405c7cac",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.ecss.2009.09.026",
+    "href": "http://data.globalchange.gov/reference/11bd4ad9-197f-4041-bfef-ab4c405c7cac.json",
+    "identifier": "11bd4ad9-197f-4041-bfef-ab4c405c7cac",
+    "uri": "/reference/11bd4ad9-197f-4041-bfef-ab4c405c7cac"
+}

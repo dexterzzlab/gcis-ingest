@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Ib\u00e1\u00f1ez, I.\rClark, J.S.\rDietze, M.C.",
+        "DOI": "10.1890/07-1594.1",
+        "ISSN": "1051-0761",
+        "Issue": "7",
+        "Journal": "Ecological Applications",
+        "Pages": "1664-1678",
+        "Title": "Evaluating the sources of potential migrant species: Implications under climate change",
+        "Volume": "18",
+        "Year": "2008",
+        "_chapter": "[\"RF 10\",\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "3616",
+        "_uuid": "c5830a84-80a4-44a1-ae61-c96692e16c4c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/07-1594.1",
+    "href": "http://data.globalchange.gov/reference/c5830a84-80a4-44a1-ae61-c96692e16c4c.json",
+    "identifier": "c5830a84-80a4-44a1-ae61-c96692e16c4c",
+    "uri": "/reference/c5830a84-80a4-44a1-ae61-c96692e16c4c"
+}

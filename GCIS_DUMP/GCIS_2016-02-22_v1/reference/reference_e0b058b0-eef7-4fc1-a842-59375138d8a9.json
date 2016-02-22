@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Aumen, N. \rLeonard Berry\rRonnie Best\rAlana Edwards \rKarl Havens\rJayantha Obeysekera \rDavid Rudnick \rMichael Scerbo",
+        "Date": "February 14 & 15, 2013",
+        "Institution": "U.S. Geological Survey, Florida Sea Grant, Florida Atlantic University",
+        "Pages": "33",
+        "Title": "Predicting Ecological Changes in the Florida Everglades Under a Future Climate Scenario",
+        "URL": "http://www.ces.fau.edu/climate_change/ecology-february-2013/PECFEFCS_Report.pdf",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4527",
+        "_uuid": "e0b058b0-eef7-4fc1-a842-59375138d8a9",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usgs-fau-flseagrant-predictingecol-2013",
+    "href": "http://data.globalchange.gov/reference/e0b058b0-eef7-4fc1-a842-59375138d8a9.json",
+    "identifier": "e0b058b0-eef7-4fc1-a842-59375138d8a9",
+    "uri": "/reference/e0b058b0-eef7-4fc1-a842-59375138d8a9"
+}

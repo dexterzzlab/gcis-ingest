@@ -1,0 +1,106 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2535.json",
+            "id": 2535,
+            "organization": {
+                "country_code": "NO",
+                "identifier": "nansen-environmental-and-remote-sensing-center",
+                "name": "Nansen Environmental and Remote Sensing Center",
+                "organization_type_identifier": "academic",
+                "url": "http://www.nersc.no/"
+            },
+            "organization_uri": "/organization/nansen-environmental-and-remote-sensing-center",
+            "person": {
+                "first_name": "Peter",
+                "id": 1027,
+                "last_name": "Thorne",
+                "middle_name": null,
+                "orcid": "0000-0003-0485-9798",
+                "url": "http://www.nersc.no/staff/peter-thorne"
+            },
+            "person_id": 1027,
+            "person_uri": "/person/1027",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2535"
+        }
+    ],
+    "create_dt": "2012-04-11T14:59:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Figure shows examples of the many aspects of the climate system in which changes have been formally attributed to human emissions of heat-trapping gases and particles by studies published in peer-reviewed science literature. For example, observed changes in surface air temperature at both the global and continental levels, particularly over the past 50 years or so, cannot be explained without including the effects of human activities. While there are undoubtedly many natural factors that have affected climate in the past and continue to do so today, human activities are the dominant contributor to recently observed climate changes. (Figure source: NOAA NCDC).",
+            "chapter_identifier": "appendix-climate-science-supplement",
+            "create_dt": "2012-04-11T14:59:00",
+            "identifier": "human-influences-apparent-in-many-aspects-of-the-changing-climate",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 17,
+            "report_identifier": "nca3",
+            "source_citation": "NOAA NCDC",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Human Influences Apparent in Many Aspects of the Changing Climate",
+            "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/human-influences-apparent-many-aspects",
+            "usage_limits": "Free to use with credit to the original figure source."
+        },
+        {
+            "attributes": null,
+            "caption": "Figure shows examples of the many aspects of the climate system in which changes have been formally attributed to human emissions of heat-trapping gases and particles by studies published in peer-reviewed science literature. For example, observed changes in surface air temperature at both the global and continental levels, particularly over the past 50 years or so, cannot be explained without including the effects of human activities. While there are undoubtedly many natural factors that have affected climate in the past and continue to do so today, human activities are the dominant contributor to recently observed climate changes. (Figure source: NOAA NCDC).",
+            "chapter_identifier": "appendix-faqs",
+            "create_dt": "2012-04-11T14:59:00",
+            "identifier": "caq-human-influences-apparent-in-many-aspects-of-the-changing-climate",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 13,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Human Influences Apparent in Many Aspects of the Changing Climate",
+            "url": "http://nca2014.globalchange.gov/report/appendices/faqs/graphics/human-influences-apparent-many-aspects-changing-climate",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "32/55/4e6f22e6597fb4fc801d4b14fcd3/app_human_influences_climate_variables_v3_0.png",
+            "href": "http://data.globalchange.gov/assets/32/55/4e6f22e6597fb4fc801d4b14fcd3/app_human_influences_climate_variables_v3_0.png",
+            "identifier": "3a82f6cd-8327-45f9-bd87-ae172f7b4949",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "3a1df174697477aeda007213ebca3b1759eae4d8",
+            "size": 1055998,
+            "thumbnail": "32/55/4e6f22e6597fb4fc801d4b14fcd3/.thumb-3a82f6cd-8327-45f9-bd87-ae172f7b4949.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/32/55/4e6f22e6597fb4fc801d4b14fcd3/.thumb-3a82f6cd-8327-45f9-bd87-ae172f7b4949.png",
+            "uri": "/file/3a82f6cd-8327-45f9-bd87-ae172f7b4949",
+            "url": "/assets/32/55/4e6f22e6597fb4fc801d4b14fcd3/app_human_influences_climate_variables_v3_0.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/a1bd40f2-424e-4af8-8d3d-f44ba7ba36b6.json",
+    "identifier": "a1bd40f2-424e-4af8-8d3d-f44ba7ba36b6",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Human Influences Apparent in Many Aspects of the Changing Climate",
+    "uri": "/image/a1bd40f2-424e-4af8-8d3d-f44ba7ba36b6",
+    "url": null,
+    "usage_limits": null
+}

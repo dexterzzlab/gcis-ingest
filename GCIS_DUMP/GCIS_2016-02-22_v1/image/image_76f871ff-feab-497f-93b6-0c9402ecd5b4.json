@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-03-19T15:24:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Tourism is often climate-dependent as well as seasonally\u00a0dependent. Increasing heat and humidity \u2013 projected for summers in the Midwest, Southeast, and parts of the Southwest by mid-century (compared to the period 1961-1990) \u2013 is likely to create unfavorable conditions for summertime outdoor recreation and tourismactivity. The figures illustrate projected changes in climatic attractiveness (based on maximum daily temperature and minimum daily relative humidity, average daily temperature and relative humidity, precipitation, sunshine, and wind speed) in July for much of North America. In the coming century, the distribution of these conditions is projected to shift from acceptable to unfavorable across most of the southern Midwest and a portion of the Southeast, and from very good or good to acceptable conditions in northern portions of the Midwest, under a high emissions scenario (A2a). (Figure source: Nicholls et al. 2005<tbib>60072c16-ccdf-4f41-b92f-dbd3ac26f3ba</tbib>).",
+            "chapter_identifier": "rural",
+            "create_dt": "2014-03-19T15:24:00",
+            "identifier": "climate-change-impacts-on-summertime-tourism",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 4,
+            "report_identifier": "nca3",
+            "source_citation": "Nicholls et al. 2005<tbib>60072c16-ccdf-4f41-b92f-dbd3ac26f3ba</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Climate Change Impacts on Summertime Tourism",
+            "url": "http://nca2014.globalchange.gov/report/sectors/rural-communities/graphics/climate-change-impacts-summertime-tourism",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "be/44/07571bcc4c9c375bcfec21a64a26/rural_14-4_1970.png",
+            "href": "http://data.globalchange.gov/assets/be/44/07571bcc4c9c375bcfec21a64a26/rural_14-4_1970.png",
+            "identifier": "d1d54159-a921-4efb-be36-9d1b9f238ae3",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "2c17258cf4179ce12b44a741328f0ad73c73098b",
+            "size": 337833,
+            "thumbnail": "be/44/07571bcc4c9c375bcfec21a64a26/.thumb-d1d54159-a921-4efb-be36-9d1b9f238ae3.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/be/44/07571bcc4c9c375bcfec21a64a26/.thumb-d1d54159-a921-4efb-be36-9d1b9f238ae3.png",
+            "uri": "/file/d1d54159-a921-4efb-be36-9d1b9f238ae3",
+            "url": "/assets/be/44/07571bcc4c9c375bcfec21a64a26/rural_14-4_1970.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/76f871ff-feab-497f-93b6-0c9402ecd5b4.json",
+    "identifier": "76f871ff-feab-497f-93b6-0c9402ecd5b4",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "1979-07-31T23:59:59",
+    "time_start": "1970-07-01T00:00:00",
+    "title": "Climate Change Impacts on Summertime Tourism - July 1970s",
+    "uri": "/image/76f871ff-feab-497f-93b6-0c9402ecd5b4",
+    "url": null,
+    "usage_limits": null
+}

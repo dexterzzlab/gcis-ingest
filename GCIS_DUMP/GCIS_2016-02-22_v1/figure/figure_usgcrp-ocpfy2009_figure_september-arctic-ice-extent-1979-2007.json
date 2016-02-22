@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "September sea ice extent across the Arctic from 1979 to 2007. The September rate of sea ice decline since 1979 is now approximately 10% per decade, or 72,000 km2 yr-1. Credit: National Snow and Ice Data Center.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "64/24/c8cff10979c8e09e45ee036c1ec0/Figure_7.png",
+            "href": "http://data.globalchange.gov/assets/64/24/c8cff10979c8e09e45ee036c1ec0/Figure_7.png",
+            "identifier": "62e21975-75b2-4e24-89d4-1e0fb3e024f4",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "aba03b744da7aa62fd687cb9dedd5074ce764055",
+            "size": 61312,
+            "thumbnail": "64/24/c8cff10979c8e09e45ee036c1ec0/.thumb-62e21975-75b2-4e24-89d4-1e0fb3e024f4.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/64/24/c8cff10979c8e09e45ee036c1ec0/.thumb-62e21975-75b2-4e24-89d4-1e0fb3e024f4.png",
+            "uri": "/file/62e21975-75b2-4e24-89d4-1e0fb3e024f4",
+            "url": "/assets/64/24/c8cff10979c8e09e45ee036c1ec0/Figure_7.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2009/figure/september-arctic-ice-extent-1979-2007.json",
+    "identifier": "september-arctic-ice-extent-1979-2007",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2009",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "September Arctic Ice Extent (1979-2007)",
+    "uri": "/report/usgcrp-ocpfy2009/figure/september-arctic-ice-extent-1979-2007",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

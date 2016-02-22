@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Groundwater is a vital resource for sustaining life. Changes in the Earth's climate have the potential to affect both the quality and quantity of available groundwater, primarily through impacts on recharge, evapotranspiration and (indirectly) on pumpage and abstraction. Groundwater is a major contributor to streamflow in areas with relatively shallow water tables, so changes in groundwater systems may also impact surface-water systems. As a result, understanding how climate change could affect groundwater systems is a vital component of sound long-term management of our water supplies. However, predicting how climate change could impact groundwater systems is difficult. Part of the difficulty is rooted in uncertainties in the predictions of future climate. However, even if we were certain regarding future climate, forecasting future groundwater conditions would still be difficult because of the complex combinations of processes that affect groundwater recharge, discharge and quality. Better observations, increased understanding of processes and modeling capabilities will be needed to assess the future of this vital resource in the face of projected climate changes.",
+        "Author": "Earman, S.\rDettinger, M.",
+        "DOI": "10.2166/wcc.2011.034",
+        "ISSN": "2010-2244",
+        "Issue": "4",
+        "Journal": "Journal of Water and Climate Change",
+        "Pages": "213-229",
+        "Title": "Potential impacts of climate change on groundwater resources-a global review",
+        "Volume": "2",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "1291",
+        "_uuid": "eabfc538-91ce-4130-9040-d595dc61b92e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.2166/wcc.2011.034",
+    "href": "http://data.globalchange.gov/reference/eabfc538-91ce-4130-9040-d595dc61b92e.json",
+    "identifier": "eabfc538-91ce-4130-9040-d595dc61b92e",
+    "uri": "/reference/eabfc538-91ce-4130-9040-d595dc61b92e"
+}

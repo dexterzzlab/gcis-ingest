@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Pulwarty, R. S.\rC. Simpson\rC. R. Nierenberg",
+        "Book Title": "Integrated Regional Assessment of Global Climate Change",
+        "Editor": "Knight, C.G.\rJ\u00e4ger, J.",
+        "ISBN": "9780521518109",
+        "Pages": "367-393",
+        "Place Published": "Cambridge, UK",
+        "Publisher": "Cambridge University Press",
+        "Reviewer": "ef54566d-e443-4263-85e0-e089b3286dda",
+        "Title": "The Regional Integrated Sciences and Assessments (RISA) Program: Crafting effective assessments for the long haul",
+        "URL": "http://books.google.com/books?id=B8O31ILKKOMC",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\",\"Ch. 19: Great Plains FINAL\"]",
+        "_record_number": "4034",
+        "_uuid": "ef54566d-e443-4263-85e0-e089b3286dda",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/7cd94df8-5a44-4a0d-bf1a-65ba118e237c",
+    "href": "http://data.globalchange.gov/reference/ef54566d-e443-4263-85e0-e089b3286dda.json",
+    "identifier": "ef54566d-e443-4263-85e0-e089b3286dda",
+    "uri": "/reference/ef54566d-e443-4263-85e0-e089b3286dda"
+}

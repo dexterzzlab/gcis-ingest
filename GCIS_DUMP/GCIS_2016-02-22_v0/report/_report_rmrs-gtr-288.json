@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": "rschneider@fs.fed.us",
+    "contact_note": null,
+    "doi": "10.13140/2.1.1830.2247",
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/rmrs-gtr-288.json",
+    "identifier": "rmrs-gtr-288",
+    "in_library": null,
+    "publication_year": 2012,
+    "report_type_identifier": "report",
+    "summary": "The Renewable Resources Planning Act of 1974 requires the USDA Forest Service to conduct assessments of resource conditions. This report fulfills that need and focuses on quantifying extent, productivity, and health of U.S. rangelands. Since 1982, the area of U.S. rangelands has decreased at an average rate of 350,000 acres per year owed mostly to conversion to agricultural and residential land uses. Nationally, rangeland productivity has been steady over the last decade, but the Rocky Mountain Assessment Region appears to have moderately increased productivity since 2000. The forage situation is positive and, from a national perspective, U.S. rangelands can probably support a good deal more animal production than current levels. Sheep numbers continue to decline, horses and goats have increased numbers, and cattle have slightly increased, averaging 97 million animals per year since 2002. Data from numerous sources indicate rangelands are relatively healthy but also highlight the need for consolidation of efforts among land management agencies to improve characterization of rangeland health. The biggest contributors to decreased rangeland health, chiefly invasive species, are factors associated with biotic integrity. Non-native species are present on 50 percent of non-Federal rangelands, often offsetting gains in rangeland health from improved management practices.",
+    "title": "A Synoptic Review of U.S. Rangelands: a Technical Document Supporting the Forest Service 2010 RPA Assessment",
+    "topic": null,
+    "uri": "/report/rmrs-gtr-288",
+    "url": "http://www.treesearch.fs.fed.us/pubs/42302"
+}

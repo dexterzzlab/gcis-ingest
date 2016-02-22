@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "California Energy Commission,",
+        "Pages": "221",
+        "Title": "2011 Integrated Energy Policy Report. Publication Number: CEC-100-2011-001-CMF",
+        "URL": "http://www.energy.ca.gov/2011publications/CEC-100-2011-001/CEC-100-2011-001-CMF.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "23",
+        "_uuid": "33c99578-559c-4f88-8cb7-733cb301fb7b",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/cec-2011iepr",
+    "href": "http://data.globalchange.gov/reference/33c99578-559c-4f88-8cb7-733cb301fb7b.json",
+    "identifier": "33c99578-559c-4f88-8cb7-733cb301fb7b",
+    "uri": "/reference/33c99578-559c-4f88-8cb7-733cb301fb7b"
+}

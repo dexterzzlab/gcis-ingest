@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Meier, W. N.\rGerland, S.\rGranskog, M. A.\rKey, J. R.\rHaas, C.\rHovelsrud, G.K.\rKovacs, K.\rMakshtas, A.\rMichel, C.\rPerovich, D.\rReist, J.D.\rvan Oort, B.E.H.",
+        "Book Title": "Snow, Water, Ice and Permafrost in the Arctic (SWIPA): Climate Change and the Cryosphere.  Arctic Monitoring and Assessment Programme (AMAP)",
+        "Editor": "SWIPA",
+        "Place Published": "Oslo, Sweden",
+        "Publisher": "Arctic Monitoring and Assessment Programme (AMAP)",
+        "Reviewer": "7945bb69-a580-4fa5-b94d-43d8fed8ae44",
+        "Title": "Ch. 9: Sea ice",
+        "Year": "2012",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "1986",
+        "_uuid": "7945bb69-a580-4fa5-b94d-43d8fed8ae44",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/amap-swipa-2011-overview-report",
+    "href": "http://data.globalchange.gov/reference/7945bb69-a580-4fa5-b94d-43d8fed8ae44.json",
+    "identifier": "7945bb69-a580-4fa5-b94d-43d8fed8ae44",
+    "uri": "/reference/7945bb69-a580-4fa5-b94d-43d8fed8ae44"
+}

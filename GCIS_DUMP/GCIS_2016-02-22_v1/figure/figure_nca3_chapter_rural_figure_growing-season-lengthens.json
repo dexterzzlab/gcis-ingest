@@ -1,0 +1,113 @@
+{
+    "attributes": null,
+    "caption": "The left map shows that if emissions continue to increase (A2 scenario), the U.S. growing season (or frost-free season) will lengthen by as much as 30 to 80 days by the end of the century (2070-2099 as compared to 1971-2000). The right map shows a reduction in the number of frost days (days with minimum temperatures below freezing) by 20 to 80 days in much of the United States in the same time period. While changes in the growing season may have positive effects for some crops, reductions in the number of frost days can result in early bud-bursts or blooms, consequently damaging some perennial crops grown in the United States (See also Ch. 6: Agriculture). White areas are projected to experience no freezes for 2070-2099, and gray areas are projected to experience more than 10 freeze-free years during the same period. (Figure source: NOAA NCDC / CICS-NC).",
+    "chapter": {
+        "doi": "10.7930/J01Z429C",
+        "identifier": "rural",
+        "number": 14,
+        "report_identifier": "nca3",
+        "sort_key": 140,
+        "title": "Rural Communities",
+        "url": "http://nca2014.globalchange.gov/report/sectors/rural-communities"
+    },
+    "chapter_identifier": "rural",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2522.json",
+            "id": 2522,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Kenneth",
+                "id": 1025,
+                "last_name": "Kunkel",
+                "middle_name": null,
+                "orcid": "0000-0001-6667-7047",
+                "url": "http://cicsnc.org/people/kenneth-kunkel/"
+            },
+            "person_id": 1025,
+            "person_uri": "/person/1025",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2522"
+        }
+    ],
+    "create_dt": "2013-01-15T11:32:00",
+    "files": [
+        {
+            "file": "43/50/68c38e1aa6a7075906afc2c938e7/Rural_frost_season___days_V8.png",
+            "href": "http://data.globalchange.gov/assets/43/50/68c38e1aa6a7075906afc2c938e7/Rural_frost_season___days_V8.png",
+            "identifier": "e1ca4519-919e-4610-afa4-655de915aa29",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "284bd35047f437636883b28672868213537e8954",
+            "size": 258602,
+            "thumbnail": "43/50/68c38e1aa6a7075906afc2c938e7/.thumb-e1ca4519-919e-4610-afa4-655de915aa29.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/43/50/68c38e1aa6a7075906afc2c938e7/.thumb-e1ca4519-919e-4610-afa4-655de915aa29.png",
+            "uri": "/file/e1ca4519-919e-4610-afa4-655de915aa29",
+            "url": "/assets/43/50/68c38e1aa6a7075906afc2c938e7/Rural_frost_season___days_V8.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/rural/figure/growing-season-lengthens.json",
+    "identifier": "growing-season-lengthens",
+    "images": [
+        {
+            "attributes": "freeze days, frost days, temperature, projections, emissions scenarios",
+            "create_dt": "2013-07-31T09:27:00",
+            "description": null,
+            "identifier": "75eed645-0dac-448e-b86b-b10cbf35cdc6",
+            "lat_max": "49.31",
+            "lat_min": "25.19",
+            "lon_max": "-67.06",
+            "lon_min": "-124.69",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2099-12-31T23:59:59",
+            "time_start": "1971-01-01T00:00:00",
+            "title": "Growing Season Lengthens - Change in Number of Frost Free Days",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": "freeze-free season, frost-free season, temperature, projections, emissions scenarios",
+            "create_dt": "2013-07-31T09:27:00",
+            "description": null,
+            "identifier": "23d354a8-0b1f-48ce-b79c-1466cc687f08",
+            "lat_max": "49.31",
+            "lat_min": "25.19",
+            "lon_max": "-67.06",
+            "lon_min": "-124.69",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2099-12-31T23:59:59",
+            "time_start": "1971-01-01T00:00:00",
+            "title": "Growing Season Lengthens - Change in Frost Free Season Length",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 3,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": "NOAA NCDC / CICS-NC",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Growing Season Lengthens",
+    "uri": "/report/nca3/chapter/rural/figure/growing-season-lengthens",
+    "url": "http://nca2014.globalchange.gov/report/sectors/rural-communities/graphics/growing-season-lengthens",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

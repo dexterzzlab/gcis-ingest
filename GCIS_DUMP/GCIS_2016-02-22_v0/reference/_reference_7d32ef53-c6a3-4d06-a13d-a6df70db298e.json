@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "28",
+        "Author": "NOAA,",
+        "E-Pub Date": "December 2012",
+        "Place Published": "Asheville, NC",
+        "Publisher": "National Oceanic and Atmospheric Administration",
+        "Reviewer": "7d32ef53-c6a3-4d06-a13d-a6df70db298e",
+        "Title": "State of the climate: Drought Annual 2012",
+        "URL": "http://www.ncdc.noaa.gov/sotc/drought/",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "2254",
+        "_uuid": "7d32ef53-c6a3-4d06-a13d-a6df70db298e",
+        "reftype": "Electronic Article"
+    },
+    "child_publication": "/webpage/b1e1a67c-297d-4d22-866f-e827f5c6fbde",
+    "href": "http://data.globalchange.gov/reference/7d32ef53-c6a3-4d06-a13d-a6df70db298e.json",
+    "identifier": "7d32ef53-c6a3-4d06-a13d-a6df70db298e",
+    "uri": "/reference/7d32ef53-c6a3-4d06-a13d-a6df70db298e"
+}

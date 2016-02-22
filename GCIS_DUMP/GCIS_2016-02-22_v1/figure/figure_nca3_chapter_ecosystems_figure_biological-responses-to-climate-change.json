@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "Map of selected observed and projected biological responses to climate change across the United States. Case studies listed below correspond to observed responses (black icons on map) and projected responses (white icons on map, italicized statements). In general, because future climatic changes are projected to exceed those experienced in the recent past, projected biological impacts tend to be of greater magnitude than recent observed changes. Because the observations and projections presented here are not paired (that is, they are not for the same species or systems), that general difference is not illustrated. (Figure source: Staudinger et al., 2012<tbib>7406884d-2302-4644-aa50-12ed8baf4fd7</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0TD9V7H",
+        "identifier": "ecosystems",
+        "number": 8,
+        "report_identifier": "nca3",
+        "sort_key": 80,
+        "title": "Ecosystems, Biodiversity, and Ecosystem Services",
+        "url": "http://nca2014.globalchange.gov/report/sectors/ecosystems"
+    },
+    "chapter_identifier": "ecosystems",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-03-21T16:27:45",
+    "files": [
+        {
+            "file": "dc/6c/35355fcd189ffab495cb624084a9/ECO_biodiversity_map_V5.png",
+            "href": "http://data.globalchange.gov/assets/dc/6c/35355fcd189ffab495cb624084a9/ECO_biodiversity_map_V5.png",
+            "identifier": "a4cca460-7cd6-48fa-bc76-47f52a6fec47",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "66467b6c8c86fdff99d4b02f9fd1ab3dc145de9c",
+            "size": 2081478,
+            "thumbnail": "dc/6c/35355fcd189ffab495cb624084a9/.thumb-a4cca460-7cd6-48fa-bc76-47f52a6fec47.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/dc/6c/35355fcd189ffab495cb624084a9/.thumb-a4cca460-7cd6-48fa-bc76-47f52a6fec47.png",
+            "uri": "/file/a4cca460-7cd6-48fa-bc76-47f52a6fec47",
+            "url": "/assets/dc/6c/35355fcd189ffab495cb624084a9/ECO_biodiversity_map_V5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/ecosystems/figure/biological-responses-to-climate-change.json",
+    "identifier": "biological-responses-to-climate-change",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2014-03-21T16:27:45",
+            "description": null,
+            "identifier": "99441a59-32fd-4484-9ccb-2df0f0429ee6",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Biological Responses to Climate Change",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 4,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Impacts of Climate Change on Biodiversity, Ecosystems, and Ecosystem Services. Technical Input to the 2013 National Climate Assessment",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/nca-impactsclimchbiodiv-2012"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/7406884d-2302-4644-aa50-12ed8baf4fd7.json",
+            "uri": "/reference/7406884d-2302-4644-aa50-12ed8baf4fd7"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "Staudinger et al., 2012",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Biological Responses to Climate Change",
+    "uri": "/report/nca3/chapter/ecosystems/figure/biological-responses-to-climate-change",
+    "url": "http://nca2014.globalchange.gov/highlights/report-findings/ecosystems-and-biodiversity/graphics/species-responses-climate-change",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

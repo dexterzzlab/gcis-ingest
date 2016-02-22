@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Arendt, Anthony A.\rEchelmeyer, Keith A.\rHarrison, William D.\rLingle, Craig S.\rValentine, Virginia B.",
+        "DOI": "10.1126/science.1072497",
+        "ISSN": "0036-8075",
+        "Issue": "5580",
+        "Journal": "Science",
+        "Keywords": "circulation; glaciers; Marine",
+        "Pages": "382-386",
+        "Title": "Rapid wastage of Alaska glaciers and their contribution to rising sea level",
+        "Volume": "297",
+        "Year": "2002",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "1374",
+        "_uuid": "b6bd09ac-2fd9-4720-b8a3-089a37a42e95",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1072497",
+    "href": "http://data.globalchange.gov/reference/b6bd09ac-2fd9-4720-b8a3-089a37a42e95.json",
+    "identifier": "b6bd09ac-2fd9-4720-b8a3-089a37a42e95",
+    "uri": "/reference/b6bd09ac-2fd9-4720-b8a3-089a37a42e95"
+}

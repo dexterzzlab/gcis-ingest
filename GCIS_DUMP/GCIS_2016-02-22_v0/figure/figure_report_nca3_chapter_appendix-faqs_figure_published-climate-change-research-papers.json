@@ -1,0 +1,80 @@
+{
+    "attributes": null,
+    "caption": "The number of papers classified as predicting, implying, or providing supporting evidence for future global cooling, warming, and neutral categories. Bars indicate number of articles published per year. Squares indicate cumulative number of articles published. For the period 1965 through 1979, the literature survey found seven papers suggesting further cooling, 20 neutral, and 44 warming. Even in the early years of the study of climate change, more science studies were discussing concerns about global warming than global cooling. (Figure source: Peterson et al. 200814).",
+    "chapter": {
+        "doi": "10.7930/J0G15XS3",
+        "identifier": "appendix-faqs",
+        "number": 34,
+        "report_identifier": "nca3",
+        "sort_key": 340,
+        "title": "Appendix 4: Frequently Asked Questions",
+        "url": "http://nca2014.globalchange.gov/report/appendices/faqs"
+    },
+    "chapter_identifier": "appendix-faqs",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-10-22T15:37:00",
+    "files": [
+        {
+            "file": "47/81/71a69eea1730b38fbfa48ef9390f/CAQ_published_reports_V4.png",
+            "href": "http://data.globalchange.gov/assets/47/81/71a69eea1730b38fbfa48ef9390f/CAQ_published_reports_V4.png",
+            "identifier": "0e88cad9-8140-4d0c-bd38-8b7148e76059",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "7af4722f4229586f96204fe4ec4fcd33521d1a19",
+            "size": 98109,
+            "thumbnail": "47/81/71a69eea1730b38fbfa48ef9390f/.thumb-0e88cad9-8140-4d0c-bd38-8b7148e76059.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/47/81/71a69eea1730b38fbfa48ef9390f/.thumb-0e88cad9-8140-4d0c-bd38-8b7148e76059.png",
+            "uri": "/file/0e88cad9-8140-4d0c-bd38-8b7148e76059",
+            "url": "/assets/47/81/71a69eea1730b38fbfa48ef9390f/CAQ_published_reports_V4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-faqs/figure/published-climate-change-research-papers.json",
+    "identifier": "published-climate-change-research-papers",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-10-22T15:37:00",
+            "description": null,
+            "identifier": "5d9933bd-3644-4bea-85ec-cca3cfe4363b",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": "1979-12-31T23:59:59",
+            "time_start": "1965-01-01T00:00:00",
+            "title": "Published Climate Change Research Papers",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 18,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "The Myth of the 1970s Global Cooling Scientific Consensus",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1175/2008BAMS2370.1"
+        }
+    ],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Published Climate Change Research Papers",
+    "uri": "/report/nca3/chapter/appendix-faqs/figure/published-climate-change-research-papers",
+    "url": "http://nca2014.globalchange.gov/report/appendices/faqs/graphics/published-climate-change-research-papers",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

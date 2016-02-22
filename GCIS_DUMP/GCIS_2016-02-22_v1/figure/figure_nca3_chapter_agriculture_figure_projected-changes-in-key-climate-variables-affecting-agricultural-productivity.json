@@ -1,0 +1,152 @@
+{
+    "attributes": null,
+    "caption": "Many climate variables affect agriculture. The maps above show projected changes in key climate variables affecting agricultural productivity for the end of the century (2070-2099) compared to 1971-2000. Changes in climate parameters critical to agriculture show lengthening of the frost-free or growing season and reductions in the number of frost days (days with minimum temperatures below freezing), under an emissions scenario that assumes continued increases in heat-trapping gases (A2). Changes in these two variables are not identical, with the length of the growing season increasing across most of the United States and more variation in the change in the number of frost days. Warmer-season crops, such as melons, would grow better in warmer areas, while other crops, such as cereals, would grow more quickly, meaning less time for the grain itself to mature, reducing productivity.<tbib>a2704ef3-5be4-41ee-8dfa-4c82e416a292</tbib> Taking advantage of the increasing length of the growing season and changing planting dates could allow planting of more diverse crop rotations, which can be an effective adaptation strategy. On the frost-free map, white areas are projected to experience no freezes for 2070-2099, and gray areas are projected to experience more than 10 frost-free years during the same period. In the lower left graph, consecutive dry days are defined as the annual maximum number of consecutive days with less than 0.01 inches of precipitation. In the lower right graph, hot nights are defined as nights with a minimum temperature higher than 98% of the minimum temperatures between 1971 and 2000. (Figure source: NOAA NCDC / CICS-NC).",
+    "chapter": {
+        "doi": "10.7930/J02Z13FR",
+        "identifier": "agriculture",
+        "number": 6,
+        "report_identifier": "nca3",
+        "sort_key": 60,
+        "title": "Agriculture",
+        "url": "http://nca2014.globalchange.gov/report/sectors/agriculture"
+    },
+    "chapter_identifier": "agriculture",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2522.json",
+            "id": 2522,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Kenneth",
+                "id": 1025,
+                "last_name": "Kunkel",
+                "middle_name": null,
+                "orcid": "0000-0001-6667-7047",
+                "url": "http://cicsnc.org/people/kenneth-kunkel/"
+            },
+            "person_id": 1025,
+            "person_uri": "/person/1025",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2522"
+        }
+    ],
+    "create_dt": "2013-01-15T11:32:00",
+    "files": [
+        {
+            "file": "73/2e/9a1c2c340265fc61dacc7f0d9557/AG_climate_variables_V9.png",
+            "href": "http://data.globalchange.gov/assets/73/2e/9a1c2c340265fc61dacc7f0d9557/AG_climate_variables_V9.png",
+            "identifier": "658ab2c7-43a6-45c5-9e1d-eb4d2c3bafe9",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "b6c8a0534f4e639c3485bd6803209615eb54d66a",
+            "size": 253562,
+            "thumbnail": "73/2e/9a1c2c340265fc61dacc7f0d9557/.thumb-658ab2c7-43a6-45c5-9e1d-eb4d2c3bafe9.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/73/2e/9a1c2c340265fc61dacc7f0d9557/.thumb-658ab2c7-43a6-45c5-9e1d-eb4d2c3bafe9.png",
+            "uri": "/file/658ab2c7-43a6-45c5-9e1d-eb4d2c3bafe9",
+            "url": "/assets/73/2e/9a1c2c340265fc61dacc7f0d9557/AG_climate_variables_V9.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/agriculture/figure/projected-changes-in-key-climate-variables-affecting-agricultural-productivity.json",
+    "identifier": "projected-changes-in-key-climate-variables-affecting-agricultural-productivity",
+    "images": [
+        {
+            "attributes": "freeze days, frost days, temperature, projections, emissions scenarios",
+            "create_dt": "2013-07-31T09:27:00",
+            "description": null,
+            "identifier": "e08566ff-9020-4b2c-9bd9-d6ce290c4270",
+            "lat_max": "49.31",
+            "lat_min": "25.19",
+            "lon_max": "-67.06",
+            "lon_min": "-124.69",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2099-12-31T23:59:59",
+            "time_start": "1971-01-01T00:00:00",
+            "title": "Key Climate Variables Affecting Agricultural Productivity: Change in Number of Frost Days",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": "consecutive dry days, precipitation, projections, emissions scenarios",
+            "create_dt": "2013-07-31T09:27:00",
+            "description": null,
+            "identifier": "6b737501-b651-4139-85b4-ccae7675df6d",
+            "lat_max": "49.31",
+            "lat_min": "25.19",
+            "lon_max": "-67.06",
+            "lon_min": "-124.69",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2099-12-31T23:59:59",
+            "time_start": "1971-01-01T00:00:00",
+            "title": "Key Climate Variables Affecting Agricultural Productivity: Change in Number of Consecutive Dry Days",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": "temperature, projections, emissions scenarios",
+            "create_dt": "2013-07-31T09:27:00",
+            "description": null,
+            "identifier": "bc7a4158-1ea7-4fcd-8641-97ed532540a8",
+            "lat_max": "49.31",
+            "lat_min": "25.19",
+            "lon_max": "-67.06",
+            "lon_min": "-124.69",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2099-12-31T23:59:59",
+            "time_start": "1971-01-01T00:00:00",
+            "title": "Key Climate Variables Affecting Agricultural Productivity: Change in Number of Hot Nights",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": "freeze-free season, frost-free season, temperature, projections, emissions scenarios",
+            "create_dt": "2013-07-31T09:27:00",
+            "description": null,
+            "identifier": "5044a96f-7f04-4f4f-8be2-35f28159f2e1",
+            "lat_max": "49.31",
+            "lat_min": "25.19",
+            "lon_max": "-67.06",
+            "lon_min": "-124.69",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2099-12-31T23:59:59",
+            "time_start": "1971-01-01T00:00:00",
+            "title": "Key Climate Variables Affecting Agricultural Productivity: Change in Frost-Free Season Length",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 5,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/a2704ef3-5be4-41ee-8dfa-4c82e416a292.json",
+            "uri": "/reference/a2704ef3-5be4-41ee-8dfa-4c82e416a292"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "NOAA NCDC / CICS-NC",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Projected Changes in Key Climate Variables Affecting Agricultural Productivity",
+    "uri": "/report/nca3/chapter/agriculture/figure/projected-changes-in-key-climate-variables-affecting-agricultural-productivity",
+    "url": "http://nca2014.globalchange.gov/highlights/report-findings/agriculture/graphics/key-climate-variables-affecting-agricultural",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

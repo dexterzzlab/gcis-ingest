@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "This screenshot provides an example of a local 3-month temperature outlook (L3MTO) forecast for Phoenix, Arizona, and vicinity. Credit: J. Bollinger, NOAA / National Weather Service.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "57/db/2428494070bd1d2830be7df3ca5d/our_changing_planet_2008_72_20090708_2086176861.jpg",
+            "href": "http://data.globalchange.gov/assets/57/db/2428494070bd1d2830be7df3ca5d/our_changing_planet_2008_72_20090708_2086176861.jpg",
+            "identifier": "17647c55-a943-4f67-8d51-db3b173d8ded",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "5d5e63315c5895d2fbf2d31faf9131bb16423e35",
+            "size": 52099,
+            "thumbnail": "57/db/2428494070bd1d2830be7df3ca5d/.thumb-17647c55-a943-4f67-8d51-db3b173d8ded.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/57/db/2428494070bd1d2830be7df3ca5d/.thumb-17647c55-a943-4f67-8d51-db3b173d8ded.png",
+            "uri": "/file/17647c55-a943-4f67-8d51-db3b173d8ded",
+            "url": "/assets/57/db/2428494070bd1d2830be7df3ca5d/our_changing_planet_2008_72_20090708_2086176861.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2008/figure/three-month-temperature-outlook-phoenix.json",
+    "identifier": "three-month-temperature-outlook-phoenix",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2008",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Three-Month Temperature Outlook, Phoenix, AZ",
+    "uri": "/report/ccsp-ocpfy2008/figure/three-month-temperature-outlook-phoenix",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

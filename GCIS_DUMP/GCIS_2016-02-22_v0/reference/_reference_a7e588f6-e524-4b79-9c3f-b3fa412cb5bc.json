@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Meehl, G.A.\rArblaster, J.M.\rBranstator, G.",
+        "DOI": "10.1175/JCLI-D-11-00655.1",
+        "ISSN": "0894-8755",
+        "Issue": "2012",
+        "Journal": "Journal of Climate",
+        "Pages": "6394-6408",
+        "Title": "Mechanisms contributing to the warming hole and the consequent US east-west differential of heat extremes",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2009GL040736/pdf",
+        "Volume": "25",
+        "Year": "2012",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "1980",
+        "_uuid": "a7e588f6-e524-4b79-9c3f-b3fa412cb5bc",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/JCLI-D-11-00655.1",
+    "href": "http://data.globalchange.gov/reference/a7e588f6-e524-4b79-9c3f-b3fa412cb5bc.json",
+    "identifier": "a7e588f6-e524-4b79-9c3f-b3fa412cb5bc",
+    "uri": "/reference/a7e588f6-e524-4b79-9c3f-b3fa412cb5bc"
+}

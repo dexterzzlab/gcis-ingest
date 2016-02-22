@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Seely, B.\rWelham, C.\rKimmins, H.",
+        "DOI": "10.1016/S0378-1127(02)00303-1",
+        "ISSN": "0378-1127",
+        "Issue": "1-2",
+        "Journal": "Forest Ecology and Management",
+        "Pages": "123-135",
+        "Title": "Carbon sequestration in a boreal forest ecosystem: Results from the ecosystem simulation model, FORECAST",
+        "Volume": "169",
+        "Year": "2002",
+        "_chapter": "[\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "2804",
+        "_uuid": "b23a941b-a238-42e9-9b74-9aa7abd5760a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/S0378-1127(02)00303-1",
+    "href": "http://data.globalchange.gov/reference/b23a941b-a238-42e9-9b74-9aa7abd5760a.json",
+    "identifier": "b23a941b-a238-42e9-9b74-9aa7abd5760a",
+    "uri": "/reference/b23a941b-a238-42e9-9b74-9aa7abd5760a"
+}

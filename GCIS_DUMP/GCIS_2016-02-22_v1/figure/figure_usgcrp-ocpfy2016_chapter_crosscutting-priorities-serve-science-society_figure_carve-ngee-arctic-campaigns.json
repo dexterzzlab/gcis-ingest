@@ -1,0 +1,120 @@
+{
+    "attributes": null,
+    "caption": "The NASA CARVE and DOE NGEE-Arctic projects are combining airborne and ground-based campaigns to understand the importance of natural emissions from the Alaskan tundra. (Source: J. B. Curtis, LBNL [main photo and left inset]; S. Wullschleger, ORNL [right insets])",
+    "chapter": {
+        "doi": null,
+        "identifier": "crosscutting-priorities-serve-science-society",
+        "number": 3,
+        "report_identifier": "usgcrp-ocpfy2016",
+        "sort_key": 30,
+        "title": "Crosscutting Priorities to Serve Science and Society ",
+        "url": null
+    },
+    "chapter_identifier": "crosscutting-priorities-serve-science-society",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/4726.json",
+            "id": 4726,
+            "organization": {
+                "country_code": "US",
+                "identifier": "oak-ridge-national-laboratory",
+                "name": "Oak Ridge National Laboratory",
+                "organization_type_identifier": "federally funded research and development center",
+                "url": "http://www.ornl.gov/"
+            },
+            "organization_uri": "/organization/oak-ridge-national-laboratory",
+            "person": {
+                "first_name": "Stan",
+                "id": 2633,
+                "last_name": "Wullschleger",
+                "middle_name": null,
+                "orcid": "0000-0002-9869-0446",
+                "url": "http://www.esd.ornl.gov/people/wullschleger/"
+            },
+            "person_id": 2633,
+            "person_uri": "/person/2633",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/4726"
+        },
+        {
+            "href": "http://data.globalchange.gov/contributor/4727.json",
+            "id": 4727,
+            "organization": {
+                "country_code": "US",
+                "identifier": "lawrence-berkeley-national-laboratory",
+                "name": "Lawrence Berkeley National Laboratory",
+                "organization_type_identifier": "federally funded research and development center",
+                "url": "http://www.lbl.gov/"
+            },
+            "organization_uri": "/organization/lawrence-berkeley-national-laboratory",
+            "person": {
+                "first_name": "John Bryan ",
+                "id": 2634,
+                "last_name": "Curtis",
+                "middle_name": null,
+                "orcid": null,
+                "url": "http://esd.lbl.gov/about/staff/johncurtis/"
+            },
+            "person_id": 2634,
+            "person_uri": "/person/2634",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/4727"
+        }
+    ],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "23/18/8438c43ba98d6f08031b64c5f1d5/HL33_Arctic-quantifying-emissions-NASA-CARVE-DOE-NGEE.png",
+            "href": "http://data.globalchange.gov/assets/23/18/8438c43ba98d6f08031b64c5f1d5/HL33_Arctic-quantifying-emissions-NASA-CARVE-DOE-NGEE.png",
+            "identifier": "cd025928-3680-4fb6-a7c3-812afa92557a",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "8332bb56b099bda85ef3bdccccad6b9a7cfe4f67",
+            "size": 495204,
+            "thumbnail": "23/18/8438c43ba98d6f08031b64c5f1d5/.thumb-cd025928-3680-4fb6-a7c3-812afa92557a.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/23/18/8438c43ba98d6f08031b64c5f1d5/.thumb-cd025928-3680-4fb6-a7c3-812afa92557a.png",
+            "uri": "/file/cd025928-3680-4fb6-a7c3-812afa92557a",
+            "url": "/assets/23/18/8438c43ba98d6f08031b64c5f1d5/HL33_Arctic-quantifying-emissions-NASA-CARVE-DOE-NGEE.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2016/chapter/crosscutting-priorities-serve-science-society/figure/carve-ngee-arctic-campaigns.json",
+    "identifier": "carve-ngee-arctic-campaigns",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": null,
+            "description": null,
+            "identifier": "6ed82135-1133-4efc-a39c-e4d92462a78e",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "CARVE and NGEE Arctic campaigns",
+            "url": null,
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 21,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2016",
+    "source_citation": "Main photo and left inset: J. Bryan Curtis, Lawrence Berkeley National Laboratory. Right insets: Stan Wullschleger, Oak Ridge National Research Laboratory",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "CARVE and NGEE Arctic campaigns",
+    "uri": "/report/usgcrp-ocpfy2016/chapter/crosscutting-priorities-serve-science-society/figure/carve-ngee-arctic-campaigns",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

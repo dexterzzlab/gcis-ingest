@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Porter, D. F.\rCassano, J. J.\rSerreze, Mark C.",
+        "DOI": "10.1029/2011JD016969",
+        "Date": "June 2012",
+        "ISSN": "2156-2202",
+        "Issue": "D11",
+        "Journal": "Journal of Geophysical Research: Atmospheres",
+        "Pages": "D11115",
+        "Title": "Local and large-scale atmospheric responses to reduced Arctic sea ice and ocean warming in the WRF model",
+        "Volume": "117",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "2516",
+        "_uuid": "d91f8715-7a1f-4dab-aede-a0ead280ffb1",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2011JD016969",
+    "href": "http://data.globalchange.gov/reference/d91f8715-7a1f-4dab-aede-a0ead280ffb1.json",
+    "identifier": "d91f8715-7a1f-4dab-aede-a0ead280ffb1",
+    "uri": "/reference/d91f8715-7a1f-4dab-aede-a0ead280ffb1"
+}

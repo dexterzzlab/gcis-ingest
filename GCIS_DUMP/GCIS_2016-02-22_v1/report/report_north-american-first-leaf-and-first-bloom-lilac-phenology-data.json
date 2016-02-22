@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/north-american-first-leaf-and-first-bloom-lilac-phenology-data.json",
+    "identifier": "north-american-first-leaf-and-first-bloom-lilac-phenology-data",
+    "in_library": null,
+    "publication_year": 2003,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "North American First Leaf and First Bloom Lilac Phenology Data",
+    "topic": null,
+    "uri": "/report/north-american-first-leaf-and-first-bloom-lilac-phenology-data",
+    "url": "ftp://ftp.ncdc.noaa.gov/pub/data/paleo/phenology/north_america_lilac.txt"
+}

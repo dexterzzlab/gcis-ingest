@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Cohen, E.",
+        "DOI": "10.1016/j0160-7383(78)90221-9",
+        "ISSN": "0160-7383",
+        "Issue": "2",
+        "Journal": "Annals of Tourism Research",
+        "Pages": "215-237",
+        "Title": "The impact of tourism on the physical environment",
+        "Volume": "5",
+        "Year": "1978",
+        "_chapter": "[\"Ch. 14: Rural Communities FINAL\"]",
+        "_record_number": "896",
+        "_uuid": "4a47ca0e-2c75-4666-9fea-ccde71dcf99f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/0160-7383(78)90221-9",
+    "href": "http://data.globalchange.gov/reference/4a47ca0e-2c75-4666-9fea-ccde71dcf99f.json",
+    "identifier": "4a47ca0e-2c75-4666-9fea-ccde71dcf99f",
+    "uri": "/reference/4a47ca0e-2c75-4666-9fea-ccde71dcf99f"
+}

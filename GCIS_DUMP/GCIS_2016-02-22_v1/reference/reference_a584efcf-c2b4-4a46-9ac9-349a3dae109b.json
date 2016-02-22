@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Aultman-Hall, L.\rD. Lane\rR.R. Lambert",
+        "DOI": "10.3141/2140-04",
+        "ISSN": "0361-1981",
+        "Journal": "Transportation Research Record: Journal of the Transportation Research Board",
+        "Pages": "35-43",
+        "Title": "Assessing impact of weather and season on pedestrian traffic volumes",
+        "Volume": "2140",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 5: Transportation FINAL\"]",
+        "_record_number": "3932",
+        "_uuid": "a584efcf-c2b4-4a46-9ac9-349a3dae109b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.3141/2140-04",
+    "href": "http://data.globalchange.gov/reference/a584efcf-c2b4-4a46-9ac9-349a3dae109b.json",
+    "identifier": "a584efcf-c2b4-4a46-9ac9-349a3dae109b",
+    "uri": "/reference/a584efcf-c2b4-4a46-9ac9-349a3dae109b"
+}

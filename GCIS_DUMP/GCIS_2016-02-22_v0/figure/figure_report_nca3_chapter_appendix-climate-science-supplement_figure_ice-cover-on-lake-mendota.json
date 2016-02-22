@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "The duration, or number of days, of ice cover on Lake Mendota, Wisconsin, has decreased over time. The 10 longest ice seasons are marked by blue circles, and the 11 shortest ice seasons are marked by red circles. Seven of the 10 shortest ice cover seasons have occurred since 1980. (Figure source: Kunkel et al. 2013<tbib>95f2ea7d-12e3-4ed5-9247-7cf139db91a9</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0KS6PHH",
+        "identifier": "appendix-climate-science-supplement",
+        "number": 33,
+        "report_identifier": "nca3",
+        "sort_key": 330,
+        "title": "Appendix 3: Climate Science Supplement",
+        "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement"
+    },
+    "chapter_identifier": "appendix-climate-science-supplement",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2012-12-28T11:22:00",
+    "files": [
+        {
+            "file": "d1/5d/32d6e584eae861921179028afd6a/APP_lake_mendota_ice_cover_V2.png",
+            "href": "http://data.globalchange.gov/assets/d1/5d/32d6e584eae861921179028afd6a/APP_lake_mendota_ice_cover_V2.png",
+            "identifier": "aba5cb6b-9692-4af2-9437-b3cbd3af488f",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "b8666e04fcd93004307bc5ce172a6f2f5d49e134",
+            "size": 81681,
+            "thumbnail": "d1/5d/32d6e584eae861921179028afd6a/.thumb-aba5cb6b-9692-4af2-9437-b3cbd3af488f.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/d1/5d/32d6e584eae861921179028afd6a/.thumb-aba5cb6b-9692-4af2-9437-b3cbd3af488f.png",
+            "uri": "/file/aba5cb6b-9692-4af2-9437-b3cbd3af488f",
+            "url": "/assets/d1/5d/32d6e584eae861921179028afd6a/APP_lake_mendota_ice_cover_V2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-climate-science-supplement/figure/ice-cover-on-lake-mendota.json",
+    "identifier": "ice-cover-on-lake-mendota",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2012-12-28T11:22:00",
+            "description": null,
+            "identifier": "1c7006bd-8042-46a0-b622-ed7c15a3334c",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2012-12-31T23:59:59",
+            "time_start": "1850-01-01T00:00:00",
+            "title": "Ice Cover on Lake Mendota",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 29,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Regional Climate Trends and Scenarios for the U.S. National Climate Assessment: Part 3. Climate of the Midwest U.S. NOAA Technical Report NESDIS 142-3",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/noaa-techreport-nesdis-142-3"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/95f2ea7d-12e3-4ed5-9247-7cf139db91a9.json",
+            "uri": "/reference/95f2ea7d-12e3-4ed5-9247-7cf139db91a9"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "Kunkel et al. 2013<tbib>95f2ea7d-12e3-4ed5-9247-7cf139db91a9</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Ice Cover on Lake Mendota",
+    "uri": "/report/nca3/chapter/appendix-climate-science-supplement/figure/ice-cover-on-lake-mendota",
+    "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/ice-cover-lake-mendota",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

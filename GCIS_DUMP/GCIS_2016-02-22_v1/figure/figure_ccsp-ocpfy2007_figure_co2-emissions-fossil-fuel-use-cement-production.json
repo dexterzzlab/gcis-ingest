@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Cumulative Global CO2 Emissions from Fossil Fuel Consumption and Cement Production. This chart provides cumulative global fossil-fuel CO2 emissions from 1751 to 2003. Credit: T.A. Boden, DOE/Oak Ridge National Laboratory.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "8f/d1/d0453e4be36215f98f326a329660/our_changing_planet_2007_61_20090708_1014599863.jpg",
+            "href": "http://data.globalchange.gov/assets/8f/d1/d0453e4be36215f98f326a329660/our_changing_planet_2007_61_20090708_1014599863.jpg",
+            "identifier": "be7b9331-6da8-4cf9-8874-937059b23246",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "3e4bfa346b91b18b9e703459d1f77fc07ab70110",
+            "size": 27935,
+            "thumbnail": "8f/d1/d0453e4be36215f98f326a329660/.thumb-be7b9331-6da8-4cf9-8874-937059b23246.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/8f/d1/d0453e4be36215f98f326a329660/.thumb-be7b9331-6da8-4cf9-8874-937059b23246.png",
+            "uri": "/file/be7b9331-6da8-4cf9-8874-937059b23246",
+            "url": "/assets/8f/d1/d0453e4be36215f98f326a329660/our_changing_planet_2007_61_20090708_1014599863.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/co2-emissions-fossil-fuel-use-cement-production.json",
+    "identifier": "co2-emissions-fossil-fuel-use-cement-production",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "CO2 Emissions from Fossil Fuel Use and Cement Production",
+    "uri": "/report/ccsp-ocpfy2007/figure/co2-emissions-fossil-fuel-use-cement-production",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

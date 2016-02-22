@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Potential changes in occurrence of the Black-Capped Chickadee under two climate scenarios. \u201cIncidence\u201d refers to the proportion of sightings during annual breeding bird surveys. Credit: Matthews et al., 2004.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "ef/5f/24835a94f96cedc49f39d642bbd7/our_changing_planet_2006_16_20090708_1555978769.jpg",
+            "href": "http://data.globalchange.gov/assets/ef/5f/24835a94f96cedc49f39d642bbd7/our_changing_planet_2006_16_20090708_1555978769.jpg",
+            "identifier": "ea7115b0-b875-48e0-8ab7-2b011e28d365",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "b94ad56da1b7739a972dc8e60ba171405a1a82a1",
+            "size": 75377,
+            "thumbnail": "ef/5f/24835a94f96cedc49f39d642bbd7/.thumb-ea7115b0-b875-48e0-8ab7-2b011e28d365.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/ef/5f/24835a94f96cedc49f39d642bbd7/.thumb-ea7115b0-b875-48e0-8ab7-2b011e28d365.png",
+            "uri": "/file/ea7115b0-b875-48e0-8ab7-2b011e28d365",
+            "url": "/assets/ef/5f/24835a94f96cedc49f39d642bbd7/our_changing_planet_2006_16_20090708_1555978769.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocp-fy2006/figure/black-capped-chickadee-occurence.json",
+    "identifier": "black-capped-chickadee-occurence",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocp-fy2006",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Black-Capped Chickadee Occurence",
+    "uri": "/report/ccsp-ocp-fy2006/figure/black-capped-chickadee-occurence",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

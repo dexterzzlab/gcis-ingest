@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "USN,",
+        "Institution": "U.S. Navy, Marine Corps, and Coast Guard",
+        "Pages": "20",
+        "Place Published": "Kissimmee, FL",
+        "Title": "A Cooperative Strategy for 21st Century Seapower",
+        "URL": "http://www.navy.mil/maritime/Maritimestrategy.pdf",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "3178",
+        "_uuid": "7cb90da6-64e2-432e-ac81-fbb4182dc3bd",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/navy-cooperative-2007",
+    "href": "http://data.globalchange.gov/reference/7cb90da6-64e2-432e-ac81-fbb4182dc3bd.json",
+    "identifier": "7cb90da6-64e2-432e-ac81-fbb4182dc3bd",
+    "uri": "/reference/7cb90da6-64e2-432e-ac81-fbb4182dc3bd"
+}

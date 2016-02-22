@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Remobilization to the atmosphere of only a small fraction of the methane held in East Siberian Arctic Shelf (ESAS) sediments could trigger abrupt climate warming, yet it is believed that sub-sea permafrost acts as a lid to keep this shallow methane reservoir in place. Here, we show that more than 5000 at-sea observations of dissolved methane demonstrates that greater than 80% of ESAS bottom waters and greater than 50% of surface waters are supersaturated with methane regarding to the atmosphere. The current atmospheric venting flux, which is composed of a diffusive component and a gradual ebullition component, is on par with previous estimates of methane venting from the entire World Ocean. Leakage of methane through shallow ESAS waters needs to be considered in interactions between the biogeosphere and a warming Arctic climate. ",
+        "Author": "Shakhova, N.\rSemiletov, I.\rSalyuk, A.\rJoussupov, V.\rKosmach, D.\rGustafsson, O.",
+        "DOI": "10.1126/science.1182221",
+        "Issue": "5970",
+        "Journal": "Science",
+        "Pages": "1246-1250",
+        "Title": "Extensive methane venting to the atmosphere from sediments of the East Siberian Arctic Shelf",
+        "Volume": "327",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "2824",
+        "_uuid": "52e2eef0-87f8-45a4-b220-32bcf5ec602f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1182221",
+    "href": "http://data.globalchange.gov/reference/52e2eef0-87f8-45a4-b220-32bcf5ec602f.json",
+    "identifier": "52e2eef0-87f8-45a4-b220-32bcf5ec602f",
+    "uri": "/reference/52e2eef0-87f8-45a4-b220-32bcf5ec602f"
+}

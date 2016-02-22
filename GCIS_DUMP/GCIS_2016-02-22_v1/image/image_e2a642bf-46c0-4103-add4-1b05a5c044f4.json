@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-03-18T11:43:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Hurricanes illustrate the links among precipitation, discharge and nutrient loading to coastal waters. Hurricanes bring intense rainfall to coastal regions, and ensuing runoff leads to blooms of algae. These blooms contribute to dead zone formation after they die and decompose. Photo above shows Pamlico Sound, North Carolina, after Hurricane Floyd. Note light green area off the coast, which is new algae growth. The graph on the left shows a steep drop in salinity of ocean water due to the large influx of freshwater from rain after a series of hurricanes. Red arrows indicate Hurricanes Dennis, Floyd, and Irene, which hit sequentially during the 1999 hurricane season. The graph on the right shows a steep rise in the amount of surface chlorophyll after these hurricanes, largely due to increased algae growth. (Figure source: (top) NASA SeaWiFS; (bottom) Paerl et al. 2003<tbib>5819afc3-b206-4954-bb40-720b27092350</tbib>).",
+            "chapter_identifier": "ecosystems",
+            "create_dt": "2014-03-18T11:43:00",
+            "identifier": "the-aftermath-of-hurricanes",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 2,
+            "report_identifier": "nca3",
+            "source_citation": "(top) NASA SeaWiFS; (bottom) Paerl et al. 2003<tbib>5819afc3-b206-4954-bb40-720b27092350</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "The Aftermath of Hurricanes",
+            "url": "http://nca2014.globalchange.gov/report/sectors/ecosystems/graphics/aftermath-hurricanes",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "5a/f6/808099c479bb2d8c5d97b07b1bcf/eco_hurricane_aftermath_v5_bottom_right.png",
+            "href": "http://data.globalchange.gov/assets/5a/f6/808099c479bb2d8c5d97b07b1bcf/eco_hurricane_aftermath_v5_bottom_right.png",
+            "identifier": "1300f7b6-4cd0-4bc8-b783-b59ef0a557a9",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "0ff6f4842b8f2c590c4f08fc7958614893ed1293",
+            "size": 176132,
+            "thumbnail": "5a/f6/808099c479bb2d8c5d97b07b1bcf/.thumb-1300f7b6-4cd0-4bc8-b783-b59ef0a557a9.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/5a/f6/808099c479bb2d8c5d97b07b1bcf/.thumb-1300f7b6-4cd0-4bc8-b783-b59ef0a557a9.png",
+            "uri": "/file/1300f7b6-4cd0-4bc8-b783-b59ef0a557a9",
+            "url": "/assets/5a/f6/808099c479bb2d8c5d97b07b1bcf/eco_hurricane_aftermath_v5_bottom_right.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/e2a642bf-46c0-4103-add4-1b05a5c044f4.json",
+    "identifier": "e2a642bf-46c0-4103-add4-1b05a5c044f4",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "1998-09-30T23:59:59",
+    "time_start": "1998-09-01T00:00:00",
+    "title": "The Aftermath of Hurricanes - Surface Chlorophyll",
+    "uri": "/image/e2a642bf-46c0-4103-add4-1b05a5c044f4",
+    "url": null,
+    "usage_limits": null
+}

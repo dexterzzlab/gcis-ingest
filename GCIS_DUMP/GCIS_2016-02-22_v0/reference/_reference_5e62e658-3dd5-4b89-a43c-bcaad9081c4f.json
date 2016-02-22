@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Thomson, A.M.\rCalvin, K.V.\rChini, L.P.\rHurtt, G.\rEdmonds, J.A.\rBond-Lamberty, B.\rFrolking, S.\rWise, M.A.\rJanetos, A.C.",
+        "DOI": "10.1073/pnas.0910467107",
+        "ISSN": "0027-8424",
+        "Issue": "46",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Pages": "19633-19638",
+        "Title": "Climate mitigation and the future of tropical landscapes",
+        "URL": "http://www.pnas.org/content/107/46/19633.short",
+        "Volume": "107",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "3051",
+        "_uuid": "5e62e658-3dd5-4b89-a43c-bcaad9081c4f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.0910467107",
+    "href": "http://data.globalchange.gov/reference/5e62e658-3dd5-4b89-a43c-bcaad9081c4f.json",
+    "identifier": "5e62e658-3dd5-4b89-a43c-bcaad9081c4f",
+    "uri": "/reference/5e62e658-3dd5-4b89-a43c-bcaad9081c4f"
+}

@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "32",
+        "Author": "Caltrans Climate Change Workshop,",
+        "Pages": "13",
+        "Place Published": "Sacramento, CA",
+        "Publisher": "California Department of Transportation",
+        "Title": "Guidance on Incorporating Sea-Level Rise: For Use in the Planning and Development of Project Initiation Documents.State government guidance report",
+        "URL": "http://www.dot.ca.gov/ser/downloads/sealevel/guide_incorp_slr.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 5: Transportation FINAL\"]",
+        "_record_number": "815",
+        "_uuid": "ff57bdc7-a07b-4bb2-b320-a0755305605a",
+        "reftype": "Government Document"
+    },
+    "child_publication": "/report/caltrans-slr-2011",
+    "href": "http://data.globalchange.gov/reference/ff57bdc7-a07b-4bb2-b320-a0755305605a.json",
+    "identifier": "ff57bdc7-a07b-4bb2-b320-a0755305605a",
+    "uri": "/reference/ff57bdc7-a07b-4bb2-b320-a0755305605a"
+}

@@ -1,0 +1,86 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2957.json",
+            "id": 2957,
+            "organization": {
+                "country_code": "US",
+                "identifier": "university-alaska",
+                "name": "University of Alaska System",
+                "organization_type_identifier": "academic",
+                "url": "http://www.alaska.edu/alaska/"
+            },
+            "organization_uri": "/organization/university-alaska",
+            "person": {
+                "first_name": "F. Stuart",
+                "id": 885,
+                "last_name": "Chapin III",
+                "middle_name": null,
+                "orcid": "0000-0002-2558-9910",
+                "url": "http://terrychapin.org/"
+            },
+            "person_id": 885,
+            "person_uri": "/person/885",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2957"
+        }
+    ],
+    "create_dt": "2013-11-14T11:47:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Residents in Newtok, Alaska are living with the effects of climate change, with thawing permafrost, tilting\r\n    houses, sinking boardwalks, in conjunction with aging fuel tanks and other infrastructure that cannot be replaced because of\r\n    laws that prevent public investment in flood-prone localities. (Photo credit: F. S. Chapin III).",
+            "chapter_identifier": "alaska",
+            "create_dt": "2013-11-14T11:47:00",
+            "identifier": "newtok-alaska",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 4,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Newtok, Alaska",
+            "url": "http://nca2014.globalchange.gov/report/regions/alaska/graphics/newtok-alaska",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "70/db/01233b3b4a4f6f3b3752818de131/ak_newtok_v3.png",
+            "href": "http://data.globalchange.gov/assets/70/db/01233b3b4a4f6f3b3752818de131/ak_newtok_v3.png",
+            "identifier": "38862b0e-8d46-45aa-bbe9-45e3d7921ce6",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "7b491c7cd5de523dcf004afd0f5dfae216eea8f1",
+            "size": 455044,
+            "thumbnail": "70/db/01233b3b4a4f6f3b3752818de131/.thumb-38862b0e-8d46-45aa-bbe9-45e3d7921ce6.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/70/db/01233b3b4a4f6f3b3752818de131/.thumb-38862b0e-8d46-45aa-bbe9-45e3d7921ce6.png",
+            "uri": "/file/38862b0e-8d46-45aa-bbe9-45e3d7921ce6",
+            "url": "/assets/70/db/01233b3b4a4f6f3b3752818de131/ak_newtok_v3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/a8a397d2-52b5-498c-8ef8-5e959fd72a26.json",
+    "identifier": "a8a397d2-52b5-498c-8ef8-5e959fd72a26",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Newtok, Alaska",
+    "uri": "/image/a8a397d2-52b5-498c-8ef8-5e959fd72a26",
+    "url": null,
+    "usage_limits": null
+}

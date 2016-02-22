@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Renn, O.",
+        "DOI": "10.1002/wcc.99",
+        "ISSN": "1757-7799",
+        "Issue": "2",
+        "Journal": "Wiley Interdisciplinary Reviews: Climate Change",
+        "Pages": "154-169",
+        "Title": "The social amplification/attenuation of risk framework: Application to climate change",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1002/wcc.99/pdf",
+        "Volume": "2",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "2617",
+        "_uuid": "0a9f6e4e-9f5e-430e-bc63-66eef97a143c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/wcc.99",
+    "href": "http://data.globalchange.gov/reference/0a9f6e4e-9f5e-430e-bc63-66eef97a143c.json",
+    "identifier": "0a9f6e4e-9f5e-430e-bc63-66eef97a143c",
+    "uri": "/reference/0a9f6e4e-9f5e-430e-bc63-66eef97a143c"
+}

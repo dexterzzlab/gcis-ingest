@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Warming Signal by Ocean/Depth. Anthropogenic forcing signal strength (green hatched region) compared to that obtained from observations (red dots). There is excellent agreement at most depths in all oceans. The hatched region shows the range of the signal strength estimates from five different realizations of identically forced simulations with the Parallel Climate Model. Credit: D. Pierce, Scripps Institution of Oceanography (reproduced with permission from Science).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "c9/ce/3af7d88b7d8901aa3105b930ab36/our_changing_planet_2007_80_20090708_1440601879.jpg",
+            "href": "http://data.globalchange.gov/assets/c9/ce/3af7d88b7d8901aa3105b930ab36/our_changing_planet_2007_80_20090708_1440601879.jpg",
+            "identifier": "9ac9dd00-579d-44f1-8080-52d426c39e89",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "9221bae0dd3102d6ccebcde614926d7c7f83ac8c",
+            "size": 67089,
+            "thumbnail": "c9/ce/3af7d88b7d8901aa3105b930ab36/.thumb-9ac9dd00-579d-44f1-8080-52d426c39e89.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/c9/ce/3af7d88b7d8901aa3105b930ab36/.thumb-9ac9dd00-579d-44f1-8080-52d426c39e89.png",
+            "uri": "/file/9ac9dd00-579d-44f1-8080-52d426c39e89",
+            "url": "/assets/c9/ce/3af7d88b7d8901aa3105b930ab36/our_changing_planet_2007_80_20090708_1440601879.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/warming-signal-ocean-depth.json",
+    "identifier": "warming-signal-ocean-depth",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Warming Signal by Ocean/Depth",
+    "uri": "/report/ccsp-ocpfy2007/figure/warming-signal-ocean-depth",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

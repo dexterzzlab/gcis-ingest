@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".publisher": "Springer",
+        ".reference_type": "0",
+        "Author": "Wolfe, D.W.\rZiska, L.\rPetzoldt, C.\rSeaman, A.\rChase, L.\rHayhoe, K.",
+        "DOI": "10.1007/s11027-007-9125-2",
+        "ISSN": "1381-2386",
+        "Issue": "5-6",
+        "Journal": "Mitigation and Adaptation Strategies for Global Change",
+        "Pages": "555-575",
+        "Title": "Projected change in climate thresholds in the Northeastern U.S.: Implications for crops, pests, livestock, and farmers",
+        "Volume": "13",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\",\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "3463",
+        "_uuid": "41452674-2b8f-472c-8388-02c670541943",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s11027-007-9125-2",
+    "href": "http://data.globalchange.gov/reference/41452674-2b8f-472c-8388-02c670541943.json",
+    "identifier": "41452674-2b8f-472c-8388-02c670541943",
+    "uri": "/reference/41452674-2b8f-472c-8388-02c670541943"
+}

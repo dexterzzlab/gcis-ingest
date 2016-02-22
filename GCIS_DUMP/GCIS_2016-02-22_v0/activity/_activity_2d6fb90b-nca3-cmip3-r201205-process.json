@@ -1,0 +1,15 @@
+{
+    "computing_environment": "UNIX",
+    "data_usage": "Multi-model mean CMIP3 temperature change (historical and projected) under each emissions scenario (B1, A1B, and A2) was plotted as a time series for the contiguous United States, for 1901-2099 (relative to the 1901-1960 average temperature).",
+    "duration": null,
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/2d6fb90b-nca3-cmip3-r201205-process.json",
+    "identifier": "2d6fb90b-nca3-cmip3-r201205-process",
+    "methodology": "1. The contiguous U.S. annual temperature (using a latitude weighting of grid boxes) was computed for each year for each model listed below, both for the historical and future model runs under each emissions scenario (B1, A1B, and A2).\r\n2. A time series of temperature anomalies was computed for each model by subtracting the 1901-1960 average from the annual temperatures.\r\n3. The multi-model mean contiguous U.S. annual temperature anomaly was computed for each year, and plotted as time series for each scenario.\r\n\r\nThe following models were used for the B1 scenario:\r\nBCCR_BCM2.0, CCSM3, CGCM3.1 (T47), CGCM3.1 (T63), CNRM-CM3, CSIRO-Mk3.0, ECHAM5/MPI-OM, ECHO-G, FGOALS-g1.0, GFDL-CM2.0, GFDL-CM2.1, GISS-AOM, GISS-ER, INM-CM3.0, IPSL-CM4, MIROC3.2 (hires), MIROC3.2 (medres), MRI-CGCM2.3.2, PCM, UKMO-HadCM3.\r\n\r\nThe following models were used for the A1B scenario:\r\nBCCR_BCM2.0, CCSM3, CGCM3.1 (T47), CGCM3.1 (T63), CNRM-CM3, CSIRO-Mk3.0, ECHAM5/MPI-OM, ECHO-G, FGOALS-g1.0, GFDL-CM2.0, GFDL-CM2.1, GISS-AOM, GISS-EH, GISS-ER, INM-CM3.0, IPSL-CM4, MIROC3.2 (hires), MIROC3.2 (medres), MRI-CGCM2.3.2, PCM, UKMO-HadCM3, and UKMO-HadGEM1.\r\n\r\nThe following models were used for the A2 scenario:\r\nCCSM3, CGCM3.1 (T47), CNRM-CM3, CSIRO-Mk3.0, ECHAM5/MPI-OM, ECHO-G, GFDL-CM2.0, GFDL-CM2.1, INM-CM3.0, IPSL-CM4, MIROC3.2 (medres), MRI-CGCM2.3.2, PCM, UKMO-HadCM3, and UKMO-HadGEM1.",
+    "notes": "Python",
+    "output_artifacts": "Custom python codes written by Michael Wehner\r\nCAQ_average annual temp_conus_original_v2.png\r\nCAQ_average annual temp_conus_V5.png\r\ngraph.png\r\nAPP_Projected Annually-Averaged Temperature Change_V3.png",
+    "software": "Python",
+    "start_time": null,
+    "uri": "/activity/2d6fb90b-nca3-cmip3-r201205-process",
+    "visualization_software": "Python (XMGRACE)"
+}

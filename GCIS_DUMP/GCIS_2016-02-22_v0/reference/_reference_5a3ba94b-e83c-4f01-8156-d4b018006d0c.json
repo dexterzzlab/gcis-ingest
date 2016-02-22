@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Akinbami, Lara J.\rMoorman, Jeanne E.\rBailey, Cathy\rZahran, Hatice S.\rKing, Michael\rJohnson, Carol A.\rLiu, Xiang",
+        "Institution": "National Center for Health Statistics",
+        "Place Published": "Hyattsville, MD",
+        "Series Title": "NCHS Data Brief",
+        "Title": "Trends in Asthma Prevalence, Health Care Use, and Mortality in the United States, 2001\u20132010. NCHS Data Brief. No. 94, May 2012",
+        "URL": "http://www.cdc.gov/nchs/data/databriefs/db94.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "4679",
+        "_uuid": "5a3ba94b-e83c-4f01-8156-d4b018006d0c",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/cdc-asthmatrends-2012",
+    "href": "http://data.globalchange.gov/reference/5a3ba94b-e83c-4f01-8156-d4b018006d0c.json",
+    "identifier": "5a3ba94b-e83c-4f01-8156-d4b018006d0c",
+    "uri": "/reference/5a3ba94b-e83c-4f01-8156-d4b018006d0c"
+}

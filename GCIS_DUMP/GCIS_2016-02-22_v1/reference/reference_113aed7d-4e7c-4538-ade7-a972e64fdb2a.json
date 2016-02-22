@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "USDA,",
+        "Institution": "U.S. Department of Agriculture, National Agricultural Statistics Service",
+        "Pages": "96",
+        "Place Published": "Washington, D.C.",
+        "Title": "Crop Production 2012 Summary",
+        "URL": "http://usda01.library.cornell.edu/usda/nass/CropProdSu//2010s/2013/CropProdSu-01-11-2013.pdf",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "2142",
+        "_uuid": "113aed7d-4e7c-4538-ade7-a972e64fdb2a",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usda-crop2012",
+    "href": "http://data.globalchange.gov/reference/113aed7d-4e7c-4538-ade7-a972e64fdb2a.json",
+    "identifier": "113aed7d-4e7c-4538-ade7-a972e64fdb2a",
+    "uri": "/reference/113aed7d-4e7c-4538-ade7-a972e64fdb2a"
+}

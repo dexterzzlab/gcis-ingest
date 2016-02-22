@@ -1,0 +1,105 @@
+{
+    "attributes": null,
+    "caption": "A comparison of observed (left) and simulated (right; single model realizations) hurricane tracks around North America between 1981 and 2008 (the horizontal and vertical axes show longitude and latitude, respectively). Tropical cyclones are challenging to simulate, but these CMIP5 results demonstrate promise that such storms can be effectively represented in models. (Source: Adapted from Sheffield et al., 2013, J. Climate)",
+    "chapter": {
+        "doi": null,
+        "identifier": "federal-investments-global-change-research",
+        "number": 3,
+        "report_identifier": "usgcrp-ocpfy2014",
+        "sort_key": 30,
+        "title": "Federal Investments In Global Change Research",
+        "url": null
+    },
+    "chapter_identifier": "federal-investments-global-change-research",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/4225.json",
+            "id": 4225,
+            "organization": {
+                "country_code": "US",
+                "identifier": "princeton-university",
+                "name": "Princeton University",
+                "organization_type_identifier": "academic",
+                "url": "http://www.princeton.edu"
+            },
+            "organization_uri": "/organization/princeton-university",
+            "person": {
+                "first_name": "Justin",
+                "id": 2408,
+                "last_name": "Sheffield",
+                "middle_name": null,
+                "orcid": null,
+                "url": "http://www.princeton.edu/cee/people/display_person/?netid=justin"
+            },
+            "person_id": 2408,
+            "person_uri": "/person/2408",
+            "role_type_identifier": "lead_author",
+            "uri": "/contributor/4225"
+        }
+    ],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "94/8b/8d9172a423b56ad49eb8d39a8c04/Box_8_CMIP5_Storm_Tracks_Highest_Possible_Res_1.png",
+            "href": "http://data.globalchange.gov/assets/94/8b/8d9172a423b56ad49eb8d39a8c04/Box_8_CMIP5_Storm_Tracks_Highest_Possible_Res_1.png",
+            "identifier": "e671176d-da40-42c1-b4bf-6ddc5169519e",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "3f711884d555032cbd5a937b91a03a5c38a88331",
+            "size": 482529,
+            "thumbnail": "94/8b/8d9172a423b56ad49eb8d39a8c04/.thumb-e671176d-da40-42c1-b4bf-6ddc5169519e.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/94/8b/8d9172a423b56ad49eb8d39a8c04/.thumb-e671176d-da40-42c1-b4bf-6ddc5169519e.png",
+            "uri": "/file/e671176d-da40-42c1-b4bf-6ddc5169519e",
+            "url": "/assets/94/8b/8d9172a423b56ad49eb8d39a8c04/Box_8_CMIP5_Storm_Tracks_Highest_Possible_Res_1.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2014/chapter/federal-investments-global-change-research/figure/simulating-hurricane-tracks.json",
+    "identifier": "simulating-hurricane-tracks",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": null,
+            "description": null,
+            "identifier": "50c289c6-2e33-4870-9767-2a7e9632d0dc",
+            "lat_max": "50",
+            "lat_min": "0",
+            "lon_max": "0",
+            "lon_min": "-180",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "1981-12-31T23:59:00",
+            "time_start": "1981-01-01T00:00:00",
+            "title": "Simulating Hurricane Tracks",
+            "url": null,
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source. "
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": "50",
+    "lat_min": "0",
+    "lon_max": "0",
+    "lon_min": "-180",
+    "ordinal": 7,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "North American Climate in CMIP5 Experiments. Part II: Evaluation of Historical Simulations of Intraseasonal to Decadal Variability",
+            "note": "",
+            "publication_type_identifier": "article",
+            "relationship": "cito:cites",
+            "url": "/article/10.1175/JCLI-D-12-00593.1"
+        }
+    ],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2014",
+    "source_citation": "Sheffield, J., et al., 2013. North American Climate in CMIP5 Experiments. Part II: Evaluation of Historical Simulations of Intraseasonal to Decadal Variability. Journal of Climate, 26, 9261, doi: 10.1175/JCLI-D-12-00593.1 (Image was cropped from Sheffield, 2013 by USGCRP NCO in 2014)",
+    "submission_dt": null,
+    "time_end": "1981-12-31T23:59:00",
+    "time_start": "1981-01-01T00:00:00",
+    "title": "Simulating Hurricane Tracks",
+    "uri": "/report/usgcrp-ocpfy2014/chapter/federal-investments-global-change-research/figure/simulating-hurricane-tracks",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source. "
+}

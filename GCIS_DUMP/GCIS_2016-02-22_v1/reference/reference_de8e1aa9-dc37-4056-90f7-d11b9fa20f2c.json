@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Ahern, M.\rKovats, R.S.\rWilkinson, P.\rFew, R.\rMatthies, F.",
+        "DOI": "10.1093/epirev/mxi004",
+        "ISSN": "1478-6729",
+        "Issue": "1",
+        "Journal": "Epidemiologic Reviews",
+        "Pages": "36-46",
+        "Title": "Global health impacts of floods: Epidemiologic evidence",
+        "Volume": "27",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "776",
+        "_uuid": "de8e1aa9-dc37-4056-90f7-d11b9fa20f2c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1093/epirev/mxi004",
+    "href": "http://data.globalchange.gov/reference/de8e1aa9-dc37-4056-90f7-d11b9fa20f2c.json",
+    "identifier": "de8e1aa9-dc37-4056-90f7-d11b9fa20f2c",
+    "uri": "/reference/de8e1aa9-dc37-4056-90f7-d11b9fa20f2c"
+}

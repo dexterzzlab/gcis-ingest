@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "This figure shows habitat areas identified in the northeastern United States using various satellite image data products and the distance from roads and developed areas. The colors correspond to the connectedness of the core habitat areas, where yellows indicate low habitat connectivity and blues indicate high connectivity. A \u201ccost surface\u201d is shown in the background, with lighter shades of gray indicating more permeability of the landscape to animal migration. The high values running through the center of the region indicate a high density of connectivity between high-value habitat areas along the Appalachian Mountain chain. Credit: S.J. Goetz, P. Jantz, and C.A. Jantz, Woods Hole Research Center (reproduced from Remote Sensing of Environment with permission from Elsevier).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "1b/89/42c10e5d7edb5dad2ecf2e851ad7/our_changing_planet_2010_image__7_20091209_1971064332.jpg",
+            "href": "http://data.globalchange.gov/assets/1b/89/42c10e5d7edb5dad2ecf2e851ad7/our_changing_planet_2010_image__7_20091209_1971064332.jpg",
+            "identifier": "f9269cd2-ca73-42c4-a2a6-e636bdc19a80",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "39ad307074f458e002e7391c735b4e706f3c0d84",
+            "size": 663493,
+            "thumbnail": "1b/89/42c10e5d7edb5dad2ecf2e851ad7/.thumb-f9269cd2-ca73-42c4-a2a6-e636bdc19a80.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/1b/89/42c10e5d7edb5dad2ecf2e851ad7/.thumb-f9269cd2-ca73-42c4-a2a6-e636bdc19a80.png",
+            "uri": "/file/f9269cd2-ca73-42c4-a2a6-e636bdc19a80",
+            "url": "/assets/1b/89/42c10e5d7edb5dad2ecf2e851ad7/our_changing_planet_2010_image__7_20091209_1971064332.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2010/figure/climate-induced-changes-in-animal-migration.json",
+    "identifier": "climate-induced-changes-in-animal-migration",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2010",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Climate-Induced Changes in Animal Migration",
+    "uri": "/report/usgcrp-ocpfy2010/figure/climate-induced-changes-in-animal-migration",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

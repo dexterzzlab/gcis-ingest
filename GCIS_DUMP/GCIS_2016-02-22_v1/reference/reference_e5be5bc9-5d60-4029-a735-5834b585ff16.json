@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "FAO,",
+        "Date": "December",
+        "ISBN": "9251060495 ",
+        "Number of Pages": "56",
+        "Place Published": "Rome, Italy",
+        "Publisher": "Food and Agriculture Organization of the United Nations",
+        "Reviewer": "e5be5bc9-5d60-4029-a735-5834b585ff16",
+        "Title": "The State of Food Insecurity in the World, 2008: High Food Prices and Food Security Threats and Opportunities",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "1597",
+        "_uuid": "e5be5bc9-5d60-4029-a735-5834b585ff16",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/fao-state-2008",
+    "href": "http://data.globalchange.gov/reference/e5be5bc9-5d60-4029-a735-5834b585ff16.json",
+    "identifier": "e5be5bc9-5d60-4029-a735-5834b585ff16",
+    "uri": "/reference/e5be5bc9-5d60-4029-a735-5834b585ff16"
+}

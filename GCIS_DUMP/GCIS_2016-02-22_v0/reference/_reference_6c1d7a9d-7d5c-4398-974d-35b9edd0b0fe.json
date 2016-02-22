@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Alva, A.K.\rHodges, T.\rBoydston, R.A.\rCollins, H.P.",
+        "DOI": "10.1081/CSS-120004293",
+        "ISSN": "0010-3624",
+        "Issue": "9-10",
+        "Journal": "Communications in Soil Science and Plant Analysis",
+        "Pages": "1451-1460",
+        "Title": "Effects of irrigation and tillage practices on yield of potato under high production conditions in the Pacific Northwest",
+        "Volume": "33",
+        "Year": "2002",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "606",
+        "_uuid": "6c1d7a9d-7d5c-4398-974d-35b9edd0b0fe",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1081/CSS-120004293",
+    "href": "http://data.globalchange.gov/reference/6c1d7a9d-7d5c-4398-974d-35b9edd0b0fe.json",
+    "identifier": "6c1d7a9d-7d5c-4398-974d-35b9edd0b0fe",
+    "uri": "/reference/6c1d7a9d-7d5c-4398-974d-35b9edd0b0fe"
+}

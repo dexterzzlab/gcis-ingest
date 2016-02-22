@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Lofgren, Brent M.\rHunter, Timothy S.\rWilbarger, Jessica",
+        "DOI": "10.1016/j.jglr.2011.09.006",
+        "ISSN": "03801330",
+        "Issue": "4",
+        "Journal": "Journal of Great Lakes Research",
+        "Keywords": "Climate change",
+        "Pages": "744-752",
+        "Title": "Effects of using air temperature as a proxy for potential evapotranspiration in climate change scenarios of Great Lakes basin hydrology",
+        "Volume": "37",
+        "Year": "2011",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\",\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "617",
+        "_uuid": "ce73c556-914c-4bd1-b23c-98cea28fcfbd",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.jglr.2011.09.006",
+    "href": "http://data.globalchange.gov/reference/ce73c556-914c-4bd1-b23c-98cea28fcfbd.json",
+    "identifier": "ce73c556-914c-4bd1-b23c-98cea28fcfbd",
+    "uri": "/reference/ce73c556-914c-4bd1-b23c-98cea28fcfbd"
+}

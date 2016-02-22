@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Surface warming (relative to 1980\u20131999) from the WCRP multi-model data set for the scenarios of high, medium, and low emissions (A2, A1B, and B1, respectively), shown as continuations of the 20th century simulations that included combinations of natural and anthropogenic forcings. Values beyond 2100 are for idealized stabilization where greenhouse gas concentrations were held fixed at year 2100 values and the models were run to the year 2300 to assess climate change commitment. Similarly, the \u201cconstant composition commitment\u201d experiment is for idealized stabilization of all greenhouse gas concentrations at year 2000 values, with the model calculations projected through the year 2100. Lines show the multi-model means; shading denotes the \u00b11 standard deviation range of individual model annual means. Discontinuities between different periods have no physical meaning and are caused by the fact that the number of models that have run a given scenario is different for each period and scenario, as indicated by the colored numbers given for each period and scenario at the bottom of the panel. Credit: G.A. Meehl, NCAR (reproduced from the Bulletin of the American Meteorological Society with permission from the American Meteorological Society).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "81/d1/7b764ccbd76fe4ee2504d6431942/Figure_1.png",
+            "href": "http://data.globalchange.gov/assets/81/d1/7b764ccbd76fe4ee2504d6431942/Figure_1.png",
+            "identifier": "d74ccbd7-eefd-4377-b907-ff8f1b42bf47",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "b450942a3171b129c51f52ff82df712f58602bfb",
+            "size": 95297,
+            "thumbnail": "81/d1/7b764ccbd76fe4ee2504d6431942/.thumb-d74ccbd7-eefd-4377-b907-ff8f1b42bf47.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/81/d1/7b764ccbd76fe4ee2504d6431942/.thumb-d74ccbd7-eefd-4377-b907-ff8f1b42bf47.png",
+            "uri": "/file/d74ccbd7-eefd-4377-b907-ff8f1b42bf47",
+            "url": "/assets/81/d1/7b764ccbd76fe4ee2504d6431942/Figure_1.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2009/figure/surface-warming-1980-1999.json",
+    "identifier": "surface-warming-1980-1999",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2009",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Surface Warming (Relative to 1980-1999)",
+    "uri": "/report/usgcrp-ocpfy2009/figure/surface-warming-1980-1999",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Page, L.A.\rHajat, S.\rKovats, R.S.",
+        "DOI": "10.1192/bjp.bp.106.031948",
+        "ISSN": "0007-1250",
+        "Issue": "2",
+        "Journal": "The British Journal of Psychiatry",
+        "Pages": "106-112",
+        "Title": "Relationship between daily suicide counts and temperature in England and Wales",
+        "URL": "http://bjp.rcpsych.org/content/191/2/106.full.pdf+html",
+        "Volume": "191",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "2401",
+        "_uuid": "bf16e763-fb16-45db-bdb9-e533ccb2bdac",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1192/bjp.bp.106.031948",
+    "href": "http://data.globalchange.gov/reference/bf16e763-fb16-45db-bdb9-e533ccb2bdac.json",
+    "identifier": "bf16e763-fb16-45db-bdb9-e533ccb2bdac",
+    "uri": "/reference/bf16e763-fb16-45db-bdb9-e533ccb2bdac"
+}

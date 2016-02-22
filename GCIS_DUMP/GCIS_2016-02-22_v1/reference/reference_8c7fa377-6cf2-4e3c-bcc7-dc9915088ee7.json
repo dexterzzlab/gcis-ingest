@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"39\" /><run start=\"40\" /></field></record>",
+        "Author": "RGGI,",
+        "Pages": "40",
+        "Place Published": "Potomac Economics",
+        "Series Title": "Fairfax, VA",
+        "Title": "Annual Report on the Market for RGGI CO2 Allowances: 2011",
+        "URL": "www.rggi.org/docs/MM_2011_Annual_Report.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "2625",
+        "_uuid": "8c7fa377-6cf2-4e3c-bcc7-dc9915088ee7",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/rggi-ar-2012",
+    "href": "http://data.globalchange.gov/reference/8c7fa377-6cf2-4e3c-bcc7-dc9915088ee7.json",
+    "identifier": "8c7fa377-6cf2-4e3c-bcc7-dc9915088ee7",
+    "uri": "/reference/8c7fa377-6cf2-4e3c-bcc7-dc9915088ee7"
+}

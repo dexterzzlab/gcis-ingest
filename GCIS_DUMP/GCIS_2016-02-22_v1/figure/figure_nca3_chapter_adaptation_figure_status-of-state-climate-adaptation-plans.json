@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "Status of State Climate Adaptation Plans. (Figure source:  redrawn from C2ES 2013<tbib>8543cec9-99b4-4418-ab11-90d5f7199b1b</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J07H1GGT",
+        "identifier": "adaptation",
+        "number": 28,
+        "report_identifier": "nca3",
+        "sort_key": 280,
+        "title": "Adaptation",
+        "url": "http://nca2014.globalchange.gov/report/response-strategies/adaptation"
+    },
+    "chapter_identifier": "adaptation",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-08-07T11:26:00",
+    "files": [
+        {
+            "file": "34/e1/aca5e4c4a996b6010860a46d3eb1/ADAPT_climate_adaptation_plans_13902_v3.png",
+            "href": "http://data.globalchange.gov/assets/34/e1/aca5e4c4a996b6010860a46d3eb1/ADAPT_climate_adaptation_plans_13902_v3.png",
+            "identifier": "298cd882-64cf-4321-8d73-b8d57e6b08b4",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "23dc4c2ed2c0fde58bbf2d8849fe856449f4add2",
+            "size": 213082,
+            "thumbnail": "34/e1/aca5e4c4a996b6010860a46d3eb1/.thumb-298cd882-64cf-4321-8d73-b8d57e6b08b4.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/34/e1/aca5e4c4a996b6010860a46d3eb1/.thumb-298cd882-64cf-4321-8d73-b8d57e6b08b4.png",
+            "uri": "/file/298cd882-64cf-4321-8d73-b8d57e6b08b4",
+            "url": "/assets/34/e1/aca5e4c4a996b6010860a46d3eb1/ADAPT_climate_adaptation_plans_13902_v3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/adaptation/figure/status-of-state-climate-adaptation-plans.json",
+    "identifier": "status-of-state-climate-adaptation-plans",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-08-07T11:26:00",
+            "description": null,
+            "identifier": "7b8055e6-2020-4771-ad21-74b2551aabb9",
+            "lat_max": "49.38",
+            "lat_min": "24.50",
+            "lon_max": "-66.95",
+            "lon_min": "-124.80",
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Status of State Climate Adaptation Plans",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 1,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "webpage State Adaptation Plans, Volume 2012 ",
+            "note": null,
+            "publication_type_identifier": "webpage",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/webpage/7de6bfc9-55fa-4d12-ae80-486561b3802c"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/8543cec9-99b4-4418-ab11-90d5f7199b1b.json",
+            "uri": "/reference/8543cec9-99b4-4418-ab11-90d5f7199b1b"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "redrawn from C2ES 2012",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Status of State Climate Adaptation Plans. .",
+    "uri": "/report/nca3/chapter/adaptation/figure/status-of-state-climate-adaptation-plans",
+    "url": "http://nca2014.globalchange.gov/report/response-strategies/adaptation/graphics/status-state-climate-adaptation-plans",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

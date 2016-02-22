@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Streit, Judy A\rYang, Ming\rCavanaugh, Joseph E\rPolgreen, Philip M",
+        "DOI": "10.3201/eid1705.101023",
+        "Issue": "5",
+        "Journal": "Emerging Infectious Diseases",
+        "Pages": "914",
+        "Title": "Upward trend in dengue incidence among hospitalized patients, United States",
+        "Volume": "17",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "4225",
+        "_uuid": "795f9f64-ea59-4e37-a98b-32dfae3244e0",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.3201/eid1705.101023",
+    "href": "http://data.globalchange.gov/reference/795f9f64-ea59-4e37-a98b-32dfae3244e0.json",
+    "identifier": "795f9f64-ea59-4e37-a98b-32dfae3244e0",
+    "uri": "/reference/795f9f64-ea59-4e37-a98b-32dfae3244e0"
+}

@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/wapa-windhydropower-2009.json",
+    "identifier": "wapa-windhydropower-2009",
+    "in_library": null,
+    "publication_year": 2009,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Wind and Hydropower Feasibility Study, Final Report. For Section 2606 of the Energy Policy Act of 1992, as amended by Section 503(a) of the Energy Policy Act of 2005.",
+    "topic": null,
+    "uri": "/report/wapa-windhydropower-2009",
+    "url": "https://www.wapa.gov/ugp/powermarketing/WindHydro/Final%20WHFS%20Ver%20Mar-2010%205b.pdf"
+}

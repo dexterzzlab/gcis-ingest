@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Access Date": "July 2, 2012",
+        "Author": "Reclamation,",
+        "Institution": "U.S. Department of the Interior, U.S. Bureau of Reclamation",
+        "Pages": "226",
+        "Place Published": "Denver, CO",
+        "Series Editor": "Alexander, Patty\rBrekke, Levi\rDavis, Gary\rGangopadhyay, Subhrendu\rGrantz, Katrina\rHennig, Charles\rJerla, Carly\rLlewellyn, Dagmar\rMiller, Paul\rPruitt, Tom\r Raff, David\rScott, Tom\rTansey, Michael\rTurner, Toni",
+        "Title": "Reclamation Managing Water in the West. SECURE Water Act Section 9503(c) - Reclamation Climate Change and Water 2011",
+        "URL": "http://www.usbr.gov/climate/SECURE/docs/SECUREWaterReport.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"Ch. 11: Urban Systems FINAL\",\"Ch. 28: Adaptation FINAL\",\"Ch. 3: Water Resources FINAL\",\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "1389",
+        "_uuid": "67b69161-5101-418a-a6c9-1b6a80773305",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usbr-secure-2011",
+    "href": "http://data.globalchange.gov/reference/67b69161-5101-418a-a6c9-1b6a80773305.json",
+    "identifier": "67b69161-5101-418a-a6c9-1b6a80773305",
+    "uri": "/reference/67b69161-5101-418a-a6c9-1b6a80773305"
+}

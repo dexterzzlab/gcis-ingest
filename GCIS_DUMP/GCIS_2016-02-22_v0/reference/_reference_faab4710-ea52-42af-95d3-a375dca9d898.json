@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Hesse, K.\rZerbetz, E.",
+        "ISBN": "978-1416903277",
+        "Number of Pages": "160",
+        "Publisher": "Perfection Learning Corporation",
+        "Reviewer": "faab4710-ea52-42af-95d3-a375dca9d898",
+        "Title": "Aleutian Sparrow",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\"]",
+        "_record_number": "3918",
+        "_uuid": "faab4710-ea52-42af-95d3-a375dca9d898",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/88d29fd5-0d12-4a80-b341-875fbf28398d",
+    "href": "http://data.globalchange.gov/reference/faab4710-ea52-42af-95d3-a375dca9d898.json",
+    "identifier": "faab4710-ea52-42af-95d3-a375dca9d898",
+    "uri": "/reference/faab4710-ea52-42af-95d3-a375dca9d898"
+}

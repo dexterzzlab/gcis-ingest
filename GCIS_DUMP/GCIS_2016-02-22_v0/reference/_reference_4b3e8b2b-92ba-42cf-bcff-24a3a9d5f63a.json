@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Accession Number": "ISI:000277410800039",
+        "Author": "Bradley, B. A.\rWilcove, D. S.\rOppenheimer, M.",
+        "DOI": "10.1007/s10530-009-9597-y",
+        "Date": "June",
+        "ISSN": "1387-3547",
+        "Issue": "6",
+        "Journal": "Biological Invasions",
+        "Pages": "1855-1872",
+        "Title": "Climate change increases risk of plant invasion in the Eastern United States",
+        "URL": "http://europepmc.org/abstract/AGR/IND44367832/reload=0;jsessionid=geMUvZpMPs0zzRUz8D6h.2",
+        "Volume": "12",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\",\"Ch. 8: Ecosystems FINAL\",\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "319",
+        "_uuid": "4b3e8b2b-92ba-42cf-bcff-24a3a9d5f63a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10530-009-9597-y",
+    "href": "http://data.globalchange.gov/reference/4b3e8b2b-92ba-42cf-bcff-24a3a9d5f63a.json",
+    "identifier": "4b3e8b2b-92ba-42cf-bcff-24a3a9d5f63a",
+    "uri": "/reference/4b3e8b2b-92ba-42cf-bcff-24a3a9d5f63a"
+}

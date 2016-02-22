@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Laxon, Seymour W.\rGiles, Katharine A.\rRidout, Andy L.\rWingham, Duncan J.\rWillatt, Rosemary\rCullen, Robert\rKwok, Ron\rSchweiger, Axel\rZhang, Jinlun\rHaas, Christian\rHendricks, Stefan\rKrishfield, Richard\rKurtz, Nathan\rFarrell, Sinead\rDavidson, Malcolm",
+        "DOI": "10.1002/grl.50193",
+        "ISSN": "1944-8007",
+        "Issue": "4",
+        "Journal": "Geophysical Research Letters",
+        "Keywords": "Sea Ice\rVolume\rCryoSat\rAltimetry\r0750 Sea ice\r1240 Satellite geodesy: results\r1621 Cryospheric change",
+        "Pages": "732-737",
+        "Title": "CryoSat-2 estimates of Arctic sea ice thickness and volume",
+        "Volume": "40",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "4366",
+        "_uuid": "9711729f-6cbd-466e-bd66-6a9d955d0a13",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/grl.50193",
+    "href": "http://data.globalchange.gov/reference/9711729f-6cbd-466e-bd66-6a9d955d0a13.json",
+    "identifier": "9711729f-6cbd-466e-bd66-6a9d955d0a13",
+    "uri": "/reference/9711729f-6cbd-466e-bd66-6a9d955d0a13"
+}

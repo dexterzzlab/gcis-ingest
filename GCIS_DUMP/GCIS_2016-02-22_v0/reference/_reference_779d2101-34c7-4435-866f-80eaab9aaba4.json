@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Long-term data from the Hubbard Brook Experimental Forest, New Hampshire, suggest that although changes in stream pH have been relatively small, large quantities of calcium and magnesium have been lost from the soil complex and exported by drainage water because of inputs of acid rain and declines in atmospheric deposition of base cations. As a result, the recovery of soil and streamwater chemistry in response to any decreases in acid deposition will be delayed significantly.",
+        "Author": "Likens, G. E.\rDriscoll, C. T.\rBuso, D. C.",
+        "DOI": "10.1126/science.272.5259.244",
+        "Date": "April 12, 1996",
+        "Issue": "5259",
+        "Journal": "Science",
+        "Pages": "244-246",
+        "Title": "Long-term effects of acid rain: Response and recovery of a forest ecosystem",
+        "Volume": "272",
+        "Year": "1996",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "4413",
+        "_uuid": "779d2101-34c7-4435-866f-80eaab9aaba4",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.272.5259.244",
+    "href": "http://data.globalchange.gov/reference/779d2101-34c7-4435-866f-80eaab9aaba4.json",
+    "identifier": "779d2101-34c7-4435-866f-80eaab9aaba4",
+    "uri": "/reference/779d2101-34c7-4435-866f-80eaab9aaba4"
+}

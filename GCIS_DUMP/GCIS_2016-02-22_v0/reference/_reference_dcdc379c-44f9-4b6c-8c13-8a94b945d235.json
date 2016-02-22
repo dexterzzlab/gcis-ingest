@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Hammond, J.S.\rKeeney, R.L.\rRaiffa, H.",
+        "ISBN": "0767908864",
+        "Number of Pages": "256",
+        "Publisher": "Broadway",
+        "Reviewer": "dcdc379c-44f9-4b6c-8c13-8a94b945d235",
+        "Title": "Smart Choices: a Practical Guide to Making Better Life Decisions",
+        "Year": "2002",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "1546",
+        "_uuid": "dcdc379c-44f9-4b6c-8c13-8a94b945d235",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/a5aa7235-55bb-468c-9fa5-0a878ce77bbc",
+    "href": "http://data.globalchange.gov/reference/dcdc379c-44f9-4b6c-8c13-8a94b945d235.json",
+    "identifier": "dcdc379c-44f9-4b6c-8c13-8a94b945d235",
+    "uri": "/reference/dcdc379c-44f9-4b6c-8c13-8a94b945d235"
+}

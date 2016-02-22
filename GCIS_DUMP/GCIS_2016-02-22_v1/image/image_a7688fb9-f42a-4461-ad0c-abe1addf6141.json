@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-10T13:49:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "The spatial extent of Arctic sea ice cover in September has decreased substantially in the past two decades, as shown in this pair of satellite images depicting sea ice concentrations. The reduction of September sea ice extent from 1992 (left) to 2012 (right) has been nearly 50%, or about 1.2 million square miles (3 million square kilometers), which is nearly one-third the area of the contiguous United States. (Figure source: University of Illinois, The Cryosphere Today<tbib>9cb10eed-73cb-4531-85bd-0331f3a16f33</tbib>; Data from the National Snow and Ice Data Center).",
+            "chapter_identifier": "appendix-climate-science-supplement",
+            "create_dt": "2013-11-10T13:49:00",
+            "identifier": "arctic-sea-ice-decline",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 37,
+            "report_identifier": "nca3",
+            "source_citation": "University of Illinois, The Cryosphere Today<tbib>9cb10eed-73cb-4531-85bd-0331f3a16f33</tbib>; Data from the National Snow and Ice Data Center",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Arctic Sea Ice Decline",
+            "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/arctic-sea-ice-decline",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "cd/85/17120f2e5cebd087716391519aa5/app_arctic_sea_ice_v6_left.png",
+            "href": "http://data.globalchange.gov/assets/cd/85/17120f2e5cebd087716391519aa5/app_arctic_sea_ice_v6_left.png",
+            "identifier": "3651ce32-9718-4f99-8ff2-e6a11a697c41",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "2befff86e7a457db1a201e341f9e0a5291e1d0e9",
+            "size": 335671,
+            "thumbnail": "cd/85/17120f2e5cebd087716391519aa5/.thumb-3651ce32-9718-4f99-8ff2-e6a11a697c41.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/cd/85/17120f2e5cebd087716391519aa5/.thumb-3651ce32-9718-4f99-8ff2-e6a11a697c41.png",
+            "uri": "/file/3651ce32-9718-4f99-8ff2-e6a11a697c41",
+            "url": "/assets/cd/85/17120f2e5cebd087716391519aa5/app_arctic_sea_ice_v6_left.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/a7688fb9-f42a-4461-ad0c-abe1addf6141.json",
+    "identifier": "a7688fb9-f42a-4461-ad0c-abe1addf6141",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "1992-09-12T23:59:59",
+    "time_start": "1992-09-12T00:00:00",
+    "title": "Arctic Sea Ice Decline - 09/12/1992",
+    "uri": "/image/a7688fb9-f42a-4461-ad0c-abe1addf6141",
+    "url": null,
+    "usage_limits": null
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "EIA,",
+        "Date": "August 2009",
+        "Institution": "U.S. Energy Information Administration",
+        "Pages": "82",
+        "Place Published": "Washington, D.C.",
+        "Title": "Energy Market and Economic Impacts of H.R. 2454, the American Clean Energy and Security Act of 2009",
+        "URL": "http://www.eia.gov/oiaf/servicerpt/hr2454/pdf/sroiaf%282009%2905.pdf",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "4083",
+        "_uuid": "ad6145fe-b636-4cff-8d11-a295be429e61",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/doe-sr-oiaf-2009-05",
+    "href": "http://data.globalchange.gov/reference/ad6145fe-b636-4cff-8d11-a295be429e61.json",
+    "identifier": "ad6145fe-b636-4cff-8d11-a295be429e61",
+    "uri": "/reference/ad6145fe-b636-4cff-8d11-a295be429e61"
+}

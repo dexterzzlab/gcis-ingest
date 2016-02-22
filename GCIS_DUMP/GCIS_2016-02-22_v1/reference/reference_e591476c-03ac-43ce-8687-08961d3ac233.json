@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".publisher": "American Meteorological Society",
+        ".reference_type": "0",
+        "Access Date": "2014/02/25",
+        "Author": "Bieniek, Peter A.\rWalsh, John E.\rThoman, Richard L.\rBhatt, Uma S.",
+        "DOI": "10.1175/JCLI-D-13-00342.1",
+        "ISSN": "0894-8755",
+        "Journal": "Journal of Climate",
+        "Title": "Using climate divisions to analyze variations and trends in Alaska temperature and precipitation",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/JCLI-D-13-00342.1",
+        "Volume": "in press",
+        "Year": "2014",
+        "_chapter": "[\"RG 7 Alaska\",\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "4689",
+        "_uuid": "e591476c-03ac-43ce-8687-08961d3ac233",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/JCLI-D-13-00342.1",
+    "href": "http://data.globalchange.gov/reference/e591476c-03ac-43ce-8687-08961d3ac233.json",
+    "identifier": "e591476c-03ac-43ce-8687-08961d3ac233",
+    "uri": "/reference/e591476c-03ac-43ce-8687-08961d3ac233"
+}

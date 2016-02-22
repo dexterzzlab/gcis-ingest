@@ -1,0 +1,52 @@
+{
+    "attributes": null,
+    "caption": "The greenness of croplands in January is shown above relative to the 13-year average from NASA MODIS records. Satellite imagery can be a powerful tool for understanding the impacts of drought on agricultural lands.",
+    "chapter": {
+        "doi": null,
+        "identifier": "crosscutting-priorities-serve-science-society",
+        "number": 3,
+        "report_identifier": "usgcrp-ocpfy2016",
+        "sort_key": 30,
+        "title": "Crosscutting Priorities to Serve Science and Society ",
+        "url": null
+    },
+    "chapter_identifier": "crosscutting-priorities-serve-science-society",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "3b/ae/116dc4dafb5a16b383adc6e6d68f/HL36_fallowed-land-greenness-satellite-MODIS.png",
+            "href": "http://data.globalchange.gov/assets/3b/ae/116dc4dafb5a16b383adc6e6d68f/HL36_fallowed-land-greenness-satellite-MODIS.png",
+            "identifier": "1b18df01-2bcc-49ee-b827-6e00d3b53cd0",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "fe4c42dab5efa444aec13e897639c906816c5ebd",
+            "size": 1172068,
+            "thumbnail": "3b/ae/116dc4dafb5a16b383adc6e6d68f/.thumb-1b18df01-2bcc-49ee-b827-6e00d3b53cd0.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/3b/ae/116dc4dafb5a16b383adc6e6d68f/.thumb-1b18df01-2bcc-49ee-b827-6e00d3b53cd0.png",
+            "uri": "/file/1b18df01-2bcc-49ee-b827-6e00d3b53cd0",
+            "url": "/assets/3b/ae/116dc4dafb5a16b383adc6e6d68f/HL36_fallowed-land-greenness-satellite-MODIS.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2016/chapter/crosscutting-priorities-serve-science-society/figure/satellite-measurements-cropland-greenness.json",
+    "identifier": "satellite-measurements-cropland-greenness",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 24,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2016",
+    "source_citation": "Verdin, J., et al., 2014. Following Fallowed Land. Dry Times: National Integrated Drought Information System Newsletter 4 (1), 12\u201313. http://www.drought.gov/media/pgfiles/NIDIS-Newsletter-April-2014.pdf",
+    "submission_dt": null,
+    "time_end": "2014-01-31T23:59:00",
+    "time_start": "2002-01-01T00:00:00",
+    "title": "Satellite measurements of cropland greenness",
+    "uri": "/report/usgcrp-ocpfy2016/chapter/crosscutting-priorities-serve-science-society/figure/satellite-measurements-cropland-greenness",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

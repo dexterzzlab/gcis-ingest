@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "The AERONET sun-photometer used to measure water-leaving radiances and downwelling solar radiances atop the Gustav Dalen Lighthouse platform in the BalticSea, about nine km off of the Swedish coast. The panel to the right shows a close-up view of the sun-photometer on the platform. Credit: B. Holben, NASA/Goddard Space Flight Center.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "a7/03/7481332af299d6929c7eac524b1b/our_changing_planet_2010_image__9_20091209_1393454495.jpg",
+            "href": "http://data.globalchange.gov/assets/a7/03/7481332af299d6929c7eac524b1b/our_changing_planet_2010_image__9_20091209_1393454495.jpg",
+            "identifier": "f1a31297-e0e3-46c8-ada9-135a797e2abe",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "f71bdba45763ceff0841d08f2ea56ee2f6dab566",
+            "size": 334561,
+            "thumbnail": "a7/03/7481332af299d6929c7eac524b1b/.thumb-f1a31297-e0e3-46c8-ada9-135a797e2abe.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/a7/03/7481332af299d6929c7eac524b1b/.thumb-f1a31297-e0e3-46c8-ada9-135a797e2abe.png",
+            "uri": "/file/f1a31297-e0e3-46c8-ada9-135a797e2abe",
+            "url": "/assets/a7/03/7481332af299d6929c7eac524b1b/our_changing_planet_2010_image__9_20091209_1393454495.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2010/figure/surface-calibration-satellite-ocean-color-observations.json",
+    "identifier": "surface-calibration-satellite-ocean-color-observations",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2010",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Surface Calibration of Satellite Ocean Color Observations",
+    "uri": "/report/usgcrp-ocpfy2010/figure/surface-calibration-satellite-ocean-color-observations",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

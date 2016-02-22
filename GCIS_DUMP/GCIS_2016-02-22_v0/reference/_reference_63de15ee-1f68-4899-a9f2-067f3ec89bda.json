@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Fewtrell, L.\rKay, D.",
+        "DOI": "10.1016/j.puhe.2007.09.010",
+        "ISSN": "0033-3506",
+        "Issue": "5",
+        "Journal": "Public Health",
+        "Pages": "446-451",
+        "Title": "An attempt to quantify the health impacts of flooding in the UK using an urban case study",
+        "Volume": "122",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "136",
+        "_uuid": "63de15ee-1f68-4899-a9f2-067f3ec89bda",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.puhe.2007.09.010",
+    "href": "http://data.globalchange.gov/reference/63de15ee-1f68-4899-a9f2-067f3ec89bda.json",
+    "identifier": "63de15ee-1f68-4899-a9f2-067f3ec89bda",
+    "uri": "/reference/63de15ee-1f68-4899-a9f2-067f3ec89bda"
+}

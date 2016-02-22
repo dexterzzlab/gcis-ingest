@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Timm, O.\rDiaz, H.F.",
+        "DOI": "10.1175/2009JCLI2833.1",
+        "ISSN": "1520-0442",
+        "Issue": "16",
+        "Journal": "Journal of Climate",
+        "Pages": "4261-4280",
+        "Title": "Synoptic-statistical approach to regional downscaling of IPCC twenty-first-century climate projections: Seasonal rainfall over the Hawaiian islands",
+        "Volume": "22",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "3061",
+        "_uuid": "2aea4790-7e38-4922-bc92-d20c06d23b7d",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/2009JCLI2833.1",
+    "href": "http://data.globalchange.gov/reference/2aea4790-7e38-4922-bc92-d20c06d23b7d.json",
+    "identifier": "2aea4790-7e38-4922-bc92-d20c06d23b7d",
+    "uri": "/reference/2aea4790-7e38-4922-bc92-d20c06d23b7d"
+}

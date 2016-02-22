@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        ".text_styles": "<record><field id=\"12\"><run start=\"0\" /><run charset=\"186\" start=\"103\" /></field></record>",
+        "Author": "Anderson, C.L.",
+        "Institution": "Hazards, Climate and Environment Program, Social Science Research Institute, University of Hawai\u2018i at M\u0101noa",
+        "Pages": "36",
+        "Place Published": "Honolulu, HI",
+        "Title": "Overview of Climate Risk Reduction in the U.S. Pacific Islands Hazard Mitigation Planning Efforts. Technical Report 201103A",
+        "URL": "http://www.pacificrisa.org/wp-content/uploads/2013/02/Anderson-Overview-of-Climate-Risk-Reduction-in-the-US-PI-Hazard-Mitigation-Planning.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "3684",
+        "_uuid": "c8823e91-3a7a-4ccb-83b5-0c31d6a7f9cd",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/hcep-techreport-201103a",
+    "href": "http://data.globalchange.gov/reference/c8823e91-3a7a-4ccb-83b5-0c31d6a7f9cd.json",
+    "identifier": "c8823e91-3a7a-4ccb-83b5-0c31d6a7f9cd",
+    "uri": "/reference/c8823e91-3a7a-4ccb-83b5-0c31d6a7f9cd"
+}

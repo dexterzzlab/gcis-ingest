@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "USACE,",
+        "Institution": "U.S. Army Corps of Engineers",
+        "Place Published": "Mobile, AL",
+        "Title": "Mississippi Coastal Improvement Plan: Voluntary Buy-out Program",
+        "URL": "http://www.sam.usace.army.mil/Missions/ProgramandProjectManagement/MsCIPProgram.aspx",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "3114",
+        "_uuid": "2ca62733-78e1-4c69-950f-c72070100c78",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usace-mscoastal-2012",
+    "href": "http://data.globalchange.gov/reference/2ca62733-78e1-4c69-950f-c72070100c78.json",
+    "identifier": "2ca62733-78e1-4c69-950f-c72070100c78",
+    "uri": "/reference/2ca62733-78e1-4c69-950f-c72070100c78"
+}

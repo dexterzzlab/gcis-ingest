@@ -1,0 +1,8 @@
+{
+    "description": "High resolution optical imager",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/topsat-telescope.json",
+    "identifier": "topsat-telescope",
+    "name": "TOPSAT Telescope",
+    "uri": "/instrument/topsat-telescope"
+}

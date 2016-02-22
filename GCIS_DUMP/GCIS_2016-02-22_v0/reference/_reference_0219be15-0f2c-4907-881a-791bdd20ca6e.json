@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Anisimov, O.A.\rD.G. Vaughan\rT.V. Callaghan\rC. Furgal\rH. Marchant\rT.D. Prowse\rH. Vilhj\u00e1lmsson\rJ.E. Walsh",
+        "Book Title": "Climate Change 2007: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change",
+        "Editor": "Parry, M.L.\rCanziani, O.F.\rPalutikof, J.P.\rvan der Linden, P.J.\rHanson, C.E.",
+        "ISBN": "978 0521 88010-7",
+        "Pages": "653-685",
+        "Place Published": "Cambridge, UK and New York, New York, USA",
+        "Publisher": "Cambridge University Press",
+        "Reviewer": "0219be15-0f2c-4907-881a-791bdd20ca6e",
+        "Title": "Polar regions (Arctic and Antarctic)",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\"]",
+        "_record_number": "3897",
+        "_uuid": "0219be15-0f2c-4907-881a-791bdd20ca6e",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/ipcc-ar4-wg2",
+    "href": "http://data.globalchange.gov/reference/0219be15-0f2c-4907-881a-791bdd20ca6e.json",
+    "identifier": "0219be15-0f2c-4907-881a-791bdd20ca6e",
+    "uri": "/reference/0219be15-0f2c-4907-881a-791bdd20ca6e"
+}

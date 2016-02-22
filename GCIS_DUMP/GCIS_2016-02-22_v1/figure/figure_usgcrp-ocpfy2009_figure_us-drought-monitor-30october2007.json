@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "The U.S. Drought Monitor blends quantitative measures of drought and experts' best judgment into a single map every week. The Drought Monitor grew out of a Western Governors' Association initiative to provide timely and understandable scientific information on water supply and drought for policymakers. The U.S. Drought Monitor\u2014a Federal, State, and academic partnership\u2014has been operational since 1999, and is produced by a rotating group of authors from USDA, NOAA, and NDMC. It incorporates review from a group of more than 250 climatologists, hydrologists, meteorologists, extension agents, and others across the nation. Each week an author revises the previous map based on rain, snow and other events, observers' reports of how drought is affecting crops and wildlife, and other indicators. Authors balance conflicting data and reports to come up with a new map every Wednesday afternoon, with release the following Thursday morning. Credit: USDA, NOAA, and NDMC (University of Nebraska-Lincoln).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "e6/1f/1b507c1643eabf4ab7142a456548/Figure_9.png",
+            "href": "http://data.globalchange.gov/assets/e6/1f/1b507c1643eabf4ab7142a456548/Figure_9.png",
+            "identifier": "2af0b0b7-8410-4fa6-b54a-50a7244189dd",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "b5a33812fc9b23274c36fbd51508fd6546bf2b57",
+            "size": 716139,
+            "thumbnail": "e6/1f/1b507c1643eabf4ab7142a456548/.thumb-2af0b0b7-8410-4fa6-b54a-50a7244189dd.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/e6/1f/1b507c1643eabf4ab7142a456548/.thumb-2af0b0b7-8410-4fa6-b54a-50a7244189dd.png",
+            "uri": "/file/2af0b0b7-8410-4fa6-b54a-50a7244189dd",
+            "url": "/assets/e6/1f/1b507c1643eabf4ab7142a456548/Figure_9.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2009/figure/us-drought-monitor-30october2007.json",
+    "identifier": "us-drought-monitor-30october2007",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2009",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "U.S. Drought Monitor (30 October 2007)",
+    "uri": "/report/usgcrp-ocpfy2009/figure/us-drought-monitor-30october2007",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

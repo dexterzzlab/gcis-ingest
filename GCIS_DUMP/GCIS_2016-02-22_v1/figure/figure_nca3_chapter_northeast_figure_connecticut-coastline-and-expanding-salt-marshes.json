@@ -1,0 +1,90 @@
+{
+    "attributes": null,
+    "caption": "The Nature Conservancy\u2019s adaptation decision-support tool (www.coastalresilience.org)<tbib>b1a2614f-8ace-49a0-8613-ea30d7fb6f28</tbib> depicts building-level impacts due to inundation (developed land cover, yellow areas) and potential marsh advancement zones (undeveloped land cover \u2013 currently forest, grass, and agriculture \u2013 blue areas) using downscaled sea level rise projections (52 inches by 2080s depicted) along the Connecticut and New York coasts. (Figure source: Ferda\u00f1a et al. 2010,<tbib>417521de-541f-44bd-8747-ac306ede3d83</tbib> Beck et al. 2013<tbib>3f303a73-89f9-4835-a164-7a141536e932</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0SF2T3P",
+        "identifier": "northeast",
+        "number": 16,
+        "report_identifier": "nca3",
+        "sort_key": 160,
+        "title": "Northeast",
+        "url": "http://nca2014.globalchange.gov/report/regions/northeast"
+    },
+    "chapter_identifier": "northeast",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/3800.json",
+            "id": 3800,
+            "organization": {
+                "country_code": "US",
+                "identifier": "nature-conservancy",
+                "name": "Nature Conservancy",
+                "organization_type_identifier": "ngo",
+                "url": "http://www.nature.org/"
+            },
+            "organization_uri": "/organization/nature-conservancy",
+            "person": {
+                "first_name": "Adam",
+                "id": 898,
+                "last_name": "Whelchel",
+                "middle_name": null,
+                "orcid": null,
+                "url": "http://www.adamwhelchel.com/"
+            },
+            "person_id": 898,
+            "person_uri": "/person/898",
+            "role_type_identifier": "point_of_contact",
+            "uri": "/contributor/3800"
+        }
+    ],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "74/c1/269c3bbe0851ae5da81506dc7c5f/NE_marsh_advancement_v3.png",
+            "href": "http://data.globalchange.gov/assets/74/c1/269c3bbe0851ae5da81506dc7c5f/NE_marsh_advancement_v3.png",
+            "identifier": "772b4b90-69d7-4fd4-9fd7-63e122cf9e23",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "455f87c2412cec5970e33a83d8467de9f0a6e1c2",
+            "size": 1247024,
+            "thumbnail": "74/c1/269c3bbe0851ae5da81506dc7c5f/.thumb-772b4b90-69d7-4fd4-9fd7-63e122cf9e23.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/74/c1/269c3bbe0851ae5da81506dc7c5f/.thumb-772b4b90-69d7-4fd4-9fd7-63e122cf9e23.png",
+            "uri": "/file/772b4b90-69d7-4fd4-9fd7-63e122cf9e23",
+            "url": "/assets/74/c1/269c3bbe0851ae5da81506dc7c5f/NE_marsh_advancement_v3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/northeast/figure/connecticut-coastline-and-expanding-salt-marshes.json",
+    "identifier": "connecticut-coastline-and-expanding-salt-marshes",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 7,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/3f303a73-89f9-4835-a164-7a141536e932.json",
+            "uri": "/reference/3f303a73-89f9-4835-a164-7a141536e932"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/417521de-541f-44bd-8747-ac306ede3d83.json",
+            "uri": "/reference/417521de-541f-44bd-8747-ac306ede3d83"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/b1a2614f-8ace-49a0-8613-ea30d7fb6f28.json",
+            "uri": "/reference/b1a2614f-8ace-49a0-8613-ea30d7fb6f28"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "Ferda\u00f1a et al. 2010, Beck et al. 2013<tbib>3f303a73-89f9-4835-a164-7a141536e932</tbib><sup>,</sup><tbib>417521de-541f-44bd-8747-ac306ede3d83</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Connecticut Coastline and Expanding Salt Marshes",
+    "uri": "/report/nca3/chapter/northeast/figure/connecticut-coastline-and-expanding-salt-marshes",
+    "url": "http://nca2014.globalchange.gov/report/regions/northeast/graphics/connecticut-coastline-and-expanding-salt-marshes",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

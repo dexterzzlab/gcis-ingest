@@ -1,0 +1,12 @@
+{
+    "country": "US",
+    "href": "http://data.globalchange.gov/journal/morbidity-mortality-weekly-report.json",
+    "identifier": "morbidity-mortality-weekly-report",
+    "notes": null,
+    "online_issn": null,
+    "print_issn": "0149-2195",
+    "publisher": "Centers for Disease Control and Prevention",
+    "title": "Morbidity and Mortality Weekly Report",
+    "uri": "/journal/morbidity-mortality-weekly-report",
+    "url": "http://www.cdc.gov/mmwr/"
+}

@@ -1,0 +1,76 @@
+{
+    "attributes": null,
+    "caption": "Different factors have exerted a warming influence (red bars) or a cooling influence (blue bars) on the planet. The warming or cooling influence of each factor is measured in terms of the change in radiative forcing in watts per square meter by 2005 relative to 1750. This figure includes all the major human-induced factors as well as the sun, the only major natural factor with a long-term effect on climate. The cooling effect of individual volcanoes is also natural, but is relatively short-lived and so is not included here. Aerosols refer to tiny particles, with their direct effects including, for example, the warming influence of black carbon (soot) and cooling influence of sulfate particles from coal burning. Indirect effects of aerosols include their effect on clouds. The net radiative influence from natural and human influences is a strong warming, predominantly from human activities. The thin lines on each bar show the range of uncertainty. (Figure source: adapted from Climate Change 2007: The Physical Science Basis. Working Group I Contribution to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, Figure 2.20 (A), Cambridge University Press<tbib>c54b9473-cdc3-4f22-97a8-4df5253f9682</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0KS6PHH",
+        "identifier": "appendix-climate-science-supplement",
+        "number": 33,
+        "report_identifier": "nca3",
+        "sort_key": 330,
+        "title": "Appendix 3: Climate Science Supplement",
+        "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement"
+    },
+    "chapter_identifier": "appendix-climate-science-supplement",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-19T17:05:00",
+    "files": [
+        {
+            "file": "52/f7/90653e7e4a5bb61bae462beca34e/APP_warming_and_cooling_influences_V7.png",
+            "href": "http://data.globalchange.gov/assets/52/f7/90653e7e4a5bb61bae462beca34e/APP_warming_and_cooling_influences_V7.png",
+            "identifier": "a53c5a23-1319-45d8-ba34-d1a2b3d38031",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "59d5542a64398a27589c1431407469af923867ee",
+            "size": 67744,
+            "thumbnail": "52/f7/90653e7e4a5bb61bae462beca34e/.thumb-a53c5a23-1319-45d8-ba34-d1a2b3d38031.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/52/f7/90653e7e4a5bb61bae462beca34e/.thumb-a53c5a23-1319-45d8-ba34-d1a2b3d38031.png",
+            "uri": "/file/a53c5a23-1319-45d8-ba34-d1a2b3d38031",
+            "url": "/assets/52/f7/90653e7e4a5bb61bae462beca34e/APP_warming_and_cooling_influences_V7.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-climate-science-supplement/figure/relative-strengths-of-warming-and-cooling-influences.json",
+    "identifier": "relative-strengths-of-warming-and-cooling-influences",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-11-19T17:05:00",
+            "description": null,
+            "identifier": "b0aae6fd-b4e0-47cf-93be-d997373a6f90",
+            "lat_max": "90.00",
+            "lat_min": "-90.00",
+            "lon_max": "180.00",
+            "lon_min": "-180.00",
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Relative Strengths of Warming and Cooling Influences",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 6,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/c54b9473-cdc3-4f22-97a8-4df5253f9682.json",
+            "uri": "/reference/c54b9473-cdc3-4f22-97a8-4df5253f9682"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "adapted from Climate Change 2007: The Physical Science Basis. Working Group I Contribution to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, Figure 2.20 (A), Cambridge University Press<tbib>c54b9473-cdc3-4f22-97a8-4df5253f9682</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Relative Strengths of Warming and Cooling Influences",
+    "uri": "/report/nca3/chapter/appendix-climate-science-supplement/figure/relative-strengths-of-warming-and-cooling-influences",
+    "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/relative-strengths-warming-and-cooling",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

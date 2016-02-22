@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Ganges Valley brown cloud plume drifts out over the Bay of Bengal and the Indian Ocean. Credit: NASA / Goddard Space Flight Center.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "c6/9f/244fb7f89f8bb3cb4351a48b9c72/Figure_3.png",
+            "href": "http://data.globalchange.gov/assets/c6/9f/244fb7f89f8bb3cb4351a48b9c72/Figure_3.png",
+            "identifier": "4b4ea652-cd38-4abd-9716-bed7e27290e6",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "0155de47c0bb5af7a98b66e8738b0ffb1c81d5a4",
+            "size": 853983,
+            "thumbnail": "c6/9f/244fb7f89f8bb3cb4351a48b9c72/.thumb-4b4ea652-cd38-4abd-9716-bed7e27290e6.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/c6/9f/244fb7f89f8bb3cb4351a48b9c72/.thumb-4b4ea652-cd38-4abd-9716-bed7e27290e6.png",
+            "uri": "/file/4b4ea652-cd38-4abd-9716-bed7e27290e6",
+            "url": "/assets/c6/9f/244fb7f89f8bb3cb4351a48b9c72/Figure_3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2009/figure/ganges-valley-brown-cloud.json",
+    "identifier": "ganges-valley-brown-cloud",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2009",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Ganges Valley Brown Cloud",
+    "uri": "/report/usgcrp-ocpfy2009/figure/ganges-valley-brown-cloud",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Lawler, J. J.\rC. A. Schloss\rA. E. Ettinger",
+        "Book Title": "Encyclopedia of Biodiversity",
+        "Edition": "2nd",
+        "Editor": "Levin, S. A. ",
+        "ISBN": "9780123847195",
+        "Number of Volumes": "7",
+        "Publisher": "Academic Press",
+        "Reviewer": "10f20ca1-ec4b-4492-b161-d763f8186e59",
+        "Title": "Climate change: Anticipating and adapting to the impacts on terrestrial species",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "4174",
+        "_uuid": "10f20ca1-ec4b-4492-b161-d763f8186e59",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/5314bca2-8377-461a-b802-2008f547c2a2",
+    "href": "http://data.globalchange.gov/reference/10f20ca1-ec4b-4492-b161-d763f8186e59.json",
+    "identifier": "10f20ca1-ec4b-4492-b161-d763f8186e59",
+    "uri": "/reference/10f20ca1-ec4b-4492-b161-d763f8186e59"
+}

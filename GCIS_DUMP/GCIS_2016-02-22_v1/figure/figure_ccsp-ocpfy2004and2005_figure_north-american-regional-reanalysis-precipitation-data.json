@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Assimilation of observed precipitation is the most important data addition to the North American Regional Reanalysis (NARR), because successful assimilation of these observations enables more realistic modeling of the hydrological cycle than otherwise would be possible. This figure shows a comparison, during a strong El Ni\u00f1o event (January 1997), over North America of analyzed precipitation based on observations (top panel) and the NARR precipitation output (bottom panel). The color scale indicates inches per month. The comparison shows extremely high agreement over land, even over the complex western topography. The regional reanalysis provides coupled atmospheric and land water cycle components that include preciptation fields in much better agreement with observed precipitation fields than previously available over North America. Credit: NOAA/National Weather Service/National Centers for Environmental Prediction.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "4e/c3/3c50b09e6d1fceef3c6253166ed8/our_changing_planet_2004-2005_6_20090708_1315850391.jpg",
+            "href": "http://data.globalchange.gov/assets/4e/c3/3c50b09e6d1fceef3c6253166ed8/our_changing_planet_2004-2005_6_20090708_1315850391.jpg",
+            "identifier": "540d4f6b-edf7-4de2-aa03-cd68d796c0a0",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "73b6bb595129ec0b16b654f6921a61374566225b",
+            "size": 101553,
+            "thumbnail": "4e/c3/3c50b09e6d1fceef3c6253166ed8/.thumb-540d4f6b-edf7-4de2-aa03-cd68d796c0a0.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/4e/c3/3c50b09e6d1fceef3c6253166ed8/.thumb-540d4f6b-edf7-4de2-aa03-cd68d796c0a0.png",
+            "uri": "/file/540d4f6b-edf7-4de2-aa03-cd68d796c0a0",
+            "url": "/assets/4e/c3/3c50b09e6d1fceef3c6253166ed8/our_changing_planet_2004-2005_6_20090708_1315850391.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2004and2005/figure/north-american-regional-reanalysis-precipitation-data.json",
+    "identifier": "north-american-regional-reanalysis-precipitation-data",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2004and2005",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "North American Regional Reanalysis (NARR) Precipitation Data",
+    "uri": "/report/ccsp-ocpfy2004and2005/figure/north-american-regional-reanalysis-precipitation-data",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

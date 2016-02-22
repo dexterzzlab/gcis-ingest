@@ -1,0 +1,17 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Simmonds, J.",
+        "Title": "Resource for Consideration by the NCA Teams Addressing the Impacts of Climate Change on Native Communities. Native Communities and Climate Change Project of the University of Colorado Law School and the Cooperative Institute for Research in Environmental Science.",
+        "URL": "http://data.globalchange.gov/report/ucollaw-ti-2011",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\",\"RF 12\"]",
+        "_record_number": "2856",
+        "_uuid": "239d0d3a-6f38-41ae-b248-bcf8f99142ad",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/ucollaw-ti-2011",
+    "href": "http://data.globalchange.gov/reference/239d0d3a-6f38-41ae-b248-bcf8f99142ad.json",
+    "identifier": "239d0d3a-6f38-41ae-b248-bcf8f99142ad",
+    "uri": "/reference/239d0d3a-6f38-41ae-b248-bcf8f99142ad"
+}

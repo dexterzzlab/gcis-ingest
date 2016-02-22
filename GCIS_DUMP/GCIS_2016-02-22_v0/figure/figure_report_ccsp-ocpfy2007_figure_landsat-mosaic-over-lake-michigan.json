@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Landsat mosaic products over the southern portions of Lake Michigan and adjacent areas of the United States: (a) a full-resolution 28.5-m2 subset for the circa 1990 epoch; and (b) a full-resolution 14.25-m2 subset of the circa 2000 epoch. These are examples of the data available globally from NASA\u2019s Global Ortho-Rectified Landsat Data Set. Credit: C.J. Tucker, NASA/ Goddard Space Flight Center.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "83/d8/5321dc9f5f7ec07482139032553f/our_changing_planet_2007_54_20090708_1417913459.jpg",
+            "href": "http://data.globalchange.gov/assets/83/d8/5321dc9f5f7ec07482139032553f/our_changing_planet_2007_54_20090708_1417913459.jpg",
+            "identifier": "bdda1c19-5b5b-42ed-839e-bc8b2b3835ae",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "6316119ecc0f3180097f74147c83d96c3bd9d1f1",
+            "size": 54794,
+            "thumbnail": "83/d8/5321dc9f5f7ec07482139032553f/.thumb-bdda1c19-5b5b-42ed-839e-bc8b2b3835ae.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/83/d8/5321dc9f5f7ec07482139032553f/.thumb-bdda1c19-5b5b-42ed-839e-bc8b2b3835ae.png",
+            "uri": "/file/bdda1c19-5b5b-42ed-839e-bc8b2b3835ae",
+            "url": "/assets/83/d8/5321dc9f5f7ec07482139032553f/our_changing_planet_2007_54_20090708_1417913459.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/landsat-mosaic-over-lake-michigan.json",
+    "identifier": "landsat-mosaic-over-lake-michigan",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Landsat Mosaic over Lake Michigan",
+    "uri": "/report/ccsp-ocpfy2007/figure/landsat-mosaic-over-lake-michigan",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

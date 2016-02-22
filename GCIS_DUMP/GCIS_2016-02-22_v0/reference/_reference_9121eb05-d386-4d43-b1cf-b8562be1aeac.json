@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Shaffer, G.P.\rDay, J.W.,  Jr,\rMack, S.\rKemp, G.P.\rvan Heerden, I.\rPoirrier, M.A.\rWestphal, K.A.\rFitzGerald, D.\rMilanes, A.\rMorris, C.A.\rBea, R.\rPenland, P.S.",
+        "DOI": "10.2112/SI54-004.1",
+        "ISSN": "1551-5036",
+        "Journal": "Journal of Coastal Research",
+        "Pages": "206-224",
+        "Title": "The MRGO Navigation Project: A massive human-induced environmental, economic, and storm disaster",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "2823",
+        "_uuid": "9121eb05-d386-4d43-b1cf-b8562be1aeac",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.2112/SI54-004.1",
+    "href": "http://data.globalchange.gov/reference/9121eb05-d386-4d43-b1cf-b8562be1aeac.json",
+    "identifier": "9121eb05-d386-4d43-b1cf-b8562be1aeac",
+    "uri": "/reference/9121eb05-d386-4d43-b1cf-b8562be1aeac"
+}

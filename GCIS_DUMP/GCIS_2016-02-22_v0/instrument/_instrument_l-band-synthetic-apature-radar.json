@@ -1,0 +1,8 @@
+{
+    "description": "Imaging radar (SAR)",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/l-band-synthetic-apature-radar.json",
+    "identifier": "l-band-synthetic-apature-radar",
+    "name": "L-band Synthetic Apature Radar",
+    "uri": "/instrument/l-band-synthetic-apature-radar"
+}

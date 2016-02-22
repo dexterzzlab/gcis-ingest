@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Mathis, J.T.\rCross, J.N.\rBates, N.R.",
+        "DOI": "10.1029/2011GL048884",
+        "Journal": "Geophysical Research Letters",
+        "Pages": "L19602",
+        "Title": "The role of ocean acidification in systemic carbonate mineral suppression in the Bering Sea",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2011GL048884/pdf",
+        "Volume": "38",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "1905",
+        "_uuid": "67e26e30-3b3b-4ff2-8d3b-df9d462cce3a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2011GL048884",
+    "href": "http://data.globalchange.gov/reference/67e26e30-3b3b-4ff2-8d3b-df9d462cce3a.json",
+    "identifier": "67e26e30-3b3b-4ff2-8d3b-df9d462cce3a",
+    "uri": "/reference/67e26e30-3b3b-4ff2-8d3b-df9d462cce3a"
+}

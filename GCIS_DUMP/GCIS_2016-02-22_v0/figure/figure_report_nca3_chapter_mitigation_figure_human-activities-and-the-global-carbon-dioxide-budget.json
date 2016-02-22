@@ -1,0 +1,80 @@
+{
+    "attributes": null,
+    "caption": "Figure shows human-induced changes in the global carbon dioxide budget roughly since the beginning of the Industrial Revolution. Emissions from fossil fuel burning are the dominant cause of the steep rise shown here from 1850 to 2012. (Global Carbon Project 2010, 2012<tbib>da606b84-6d9a-4d7c-9bc0-73a22c1fca43</tbib><sup>,</sup><tbib>7b0489fe-3bdf-4744-ae47-f0e48d53a7d2</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0C8276J",
+        "identifier": "mitigation",
+        "number": 27,
+        "report_identifier": "nca3",
+        "sort_key": 270,
+        "title": "Mitigation",
+        "url": "http://nca2014.globalchange.gov/report/response-strategies/mitigation"
+    },
+    "chapter_identifier": "mitigation",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "84/e5/399b168b99f132998882a416b57f/Mitigation_carbon_cycle_V7.png",
+            "href": "http://data.globalchange.gov/assets/84/e5/399b168b99f132998882a416b57f/Mitigation_carbon_cycle_V7.png",
+            "identifier": "de2aa207-3c35-4368-9834-9e1e94884cf3",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "f21952fa0eb49c2d46d5e43882fca2d43a6830e2",
+            "size": 171028,
+            "thumbnail": "84/e5/399b168b99f132998882a416b57f/.thumb-de2aa207-3c35-4368-9834-9e1e94884cf3.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/84/e5/399b168b99f132998882a416b57f/.thumb-de2aa207-3c35-4368-9834-9e1e94884cf3.png",
+            "uri": "/file/de2aa207-3c35-4368-9834-9e1e94884cf3",
+            "url": "/assets/84/e5/399b168b99f132998882a416b57f/Mitigation_carbon_cycle_V7.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/mitigation/figure/human-activities-and-the-global-carbon-dioxide-budget.json",
+    "identifier": "human-activities-and-the-global-carbon-dioxide-budget",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": null,
+            "description": null,
+            "identifier": "560133b1-63d8-4db8-8b32-d49341c8e198",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Human Activities and the Global Carbon Dioxide Budget",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 1,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/7b0489fe-3bdf-4744-ae47-f0e48d53a7d2.json",
+            "uri": "/reference/7b0489fe-3bdf-4744-ae47-f0e48d53a7d2"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/da606b84-6d9a-4d7c-9bc0-73a22c1fca43.json",
+            "uri": "/reference/da606b84-6d9a-4d7c-9bc0-73a22c1fca43"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Human Activities and the Global Carbon Dioxide Budget",
+    "uri": "/report/nca3/chapter/mitigation/figure/human-activities-and-the-global-carbon-dioxide-budget",
+    "url": "http://nca2014.globalchange.gov/report/response-strategies/mitigation/graphics/human-activities-and-global-carbon-dioxide-budget",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

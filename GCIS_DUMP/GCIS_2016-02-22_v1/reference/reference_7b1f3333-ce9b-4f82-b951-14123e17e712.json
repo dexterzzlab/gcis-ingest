@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Holmes, R.R., Jr., \rKoenig, T.A.\rKarstensen, K.A.",
+        "Institution": "U.S. Geological Survey",
+        "Pages": "64",
+        "Title": "Flooding in the United States Midwest. USGS Professional Paper 1775",
+        "URL": "http://pubs.usgs.gov/pp/1775/pdf/pp1775.pdf",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 5: Transportation FINAL\"]",
+        "_record_number": "711",
+        "_uuid": "7b1f3333-ce9b-4f82-b951-14123e17e712",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usgs-profpaper-1775",
+    "href": "http://data.globalchange.gov/reference/7b1f3333-ce9b-4f82-b951-14123e17e712.json",
+    "identifier": "7b1f3333-ce9b-4f82-b951-14123e17e712",
+    "uri": "/reference/7b1f3333-ce9b-4f82-b951-14123e17e712"
+}

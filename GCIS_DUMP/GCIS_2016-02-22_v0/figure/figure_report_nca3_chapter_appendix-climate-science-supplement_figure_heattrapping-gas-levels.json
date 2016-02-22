@@ -1,0 +1,102 @@
+{
+    "attributes": null,
+    "caption": "Present-day atmospheric levels of carbon dioxide, methane, and nitrous oxide are notably higher than their pre-industrial averages of 280, 0.7, and 0.27 parts per million (ppm) by volume, respectively (left). Air sampling data from 1958 to 2013 show long-term increases due to human activities as well as short-term variations due to natural biogeochemical processes and seasonal vegetation growth (right). (Figure sources: (left) Forster et al. 2007<tbib>f2b357c2-f4ae-4868-a058-e48fbdbb1303</tbib>; (right) Scripps Institution of Oceanography and NOAA Earth Systems Research Laboratory).",
+    "chapter": {
+        "doi": "10.7930/J0KS6PHH",
+        "identifier": "appendix-climate-science-supplement",
+        "number": 33,
+        "report_identifier": "nca3",
+        "sort_key": 330,
+        "title": "Appendix 3: Climate Science Supplement",
+        "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement"
+    },
+    "chapter_identifier": "appendix-climate-science-supplement",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-19T17:32:00",
+    "files": [
+        {
+            "file": "3f/fd/cad582438b5dd6b2e4824f0de270/APP_ghg_emissions_V1.png",
+            "href": "http://data.globalchange.gov/assets/3f/fd/cad582438b5dd6b2e4824f0de270/APP_ghg_emissions_V1.png",
+            "identifier": "45aad8f1-1edb-4070-bc67-e831d85901ba",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "c890016e9e7428f90dcecb172c72afe786371da4",
+            "size": 84088,
+            "thumbnail": "3f/fd/cad582438b5dd6b2e4824f0de270/.thumb-45aad8f1-1edb-4070-bc67-e831d85901ba.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/3f/fd/cad582438b5dd6b2e4824f0de270/.thumb-45aad8f1-1edb-4070-bc67-e831d85901ba.png",
+            "uri": "/file/45aad8f1-1edb-4070-bc67-e831d85901ba",
+            "url": "/assets/3f/fd/cad582438b5dd6b2e4824f0de270/APP_ghg_emissions_V1.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-climate-science-supplement/figure/heattrapping-gas-levels.json",
+    "identifier": "heattrapping-gas-levels",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-11-19T17:32:00",
+            "description": null,
+            "identifier": "29bf5bd4-2809-4723-963a-c481854abd93",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2000-12-31T23:59:59",
+            "time_start": "0000-01-01T00:00:00",
+            "title": "Heat-Trapping Gas Levels - Left",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2013-11-19T17:32:00",
+            "description": null,
+            "identifier": "7f1ee41d-1fa8-41af-9b92-19f05ff74d00",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2013-12-31T23:59:59",
+            "time_start": "1958-01-01T00:00:00",
+            "title": "Heat-Trapping Gas Levels - Right",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 4,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Climate Change 2013: The Physical Science Basis",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/ipcc-ar5-wg1"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/f2b357c2-f4ae-4868-a058-e48fbdbb1303.json",
+            "uri": "/reference/f2b357c2-f4ae-4868-a058-e48fbdbb1303"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Heat-Trapping Gas Levels",
+    "uri": "/report/nca3/chapter/appendix-climate-science-supplement/figure/heattrapping-gas-levels",
+    "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/heat-trapping-gas-levels",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Bloetscher, F.\rHeimlich, B.N.\rRomah, T.",
+        "ISSN": "1934-8932",
+        "Issue": "11",
+        "Journal": "Journal of Environmental Science and Engineering",
+        "Pages": "121-139",
+        "Title": "Counteracting the effects of sea level rise in Southeast Florida",
+        "Volume": "5",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "478",
+        "_uuid": "e378c785-05f0-4f3f-97b1-889eb7e5036d",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.17265/1934-8932/2011.11.013",
+    "href": "http://data.globalchange.gov/reference/e378c785-05f0-4f3f-97b1-889eb7e5036d.json",
+    "identifier": "e378c785-05f0-4f3f-97b1-889eb7e5036d",
+    "uri": "/reference/e378c785-05f0-4f3f-97b1-889eb7e5036d"
+}

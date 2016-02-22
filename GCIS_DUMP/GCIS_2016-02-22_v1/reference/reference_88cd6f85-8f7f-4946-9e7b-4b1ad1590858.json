@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Berry, H.L.\rKelly, B.J.\rHanigan, I.C.\rCoates, J.H.\rMcMichael, A.J.\rWelsh, J.A.\rKjellstrom, T.",
+        "Institution": "Garnaut Climate Change Review",
+        "Pages": "40",
+        "Title": "Rural Mental Health Impacts of Climate Change",
+        "URL": "http://garnautreview.org.au/CA25734E0016A131/WebObj/03-DMentalhealth/$File/03-D%20Mental%20health.pdf",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "1484",
+        "_uuid": "88cd6f85-8f7f-4946-9e7b-4b1ad1590858",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/garnaut-rural-2008",
+    "href": "http://data.globalchange.gov/reference/88cd6f85-8f7f-4946-9e7b-4b1ad1590858.json",
+    "identifier": "88cd6f85-8f7f-4946-9e7b-4b1ad1590858",
+    "uri": "/reference/88cd6f85-8f7f-4946-9e7b-4b1ad1590858"
+}

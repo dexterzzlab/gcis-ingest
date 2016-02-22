@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "Although the majority of the U.S. population lives in urban areas, most of the country is still classified as rural. In this map, counties are classified as rural if they do not include any cities with populations of 50,000 or more. (Figure source: USDA Economic Research Service 2013<tbib>5a9e656f-8a8f-497e-b11d-85db13fe4b4b</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J01Z429C",
+        "identifier": "rural",
+        "number": 14,
+        "report_identifier": "nca3",
+        "sort_key": 140,
+        "title": "Rural Communities",
+        "url": "http://nca2014.globalchange.gov/report/sectors/rural-communities"
+    },
+    "chapter_identifier": "rural",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-03-19T13:27:00",
+    "files": [
+        {
+            "file": "4a/10/4171aa49d390ec0e24351347cc7a/Rural_non-metro_counties_original_v5.png",
+            "href": "http://data.globalchange.gov/assets/4a/10/4171aa49d390ec0e24351347cc7a/Rural_non-metro_counties_original_v5.png",
+            "identifier": "f3d18d8d-3e26-4f96-a527-2b0f9428e143",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "e683deec54224dcec4a2e4125fbe5be21bc95bac",
+            "size": 278177,
+            "thumbnail": "4a/10/4171aa49d390ec0e24351347cc7a/.thumb-f3d18d8d-3e26-4f96-a527-2b0f9428e143.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/4a/10/4171aa49d390ec0e24351347cc7a/.thumb-f3d18d8d-3e26-4f96-a527-2b0f9428e143.png",
+            "uri": "/file/f3d18d8d-3e26-4f96-a527-2b0f9428e143",
+            "url": "/assets/4a/10/4171aa49d390ec0e24351347cc7a/Rural_non-metro_counties_original_v5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/rural/figure/rural-counties.json",
+    "identifier": "rural-counties",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2014-03-19T13:27:00",
+            "description": null,
+            "identifier": "6b07cf68-447f-4132-a483-87e6b15d604b",
+            "lat_max": "71.398048",
+            "lat_min": "18.913826",
+            "lon_max": "-66.957802",
+            "lon_min": "-179.133392",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2013-12-31T23:59:59",
+            "time_start": "2013-01-01T00:00:00",
+            "title": "Rural Counties",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 1,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "webpage Atlas of Rural and Small-Town America",
+            "note": null,
+            "publication_type_identifier": "webpage",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/webpage/2cb79b4a-31cf-43ec-a70a-0371626f1407"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/5a9e656f-8a8f-497e-b11d-85db13fe4b4b.json",
+            "uri": "/reference/5a9e656f-8a8f-497e-b11d-85db13fe4b4b"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "USDA Economic Research Service 2013<tbib>5a9e656f-8a8f-497e-b11d-85db13fe4b4b</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Rural Counties",
+    "uri": "/report/nca3/chapter/rural/figure/rural-counties",
+    "url": "http://nca2014.globalchange.gov/report/sectors/rural-communities/graphics/rural-counties",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Matson, P.A.\rNaylor, R.\rOrtiz-Monasterio, I.",
+        "Book Title": "Restoring Lands - Coordinating Science, Politics and Action: Complexities of Climate and Governance: Complexities of Climate and Governance",
+        "DOI": "10.1007/978-94-007-2549-2",
+        "Editor": "Karl, H. A.\rScarlett, L.\rVargas-Moreno, J.C.\rFlaxman, M.",
+        "ISBN": "978-94-007-2549-2",
+        "Pages": "112-115",
+        "Place Published": "Dordrecht, Netherlands",
+        "Publisher": "Springer",
+        "Reviewer": "a5e32863-e37b-4322-8598-d8dc08cf3432",
+        "Series Volume": "5360",
+        "Title": "Ch. 5: Integration of environmental, agronomic, and economic aspects of fertilizer management",
+        "Volume": "280",
+        "Year": "1998",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "1908",
+        "_uuid": "a5e32863-e37b-4322-8598-d8dc08cf3432",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/5e3b5313-71b5-49e9-9590-67f16a9a6f67",
+    "href": "http://data.globalchange.gov/reference/a5e32863-e37b-4322-8598-d8dc08cf3432.json",
+    "identifier": "a5e32863-e37b-4322-8598-d8dc08cf3432",
+    "uri": "/reference/a5e32863-e37b-4322-8598-d8dc08cf3432"
+}

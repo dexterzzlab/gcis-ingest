@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "EPA,",
+        "Institution": "U.S. Environmental Protection Agency",
+        "Pages": "32",
+        "Place Published": "Washington, D.C.",
+        "Title": "Climate Change Vulnerability Assessments: A Review of Water Utility Practices. EPA 800-R-10-001",
+        "URL": "http://water.epa.gov/scitech/climatechange/upload/Climate-Change-Vulnerability-Assessments-Sept-2010.pdf",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"Ch. 3: Water Resources FINAL\",\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "329",
+        "_uuid": "c5b5b0ad-2a2e-45da-868f-54313282590a",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/epa-800-r-10-001",
+    "href": "http://data.globalchange.gov/reference/c5b5b0ad-2a2e-45da-868f-54313282590a.json",
+    "identifier": "c5b5b0ad-2a2e-45da-868f-54313282590a",
+    "uri": "/reference/c5b5b0ad-2a2e-45da-868f-54313282590a"
+}

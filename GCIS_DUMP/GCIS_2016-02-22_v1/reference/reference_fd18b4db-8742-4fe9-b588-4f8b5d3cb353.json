@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Niyogi, D.\rPyle, P.\rLei, M.\rArya, S.P.\rKishtawal, C.M.\rShepherd, M.\rChen, F.\rWolfe, B.",
+        "DOI": "10.1175/2010JAMC1836.1",
+        "ISSN": "1558-8424",
+        "Issue": "5",
+        "Journal": "Journal of Applied Meteorology and Climatology",
+        "Pages": "1129-1144",
+        "Title": "Urban modification of thunderstorms: An observational storm climatology and model case study for the Indianapolis urban region",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/2010JAMC1836.1",
+        "Volume": "50",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 13: Land Use and Land Cover Change FINAL\"]",
+        "_record_number": "2229",
+        "_uuid": "fd18b4db-8742-4fe9-b588-4f8b5d3cb353",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/2010JAMC1836.1",
+    "href": "http://data.globalchange.gov/reference/fd18b4db-8742-4fe9-b588-4f8b5d3cb353.json",
+    "identifier": "fd18b4db-8742-4fe9-b588-4f8b5d3cb353",
+    "uri": "/reference/fd18b4db-8742-4fe9-b588-4f8b5d3cb353"
+}

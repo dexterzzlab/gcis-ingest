@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Coulthard, S.",
+        "Book Title": "Adapting to Climate Change. Thresholds, Values, Governance",
+        "DOI": "10.1017/CBO9780511596667.017",
+        "Editor": "Adger, W.N.\rLorenzoni, I.\rO'Brien, K.L.",
+        "ISBN": "9780521764858",
+        "Pages": "255-268",
+        "Place Published": "Cambridge, UK",
+        "Publisher": "Cambridge University Press",
+        "Research Notes": "Changed from Adger et al to Coulthard",
+        "Reviewer": "b1499429-8871-477b-823b-6d5d44b7f125",
+        "Title": "Ch. 16: Adaptation and conflict within fisheries: Insights for living with climate change",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\"]",
+        "_record_number": "1539",
+        "_uuid": "b1499429-8871-477b-823b-6d5d44b7f125",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/df012039-4e97-4aeb-87db-6b6d380dd9bf",
+    "href": "http://data.globalchange.gov/reference/b1499429-8871-477b-823b-6d5d44b7f125.json",
+    "identifier": "b1499429-8871-477b-823b-6d5d44b7f125",
+    "uri": "/reference/b1499429-8871-477b-823b-6d5d44b7f125"
+}

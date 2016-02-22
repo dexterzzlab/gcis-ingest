@@ -1,0 +1,79 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/18065.json",
+            "id": 18065,
+            "organization": {
+                "country_code": "US",
+                "identifier": "us-fish-wildlife-service-wyoming-ecological-services",
+                "name": "U.S. Fish & Wildlife Service Wyoming Ecological Services",
+                "organization_type_identifier": "federal",
+                "url": "http://www.fws.gov/wyominges/Index.html"
+            },
+            "organization_uri": "/organization/us-fish-wildlife-service-wyoming-ecological-services",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "graphic_artist",
+            "uri": "/contributor/18065"
+        }
+    ],
+    "create_dt": "2013-11-12T10:48:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Comparing estimates of Greater Sage Grouse distribution from before settlement of the area (light green: prior\r\n    to about 1800) with the current range (dark green: 2000) shows fragmentation of the sagebrush habitat required by this species.\r\n    Over the last century, the sagebrush ecosystem has been altered by fire, invasion by new plant species, and conversion of land\r\n    to agriculture, causing a decline in Sage Grouse populations. (Figure source: adapted from Aldridge et al.\r\n    2008.<tbib>7c7085fc-ad53-4b51-8fa1-8856ae91c411</tbib> Photo credit: U.S. Fish and Wildlife Service,\r\n    Wyoming Ecological Services).",
+            "chapter_identifier": "great-plains",
+            "create_dt": "2013-11-12T10:48:00",
+            "identifier": "historical-and-current-range-of-sage-grouse-habitat",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 7,
+            "report_identifier": "nca3",
+            "source_citation": "adapted from Aldridge et al. 2008.<tbib>7c7085fc-ad53-4b51-8fa1-8856ae91c411</tbib> Photo credit: U.S. Fish and Wildlife Service, Wyoming Ecological Services",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Historical and Current Range of Sage Grouse Habitat",
+            "url": "http://nca2014.globalchange.gov/report/regions/great-plains/graphics/historical-and-current-range-sage-grouse-habitat",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "03/f2/d326f55a7c41362f02268ddc6c63/gp_greater_sage_grouse.jpg",
+            "href": "http://data.globalchange.gov/assets/03/f2/d326f55a7c41362f02268ddc6c63/gp_greater_sage_grouse.jpg",
+            "identifier": "f8abc769-b848-46f3-95ea-3aeea3aa2875",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "c377791cb578308f69c9caacb66291769a11f583",
+            "size": 201294,
+            "thumbnail": "03/f2/d326f55a7c41362f02268ddc6c63/.thumb-f8abc769-b848-46f3-95ea-3aeea3aa2875.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/03/f2/d326f55a7c41362f02268ddc6c63/.thumb-f8abc769-b848-46f3-95ea-3aeea3aa2875.png",
+            "uri": "/file/f8abc769-b848-46f3-95ea-3aeea3aa2875",
+            "url": "/assets/03/f2/d326f55a7c41362f02268ddc6c63/gp_greater_sage_grouse.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/8b551ea9-2fa6-44d9-8958-da8404dbf08a.json",
+    "identifier": "8b551ea9-2fa6-44d9-8958-da8404dbf08a",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Historical and Current Range of Sage Grouse Habitat - Photo",
+    "uri": "/image/8b551ea9-2fa6-44d9-8958-da8404dbf08a",
+    "url": null,
+    "usage_limits": null
+}

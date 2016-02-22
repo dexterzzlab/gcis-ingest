@@ -1,0 +1,76 @@
+{
+    "attributes": null,
+    "caption": "Hurricane Irene over the Northeast on August 28, 2011. The storm, which brought catastrophic flooding rains to parts of the Northeast, took 41 lives in the United States, and the economic cost was estimated at $16 billion.<tbib>20978b46-3ff5-4da8-912d-403b28f846fb</tbib> (Figure source: MODIS instrument on NASA\u2019s Aqua satellite).",
+    "chapter": {
+        "doi": "10.7930/J0SF2T3P",
+        "identifier": "northeast",
+        "number": 16,
+        "report_identifier": "nca3",
+        "sort_key": 160,
+        "title": "Northeast",
+        "url": "http://nca2014.globalchange.gov/report/regions/northeast"
+    },
+    "chapter_identifier": "northeast",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-03-04T10:34:00",
+    "files": [
+        {
+            "file": "db/af/12c5aea6f0a78afaff125571b0c4/NE_hurricane_irene_V4.png",
+            "href": "http://data.globalchange.gov/assets/db/af/12c5aea6f0a78afaff125571b0c4/NE_hurricane_irene_V4.png",
+            "identifier": "48538eba-48f7-4834-acc5-04ac46a11065",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "32c2cf3e01716d27a7888727bc61aa87d21de5a7",
+            "size": 589801,
+            "thumbnail": "db/af/12c5aea6f0a78afaff125571b0c4/.thumb-48538eba-48f7-4834-acc5-04ac46a11065.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/db/af/12c5aea6f0a78afaff125571b0c4/.thumb-48538eba-48f7-4834-acc5-04ac46a11065.png",
+            "uri": "/file/48538eba-48f7-4834-acc5-04ac46a11065",
+            "url": "/assets/db/af/12c5aea6f0a78afaff125571b0c4/NE_hurricane_irene_V4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/northeast/figure/flooding-and-hurricane-irene.json",
+    "identifier": "flooding-and-hurricane-irene",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2014-03-04T10:34:00",
+            "description": null,
+            "identifier": "a40895b4-9e23-4fc6-a476-c4eb9dc1efd1",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2011-08-29T23:59:59",
+            "time_start": "2011-08-29T00:00:00",
+            "title": "Flooding and Hurricane Irene",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 3,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/20978b46-3ff5-4da8-912d-403b28f846fb.json",
+            "uri": "/reference/20978b46-3ff5-4da8-912d-403b28f846fb"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "MODIS instrument on NASA\u2019s Aqua satellite",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Flooding and Hurricane Irene",
+    "uri": "/report/nca3/chapter/northeast/figure/flooding-and-hurricane-irene",
+    "url": "http://nca2014.globalchange.gov/report/regions/northeast/graphics/flooding-and-hurricane-irene",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

@@ -1,0 +1,12 @@
+{
+    "description": "Nimbus is a NASA meteorological research-and-development satellite program (parallel to the operational TIROS program) which started in 1963 with the prime objective to test new instrument concepts (introduction of sensor technology), a secondary objective was to provide atmospheric data for improved weather forecasts. Eventually, the series grew more into a major Earth sciences program (study of oceans, land surfaces and atmosphere) with the availability of better sensing instrumentation. The ERTS (Earth Resources Technology Satellite, later renamed to Landsat-1) program, developed in the early 1970s, is a direct descendent of the Nimbus program.",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/n/nimbus-7",
+    "end_date": "1972-01-22T00:00:00",
+    "href": "http://data.globalchange.gov/platform/nimbus-3.json",
+    "identifier": "nimbus-3",
+    "name": "NIMBUS-3",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "1969-04-14T00:00:00",
+    "uri": "/platform/nimbus-3",
+    "url": null
+}

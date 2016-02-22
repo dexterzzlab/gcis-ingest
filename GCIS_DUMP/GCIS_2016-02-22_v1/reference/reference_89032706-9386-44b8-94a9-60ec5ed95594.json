@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.",
+        ".reference_type": "0",
+        "Author": "Huber, Markus\rKnutti, Reto",
+        "DOI": "10.1038/ngeo1327",
+        "Date": "January 2012",
+        "Epub Date": "December 2011",
+        "ISSN": "1752-0894",
+        "Issue": "1",
+        "Journal": "Nature Geoscience",
+        "Pages": "31-36",
+        "Title": "Anthropogenic and natural warming inferred from changes in Earth's energy balance",
+        "URL": "http://www.nature.com/ngeo/journal/v5/n1/pdf/ngeo1327.pdf",
+        "Volume": "5",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"Appendix 4: FAQs FINAL\",\"NCA Report Citations\"]",
+        "_record_number": "4427",
+        "_uuid": "89032706-9386-44b8-94a9-60ec5ed95594",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/ngeo1327",
+    "href": "http://data.globalchange.gov/reference/89032706-9386-44b8-94a9-60ec5ed95594.json",
+    "identifier": "89032706-9386-44b8-94a9-60ec5ed95594",
+    "uri": "/reference/89032706-9386-44b8-94a9-60ec5ed95594"
+}

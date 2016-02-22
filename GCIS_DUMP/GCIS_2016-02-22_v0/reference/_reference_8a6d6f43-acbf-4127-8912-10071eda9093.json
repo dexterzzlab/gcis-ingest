@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "BACKGROUND:Several studies have evaluated the association between forest fire smoke and acute exacerbations of respiratory diseases, but few have examined effects on pharmaceutical dispensations. We examine the associations between daily fine particulate matter (PM2.5) and pharmaceutical dispensations for salbutamol in forest fire-affected and non-fire-affected populations in British Columbia (BC), Canada.METHODS:We estimated PM2.5 exposure for populations in administrative health areas using measurements from central monitors. Remote sensing data on fires were used to classify the populations as fire-affected or non-fire-affected, and to identify extreme fire days. Daily counts of salbutamol dispensations between 2003 and 2010 were extracted from the BC PharmaNet database. We estimated rate ratios (RR) and 95% confidence intervals (CIs) for each population during all fire seasons and on extreme fire days, adjusted for temperature, humidity, and temporal trends. Overall effects for fire-affected and non-fire-affected populations were estimated via meta-regression.RESULTS:Fire season PM2.5 was positively associated with salbutamol dispensations in all fire-affected populations, with a meta-regression RR (95% CI) of 1.06 (1.04-1.07) for a 10 ug/m3 increase. Fire season PM2.5 was not significantly associated with salbutamol dispensations in non-fire-affected populations, with a meta-regression RR of 1.00 (0.98-1.01). On extreme fire days PM2.5 was positively associated with salbutamol dispensations in both population types, with a global meta-regression RR of 1.07 (1.04 - 1.09).CONCLUSIONS:Salbutamol dispensations were clearly associated with fire-related PM2.5. Significant associations were observed in smaller populations (range: 8,000 to 170,000 persons, median: 26,000) than those reported previously, suggesting that salbutamol dispensations may be a valuable outcome for public health surveillance during fire events.",
+        "Author": "Elliott, Catherine\rHenderson, Sarah\rWan, Victoria",
+        "DOI": "10.1186/1476-069X-12-11",
+        "ISSN": "1476-069X",
+        "Issue": "1",
+        "Journal": "Environmental Health",
+        "Pages": "11",
+        "Title": "Time series analysis of fine particulate matter and asthma reliever dispensations in populations affected by forest fires",
+        "URL": "http://www.ehjournal.net/content/12/1/11",
+        "Volume": "12",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "4197",
+        "_uuid": "8a6d6f43-acbf-4127-8912-10071eda9093",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1186/1476-069X-12-11",
+    "href": "http://data.globalchange.gov/reference/8a6d6f43-acbf-4127-8912-10071eda9093.json",
+    "identifier": "8a6d6f43-acbf-4127-8912-10071eda9093",
+    "uri": "/reference/8a6d6f43-acbf-4127-8912-10071eda9093"
+}

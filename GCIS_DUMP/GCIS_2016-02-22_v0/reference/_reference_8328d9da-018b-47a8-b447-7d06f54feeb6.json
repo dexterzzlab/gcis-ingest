@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".access_date": "5/20/2012",
+        ".reference_type": "16",
+        "Access Year": "2012",
+        "Author": "EIA,",
+        "Last Update Date": "5/12/2012",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "U.S. Department of Energy, U.S. Energy Information Administration",
+        "Title": "Petroleum and Other Liquids",
+        "URL": "http://www.eia.gov/petroleum/data.cfm",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 5: Transportation FINAL\"]",
+        "_record_number": "1258",
+        "_uuid": "8328d9da-018b-47a8-b447-7d06f54feeb6",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/6c2d4b18-9bb5-4664-ad8f-35237b937866",
+    "href": "http://data.globalchange.gov/reference/8328d9da-018b-47a8-b447-7d06f54feeb6.json",
+    "identifier": "8328d9da-018b-47a8-b447-7d06f54feeb6",
+    "uri": "/reference/8328d9da-018b-47a8-b447-7d06f54feeb6"
+}

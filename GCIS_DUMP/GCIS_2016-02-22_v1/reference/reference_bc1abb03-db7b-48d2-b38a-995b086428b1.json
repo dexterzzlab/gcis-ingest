@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Understanding the impacts of climate change on people and the environment requires an understanding of the dynamics of both climate and land use/land cover changes. A range of future climate scenarios is available for the conterminous United States that have been developed based on widely used international greenhouse gas emissions storylines. Climate scenarios derived from these emissions storylines have not been matched with logically consistent land use/cover maps for the United States. This gap is a critical barrier to conducting effective integrated assessments. This study develops novel national scenarios of housing density and impervious surface cover that are logically consistent with emissions storylines. Analysis of these scenarios suggests that combinations of climate and land use/cover can be important in determining environmental conditions regulated under the Clean Air and Clean Water Acts. We found significant differences in patterns of habitat loss and the distribution of potentially impaired watersheds among scenarios, indicating that compact development patterns can reduce habitat loss and the number of impaired watersheds. These scenarios are also associated with lower global greenhouse gas emissions and, consequently, the potential to reduce both the drivers of anthropogenic climate change and the impacts of changing conditions. The residential housing and impervious surface datasets provide a substantial first step toward comprehensive national land use/land cover scenarios, which have broad applicability for integrated assessments as these data and tools are publicly available. ",
+        "Author": "Bierwagen, B.G.\rTheobald, D.M.\rPyke, C.R.\rChoate, A.\rGroth, P.\rThomas, J.V.\rMorefield, P.",
+        "DOI": "10.1073/pnas.1002096107",
+        "ISSN": "0027-8424",
+        "Issue": "49",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Keywords": "urbanization; land planning; water quality",
+        "Pages": "20887-20892",
+        "Title": "National housing and impervious surface scenarios for integrated climate impact assessments",
+        "Volume": "107",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"Ch. 13: Land Use and Land Cover Change FINAL\",\"RG 10 Coasts\",\"RF 10\"]",
+        "_record_number": "1153",
+        "_uuid": "bc1abb03-db7b-48d2-b38a-995b086428b1",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.1002096107",
+    "href": "http://data.globalchange.gov/reference/bc1abb03-db7b-48d2-b38a-995b086428b1.json",
+    "identifier": "bc1abb03-db7b-48d2-b38a-995b086428b1",
+    "uri": "/reference/bc1abb03-db7b-48d2-b38a-995b086428b1"
+}

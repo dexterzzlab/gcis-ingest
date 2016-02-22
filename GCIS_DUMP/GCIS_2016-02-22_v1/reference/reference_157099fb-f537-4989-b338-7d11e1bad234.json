@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "8",
+        "Author": "Levin, M.D.",
+        "Issue Number": "July 2005",
+        "Magazine": "Wines and Vines",
+        "Place Published": "San Rafael, CA",
+        "Title": "Finger Lakes freezes devastate vineyards",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "3990",
+        "_uuid": "157099fb-f537-4989-b338-7d11e1bad234",
+        "reftype": "Magazine Article"
+    },
+    "child_publication": "/generic/2b9db850-af63-418f-a798-8ff9ea4152db",
+    "href": "http://data.globalchange.gov/reference/157099fb-f537-4989-b338-7d11e1bad234.json",
+    "identifier": "157099fb-f537-4989-b338-7d11e1bad234",
+    "uri": "/reference/157099fb-f537-4989-b338-7d11e1bad234"
+}

@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": "10.7930/J0Z31WJ2",
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/nca3.json",
+    "identifier": "nca3",
+    "in_library": 1,
+    "publication_year": 2014,
+    "report_type_identifier": "assessment",
+    "summary": "The National Climate Assessment summarizes the impacts of climate change on the United States, now and in the future. A team of more than 300 experts guided by a 60-member Federal Advisory Committee produced the report, which was extensively reviewed by the public and experts, including federal agencies and a panel of the National Academy of Sciences. The report can be explored interactively at http://nca2014.globalchange.gov.",
+    "title": "Climate Change Impacts in the United States: The Third National Climate Assessment",
+    "topic": null,
+    "uri": "/report/nca3",
+    "url": "http://nca2014.globalchange.gov"
+}

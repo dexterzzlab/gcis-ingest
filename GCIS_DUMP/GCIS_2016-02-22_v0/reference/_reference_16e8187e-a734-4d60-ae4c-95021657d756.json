@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Van Beusekom, A.E.\rO\u2019Neel, S.R.\rMarch, R.S.\rSass, L.C.\rCox, L.H.",
+        "Institution": "U.S. Geological Survey ",
+        "Pages": "16",
+        "Place Published": "Washington, D.C.",
+        "Title": "Re-analysis of Alaskan benchmark glacier mass-balance data using the index method. U.S. Geological Survey Scientific Investigations Report 2010-5247",
+        "URL": "http://pubs.usgs.gov/sir/2010/5247/pdf/sir20105247.pdf",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "3259",
+        "_uuid": "16e8187e-a734-4d60-ae4c-95021657d756",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usgs-sciinvesrep-2010-5247",
+    "href": "http://data.globalchange.gov/reference/16e8187e-a734-4d60-ae4c-95021657d756.json",
+    "identifier": "16e8187e-a734-4d60-ae4c-95021657d756",
+    "uri": "/reference/16e8187e-a734-4d60-ae4c-95021657d756"
+}

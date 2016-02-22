@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Perry, R.I.\rCury, P.\rBrander, K.\rJennings, S.\rM\u00f6llmann, C.\rPlanque, B.",
+        "DOI": "10.1016/j.jmarsys.2008.12.017",
+        "ISSN": "0924-7963",
+        "Issue": "3",
+        "Journal": "Journal of Marine Systems",
+        "Pages": "427-435",
+        "Title": "Sensitivity of marine systems to climate and fishing: Concepts, issues and management responses",
+        "URL": "http://archimer.ifremer.fr/doc/00000/11141/9343.pdf",
+        "Volume": "79",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\"]",
+        "_record_number": "2471",
+        "_uuid": "6a870b46-c599-4bf3-8dcf-32067fdd8393",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.jmarsys.2008.12.017",
+    "href": "http://data.globalchange.gov/reference/6a870b46-c599-4bf3-8dcf-32067fdd8393.json",
+    "identifier": "6a870b46-c599-4bf3-8dcf-32067fdd8393",
+    "uri": "/reference/6a870b46-c599-4bf3-8dcf-32067fdd8393"
+}

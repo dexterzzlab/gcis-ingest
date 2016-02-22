@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Backer, L.C.\rFleming, L.E.\rRowan, A.\rCheng, Y.S.\rBenson, J.\rPierce, R.H.\rZaias, J.\rBean, J.\rBossart, G.D.\rJohnson, D.\rQuimbo, R.\rBaden, D.G.",
+        "DOI": "10.1016/s1568-9883(03)00005-2",
+        "ISSN": "1568-9883",
+        "Issue": "1",
+        "Journal": "Harmful Algae",
+        "Pages": "19-28",
+        "Title": "Recreational exposure to aerosolized brevetoxins during Florida red tide events",
+        "Volume": "2",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "1396",
+        "_uuid": "45c78ce3-56d1-4ed8-864b-bca300114602",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/s1568-9883(03)00005-2",
+    "href": "http://data.globalchange.gov/reference/45c78ce3-56d1-4ed8-864b-bca300114602.json",
+    "identifier": "45c78ce3-56d1-4ed8-864b-bca300114602",
+    "uri": "/reference/45c78ce3-56d1-4ed8-864b-bca300114602"
+}

@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Douglass, Scott L.\rKrolak, Joe",
+        "Date": "June 2008",
+        "Institution": "U.S. Department of Transportation Federal Highway Administration",
+        "Pages": "250",
+        "Title": "Highways in the Coastal Environment, Hydraulic Engineering Circular No. 25, Second Edition. Publication No. FHWA-NHI-07-096",
+        "URL": "http://www.fhwa.dot.gov/engineering/hydraulics/pubs/07096/07096.pdf",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "4503",
+        "_uuid": "c9dd7569-b605-4887-a0a5-ec7bd099cd03",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/fhwa-nhi-07-096",
+    "href": "http://data.globalchange.gov/reference/c9dd7569-b605-4887-a0a5-ec7bd099cd03.json",
+    "identifier": "c9dd7569-b605-4887-a0a5-ec7bd099cd03",
+    "uri": "/reference/c9dd7569-b605-4887-a0a5-ec7bd099cd03"
+}

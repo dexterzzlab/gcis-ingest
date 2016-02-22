@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "An example of crop monitoring using satellite data to determine agricultural production using MODIS instruments on research satellites. In a) an area of severe drought is identified in the Fertile Crescent of the Near East. In b) a comparison is made for all the cropped areas in Iraq between the 2000 to 2007 mean conditions and the 2007/2008 growing season. These data have proven to be extremely useful for monitoring global food production. Credit: I. Reshef, University of Maryland.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "cc/29/7c07c216e4333eff0bf046c455b5/our_changing_planet_2010_image__16_20091209_1107001951.jpg",
+            "href": "http://data.globalchange.gov/assets/cc/29/7c07c216e4333eff0bf046c455b5/our_changing_planet_2010_image__16_20091209_1107001951.jpg",
+            "identifier": "d32d00bb-b941-4800-a130-4e248b7400ee",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "49ee5a41b598f5b7df97109d27b10bf237c0d18c",
+            "size": 823690,
+            "thumbnail": "cc/29/7c07c216e4333eff0bf046c455b5/.thumb-d32d00bb-b941-4800-a130-4e248b7400ee.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/cc/29/7c07c216e4333eff0bf046c455b5/.thumb-d32d00bb-b941-4800-a130-4e248b7400ee.png",
+            "uri": "/file/d32d00bb-b941-4800-a130-4e248b7400ee",
+            "url": "/assets/cc/29/7c07c216e4333eff0bf046c455b5/our_changing_planet_2010_image__16_20091209_1107001951.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2010/figure/satellite-monitoring-of-crop-yields.json",
+    "identifier": "satellite-monitoring-of-crop-yields",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2010",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Satellite Monitoring of Crop Yields",
+    "uri": "/report/usgcrp-ocpfy2010/figure/satellite-monitoring-of-crop-yields",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

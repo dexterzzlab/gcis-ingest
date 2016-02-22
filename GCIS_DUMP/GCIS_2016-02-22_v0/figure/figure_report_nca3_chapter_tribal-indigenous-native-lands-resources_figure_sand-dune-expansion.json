@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "On the Arizona portion of the Navajo Nation, recurring drought and rising temperatures have accelerated growth and movement of sand dunes. Map above shows range and movement of Great Falls Dune Field from 1953 to 2010. Moving and/or growing dunes can threaten roads, homes, traditional grazing areas, and other tribal assets. (Figure source: Redsteer et al. 2011<tbib>953476ae-1357-48a5-99d8-1daf963f0a3c</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J09G5JR1",
+        "identifier": "tribal-indigenous-native-lands-resources",
+        "number": 12,
+        "report_identifier": "nca3",
+        "sort_key": 120,
+        "title": "Indigenous Peoples, Lands, and Resources",
+        "url": "http://nca2014.globalchange.gov/report/sectors/indigenous-peoples"
+    },
+    "chapter_identifier": "tribal-indigenous-native-lands-resources",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2012-10-27T14:11:00",
+    "files": [
+        {
+            "file": "4a/14/cf920a0fad920a7539733944876a/Tribal_sand_dune_expansion_V1.png",
+            "href": "http://data.globalchange.gov/assets/4a/14/cf920a0fad920a7539733944876a/Tribal_sand_dune_expansion_V1.png",
+            "identifier": "d1d04294-4331-4c87-b07a-aca3e4953a4e",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "af89520bbaba0c568eb353c4fc158cbf01f01049",
+            "size": 2743732,
+            "thumbnail": "4a/14/cf920a0fad920a7539733944876a/.thumb-d1d04294-4331-4c87-b07a-aca3e4953a4e.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/4a/14/cf920a0fad920a7539733944876a/.thumb-d1d04294-4331-4c87-b07a-aca3e4953a4e.png",
+            "uri": "/file/d1d04294-4331-4c87-b07a-aca3e4953a4e",
+            "url": "/assets/4a/14/cf920a0fad920a7539733944876a/Tribal_sand_dune_expansion_V1.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/tribal-indigenous-native-lands-resources/figure/sand-dune-expansion.json",
+    "identifier": "sand-dune-expansion",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2012-10-27T14:11:00",
+            "description": null,
+            "identifier": "a2728285-7996-4839-b07c-4c2668edbc6c",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2010-12-31T23:59:59",
+            "time_start": "1953-01-01T00:00:00",
+            "title": "Sand Dune Expansion",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 3,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Monitoring and Analysis of Sand Dune Movement and Growth on the Navajo Nation, Southwestern United States. Fact Sheet Number 3085",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/usgs-factsheet-3085"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/953476ae-1357-48a5-99d8-1daf963f0a3c.json",
+            "uri": "/reference/953476ae-1357-48a5-99d8-1daf963f0a3c"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "Redsteer et al. 2011<tbib>953476ae-1357-48a5-99d8-1daf963f0a3c</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Sand Dune Expansion",
+    "uri": "/report/nca3/chapter/tribal-indigenous-native-lands-resources/figure/sand-dune-expansion",
+    "url": "http://nca2014.globalchange.gov/report/sectors/indigenous-peoples/graphics/sand-dune-expansion",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

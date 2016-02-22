@@ -1,0 +1,95 @@
+{
+    "attributes": "Great Plains, precipitation, projected",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2523.json",
+            "id": 2523,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Laura",
+                "id": 1101,
+                "last_name": "Stevens",
+                "middle_name": null,
+                "orcid": "0000-0002-8842-702X",
+                "url": "http://www.cicsnc.org/people/laura-stevens"
+            },
+            "person_id": 1101,
+            "person_uri": "/person/1101",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2523"
+        }
+    ],
+    "create_dt": "2013-07-31T14:16:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "The number of days with the heaviest precipitation is not projected to change dramatically. The historical (1971-2000) distribution of the greatest 2% of daily precipitation (Top: about seven days each year) echoes the regional east-west gradient in average precipitation. By mid-century (2041-2070), the projected change in days exceeding those precipitation amounts remains greatest in the northern area for both the lower emissions scenario (B1) and for the higher emissions scenario (A2). (Figure source: NOAA NCDC / CICS-NC).",
+            "chapter_identifier": "great-plains",
+            "create_dt": "2013-11-12T10:46:39",
+            "identifier": "projected-change-in-number-of-heavy-precipitation-days",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 4,
+            "report_identifier": "nca3",
+            "source_citation": "NOAA NCDC / CICS-NC",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Projected Change in Number of Heavy Precipitation Days",
+            "url": "http://nca2014.globalchange.gov/report/regions/great-plains/graphics/projected-change-number-heavy-precipitation-days",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "bd/d7/3d8a5e46fb6c21df58ce648f233d/19-4-b.png",
+            "href": "http://data.globalchange.gov/assets/bd/d7/3d8a5e46fb6c21df58ce648f233d/19-4-b.png",
+            "identifier": "0167e693-0562-4df2-b279-a1f29ba1b194",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "c5801372f40e5c895d3f701137da444318c997af",
+            "size": 185003,
+            "thumbnail": "bd/d7/3d8a5e46fb6c21df58ce648f233d/.thumb-0167e693-0562-4df2-b279-a1f29ba1b194.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/bd/d7/3d8a5e46fb6c21df58ce648f233d/.thumb-0167e693-0562-4df2-b279-a1f29ba1b194.png",
+            "uri": "/file/0167e693-0562-4df2-b279-a1f29ba1b194",
+            "url": "/assets/bd/d7/3d8a5e46fb6c21df58ce648f233d/19-4-b.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/b7a503bf-c39e-4615-892b-780a69ae57b5.json",
+    "identifier": "b7a503bf-c39e-4615-892b-780a69ae57b5",
+    "lat_max": "48.94",
+    "lat_min": "25.94",
+    "lon_max": "-116.06",
+    "lon_min": "-93.56",
+    "parents": [
+        {
+            "activity_uri": "/activity/b7a503bf-nca3-cmip3-downscaled-r201304-process",
+            "label": "dataset nca3-cmip3-downscaled-r201304",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-cmip3-downscaled-r201304"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2070-12-31T23:59:59",
+    "time_start": "1971-01-01T00:00:00",
+    "title": "Projected Change in Number of Heavy Precipitation Days: Lower Emissions (B1)",
+    "uri": "/image/b7a503bf-c39e-4615-892b-780a69ae57b5",
+    "url": null,
+    "usage_limits": null
+}

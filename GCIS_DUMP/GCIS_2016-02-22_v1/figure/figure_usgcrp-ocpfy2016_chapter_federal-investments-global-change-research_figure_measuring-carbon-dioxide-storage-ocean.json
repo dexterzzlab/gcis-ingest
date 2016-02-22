@@ -1,0 +1,89 @@
+{
+    "attributes": null,
+    "caption": "Technicians work on a NOAA buoy equipped with carbon dioxide sensors. Autonomous sensors like these have improved estimations of how much carbon is stored annually by the oceans. (Source: NOAA)",
+    "chapter": {
+        "doi": null,
+        "identifier": "federal-investments-global-change-research",
+        "number": 2,
+        "report_identifier": "usgcrp-ocpfy2016",
+        "sort_key": 20,
+        "title": "Federal Investments in Global Change Research ",
+        "url": null
+    },
+    "chapter_identifier": "federal-investments-global-change-research",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/1610.json",
+            "id": 1610,
+            "organization": {
+                "country_code": "US",
+                "identifier": "national-oceanic-atmospheric-administration",
+                "name": "National Oceanic and Atmospheric Administration",
+                "organization_type_identifier": "federal",
+                "url": "http://www.noaa.gov/"
+            },
+            "organization_uri": "/organization/national-oceanic-atmospheric-administration",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "author",
+            "uri": "/contributor/1610"
+        }
+    ],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "83/9f/d259fa610fd29d83f16cfc8c598c/HL3_carbon-budget-ocean-measurement-buoy.jpg",
+            "href": "http://data.globalchange.gov/assets/83/9f/d259fa610fd29d83f16cfc8c598c/HL3_carbon-budget-ocean-measurement-buoy.jpg",
+            "identifier": "3ab33bc7-5982-4260-b223-a86cd2e11e8f",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "82deab81a079da75ba96ae94ece0302eaa40fe98",
+            "size": 798056,
+            "thumbnail": "83/9f/d259fa610fd29d83f16cfc8c598c/.thumb-3ab33bc7-5982-4260-b223-a86cd2e11e8f.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/83/9f/d259fa610fd29d83f16cfc8c598c/.thumb-3ab33bc7-5982-4260-b223-a86cd2e11e8f.png",
+            "uri": "/file/3ab33bc7-5982-4260-b223-a86cd2e11e8f",
+            "url": "/assets/83/9f/d259fa610fd29d83f16cfc8c598c/HL3_carbon-budget-ocean-measurement-buoy.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2016/chapter/federal-investments-global-change-research/figure/measuring-carbon-dioxide-storage-ocean.json",
+    "identifier": "measuring-carbon-dioxide-storage-ocean",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": null,
+            "description": "Technicians work on a NOAA buoy equipped with carbon dioxide sensors. Autonomous sensors like these have improved estimations of how much carbon is stored annually by the oceans. (Source: NOAA)",
+            "identifier": "d6a45633-65ab-4318-9a06-8071ffc8c47a",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Measuring carbon dioxide storage by the ocean",
+            "url": null,
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 2,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2016",
+    "source_citation": "Retrieved from NOAA in March 2015",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Measuring carbon dioxide storage by the ocean",
+    "uri": "/report/usgcrp-ocpfy2016/chapter/federal-investments-global-change-research/figure/measuring-carbon-dioxide-storage-ocean",
+    "url": "http://research.noaa.gov/InDepth/Features/CurrentFeature/TabId/728/ArtMID/1884/ArticleID/10499/Carbon-dioxide-in-the-tropical-Pacific-Ocean-is-increasing-faster-than-expected.aspx",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".publisher": "US Department of Health & Human Services, Centers for Disease Control and Prevention",
+        ".reference_type": "0",
+        "Author": "Filler, S.J.\rMacArthur, J.R.\rParise, M.\rWirtz, R.\rEliades, M.J.\rDasilva, A.\rSteketee, R.",
+        "ISSN": "1057-5987",
+        "Issue": "RR-13",
+        "Journal": "Morbidity and Mortality Weekly Report, Recommendations and Reports",
+        "Pages": "1-9",
+        "Title": "Locally acquired mosquito-transmitted malaria: A guide for investigations in the United States",
+        "URL": "http://www.cdc.gov/mmwr/PDF/rr/rr5513.pdf",
+        "Volume": "55",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "1063",
+        "_uuid": "2c90efcc-411e-41f9-9144-773074f842a0",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/locally-acquired-mosquitotransmitted-malaria-a-guide-for-investigations-in-the-united-states",
+    "href": "http://data.globalchange.gov/reference/2c90efcc-411e-41f9-9144-773074f842a0.json",
+    "identifier": "2c90efcc-411e-41f9-9144-773074f842a0",
+    "uri": "/reference/2c90efcc-411e-41f9-9144-773074f842a0"
+}

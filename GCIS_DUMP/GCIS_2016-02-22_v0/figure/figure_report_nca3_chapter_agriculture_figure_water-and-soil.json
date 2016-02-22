@@ -1,0 +1,80 @@
+{
+    "attributes": null,
+    "caption": "The increasing intensity of storms and the shifting of rainfall patterns toward more spring precipitation in the Midwest may lead to more scenes similar to this one.",
+    "chapter": {
+        "doi": "10.7930/J02Z13FR",
+        "identifier": "agriculture",
+        "number": 6,
+        "report_identifier": "nca3",
+        "sort_key": 60,
+        "title": "Agriculture",
+        "url": "http://nca2014.globalchange.gov/report/sectors/agriculture"
+    },
+    "chapter_identifier": "agriculture",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-02-11T10:22:00",
+    "files": [
+        {
+            "file": "b7/b5/d4ce303fedbbf0fdd5d51b8073d5/AG_field_erosion.jpg",
+            "href": "http://data.globalchange.gov/assets/b7/b5/d4ce303fedbbf0fdd5d51b8073d5/AG_field_erosion.jpg",
+            "identifier": "04d96b93-f8cf-4af3-9547-a4fb6d1b2794",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "170ac73976170c96bc7f37c0d23108492ba9d857",
+            "size": 7038511,
+            "thumbnail": "b7/b5/d4ce303fedbbf0fdd5d51b8073d5/.thumb-04d96b93-f8cf-4af3-9547-a4fb6d1b2794.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/b7/b5/d4ce303fedbbf0fdd5d51b8073d5/.thumb-04d96b93-f8cf-4af3-9547-a4fb6d1b2794.png",
+            "uri": "/file/04d96b93-f8cf-4af3-9547-a4fb6d1b2794",
+            "url": "/assets/b7/b5/d4ce303fedbbf0fdd5d51b8073d5/AG_field_erosion.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/agriculture/figure/water-and-soil.json",
+    "identifier": "water-and-soil",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-02-11T10:22:00",
+            "description": null,
+            "identifier": "35febf7f-3691-4e65-bc0c-dab1a230a01d",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2011-10-04T12:48:41",
+            "time_start": "2011-10-04T12:48:41",
+            "title": "Runoff Leads to Soil Erosion",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 7,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "webpage NRCS Photo Gallery",
+            "note": null,
+            "publication_type_identifier": "webpage",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/webpage/13da595f-e0f0-4ad0-b87b-44ce3897cd30"
+        }
+    ],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Water and Soil",
+    "uri": "/report/nca3/chapter/agriculture/figure/water-and-soil",
+    "url": "http://nca2014.globalchange.gov/report/sectors/agriculture/graphics/runoff-leads-soil-erosion",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

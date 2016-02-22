@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-12T11:17:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "The Pacific Islands include \u201chigh\u201d volcanic islands, such as that on the left, that reach nearly 14,000 feet above sea level, and \u201clow\u201d atolls and islands, such as that on the right, that peak at just a few feet above present sea level. (Left) Ko\u2018olau Mountains on the windward side of Oahu, Hawai\u2018i (Photo credit: kstrebor via Flickr.com). (Right) Laysan Island, Papah\u0101naumoku\u0101kea Marine National Monument (Photo credit: Andy Collins, NOAA).",
+            "chapter_identifier": "hawaii",
+            "create_dt": "2013-11-12T11:17:00",
+            "identifier": "high-and-low-pacific-islands-face-different-threats",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 2,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "\u201cHigh\u201d and \u201cLow\u201d Pacific Islands Face Different Threats",
+            "url": "http://nca2014.globalchange.gov/report/regions/hawaii-and-pacific-islands/graphics/%E2%80%9Chigh%E2%80%9D-and-%E2%80%9Clow%E2%80%9D-pacific-islands-face-different",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "49/5a/2ef38d348901152dbddbaea7cefb/hi_high_island.jpg",
+            "href": "http://data.globalchange.gov/assets/49/5a/2ef38d348901152dbddbaea7cefb/hi_high_island.jpg",
+            "identifier": "3600a0d5-1b0c-43d2-b9c0-530032766607",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "84fbade6e900b3551596cd20fc103c4410235832",
+            "size": 187761,
+            "thumbnail": "49/5a/2ef38d348901152dbddbaea7cefb/.thumb-3600a0d5-1b0c-43d2-b9c0-530032766607.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/49/5a/2ef38d348901152dbddbaea7cefb/.thumb-3600a0d5-1b0c-43d2-b9c0-530032766607.png",
+            "uri": "/file/3600a0d5-1b0c-43d2-b9c0-530032766607",
+            "url": "/assets/49/5a/2ef38d348901152dbddbaea7cefb/hi_high_island.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/60460b50-dd16-4fd5-8026-e3468d76be48.json",
+    "identifier": "60460b50-dd16-4fd5-8026-e3468d76be48",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "\u201cHigh\u201d and \u201cLow\u201d Pacific Islands Face Different Threats - Ko'olau Mountains",
+    "uri": "/image/60460b50-dd16-4fd5-8026-e3468d76be48",
+    "url": null,
+    "usage_limits": null
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Mendelsohn, R.\rNeumann, J.E.",
+        "ISBN": "9780521621984",
+        "Number of Pages": "344",
+        "Place Published": "Cambridge, UK",
+        "Publisher": "Cambridge University Press",
+        "Reviewer": "7873feee-6e3e-4186-b87a-b25b9e03ae59",
+        "Title": "The Impact of Climate Change on the United States Economy",
+        "Year": "1999",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4094",
+        "_uuid": "7873feee-6e3e-4186-b87a-b25b9e03ae59",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/679bfed3-66ae-4ad6-86f1-ae9e3e59dcae",
+    "href": "http://data.globalchange.gov/reference/7873feee-6e3e-4186-b87a-b25b9e03ae59.json",
+    "identifier": "7873feee-6e3e-4186-b87a-b25b9e03ae59",
+    "uri": "/reference/7873feee-6e3e-4186-b87a-b25b9e03ae59"
+}

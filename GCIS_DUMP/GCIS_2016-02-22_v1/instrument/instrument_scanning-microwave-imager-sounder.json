@@ -1,0 +1,8 @@
+{
+    "description": "Absorption-band MW radiometer/spectrometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/scanning-microwave-imager-sounder.json",
+    "identifier": "scanning-microwave-imager-sounder",
+    "name": "Scanning microwave imager-sounder",
+    "uri": "/instrument/scanning-microwave-imager-sounder"
+}

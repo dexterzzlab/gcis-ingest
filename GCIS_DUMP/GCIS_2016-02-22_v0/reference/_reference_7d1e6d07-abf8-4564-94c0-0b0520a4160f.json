@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"italic\" start=\"78\" /><run start=\"101\" /></field></record>",
+        "Author": "Hicke, J.A.\rLogan, J.A.\rPowell, J.\rOjima, D.S.",
+        "DOI": "10.1029/2005JG000101",
+        "ISSN": "0148-0227",
+        "Issue": "G2",
+        "Journal": "Journal of Geophysical Research",
+        "Pages": "G02019",
+        "Title": "Changing temperatures influence suitability for modeled mountain pine beetle (Dendroctonus ponderosae) outbreaks in the western United States",
+        "Volume": "111",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "226",
+        "_uuid": "7d1e6d07-abf8-4564-94c0-0b0520a4160f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2005JG000101",
+    "href": "http://data.globalchange.gov/reference/7d1e6d07-abf8-4564-94c0-0b0520a4160f.json",
+    "identifier": "7d1e6d07-abf8-4564-94c0-0b0520a4160f",
+    "uri": "/reference/7d1e6d07-abf8-4564-94c0-0b0520a4160f"
+}

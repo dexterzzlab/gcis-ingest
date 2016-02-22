@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "A grid network version of the two-layer variable infiltration capacity (VIC-2L) macroscale hydrologic model is described. VIC-2L is a hydrologically based soil- vegetation-atmosphere transfer scheme designed to represent the land surface in numerical weather prediction and climate models. The grid network scheme allows streamflow to be predicted for large continental rivers. Off-line (observed and estimated surface meteorological and radiative forcings) applications of the model to the Columbia River (1\u00b0 latitude-longitude spatial resolution) and Delaware River (0.5\u00b0 resolution) are described. The model performed quite well in both applications, reproducing the seasonal hydrograph and annual flow volumes to within a few percent. Difficulties in reproducing observed streamflow in the arid portion of the Snake River basin are attributed to groundwater-surface water interactions, which are not modeled by VIC-2L. ",
+        "Author": "Nijssen, B.\rD.P. Lettenmaier\rX. Liang\rS.W. Wetzel\rE.F. Wood",
+        "DOI": "10.1029/96WR03517",
+        "Issue": "4",
+        "Journal": "Water Resources Research",
+        "Pages": "711-724",
+        "Title": "Streamflow simulation for continental-scale river basins",
+        "URL": "http://www.agu.org/pubs/crossref/1997/96WR03517.shtml",
+        "Volume": "33",
+        "Year": "1997",
+        "_chapter": "[\"RF 3\",\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "2223",
+        "_uuid": "ec534395-9d19-446f-90c4-a181c9ed31f0",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/96WR03517",
+    "href": "http://data.globalchange.gov/reference/ec534395-9d19-446f-90c4-a181c9ed31f0.json",
+    "identifier": "ec534395-9d19-446f-90c4-a181c9ed31f0",
+    "uri": "/reference/ec534395-9d19-446f-90c4-a181c9ed31f0"
+}

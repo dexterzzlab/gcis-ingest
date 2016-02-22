@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Hauser, R.\rJadin, J.",
+        "Pages": "38",
+        "Title": "Rural Communities Workshop Technical Report to the 2013 National Climate Assessment",
+        "URL": "http://data.globalchange.gov/report/nca-techreport-rural-2012",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 14: Rural Communities FINAL\",\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "1482",
+        "_uuid": "e49f5471-72a0-4922-ade9-d1f5bafcf68b",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/nca-techreport-rural-2012",
+    "href": "http://data.globalchange.gov/reference/e49f5471-72a0-4922-ade9-d1f5bafcf68b.json",
+    "identifier": "e49f5471-72a0-4922-ade9-d1f5bafcf68b",
+    "uri": "/reference/e49f5471-72a0-4922-ade9-d1f5bafcf68b"
+}

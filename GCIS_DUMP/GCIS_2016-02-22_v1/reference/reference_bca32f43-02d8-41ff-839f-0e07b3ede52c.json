@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2012",
+        "Author": "MTA,",
+        "Place Published": "State of New York, New York",
+        "Publisher": "Metropolitan Transit Authority",
+        "Title": "Subway and Bus Ridership",
+        "URL": "http://www.mta.info/nyct/facts/ridership/index.htm#atGlance_s",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 5: Transportation FINAL\"]",
+        "_record_number": "2008",
+        "_uuid": "bca32f43-02d8-41ff-839f-0e07b3ede52c",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/f66c2e46-2e0a-4987-af57-40365a075035",
+    "href": "http://data.globalchange.gov/reference/bca32f43-02d8-41ff-839f-0e07b3ede52c.json",
+    "identifier": "bca32f43-02d8-41ff-839f-0e07b3ede52c",
+    "uri": "/reference/bca32f43-02d8-41ff-839f-0e07b3ede52c"
+}

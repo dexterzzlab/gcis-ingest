@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Kinney, P.L.",
+        "DOI": "10.1016/j.amepre.2008.08.025",
+        "ISSN": "0749-3797",
+        "Issue": "5",
+        "Journal": "American Journal of Preventive Medicine",
+        "Pages": "459-467",
+        "Title": "Climate change, air quality, and human health",
+        "URL": "http://www.ajpmonline.org/article/S0749-3797%2808%2900690-9/fulltext",
+        "Volume": "35",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "332",
+        "_uuid": "2d58d3bb-62b3-45f2-b4c9-10d22b556f9c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.amepre.2008.08.025",
+    "href": "http://data.globalchange.gov/reference/2d58d3bb-62b3-45f2-b4c9-10d22b556f9c.json",
+    "identifier": "2d58d3bb-62b3-45f2-b4c9-10d22b556f9c",
+    "uri": "/reference/2d58d3bb-62b3-45f2-b4c9-10d22b556f9c"
+}

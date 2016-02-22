@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Alongi, D.M.",
+        "DOI": "10.1016/j.ecss.2007.08.024",
+        "ISSN": "0272-7714",
+        "Issue": "1",
+        "Journal": "Estuarine, Coastal and Shelf Science",
+        "Pages": "1-13",
+        "Title": "Mangrove forests: Resilience, protection from tsunamis, and responses to global climate change",
+        "Volume": "76",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "1089",
+        "_uuid": "4a1ded45-a208-40af-a332-51ef369ab244",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.ecss.2007.08.024",
+    "href": "http://data.globalchange.gov/reference/4a1ded45-a208-40af-a332-51ef369ab244.json",
+    "identifier": "4a1ded45-a208-40af-a332-51ef369ab244",
+    "uri": "/reference/4a1ded45-a208-40af-a332-51ef369ab244"
+}

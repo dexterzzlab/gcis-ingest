@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Houser, S.\rV. Teller\rM. MacCracken\rR Gough\rP. Spears",
+        "Book Title": "Climate Change Impacts in the United States: Potential Consequences of Climate Change and Variability and Change",
+        "Pages": "351-377",
+        "Place Published": "Cambridge, UK",
+        "Publisher": "Cambridge University Press",
+        "Reviewer": "842903de-6ded-43d7-9f25-19149a85349e",
+        "Title": "Ch. 12: Potential consequences of climate variability and change for native peoples and homelands",
+        "URL": "http://www.gcrio.org/NationalAssessment/12NA.pdf",
+        "Year": "2001",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\",\"Ch. 1: Overview FINAL\"]",
+        "_record_number": "4567",
+        "_uuid": "842903de-6ded-43d7-9f25-19149a85349e",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/nca1",
+    "href": "http://data.globalchange.gov/reference/842903de-6ded-43d7-9f25-19149a85349e.json",
+    "identifier": "842903de-6ded-43d7-9f25-19149a85349e",
+    "uri": "/reference/842903de-6ded-43d7-9f25-19149a85349e"
+}

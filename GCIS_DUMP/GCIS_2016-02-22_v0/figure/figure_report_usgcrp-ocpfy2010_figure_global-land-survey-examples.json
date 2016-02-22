@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Examples of the GLS 2005 images for Saskatchewan. These images illustrate the four data layers in this global data set of Landsat imagery: the 1970s, 1990, 2000, and 2005. All four data layers were geometrically corrected to the terrain using the 2000 Landsat-7 data layer as the rectification basis. These data are now being distributed free of charge through NASA and the USGS. Credit: G. Gutman, NASA/Headquarters; J. Masek, NASA/Goddard Space Flight Center; C. Justice and S. Franks, University of Maryland; R. Byrnes and R. Headley, USGS.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "96/be/cfc779cc07d9d4aa74fc1100945c/our_changing_planet_2010_image__20091209_1110899920.jpg",
+            "href": "http://data.globalchange.gov/assets/96/be/cfc779cc07d9d4aa74fc1100945c/our_changing_planet_2010_image__20091209_1110899920.jpg",
+            "identifier": "5297d65d-be3f-4383-bfb1-72d0f797686b",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "a2e59d6b3f96d4f517c640624a0a4b64ad3e3fb0",
+            "size": 450478,
+            "thumbnail": "96/be/cfc779cc07d9d4aa74fc1100945c/.thumb-5297d65d-be3f-4383-bfb1-72d0f797686b.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/96/be/cfc779cc07d9d4aa74fc1100945c/.thumb-5297d65d-be3f-4383-bfb1-72d0f797686b.png",
+            "uri": "/file/5297d65d-be3f-4383-bfb1-72d0f797686b",
+            "url": "/assets/96/be/cfc779cc07d9d4aa74fc1100945c/our_changing_planet_2010_image__20091209_1110899920.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2010/figure/global-land-survey-examples.json",
+    "identifier": "global-land-survey-examples",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2010",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Global Land Survey Examples",
+    "uri": "/report/usgcrp-ocpfy2010/figure/global-land-survey-examples",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Wilder, M.\rGarfin, G.\rGanster, P.\rEakin, H.\rRomero-Lankao, P.\rLara-Valencia, F.\rCortez-Lara, A. A.\rMumme, S.\rNeri, C.\rMu\u00f1oz-Arriola, F.",
+        "Book Title": "Assessment of Climate Change in the Southwest United States: A Report Prepared for the National Climate Assessment",
+        "Editor": "Garfin, G.\rJardine, A.\rMerideth, R.\rBlack, Mary\rLeRoy, Sarah",
+        "ISBN": "9781610914468",
+        "Pages": "340\u2013384",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "Island Press",
+        "Reviewer": "143f2380-6a22-4149-a682-c10c62615d69",
+        "Title": "Ch. 16: Climate change and U.S.-Mexico border communities",
+        "URL": "http://swccar.org/sites/all/themes/files/SW-NCA-color-FINALweb.pdf",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "4006",
+        "_uuid": "143f2380-6a22-4149-a682-c10c62615d69",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/c9625c65-c20f-4163-87fe-cebf734f7836",
+    "href": "http://data.globalchange.gov/reference/143f2380-6a22-4149-a682-c10c62615d69.json",
+    "identifier": "143f2380-6a22-4149-a682-c10c62615d69",
+    "uri": "/reference/143f2380-6a22-4149-a682-c10c62615d69"
+}

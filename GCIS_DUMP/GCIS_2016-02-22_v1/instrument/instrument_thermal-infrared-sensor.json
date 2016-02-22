@@ -1,0 +1,8 @@
+{
+    "description": "Narrow-band channel IR radiometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/thermal-infrared-sensor.json",
+    "identifier": "thermal-infrared-sensor",
+    "name": "Thermal Infrared Sensor",
+    "uri": "/instrument/thermal-infrared-sensor"
+}

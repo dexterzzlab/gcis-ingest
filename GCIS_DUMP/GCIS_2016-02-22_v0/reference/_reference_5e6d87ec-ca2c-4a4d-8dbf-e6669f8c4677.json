@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Williams, J.H.\rDeBenedictis, A.\rGhanadan, R.\rMahone, A.\rMoore, J.\rMorrow III, W.R.\rPrice, S.\rTorn, M.S.",
+        "DOI": "10.1126/science.1208365",
+        "ISSN": "0036-8075",
+        "Issue": "6064",
+        "Journal": "Science",
+        "Pages": "53-59",
+        "Title": "The technology path to deep greenhouse gas emissions cuts by 2050: The pivotal role of electricity",
+        "Volume": "335",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 4: Energy Supply and Use FINAL\"]",
+        "_record_number": "3441",
+        "_uuid": "5e6d87ec-ca2c-4a4d-8dbf-e6669f8c4677",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1208365",
+    "href": "http://data.globalchange.gov/reference/5e6d87ec-ca2c-4a4d-8dbf-e6669f8c4677.json",
+    "identifier": "5e6d87ec-ca2c-4a4d-8dbf-e6669f8c4677",
+    "uri": "/reference/5e6d87ec-ca2c-4a4d-8dbf-e6669f8c4677"
+}

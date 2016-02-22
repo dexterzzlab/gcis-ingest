@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "The figure shows forestland by ownership category in the contiguous U.S. in 2007.<tbib>2545714a-f4ac-48f4-8c8f-b0954f3cfef6</tbib> Western forests are most often located on public lands, while eastern forests, especially in Maine and in the Southeast, are more often privately held. (Figure source: U.S. Forest Service 2012<tbib>2545714a-f4ac-48f4-8c8f-b0954f3cfef6</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0Z60KZC",
+        "identifier": "forests",
+        "number": 7,
+        "report_identifier": "nca3",
+        "sort_key": 70,
+        "title": "Forests",
+        "url": "http://nca2014.globalchange.gov/report/sectors/forests"
+    },
+    "chapter_identifier": "forests",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-10-24T13:02:00",
+    "files": [
+        {
+            "file": "68/9a/332745c9023cc6747174b6aeafaa/Forests_public_and_private_lands_V2.png",
+            "href": "http://data.globalchange.gov/assets/68/9a/332745c9023cc6747174b6aeafaa/Forests_public_and_private_lands_V2.png",
+            "identifier": "e82fea38-5504-4a38-be9c-b52181678e14",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "16defea26375f387b8fc1347986873470424dac7",
+            "size": 1617353,
+            "thumbnail": "68/9a/332745c9023cc6747174b6aeafaa/.thumb-e82fea38-5504-4a38-be9c-b52181678e14.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/68/9a/332745c9023cc6747174b6aeafaa/.thumb-e82fea38-5504-4a38-be9c-b52181678e14.png",
+            "uri": "/file/e82fea38-5504-4a38-be9c-b52181678e14",
+            "url": "/assets/68/9a/332745c9023cc6747174b6aeafaa/Forests_public_and_private_lands_V2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/forests/figure/public-and-private-forestlands.json",
+    "identifier": "public-and-private-forestlands",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": null,
+            "description": null,
+            "identifier": "17f50acf-24fc-404d-b94d-ebf15d4a6260",
+            "lat_max": "49.38",
+            "lat_min": "24.50",
+            "lon_max": "-66.95",
+            "lon_min": "-124.80",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2007-12-31T23:59:59",
+            "time_start": "2007-01-01T00:00:00",
+            "title": "Public and Private Forestlands",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 8,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Future of America\u2019s forest and rangelands: 2010 Resources Planning Act Assessment. General Technical Report WO-87",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/usfs-gtr-wo-87"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/2545714a-f4ac-48f4-8c8f-b0954f3cfef6.json",
+            "uri": "/reference/2545714a-f4ac-48f4-8c8f-b0954f3cfef6"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "U.S. Forest Service 2012<tbib>2545714a-f4ac-48f4-8c8f-b0954f3cfef6</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Public and Private Forestlands",
+    "uri": "/report/nca3/chapter/forests/figure/public-and-private-forestlands",
+    "url": "http://nca2014.globalchange.gov/report/sectors/forests/graphics/public-and-private-forestlands",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

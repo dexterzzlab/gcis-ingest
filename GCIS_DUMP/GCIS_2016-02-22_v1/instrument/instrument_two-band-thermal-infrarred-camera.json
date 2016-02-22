@@ -1,0 +1,8 @@
+{
+    "description": "Multi-purpose imaging Vis/IR radiometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/two-band-thermal-infrarred-camera.json",
+    "identifier": "two-band-thermal-infrarred-camera",
+    "name": "Two band Thermal Infrarred Camera",
+    "uri": "/instrument/two-band-thermal-infrarred-camera"
+}

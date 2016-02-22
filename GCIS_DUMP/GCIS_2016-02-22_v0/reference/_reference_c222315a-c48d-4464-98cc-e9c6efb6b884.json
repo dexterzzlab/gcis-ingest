@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Zervas, Chris",
+        "Date": "July 2001",
+        "Institution": "National Oceanic and Atmospheric Administration",
+        "Pages": "80",
+        "Place Published": "Silver Spring, Maryland",
+        "Title": "Sea Level Variations of the United States 1854\u20131999, NOAA Technical Report NOS CO-OPS 36",
+        "URL": "http://tidesandcurrents.noaa.gov/publications/techrpt36doc.pdf",
+        "Year": "2001",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "3837",
+        "_uuid": "c222315a-c48d-4464-98cc-e9c6efb6b884",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/noaa-nos-co-ops-36",
+    "href": "http://data.globalchange.gov/reference/c222315a-c48d-4464-98cc-e9c6efb6b884.json",
+    "identifier": "c222315a-c48d-4464-98cc-e9c6efb6b884",
+    "uri": "/reference/c222315a-c48d-4464-98cc-e9c6efb6b884"
+}

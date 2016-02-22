@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Ojima, D.\rSteiner, J.\rMcNeeley, S.\rCozetto, K.\rChildress, A.",
+        "ISBN": "9781610914352",
+        "Number of Pages": "301",
+        "Place Published": "Washington, D.C.",
+        "Reviewer": "5552509e-9af3-46dd-8920-78083bee05bc",
+        "Title": "Great Plains Regional Climate Assessment Technical Report, National Climate Assessment 2013",
+        "URL": "http://data.globalchange.gov/report/nca-techreport-great-plains-2013",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\",\"Ch. 19: Great Plains FINAL\"]",
+        "_record_number": "2345",
+        "_uuid": "5552509e-9af3-46dd-8920-78083bee05bc",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/nca-techreport-great-plains-2013",
+    "href": "http://data.globalchange.gov/reference/5552509e-9af3-46dd-8920-78083bee05bc.json",
+    "identifier": "5552509e-9af3-46dd-8920-78083bee05bc",
+    "uri": "/reference/5552509e-9af3-46dd-8920-78083bee05bc"
+}

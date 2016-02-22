@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Map of flight lines from NASA's Antarctic IceBridge Mission in 2011.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "c2/cd/f37fe478bc5af4c00bb9816ac064/OCP_2013_Page_20_Image_0001.jpg",
+            "href": "http://data.globalchange.gov/assets/c2/cd/f37fe478bc5af4c00bb9816ac064/OCP_2013_Page_20_Image_0001.jpg",
+            "identifier": "9a11edb1-fa27-43fe-b005-c8694bb3bbad",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "1137c3668874a43a60396b95781a9c8a63bee4d9",
+            "size": 527732,
+            "thumbnail": "c2/cd/f37fe478bc5af4c00bb9816ac064/.thumb-9a11edb1-fa27-43fe-b005-c8694bb3bbad.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/c2/cd/f37fe478bc5af4c00bb9816ac064/.thumb-9a11edb1-fa27-43fe-b005-c8694bb3bbad.png",
+            "uri": "/file/9a11edb1-fa27-43fe-b005-c8694bb3bbad",
+            "url": "/assets/c2/cd/f37fe478bc5af4c00bb9816ac064/OCP_2013_Page_20_Image_0001.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2013/figure/nasa-antarctic-icebridge-mission.json",
+    "identifier": "nasa-antarctic-icebridge-mission",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2013",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "NASA's Antarctic IceBridge Mission",
+    "uri": "/report/usgcrp-ocpfy2013/figure/nasa-antarctic-icebridge-mission",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

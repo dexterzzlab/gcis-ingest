@@ -1,0 +1,124 @@
+{
+    "attributes": null,
+    "caption": "Different amounts of heat-trapping gases released into the atmosphere by human activities produce different projected increases in Earth\u2019s temperature. In the figure, each line represents a central estimate of global average temperature rise (relative to the 1901-1960 average) for a specific emissions pathway. Shading indicates the range (5<sup>th</sup> to 95<sup>th</sup> percentile) of results from a suite of climate models. Projections in 2099 for additional emissions pathways are indicated by the bars to the right of each panel. In all cases, temperatures are expected to rise, although the difference between lower and higher emissions pathways is substantial. (Left) The panel shows the two main scenarios (SRES \u2013 Special Report on Emissions Scenarios) used in this report: A2 assumes continued increases in emissions throughout this century, and B1 assumes much slower increases in emissions beginning now and significant emissions reductions beginning around 2050, though not due explicitly to climate change policies. (Right) The panel shows newer analyses, which are results from the most recent generation of climate models (CMIP5) using the most recent emissions pathways (RCPs \u2013 Representative Concentration Pathways). Some of these new projections explicitly consider climate policies that would result in emissions reductions, which the SRES set did not.<tbib>c54b9473-cdc3-4f22-97a8-4df5253f9682</tbib><sup>,</sup><tbib>da8af560-43fe-4825-8303-2bc772f26b88</tbib> The newest set includes both lower and higher pathways than did the previous set. The lowest emissions pathway shown here, RCP 2.6, assumes immediate and rapid reductions in emissions and would result in about 2.5\u00b0F of warming in this century. The highest pathway, RCP 8.5, roughly similar to a continuation of the current path of global emissions increases, is projected to lead to more than 8\u00b0F warming by 2100, with a high-end possibility of more than 11\u00b0F. (Data from CMIP3, CMIP5, and NOAA NCDC).",
+    "chapter": {
+        "doi": "10.7930/J0KW5CXT",
+        "identifier": "our-changing-climate",
+        "number": 2,
+        "report_identifier": "nca3",
+        "sort_key": 20,
+        "title": "Our Changing Climate",
+        "url": "http://nca2014.globalchange.gov/report/our-changing-climate/introduction"
+    },
+    "chapter_identifier": "our-changing-climate",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2522.json",
+            "id": 2522,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Kenneth",
+                "id": 1025,
+                "last_name": "Kunkel",
+                "middle_name": null,
+                "orcid": "0000-0001-6667-7047",
+                "url": "http://cicsnc.org/people/kenneth-kunkel/"
+            },
+            "person_id": 1025,
+            "person_uri": "/person/1025",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2522"
+        }
+    ],
+    "create_dt": "2014-03-17T09:43:07",
+    "files": [
+        {
+            "file": "d6/f6/5a96b397d37268ef8a22ffd473a7/CS_average_annual_temp_global_V7.png",
+            "href": "http://data.globalchange.gov/assets/d6/f6/5a96b397d37268ef8a22ffd473a7/CS_average_annual_temp_global_V7.png",
+            "identifier": "713b1d9c-8da2-4859-9473-6a0bf619432b",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "d95f9695e011c241d70e4968bb3bae69dd96c7cc",
+            "size": 169344,
+            "thumbnail": "d6/f6/5a96b397d37268ef8a22ffd473a7/.thumb-713b1d9c-8da2-4859-9473-6a0bf619432b.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/d6/f6/5a96b397d37268ef8a22ffd473a7/.thumb-713b1d9c-8da2-4859-9473-6a0bf619432b.png",
+            "uri": "/file/713b1d9c-8da2-4859-9473-6a0bf619432b",
+            "url": "/assets/d6/f6/5a96b397d37268ef8a22ffd473a7/CS_average_annual_temp_global_V7.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/our-changing-climate/figure/emissions-levels-determine-temperature-rises.json",
+    "identifier": "emissions-levels-determine-temperature-rises",
+    "images": [
+        {
+            "attributes": "Global, temperature, projections, CMIP3",
+            "create_dt": "2013-12-13T10:18:00",
+            "description": null,
+            "identifier": "a405fab3-ee62-401c-8d93-347261d9eab9",
+            "lat_max": "90",
+            "lat_min": "-90",
+            "lon_max": "180",
+            "lon_min": "-180",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2100-12-31T23:59:59",
+            "time_start": "1900-01-01T00:00:00",
+            "title": "Emissions Levels Determine Temperature Rises: CMIP3",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": "Global, temperature, projections, CMIP5",
+            "create_dt": "2013-12-13T10:18:00",
+            "description": null,
+            "identifier": "6dafc8d5-9e40-4dd6-a63d-d456ec61a551",
+            "lat_max": "90",
+            "lat_min": "-90",
+            "lon_max": "180",
+            "lon_min": "-180",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2100-12-31T23:59:59",
+            "time_start": "1900-01-01T00:00:00",
+            "title": "Emissions Levels Determine Temperature Rises: CMIP5",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [
+        "/report/nca3/chapter/appendix-faqs/figure/caq-emissions-levels-determine-temperature-rises"
+    ],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 4,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/c54b9473-cdc3-4f22-97a8-4df5253f9682.json",
+            "uri": "/reference/c54b9473-cdc3-4f22-97a8-4df5253f9682"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/da8af560-43fe-4825-8303-2bc772f26b88.json",
+            "uri": "/reference/da8af560-43fe-4825-8303-2bc772f26b88"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "CMIP3, CMIP5, and NOAA NCDC",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Emissions Levels Determine Temperature Rises",
+    "uri": "/report/nca3/chapter/our-changing-climate/figure/emissions-levels-determine-temperature-rises",
+    "url": "http://nca2014.globalchange.gov/highlights/report-findings/future-climate/graphics/emission-levels-determine-temperature-rises",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

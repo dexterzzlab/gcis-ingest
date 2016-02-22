@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "The trend in \u201cprecipitation minus evaporation\u201d for the southwest United States simulated by the climate models used for the IPCC Fourth Assessment Report. Credit: R. Seager, Lamont Doherty Earth Observatory (reproduced from Science with permission from the American Association for the Advancement of Science).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "4e/2e/557b75322c96661a57408fbeee8c/Figure_6.png",
+            "href": "http://data.globalchange.gov/assets/4e/2e/557b75322c96661a57408fbeee8c/Figure_6.png",
+            "identifier": "1a7500cb-ee00-4062-810f-a05edb863c53",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "83ed3eeb201ab9c7dc0e03e493073ac6326eb1b1",
+            "size": 175916,
+            "thumbnail": "4e/2e/557b75322c96661a57408fbeee8c/.thumb-1a7500cb-ee00-4062-810f-a05edb863c53.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/4e/2e/557b75322c96661a57408fbeee8c/.thumb-1a7500cb-ee00-4062-810f-a05edb863c53.png",
+            "uri": "/file/1a7500cb-ee00-4062-810f-a05edb863c53",
+            "url": "/assets/4e/2e/557b75322c96661a57408fbeee8c/Figure_6.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2009/figure/trend-precipitation-minus-evaporation.json",
+    "identifier": "trend-precipitation-minus-evaporation",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2009",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Trend in Precipitation Minus Evaporation",
+    "uri": "/report/usgcrp-ocpfy2009/figure/trend-precipitation-minus-evaporation",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

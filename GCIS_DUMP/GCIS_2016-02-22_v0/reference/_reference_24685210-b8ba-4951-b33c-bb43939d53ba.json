@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Wilby, R.L.",
+        "DOI": "10.1068/b33066t",
+        "ISSN": "0265-8135",
+        "Issue": "5",
+        "Journal": "Environment and Planning B: Planning and Design",
+        "Pages": "902-919",
+        "Title": "Constructing climate change scenarios of urban heat island intensity and air quality",
+        "Volume": "35",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "3423",
+        "_uuid": "24685210-b8ba-4951-b33c-bb43939d53ba",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1068/b33066t",
+    "href": "http://data.globalchange.gov/reference/24685210-b8ba-4951-b33c-bb43939d53ba.json",
+    "identifier": "24685210-b8ba-4951-b33c-bb43939d53ba",
+    "uri": "/reference/24685210-b8ba-4951-b33c-bb43939d53ba"
+}

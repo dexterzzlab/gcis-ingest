@@ -1,0 +1,8 @@
+{
+    "description": "Medium-resolution spectro-radiometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/vnredsat-1-multispectral.json",
+    "identifier": "vnredsat-1-multispectral",
+    "name": "VNREDSat 1 Multispectral",
+    "uri": "/instrument/vnredsat-1-multispectral"
+}

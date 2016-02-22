@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Kraucunas, Ian\rClarke, Leon\rDirks, James\rHejazi, Mohamad\rHibbard, Kathy\rHuang, Maoyi\rJin, Chunlian\rKintner-Meyer, Michael\rKleese van Dam, Kerstin\rLeung, Ruby\rMoss, Richard\rPeterson, Marty\rRice, Jennie\rScott, Michael\rThomson, Allison\rWest, Tristram",
+        "DOI": "10.1007/s10584-014-1064-9",
+        "Journal": "Climatic Change",
+        "Title": "Investigating the nexus of climate, energy, water, and land at decision-relevant scales: The Platform for Regional Integrated Modeling and Analysis (PRIMA)",
+        "Volume": "in press",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4060",
+        "_uuid": "c2a2f780-b78b-4691-9e9c-14e4814309d6",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-014-1064-9",
+    "href": "http://data.globalchange.gov/reference/c2a2f780-b78b-4691-9e9c-14e4814309d6.json",
+    "identifier": "c2a2f780-b78b-4691-9e9c-14e4814309d6",
+    "uri": "/reference/c2a2f780-b78b-4691-9e9c-14e4814309d6"
+}

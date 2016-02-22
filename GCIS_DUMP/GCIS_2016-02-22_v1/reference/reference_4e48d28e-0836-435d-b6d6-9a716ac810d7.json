@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2012",
+        "Author": "NPS,",
+        "Publisher": "U.S. National Parks Service",
+        "Title": "Las Conchas Post-Fire Response Plan",
+        "URL": "http://www.nps.gov/fire/",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "2279",
+        "_uuid": "4e48d28e-0836-435d-b6d6-9a716ac810d7",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/1a722b36-ce9a-4402-8e8d-41b0d2434818",
+    "href": "http://data.globalchange.gov/reference/4e48d28e-0836-435d-b6d6-9a716ac810d7.json",
+    "identifier": "4e48d28e-0836-435d-b6d6-9a716ac810d7",
+    "uri": "/reference/4e48d28e-0836-435d-b6d6-9a716ac810d7"
+}

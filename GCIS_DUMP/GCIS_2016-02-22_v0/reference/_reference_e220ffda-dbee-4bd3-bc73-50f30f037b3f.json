@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Storlazzi, C.D.\rGriggs, G.B.",
+        "DOI": "10.1130/0016-7606(2000)112<236:IOENOE>2.0.CO;2",
+        "ISSN": "0016-7606",
+        "Issue": "2",
+        "Journal": "Geological Society of America Bulletin",
+        "Pages": "236-249",
+        "Title": "Influence of El Ni\u00f1o\u2013Southern Oscillation (ENSO) events on the evolution of central California\u2019s shoreline",
+        "Volume": "112",
+        "Year": "2000",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "2966",
+        "_uuid": "e220ffda-dbee-4bd3-bc73-50f30f037b3f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1130/0016-7606(2000)112%3C236:IOENOE%3E2.0.CO;2",
+    "href": "http://data.globalchange.gov/reference/e220ffda-dbee-4bd3-bc73-50f30f037b3f.json",
+    "identifier": "e220ffda-dbee-4bd3-bc73-50f30f037b3f",
+    "uri": "/reference/e220ffda-dbee-4bd3-bc73-50f30f037b3f"
+}

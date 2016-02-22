@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Johnston, F.H.\rHenderson, S.B.\rChen, Y.\rRanderson, J.T.\rMarlier, M.\rDeFries, R.S.\rKinney, P.\rBowman, D.M.J.S.\rBrauer, M.",
+        "DOI": "10.1289/ehp.1104422",
+        "ISSN": "0091-6765",
+        "Issue": "5",
+        "Journal": "Environmental Health Perspectives",
+        "Pages": "695-701",
+        "Title": "Estimated global mortality attributable to smoke from landscape fires",
+        "URL": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3346787/",
+        "Volume": "120",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "645",
+        "_uuid": "6f5e49f0-fd59-4eba-9311-05ce16734498",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1289/ehp.1104422",
+    "href": "http://data.globalchange.gov/reference/6f5e49f0-fd59-4eba-9311-05ce16734498.json",
+    "identifier": "6f5e49f0-fd59-4eba-9311-05ce16734498",
+    "uri": "/reference/6f5e49f0-fd59-4eba-9311-05ce16734498"
+}

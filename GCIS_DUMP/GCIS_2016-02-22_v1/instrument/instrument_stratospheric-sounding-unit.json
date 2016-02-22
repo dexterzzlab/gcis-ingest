@@ -1,0 +1,8 @@
+{
+    "description": "Narrow-band channel IR radiometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/stratospheric-sounding-unit.json",
+    "identifier": "stratospheric-sounding-unit",
+    "name": "Stratospheric Sounding Unit",
+    "uri": "/instrument/stratospheric-sounding-unit"
+}

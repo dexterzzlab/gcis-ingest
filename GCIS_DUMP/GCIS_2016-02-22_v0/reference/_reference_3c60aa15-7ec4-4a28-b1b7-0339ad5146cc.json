@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".publisher": "Arctic Institute of North America",
+        ".reference_type": "0",
+        "Author": "Wendler, Gerd\rMartha Shulski",
+        "DOI": "10.14430/arctic149",
+        "Date": "September 2009",
+        "Issue": "3",
+        "Journal": "Arctic",
+        "Pages": "295-300",
+        "Title": "A century of climate change for Fairbanks, Alaska",
+        "URL": "http://www.jstor.org/stable/40513307",
+        "Volume": "62",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "4548",
+        "_uuid": "3c60aa15-7ec4-4a28-b1b7-0339ad5146cc",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.14430/arctic149",
+    "href": "http://data.globalchange.gov/reference/3c60aa15-7ec4-4a28-b1b7-0339ad5146cc.json",
+    "identifier": "3c60aa15-7ec4-4a28-b1b7-0339ad5146cc",
+    "uri": "/reference/3c60aa15-7ec4-4a28-b1b7-0339ad5146cc"
+}

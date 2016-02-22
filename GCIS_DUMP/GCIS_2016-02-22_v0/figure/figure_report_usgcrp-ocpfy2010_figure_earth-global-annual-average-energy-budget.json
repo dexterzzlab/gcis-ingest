@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Estimated global annual mean energy flows for the 2000 to 2004 time frame. Notice the current imbalance between the annual average solar energy absorbed by the Earth system versus the outgoing longwave energy. Credit: K.E. Trenberth, NCAR (reproduced from the Bulletin of the American Meteorological Society with permission from the American Meteorological Society).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "e9/33/3b99a7570c3003a87fc8691a038e/our_changing_planet_2010_image__13_20091209_1845930959.jpg",
+            "href": "http://data.globalchange.gov/assets/e9/33/3b99a7570c3003a87fc8691a038e/our_changing_planet_2010_image__13_20091209_1845930959.jpg",
+            "identifier": "b269b5c3-c610-4656-9b8a-64642b9ebf89",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "df2d1c7702758759b065e7fda408d568e711298e",
+            "size": 418204,
+            "thumbnail": "e9/33/3b99a7570c3003a87fc8691a038e/.thumb-b269b5c3-c610-4656-9b8a-64642b9ebf89.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/e9/33/3b99a7570c3003a87fc8691a038e/.thumb-b269b5c3-c610-4656-9b8a-64642b9ebf89.png",
+            "uri": "/file/b269b5c3-c610-4656-9b8a-64642b9ebf89",
+            "url": "/assets/e9/33/3b99a7570c3003a87fc8691a038e/our_changing_planet_2010_image__13_20091209_1845930959.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2010/figure/earth-global-annual-average-energy-budget.json",
+    "identifier": "earth-global-annual-average-energy-budget",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2010",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Earth's Global Annual Average Energy Budget",
+    "uri": "/report/usgcrp-ocpfy2010/figure/earth-global-annual-average-energy-budget",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

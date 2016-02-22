@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "The global water cycle plays a pivotal role in the transport of sediment and nutrients through the Earth system, as exemplified in this Landsat-7 image of the North Carolina coast. The image was taken on September 23, 1999, one week after Hurricane Floyd hit the continent. Along with soil swept away by the flood waters, the estuaries were filled with human and animal waste, fertilizers, and pesticides. Credit: NASA Goddard Space Flight Center; Water Cycle Study Group.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "08/51/a610dc63b881e62ef00a94083360/our_changing_planet_2003_20_20090708_1299590493.jpg",
+            "href": "http://data.globalchange.gov/assets/08/51/a610dc63b881e62ef00a94083360/our_changing_planet_2003_20_20090708_1299590493.jpg",
+            "identifier": "8c68e863-9259-4c15-b936-09301a10119a",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "9f45596b25ddf611b456b4f2b198d32fc7821415",
+            "size": 105043,
+            "thumbnail": "08/51/a610dc63b881e62ef00a94083360/.thumb-8c68e863-9259-4c15-b936-09301a10119a.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/08/51/a610dc63b881e62ef00a94083360/.thumb-8c68e863-9259-4c15-b936-09301a10119a.png",
+            "uri": "/file/8c68e863-9259-4c15-b936-09301a10119a",
+            "url": "/assets/08/51/a610dc63b881e62ef00a94083360/our_changing_planet_2003_20_20090708_1299590493.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2003/figure/north-carolina-coast-after-hurricane-floyd.json",
+    "identifier": "north-carolina-coast-after-hurricane-floyd",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2003",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "North Carolina Coast after Hurricane Floyd",
+    "uri": "/report/ccsp-ocpfy2003/figure/north-carolina-coast-after-hurricane-floyd",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

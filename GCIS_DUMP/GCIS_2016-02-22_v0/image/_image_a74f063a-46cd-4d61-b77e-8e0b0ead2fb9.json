@@ -1,0 +1,111 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/3758.json",
+            "id": 3758,
+            "organization": {
+                "country_code": "US",
+                "identifier": "texas-tech-university",
+                "name": "Texas Tech University",
+                "organization_type_identifier": "academic",
+                "url": "http://www.ttu.edu"
+            },
+            "organization_uri": "/organization/texas-tech-university",
+            "person": {
+                "first_name": "Katharine",
+                "id": 1024,
+                "last_name": "Hayhoe",
+                "middle_name": null,
+                "orcid": "0000-0003-3625-1402",
+                "url": "http://www.katharinehayhoe.com/"
+            },
+            "person_id": 1024,
+            "person_uri": "/person/1024",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/3758"
+        }
+    ],
+    "create_dt": "2013-10-21T09:23:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Historical emissions of carbon from fossil fuel (coal, oil, and gas) combustion and land-use change (such as deforestation) have increased over time. The growth rate was nearly three times greater during the 2000s as compared to the 1990s. This figure compares the observed historical (black dots) and projected future SRES (orange dashed lines) and RCP (blue solid lines) carbon emissions from 1970 to 2030. (Data from Boden et al. 2011<tbib>fdf3a7f6-dead-4249-b0ca-e7b6e2ac6f16</tbib> plus preliminary values for 2009 and 2010 based on BP statistics and U.S. Geological Survey cement data).",
+            "chapter_identifier": "appendix-climate-science-supplement",
+            "create_dt": "2013-10-21T09:23:00",
+            "identifier": "carbon-emissions-historical-and-projected",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 23,
+            "report_identifier": "nca3",
+            "source_citation": "Boden et al. 2011<tbib>fdf3a7f6-dead-4249-b0ca-e7b6e2ac6f16</tbib> plus preliminary values for 2009 and 2010 based on BP statistics and U.S. Geological Survey cement data",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Carbon Emissions: Historical and Projected",
+            "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/carbon-emissions-historical-and-projected",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "52/1e/12b15f2b77d912df0a031daf5caf/app_fossil_fuel_emissions_v4.png",
+            "href": "http://data.globalchange.gov/assets/52/1e/12b15f2b77d912df0a031daf5caf/app_fossil_fuel_emissions_v4.png",
+            "identifier": "db2be672-d3da-477a-841f-47d47c404d57",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "2d0ebc4bfa74bb62fde08e0051b998e4194208a8",
+            "size": 149555,
+            "thumbnail": "52/1e/12b15f2b77d912df0a031daf5caf/.thumb-db2be672-d3da-477a-841f-47d47c404d57.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/52/1e/12b15f2b77d912df0a031daf5caf/.thumb-db2be672-d3da-477a-841f-47d47c404d57.png",
+            "uri": "/file/db2be672-d3da-477a-841f-47d47c404d57",
+            "url": "/assets/52/1e/12b15f2b77d912df0a031daf5caf/app_fossil_fuel_emissions_v4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/a74f063a-46cd-4d61-b77e-8e0b0ead2fb9.json",
+    "identifier": "a74f063a-46cd-4d61-b77e-8e0b0ead2fb9",
+    "lat_max": "90.00",
+    "lat_min": "-90.00",
+    "lon_max": "180.00",
+    "lon_min": "-180.00",
+    "parents": [
+        {
+            "activity_uri": "/activity/a74f063a-nca3-cmip5-r1-process",
+            "label": "dataset nca3-cmip5-r1",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-cmip5-r1"
+        },
+        {
+            "activity_uri": "/activity/a74f063a-nca3-cmip3-r201205-process",
+            "label": "dataset nca3-cmip3-r201205",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-cmip3-r201205"
+        },
+        {
+            "activity_uri": "/activity/a74f063a-nca3-doe-co2-r201209-process",
+            "label": "dataset nca3-doe-co2-r201209",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-doe-co2-r201209"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2030-12-31T23:59:59",
+    "time_start": "1970-01-01T00:00:00",
+    "title": "Carbon Emissions: Historical and Projected",
+    "uri": "/image/a74f063a-46cd-4d61-b77e-8e0b0ead2fb9",
+    "url": null,
+    "usage_limits": null
+}

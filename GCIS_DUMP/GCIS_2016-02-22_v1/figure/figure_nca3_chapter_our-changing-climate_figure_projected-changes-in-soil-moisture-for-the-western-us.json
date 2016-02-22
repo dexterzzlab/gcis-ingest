@@ -1,0 +1,176 @@
+{
+    "attributes": null,
+    "caption": "Average change in soil moisture compared to 1971-2000, as projected for the middle of this century (2041-2070) and late this century (2071-2100) under two emissions scenarios, a lower scenario (B1) and a higher scenario (A2).<tbib>0b3b2ff4-9ee7-45fe-8d0c-895076013715</tbib><sup>,</sup><tbib>f312de7c-ebe1-447f-93c5-c2ddec528464</tbib><sup>,</sup><tbib>a71d11d2-beed-43b3-8417-372422c035f6</tbib><sup>,</sup><tbib>dcf754dd-dd36-474c-8f78-981b0bc507d5</tbib><sup>,</sup><tbib>ec534395-9d19-446f-90c4-a181c9ed31f0</tbib><sup>,</sup><tbib>66b53949-2796-4cb3-ba86-0d0509f128fb</tbib><sup>,</sup><tbib>9c0b6ae6-4bb4-4a27-b6ec-1b0c2dc1cc93</tbib> The future drying of soils in most areas simulated by this sophisticated hydrologic model (Variable Infiltration Capacity or VIC model) is consistent with the future drought increases using the simpler Palmer Drought Severity Index (PDSI) metric. Only the western U.S. is displayed because model simulations were only run for this area. (Figure source: NOAA NCDC / CICS-NC).",
+    "chapter": {
+        "doi": "10.7930/J0KW5CXT",
+        "identifier": "our-changing-climate",
+        "number": 2,
+        "report_identifier": "nca3",
+        "sort_key": 20,
+        "title": "Our Changing Climate",
+        "url": "http://nca2014.globalchange.gov/report/our-changing-climate/introduction"
+    },
+    "chapter_identifier": "our-changing-climate",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2525.json",
+            "id": 2525,
+            "organization": {
+                "country_code": "US",
+                "identifier": "noaa-national-climatic-data-center",
+                "name": "National Oceanic and Atmospheric Administration National Climatic Data Center",
+                "organization_type_identifier": "federal",
+                "url": "http://www.ncdc.noaa.gov"
+            },
+            "organization_uri": "/organization/noaa-national-climatic-data-center",
+            "person": {
+                "first_name": "Xungang",
+                "id": 1457,
+                "last_name": "Yin",
+                "middle_name": null,
+                "orcid": null,
+                "url": null
+            },
+            "person_id": 1457,
+            "person_uri": "/person/1457",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2525"
+        }
+    ],
+    "create_dt": "2012-09-19T16:43:13",
+    "files": [
+        {
+            "file": "b9/ec/1b2333d25c60ede2f739abe91e94/CS_soil_moisture_v9.png",
+            "href": "http://data.globalchange.gov/assets/b9/ec/1b2333d25c60ede2f739abe91e94/CS_soil_moisture_v9.png",
+            "identifier": "3fb53576-56c4-409b-a0d9-c481dd35bf9b",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "970ffe5b902b791122219787859a927394cd7459",
+            "size": 534486,
+            "thumbnail": "b9/ec/1b2333d25c60ede2f739abe91e94/.thumb-3fb53576-56c4-409b-a0d9-c481dd35bf9b.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/b9/ec/1b2333d25c60ede2f739abe91e94/.thumb-3fb53576-56c4-409b-a0d9-c481dd35bf9b.png",
+            "uri": "/file/3fb53576-56c4-409b-a0d9-c481dd35bf9b",
+            "url": "/assets/b9/ec/1b2333d25c60ede2f739abe91e94/CS_soil_moisture_v9.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/our-changing-climate/figure/projected-changes-in-soil-moisture-for-the-western-us.json",
+    "identifier": "projected-changes-in-soil-moisture-for-the-western-us",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2012-09-19T16:43:13",
+            "description": null,
+            "identifier": "b5ab5f96-26ab-45d6-b282-646a4663f5ab",
+            "lat_max": "50",
+            "lat_min": "25",
+            "lon_max": "-90",
+            "lon_min": "-125",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2099-12-31T23:59:59",
+            "time_start": "1971-01-01T00:00:00",
+            "title": "Pattern of Projected Changes in Soil Moisture - Mid-Century Changes: Higher Emissions (A2)",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2012-09-19T16:43:13",
+            "description": null,
+            "identifier": "c1aa195c-188e-4bb8-ac78-af6a9cdc1e92",
+            "lat_max": "50",
+            "lat_min": "25",
+            "lon_max": "-90",
+            "lon_min": "-125",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2099-12-31T23:59:59",
+            "time_start": "1971-01-01T00:00:00",
+            "title": "Pattern of Projected Changes in Soil Moisture - End-of-Century Changes: Higher Emissions (A2)",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2012-09-19T16:43:13",
+            "description": null,
+            "identifier": "abbb11a4-9d7f-44bb-9b27-d20d9449775f",
+            "lat_max": "50",
+            "lat_min": "25",
+            "lon_max": "-90",
+            "lon_min": "-125",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2099-12-31T23:59:59",
+            "time_start": "1971-01-01T00:00:00",
+            "title": "Pattern of Projected Changes in Soil Moisture - End-of-Century Changes: Lower Emissions (B1)",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2012-09-19T16:43:13",
+            "description": null,
+            "identifier": "d21ef937-1e90-4600-9fb2-a03b4328a963",
+            "lat_max": "50",
+            "lat_min": "25",
+            "lon_max": "-90",
+            "lon_min": "-125",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2099-12-31T23:59:59",
+            "time_start": "1971-01-01T00:00:00",
+            "title": "Pattern of Projected Changes in Soil Moisture - Mid-Century Changes: Lower Emissions (B1)",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 22,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/0b3b2ff4-9ee7-45fe-8d0c-895076013715.json",
+            "uri": "/reference/0b3b2ff4-9ee7-45fe-8d0c-895076013715"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/66b53949-2796-4cb3-ba86-0d0509f128fb.json",
+            "uri": "/reference/66b53949-2796-4cb3-ba86-0d0509f128fb"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/9c0b6ae6-4bb4-4a27-b6ec-1b0c2dc1cc93.json",
+            "uri": "/reference/9c0b6ae6-4bb4-4a27-b6ec-1b0c2dc1cc93"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/a71d11d2-beed-43b3-8417-372422c035f6.json",
+            "uri": "/reference/a71d11d2-beed-43b3-8417-372422c035f6"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/dcf754dd-dd36-474c-8f78-981b0bc507d5.json",
+            "uri": "/reference/dcf754dd-dd36-474c-8f78-981b0bc507d5"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/ec534395-9d19-446f-90c4-a181c9ed31f0.json",
+            "uri": "/reference/ec534395-9d19-446f-90c4-a181c9ed31f0"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/f312de7c-ebe1-447f-93c5-c2ddec528464.json",
+            "uri": "/reference/f312de7c-ebe1-447f-93c5-c2ddec528464"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "NOAA NCDC / CICS-NC",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Projected Changes in Soil Moisture for the Western U.S.",
+    "uri": "/report/nca3/chapter/our-changing-climate/figure/projected-changes-in-soil-moisture-for-the-western-us",
+    "url": "http://nca2014.globalchange.gov/highlights/report-findings/future-climate/graphics/projected-changes-soil-moisture",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

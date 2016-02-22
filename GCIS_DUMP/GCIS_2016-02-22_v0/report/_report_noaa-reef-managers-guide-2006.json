@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/noaa-reef-managers-guide-2006.json",
+    "identifier": "noaa-reef-managers-guide-2006",
+    "in_library": null,
+    "publication_year": 2006,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "A Reef Manager's Guide to Coral Bleaching",
+    "topic": null,
+    "uri": "/report/noaa-reef-managers-guide-2006",
+    "url": "http://www.coris.noaa.gov/activities/reef_managers_guide/"
+}

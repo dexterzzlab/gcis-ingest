@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Bai, Xuezhi\rWang, Jia",
+        "DOI": "10.2166/wqrjc.2012.009",
+        "ISSN": "1201-3080",
+        "Issue": "3-4",
+        "Journal": "Water Quality Research Journal of Canada ",
+        "Pages": "421\u2013435",
+        "Title": "Atmospheric teleconnection patterns associated with severe and mild ice cover on the Great Lakes, 1963\u20132011",
+        "Volume": "47",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"RG 3 Midwest\",\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "4555",
+        "_uuid": "334caaf0-faab-4f7f-8086-c1b216a3b371",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.2166/wqrjc.2012.009",
+    "href": "http://data.globalchange.gov/reference/334caaf0-faab-4f7f-8086-c1b216a3b371.json",
+    "identifier": "334caaf0-faab-4f7f-8086-c1b216a3b371",
+    "uri": "/reference/334caaf0-faab-4f7f-8086-c1b216a3b371"
+}

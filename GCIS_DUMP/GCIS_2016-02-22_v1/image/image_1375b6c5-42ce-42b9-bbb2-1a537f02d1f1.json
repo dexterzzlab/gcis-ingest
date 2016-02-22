@@ -1,0 +1,79 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/4692.json",
+            "id": 4692,
+            "organization": {
+                "country_code": "US",
+                "identifier": "jet-propulsion-laboratory",
+                "name": "NASA Jet Propulsion Laboratory",
+                "organization_type_identifier": "federally funded research and development center",
+                "url": "http://www.jpl.nasa.gov"
+            },
+            "organization_uri": "/organization/jet-propulsion-laboratory",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "graphic_artist",
+            "uri": "/contributor/4692"
+        }
+    ],
+    "create_dt": null,
+    "description": "Artist's conception of the OCO-2",
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "NASA\u2019s Orbiting Carbon Observatory-2 satellite (above) was a landmark 2014 addition to the U.S. portfolio of Earth observing systems. (Source: NASA)",
+            "chapter_identifier": "federal-investments-global-change-research",
+            "create_dt": null,
+            "identifier": "orbiting-carbon-observatory",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 5,
+            "report_identifier": "usgcrp-ocpfy2016",
+            "source_citation": "Artist's concept of the OCO-2. Created 2008. Retrieved from the NASA JPL PhotoJournal January 2015",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Orbiting Carbon Observatory",
+            "url": "http://photojournal.jpl.nasa.gov/gallery/snt?subselect=Mission:Orbiting+Carbon+Observatory+(OCO):",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "8c/da/4430f3a6b090f571a691817a12d1/HL8_obs-assessment-OCO2.jpg",
+            "href": "http://data.globalchange.gov/assets/8c/da/4430f3a6b090f571a691817a12d1/HL8_obs-assessment-OCO2.jpg",
+            "identifier": "3c64fb09-ce05-4941-9f4b-b8230d4bbff9",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "7ceb9edacf75a1b394a89d08c6f588463ed19383",
+            "size": 201640,
+            "thumbnail": "8c/da/4430f3a6b090f571a691817a12d1/.thumb-3c64fb09-ce05-4941-9f4b-b8230d4bbff9.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/8c/da/4430f3a6b090f571a691817a12d1/.thumb-3c64fb09-ce05-4941-9f4b-b8230d4bbff9.png",
+            "uri": "/file/3c64fb09-ce05-4941-9f4b-b8230d4bbff9",
+            "url": "/assets/8c/da/4430f3a6b090f571a691817a12d1/HL8_obs-assessment-OCO2.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/1375b6c5-42ce-42b9-bbb2-1a537f02d1f1.json",
+    "identifier": "1375b6c5-42ce-42b9-bbb2-1a537f02d1f1",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Orbiting Carbon Observatory",
+    "uri": "/image/1375b6c5-42ce-42b9-bbb2-1a537f02d1f1",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Polovina, J. J.\rDunne, J. P.\rWoodworth, P. A.\rHowell, E. A.",
+        "DOI": "10.1093/icesjms/fsq198",
+        "Issue": "6",
+        "Journal": "ICES Journal of Marine Science",
+        "Pages": "986-995",
+        "Title": "Projected expansion of the subtropical biome and contraction of the temperate and equatorial upwelling biomes in the North Pacific under global warming",
+        "URL": "http://icesjms.oxfordjournals.org/content/68/6/986.full.pdf+html",
+        "Volume": "68",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\",\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "2513",
+        "_uuid": "acea2b26-01f6-4b1d-a513-ea96f2ecf1da",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1093/icesjms/fsq198",
+    "href": "http://data.globalchange.gov/reference/acea2b26-01f6-4b1d-a513-ea96f2ecf1da.json",
+    "identifier": "acea2b26-01f6-4b1d-a513-ea96f2ecf1da",
+    "uri": "/reference/acea2b26-01f6-4b1d-a513-ea96f2ecf1da"
+}

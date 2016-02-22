@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Ring, M. J. \rLindner, D. \rCross, E. F. \rSchlesinger, M. E. ",
+        "DOI": "10.4236/acs.2012.24035",
+        "ISSN": "2160-0414",
+        "Issue": "4",
+        "Journal": "Atmospheric and Climate Sciences",
+        "Pages": "401-415",
+        "Title": "Causes of the global warming observed since the 19th century",
+        "URL": "http://www.scirp.org/journal/PaperDownload.aspx?paperID=24283",
+        "Volume": "2",
+        "Year": "2012",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "3742",
+        "_uuid": "d57def88-0f04-4501-a54f-d7655e41882a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.4236/acs.2012.24035",
+    "href": "http://data.globalchange.gov/reference/d57def88-0f04-4501-a54f-d7655e41882a.json",
+    "identifier": "d57def88-0f04-4501-a54f-d7655e41882a",
+    "uri": "/reference/d57def88-0f04-4501-a54f-d7655e41882a"
+}

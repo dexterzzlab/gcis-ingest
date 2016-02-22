@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Luedeling, Eike",
+        "DOI": "10.1016/j.scienta.2012.07.011",
+        "ISSN": "0304-4238",
+        "Issue": "0",
+        "Journal": "Scientia Horticulturae",
+        "Keywords": "Adaptation\rChilling Hours\rChill Portions\rClimate analogues, Dynamic Model\rTree dormancy",
+        "Pages": "218-229",
+        "Title": "Climate change impacts on winter chill for temperate fruit and nut production: A review",
+        "URL": "http://www.sciencedirect.com/science/article/pii/S0304423812003305",
+        "Volume": "144",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "3946",
+        "_uuid": "504c60ae-db5f-4b9c-bb9f-2dd7701dc31c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.scienta.2012.07.011",
+    "href": "http://data.globalchange.gov/reference/504c60ae-db5f-4b9c-bb9f-2dd7701dc31c.json",
+    "identifier": "504c60ae-db5f-4b9c-bb9f-2dd7701dc31c",
+    "uri": "/reference/504c60ae-db5f-4b9c-bb9f-2dd7701dc31c"
+}

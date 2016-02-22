@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/noaa-adaptingtoclimchstrategies-2009.json",
+    "identifier": "noaa-adaptingtoclimchstrategies-2009",
+    "in_library": null,
+    "publication_year": 2009,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Adapting to Climate Change: Strategies from King County, Washington",
+    "topic": null,
+    "uri": "/report/noaa-adaptingtoclimchstrategies-2009",
+    "url": "http://www.nerrs.noaa.gov/doc/pdf/training/strategies_king_county.pdf"
+}

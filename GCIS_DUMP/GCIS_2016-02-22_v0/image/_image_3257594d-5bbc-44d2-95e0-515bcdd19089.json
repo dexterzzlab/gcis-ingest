@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-03-13T12:13:15",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Rising sea levels will combine with storm surges and high tides to threaten power-generating facilities located in California coastal communities and around the San Francisco Bay. Sea level rise and more intense heavy precipitation events increase the risk of coastal flooding and damages to infrastructure (Ch. 3: Water). (Figure source: Sathaye et al. 2011<tbib>8a427e85-f9a1-45bd-a6cb-2421f8eb4277</tbib>).",
+            "chapter_identifier": "energy-supply-and-use",
+            "create_dt": "2014-03-13T12:13:15",
+            "identifier": "california-power-plants-potentially-at-risk-from-sea-level-rise",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 5,
+            "report_identifier": "nca3",
+            "source_citation": "Sathaye et al. 2011<tbib>8a427e85-f9a1-45bd-a6cb-2421f8eb4277</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "California Power Plants Potentially at Risk from Sea Level Rise",
+            "url": "http://nca2014.globalchange.gov/report/sectors/energy/graphics/california-power-plants-potentially-risk-sea-level-rise",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "e7/fb/2cc680162c23adc2b06b07d5ffa7/fig_5_rev-2.png",
+            "href": "http://data.globalchange.gov/assets/e7/fb/2cc680162c23adc2b06b07d5ffa7/fig_5_rev-2.png",
+            "identifier": "5f63c1fb-a273-4853-990d-4d4d35904f19",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "7bb968e45934bb7387a15ce26cb8c03b6efbf02b",
+            "size": 387716,
+            "thumbnail": "e7/fb/2cc680162c23adc2b06b07d5ffa7/.thumb-5f63c1fb-a273-4853-990d-4d4d35904f19.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/e7/fb/2cc680162c23adc2b06b07d5ffa7/.thumb-5f63c1fb-a273-4853-990d-4d4d35904f19.png",
+            "uri": "/file/5f63c1fb-a273-4853-990d-4d4d35904f19",
+            "url": "/assets/e7/fb/2cc680162c23adc2b06b07d5ffa7/fig_5_rev-2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/3257594d-5bbc-44d2-95e0-515bcdd19089.json",
+    "identifier": "3257594d-5bbc-44d2-95e0-515bcdd19089",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "California Power Plants Potentially at Risk from Sea Level Rise",
+    "uri": "/image/3257594d-5bbc-44d2-95e0-515bcdd19089",
+    "url": null,
+    "usage_limits": null
+}

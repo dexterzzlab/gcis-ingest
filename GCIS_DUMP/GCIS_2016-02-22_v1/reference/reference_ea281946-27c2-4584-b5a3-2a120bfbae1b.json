@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "3",
+        "Author": "Hoffman, C.\rParsons, R.\rMorgan, P.\rMell, R.",
+        "Conference Location": "Spokane, Washington, USA",
+        "Conference Name": "Proceedings of 3rd Fire Behavior and Fuels Conference",
+        "Date": "October 25-29, 2010",
+        "Place Published": "Birmingham, AL",
+        "Publisher": "The International Association of Wildland Fire",
+        "Title": "Numerical simulation of crown fire hazard following bark beetle-caused mortality in lodgepole pine forests",
+        "URL": "http://www.fs.fed.us/rm/pubs_other/rmrs_2010_hoffman_c001.pdf",
+        "Year of Conference": "2010",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "1193",
+        "_uuid": "ea281946-27c2-4584-b5a3-2a120bfbae1b",
+        "reftype": "Conference Proceedings"
+    },
+    "child_publication": "/generic/d547e3b2-b3c3-4b59-a4d6-b67a3612a41b",
+    "href": "http://data.globalchange.gov/reference/ea281946-27c2-4584-b5a3-2a120bfbae1b.json",
+    "identifier": "ea281946-27c2-4584-b5a3-2a120bfbae1b",
+    "uri": "/reference/ea281946-27c2-4584-b5a3-2a120bfbae1b"
+}

@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "This figure illustrates the constellation of satellites known as the \u201cA-Train,\u201d which are making nearly contiguous observations of many facets of the Earth system. Credit: NASA.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "4c/a5/82d7da8e9808d79923318da14396/our_changing_planet_2007_76_20090708_1343575250.jpg",
+            "href": "http://data.globalchange.gov/assets/4c/a5/82d7da8e9808d79923318da14396/our_changing_planet_2007_76_20090708_1343575250.jpg",
+            "identifier": "49cb0575-b6a6-4bc1-9236-fd86fa1836b8",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "cceeebd04a6695b676bdfcf037ca1918d70c1081",
+            "size": 22343,
+            "thumbnail": "4c/a5/82d7da8e9808d79923318da14396/.thumb-49cb0575-b6a6-4bc1-9236-fd86fa1836b8.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/4c/a5/82d7da8e9808d79923318da14396/.thumb-49cb0575-b6a6-4bc1-9236-fd86fa1836b8.png",
+            "uri": "/file/49cb0575-b6a6-4bc1-9236-fd86fa1836b8",
+            "url": "/assets/4c/a5/82d7da8e9808d79923318da14396/our_changing_planet_2007_76_20090708_1343575250.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/a-train-satellites.json",
+    "identifier": "a-train-satellites",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "\"A-Train\" Satellites",
+    "uri": "/report/ccsp-ocpfy2007/figure/a-train-satellites",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

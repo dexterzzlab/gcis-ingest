@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Southwest area GACC fire risk outlook for 2003. Southwest Area Energy Release Component (ERC) curve for 2003 with observed (January-February) and projected most likely scenario (March-August) of fire potential. ERC values are normally expected to peak between late May and early July, which correlates with the peak potential for large fire activity. The 2003 analysis correctly projected the timing of the very high fire danger period (mid-to-late June) encompassing the Aspen fire in Arizona\u2019s Coronado National Forest. The analysis also correctly projected that 2003 fire danger would be less severe for the southwestern United States than the 2002 fire danger. Through collaborative efforts of scientists and fire managers, pre-season forecasts can support improved management strategy and response and reduce the likelihood of future fires turning into major infernos. Credit: Gregg M. Garfin, CLIMAS/Institute for the Study of Planet Earth, University of Arizona.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "9b/2e/10c00ff383916a964340e7d07a1c/our_changing_planet_2004-2005_17_20090708_1009282778.jpg",
+            "href": "http://data.globalchange.gov/assets/9b/2e/10c00ff383916a964340e7d07a1c/our_changing_planet_2004-2005_17_20090708_1009282778.jpg",
+            "identifier": "50442177-8e3f-4e9d-bfb3-6759c028b5a0",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "f2c0875b8e3430e4165275732a22f6f7790e61c0",
+            "size": 71160,
+            "thumbnail": "9b/2e/10c00ff383916a964340e7d07a1c/.thumb-50442177-8e3f-4e9d-bfb3-6759c028b5a0.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/9b/2e/10c00ff383916a964340e7d07a1c/.thumb-50442177-8e3f-4e9d-bfb3-6759c028b5a0.png",
+            "uri": "/file/50442177-8e3f-4e9d-bfb3-6759c028b5a0",
+            "url": "/assets/9b/2e/10c00ff383916a964340e7d07a1c/our_changing_planet_2004-2005_17_20090708_1009282778.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2004and2005/figure/southwest-area-fire-risk-outlook.json",
+    "identifier": "southwest-area-fire-risk-outlook",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2004and2005",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Southwest Area Fire Risk Outlook",
+    "uri": "/report/ccsp-ocpfy2004and2005/figure/southwest-area-fire-risk-outlook",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

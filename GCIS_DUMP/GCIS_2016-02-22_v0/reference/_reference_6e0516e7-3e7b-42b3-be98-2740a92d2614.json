@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Alaska Department of Environmental Conservation,",
+        "Institution": "State of Alaska",
+        "Pages": "94",
+        "Place Published": "Juneau, AK",
+        "Title": "Alaska\u2019s Climate Change Strategy: Addressing Impacts in Alaska. Final Report Submitted by the Adaptation Advisory Group to the Alaska Climate Change Sub-Cabinet",
+        "URL": "www.climatechange.alaska.gov/aag/docs/aag_all_rpt_27jan10.pdf",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 5: Transportation FINAL\"]",
+        "_record_number": "3562",
+        "_uuid": "6e0516e7-3e7b-42b3-be98-2740a92d2614",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/adaptationadvisorygroup-alaskaclimch-2010",
+    "href": "http://data.globalchange.gov/reference/6e0516e7-3e7b-42b3-be98-2740a92d2614.json",
+    "identifier": "6e0516e7-3e7b-42b3-be98-2740a92d2614",
+    "uri": "/reference/6e0516e7-3e7b-42b3-be98-2740a92d2614"
+}

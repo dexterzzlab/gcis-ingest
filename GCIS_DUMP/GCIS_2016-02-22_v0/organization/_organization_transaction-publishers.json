@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/transaction-publishers.json",
+    "identifier": "transaction-publishers",
+    "name": "Transaction Publishers",
+    "organization_type_identifier": "commercial",
+    "uri": "/organization/transaction-publishers",
+    "url": "http://www.transactionpub.com/"
+}

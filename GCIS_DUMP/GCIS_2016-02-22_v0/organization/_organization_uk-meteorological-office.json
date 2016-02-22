@@ -1,0 +1,9 @@
+{
+    "country_code": "UK",
+    "href": "http://data.globalchange.gov/organization/uk-meteorological-office.json",
+    "identifier": "uk-meteorological-office",
+    "name": "UK Meteorological Office",
+    "organization_type_identifier": "national",
+    "uri": "/organization/uk-meteorological-office",
+    "url": "http://www.metoffice.gov.uk"
+}

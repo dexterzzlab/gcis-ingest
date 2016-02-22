@@ -1,0 +1,89 @@
+{
+    "attributes": null,
+    "caption": "In the summer of 2014, heavy monsoon rains combined with the arrival of meltwater from the Himalayas to cause unusually severe flooding in parts of Bangladesh (shown above: the flooded Brahmaputra River valley and Tanquar Haor wetlands). SERVIR\u2019s flood forecasting system, which uses altimeter data from the Jason-2 satellite, accurately predicted the flooding eight days in advance and is now being expanded for nationwide operational use. (Source: NASA Terra-MODIS)",
+    "chapter": {
+        "doi": null,
+        "identifier": "federal-investments-global-change-research",
+        "number": 2,
+        "report_identifier": "usgcrp-ocpfy2016",
+        "sort_key": 20,
+        "title": "Federal Investments in Global Change Research ",
+        "url": null
+    },
+    "chapter_identifier": "federal-investments-global-change-research",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/4708.json",
+            "id": 4708,
+            "organization": {
+                "country_code": "US",
+                "identifier": "modis-rapid-response-team",
+                "name": "MODIS Rapid Response Team",
+                "organization_type_identifier": "federal",
+                "url": "https://earthdata.nasa.gov/data/near-real-time-data/rapid-response"
+            },
+            "organization_uri": "/organization/modis-rapid-response-team",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "contributing_agency",
+            "uri": "/contributor/4708"
+        }
+    ],
+    "create_dt": "2014-08-29T00:00:00",
+    "files": [
+        {
+            "file": "22/9a/42a87b1a1d065e327dd6fa9062f3/HL14_SERVIR-bangladesh-flooding-satellite.jpg",
+            "href": "http://data.globalchange.gov/assets/22/9a/42a87b1a1d065e327dd6fa9062f3/HL14_SERVIR-bangladesh-flooding-satellite.jpg",
+            "identifier": "8b360dc8-de2b-4add-8a85-76747fba4fe8",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "3d0c86bcfbdaea5898ad493361322b1788cad0e1",
+            "size": 6936146,
+            "thumbnail": "22/9a/42a87b1a1d065e327dd6fa9062f3/.thumb-8b360dc8-de2b-4add-8a85-76747fba4fe8.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/22/9a/42a87b1a1d065e327dd6fa9062f3/.thumb-8b360dc8-de2b-4add-8a85-76747fba4fe8.png",
+            "uri": "/file/8b360dc8-de2b-4add-8a85-76747fba4fe8",
+            "url": "/assets/22/9a/42a87b1a1d065e327dd6fa9062f3/HL14_SERVIR-bangladesh-flooding-satellite.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2016/chapter/federal-investments-global-change-research/figure/flooding-bangladesh.json",
+    "identifier": "flooding-bangladesh",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2014-08-29T00:00:00",
+            "description": null,
+            "identifier": "e2c8bd5b-09e0-431d-bde9-e55b16f2ea66",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Flooding in Bangladesh",
+            "url": null,
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 9,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2016",
+    "source_citation": "Image courtesy the MODIS Rapid Response Team at NASA GSFC. Retrieved from NASA Earth Observatory February 2015",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Flooding in Bangladesh",
+    "uri": "/report/usgcrp-ocpfy2016/chapter/federal-investments-global-change-research/figure/flooding-bangladesh",
+    "url": "http://earthobservatory.nasa.gov/IOTD/view.php?id=84299",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

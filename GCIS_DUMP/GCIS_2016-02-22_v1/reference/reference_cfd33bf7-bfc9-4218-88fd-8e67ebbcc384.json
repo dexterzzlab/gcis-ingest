@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Shepherd, J.G.",
+        "ISBN": "978-0-85403-773-5",
+        "Number of Pages": "82",
+        "Publisher": "Royal Society",
+        "Reviewer": "cfd33bf7-bfc9-4218-88fd-8e67ebbcc384",
+        "Title": "Geoengineering the Climate: Science, Governance and Uncertainty",
+        "URL": "http://eprints.soton.ac.uk/156647/1/Geoengineering_the_climate.pdf",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "2838",
+        "_uuid": "cfd33bf7-bfc9-4218-88fd-8e67ebbcc384",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/royalsociety-geoengineering-2009",
+    "href": "http://data.globalchange.gov/reference/cfd33bf7-bfc9-4218-88fd-8e67ebbcc384.json",
+    "identifier": "cfd33bf7-bfc9-4218-88fd-8e67ebbcc384",
+    "uri": "/reference/cfd33bf7-bfc9-4218-88fd-8e67ebbcc384"
+}

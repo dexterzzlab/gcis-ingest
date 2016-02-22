@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/ccsp-sap-2_1b-2007.json",
+    "identifier": "ccsp-sap-2_1b-2007",
+    "in_library": 1,
+    "publication_year": 2007,
+    "report_type_identifier": "report",
+    "summary": "Global Change Scenarios: Their Development and Use. Sub-report 2.1B of Synthesis and Assessment Product 2.1 by the U.S. Climate Change Science Program and the Subcommittee on Global Change Research.",
+    "title": "SAP 2.1B: Global-Change Scenarios: Their Development and Use",
+    "topic": "Scenarios",
+    "uri": "/report/ccsp-sap-2_1b-2007",
+    "url": null
+}

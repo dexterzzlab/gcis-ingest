@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/missouri-state.json",
+    "identifier": "missouri-state",
+    "name": "State of Missouri",
+    "organization_type_identifier": "state",
+    "uri": "/organization/missouri-state",
+    "url": "http://www.mo.gov/"
+}

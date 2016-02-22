@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/epa-sab-12-011.json",
+    "identifier": "epa-sab-12-011",
+    "in_library": null,
+    "publication_year": 2012,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "SAB Review of EPA\u2019s Accounting Framework for Biogenic CO2 Emissions from Stationary Sources (September 2011). EPA-SAB-12-011",
+    "topic": null,
+    "uri": "/report/epa-sab-12-011",
+    "url": "http://yosemite.epa.gov/sab/sabproduct.nsf/0/57B7A4F1987D7F7385257A87007977F6/$File/EPA-SAB-12-011-unsigned.pdf"
+}

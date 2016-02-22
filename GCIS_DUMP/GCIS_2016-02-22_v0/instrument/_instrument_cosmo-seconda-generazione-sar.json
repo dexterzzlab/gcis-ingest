@@ -1,0 +1,8 @@
+{
+    "description": "Imaging radar (SAR)",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/cosmo-seconda-generazione-sar.json",
+    "identifier": "cosmo-seconda-generazione-sar",
+    "name": "COSMO Seconda Generazione SAR",
+    "uri": "/instrument/cosmo-seconda-generazione-sar"
+}

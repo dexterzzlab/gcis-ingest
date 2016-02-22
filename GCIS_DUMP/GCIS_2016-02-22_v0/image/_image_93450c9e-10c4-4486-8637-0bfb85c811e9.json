@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-13T10:54:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Summer Arctic sea ice has declined dramatically since satellites began measuring it in 1979. The extent of sea ice in September 2012, shown in white in the top figure, was more than 40% below the median for 1979-2000. The graph on the bottom left shows annual variations in September Arctic sea ice extent for 1979-2013. It is also notable that the ice has become much thinner in recent years, so its total volume (bottom right) has declined even more rapidly than the extent.<tbib>2ecb64ff-f4e0-4acd-b049-e5d04f44c57a</tbib> (Figure and data from National Snow and Ice Data Center).",
+            "chapter_identifier": "our-changing-climate",
+            "create_dt": "2013-11-13T10:54:00",
+            "identifier": "decline-in-arctic-sea-ice-extent",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 28,
+            "report_identifier": "nca3",
+            "source_citation": "National Snow and Ice Data Center",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Decline in Arctic Sea Ice Extent",
+            "url": "http://nca2014.globalchange.gov/report/our-changing-climate/melting-ice/graphics/decline-arctic-sea-ice-extent",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "4c/41/b32df084fd119904d8b0599dea4e/2-28_a.png",
+            "href": "http://data.globalchange.gov/assets/4c/41/b32df084fd119904d8b0599dea4e/2-28_a.png",
+            "identifier": "ea916658-0b50-4c82-83ae-845a5151ac8d",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "417255d69874b533a2a5098ab10db68c82f81aaa",
+            "size": 552919,
+            "thumbnail": "4c/41/b32df084fd119904d8b0599dea4e/.thumb-ea916658-0b50-4c82-83ae-845a5151ac8d.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/4c/41/b32df084fd119904d8b0599dea4e/.thumb-ea916658-0b50-4c82-83ae-845a5151ac8d.png",
+            "uri": "/file/ea916658-0b50-4c82-83ae-845a5151ac8d",
+            "url": "/assets/4c/41/b32df084fd119904d8b0599dea4e/2-28_a.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/93450c9e-10c4-4486-8637-0bfb85c811e9.json",
+    "identifier": "93450c9e-10c4-4486-8637-0bfb85c811e9",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2012-12-31T23:59:59",
+    "time_start": "1980-01-01T00:00:00",
+    "title": "Decline in Sea Ice Extent - Map",
+    "uri": "/image/93450c9e-10c4-4486-8637-0bfb85c811e9",
+    "url": null,
+    "usage_limits": null
+}

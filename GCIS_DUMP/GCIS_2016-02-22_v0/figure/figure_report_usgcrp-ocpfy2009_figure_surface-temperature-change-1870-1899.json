@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "The top panel shows that regional maximum surface temperature increases projected by the end of the 21st century are roughly double the globally averaged value, with the largest increases seen at high latitudes. Surface temperature increases in the tropics are much less, due to the more significant amounts of atmospheric water vapor, a very effective greenhouse gas.4 The lower panel shows instances of dramatic global cooling resulting from large volcanic eruptions. Such eruptions\u2014for example, Krakatau in 1883\u2014 can be seen a number of times in this run as sharp, 5-year cooling events. As there is no method for predicting the occurrence of volcanic eruptions in the future, the smooth temperature curve from 2000 to 2100 reflects the fact that such events are not included in the climate models after 2000.5 Credit: G. Strand, NCAR (adapted from the Journal of Climate with permission from the American Meteorological Society).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "33/cf/8b040eb72550d6bc09ba6853d011/Figure_2.png",
+            "href": "http://data.globalchange.gov/assets/33/cf/8b040eb72550d6bc09ba6853d011/Figure_2.png",
+            "identifier": "991bffe7-fc31-41b3-9894-109dabc434ce",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "f96c88fc085883216c2fb0987e6d633de9204e6f",
+            "size": 421206,
+            "thumbnail": "33/cf/8b040eb72550d6bc09ba6853d011/.thumb-991bffe7-fc31-41b3-9894-109dabc434ce.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/33/cf/8b040eb72550d6bc09ba6853d011/.thumb-991bffe7-fc31-41b3-9894-109dabc434ce.png",
+            "uri": "/file/991bffe7-fc31-41b3-9894-109dabc434ce",
+            "url": "/assets/33/cf/8b040eb72550d6bc09ba6853d011/Figure_2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2009/figure/surface-temperature-change-1870-1899.json",
+    "identifier": "surface-temperature-change-1870-1899",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2009",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Surface Temperature Change Relative to 1870-1899 Baseline",
+    "uri": "/report/usgcrp-ocpfy2009/figure/surface-temperature-change-1870-1899",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

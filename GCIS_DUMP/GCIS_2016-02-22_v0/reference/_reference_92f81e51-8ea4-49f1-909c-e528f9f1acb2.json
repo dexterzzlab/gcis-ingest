@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Carmin, J.\rDodman, D. ",
+        "Book Title": "Successful Adaptation to Climate Change: Linking Science and Policy in a Rpaidly Changing World",
+        "Editor": "Moser, S.\rBoycoff, M.",
+        "ISBN": "978-0-415-52499-5",
+        "Pages": "336",
+        "Place Published": "London",
+        "Publisher": "Routledge",
+        "Reviewer": "92f81e51-8ea4-49f1-909c-e528f9f1acb2",
+        "Title": "Ch. 13: Engaging science and managing scientific uncertainty in urban climate adaptation planning",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 11: Urban Systems FINAL\"]",
+        "_record_number": "1502",
+        "_uuid": "92f81e51-8ea4-49f1-909c-e528f9f1acb2",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/5255ed9a-29d0-4ae5-aad4-227e5536ac2d",
+    "href": "http://data.globalchange.gov/reference/92f81e51-8ea4-49f1-909c-e528f9f1acb2.json",
+    "identifier": "92f81e51-8ea4-49f1-909c-e528f9f1acb2",
+    "uri": "/reference/92f81e51-8ea4-49f1-909c-e528f9f1acb2"
+}

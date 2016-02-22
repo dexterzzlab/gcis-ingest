@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Large-scale spatial population projections are of growing importance to the global change community. Spatial settlement patterns are a key determinant of vulnerability to climate-related hazards as well as to land-use and its consequences for habitat, energy use, and emissions of greenhouse gases and air pollutants. Few projections exist of spatial distribution at national or larger scales, and while recent efforts improve on earlier approaches that simply scaled or extrapolated existing spatial patterns, important methodological shortcomings remain and models have not been calibrated to nor validated against historical trends. Here we present spatially explicit 100-year projections for the continental United States consistent with two different scenarios of possible socio-economic development. The projections are based on a new model that is calibrated to observed changes in regional population distribution since 1950, corrects for distorting effects at borders, and employs a spatial mask for designating protected or uninhabitable land. Using new metrics for comparing spatial outcomes, we find that our projections anticipate more moderate trends in urban expansion and coastal settlement than widely used existing projections. We also find that differences in outcomes across models are much larger than differences across alternative socio-economic scenarios for a given model, emphasizing the importance of better understanding of methods of spatial population projection for improved integrated assessments of social and environmental change.",
+        "Author": "Jones, Bryan\rO\u2019Neill, Brian C.",
+        "DOI": "10.1088/1748-9326/8/4/044021",
+        "ISSN": "1748-9326",
+        "Issue": "4",
+        "Journal": "Environmental Research Letters",
+        "Pages": "044021",
+        "Title": "Historically grounded spatial population projections for the continental United States",
+        "URL": "http://iopscience.iop.org/1748-9326/8/4/044021/pdf/1748-9326_8_4_044021.pdf",
+        "Volume": "8",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 11: Urban Systems FINAL\"]",
+        "_record_number": "4629",
+        "_uuid": "86ded459-e166-494a-ab94-fb0d757a17d2",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1088/1748-9326/8/4/044021",
+    "href": "http://data.globalchange.gov/reference/86ded459-e166-494a-ab94-fb0d757a17d2.json",
+    "identifier": "86ded459-e166-494a-ab94-fb0d757a17d2",
+    "uri": "/reference/86ded459-e166-494a-ab94-fb0d757a17d2"
+}

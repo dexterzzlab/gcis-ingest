@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Overland, J.E.\rWang, M.",
+        "DOI": "10.1111/j.1600-0870.2009.00421.x",
+        "ISSN": "1600-0870",
+        "Issue": "1",
+        "Journal": "Tellus A",
+        "Pages": "1-9",
+        "Title": "Large-scale atmospheric circulation changes are associated with the recent loss of Arctic sea ice",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/j.1600-0870.2009.00421.x/pdf",
+        "Volume": "62",
+        "Year": "2009",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "2391",
+        "_uuid": "27d73dad-83ea-4d83-875a-8f81d5048d8a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1600-0870.2009.00421.x",
+    "href": "http://data.globalchange.gov/reference/27d73dad-83ea-4d83-875a-8f81d5048d8a.json",
+    "identifier": "27d73dad-83ea-4d83-875a-8f81d5048d8a",
+    "uri": "/reference/27d73dad-83ea-4d83-875a-8f81d5048d8a"
+}

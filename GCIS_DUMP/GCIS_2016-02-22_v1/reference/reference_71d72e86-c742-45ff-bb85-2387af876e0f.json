@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Concentration\u2013discharge relationships have been widely used as clues to the hydrochemical processes that control runoff chemistry. Here we examine concentration\u2013discharge relationships for solutes produced primarily by mineral weathering in 59 geochemically diverse US catchments. We show that these catchments exhibit nearly chemostatic behaviour; their stream concentrations of weathering products such as Ca, Mg, Na, and Si typically vary by factors of only 3 to 20 while discharge varies by several orders of magnitude. Similar patterns are observed at the inter-annual time scale. This behaviour implies that solute concentrations in stream water are not determined by simple dilution of a fixed solute flux by a variable flux of water, and that rates of solute production and/or mobilization must be nearly proportional to water fluxes, both on storm and inter-annual timescales. We compared these catchments' concentration\u2013discharge relationships to the predictions of several simple hydrological and geochemical models. Most of these models can be forced to approximately fit the observed concentration\u2013discharge relationships, but often only by assuming unrealistic or internally inconsistent parameter values. We propose a new model that also fits the data and may be more robust. We suggest possible tests of the new model for future studies. The relative stability of concentration under widely varying discharge may help make aquatic environments habitable. It also implies that fluxes of weathering solutes in streams, and thus fluxes of alkalinity to the oceans, are determined primarily by water fluxes. Thus, hydrology may be a major driver of the ocean-alkalinity feedback regulating climate change.",
+        "Author": "Godsey, S.E.\rKirchner, J.W.\rClow, D.W.",
+        "DOI": "10.1002/hyp.7315",
+        "ISSN": "1099-1085",
+        "Issue": "13",
+        "Journal": "Hydrological Processes",
+        "Keywords": "concentration\u2013discharge;; dissolved load;; solute;; chemical weathering;; Hydrologic Benchmark Network;; water quality;; catchment;; watershed",
+        "Pages": "1844-1864",
+        "Title": "Concentration\u2013discharge relationships reflect chemostatic characteristics of US catchments",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1002/hyp.7315/pdf",
+        "Volume": "23",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "437",
+        "_uuid": "71d72e86-c742-45ff-bb85-2387af876e0f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/hyp.7315",
+    "href": "http://data.globalchange.gov/reference/71d72e86-c742-45ff-bb85-2387af876e0f.json",
+    "identifier": "71d72e86-c742-45ff-bb85-2387af876e0f",
+    "uri": "/reference/71d72e86-c742-45ff-bb85-2387af876e0f"
+}

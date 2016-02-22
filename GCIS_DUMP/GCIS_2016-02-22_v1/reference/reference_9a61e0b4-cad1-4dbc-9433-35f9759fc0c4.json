@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Robinson, John B.",
+        "DOI": "10.1016/0040-1625(88)90029-7",
+        "ISSN": "0040-1625",
+        "Issue": "4",
+        "Journal": "Technological Forecasting and Social Change",
+        "Pages": "325-338",
+        "Title": "Unlearning and backcasting: Rethinking some of the questions we ask about the future",
+        "Volume": "33",
+        "Year": "1988",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4061",
+        "_uuid": "9a61e0b4-cad1-4dbc-9433-35f9759fc0c4",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/0040-1625(88)90029-7",
+    "href": "http://data.globalchange.gov/reference/9a61e0b4-cad1-4dbc-9433-35f9759fc0c4.json",
+    "identifier": "9a61e0b4-cad1-4dbc-9433-35f9759fc0c4",
+    "uri": "/reference/9a61e0b4-cad1-4dbc-9433-35f9759fc0c4"
+}

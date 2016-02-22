@@ -1,0 +1,28 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Alternate Journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "Author": "Carpenter, S. R.",
+        "DOI": "10.1073/pnas.0806112105",
+        "Date": "Aug",
+        "ISSN": "0027-8424",
+        "Issue": "32",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Keywords": "nitrogen; limitation; cycle",
+        "Language": "English",
+        "Pages": "11039-11040",
+        "Title": "Phosphorus control is critical to mitigating eutrophication",
+        "Type of Article": "Article",
+        "URL": "http://www.pnas.org/content/105/32/11039.full.pdf",
+        "Volume": "105",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "1263",
+        "_uuid": "756b315a-6ec9-4b27-b521-f2b91f2c28bc",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.0806112105",
+    "href": "http://data.globalchange.gov/reference/756b315a-6ec9-4b27-b521-f2b91f2c28bc.json",
+    "identifier": "756b315a-6ec9-4b27-b521-f2b91f2c28bc",
+    "uri": "/reference/756b315a-6ec9-4b27-b521-f2b91f2c28bc"
+}

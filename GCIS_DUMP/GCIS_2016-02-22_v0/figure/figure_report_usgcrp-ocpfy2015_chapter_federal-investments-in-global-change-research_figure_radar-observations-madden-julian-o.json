@@ -1,0 +1,164 @@
+{
+    "attributes": null,
+    "caption": "Doppler radar deployed during the DYNAMO mission, with MJO-associated cumulus clouds growing over the Indian Ocean. (Credit: E. Maloney, Colorado State University)",
+    "chapter": {
+        "doi": null,
+        "identifier": "federal-investments-in-global-change-research",
+        "number": 2,
+        "report_identifier": "usgcrp-ocpfy2015",
+        "sort_key": 20,
+        "title": "Federal Investments in Global Change Research",
+        "url": null
+    },
+    "chapter_identifier": "federal-investments-in-global-change-research",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/4253.json",
+            "id": 4253,
+            "organization": {
+                "country_code": "US",
+                "identifier": "colorado-state-university",
+                "name": "Colorado State University",
+                "organization_type_identifier": "academic",
+                "url": "http://www.colostate.edu/"
+            },
+            "organization_uri": "/organization/colorado-state-university",
+            "person": {
+                "first_name": "Eric",
+                "id": 2382,
+                "last_name": "Maloney",
+                "middle_name": null,
+                "orcid": null,
+                "url": "http://www.atmos.colostate.edu/faculty/maloney.php"
+            },
+            "person_id": 2382,
+            "person_uri": "/person/2382",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/4253"
+        },
+        {
+            "href": "http://data.globalchange.gov/contributor/4158.json",
+            "id": 4158,
+            "organization": {
+                "country_code": "US",
+                "identifier": "us-department-energy",
+                "name": "U.S. Department of Energy",
+                "organization_type_identifier": "federal",
+                "url": "http://www.energy.gov"
+            },
+            "organization_uri": "/organization/us-department-energy",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "contributing_agency",
+            "uri": "/contributor/4158"
+        },
+        {
+            "href": "http://data.globalchange.gov/contributor/4148.json",
+            "id": 4148,
+            "organization": {
+                "country_code": "US",
+                "identifier": "noaa-climate-program-office",
+                "name": "National Oceanic and Atmospheric Administration Climate Program Office",
+                "organization_type_identifier": "federal",
+                "url": "http://cpo.noaa.gov"
+            },
+            "organization_uri": "/organization/noaa-climate-program-office",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "contributing_agency",
+            "uri": "/contributor/4148"
+        },
+        {
+            "href": "http://data.globalchange.gov/contributor/4256.json",
+            "id": 4256,
+            "organization": {
+                "country_code": "US",
+                "identifier": "office-naval-research",
+                "name": "Office of Naval Research",
+                "organization_type_identifier": "federal",
+                "url": "http://www.onr.navy.mil/"
+            },
+            "organization_uri": "/organization/office-naval-research",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "contributing_agency",
+            "uri": "/contributor/4256"
+        },
+        {
+            "href": "http://data.globalchange.gov/contributor/4149.json",
+            "id": 4149,
+            "organization": {
+                "country_code": "US",
+                "identifier": "nsf-climate-large-scale-dynamics-program",
+                "name": "National Science Foundation Climate and Large-Scale Dynamics Program",
+                "organization_type_identifier": "federal",
+                "url": "http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=11699"
+            },
+            "organization_uri": "/organization/nsf-climate-large-scale-dynamics-program",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "contributing_agency",
+            "uri": "/contributor/4149"
+        }
+    ],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "65/00/9c4414a20bbb50104eef5e1aa382/DYNAMO-doppler.png",
+            "href": "http://data.globalchange.gov/assets/65/00/9c4414a20bbb50104eef5e1aa382/DYNAMO-doppler.png",
+            "identifier": "7a55ce1b-396e-4c7f-bf23-0811ec36fc06",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "329409c3c2807ab43d7b495d889435468c3f7d0e",
+            "size": 696365,
+            "thumbnail": "65/00/9c4414a20bbb50104eef5e1aa382/.thumb-7a55ce1b-396e-4c7f-bf23-0811ec36fc06.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/65/00/9c4414a20bbb50104eef5e1aa382/.thumb-7a55ce1b-396e-4c7f-bf23-0811ec36fc06.png",
+            "uri": "/file/7a55ce1b-396e-4c7f-bf23-0811ec36fc06",
+            "url": "/assets/65/00/9c4414a20bbb50104eef5e1aa382/DYNAMO-doppler.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2015/chapter/federal-investments-in-global-change-research/figure/radar-observations-madden-julian-oscillation.json",
+    "identifier": "radar-observations-madden-julian-oscillation",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": null,
+            "description": null,
+            "identifier": "ec16ce9d-37e6-4e4a-bdb1-9d4eb632c754",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Radar Observations of the Madden-Julian Oscillation",
+            "url": null,
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source. "
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 7,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2015",
+    "source_citation": "Photograph courtesy of Eric D. Maloney, Colorado State University and Adam H. Sobel, Shang-Ping Xie, and L. Kiranmayi, NOAA Climate Program Office, National Science Foundation Climate and Large-Scale Dynamics Program",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Radar Observations of the Madden-Julian Oscillation",
+    "uri": "/report/usgcrp-ocpfy2015/chapter/federal-investments-in-global-change-research/figure/radar-observations-madden-julian-oscillation",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source. "
+}

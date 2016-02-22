@@ -1,0 +1,9 @@
+{
+    "description": "In response to a proposed activity of the World Climate Research Programme's (WCRP's) Working Group on Coupled Modelling (WGCM),  PCMDI volunteered to collect model output contributed by leading modeling centers around the world.  Climate model output from simulations of the past, present and future climate was collected by PCMDI mostly during the years 2005 and 2006, and this archived data constitutes phase 3 of the Coupled Model Intercomparison Project (CMIP3).  In part, the WGCM organized this activity to enable those outside the major modeling centers to perform research of relevance to climate scientists preparing the Fourth Asssessment Report (AR4) of the Intergovernmental Panel on Climate Change (IPCC).  The IPCC was established by the World Meteorological Organization and the United Nations Environmental Program to assess scientific information on climate change. The IPCC publishes reports that summarize the state of the science.\nThis unprecedented collection of recent model output is officially known as the \"WCRP CMIP3 multi-model dataset.\"",
+    "description_attribution": "http://www-pcmdi.llnl.gov/ipcc/about_ipcc.php",
+    "href": "http://data.globalchange.gov/project/cmip3.json",
+    "identifier": "cmip3",
+    "name": "Coupled Model Intercomparison Project Phase 3",
+    "uri": "/project/cmip3",
+    "website": "http://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip3"
+}

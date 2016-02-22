@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Tribal Climate Change Project,",
+        "Institution": "U.S. Department of Agriculture, U.S. Forest Service Pacific Northwest Research Station, University of Oregon",
+        "Title": "Tribal Climate Change Profile: Coquille Indian Tribe: Planning for the Effects of Climate Change and Reducing Greenhouse Gas Emissions. Technical Input Report to the National Climate Assessment 2013",
+        "URL": "http://tribalclimate.uoregon.edu/files/2010/11/tribes_Coquille_web1.pdf",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "3094",
+        "_uuid": "8472db31-6ff4-47f2-8842-4173dcd58e4e",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/uoregon-tribalclimch-2010",
+    "href": "http://data.globalchange.gov/reference/8472db31-6ff4-47f2-8842-4173dcd58e4e.json",
+    "identifier": "8472db31-6ff4-47f2-8842-4173dcd58e4e",
+    "uri": "/reference/8472db31-6ff4-47f2-8842-4173dcd58e4e"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Christy, J.R.",
+        "DOI": "10.1175/JHM-D-11-040.1",
+        "ISSN": "1525-755X",
+        "Issue": "2012",
+        "Journal": "Journal of Hydrometeorology",
+        "Pages": "895-912",
+        "Title": "Searching for information in 133 years of California snowfall observations",
+        "Volume": "13",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "1513",
+        "_uuid": "7d4844ae-09af-4274-9774-693dcf8badfe",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/JHM-D-11-040.1",
+    "href": "http://data.globalchange.gov/reference/7d4844ae-09af-4274-9774-693dcf8badfe.json",
+    "identifier": "7d4844ae-09af-4274-9774-693dcf8badfe",
+    "uri": "/reference/7d4844ae-09af-4274-9774-693dcf8badfe"
+}

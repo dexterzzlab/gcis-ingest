@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "An important goal of vulnerability assessment is to create an index of overall vulnerability from a suite of indicators. Constructing a vulnerability index raises several problems in the aggregation of these indicators, including the decision of assigning weights to them. The purpose of this paper is to demonstrate a method of aggregating vulnerability indicators that results in a composite index of vulnerability, but that avoids the problems associated with assigning weights. The investigators apply a technique based on Pareto ranking to a complex, developed socioeconomic landscape exposed to storm surges associated with hurricanes. Indicators of social vulnerability to this hazard are developed and a principal components analysis is performed on proxies for these indicators. Overall social vulnerability is calculated by applying Pareto ranking to these principal components. The paper concludes that it is possible to construct an effective index of vulnerability without weighting the individual vulnerability indicators.",
+        "Author": "Rygel, Lisa\rO\u2019Sullivan, David\rYarnal, Brent",
+        "DOI": "10.1007/s11027-006-0265-6",
+        "Issue": "3",
+        "Journal": "Mitigation and Adaptation Strategies for Global Change",
+        "Keywords": "vulnerability assessment; vulnerability indicators; vulnerability index; composite index; indicator weighting; Pareto ranking; principal component analysis; social vulnerability; extreme weather events",
+        "Pages": "741-764",
+        "Title": "A method for constructing a Social Vulnerability Index: An application to hurricane storm surges in a developed country",
+        "URL": "http://www.cara.psu.edu/about/publications/Rygel_et_al_MASGC.pdf]",
+        "Volume": "11",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"RG 9 Rural\",\"Ch. 14: Rural Communities FINAL\",\"RG 10 Coasts\"]",
+        "_record_number": "2719",
+        "_uuid": "64254017-4033-4e39-87de-2b755d431986",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s11027-006-0265-6",
+    "href": "http://data.globalchange.gov/reference/64254017-4033-4e39-87de-2b755d431986.json",
+    "identifier": "64254017-4033-4e39-87de-2b755d431986",
+    "uri": "/reference/64254017-4033-4e39-87de-2b755d431986"
+}

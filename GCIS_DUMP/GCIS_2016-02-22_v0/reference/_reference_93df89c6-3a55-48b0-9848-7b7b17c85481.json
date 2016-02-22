@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Crausbay, S.D.\rHotchkiss, S.C.",
+        "DOI": "10.1111/j.1365-2699.2010.02277.x",
+        "ISSN": "1365-2699",
+        "Issue": "6",
+        "Journal": "Journal of Biogeography",
+        "Pages": "1160-1174",
+        "Title": "Strong relationships between vegetation and two perpendicular climate gradients high on a tropical mountain in Hawai\u2018i",
+        "Volume": "37",
+        "Year": "2010",
+        "_chapter": "[\"RF 10\",\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "1616",
+        "_uuid": "93df89c6-3a55-48b0-9848-7b7b17c85481",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1365-2699.2010.02277.x",
+    "href": "http://data.globalchange.gov/reference/93df89c6-3a55-48b0-9848-7b7b17c85481.json",
+    "identifier": "93df89c6-3a55-48b0-9848-7b7b17c85481",
+    "uri": "/reference/93df89c6-3a55-48b0-9848-7b7b17c85481"
+}

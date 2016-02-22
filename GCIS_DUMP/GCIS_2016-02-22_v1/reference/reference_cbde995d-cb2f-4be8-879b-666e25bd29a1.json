@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Br\u00f6nnimann, S.\rEwen, T.\rLuterbacher, J.\rDiaz, H.F.\rStolarski, R.S.\rNeu, U.",
+        "Book Title": "Climate Variability and Extremes during the Past 100 Years",
+        "DOI": "10.1007/978-1-4020-6766-2_1",
+        "ISBN": "9781402067655",
+        "Pages": "1-25",
+        "Reviewer": "cbde995d-cb2f-4be8-879b-666e25bd29a1",
+        "Title": "A focus on climate during the past 100 years",
+        "Volume": "33",
+        "Year": "2007",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "716",
+        "_uuid": "cbde995d-cb2f-4be8-879b-666e25bd29a1",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/998aa4c2-9f0d-478c-b7bb-19e383c628a9",
+    "href": "http://data.globalchange.gov/reference/cbde995d-cb2f-4be8-879b-666e25bd29a1.json",
+    "identifier": "cbde995d-cb2f-4be8-879b-666e25bd29a1",
+    "uri": "/reference/cbde995d-cb2f-4be8-879b-666e25bd29a1"
+}

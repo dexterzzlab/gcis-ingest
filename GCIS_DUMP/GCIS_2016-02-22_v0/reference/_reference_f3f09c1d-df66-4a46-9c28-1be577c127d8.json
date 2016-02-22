@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "McGuire, A. D.\rRuess, R. W.\rLloyd, A.\rYarie, J.\rClein, J. S.\rJuday, G. P.",
+        "DOI": "10.1139/x09-206",
+        "Date": "Jul",
+        "ISSN": "0045-5067",
+        "Issue": "7",
+        "Journal": "Canadian Journal of Forest Research",
+        "Label": "IN",
+        "Pages": "1197-1209",
+        "Title": "Vulnerability of white spruce tree growth in interior Alaska in response to climate variability: Dendrochronological, demographic, and experimental perspectives",
+        "Volume": "40",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "1946",
+        "_uuid": "f3f09c1d-df66-4a46-9c28-1be577c127d8",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1139/x09-206",
+    "href": "http://data.globalchange.gov/reference/f3f09c1d-df66-4a46-9c28-1be577c127d8.json",
+    "identifier": "f3f09c1d-df66-4a46-9c28-1be577c127d8",
+    "uri": "/reference/f3f09c1d-df66-4a46-9c28-1be577c127d8"
+}

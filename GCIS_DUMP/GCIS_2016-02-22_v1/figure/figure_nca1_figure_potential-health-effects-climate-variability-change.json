@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Schematic diagram of the potential health effects of climate variability and change. (Source, Patz et al., 2000) *Moderating influences include non-climate factors that affect climate-related health outcomes, such as : population growth and demographic change; standard of living; access to heatlh care; improvements in heatlh care; and public health infrastructure. **Adaptation measure include actions to reduce risks of adverse helath outcomes, such as: vaccination programs; disease surveillance; monitoring; use of protective technologies (e.g., air conditioning, pesticides, water filtration/treatment); use of climate forecasts; and development of weather warning systems; emergency management and disaster preparedness programs; and public education.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "54/e1/e7e2be75731cacb695cfd1756235/health_section_of_climate_change_impacts_2001_3_20090708_1752867075.jpg",
+            "href": "http://data.globalchange.gov/assets/54/e1/e7e2be75731cacb695cfd1756235/health_section_of_climate_change_impacts_2001_3_20090708_1752867075.jpg",
+            "identifier": "359e1a05-fe62-4a7b-92f8-e5c223e42574",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "98d4758f9289c97f792fc322c91f930adbdc1b6e",
+            "size": 91257,
+            "thumbnail": "54/e1/e7e2be75731cacb695cfd1756235/.thumb-359e1a05-fe62-4a7b-92f8-e5c223e42574.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/54/e1/e7e2be75731cacb695cfd1756235/.thumb-359e1a05-fe62-4a7b-92f8-e5c223e42574.png",
+            "uri": "/file/359e1a05-fe62-4a7b-92f8-e5c223e42574",
+            "url": "/assets/54/e1/e7e2be75731cacb695cfd1756235/health_section_of_climate_change_impacts_2001_3_20090708_1752867075.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca1/figure/potential-health-effects-climate-variability-change.json",
+    "identifier": "potential-health-effects-climate-variability-change",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca1",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Potential Health Effects of Climate Variability and Change",
+    "uri": "/report/nca1/figure/potential-health-effects-climate-variability-change",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

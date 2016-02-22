@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Eagle, A. J.\rEiswerth, M. E.\rJohnson, W. S.\rSchoenig, S. E.\rvan Kooten, G. C.",
+        "DOI": "10.2111/1551-5028(2007)60[369:calioc]2.0.co;2",
+        "Date": "Jul",
+        "ISSN": "1550-7424",
+        "Issue": "4",
+        "Journal": "Rangeland Ecology & Management",
+        "Keywords": "forage values; invasive weed economics; invasive weeds; nonnative; species; centaurea-solstitialis; soil",
+        "Pages": "369-377",
+        "Title": "Costs and losses imposed on California ranchers by yellow starthistle",
+        "Type of Article": "Article",
+        "Volume": "60",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "476",
+        "_uuid": "aa87c69c-42bc-45a1-b4ce-634df5c4abba",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.2111/1551-5028(2007)60%5B369:calioc%5D2.0.co;2",
+    "href": "http://data.globalchange.gov/reference/aa87c69c-42bc-45a1-b4ce-634df5c4abba.json",
+    "identifier": "aa87c69c-42bc-45a1-b4ce-634df5c4abba",
+    "uri": "/reference/aa87c69c-42bc-45a1-b4ce-634df5c4abba"
+}

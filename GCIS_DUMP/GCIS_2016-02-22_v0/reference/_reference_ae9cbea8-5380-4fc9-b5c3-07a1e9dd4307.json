@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Borders, B.E.\rWill, R.E.\rMarkewitz, D.\rClark, A.\rHendrick, R.\rTeskey, R.O.\rZhang, Y.",
+        "DOI": "10.1016/j.foreco.2004.01.003",
+        "ISSN": "0378-1127",
+        "Issue": "1",
+        "Journal": "Forest Ecology and Management",
+        "Pages": "21-37",
+        "Title": "Effect of complete competition control and annual fertilization on stem growth and canopy relations for a chronosequence of loblolly pine plantations in the lower coastal plain of Georgia",
+        "URL": "http://www.srs.fs.usda.gov/pubs/ja/ja_borders001.pdf",
+        "Volume": "192",
+        "Year": "2004",
+        "_chapter": "[\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "582",
+        "_uuid": "ae9cbea8-5380-4fc9-b5c3-07a1e9dd4307",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.foreco.2004.01.003",
+    "href": "http://data.globalchange.gov/reference/ae9cbea8-5380-4fc9-b5c3-07a1e9dd4307.json",
+    "identifier": "ae9cbea8-5380-4fc9-b5c3-07a1e9dd4307",
+    "uri": "/reference/ae9cbea8-5380-4fc9-b5c3-07a1e9dd4307"
+}

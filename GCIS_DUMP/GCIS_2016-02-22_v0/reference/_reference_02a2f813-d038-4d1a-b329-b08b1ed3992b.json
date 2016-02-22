@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "The White House,",
+        "Institution": "The White House",
+        "Pages": "462",
+        "Place Published": "Washington, D.C.",
+        "Title": "Economic Report of the President, Council of Economic Advisors",
+        "URL": "http://www.whitehouse.gov/sites/default/files/microsites/economic-report-president.pdf",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\",\"RF 12\"]",
+        "_record_number": "3040",
+        "_uuid": "02a2f813-d038-4d1a-b329-b08b1ed3992b",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/whitehouse-erp-2010",
+    "href": "http://data.globalchange.gov/reference/02a2f813-d038-4d1a-b329-b08b1ed3992b.json",
+    "identifier": "02a2f813-d038-4d1a-b329-b08b1ed3992b",
+    "uri": "/reference/02a2f813-d038-4d1a-b329-b08b1ed3992b"
+}

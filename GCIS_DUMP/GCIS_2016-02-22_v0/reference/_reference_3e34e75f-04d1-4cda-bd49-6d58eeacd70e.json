@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Fryar, Cheryl D.\rCarroll, Margaret D.\rOgden, Cynthia L.",
+        "Institution": "National Center for Health Statistics, Centers for Disease Control and Prevention",
+        "Pages": "6",
+        "Title": "Health E-Stat: Prevalence of Obesity Among Children and Adolescents: United States, Trends 1963-1965 Through 2009-2010",
+        "URL": "http://www.cdc.gov/nchs/data/hestat/obesity_child_09_10/obesity_child_09_10.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "1317",
+        "_uuid": "3e34e75f-04d1-4cda-bd49-6d58eeacd70e",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/cdc-obesitytrends-2012",
+    "href": "http://data.globalchange.gov/reference/3e34e75f-04d1-4cda-bd49-6d58eeacd70e.json",
+    "identifier": "3e34e75f-04d1-4cda-bd49-6d58eeacd70e",
+    "uri": "/reference/3e34e75f-04d1-4cda-bd49-6d58eeacd70e"
+}

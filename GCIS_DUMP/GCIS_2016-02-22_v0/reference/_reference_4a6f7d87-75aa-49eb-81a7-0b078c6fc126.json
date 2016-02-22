@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Gan, Thian Yew\rBarry, Roger G.\rGizaw, Mesgana\rGobena, Adam\rBalaji, Rajagopalan",
+        "DOI": "10.1002/jgrd.50507",
+        "ISSN": "2169-8996",
+        "Issue": "14",
+        "Journal": "Journal of Geophysical Research: Atmospheres",
+        "Keywords": "Kendall non-parametric test\rprincipal component analysis\rclimate anomalies\rsnow water equivalent\rSMMR and SSM/I passive microwave data\rNorth America\r0736 Snow\r0758 Remote sensing\r1630 Impacts of global change\r1863 Snow and ice\r1807 Climate impacts",
+        "Pages": "7682\u20137697",
+        "Title": "Changes in North American snowpacks for 1979\u20132007 detected from the snow water equivalent data of SMMR and SSM/I passive microwave and related climatic factors",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1002/jgrd.50507/pdf",
+        "Volume": "118",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "4109",
+        "_uuid": "4a6f7d87-75aa-49eb-81a7-0b078c6fc126",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/jgrd.50507",
+    "href": "http://data.globalchange.gov/reference/4a6f7d87-75aa-49eb-81a7-0b078c6fc126.json",
+    "identifier": "4a6f7d87-75aa-49eb-81a7-0b078c6fc126",
+    "uri": "/reference/4a6f7d87-75aa-49eb-81a7-0b078c6fc126"
+}

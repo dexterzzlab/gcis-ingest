@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Time series of atmospheric CO2 at Mauna Loa (ppmv) and surface ocean pH at Station ALOHA in the subtropical North Pacific Ocean. Note the overall decrease in surface water pH caused by dissolution of atmospheric CO2 into the surface ocean. The variability in surface water pH is caused by seasonal changes and other oceanographic phenomena that affect pH on seasonal to interannual time scales. Credit: R.A. Feely, NOAA/Pacific Marine Environmental Laboratory.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "8f/24/3a8764ae1caaeca630b33f147f62/our_changing_planet_2010_image__4_20091209_1479706424.jpg",
+            "href": "http://data.globalchange.gov/assets/8f/24/3a8764ae1caaeca630b33f147f62/our_changing_planet_2010_image__4_20091209_1479706424.jpg",
+            "identifier": "e8b798c0-cced-43b5-915c-33182180ad95",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "4e72f418bb3bf758142abb7f2e6da4089414dd1d",
+            "size": 195958,
+            "thumbnail": "8f/24/3a8764ae1caaeca630b33f147f62/.thumb-e8b798c0-cced-43b5-915c-33182180ad95.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/8f/24/3a8764ae1caaeca630b33f147f62/.thumb-e8b798c0-cced-43b5-915c-33182180ad95.png",
+            "uri": "/file/e8b798c0-cced-43b5-915c-33182180ad95",
+            "url": "/assets/8f/24/3a8764ae1caaeca630b33f147f62/our_changing_planet_2010_image__4_20091209_1479706424.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2010/figure/ocean-acidification-in-the-north-pacific.json",
+    "identifier": "ocean-acidification-in-the-north-pacific",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2010",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Ocean Acidification in the North Pacific",
+    "uri": "/report/usgcrp-ocpfy2010/figure/ocean-acidification-in-the-north-pacific",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

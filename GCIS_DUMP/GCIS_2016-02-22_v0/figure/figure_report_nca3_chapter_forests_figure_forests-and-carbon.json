@@ -1,0 +1,65 @@
+{
+    "attributes": null,
+    "caption": "Historical, current, and projected annual rates of forest ecosystem and harvested wood product CO<sub>2</sub> net emissions/sequestration in the U.S. from 1635 to 2055. In the top panel, the change in the historical annual carbon emissions (black line) in the early 1900s corresponds to the peak in the transformation of large parts of the U.S. from forested land to agricultural land uses. Green shading shows this decline in forest land area. In the bottom panel, future projections shown under higher (A2) and lower (B2 and A1B) emissions scenarios show forests as carbon sources (due to loss of forest area and accelerating disturbance rates) rather than sinks in the latter half of this century. The A1B scenario assumes similar emissions to the A2 scenario used in this report through 2050, and a slow decline thereafter. (Data from EPA 2013;<tbib>13e4d075-f7bd-4fd4-a41f-a1f0cd93356d</tbib> USFS 2012;<tbib>2545714a-f4ac-48f4-8c8f-b0954f3cfef6</tbib> Birdsey 2006<tbib>4c53dfcf-e3e2-47e0-a356-369324e49cd5</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0Z60KZC",
+        "identifier": "forests",
+        "number": 7,
+        "report_identifier": "nca3",
+        "sort_key": 70,
+        "title": "Forests",
+        "url": "http://nca2014.globalchange.gov/report/sectors/forests"
+    },
+    "chapter_identifier": "forests",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "23/36/d4dda04b49fffc1fbbd658f91829/Forests_carbon_trends_V5.png",
+            "href": "http://data.globalchange.gov/assets/23/36/d4dda04b49fffc1fbbd658f91829/Forests_carbon_trends_V5.png",
+            "identifier": "bf969baa-e61b-4fa4-b65a-55f1ad68d9ab",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "377d0163fd238f046ca09d964163c51a4953348e",
+            "size": 255132,
+            "thumbnail": "23/36/d4dda04b49fffc1fbbd658f91829/.thumb-bf969baa-e61b-4fa4-b65a-55f1ad68d9ab.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/23/36/d4dda04b49fffc1fbbd658f91829/.thumb-bf969baa-e61b-4fa4-b65a-55f1ad68d9ab.png",
+            "uri": "/file/bf969baa-e61b-4fa4-b65a-55f1ad68d9ab",
+            "url": "/assets/23/36/d4dda04b49fffc1fbbd658f91829/Forests_carbon_trends_V5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/forests/figure/forests-and-carbon.json",
+    "identifier": "forests-and-carbon",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 6,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/13e4d075-f7bd-4fd4-a41f-a1f0cd93356d.json",
+            "uri": "/reference/13e4d075-f7bd-4fd4-a41f-a1f0cd93356d"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/2545714a-f4ac-48f4-8c8f-b0954f3cfef6.json",
+            "uri": "/reference/2545714a-f4ac-48f4-8c8f-b0954f3cfef6"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/4c53dfcf-e3e2-47e0-a356-369324e49cd5.json",
+            "uri": "/reference/4c53dfcf-e3e2-47e0-a356-369324e49cd5"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "EPA 2013; USFS 2012; Birdsey 2006<tbib>4c53dfcf-e3e2-47e0-a356-369324e49cd5</tbib><sup>,</sup><tbib>2545714a-f4ac-48f4-8c8f-b0954f3cfef6</tbib><sup>,</sup><tbib>13e4d075-f7bd-4fd4-a41f-a1f0cd93356d</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Forests and Carbon",
+    "uri": "/report/nca3/chapter/forests/figure/forests-and-carbon",
+    "url": "http://nca2014.globalchange.gov/report/sectors/forests/graphics/forests-and-carbon",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

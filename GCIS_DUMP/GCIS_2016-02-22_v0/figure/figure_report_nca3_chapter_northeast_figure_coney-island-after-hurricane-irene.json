@@ -1,0 +1,80 @@
+{
+    "attributes": null,
+    "caption": "Flooded subway tracks in Coney Island after Hurricane Irene. (Photo credit: Metropolitan Transportation\r\n    Authority of the State of New York 2011).",
+    "chapter": {
+        "doi": "10.7930/J0SF2T3P",
+        "identifier": "northeast",
+        "number": 16,
+        "report_identifier": "nca3",
+        "sort_key": 160,
+        "title": "Northeast",
+        "url": "http://nca2014.globalchange.gov/report/regions/northeast"
+    },
+    "chapter_identifier": "northeast",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-20T17:59:54",
+    "files": [
+        {
+            "file": "f3/92/9b123e04f57d668187d96ca0b2d6/NE_flooded_subway_tracks_V5.png",
+            "href": "http://data.globalchange.gov/assets/f3/92/9b123e04f57d668187d96ca0b2d6/NE_flooded_subway_tracks_V5.png",
+            "identifier": "e0d10753-1162-45df-87b2-f10dc36a66f3",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "723979407c07e998bc0f38aba8ca79809e934c4b",
+            "size": 400206,
+            "thumbnail": "f3/92/9b123e04f57d668187d96ca0b2d6/.thumb-e0d10753-1162-45df-87b2-f10dc36a66f3.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/f3/92/9b123e04f57d668187d96ca0b2d6/.thumb-e0d10753-1162-45df-87b2-f10dc36a66f3.png",
+            "uri": "/file/e0d10753-1162-45df-87b2-f10dc36a66f3",
+            "url": "/assets/f3/92/9b123e04f57d668187d96ca0b2d6/NE_flooded_subway_tracks_V5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/northeast/figure/coney-island-after-hurricane-irene.json",
+    "identifier": "coney-island-after-hurricane-irene",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-11-20T17:59:54",
+            "description": null,
+            "identifier": "ce42bdfc-bc97-4d10-9927-a2a02d5d7d1f",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Coney Island after Hurricane Irene",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 6,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "webpage BlueWing (21) | Flickr - Photo Sharing!",
+            "note": null,
+            "publication_type_identifier": "webpage",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/webpage/4e2caecf-3283-44f4-aa82-053434201283"
+        }
+    ],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Coney Island after Hurricane Irene",
+    "uri": "/report/nca3/chapter/northeast/figure/coney-island-after-hurricane-irene",
+    "url": "http://nca2014.globalchange.gov/report/regions/northeast/graphics/coney-island-after-hurricane-irene",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

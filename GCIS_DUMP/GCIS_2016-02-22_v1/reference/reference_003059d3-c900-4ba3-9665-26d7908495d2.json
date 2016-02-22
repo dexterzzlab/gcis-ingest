@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Chmura, D.J.\rAnderson, P.D.\rHowe, G.T.\rHarrington, C.A.\rHalofsky, J.E.\rPeterson, D.L.\rShaw, D.C.\rSt Clair, J.B.",
+        "DOI": "10.1016/j.foreco.2010.12.040",
+        "ISSN": "0378-1127",
+        "Issue": "7",
+        "Journal": "Forest Ecology and Management",
+        "Pages": "1121-1142",
+        "Title": "Forest responses to climate change in the northwestern United States: Ecophysiological foundations for adaptive management",
+        "Volume": "261",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "731",
+        "_uuid": "003059d3-c900-4ba3-9665-26d7908495d2",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.foreco.2010.12.040",
+    "href": "http://data.globalchange.gov/reference/003059d3-c900-4ba3-9665-26d7908495d2.json",
+    "identifier": "003059d3-c900-4ba3-9665-26d7908495d2",
+    "uri": "/reference/003059d3-c900-4ba3-9665-26d7908495d2"
+}

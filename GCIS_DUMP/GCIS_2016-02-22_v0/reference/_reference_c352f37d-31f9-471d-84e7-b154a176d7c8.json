@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Newcomb, Steven T.",
+        "ISBN": "9781555916428",
+        "Number of Pages": "216",
+        "Place Published": "Golden, CO",
+        "Publisher": "Fulcrum Publishing",
+        "Reviewer": "c352f37d-31f9-471d-84e7-b154a176d7c8",
+        "Title": "Pagans in the Promised Land: Decoding the Doctrine of Christian Discovery",
+        "URL": "http://books.google.com/books?id=HeDKUXsOC9cC",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\"]",
+        "_record_number": "3875",
+        "_uuid": "c352f37d-31f9-471d-84e7-b154a176d7c8",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/4fdffcd0-ef9b-4306-975d-f2998c36481d",
+    "href": "http://data.globalchange.gov/reference/c352f37d-31f9-471d-84e7-b154a176d7c8.json",
+    "identifier": "c352f37d-31f9-471d-84e7-b154a176d7c8",
+    "uri": "/reference/c352f37d-31f9-471d-84e7-b154a176d7c8"
+}

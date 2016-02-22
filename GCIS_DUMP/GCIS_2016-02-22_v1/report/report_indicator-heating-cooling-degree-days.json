@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/indicator-heating-cooling-degree-days.json",
+    "identifier": "indicator-heating-cooling-degree-days",
+    "in_library": null,
+    "publication_year": 2015,
+    "report_type_identifier": "indicator",
+    "summary": "Key Points:\r\n\r\n1. Degree days are defined as the number of degrees by which the average daily temperature is higher than 65\u00b0F (cooling degree days) or lower than 65\u00b0F (heating degree days). The bars on the graph show the percent difference between the number of degree days in each year and the average number of degree days from 1970 to 2010. Degree days reflect changes in climate and are used as a proxy for the energy demand for heating or cooling buildings. \r\n\r\n2. During the past 20 years, the number of heating degree days has decreased and the number of cooling degree days has increased. The increase in cooling days is driven by more frequent days above 65\u00b0F and more frequent extreme high temperatures.\r\n\r\n3. This indicator is used in utility planning and can support construction decisions. It provides information on the relationship between climate and energy use that can inform mitigation strategies. \r\n\r\nFull Summary:\r\n\r\nDegree days are defined as the number of degrees by which the average daily temperature is higher than 65\u00b0F (cooling degree days) or lower than 65\u00b0F (heating degree days). For example, one day with an average temperature of 90\u00b0F equals 25 cooling degree days\u2014the same as 25 days with an average temperature of 66\u00b0F. This indicator is thus a proxy that captures both extremes in and duration of energy demand (generally, fossil fuel demand for heating and electricity demand for cooling). The bars on the graph show the percent difference between the number of degree days in each year and the average number of degree days from 1970 to 2010. \r\n\r\nOver the past 20 years, there has been a decrease in the number of heating degree days and an increase in the number of cooling degree days relative to the 1970\u20132010 average. The recent increase in cooling degree days is driven by more frequent days above 65\u00b0F and more frequent extreme high temperatures.\r\n\r\nHeating and cooling degree days are calculated by the National Oceanic and Atmospheric Administration (NOAA). Daily temperature values for each region of the United States are used to calculate deviations from the 65\u00b0F baseline. These values are population-weighted using United States Census Bureau data, such that, for example, the same temperature produces more degree days in New York City than in rural Nebraska. \r\n\r\nAs temperatures continue to rise, combined changes in heating and cooling degree days are projected to change patterns of energy use and increase net electricity demand nationwide. This indicator is used in utility planning and can support construction decisions that consider heating and cooling needs. It provides information on the relationship between climate and energy use that can inform mitigation strategies. \r\n",
+    "title": "Indicator: Heating and Cooling Degree Days",
+    "topic": null,
+    "uri": "/report/indicator-heating-cooling-degree-days",
+    "url": "http://www.globalchange.gov/browse/indicators/indicator-heating-and-cooling-degree-days"
+}

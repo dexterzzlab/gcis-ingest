@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Remote sensing has measured Amazon deforestation for three decades, but selective logging has been mostly invisible to satellites. A new large-scale, high-resolution, automated remote-sensing analysis of selective logging was conducted for the top five timber producing states of the Brazilian Amazon. Logged areas ranged from 12,075 to 19,823 km2 yr-1 (\u00b114%) between 1999 and 2002, equivalent to 60 to120% of previously reported deforested area. In 2000, 2001, and 2002, roundwood production averaged 49.8, 29.8, and 26.6 million m3, respectively. The total volume harvested equaled 10 to 15 MtC. In addition to roundwood, residual stumps, branches, foliage, and roots are left to decompose in the forest, subsequently returning to the atmosphere as CO2 over approximately a decade. Each year 27 to 50 million m3 of wood were extracted, and a gross carbon flux of about 0.1 Gt was destined for release to the atmosphere as a result of logging. Credit: G.P. Asner, Carnegie Institution of Washington; D.E. Knapp, Carnegie Institution of Washington; E.N. Broadbent, Carnegie Institution of Washington; P.J.C. Oliveira, Carnegie Institution of Washington; M. Keller, University of New Hampshire; and J.N. Silva, Empresa Brasileira de Pesquisa Agropecu\u00e1ria-Amazonia Oriental (reproduced with permission from Science).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "6c/23/63c37490e2da9d7e3267a2acd1a7/our_changing_planet_2007_65_20090708_1808761669.jpg",
+            "href": "http://data.globalchange.gov/assets/6c/23/63c37490e2da9d7e3267a2acd1a7/our_changing_planet_2007_65_20090708_1808761669.jpg",
+            "identifier": "8da35749-46c8-46f3-b422-01af880e9d14",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "8c27ff8df29dec91087c7d9f3a3571f96226bea3",
+            "size": 40274,
+            "thumbnail": "6c/23/63c37490e2da9d7e3267a2acd1a7/.thumb-8da35749-46c8-46f3-b422-01af880e9d14.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/6c/23/63c37490e2da9d7e3267a2acd1a7/.thumb-8da35749-46c8-46f3-b422-01af880e9d14.png",
+            "uri": "/file/8da35749-46c8-46f3-b422-01af880e9d14",
+            "url": "/assets/6c/23/63c37490e2da9d7e3267a2acd1a7/our_changing_planet_2007_65_20090708_1808761669.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/amazon-deforestation-selective-logging.json",
+    "identifier": "amazon-deforestation-selective-logging",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Amazon Deforestation via Selective Logging",
+    "uri": "/report/ccsp-ocpfy2007/figure/amazon-deforestation-selective-logging",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

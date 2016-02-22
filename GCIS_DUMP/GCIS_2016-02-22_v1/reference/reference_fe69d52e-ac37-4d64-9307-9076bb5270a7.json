@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Fisk, W.J.\rLei-Gomez, Q.\rMendell, M.J.",
+        "DOI": "10.1111/j.1600-0668.2007.00475.x",
+        "ISSN": "1600-0668",
+        "Issue": "4",
+        "Journal": "Indoor Air",
+        "Pages": "284-296",
+        "Title": "Meta-analyses of the associations of respiratory health effects with dampness and mold in homes",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/j.1600-0668.2007.00475.x/pdf",
+        "Volume": "17",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "1104",
+        "_uuid": "fe69d52e-ac37-4d64-9307-9076bb5270a7",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1600-0668.2007.00475.x",
+    "href": "http://data.globalchange.gov/reference/fe69d52e-ac37-4d64-9307-9076bb5270a7.json",
+    "identifier": "fe69d52e-ac37-4d64-9307-9076bb5270a7",
+    "uri": "/reference/fe69d52e-ac37-4d64-9307-9076bb5270a7"
+}

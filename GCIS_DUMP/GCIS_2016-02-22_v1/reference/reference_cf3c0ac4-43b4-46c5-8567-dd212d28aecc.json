@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Stromberg, J.C.\rLite, S.J.\rDixon, M.D.",
+        "DOI": "10.1002/rra.1272",
+        "ISSN": "1535-1467",
+        "Issue": "6",
+        "Journal": "River research and applications",
+        "Pages": "712-729",
+        "Title": "Effects of stream flow patterns on riparian vegetation of a semiarid river: Implications for a changing climate",
+        "Volume": "26",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "2980",
+        "_uuid": "cf3c0ac4-43b4-46c5-8567-dd212d28aecc",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/rra.1272",
+    "href": "http://data.globalchange.gov/reference/cf3c0ac4-43b4-46c5-8567-dd212d28aecc.json",
+    "identifier": "cf3c0ac4-43b4-46c5-8567-dd212d28aecc",
+    "uri": "/reference/cf3c0ac4-43b4-46c5-8567-dd212d28aecc"
+}

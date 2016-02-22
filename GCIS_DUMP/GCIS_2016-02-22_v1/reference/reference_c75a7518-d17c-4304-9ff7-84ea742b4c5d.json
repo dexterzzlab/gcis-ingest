@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "City of Homer,",
+        "Institution": "City of Homer",
+        "Pages": "44",
+        "Place Published": "Homer, Alaska",
+        "Title": "City of Homer Climate Action Plan: Reducing the Threat of Global Climate Change Through Government and Community Efforts",
+        "URL": "http://www.cityofhomer-ak.gov/sites/default/files/fileattachments/climate_action_plan.pdf",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 13: Land Use and Land Cover Change FINAL\"]",
+        "_record_number": "245",
+        "_uuid": "c75a7518-d17c-4304-9ff7-84ea742b4c5d",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/cityofhomer-cap-2007",
+    "href": "http://data.globalchange.gov/reference/c75a7518-d17c-4304-9ff7-84ea742b4c5d.json",
+    "identifier": "c75a7518-d17c-4304-9ff7-84ea742b4c5d",
+    "uri": "/reference/c75a7518-d17c-4304-9ff7-84ea742b4c5d"
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "USGS,",
+        "Date": "September 2013",
+        "Institution": "U.S. Geological Survey Geologic Carbon Dioxide Storage Resources Assessment Team",
+        "Pages": "6",
+        "Place Published": "Reston, VA",
+        "Title": "National Assessment of Geologic Carbon Dioxide Storage Resources\u2014Summary: U.S. Geological Survey Fact Sheet 2013\u20133020",
+        "URL": "http://pubs.usgs.gov/fs/2013/3020/pdf/FS2013-3020.pdf",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 10: Energy Water Land FINAL\"]",
+        "_record_number": "4399",
+        "_uuid": "09ba68f1-f39b-4a59-939d-4258bc1f2582",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usgs-factsheet-2013-3020",
+    "href": "http://data.globalchange.gov/reference/09ba68f1-f39b-4a59-939d-4258bc1f2582.json",
+    "identifier": "09ba68f1-f39b-4a59-939d-4258bc1f2582",
+    "uri": "/reference/09ba68f1-f39b-4a59-939d-4258bc1f2582"
+}

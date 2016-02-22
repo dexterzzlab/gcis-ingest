@@ -1,0 +1,123 @@
+{
+    "attributes": null,
+    "caption": "Land cover change, such as the rapid urban expansion of Las Vegas shown above (left: 1992; right: 2013), interacts with climate change in complex ways. Scenarios can be used to understand and plan for the plausible permutations of these and other interacting processes in the Earth system. (Source: USGS Landsat)",
+    "chapter": {
+        "doi": null,
+        "identifier": "federal-investments-global-change-research",
+        "number": 2,
+        "report_identifier": "usgcrp-ocpfy2016",
+        "sort_key": 20,
+        "title": "Federal Investments in Global Change Research ",
+        "url": null
+    },
+    "chapter_identifier": "federal-investments-global-change-research",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/4703.json",
+            "id": 4703,
+            "organization": {
+                "country_code": "US",
+                "identifier": "land-remote-sensing-program",
+                "name": "U.S. Geological Survey Land Remote Sensing Program",
+                "organization_type_identifier": "federal",
+                "url": "http://remotesensing.usgs.gov/index.php"
+            },
+            "organization_uri": "/organization/land-remote-sensing-program",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "data_archive",
+            "uri": "/contributor/4703"
+        },
+        {
+            "href": "http://data.globalchange.gov/contributor/4162.json",
+            "id": 4162,
+            "organization": {
+                "country_code": "US",
+                "identifier": "national-aeronautics-space-administration",
+                "name": "National Aeronautics and Space Administration",
+                "organization_type_identifier": "federal",
+                "url": "http://www.nasa.gov"
+            },
+            "organization_uri": "/organization/national-aeronautics-space-administration",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "contributing_agency",
+            "uri": "/contributor/4162"
+        }
+    ],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "c0/d1/80449d3aad8e9b2e0271318c19d2/HL20_scenarios-nevada-urban-expansion-landsat.png",
+            "href": "http://data.globalchange.gov/assets/c0/d1/80449d3aad8e9b2e0271318c19d2/HL20_scenarios-nevada-urban-expansion-landsat.png",
+            "identifier": "8c8a97dd-ff07-40c9-a231-99e5af46cf1d",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "3a8504313aa365e7040e7c2b0406c3d0c7196436",
+            "size": 854578,
+            "thumbnail": "c0/d1/80449d3aad8e9b2e0271318c19d2/.thumb-8c8a97dd-ff07-40c9-a231-99e5af46cf1d.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/c0/d1/80449d3aad8e9b2e0271318c19d2/.thumb-8c8a97dd-ff07-40c9-a231-99e5af46cf1d.png",
+            "uri": "/file/8c8a97dd-ff07-40c9-a231-99e5af46cf1d",
+            "url": "/assets/c0/d1/80449d3aad8e9b2e0271318c19d2/HL20_scenarios-nevada-urban-expansion-landsat.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2016/chapter/federal-investments-global-change-research/figure/land-cover-change-nevada.json",
+    "identifier": "land-cover-change-nevada",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": null,
+            "description": null,
+            "identifier": "81a61d50-8e9e-4f26-a1d8-b4cb7a43a81b",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Land cover in Nevada during 2013",
+            "url": null,
+            "usage_limits": "Free to use with credit to the original figure source."
+        },
+        {
+            "attributes": null,
+            "create_dt": null,
+            "description": null,
+            "identifier": "7cdabdde-bce9-40aa-80c7-33456947b0ff",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Land cover in Nevada during 1992",
+            "url": null,
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 13,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2016",
+    "source_citation": "Images collected by Landsat satellite on September 10, 1992 (left panel) and October 6, 2013 (right panel). Retrieved as a single image (panels not separated) in March 2015 from NASA Images of Change",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Land cover change in Nevada",
+    "uri": "/report/usgcrp-ocpfy2016/chapter/federal-investments-global-change-research/figure/land-cover-change-nevada",
+    "url": "http://climate.nasa.gov/state_of_flux#Western_Las_Vegas_930x370.jpg. ",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

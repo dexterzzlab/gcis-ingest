@@ -1,0 +1,102 @@
+{
+    "attributes": null,
+    "caption": "Figure shows how climate change will affect U.S. reactive nitrogen emissions, in Teragrams (Tg) CO<sub>2</sub> equivalent, on a 20-year (top) and 100-year (bottom) global temperature potential basis. Positive values on the vertical axis depict warming; negative values reflect cooling. The height of the bar denotes the range of uncertainty, and the white line denotes the best estimate. The relative contribution of combustion (dark brown) and agriculture (green) is denoted by the color shading. (Figure source: adapted from Pinder et al. 2012<tbib>061d6ff2-42ec-4051-8c3f-416e30680df0</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0X63JT0",
+        "identifier": "biogeochemical-cycles",
+        "number": 15,
+        "report_identifier": "nca3",
+        "sort_key": 150,
+        "title": "Biogeochemical Cycles",
+        "url": "http://nca2014.globalchange.gov/report/sectors/biogeochemical-cycles"
+    },
+    "chapter_identifier": "biogeochemical-cycles",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-08-05T09:51:00",
+    "files": [
+        {
+            "file": "50/4e/410131af2294880deb37fab5e616/BGC_nitrogen_emissions_v3.png",
+            "href": "http://data.globalchange.gov/assets/50/4e/410131af2294880deb37fab5e616/BGC_nitrogen_emissions_v3.png",
+            "identifier": "ca4abfab-7cc2-4102-ab6d-305385be79c4",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "1fa760668711c3b12abb2de382b3be2ce5fc44eb",
+            "size": 48488,
+            "thumbnail": "50/4e/410131af2294880deb37fab5e616/.thumb-ca4abfab-7cc2-4102-ab6d-305385be79c4.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/50/4e/410131af2294880deb37fab5e616/.thumb-ca4abfab-7cc2-4102-ab6d-305385be79c4.png",
+            "uri": "/file/ca4abfab-7cc2-4102-ab6d-305385be79c4",
+            "url": "/assets/50/4e/410131af2294880deb37fab5e616/BGC_nitrogen_emissions_v3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/biogeochemical-cycles/figure/nitrogen-emissions.json",
+    "identifier": "nitrogen-emissions",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-08-05T09:51:00",
+            "description": null,
+            "identifier": "03aa04a7-f22d-4577-92b4-1139dbde15e1",
+            "lat_max": "90.00",
+            "lat_min": "-90.00",
+            "lon_max": "180.00",
+            "lon_min": "-180.00",
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Nitrogen Emissions - Top",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2013-08-05T09:51:00",
+            "description": null,
+            "identifier": "0a4f66d3-04c7-4f49-a5ce-59f5dda6c7f3",
+            "lat_max": "90.00",
+            "lat_min": "-90.00",
+            "lon_max": "180.00",
+            "lon_min": "-180.00",
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Nitrogen Emissions - Bottom",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 3,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Climate change impacts of US reactive nitrogen",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1073/pnas.1114243109"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/061d6ff2-42ec-4051-8c3f-416e30680df0.json",
+            "uri": "/reference/061d6ff2-42ec-4051-8c3f-416e30680df0"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "adapted from Pinder et al. 2012<tbib>061d6ff2-42ec-4051-8c3f-416e30680df0</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Nitrogen Emissions",
+    "uri": "/report/nca3/chapter/biogeochemical-cycles/figure/nitrogen-emissions",
+    "url": "http://nca2014.globalchange.gov/report/sectors/biogeochemical-cycles/graphics/nitrogen-emissions",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

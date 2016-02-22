@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Monthly distribution of oyster-associated Vibrio vulnificus illness (or shellfish poisoning) and deaths occurring in Florida from 1981-1994. Over the 14-year period, higher numbers of cases occur during summer. Monitoring in Florida shows a statistically significant assocation between concentrations of this pathogen in estuaries and temperature and salinity, the latter being affected by rainfall and runoff. (Adapted from: Lipp and Rose, 1997.)",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "f1/c8/9683bef50f5192f90ac0e5f7a190/health_section_of_climate_change_impacts_2001_6_20090708_1272651100.jpg",
+            "href": "http://data.globalchange.gov/assets/f1/c8/9683bef50f5192f90ac0e5f7a190/health_section_of_climate_change_impacts_2001_6_20090708_1272651100.jpg",
+            "identifier": "06188bcc-913f-4e17-8b93-cf694a9c78a0",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "119a8074f8ee892d23d2be76c659affbd31a4fa2",
+            "size": 58101,
+            "thumbnail": "f1/c8/9683bef50f5192f90ac0e5f7a190/.thumb-06188bcc-913f-4e17-8b93-cf694a9c78a0.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/f1/c8/9683bef50f5192f90ac0e5f7a190/.thumb-06188bcc-913f-4e17-8b93-cf694a9c78a0.png",
+            "uri": "/file/06188bcc-913f-4e17-8b93-cf694a9c78a0",
+            "url": "/assets/f1/c8/9683bef50f5192f90ac0e5f7a190/health_section_of_climate_change_impacts_2001_6_20090708_1272651100.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca1/figure/seasonality-shellfish-poisoning.json",
+    "identifier": "seasonality-shellfish-poisoning",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca1",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Seasonality of Shellfish Poisoning",
+    "uri": "/report/nca1/figure/seasonality-shellfish-poisoning",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

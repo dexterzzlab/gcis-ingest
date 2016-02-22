@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Trouet, V.\rTaylor, A.H.\rWahl, E.R.\rSkinner, C.N.\rStephens, S.L.",
+        "DOI": "10.1029/2009GL041695",
+        "Issue": "4",
+        "Journal": "Geophysical Research Letters",
+        "Pages": "L04702",
+        "Title": "Fire-climate interactions in the American West since 1400 CE",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2009GL041695/pdf",
+        "Volume": "37",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "3096",
+        "_uuid": "ffd9009a-b9a8-49f3-a713-c7eec55309f3",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2009GL041695",
+    "href": "http://data.globalchange.gov/reference/ffd9009a-b9a8-49f3-a713-c7eec55309f3.json",
+    "identifier": "ffd9009a-b9a8-49f3-a713-c7eec55309f3",
+    "uri": "/reference/ffd9009a-b9a8-49f3-a713-c7eec55309f3"
+}

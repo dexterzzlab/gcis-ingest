@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Large changes in the hydrology of the western United States have been observed since the mid-twentieth century. These include a reduction in the amount of precipitation arriving as snow, a decline in snowpack at low and midelevations, and a shift toward earlier arrival of both snowmelt and the centroid (center of mass) of streamflows. To project future water supply reliability, it is crucial to obtain a better understanding of the underlying cause or causes for these changes. A regional warming is often posited as the cause of these changes without formal testing of different competitive explanations for the warming. In this study, a rigorous detection and attribution analysis is performed to determine the causes of the late winter/early spring changes in hydrologically relevant temperature variables over mountain ranges of the western United States. Natural internal climate variability, as estimated from two long control climate model simulations, is insufficient to explain the rapid increase in daily minimum and maximum temperatures, the sharp decline in frost days, and the rise in degree-days above 0\u00b0C (a simple proxy for temperature-driven snowmelt). These observed changes are also inconsistent with the model-predicted responses to variability in solar irradiance and volcanic activity. The observations are consistent with climate simulations that include the combined effects of anthropogenic greenhouse gases and aerosols. It is found that, for each temperature variable considered, an anthropogenic signal is identifiable in observational fields. The results are robust to uncertainties in model-estimated fingerprints and natural variability noise, to the choice of statistical downscaling method, and to various processing options in the detection and attribution method.",
+        "Author": "Bonfils, C.\rSanter, B.D.\rPierce, D.W.\rHidalgo, H.G.\rBala, G.\rDas, T.\rBarnett, T.P.\rCayan, D.R.\rDoutriaux, C.\rWood, A.W.\rMirin, A.\rNozawa, T.",
+        "DOI": "10.1175/2008JCLI2397.1",
+        "ISSN": "1520-0442",
+        "Issue": "23",
+        "Journal": "Journal of Climate",
+        "Keywords": "Climate models, ; ENSO, ; Pacific decadal oscillation, ; Orographic effects, ; Climate variability",
+        "Pages": "6404-6424",
+        "Title": "Detection and attribution of temperature changes in the mountainous western United States",
+        "URL": "http://journals.ametsoc.org/doi/abs/10.1175/2008JCLI2397.1",
+        "Volume": "21",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"Ch. 3: Water Resources FINAL\",\"RG 5 Southwest\"]",
+        "_record_number": "507",
+        "_uuid": "8e18883e-9d45-4998-a0dd-bf59bab323ad",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/2008JCLI2397.1",
+    "href": "http://data.globalchange.gov/reference/8e18883e-9d45-4998-a0dd-bf59bab323ad.json",
+    "identifier": "8e18883e-9d45-4998-a0dd-bf59bab323ad",
+    "uri": "/reference/8e18883e-9d45-4998-a0dd-bf59bab323ad"
+}

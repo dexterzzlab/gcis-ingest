@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Tebaldi, C.\rStrauss, B.H.\rZervas, C.E.",
+        "DOI": "10.1088/1748-9326/7/1/014032",
+        "Issue": "1",
+        "Journal": "Environmental Research Letters",
+        "Pages": "014032",
+        "Title": "Modelling sea level rise impacts on storm surges along US coasts",
+        "Volume": "7",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "3020",
+        "_uuid": "be9c98a9-915f-4d78-80b9-239b70f93ae2",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1088/1748-9326/7/1/014032",
+    "href": "http://data.globalchange.gov/reference/be9c98a9-915f-4d78-80b9-239b70f93ae2.json",
+    "identifier": "be9c98a9-915f-4d78-80b9-239b70f93ae2",
+    "uri": "/reference/be9c98a9-915f-4d78-80b9-239b70f93ae2"
+}

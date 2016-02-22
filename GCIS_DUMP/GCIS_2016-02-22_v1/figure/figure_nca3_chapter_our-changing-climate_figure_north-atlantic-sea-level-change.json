@@ -1,0 +1,89 @@
+{
+    "attributes": null,
+    "caption": "Sea level change in the North Atlantic Ocean relative to the year 2000 based on data collected from North Carolina<tbib>e679d754-46b3-4d62-a7dd-4a7f0c727ebe</tbib> (red line, pink band shows the uncertainty range) compared with a reconstruction of global sea level rise based on tide gauge data from 1750 to present<tbib>be9b14ea-102f-4035-b250-99188cfc1b62</tbib> (blue line). (Figure source: NASA Jet Propulsion Laboratory).",
+    "chapter": {
+        "doi": "10.7930/J0KW5CXT",
+        "identifier": "our-changing-climate",
+        "number": 2,
+        "report_identifier": "nca3",
+        "sort_key": 20,
+        "title": "Our Changing Climate",
+        "url": "http://nca2014.globalchange.gov/report/our-changing-climate/introduction"
+    },
+    "chapter_identifier": "our-changing-climate",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-10-21T12:52:00",
+    "files": [
+        {
+            "file": "85/34/d211305d09e8ae8f527d76e42884/CS_sea_level_inches_v2.png",
+            "href": "http://data.globalchange.gov/assets/85/34/d211305d09e8ae8f527d76e42884/CS_sea_level_inches_v2.png",
+            "identifier": "6393d55e-9448-4543-bfa5-40b029fe9c91",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "7e2d665f372ced8d083d04f55145e14515b397a7",
+            "size": 57805,
+            "thumbnail": "85/34/d211305d09e8ae8f527d76e42884/.thumb-6393d55e-9448-4543-bfa5-40b029fe9c91.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/85/34/d211305d09e8ae8f527d76e42884/.thumb-6393d55e-9448-4543-bfa5-40b029fe9c91.png",
+            "uri": "/file/6393d55e-9448-4543-bfa5-40b029fe9c91",
+            "url": "/assets/85/34/d211305d09e8ae8f527d76e42884/CS_sea_level_inches_v2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/our-changing-climate/figure/north-atlantic-sea-level-change.json",
+    "identifier": "north-atlantic-sea-level-change",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-10-21T12:52:00",
+            "description": null,
+            "identifier": "1ca2536a-0289-4e9d-97d7-86391d2478c4",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "North Atlantic Sea Level Change",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 25,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Climate related sea-level variations over the past two millennia",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1073/pnas.1015619108"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/be9b14ea-102f-4035-b250-99188cfc1b62.json",
+            "uri": "/reference/be9b14ea-102f-4035-b250-99188cfc1b62"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/e679d754-46b3-4d62-a7dd-4a7f0c727ebe.json",
+            "uri": "/reference/e679d754-46b3-4d62-a7dd-4a7f0c727ebe"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "NASA Jet Propulsion Laboratory",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "North Atlantic Sea Level Change",
+    "uri": "/report/nca3/chapter/our-changing-climate/figure/north-atlantic-sea-level-change",
+    "url": "http://nca2014.globalchange.gov/report/our-changing-climate/sea-level-rise/graphics/north-atlantic-sea-level-change",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

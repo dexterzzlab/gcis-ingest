@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Ostro, B.D.\rRoth, L.A.\rGreen, R.S.\rBasu, R.",
+        "DOI": "10.1016/j.envres.2009.03.010",
+        "ISSN": "0013-9351",
+        "Issue": "5",
+        "Journal": "Environmental Research",
+        "Pages": "614-619",
+        "Title": "Estimating the mortality effect of the July 2006 California heat wave",
+        "URL": "http://www.energy.ca.gov/2009publications/CEC-500-2009-036/CEC-500-2009-036-F.PDF",
+        "Volume": "109",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "2380",
+        "_uuid": "22344c1d-cee2-4f9d-91c0-60ceb6e9ca57",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.envres.2009.03.010",
+    "href": "http://data.globalchange.gov/reference/22344c1d-cee2-4f9d-91c0-60ceb6e9ca57.json",
+    "identifier": "22344c1d-cee2-4f9d-91c0-60ceb6e9ca57",
+    "uri": "/reference/22344c1d-cee2-4f9d-91c0-60ceb6e9ca57"
+}

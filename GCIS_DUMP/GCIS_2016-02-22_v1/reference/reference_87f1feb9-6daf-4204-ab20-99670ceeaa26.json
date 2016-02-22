@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Basagic, H.J.\rFountain, A.G.",
+        "DOI": "10.1657/1938-4246-43.3.317",
+        "ISSN": "1523-0430",
+        "Issue": "3",
+        "Journal": "Arctic, Antarctic, and Alpine Research",
+        "Pages": "317-330",
+        "Title": "Quantifying 20th century glacier change in the Sierra Nevada, California",
+        "Volume": "43",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "1357",
+        "_uuid": "87f1feb9-6daf-4204-ab20-99670ceeaa26",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1657/1938-4246-43.3.317",
+    "href": "http://data.globalchange.gov/reference/87f1feb9-6daf-4204-ab20-99670ceeaa26.json",
+    "identifier": "87f1feb9-6daf-4204-ab20-99670ceeaa26",
+    "uri": "/reference/87f1feb9-6daf-4204-ab20-99670ceeaa26"
+}

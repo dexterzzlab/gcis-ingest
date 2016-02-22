@@ -1,0 +1,80 @@
+{
+    "attributes": null,
+    "caption": "Warming at high elevations could alter the distribution of native plants and animals in mountainous ecosystems and increase the threat of invasive species. The threatened, endemic \u2018ahinahina, or Haleakal\u0101 silversword (Argyroxiphium sandwicense subsp. macrocephalum), shown here in full bloom on Maui, Hawaiian Islands, is one example. (Photo credit: Forest and Kim Starr).",
+    "chapter": {
+        "doi": "10.7930/J0W66HPM",
+        "identifier": "hawaii",
+        "number": 23,
+        "report_identifier": "nca3",
+        "sort_key": 230,
+        "title": "Hawai'i and U.S. Affiliated Pacific Islands",
+        "url": "http://nca2014.globalchange.gov/report/regions/hawaii-and-pacific-islands"
+    },
+    "chapter_identifier": "hawaii",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-13T14:25:00",
+    "files": [
+        {
+            "file": "bc/8a/088e3ac2352f8348a4f79b986a8a/HI_silversword_V2.png",
+            "href": "http://data.globalchange.gov/assets/bc/8a/088e3ac2352f8348a4f79b986a8a/HI_silversword_V2.png",
+            "identifier": "633f816a-33bb-4b9c-811b-53a69b7a4cca",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "6b4e745383a212da5e52280c14aad01e010ae2d6",
+            "size": 150769,
+            "thumbnail": "bc/8a/088e3ac2352f8348a4f79b986a8a/.thumb-633f816a-33bb-4b9c-811b-53a69b7a4cca.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/bc/8a/088e3ac2352f8348a4f79b986a8a/.thumb-633f816a-33bb-4b9c-811b-53a69b7a4cca.png",
+            "uri": "/file/633f816a-33bb-4b9c-811b-53a69b7a4cca",
+            "url": "/assets/bc/8a/088e3ac2352f8348a4f79b986a8a/HI_silversword_V2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/hawaii/figure/native-plants-at-risk.json",
+    "identifier": "native-plants-at-risk",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-11-13T14:25:00",
+            "description": null,
+            "identifier": "34239924-2a3b-4ba4-832a-95de5edcdeaf",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Native Plants at Risk",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 5,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "webpage Plants of Hawaii - Images by Forest & Kim Starr",
+            "note": null,
+            "publication_type_identifier": "webpage",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/webpage/a8159919-b01c-442b-afb8-c2e272f81f48"
+        }
+    ],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Native Plants at Risk",
+    "uri": "/report/nca3/chapter/hawaii/figure/native-plants-at-risk",
+    "url": "http://nca2014.globalchange.gov/report/regions/hawaii-and-pacific-islands/graphics/native-plants-risk",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

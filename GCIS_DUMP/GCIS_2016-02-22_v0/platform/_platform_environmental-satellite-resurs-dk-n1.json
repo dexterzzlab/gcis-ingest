@@ -1,0 +1,12 @@
+{
+    "description": "Resurs-DK1 is Russia's first civil EO (Earth Observation) imaging satellite capable of transmitting high-resolution imagery (1 m) to the ground stations as it passes overhead. The spacecraft was designed and built by TsSKB Progress (State Research & Production Space Rocket Center) of Samara (the Samara Space Center location is on the Volga River, about 1000 km southeast of Moscow). Roskosmos is funding the project (owner and operator of the spacecraft), the commercial data distributor is Sovzond JSC of Moscow. The spacecraft is operated by Russia's Science Center for Remote Sensing of Earth, NTs OMZ.",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/r/resurs-dk1",
+    "end_date": "2015-12-01T00:00:00",
+    "href": "http://data.globalchange.gov/platform/environmental-satellite-resurs-dk-n1.json",
+    "identifier": "environmental-satellite-resurs-dk-n1",
+    "name": "Environmental Satellite Resurs-DK N1",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "2006-06-15T00:00:00",
+    "uri": "/platform/environmental-satellite-resurs-dk-n1",
+    "url": "http://www.federalspace.ru; http://eng.ntsomz.ru/ks_dzz/satellites"
+}

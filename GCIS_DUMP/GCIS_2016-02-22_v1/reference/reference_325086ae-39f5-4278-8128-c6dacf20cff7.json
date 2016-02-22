@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Romme, W.H.\rFloyd, M.L.\rHanna, D.",
+        "Number of Pages": "256",
+        "Publisher": "Colorado Forest Restoration Institute at Colorado State University and Region 2 of the U.S. Forest Service",
+        "Reviewer": "325086ae-39f5-4278-8128-c6dacf20cff7",
+        "Title": "Historical Range of Variability and Current Landscape Condition Analysis: South Central Highlands Section, Southwestern Colorado & Northwestern New Mexico",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 14: Rural Communities FINAL\"]",
+        "_record_number": "2665",
+        "_uuid": "325086ae-39f5-4278-8128-c6dacf20cff7",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/54db6270-0e59-40b4-b505-2b178cf529b8",
+    "href": "http://data.globalchange.gov/reference/325086ae-39f5-4278-8128-c6dacf20cff7.json",
+    "identifier": "325086ae-39f5-4278-8128-c6dacf20cff7",
+    "uri": "/reference/325086ae-39f5-4278-8128-c6dacf20cff7"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Moritz, C.\rPatton, J.L.\rConroy, C.J.\rParra, J.L.\rWhite, G.C.\rBeissinger, S.R.",
+        "DOI": "10.1126/science.1163428",
+        "ISSN": "0036-8075",
+        "Issue": "5899",
+        "Journal": "Science",
+        "Pages": "261-264",
+        "Title": "Impact of a century of climate change on small-mammal communities in Yosemite National Park, USA",
+        "Volume": "322",
+        "Year": "2008",
+        "_chapter": "[\"RF 10\",\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "2087",
+        "_uuid": "0327141f-d0f2-4c78-833d-61c47136242d",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1163428",
+    "href": "http://data.globalchange.gov/reference/0327141f-d0f2-4c78-833d-61c47136242d.json",
+    "identifier": "0327141f-d0f2-4c78-833d-61c47136242d",
+    "uri": "/reference/0327141f-d0f2-4c78-833d-61c47136242d"
+}

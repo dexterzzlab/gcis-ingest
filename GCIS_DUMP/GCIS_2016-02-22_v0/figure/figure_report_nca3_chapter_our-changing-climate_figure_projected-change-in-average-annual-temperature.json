@@ -1,0 +1,113 @@
+{
+    "attributes": null,
+    "caption": "Projected change in average annual temperature over the period 2071-2099 (compared to the period 1970-1999) under a low scenario that assumes rapid reductions in emissions and concentrations of heat-trapping gases (RCP 2.6), and a higher scenario that assumes continued increases in emissions (RCP 8.5). (Figure source: NOAA NCDC / CICS-NC).",
+    "chapter": {
+        "doi": "10.7930/J0KW5CXT",
+        "identifier": "our-changing-climate",
+        "number": 2,
+        "report_identifier": "nca3",
+        "sort_key": 20,
+        "title": "Our Changing Climate",
+        "url": "http://nca2014.globalchange.gov/report/our-changing-climate/introduction"
+    },
+    "chapter_identifier": "our-changing-climate",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2522.json",
+            "id": 2522,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Kenneth",
+                "id": 1025,
+                "last_name": "Kunkel",
+                "middle_name": null,
+                "orcid": "0000-0001-6667-7047",
+                "url": "http://cicsnc.org/people/kenneth-kunkel/"
+            },
+            "person_id": 1025,
+            "person_uri": "/person/1025",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2522"
+        }
+    ],
+    "create_dt": "2013-12-05T10:16:05",
+    "files": [
+        {
+            "file": "36/fa/39bd75686abd3c1e733ab4de9e15/CS_global_temp_projections_V7.png",
+            "href": "http://data.globalchange.gov/assets/36/fa/39bd75686abd3c1e733ab4de9e15/CS_global_temp_projections_V7.png",
+            "identifier": "dfecaf1e-dad5-4377-a092-6cb256067448",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "5bbc81e3135932687cec610fe78d76d2996a4f3f",
+            "size": 447411,
+            "thumbnail": "36/fa/39bd75686abd3c1e733ab4de9e15/.thumb-dfecaf1e-dad5-4377-a092-6cb256067448.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/36/fa/39bd75686abd3c1e733ab4de9e15/.thumb-dfecaf1e-dad5-4377-a092-6cb256067448.png",
+            "uri": "/file/dfecaf1e-dad5-4377-a092-6cb256067448",
+            "url": "/assets/36/fa/39bd75686abd3c1e733ab4de9e15/CS_global_temp_projections_V7.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/our-changing-climate/figure/projected-change-in-average-annual-temperature.json",
+    "identifier": "projected-change-in-average-annual-temperature",
+    "images": [
+        {
+            "attributes": "Global, temperature, projections, CMIP5, RCP2.6",
+            "create_dt": "2013-05-12T00:00:00",
+            "description": null,
+            "identifier": "7801fbe2-ddeb-439a-80ac-0961dd9ac09a",
+            "lat_max": "90.00",
+            "lat_min": "-90.00",
+            "lon_max": "180.00",
+            "lon_min": "-180.00",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2099-12-31T23:59:59",
+            "time_start": "1971-01-01T00:00:00",
+            "title": "Projected Change in Average Annual Temperature - Rapid Emissions Reductions (RCP 2.6)",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": "Global, temperature, projections, CMIP5, RCP8.5",
+            "create_dt": "2013-05-12T00:00:00",
+            "description": null,
+            "identifier": "67a5a17c-3b0d-4b8a-a63e-cb1c34c7b7ff",
+            "lat_max": "90.00",
+            "lat_min": "-90.00",
+            "lon_max": "180.00",
+            "lon_min": "-180.00",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2099-12-31T23:59:59",
+            "time_start": "1971-01-01T00:00:00",
+            "title": "Projected Change in Average Annual Temperature - Continued Emissions Increases (RCP 8.5)",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 5,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": "NOAA NCDC / CICS-NC",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Projected Change in Average Annual Temperature",
+    "uri": "/report/nca3/chapter/our-changing-climate/figure/projected-change-in-average-annual-temperature",
+    "url": "http://nca2014.globalchange.gov/report/our-changing-climate/future-climate-change/graphics/projected-change-average-annual",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Climate model simulations of the Earth\u2019s temperature variations compared with observed changes. Ensemble simulations were run with the global fully coupled DOE Parallel Climate Model (PCM) employing five forcing agents that influence the time evolution of globally averaged surface air temperature during the 20th century. Two of the forcings are natural (volcanoes and solar) and the others are anthropogenic [greenhouse gases, ozone (stratospheric and tropospheric), and direct effect of sulfate aerosols]. The figure shows global average temperature, relative to the 1890-1919 mean, over the time period 1890-1999. The black line shows observed temperature; the blue line shows ensemble mean temperature based on simulations using natural forcings only; and the red line shows ensemble mean temperature based on simulations using both natural and anthropogenic forcings. The shadings denote the ensemble ranges. Credit: Meehl, G.A., et al., 2004: Combinations of natural and anthropogenic forcings and 20th century climate. J. Climate, in press. Observed temperature data (black line) from Folland, C.K., et al., Geophys. Res. Lett., 28, 2621-2624",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "86/0b/7832fc650d8f9ff56ee12bb7226d/our_changing_planet_2004-2005_29_20090708_1211958681.jpg",
+            "href": "http://data.globalchange.gov/assets/86/0b/7832fc650d8f9ff56ee12bb7226d/our_changing_planet_2004-2005_29_20090708_1211958681.jpg",
+            "identifier": "74d84964-ee3f-4fb6-96b0-4eeaa9fd6b4f",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "b6210a9633586c4dde979b40f026d896dcf87a62",
+            "size": 62178,
+            "thumbnail": "86/0b/7832fc650d8f9ff56ee12bb7226d/.thumb-74d84964-ee3f-4fb6-96b0-4eeaa9fd6b4f.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/86/0b/7832fc650d8f9ff56ee12bb7226d/.thumb-74d84964-ee3f-4fb6-96b0-4eeaa9fd6b4f.png",
+            "uri": "/file/74d84964-ee3f-4fb6-96b0-4eeaa9fd6b4f",
+            "url": "/assets/86/0b/7832fc650d8f9ff56ee12bb7226d/our_changing_planet_2004-2005_29_20090708_1211958681.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2004and2005/figure/earth-temperature-variations.json",
+    "identifier": "earth-temperature-variations",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2004and2005",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Earth's Temperature Variations",
+    "uri": "/report/ccsp-ocpfy2004and2005/figure/earth-temperature-variations",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

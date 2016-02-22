@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Ziegler, A.C.",
+        "ISBN": "0824821904",
+        "Number of Pages": "477",
+        "Publisher": "University of Hawaii Press",
+        "Reviewer": "0bda6ea6-1229-4e48-95ec-d258960736b7",
+        "Title": "Hawaiian Natural History, Ecology, and Evolution",
+        "Year": "2002",
+        "_chapter": "[\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "3544",
+        "_uuid": "0bda6ea6-1229-4e48-95ec-d258960736b7",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/97fad3d0-fba1-468b-932a-88da992a4113",
+    "href": "http://data.globalchange.gov/reference/0bda6ea6-1229-4e48-95ec-d258960736b7.json",
+    "identifier": "0bda6ea6-1229-4e48-95ec-d258960736b7",
+    "uri": "/reference/0bda6ea6-1229-4e48-95ec-d258960736b7"
+}

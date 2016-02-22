@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Kasperson, R.E.\rStallen, P.J.",
+        "ISBN": "9780792306016",
+        "Pages": "492",
+        "Place Published": "Dordrecth, The Netherlands",
+        "Publisher": "Kluwer Academic Publisher",
+        "Reviewer": "857506ec-816b-4689-aea5-aac49f23714c",
+        "Title": "Communicating Risks to the Public: International Perspectives",
+        "URL": "http://books.google.com/books?id=hfC-4veRbN4C",
+        "Year": "1991",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4477",
+        "_uuid": "857506ec-816b-4689-aea5-aac49f23714c",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/3b6056d0-de01-47f1-97ab-63ee93e66172",
+    "href": "http://data.globalchange.gov/reference/857506ec-816b-4689-aea5-aac49f23714c.json",
+    "identifier": "857506ec-816b-4689-aea5-aac49f23714c",
+    "uri": "/reference/857506ec-816b-4689-aea5-aac49f23714c"
+}

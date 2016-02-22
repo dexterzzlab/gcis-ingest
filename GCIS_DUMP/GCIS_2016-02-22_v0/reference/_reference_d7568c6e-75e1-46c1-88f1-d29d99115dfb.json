@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "3",
+        "Author": "USGCRP,",
+        "Conference Location": "Reston, VA",
+        "Conference Name": "Planning Regional and Sectoral Assessments for the National Climate Assessment",
+        "Pages": "55",
+        "Publisher": "U.S. Geological Survey, U.S. Global Change Research Program",
+        "Title": "The United States National Climate Assessment NCA Report Series, Volume 4: Planning Regional and Sectoral Assessments for the National Climate Assessment",
+        "URL": "http://downloads.globalchange.gov/nca/workshop-reports/regional-sectoral-workshop-report.pdf",
+        "Year of Conference": "2010",
+        "_chapter": "[\"Ch. 30: NCA Long-Term Process FINAL\"]",
+        "_record_number": "3690",
+        "_uuid": "d7568c6e-75e1-46c1-88f1-d29d99115dfb",
+        "reftype": "Conference Proceedings"
+    },
+    "child_publication": "/report/usgcrp-nca-regionalsectoralworkshop-2010",
+    "href": "http://data.globalchange.gov/reference/d7568c6e-75e1-46c1-88f1-d29d99115dfb.json",
+    "identifier": "d7568c6e-75e1-46c1-88f1-d29d99115dfb",
+    "uri": "/reference/d7568c6e-75e1-46c1-88f1-d29d99115dfb"
+}

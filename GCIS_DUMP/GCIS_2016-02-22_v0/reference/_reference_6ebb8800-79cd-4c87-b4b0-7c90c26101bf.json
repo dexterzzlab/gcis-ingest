@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Alternate Journal": "Limnol Oceanogr",
+        "Author": "Pace, M. L.\rCole, J. J.",
+        "Author Address": "Pace, Ml; Inst Ecosyst Studies, POB AB, Millbrook, NY 12545 USA; Inst Ecosyst Studies, POB AB, Millbrook, NY 12545 USA; Inst Ecosyst Studies, Millbrook, NY 12545 USA",
+        "DOI": "10.4319/lo.2002.47.2.0333",
+        "Date": "Mar",
+        "ISSN": "0024-3590",
+        "Issue": "2",
+        "Journal": "Limnology and Oceanography",
+        "Keywords": "shield lakes; temporal coherence; northern wisconsin; temperate lakes; boreal lakes; ecosystems; catchment; matter; chemistry; budgets",
+        "Label": "IN",
+        "Language": "English",
+        "Pages": "333-342",
+        "Title": "Synchronous variation of dissolved organic carbon and color in lakes",
+        "URL": "http://www.jstor.org/stable/pdfplus/3068980.pdf",
+        "Volume": "47",
+        "Year": "2002",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "2397",
+        "_uuid": "6ebb8800-79cd-4c87-b4b0-7c90c26101bf",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.4319/lo.2002.47.2.0333",
+    "href": "http://data.globalchange.gov/reference/6ebb8800-79cd-4c87-b4b0-7c90c26101bf.json",
+    "identifier": "6ebb8800-79cd-4c87-b4b0-7c90c26101bf",
+    "uri": "/reference/6ebb8800-79cd-4c87-b4b0-7c90c26101bf"
+}

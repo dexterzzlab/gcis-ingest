@@ -1,0 +1,95 @@
+{
+    "attributes": "Contiguous U.S., temperature, observed",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2524.json",
+            "id": 2524,
+            "organization": {
+                "country_code": "US",
+                "identifier": "noaa-national-climatic-data-center",
+                "name": "National Oceanic and Atmospheric Administration National Climatic Data Center",
+                "organization_type_identifier": "federal",
+                "url": "http://www.ncdc.noaa.gov"
+            },
+            "organization_uri": "/organization/noaa-national-climatic-data-center",
+            "person": {
+                "first_name": "Russell S.",
+                "id": 2802,
+                "last_name": "Vose",
+                "middle_name": null,
+                "orcid": null,
+                "url": null
+            },
+            "person_id": 2802,
+            "person_uri": "/person/2802",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2524"
+        }
+    ],
+    "create_dt": "2013-08-01T00:00:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "The colors on the map show temperature changes over the past 22 years (1991-2012) compared to the 1901-1960 average, and compared to the 1951-1980 average for Alaska and Hawai\u2018i. The bars on the graphs show the average temperature changes by decade for 1901-2012 (relative to the 1901-1960 average) for each region. The far right bar in each graph (2000s decade) includes 2011 and 2012. The period from 2001 to 2012 was warmer than any previous decade in every region. (Figure source: NOAA NCDC / CICS-NC).",
+            "chapter_identifier": "our-changing-climate",
+            "create_dt": "2013-08-03T10:04:00",
+            "identifier": "observed-us-temperature-change",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 7,
+            "report_identifier": "nca3",
+            "source_citation": "NOAA NCDC / CICS-NC",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Observed U.S. Temperature Change",
+            "url": "http://nca2014.globalchange.gov/highlights/report-findings/our-changing-climate/graphics/observed-us-temperature-change",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "00/fe/064181696918516a467adedc8aa3/2-7_map.png",
+            "href": "http://data.globalchange.gov/assets/00/fe/064181696918516a467adedc8aa3/2-7_map.png",
+            "identifier": "90970a9b-68cd-4cd5-8736-7cbce6032dac",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "0c56ff502328238e48df8b03a5d53d5115518fac",
+            "size": 527468,
+            "thumbnail": "00/fe/064181696918516a467adedc8aa3/.thumb-90970a9b-68cd-4cd5-8736-7cbce6032dac.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/00/fe/064181696918516a467adedc8aa3/.thumb-90970a9b-68cd-4cd5-8736-7cbce6032dac.png",
+            "uri": "/file/90970a9b-68cd-4cd5-8736-7cbce6032dac",
+            "url": "/assets/00/fe/064181696918516a467adedc8aa3/2-7_map.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/8e74f576-a5af-46c0-b33a-f30072118b86.json",
+    "identifier": "8e74f576-a5af-46c0-b33a-f30072118b86",
+    "lat_max": "49.38",
+    "lat_min": "24.50",
+    "lon_max": "-66.95",
+    "lon_min": "-124.80",
+    "parents": [
+        {
+            "activity_uri": "/activity/8e74f576-nca3-cddv2-r1-process",
+            "label": "dataset nca3-cddv2-r1",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-cddv2-r1"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2012-12-31T23:59:00",
+    "time_start": "1901-01-01T00:00:00",
+    "title": "Observed U.S. Temperature Change Map - Contiguous U.S.",
+    "uri": "/image/8e74f576-a5af-46c0-b33a-f30072118b86",
+    "url": null,
+    "usage_limits": null
+}

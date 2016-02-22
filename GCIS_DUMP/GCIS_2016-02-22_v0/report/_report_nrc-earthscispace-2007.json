@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": "10.17226/11820",
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/nrc-earthscispace-2007.json",
+    "identifier": "nrc-earthscispace-2007",
+    "in_library": null,
+    "publication_year": 2007,
+    "report_type_identifier": "report",
+    "summary": "This report presents a vision for the Earth science program; an analysis of the existing Earth Observing System and recommendations to help restore its capabilities; an assessment of and recommendations for new observations and missions for the next decade; an examination of and recommendations for effective application of those observations; and an analysis of how best to sustain that observation and applications system.",
+    "title": "Earth Science and Applications from Space: National Imperatives for the Next Decade and Beyond",
+    "topic": "Observing Systems",
+    "uri": "/report/nrc-earthscispace-2007",
+    "url": "http://www.nap.edu/catalog.php?record_id=11820"
+}

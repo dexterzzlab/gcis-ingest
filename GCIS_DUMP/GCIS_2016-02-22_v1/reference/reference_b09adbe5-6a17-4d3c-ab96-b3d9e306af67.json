@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Hoegh-Guldberg, O.\rMumby, P. J.\rHooten, A. J.\rSteneck, R. S.\rGreenfield, P.\rGomez, E.\rHarvell, C. D.\rSale, P. F.\rEdwards, A. J.\rCaldeira, K.\rKnowlton, N.\rEakin, C. M.\rIglesias-Prieto, R.\rMuthiga, N.\rBradbury, R. H.\rDubi, A.\rHatziolos, M. E.",
+        "DOI": "10.1126/science.1152509",
+        "ISSN": "0036-8075",
+        "Issue": "5857",
+        "Journal": "Science",
+        "Pages": "1737-1742",
+        "Title": "Coral reefs under rapid climate change and ocean acidification",
+        "Volume": "318",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"Ch. 24: Oceans FINAL\",\"Appendix 1: Process FINAL\",\"RG 10 Coasts\",\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "471",
+        "_uuid": "b09adbe5-6a17-4d3c-ab96-b3d9e306af67",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1152509",
+    "href": "http://data.globalchange.gov/reference/b09adbe5-6a17-4d3c-ab96-b3d9e306af67.json",
+    "identifier": "b09adbe5-6a17-4d3c-ab96-b3d9e306af67",
+    "uri": "/reference/b09adbe5-6a17-4d3c-ab96-b3d9e306af67"
+}

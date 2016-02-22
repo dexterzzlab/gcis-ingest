@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Waddell, J.\rClarke, A. D.",
+        "Institution": "NOAA/NCCOS Center for Coastal Monitoring and Assessment - Biogeography Team",
+        "Pages": "569",
+        "Place Published": "Silver Spring, MD",
+        "Title": "The State of Coral Reef Ecosystems of the United States and Pacific Freely Associated States: 2008. NOAA Technical Memorandum NOS NCCOS 73. NOAA/NCCOS Center for Coastal Monitoring and Assessment' s Biogeography Team",
+        "URL": "http://ccma.nos.noaa.gov/ecosystems/coralreef/coral2008/pdf/CoralReport2008.pdf",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "3317",
+        "_uuid": "412faea9-5a62-4e2f-95d1-a475b33c39fb",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/noaa-techmemo-nos-nccos-73",
+    "href": "http://data.globalchange.gov/reference/412faea9-5a62-4e2f-95d1-a475b33c39fb.json",
+    "identifier": "412faea9-5a62-4e2f-95d1-a475b33c39fb",
+    "uri": "/reference/412faea9-5a62-4e2f-95d1-a475b33c39fb"
+}

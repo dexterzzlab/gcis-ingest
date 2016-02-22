@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Amazon rainforest basin-wide image of average (2000-2005) Enhanced Vegetation Index (EVI) change between the wet (October) and dry (June) seasons. Green colors depict \u201cgreening\u201d and red colors depict \u201cbrowning\u201d in the dry season. Credit: A.R. Huete, K. Didan, P. Ratana, and S.R. Seleska, University of Arizona; Y.E. Shimabukuro, Instituto Nacional de Pesquisas Espaciais, Brazil; L.R. Hutyra, Harvard University; W. Yang and R. Myneni, Boston University; and R.R. Nemani, NASA / Ames Research Center (reproduced from Geophysical Research Letters with permission from the American Geophysical Union).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "e1/b5/6065b53d82cb71abae03a3c247e2/our_changing_planet_2008_32_20090708_1066999824.jpg",
+            "href": "http://data.globalchange.gov/assets/e1/b5/6065b53d82cb71abae03a3c247e2/our_changing_planet_2008_32_20090708_1066999824.jpg",
+            "identifier": "d2e3f83f-d349-487c-9878-fb6255aeab3b",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "a13bb5bcefae68948f6ee295473571719859143d",
+            "size": 286574,
+            "thumbnail": "e1/b5/6065b53d82cb71abae03a3c247e2/.thumb-d2e3f83f-d349-487c-9878-fb6255aeab3b.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/e1/b5/6065b53d82cb71abae03a3c247e2/.thumb-d2e3f83f-d349-487c-9878-fb6255aeab3b.png",
+            "uri": "/file/d2e3f83f-d349-487c-9878-fb6255aeab3b",
+            "url": "/assets/e1/b5/6065b53d82cb71abae03a3c247e2/our_changing_planet_2008_32_20090708_1066999824.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2008/figure/basin-wide-greening-dry-season.json",
+    "identifier": "basin-wide-greening-dry-season",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2008",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Basin-Wide Greening in Dry Season ",
+    "uri": "/report/ccsp-ocpfy2008/figure/basin-wide-greening-dry-season",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

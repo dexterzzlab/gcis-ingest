@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "a. Forest aboveground biomass (ABG) is mapped at 1-km spatial resolution. The study region was bounded at 30\u00b0 North latitude and 40\u00b0South latitude to cover forests of Latin America and sub-Saharan Africa, and from 60\u00b0 to 155\u00b0 East and West longitude. The map was colored based on 25 \u2013 50 Mg/ha AGB classes to better show the overall spatial patterns of forest biomass in tropical regions. Histogram distributions of forest area (at 10% tree cover) for each biomass class were calculated by summing the pixels over Latin America in b. Africa in c. and Asia in d. Similarly, total AGB for each class was computed by summing the values in each region with distributions provided for Latin America in e. Africa in f. and Asia in g. [Mg = Million metric tons]. (circa 2000)",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "49/f2/f3ed6b4d812c24cc8b9b320b8b72/OCP_2012_Page_18_Image_0002.jpg",
+            "href": "http://data.globalchange.gov/assets/49/f2/f3ed6b4d812c24cc8b9b320b8b72/OCP_2012_Page_18_Image_0002.jpg",
+            "identifier": "5b52bd70-22a8-42b8-bac4-43478368a944",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "701166a2ddb870d49cf4b7621a856d460f0ed696",
+            "size": 85243,
+            "thumbnail": "49/f2/f3ed6b4d812c24cc8b9b320b8b72/.thumb-5b52bd70-22a8-42b8-bac4-43478368a944.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/49/f2/f3ed6b4d812c24cc8b9b320b8b72/.thumb-5b52bd70-22a8-42b8-bac4-43478368a944.png",
+            "uri": "/file/5b52bd70-22a8-42b8-bac4-43478368a944",
+            "url": "/assets/49/f2/f3ed6b4d812c24cc8b9b320b8b72/OCP_2012_Page_18_Image_0002.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2012/figure/distribution-forest-aboveground-biomass.json",
+    "identifier": "distribution-forest-aboveground-biomass",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2012",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Distribution of Forest Aboveground Biomass",
+    "uri": "/report/usgcrp-ocpfy2012/figure/distribution-forest-aboveground-biomass",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

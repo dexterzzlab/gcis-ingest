@@ -1,0 +1,52 @@
+{
+    "attributes": null,
+    "caption": "Reductions in sea ice alter food availability for many species from polar bear to walrus, make hunting less\r\n    safe for Alaska Native hunters, and create more accessibility for Arctic Ocean marine transport, requiring more Coast Guard\r\n    coverage.(Photo credits: (top left) G. Carleton Ray; (bottom left) Daniel Glick;\r\n    (right) Patrick Kelley).",
+    "chapter": {
+        "doi": "10.7930/J00Z7150",
+        "identifier": "alaska",
+        "number": 22,
+        "report_identifier": "nca3",
+        "sort_key": 220,
+        "title": "Alaska",
+        "url": "http://nca2014.globalchange.gov/report/regions/alaska"
+    },
+    "chapter_identifier": "alaska",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "ba/c5/ff0e4570ad637dc60ea371b188c1/AK_sea_ice_photo_collage_V3.png",
+            "href": "http://data.globalchange.gov/assets/ba/c5/ff0e4570ad637dc60ea371b188c1/AK_sea_ice_photo_collage_V3.png",
+            "identifier": "63d406cc-8feb-4e11-bd1a-6602e42920b5",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "b97853f668d0efd985359a8518b599f7ab9698e8",
+            "size": 1809392,
+            "thumbnail": "ba/c5/ff0e4570ad637dc60ea371b188c1/.thumb-63d406cc-8feb-4e11-bd1a-6602e42920b5.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/ba/c5/ff0e4570ad637dc60ea371b188c1/.thumb-63d406cc-8feb-4e11-bd1a-6602e42920b5.png",
+            "uri": "/file/63d406cc-8feb-4e11-bd1a-6602e42920b5",
+            "url": "/assets/ba/c5/ff0e4570ad637dc60ea371b188c1/AK_sea_ice_photo_collage_V3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/alaska/figure/sea-ice-loss-brings-big-changes-to-arctic-life.json",
+    "identifier": "sea-ice-loss-brings-big-changes-to-arctic-life",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 3,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Sea Ice Loss Brings Big Changes to Arctic Life",
+    "uri": "/report/nca3/chapter/alaska/figure/sea-ice-loss-brings-big-changes-to-arctic-life",
+    "url": "http://nca2014.globalchange.gov/report/regions/alaska/graphics/sea-ice-loss-brings-big-changes-arctic-life",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

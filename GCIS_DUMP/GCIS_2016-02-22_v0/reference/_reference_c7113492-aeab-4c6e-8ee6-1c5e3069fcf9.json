@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Diaz-Pulido, G.\rAnthony, K. R. N.\rKline, D.I.\rDove, S.\rHoegh-Guldberg, O.",
+        "DOI": "10.1111/j.1529-8817.2011.01084.x",
+        "ISSN": "1529-8817",
+        "Issue": "1",
+        "Journal": "Journal of Phycology",
+        "Pages": "32-39",
+        "Title": "Interactions between ocean acidification and warming on the mortality and dissolution of coralline algae",
+        "Volume": "48",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "874",
+        "_uuid": "c7113492-aeab-4c6e-8ee6-1c5e3069fcf9",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1529-8817.2011.01084.x",
+    "href": "http://data.globalchange.gov/reference/c7113492-aeab-4c6e-8ee6-1c5e3069fcf9.json",
+    "identifier": "c7113492-aeab-4c6e-8ee6-1c5e3069fcf9",
+    "uri": "/reference/c7113492-aeab-4c6e-8ee6-1c5e3069fcf9"
+}

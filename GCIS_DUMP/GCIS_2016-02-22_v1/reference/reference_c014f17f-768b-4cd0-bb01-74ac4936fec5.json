@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".publisher": "Blackwell Publishing, Inc.",
+        ".reference_type": "0",
+        "Author": "Slovic, Paul\rFinucane, Melissa L.\rPeters, Ellen\rMacGregor, Donald G.",
+        "DOI": "10.1111/j.0272-4332.2004.00433.x",
+        "ISSN": "1539-6924",
+        "Issue": "2",
+        "Journal": "Risk Analysis",
+        "Keywords": "Rationality\rrisk analysis\rrisk perception\rthe affect heuristic",
+        "Pages": "311-322",
+        "Title": "Risk as analysis and risk as feelings: Some thoughts about affect, reason, risk, and rationality",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/j.0272-4332.2004.00433.x/pdf",
+        "Volume": "24",
+        "Year": "2004",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4485",
+        "_uuid": "c014f17f-768b-4cd0-bb01-74ac4936fec5",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.0272-4332.2004.00433.x",
+    "href": "http://data.globalchange.gov/reference/c014f17f-768b-4cd0-bb01-74ac4936fec5.json",
+    "identifier": "c014f17f-768b-4cd0-bb01-74ac4936fec5",
+    "uri": "/reference/c014f17f-768b-4cd0-bb01-74ac4936fec5"
+}

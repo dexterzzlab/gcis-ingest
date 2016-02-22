@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".publisher": "Nature Publishing Group",
+        ".reference_type": "0",
+        "Author": "Jasechko, Scott\rSharp, Zachary D.\rGibson, John J.\rBirks, S. Jean\rYi, Yi\rFawcett, Peter J.",
+        "DOI": "10.1038/nature11983",
+        "ISSN": "0028-0836",
+        "Issue": "7445",
+        "Journal": "Nature",
+        "Pages": "347-350",
+        "Title": "Terrestrial water fluxes dominated by transpiration",
+        "Type of Article": "Letter",
+        "Volume": "496",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "4123",
+        "_uuid": "44b0acce-10d9-4612-b941-c5563b10dbb5",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/nature11983",
+    "href": "http://data.globalchange.gov/reference/44b0acce-10d9-4612-b941-c5563b10dbb5.json",
+    "identifier": "44b0acce-10d9-4612-b941-c5563b10dbb5",
+    "uri": "/reference/44b0acce-10d9-4612-b941-c5563b10dbb5"
+}

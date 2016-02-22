@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Lavin, Stephen J.\rArcher, J. Clark \rShelley, Fred M.",
+        "ISBN": "978-0-8032-1536-8",
+        "Number of Pages": "352",
+        "Place Published": "University of Nebraska Press",
+        "Reviewer": "78ea39e1-a79d-4219-aa6c-7681d3dde246",
+        "Title": "Atlas of the Great Plains",
+        "URL": "http://www.nebraskapress.unl.edu/product/Atlas-of-the-Great-Plains,674764.aspx",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\"]",
+        "_record_number": "130",
+        "_uuid": "78ea39e1-a79d-4219-aa6c-7681d3dde246",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/caa427c9-38bd-4dc0-89d3-456c7ab68d56",
+    "href": "http://data.globalchange.gov/reference/78ea39e1-a79d-4219-aa6c-7681d3dde246.json",
+    "identifier": "78ea39e1-a79d-4219-aa6c-7681d3dde246",
+    "uri": "/reference/78ea39e1-a79d-4219-aa6c-7681d3dde246"
+}

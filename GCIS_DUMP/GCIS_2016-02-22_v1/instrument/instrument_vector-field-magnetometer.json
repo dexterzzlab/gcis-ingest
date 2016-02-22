@@ -1,0 +1,8 @@
+{
+    "description": "Magnetometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/vector-field-magnetometer.json",
+    "identifier": "vector-field-magnetometer",
+    "name": "Vector Field Magnetometer",
+    "uri": "/instrument/vector-field-magnetometer"
+}

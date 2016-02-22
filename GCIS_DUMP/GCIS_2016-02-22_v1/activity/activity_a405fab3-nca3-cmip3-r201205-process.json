@@ -1,0 +1,15 @@
+{
+    "computing_environment": "Linux (Red Hat Enterprise Linux Server release 6.4)",
+    "data_usage": "Global multi-model mean CMIP3 temperature anomaly projections were plotted as a time series for both the SRES A2 and B1 emissions scenarios, along with the 5-95th percentile range of the model values. Only the end-of-century multi-model mean temperature anomaly and 5-95th percentile range was displayed for the A1B scenario.",
+    "duration": "100 hours",
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/a405fab3-nca3-cmip3-r201205-process.json",
+    "identifier": "a405fab3-nca3-cmip3-r201205-process",
+    "methodology": "1. The global annual temperature (using a latitude weighting of grid boxes) was computed for each year for each model listed below, both for the historical and future model runs, for each emissions scenario (A2, A1B, and B1).\r\n2. A time series of temperature anomalies was computed for each model by subtracting the 1901-1960 average from the annual temperatures, for each scenario.\r\n3. The multi-model mean global annual temperature anomaly was computed for each year, for each scenario, and plotted as time series for the A2 and B1 scenarios.\r\n4. The multi-model standard deviation was computed for each year, for each scenario.\r\n5. The 5-95th percentile range (1.64* std. dev) was computed for each year, for each scenario, and plotted as shaded areas on the time series graph for the A2 and B1 scenarios.\r\n6. The end-of-century multi-model mean temperature anomaly and 5-95th percentile range was plotted for the A1B scenario.\r\n\r\nThe following models were used for the A2 scenario:\r\nCCSM3, CGCM3.1 (T47), CNRM-CM3, CSIRO-Mk3.0, ECHAM5/MPI-OM, ECHO-G, GFDL-CM2.0, GFDL-CM2.1, INM-CM3.0, IPSL-CM4, MIROC3.2 (medres), MRI-CGCM2.3.2, PCM, and UKMO-HadCM3.\r\n\r\nThe following models were used for the A1B scenario:\r\nBCCR_BCM2.0, CGCM3.1 (T47), CNRM-CM3, ECHAM5/MPI-OM, ECHO-G, GISS-AOM, GISS-EH, GISS-ER, IPSL-CM4, MIROC3.2 (hires), MIROC3.2 (medres), PCM, UKMO-HadCM3, and UKMO-HadGEM1.\r\n\r\nThe following models were used for the B1 scenario:\r\nCCSM3, CGCM3.1 (T47), CNRM-CM3, CSIRO-Mk3.0, ECHAM5/MPI-OM, ECHO-G, GFDL-CM2.0, GFDL-CM2.1, INM-CM3.0, IPSL-CM4, MIROC3.2 (medres), MRI-CGCM2.3.2, PCM, UKMO-HadCM3, and UKMO-HadGEM1.",
+    "notes": "Python",
+    "output_artifacts": "MM_weighted_avg_a1b_temp.sum\r\nMM_weighted_avg_a2_temp.sum\r\nMM_weighted_avg_b1_temp.sum\r\nFig24_CMIP3.xlsx\r\n2-4_a.png\r\nCS_average annual temp_global_V7.png",
+    "software": "Python (v2.7.6)",
+    "start_time": null,
+    "uri": "/activity/a405fab3-nca3-cmip3-r201205-process",
+    "visualization_software": "Microsoft Excel for Mac 2011 Version 14.3.9 (131030)"
+}

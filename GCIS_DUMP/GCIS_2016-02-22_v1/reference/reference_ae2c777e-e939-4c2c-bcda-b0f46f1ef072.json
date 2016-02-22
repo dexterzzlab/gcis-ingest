@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Bumbaco, K.\rMote, P.W.",
+        "DOI": "10.1175/2010JAMC2423.1",
+        "Journal": "Journal of Applied Meteorology and Climatology",
+        "Pages": "2058-2068",
+        "Title": "Three recent flavors of drought in the Pacific Northwest",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/2010JAMC2423.1",
+        "Volume": "1244",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "1665",
+        "_uuid": "ae2c777e-e939-4c2c-bcda-b0f46f1ef072",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/2010JAMC2423.1",
+    "href": "http://data.globalchange.gov/reference/ae2c777e-e939-4c2c-bcda-b0f46f1ef072.json",
+    "identifier": "ae2c777e-e939-4c2c-bcda-b0f46f1ef072",
+    "uri": "/reference/ae2c777e-e939-4c2c-bcda-b0f46f1ef072"
+}

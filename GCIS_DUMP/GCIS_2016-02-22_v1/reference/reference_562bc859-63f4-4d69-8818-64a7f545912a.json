@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".publisher": "American Meteorological Society",
+        ".reference_type": "0",
+        "Access Date": "2013/06/07",
+        "Author": "Zhang, Rong\rDelworth, Thomas L.\rSutton, Rowan\rHodson, Daniel L. R.\rDixon, Keith W.\rHeld, Isaac M.\rKushnir, Yochanan\rMarshall, John\rMing, Yi\rMsadek, Rym\rRobson, Jon\rRosati, Anthony J.\rTing, MingFang\rVecchi, Gabriel A.",
+        "DOI": "10.1175/jas-d-12-0331.1",
+        "Date": "2013/04/01",
+        "ISSN": "0022-4928",
+        "Issue": "4",
+        "Journal": "Journal of the Atmospheric Sciences",
+        "Pages": "1135-1144",
+        "Title": "Have aerosols caused the observed Atlantic multidecadal variability?",
+        "Volume": "70",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "3757",
+        "_uuid": "562bc859-63f4-4d69-8818-64a7f545912a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/jas-d-12-0331.1",
+    "href": "http://data.globalchange.gov/reference/562bc859-63f4-4d69-8818-64a7f545912a.json",
+    "identifier": "562bc859-63f4-4d69-8818-64a7f545912a",
+    "uri": "/reference/562bc859-63f4-4d69-8818-64a7f545912a"
+}

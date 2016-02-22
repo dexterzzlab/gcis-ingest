@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Fishkin, J.S.",
+        "Number of Pages": "133",
+        "Place Published": "New Haven, CT",
+        "Publisher": "Yale University Press",
+        "Reviewer": "ba7bf44d-1b57-44a1-aa10-e3aa9bc8c837",
+        "Title": "Democracy and Deliberation: New Directions for Democratic Reform",
+        "Year": "1991",
+        "_chapter": "[\"Ch. 11: Urban Systems FINAL\"]",
+        "_record_number": "503",
+        "_uuid": "ba7bf44d-1b57-44a1-aa10-e3aa9bc8c837",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/29bc089a-1cf2-4bd8-85fe-39b5a3991ac7",
+    "href": "http://data.globalchange.gov/reference/ba7bf44d-1b57-44a1-aa10-e3aa9bc8c837.json",
+    "identifier": "ba7bf44d-1b57-44a1-aa10-e3aa9bc8c837",
+    "uri": "/reference/ba7bf44d-1b57-44a1-aa10-e3aa9bc8c837"
+}

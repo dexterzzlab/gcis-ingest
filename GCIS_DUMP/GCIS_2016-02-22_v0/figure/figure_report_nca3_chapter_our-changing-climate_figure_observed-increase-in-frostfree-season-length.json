@@ -1,0 +1,96 @@
+{
+    "attributes": null,
+    "caption": "The frost-free season length, defined as the period between the last occurrence of 32\u00b0F in the spring and the first occurrence of 32\u00b0F in the fall, has increased in each U.S. region during 1991-2012 relative to 1901-1960. Increases in frost-free season length correspond to similar increases in growing season length. (Figure source: NOAA NCDC / CICS-NC).",
+    "chapter": {
+        "doi": "10.7930/J0KW5CXT",
+        "identifier": "our-changing-climate",
+        "number": 2,
+        "report_identifier": "nca3",
+        "sort_key": 20,
+        "title": "Our Changing Climate",
+        "url": "http://nca2014.globalchange.gov/report/our-changing-climate/introduction"
+    },
+    "chapter_identifier": "our-changing-climate",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2522.json",
+            "id": 2522,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Kenneth",
+                "id": 1025,
+                "last_name": "Kunkel",
+                "middle_name": null,
+                "orcid": "0000-0001-6667-7047",
+                "url": "http://cicsnc.org/people/kenneth-kunkel/"
+            },
+            "person_id": 1025,
+            "person_uri": "/person/1025",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2522"
+        }
+    ],
+    "create_dt": "2013-11-18T14:42:00",
+    "files": [
+        {
+            "file": "95/ae/bc1c72e1f65fcbff23c464e8887f/CS_observed_frost_free_season_V5.png",
+            "href": "http://data.globalchange.gov/assets/95/ae/bc1c72e1f65fcbff23c464e8887f/CS_observed_frost_free_season_V5.png",
+            "identifier": "b15fc6a2-c01c-4a7a-aa60-b63215f15603",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "030c36d78927409a60e2f4f9800bf7e4636e75bc",
+            "size": 242143,
+            "thumbnail": "95/ae/bc1c72e1f65fcbff23c464e8887f/.thumb-b15fc6a2-c01c-4a7a-aa60-b63215f15603.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/95/ae/bc1c72e1f65fcbff23c464e8887f/.thumb-b15fc6a2-c01c-4a7a-aa60-b63215f15603.png",
+            "uri": "/file/b15fc6a2-c01c-4a7a-aa60-b63215f15603",
+            "url": "/assets/95/ae/bc1c72e1f65fcbff23c464e8887f/CS_observed_frost_free_season_V5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/our-changing-climate/figure/observed-increase-in-frostfree-season-length.json",
+    "identifier": "observed-increase-in-frostfree-season-length",
+    "images": [
+        {
+            "attributes": "Contiguous U.S., freeze-free season, frost-free season, observed",
+            "create_dt": "2013-11-22T09:40:00",
+            "description": null,
+            "identifier": "c8484765-3d50-48dc-a2e3-09cb56610265",
+            "lat_max": "49.371742",
+            "lat_min": "24.545219",
+            "lon_max": "-66.957802",
+            "lon_min": "-124.762146",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2012-12-31T23:59:00",
+            "time_start": "1901-01-01T00:00:00",
+            "title": "Observed Increase in Frost-Free Season Length",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 10,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": "NOAA NCDC / CICS-NC",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Observed Increase in Frost-Free Season Length",
+    "uri": "/report/nca3/chapter/our-changing-climate/figure/observed-increase-in-frostfree-season-length",
+    "url": "http://nca2014.globalchange.gov/highlights/report-findings/our-changing-climate/graphics/observed-increases-frost-free-season",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

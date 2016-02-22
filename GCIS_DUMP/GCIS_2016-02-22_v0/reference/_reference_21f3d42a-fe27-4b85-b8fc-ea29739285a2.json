@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"italic\" start=\"40\" /><run start=\"61\" /></field></record>",
+        "Author": "Waldbusser, G.G.\rVoigt, E.P.\rBergschneider, H.\rGreen, M.A.\rNewell, R.I.E.",
+        "DOI": "10.1007/s12237-010-9307-0",
+        "ISSN": "1559-2723",
+        "Issue": "2",
+        "Journal": "Estuaries and Coasts",
+        "Pages": "221-231",
+        "Title": "Biocalcification in the eastern oyster (Crassostrea virginica) in relation to long-term trends in Chesapeake Bay pH",
+        "Volume": "34",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\"]",
+        "_record_number": "3320",
+        "_uuid": "21f3d42a-fe27-4b85-b8fc-ea29739285a2",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s12237-010-9307-0",
+    "href": "http://data.globalchange.gov/reference/21f3d42a-fe27-4b85-b8fc-ea29739285a2.json",
+    "identifier": "21f3d42a-fe27-4b85-b8fc-ea29739285a2",
+    "uri": "/reference/21f3d42a-fe27-4b85-b8fc-ea29739285a2"
+}

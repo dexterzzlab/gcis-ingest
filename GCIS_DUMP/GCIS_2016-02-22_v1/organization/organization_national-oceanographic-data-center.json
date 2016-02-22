@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/national-oceanographic-data-center.json",
+    "identifier": "national-oceanographic-data-center",
+    "name": "National Oceanographic Data Center",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/national-oceanographic-data-center",
+    "url": "https://www.nodc.noaa.gov/"
+}

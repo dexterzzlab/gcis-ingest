@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Harvell, D.\rAltizer, S.\rCattadori, I.M.\rHarrington, L.\rWeil, E.",
+        "DOI": "10.1890/08-0616.1",
+        "ISSN": "0012-9658",
+        "Issue": "4",
+        "Journal": "Ecology",
+        "Pages": "912-920",
+        "Title": "Climate change and wildlife diseases: When does the host matter the most?",
+        "Volume": "90",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\",\"RF 11\"]",
+        "_record_number": "298",
+        "_uuid": "5ab374b7-c974-45aa-9986-2aacb9ada5bb",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/08-0616.1",
+    "href": "http://data.globalchange.gov/reference/5ab374b7-c974-45aa-9986-2aacb9ada5bb.json",
+    "identifier": "5ab374b7-c974-45aa-9986-2aacb9ada5bb",
+    "uri": "/reference/5ab374b7-c974-45aa-9986-2aacb9ada5bb"
+}

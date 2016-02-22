@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Credit: C. Duffy, Pennsylvania State University and USGS for the original Landsat imagery.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "7a/71/024931321bf699ad851c94494552/our_changing_planet_2007_53_20090708_1215005565.jpg",
+            "href": "http://data.globalchange.gov/assets/7a/71/024931321bf699ad851c94494552/our_changing_planet_2007_53_20090708_1215005565.jpg",
+            "identifier": "73b38667-2cf5-486c-a102-e5a4ed98caee",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "90b89c9ef4029515d9c4766a5b6dedec54611c7b",
+            "size": 30830,
+            "thumbnail": "7a/71/024931321bf699ad851c94494552/.thumb-73b38667-2cf5-486c-a102-e5a4ed98caee.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/7a/71/024931321bf699ad851c94494552/.thumb-73b38667-2cf5-486c-a102-e5a4ed98caee.png",
+            "uri": "/file/73b38667-2cf5-486c-a102-e5a4ed98caee",
+            "url": "/assets/7a/71/024931321bf699ad851c94494552/our_changing_planet_2007_53_20090708_1215005565.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/wetting-drying-phases-great-salt-lake.json",
+    "identifier": "wetting-drying-phases-great-salt-lake",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Wetting and Drying Phases of the Great Salt Lake",
+    "uri": "/report/ccsp-ocpfy2007/figure/wetting-drying-phases-great-salt-lake",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

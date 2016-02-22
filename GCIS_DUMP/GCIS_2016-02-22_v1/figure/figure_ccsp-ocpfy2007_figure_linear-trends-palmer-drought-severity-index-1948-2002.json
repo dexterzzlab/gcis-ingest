@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "These data products show drying (reds and pinks) across much of Canada, Europe, Asia, and Africa and moistening (green) across the United States, Argentina, Scandinavia, and western Australia. Credit: A. Dai, K.E. Trenberth, and T. Qian, National Center for Atmospheric Research (reproduced from Journal of Hydrometeorology with permission from the American Meteorological Society).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "1d/01/93e87db9d52e949c32593b1bb72e/our_changing_planet_2007_48_20090708_1948584756.jpg",
+            "href": "http://data.globalchange.gov/assets/1d/01/93e87db9d52e949c32593b1bb72e/our_changing_planet_2007_48_20090708_1948584756.jpg",
+            "identifier": "aef65dbc-5943-4315-904b-b66f326a726a",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "571c9afa2f27db1434dce3f846034448d57dc719",
+            "size": 35758,
+            "thumbnail": "1d/01/93e87db9d52e949c32593b1bb72e/.thumb-aef65dbc-5943-4315-904b-b66f326a726a.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/1d/01/93e87db9d52e949c32593b1bb72e/.thumb-aef65dbc-5943-4315-904b-b66f326a726a.png",
+            "uri": "/file/aef65dbc-5943-4315-904b-b66f326a726a",
+            "url": "/assets/1d/01/93e87db9d52e949c32593b1bb72e/our_changing_planet_2007_48_20090708_1948584756.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/linear-trends-palmer-drought-severity-index-1948-2002.json",
+    "identifier": "linear-trends-palmer-drought-severity-index-1948-2002",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Linear Trends in the Palmer Drought Serverity Index (PDSI) from 1948 to 2002",
+    "uri": "/report/ccsp-ocpfy2007/figure/linear-trends-palmer-drought-severity-index-1948-2002",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/niehs-climch-2010.json",
+    "identifier": "niehs-climch-2010",
+    "in_library": 1,
+    "publication_year": 2010,
+    "report_type_identifier": "report",
+    "summary": "A report outlining the research needs on the human health effects of climate change.",
+    "title": "A Human Health Perspective on Climate Change: A Report Outlining the Research Needs on the Human Health Effects of Climate Change",
+    "topic": "Human Health,Adaptation,Mitigation",
+    "uri": "/report/niehs-climch-2010",
+    "url": "http://www.niehs.nih.gov/climatereport"
+}

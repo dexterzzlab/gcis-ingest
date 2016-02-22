@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Mildrexler, D.J.\rZhao, M.\rRunning, S.W.",
+        "DOI": "10.1016/j.rse.2009.05.016",
+        "ISSN": "0034-4257",
+        "Issue": "10",
+        "Journal": "Remote Sensing of Environment",
+        "Pages": "2103-2117",
+        "Title": "Testing a MODIS global disturbance index across North America",
+        "Volume": "113",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "2022",
+        "_uuid": "f4e0a73e-f6c2-451f-9af1-07aa1cffdc05",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.rse.2009.05.016",
+    "href": "http://data.globalchange.gov/reference/f4e0a73e-f6c2-451f-9af1-07aa1cffdc05.json",
+    "identifier": "f4e0a73e-f6c2-451f-9af1-07aa1cffdc05",
+    "uri": "/reference/f4e0a73e-f6c2-451f-9af1-07aa1cffdc05"
+}

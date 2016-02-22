@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "1997-98 El Ni\u00f1o event, water temperature and sea-surface topography in the equatorial Pacific Ocean \u2013 (a) January 1997; (b) June 1997; (c) November 1997; (d) March 1998 The images show a combined perspective of the El Ni\u00f1o-induced change in sea temperature below the surface as measured by NOAA\u2019s Tropical Atmosphere/ Ocean (TAO) moorings, the sea-surface topography as viewed from space by the NASA Ocean Topography Experiment (TOPEX) radar altimetry satellite, and sea-surface temperature observed by NOAA\u2019s Advanced Very High- Resolution Radiometer (AVHRR) sensor, for the period from January 1997 to March 1998. Credit: NASA Goddard Space Flight Center, Scientific Visualization Studio; NOAA Pacific Marine Environmental Laboratory.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "78/e3/f940c47136095b18902b2865a90f/our_changing_planet_2003_3_20090708_1804695157.jpg",
+            "href": "http://data.globalchange.gov/assets/78/e3/f940c47136095b18902b2865a90f/our_changing_planet_2003_3_20090708_1804695157.jpg",
+            "identifier": "dad18c04-c7f5-43bc-9b7c-b985009fa36c",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "6302e20e793760b4e7cc803d6569c7a2b5f1a990",
+            "size": 44257,
+            "thumbnail": "78/e3/f940c47136095b18902b2865a90f/.thumb-dad18c04-c7f5-43bc-9b7c-b985009fa36c.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/78/e3/f940c47136095b18902b2865a90f/.thumb-dad18c04-c7f5-43bc-9b7c-b985009fa36c.png",
+            "uri": "/file/dad18c04-c7f5-43bc-9b7c-b985009fa36c",
+            "url": "/assets/78/e3/f940c47136095b18902b2865a90f/our_changing_planet_2003_3_20090708_1804695157.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2003/figure/1997-1998-el-nino-event.json",
+    "identifier": "1997-1998-el-nino-event",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2003",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "The 1997 to 1998 El Nino Event",
+    "uri": "/report/ccsp-ocpfy2003/figure/1997-1998-el-nino-event",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

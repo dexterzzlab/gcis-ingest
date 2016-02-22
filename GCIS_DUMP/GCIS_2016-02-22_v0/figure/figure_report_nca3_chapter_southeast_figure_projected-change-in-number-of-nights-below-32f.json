@@ -1,0 +1,130 @@
+{
+    "attributes": null,
+    "caption": "Projected average number of days per year with temperatures less than 32\u00b0F for 2041-2070 compared to 1971-2000, assuming emissions continue to grow (A2 scenario). Patterns are similar, but less pronounced, assuming a reduced emissions scenario (B1). (Figure source: NOAA NCDC / CICS-NC).",
+    "chapter": {
+        "doi": "10.7930/J0NP22CB",
+        "identifier": "southeast",
+        "number": 17,
+        "report_identifier": "nca3",
+        "sort_key": 170,
+        "title": "Southeast and the Caribbean",
+        "url": "http://nca2014.globalchange.gov/report/regions/southeast"
+    },
+    "chapter_identifier": "southeast",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2522.json",
+            "id": 2522,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Kenneth",
+                "id": 1025,
+                "last_name": "Kunkel",
+                "middle_name": null,
+                "orcid": "0000-0001-6667-7047",
+                "url": "http://cicsnc.org/people/kenneth-kunkel/"
+            },
+            "person_id": 1025,
+            "person_uri": "/person/1025",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2522"
+        }
+    ],
+    "create_dt": "2013-11-18T12:52:16",
+    "files": [
+        {
+            "file": "f6/15/33d679264ef23fecad880ef225fe/SE_nights_below_32_V6.png",
+            "href": "http://data.globalchange.gov/assets/f6/15/33d679264ef23fecad880ef225fe/SE_nights_below_32_V6.png",
+            "identifier": "2a8e0a72-8660-404f-8720-341baeb4b688",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "21699ab9af677cbd30aace480cbceee2988b6818",
+            "size": 111950,
+            "thumbnail": "f6/15/33d679264ef23fecad880ef225fe/.thumb-2a8e0a72-8660-404f-8720-341baeb4b688.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/f6/15/33d679264ef23fecad880ef225fe/.thumb-2a8e0a72-8660-404f-8720-341baeb4b688.png",
+            "uri": "/file/2a8e0a72-8660-404f-8720-341baeb4b688",
+            "url": "/assets/f6/15/33d679264ef23fecad880ef225fe/SE_nights_below_32_V6.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/southeast/figure/projected-change-in-number-of-nights-below-32f.json",
+    "identifier": "projected-change-in-number-of-nights-below-32f",
+    "images": [
+        {
+            "attributes": "Southeast, temperature, projections, emissions scenarios",
+            "create_dt": "2013-11-15T14:20:00",
+            "description": null,
+            "identifier": "b9384563-fe11-4815-a5d4-e70acdc32b3e",
+            "lat_max": "39.44",
+            "lat_min": "25.19",
+            "lon_max": "-75.44",
+            "lon_min": "-94.56",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2070-12-31T23:59:59",
+            "time_start": "1971-01-01T00:00:00",
+            "title": "Projected Change in Number of Nights Below 32\u00b0F: Projection (2041-2070)",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": "Southeast, temperature, observed",
+            "create_dt": "2013-09-17T12:09:00",
+            "description": null,
+            "identifier": "5ea41bc3-ecc0-415d-a8c7-b3b626186746",
+            "lat_max": "39.44",
+            "lat_min": "25.19",
+            "lon_max": "-75.44",
+            "lon_min": "-94.56",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2000-12-31T23:59:59",
+            "time_start": "1971-01-01T00:00:00",
+            "title": "Projected Change in Number of Nights Below 32\u00b0F: Historical Climate (1971-2000)",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": "Southeast, temperature, projections, emissions scenarios",
+            "create_dt": "2013-11-15T14:36:00",
+            "description": null,
+            "identifier": "113f0051-4694-4a00-b3f2-236942257952",
+            "lat_max": "39.44",
+            "lat_min": "25.19",
+            "lon_max": "-75.44",
+            "lon_min": "-94.56",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2070-12-31T23:59:59",
+            "time_start": "1971-01-01T00:00:00",
+            "title": "Projected Change in Number of Nights Below 32\u00b0F: Projected Difference from Historical Climate",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 5,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": "NOAA NCDC / CICS-NC",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Projected Change in Number of Nights Below 32\u00b0F",
+    "uri": "/report/nca3/chapter/southeast/figure/projected-change-in-number-of-nights-below-32f",
+    "url": "http://nca2014.globalchange.gov/report/regions/southeast/graphics/projected-change-number-nights-below-32%C2%B0f",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

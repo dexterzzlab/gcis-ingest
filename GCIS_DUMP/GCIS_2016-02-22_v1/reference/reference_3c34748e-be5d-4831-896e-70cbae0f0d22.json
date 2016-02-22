@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Wilbanks, T.\rD. Bilello\rD. Schmalzer\rM. Scott",
+        "Institution": "Oak Ridge National Laboratory, U.S. Department of Energy, Office of Science",
+        "Pages": "79",
+        "Place Published": "Oak Ridge, TN",
+        "Title": "Climate Change and Energy Supply and Use. Technical Report to the U.S. Department of Energy in Support of the National Climate Assessment",
+        "URL": "http://www.esd.ornl.gov/eess/EnergySupplyUse.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 4: Energy Supply and Use FINAL\",\"Ch. 28: Adaptation FINAL\",\"RF 6\",\"RF 12\"]",
+        "_record_number": "3420",
+        "_uuid": "3c34748e-be5d-4831-896e-70cbae0f0d22",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/ornl-climchenergy-2012",
+    "href": "http://data.globalchange.gov/reference/3c34748e-be5d-4831-896e-70cbae0f0d22.json",
+    "identifier": "3c34748e-be5d-4831-896e-70cbae0f0d22",
+    "uri": "/reference/3c34748e-be5d-4831-896e-70cbae0f0d22"
+}

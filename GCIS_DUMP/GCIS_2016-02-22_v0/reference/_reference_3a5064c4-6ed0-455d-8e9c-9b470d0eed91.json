@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "3",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"italic\" start=\"44\" /><run start=\"59\" /></field></record>",
+        "Author": "Safranyik, L.\rShrimpton, D.M.\rWhitney, H.S.",
+        "Conference Location": "Pullman, Washington",
+        "Conference Name": "Management of Lodgepole Pine Ecosystems Symposium Proceedings",
+        "Pages": "406-428",
+        "Publisher": "Washington State University Cooperative Extension Service ",
+        "Title": "An interpretation of the interaction between lodgepole pine, the mountain pine beetle and its associated blue stain fungi in western Canada",
+        "Year of Conference": "1975",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "2726",
+        "_uuid": "3a5064c4-6ed0-455d-8e9c-9b470d0eed91",
+        "reftype": "Conference Proceedings"
+    },
+    "child_publication": "/generic/d0d55f8c-17f3-40dc-9f70-fa6741cec109",
+    "href": "http://data.globalchange.gov/reference/3a5064c4-6ed0-455d-8e9c-9b470d0eed91.json",
+    "identifier": "3a5064c4-6ed0-455d-8e9c-9b470d0eed91",
+    "uri": "/reference/3a5064c4-6ed0-455d-8e9c-9b470d0eed91"
+}

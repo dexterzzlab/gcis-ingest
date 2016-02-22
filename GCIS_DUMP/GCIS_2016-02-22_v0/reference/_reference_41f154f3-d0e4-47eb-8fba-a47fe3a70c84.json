@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Jump, Alistair S.\rM\u00e1ty\u00e1s, Csaba\rPe\u00f1uelas, Josep",
+        "DOI": "10.1016/j.tree.2009.06.007",
+        "Date": "Dec",
+        "ISSN": "0169-5347",
+        "Issue": "12",
+        "Journal": "Trends in Ecology & Evolution",
+        "Pages": "694-701",
+        "Title": "The altitude-for-latitude disparity in the range retractions of woody species",
+        "Volume": "24",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "72",
+        "_uuid": "41f154f3-d0e4-47eb-8fba-a47fe3a70c84",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.tree.2009.06.007",
+    "href": "http://data.globalchange.gov/reference/41f154f3-d0e4-47eb-8fba-a47fe3a70c84.json",
+    "identifier": "41f154f3-d0e4-47eb-8fba-a47fe3a70c84",
+    "uri": "/reference/41f154f3-d0e4-47eb-8fba-a47fe3a70c84"
+}

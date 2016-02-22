@@ -1,0 +1,86 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": null,
+            "chapter_identifier": null,
+            "create_dt": null,
+            "identifier": "indicator-start-of-spring",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 1,
+            "report_identifier": "indicator-start-of-spring",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": "2013-12-31T23:59:59",
+            "time_start": "1900-01-01T00:00:00",
+            "title": null,
+            "url": null,
+            "usage_limits": "Free to use with credit to USGCRP."
+        }
+    ],
+    "files": [
+        {
+            "file": "67/99/8e15677ec6daae56676df91c34f2/extended_spring_indices_2_23_2015_0-3.jpg",
+            "href": "http://data.globalchange.gov/assets/67/99/8e15677ec6daae56676df91c34f2/extended_spring_indices_2_23_2015_0-3.jpg",
+            "identifier": "e659459b-f801-434b-930c-bfc713293cfb",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "5b660beb46a19444aca960901586a908d81fd530",
+            "size": 733432,
+            "thumbnail": "67/99/8e15677ec6daae56676df91c34f2/.thumb-e659459b-f801-434b-930c-bfc713293cfb.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/67/99/8e15677ec6daae56676df91c34f2/.thumb-e659459b-f801-434b-930c-bfc713293cfb.png",
+            "uri": "/file/e659459b-f801-434b-930c-bfc713293cfb",
+            "url": "/assets/67/99/8e15677ec6daae56676df91c34f2/extended_spring_indices_2_23_2015_0-3.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/53a4db44-3a38-4234-a243-b1df283aaae4.json",
+    "identifier": "53a4db44-3a38-4234-a243-b1df283aaae4",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [
+        {
+            "activity_uri": "/activity/53a4db44-indicator-start-of-spring-process",
+            "label": "dataset noaa-ncdc-ghcn-daily",
+            "note": "",
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/noaa-ncdc-ghcn-daily"
+        },
+        {
+            "activity_uri": null,
+            "label": "table indicator-start-of-spring-data-pilot",
+            "note": "",
+            "publication_type_identifier": "table",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/indicator-start-of-spring/table/indicator-start-of-spring-data-pilot"
+        },
+        {
+            "activity_uri": "/activity/53a4db44-indicator-start-of-spring-process",
+            "label": "dataset usgs-sciencebase-leafing-flowering-lilacs-honeysuckles",
+            "note": "",
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/usgs-sciencebase-leafing-flowering-lilacs-honeysuckles"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": null,
+    "uri": "/image/53a4db44-3a38-4234-a243-b1df283aaae4",
+    "url": null,
+    "usage_limits": "Free to use with credit to USGCRP."
+}

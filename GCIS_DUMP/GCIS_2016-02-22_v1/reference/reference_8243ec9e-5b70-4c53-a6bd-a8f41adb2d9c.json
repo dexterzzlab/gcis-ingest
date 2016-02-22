@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Temperature trends over 1979\u20132008 in the U.S. Historical Climatology Network (HCN) are compared with those in six recent atmospheric reanalyses. For the conterminous United States, the trend in the adjusted HCN (0.327 \u00b0C dec\u22121) is generally comparable to the ensemble mean of the reanalyses (0.342 \u00b0C dec\u22121). It is also well within the range of the reanalysis trend estimates (0.280 to 0.437 \u00b0C dec\u22121). The bias adjustments play a critical role, as the raw HCN dataset displays substantially less warming than all of the reanalyses. HCN has slightly lower maximum and minimum temperature trends than those reanalyses with hourly temporal resolution, suggesting the HCN adjustments may not fully compensate for recent non-climatic artifacts at some stations. Spatially, both the adjusted HCN and all of the reanalyses indicate widespread warming across the nation during the study period. Overall, the adjusted HCN is in broad agreement with the suite of reanalyses. ",
+        "Author": "Vose, R.S.\rApplequist, S.\rMenne, M.J.\rWilliams, C.N., Jr.\rThorne, P.",
+        "DOI": "10.1029/2012GL051387",
+        "ISSN": "0094-8276",
+        "Issue": "10",
+        "Journal": "Geophysical Research Letters",
+        "Pages": "6",
+        "Start Page": "L10703",
+        "Title": "An intercomparison of temperature trends in the US Historical Climatology Network and recent atmospheric reanalyses",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2012GL051387/pdf",
+        "Volume": "39",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"Ch. 2: Our Changing Climate FINAL\",\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "3310",
+        "_uuid": "8243ec9e-5b70-4c53-a6bd-a8f41adb2d9c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2012GL051387",
+    "href": "http://data.globalchange.gov/reference/8243ec9e-5b70-4c53-a6bd-a8f41adb2d9c.json",
+    "identifier": "8243ec9e-5b70-4c53-a6bd-a8f41adb2d9c",
+    "uri": "/reference/8243ec9e-5b70-4c53-a6bd-a8f41adb2d9c"
+}

@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Bailey, Robert G.",
+        "Institution": "U.S. Department of Agriculture, Forest Service",
+        "Title": "Description of the Ecoregions of the United States (2nd ed.). 1995. Misc. Pub. No. 1391",
+        "URL": "http://nationalatlas.gov/mld/ecoregp.html",
+        "Year": "1995",
+        "_chapter": "[\"RG 6 Northwest\",\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "3848",
+        "_uuid": "a60c82f3-709d-4de2-a3c6-9b0fcb62e410",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usfs-miscpub-1391",
+    "href": "http://data.globalchange.gov/reference/a60c82f3-709d-4de2-a3c6-9b0fcb62e410.json",
+    "identifier": "a60c82f3-709d-4de2-a3c6-9b0fcb62e410",
+    "uri": "/reference/a60c82f3-709d-4de2-a3c6-9b0fcb62e410"
+}

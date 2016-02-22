@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Accession Number": "173",
+        "Author": "Adger, W.N.\rAgrawala, S.\rMirza, M.M.Q.\rConde, C.\rO'Brien, K.\rPulhin, J.\rPulwarty, R.\rSmit, B.\rTakahashi, K.",
+        "Book Title": "Climate Change 2007: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change",
+        "Editor": "Parry, M.L.\rCanziani, O.F.\rPalutikof, J.P.\rvan der Linden, P.J.\rHanson, C.E.",
+        "Pages": "717-743",
+        "Place Published": "Cambridge, UK and New York, NY",
+        "Publisher": "Cambridge University Press",
+        "Reviewer": "b8e03496-d0f2-4001-8a3a-6846e96d5701",
+        "Title": "Ch. 17: Assessment of adaptation practices, options, constraints and capacity",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\",\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "3565",
+        "_uuid": "b8e03496-d0f2-4001-8a3a-6846e96d5701",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/ipcc-ar4-wg2",
+    "href": "http://data.globalchange.gov/reference/b8e03496-d0f2-4001-8a3a-6846e96d5701.json",
+    "identifier": "b8e03496-d0f2-4001-8a3a-6846e96d5701",
+    "uri": "/reference/b8e03496-d0f2-4001-8a3a-6846e96d5701"
+}

@@ -1,0 +1,95 @@
+{
+    "attributes": "Precipitation, projections, seasonal, CMIP3, A2",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/3258.json",
+            "id": 3258,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Andrew",
+                "id": 1948,
+                "last_name": "Buddenberg",
+                "middle_name": null,
+                "orcid": "0000-0003-2047-6527",
+                "url": null
+            },
+            "person_id": 1948,
+            "person_uri": "/person/1948",
+            "role_type_identifier": "analyst",
+            "uri": "/contributor/3258"
+        }
+    ],
+    "create_dt": "2013-07-23T16:27:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Climate change affects precipitation patterns as well as temperature patterns. The maps show projected changes in average precipitation by season for 2041\u20132070 compared to 1971\u20131999, assuming emissions of heat-trapping gases continue to rise (A2 scenario). Note significantly drier conditions in the Southwest in spring and Northwest in summer, as well as significantly more precipitation (some of which could fall as snow) projected for northern areas in winter and spring.Hatched areas indicate that the projected changes are significant and consistent among models. White areas indicate that the changes are not projected to be larger than could be expected from natural variability. (Figure source: NOAA NCDC / CICS-NC).",
+            "chapter_identifier": "energy-supply-and-use",
+            "create_dt": "2013-11-15T18:43:22",
+            "identifier": "projected-changes-in-seasonal-precipitation",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 4,
+            "report_identifier": "nca3",
+            "source_citation": "NOAA NCDC / CICS-NC",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Projected Changes in Seasonal Precipitation",
+            "url": "http://nca2014.globalchange.gov/report/sectors/energy/graphics/projected-changes-seasonal-precipitation",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "58/bd/0b0efb0e785a7e9e8ddc19e4bdc4/4-4_b.png",
+            "href": "http://data.globalchange.gov/assets/58/bd/0b0efb0e785a7e9e8ddc19e4bdc4/4-4_b.png",
+            "identifier": "769bdcaf-3c5f-443d-ba86-38599968d042",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "432bf322fbb573f5ba0d5692a7d1919b4b1a8adf",
+            "size": 130646,
+            "thumbnail": "58/bd/0b0efb0e785a7e9e8ddc19e4bdc4/.thumb-769bdcaf-3c5f-443d-ba86-38599968d042.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/58/bd/0b0efb0e785a7e9e8ddc19e4bdc4/.thumb-769bdcaf-3c5f-443d-ba86-38599968d042.png",
+            "uri": "/file/769bdcaf-3c5f-443d-ba86-38599968d042",
+            "url": "/assets/58/bd/0b0efb0e785a7e9e8ddc19e4bdc4/4-4_b.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/2b79304d-d378-4390-afbf-cddb932ccd3f.json",
+    "identifier": "2b79304d-d378-4390-afbf-cddb932ccd3f",
+    "lat_max": "49.38",
+    "lat_min": "24.50",
+    "lon_max": "-66.95",
+    "lon_min": "-124.80",
+    "parents": [
+        {
+            "activity_uri": "/activity/2b79304d-nca3-cmip3-r201205-process",
+            "label": "dataset nca3-cmip3-r201205",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-cmip3-r201205"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2070-12-31T23:59:59",
+    "time_start": "1971-01-01T00:00:00",
+    "title": "Projected Changes in Seasonal Precipitation - Spring",
+    "uri": "/image/2b79304d-d378-4390-afbf-cddb932ccd3f",
+    "url": null,
+    "usage_limits": null
+}

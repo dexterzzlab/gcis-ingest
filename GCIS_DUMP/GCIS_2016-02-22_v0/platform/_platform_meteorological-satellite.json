@@ -1,0 +1,12 @@
+{
+    "description": "MetSat-1 is ISRO's first dedicated GEO weather satellite project built by ISRO. So far, meteorological services had been combined with telecommunication and television services in the INSAT series. MetSat-1 is a precursor to the future INSAT system that will have separate satellites for meteorology and telecommunication & broadcasting services.",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/k/kalpana-1",
+    "end_date": "2016-12-01T00:00:00",
+    "href": "http://data.globalchange.gov/platform/meteorological-satellite.json",
+    "identifier": "meteorological-satellite",
+    "name": "Meteorological Satellite",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "2002-09-12T00:00:00",
+    "uri": "/platform/meteorological-satellite",
+    "url": "http://www.isro.org/insat2b.htm"
+}

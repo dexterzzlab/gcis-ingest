@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Premium wine production is limited to regions climatically conducive to growing grapes with balanced composition and varietal typicity. Three central climatic conditions are required: (i) adequate heat accumulation; (ii) low risk of severe frost damage; and (iii) the absence of extreme heat. Although wine production is possible in an extensive climatic range, the highest-quality wines require a delicate balance among these three conditions. Although historical and projected average temperature changes are known to influence global wine quality, the potential future response of wine-producing regions to spatially heterogeneous changes in extreme events is largely unknown. Here, by using a high-resolution regional climate model forced by the Intergovernmental Panel on Climate Change Special Report on Emission Scenarios A2 greenhouse gas emission scenario, we estimate that potential premium winegrape production area in the conterminous United States could decline by up to 81% by the late 21st century. While increases in heat accumulation will shift wine production to warmer climate varieties and/or lower-quality wines, and frost constraints will be reduced, increases in the frequency of extreme hot days (>35\u00b0C) in the growing season are projected to eliminate winegrape production in many areas of the United States. Furthermore, grape and wine production will likely be restricted to a narrow West Coast region and the Northwest and Northeast, areas currently facing challenges related to excess moisture. Our results not only imply large changes for the premium wine industry, but also highlight the importance of incorporating fine-scale processes and extreme events in climate-change impact studies.",
+        "Author": "White, M. A.\rDiffenbaugh, N. S.\rJones, G. V.\rPal, J. S.\rGiorgi, F.",
+        "DOI": "10.1073/pnas.0603230103",
+        "Date": "July 25, 2006",
+        "Issue": "30",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Pages": "11217-11222",
+        "Title": "Extreme heat reduces and shifts United States premium wine production in the 21st century",
+        "URL": "http://www.pnas.org/content/103/30/11217.full.pdf+html",
+        "Volume": "103",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "3947",
+        "_uuid": "395769c5-1d9b-40fc-adae-4c4c26b00fbe",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.0603230103",
+    "href": "http://data.globalchange.gov/reference/395769c5-1d9b-40fc-adae-4c4c26b00fbe.json",
+    "identifier": "395769c5-1d9b-40fc-adae-4c4c26b00fbe",
+    "uri": "/reference/395769c5-1d9b-40fc-adae-4c4c26b00fbe"
+}

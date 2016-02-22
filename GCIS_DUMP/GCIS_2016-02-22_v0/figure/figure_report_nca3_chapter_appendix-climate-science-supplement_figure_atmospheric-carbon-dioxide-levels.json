@@ -1,0 +1,96 @@
+{
+    "attributes": null,
+    "caption": "Air bubbles trapped in an Antarctic ice core extending back 800,000 years document the atmosphere\u2019s changing carbon dioxide concentration. Over long periods, natural factors have caused atmospheric CO 2 concentrations to vary between about 170 to 300 parts per million (ppm). As a result of human activities since the Industrial Revolution, CO 2 levels have increased to 400 ppm, higher than any time in at least the last one million years. By 2100, additional emissions from human activities are projected to increase CO 2 levels to 420 ppm under a very low scenario, which would require immediate and sharp emissions reductions (RCP 2.6), and 935 ppm under a higher scenario, which assumes continued increases in emissions (RCP 8.5). This figure shows the historical composite CO 2 record based on measurements from the EPICA (European Project for Ice Coring in Antarctica) Dome C and Dronning Maud Land sites and from the Vostok station.",
+    "chapter": {
+        "doi": "10.7930/J0KS6PHH",
+        "identifier": "appendix-climate-science-supplement",
+        "number": 33,
+        "report_identifier": "nca3",
+        "sort_key": 330,
+        "title": "Appendix 3: Climate Science Supplement",
+        "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement"
+    },
+    "chapter_identifier": "appendix-climate-science-supplement",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/3758.json",
+            "id": 3758,
+            "organization": {
+                "country_code": "US",
+                "identifier": "texas-tech-university",
+                "name": "Texas Tech University",
+                "organization_type_identifier": "academic",
+                "url": "http://www.ttu.edu"
+            },
+            "organization_uri": "/organization/texas-tech-university",
+            "person": {
+                "first_name": "Katharine",
+                "id": 1024,
+                "last_name": "Hayhoe",
+                "middle_name": null,
+                "orcid": "0000-0003-3625-1402",
+                "url": "http://www.katharinehayhoe.com/"
+            },
+            "person_id": 1024,
+            "person_uri": "/person/1024",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/3758"
+        }
+    ],
+    "create_dt": "2013-10-23T15:17:00",
+    "files": [
+        {
+            "file": "89/7a/10ab4c1d0bd5914e474c70d5837d/APP_CO2_levels_V4.png",
+            "href": "http://data.globalchange.gov/assets/89/7a/10ab4c1d0bd5914e474c70d5837d/APP_CO2_levels_V4.png",
+            "identifier": "a3cc4ef1-1c0a-4e5a-8860-7df8d8e1f847",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "c4a2000a00cc5d072cec5dbb59c35c512b7b2bc1",
+            "size": 85235,
+            "thumbnail": "89/7a/10ab4c1d0bd5914e474c70d5837d/.thumb-a3cc4ef1-1c0a-4e5a-8860-7df8d8e1f847.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/89/7a/10ab4c1d0bd5914e474c70d5837d/.thumb-a3cc4ef1-1c0a-4e5a-8860-7df8d8e1f847.png",
+            "uri": "/file/a3cc4ef1-1c0a-4e5a-8860-7df8d8e1f847",
+            "url": "/assets/89/7a/10ab4c1d0bd5914e474c70d5837d/APP_CO2_levels_V4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-climate-science-supplement/figure/atmospheric-carbon-dioxide-levels.json",
+    "identifier": "atmospheric-carbon-dioxide-levels",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-10-23T15:17:00",
+            "description": null,
+            "identifier": "8f0eba22-984f-44b7-8967-e0532c9ef3b0",
+            "lat_max": "90.00",
+            "lat_min": "-90.00",
+            "lon_max": "180.00",
+            "lon_min": "-180.00",
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Atmospheric Carbon Dioxide Levels",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 5,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Atmospheric Carbon Dioxide Levels",
+    "uri": "/report/nca3/chapter/appendix-climate-science-supplement/figure/atmospheric-carbon-dioxide-levels",
+    "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/atmospheric-carbon-dioxide-levels",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

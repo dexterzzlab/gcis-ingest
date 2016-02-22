@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Sitch, S.\rHuntingford, C.\rGedney, N.\rLevy, P. E.\rLomas, M.\rPiao, S. L.\rBetts, R.\rCiais, P.\rCox, P.\rFriedlingstein, P.\rJones, C. D.\rPrentice, I. C.\rWoodward, F. I.",
+        "DOI": "10.1111/j.1365-2486.2008.01626.x",
+        "Date": "Sep",
+        "ISSN": "1354-1013",
+        "Issue": "9",
+        "Journal": "Global Change Biology",
+        "Label": "IN",
+        "Pages": "2015-2039",
+        "Title": "Evaluation of the terrestrial carbon cycle, future plant geography and climate-carbon cycle feedbacks using five Dynamic Global Vegetation Models (DGVMs)",
+        "Volume": "14",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "2860",
+        "_uuid": "d1806c0e-86c7-4fae-bec5-7f63677976e1",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1365-2486.2008.01626.x",
+    "href": "http://data.globalchange.gov/reference/d1806c0e-86c7-4fae-bec5-7f63677976e1.json",
+    "identifier": "d1806c0e-86c7-4fae-bec5-7f63677976e1",
+    "uri": "/reference/d1806c0e-86c7-4fae-bec5-7f63677976e1"
+}

@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/acwi-nationalframework-2013.json",
+    "identifier": "acwi-nationalframework-2013",
+    "in_library": null,
+    "publication_year": 2013,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "A National Framework for Ground-Water Monitoring in the U.S.",
+    "topic": null,
+    "uri": "/report/acwi-nationalframework-2013",
+    "url": "http://acwi.gov/sogw/ngwmn_framework_report_july2013.pdf"
+}

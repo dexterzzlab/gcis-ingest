@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "IMO,",
+        "Institution": "International Maritime organization",
+        "Pages": "12",
+        "Place Published": "London, UK",
+        "Title": "IMO\u2019s Contribution to Sustainable Maritime Development: Capacity-Building for Safe, Secure and Efficient Shipping on Clean Oceans Through the Integrated Technical Co-Operation Programme",
+        "URL": "http://www.imo.org/OurWork/TechnicalCooperation/Documents/Brochure/English.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "875",
+        "_uuid": "23a962d4-10a1-4eaa-bbbc-5ba649d0392f",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/imo-capacity-2012",
+    "href": "http://data.globalchange.gov/reference/23a962d4-10a1-4eaa-bbbc-5ba649d0392f.json",
+    "identifier": "23a962d4-10a1-4eaa-bbbc-5ba649d0392f",
+    "uri": "/reference/23a962d4-10a1-4eaa-bbbc-5ba649d0392f"
+}

@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Huntington, Justin L.\rNiswonger, Richard G.",
+        "DOI": "10.1029/2012wr012319",
+        "ISSN": "1944-7973",
+        "Issue": "11",
+        "Journal": "Water Resources Research",
+        "Keywords": "climate change\rfuture streamflow and baseflows\rgroundwater recharge\rintegrated modeling\rsnowmelt\rsurface and groundwater interactions\r1807 Climate impacts\r1830 Groundwater/surface water interaction\r1833 Hydroclimatology\r1847 Modeling",
+        "Pages": "W11524",
+        "Title": "Role of surface-water and groundwater interactions on projected summertime streamflow in snow dominated regions: An integrated modeling approach",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2012WR012319/pdf",
+        "Volume": "48",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "4122",
+        "_uuid": "f9880a6c-7860-448e-96d6-b335ac402583",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2012wr012319",
+    "href": "http://data.globalchange.gov/reference/f9880a6c-7860-448e-96d6-b335ac402583.json",
+    "identifier": "f9880a6c-7860-448e-96d6-b335ac402583",
+    "uri": "/reference/f9880a6c-7860-448e-96d6-b335ac402583"
+}

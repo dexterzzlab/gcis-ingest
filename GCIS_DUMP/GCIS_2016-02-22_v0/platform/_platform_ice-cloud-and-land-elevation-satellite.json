@@ -1,0 +1,12 @@
+{
+    "description": "ICESat is a NASA/GSFC mission within the ESE (Earth Science Enterprise) program. The prime objective is to monitor the mass balance of the polar ice sheets and their contributions to global sea level change. Secondary goals are to measure cloud heights and the vertical structure of clouds and aerosols in the atmosphere, further to measure roughness, reflectivity, vegetation heights, snow-cover, and sea-ice surface characteristics, and to map topography of land surfaces. Note: ICESat is the renamed former \u201cLaser Altimetry-1\u201d mission.",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/i/icesat",
+    "end_date": "2010-08-14T00:00:00",
+    "href": "http://data.globalchange.gov/platform/ice-cloud-and-land-elevation-satellite.json",
+    "identifier": "ice-cloud-and-land-elevation-satellite",
+    "name": "Ice, Cloud, and Land Elevation Satellite",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "2003-01-12T00:00:00",
+    "uri": "/platform/ice-cloud-and-land-elevation-satellite",
+    "url": "http://icesat.gsfc.nasa.gov/"
+}

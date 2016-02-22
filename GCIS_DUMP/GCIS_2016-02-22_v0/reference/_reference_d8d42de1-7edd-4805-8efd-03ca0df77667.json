@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Nelson, D.R.",
+        "DOI": "10.1002/wcc.91",
+        "ISSN": "1757-7799",
+        "Issue": "1",
+        "Journal": "Wiley Interdisciplinary Reviews: Climate Change",
+        "Pages": "113-120",
+        "Title": "Adaptation and resilience: Responding to a changing climate",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1002/wcc.91/pdf",
+        "Volume": "2",
+        "Year": "2011",
+        "_chapter": "[\"RG 9 Rural\",\"Ch. 14: Rural Communities FINAL\"]",
+        "_record_number": "2193",
+        "_uuid": "d8d42de1-7edd-4805-8efd-03ca0df77667",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/wcc.91",
+    "href": "http://data.globalchange.gov/reference/d8d42de1-7edd-4805-8efd-03ca0df77667.json",
+    "identifier": "d8d42de1-7edd-4805-8efd-03ca0df77667",
+    "uri": "/reference/d8d42de1-7edd-4805-8efd-03ca0df77667"
+}

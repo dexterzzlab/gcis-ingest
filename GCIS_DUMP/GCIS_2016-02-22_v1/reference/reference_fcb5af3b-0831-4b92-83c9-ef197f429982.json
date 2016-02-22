@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "Springer Netherlands",
+        ".reference_type": "0",
+        "Alternate Journal": "Climatic Change",
+        "Author": "Heberger, Matthew\rCooley, Heather\rHerrera, Pablo\rGleick, Peter H.\rMoore, Eli",
+        "DOI": "10.1007/s10584-011-0308-1",
+        "Date": "2011/12/01",
+        "ISSN": "0165-0009",
+        "Issue": "1",
+        "Journal": "Climatic Change",
+        "Language": "English",
+        "Pages": "229-249",
+        "Title": "Potential impacts of increased coastal flooding in California due to sea-level rise",
+        "Volume": "109",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "4015",
+        "_uuid": "fcb5af3b-0831-4b92-83c9-ef197f429982",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-011-0308-1",
+    "href": "http://data.globalchange.gov/reference/fcb5af3b-0831-4b92-83c9-ef197f429982.json",
+    "identifier": "fcb5af3b-0831-4b92-83c9-ef197f429982",
+    "uri": "/reference/fcb5af3b-0831-4b92-83c9-ef197f429982"
+}

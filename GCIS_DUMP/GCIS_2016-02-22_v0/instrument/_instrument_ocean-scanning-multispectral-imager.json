@@ -1,0 +1,8 @@
+{
+    "description": "Medium-resolution spectro-radiometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/ocean-scanning-multispectral-imager.json",
+    "identifier": "ocean-scanning-multispectral-imager",
+    "name": "Ocean Scanning Multispectral Imager",
+    "uri": "/instrument/ocean-scanning-multispectral-imager"
+}

@@ -1,0 +1,123 @@
+{
+    "attributes": null,
+    "caption": "Future scenarios of natural gas supply and demand (top left) are generated using an integrated assessment model. This information serves as input (open arrow) to an infrastructure model, which projects required pipeline growth, new storage needs, and other infrastructural changes for each scenario (bottom). Finally, output from climate models (top right) is used to evaluate (shaded arrow) the resilience of each configuration produced by the infrastructure model. This multi-model approach helps to capture the complex dynamics that link human and natural systems. (Source: DOE)",
+    "chapter": {
+        "doi": null,
+        "identifier": "crosscutting-priorities-serve-science-society",
+        "number": 3,
+        "report_identifier": "usgcrp-ocpfy2016",
+        "sort_key": 30,
+        "title": "Crosscutting Priorities to Serve Science and Society ",
+        "url": null
+    },
+    "chapter_identifier": "crosscutting-priorities-serve-science-society",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/4158.json",
+            "id": 4158,
+            "organization": {
+                "country_code": "US",
+                "identifier": "us-department-energy",
+                "name": "U.S. Department of Energy",
+                "organization_type_identifier": "federal",
+                "url": "http://www.energy.gov"
+            },
+            "organization_uri": "/organization/us-department-energy",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "contributing_agency",
+            "uri": "/contributor/4158"
+        }
+    ],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "8b/40/7ac00cfd828a66a3e9a351c5e1fb/HL38_connected-models-energy-sector-DOE.png",
+            "href": "http://data.globalchange.gov/assets/8b/40/7ac00cfd828a66a3e9a351c5e1fb/HL38_connected-models-energy-sector-DOE.png",
+            "identifier": "659cebd6-a063-4fa7-b76a-3150facb9047",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "a2605328f38c8a2c850033aa8f68b848fc114f62",
+            "size": 604443,
+            "thumbnail": "8b/40/7ac00cfd828a66a3e9a351c5e1fb/.thumb-659cebd6-a063-4fa7-b76a-3150facb9047.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/8b/40/7ac00cfd828a66a3e9a351c5e1fb/.thumb-659cebd6-a063-4fa7-b76a-3150facb9047.png",
+            "uri": "/file/659cebd6-a063-4fa7-b76a-3150facb9047",
+            "url": "/assets/8b/40/7ac00cfd828a66a3e9a351c5e1fb/HL38_connected-models-energy-sector-DOE.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2016/chapter/crosscutting-priorities-serve-science-society/figure/modeling-energy-sector-risks-opportunities.json",
+    "identifier": "modeling-energy-sector-risks-opportunities",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": null,
+            "description": null,
+            "identifier": "1f3328a2-12ce-4f58-8ccd-4befefbec769",
+            "lat_max": "49.371742",
+            "lat_min": "24.545219",
+            "lon_max": "-66.957802",
+            "lon_min": "-124.762146",
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Climate model projections",
+            "url": null,
+            "usage_limits": "Free to use with credit to the original figure source."
+        },
+        {
+            "attributes": null,
+            "create_dt": null,
+            "description": null,
+            "identifier": "06db4824-5025-4964-9856-a14de61f9a9d",
+            "lat_max": "49.371742",
+            "lat_min": "24.545219",
+            "lon_max": "-66.957802",
+            "lon_min": "-124.762146",
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Future scenarios of natural gas supply and demand ",
+            "url": null,
+            "usage_limits": "Free to use with credit to the original figure source."
+        },
+        {
+            "attributes": null,
+            "create_dt": null,
+            "description": null,
+            "identifier": "69fe42db-b4fd-4902-a3c9-6a5f36764c16",
+            "lat_max": "49.371742",
+            "lat_min": "24.545219",
+            "lon_max": "-66.957802",
+            "lon_min": "-124.762146",
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "An infrastructure model projection of required pipeline growth",
+            "url": null,
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": "49.371742",
+    "lat_min": "24.545219",
+    "lon_max": "-66.957802",
+    "lon_min": "-124.762146",
+    "ordinal": 25,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2016",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Modeling energy sector risks and opportunities",
+    "uri": "/report/usgcrp-ocpfy2016/chapter/crosscutting-priorities-serve-science-society/figure/modeling-energy-sector-risks-opportunities",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

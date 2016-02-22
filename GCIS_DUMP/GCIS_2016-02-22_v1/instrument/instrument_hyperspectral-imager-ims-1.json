@@ -1,0 +1,8 @@
+{
+    "description": "Multi-purpose imaging Vis/IR radiometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/hyperspectral-imager-ims-1.json",
+    "identifier": "hyperspectral-imager-ims-1",
+    "name": "Hyperspectral Imager (IMS-1)",
+    "uri": "/instrument/hyperspectral-imager-ims-1"
+}

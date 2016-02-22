@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Mills, J.N.\rGage, K.L.\rKhan, A.S.",
+        "DOI": "10.1289/ehp.0901389",
+        "Issue": "11",
+        "Journal": "Environmental Health Perspectives",
+        "Pages": "1507-1514",
+        "Title": "Potential influence of climate change on vector-borne and zoonotic diseases: A review and proposed research plan",
+        "URL": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2974686/",
+        "Volume": "118",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "2041",
+        "_uuid": "8af8019f-cb74-439e-9d95-f5febef01d2f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1289/ehp.0901389",
+    "href": "http://data.globalchange.gov/reference/8af8019f-cb74-439e-9d95-f5febef01d2f.json",
+    "identifier": "8af8019f-cb74-439e-9d95-f5febef01d2f",
+    "uri": "/reference/8af8019f-cb74-439e-9d95-f5febef01d2f"
+}

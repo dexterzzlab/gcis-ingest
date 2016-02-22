@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2012",
+        "Author": "IWR,",
+        "Publisher": "Institute for Water Resources, U.S. Army Corps of Engineers",
+        "Title": "Shared Vision Planning",
+        "URL": "http://www.sharedvisionplanning.us/",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4038",
+        "_uuid": "1cb22855-dae4-4bd7-9618-af542e705eef",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/dbae9ffc-7721-4ced-98cf-74514a8b037b",
+    "href": "http://data.globalchange.gov/reference/1cb22855-dae4-4bd7-9618-af542e705eef.json",
+    "identifier": "1cb22855-dae4-4bd7-9618-af542e705eef",
+    "uri": "/reference/1cb22855-dae4-4bd7-9618-af542e705eef"
+}

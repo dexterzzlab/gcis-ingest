@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-07T16:26:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Annual and seasonal streamflow projections based on the B1 (with substantial emissions reductions), A1B (with gradual\u00a0reductions from current emission trends beginning around mid-century), and A2 (with continuation of current rising emissions trends) CMIP3 scenarios for eight river basins in the western United States. The panels show percentage changes in average runoff, with projected increases above the zero line and decreases below. Projections are for annual, cool, and warm seasons, for three future decades (2020s, 2050s, and 2070s) relative to the 1990s. (Source: U.S. Department of the Interior \u2013 Bureau of Reclamation 2011;<tbib>67b69161-5101-418a-a6c9-1b6a80773305</tbib> Data provided by L. Brekke, S. Gangopadhyay, and T. Pruitt)",
+            "chapter_identifier": "water-resources",
+            "create_dt": "2013-11-07T16:26:00",
+            "identifier": "streamflow-projections-for-river-basins-in-the-western-us",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 4,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Streamflow Projections for River Basins in the Western U.S.",
+            "url": "http://nca2014.globalchange.gov/report/sectors/water/graphics/streamflow-projections-river-basins-western-us",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "58/25/2d165fad8996d218d9d765d17535/water_fig3-4_graph-c.png",
+            "href": "http://data.globalchange.gov/assets/58/25/2d165fad8996d218d9d765d17535/water_fig3-4_graph-c.png",
+            "identifier": "878a08ad-7720-46eb-ac80-26c5f66ee912",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "db4282ff38a71fbd64a753a2a14ae5218bfe1970",
+            "size": 24159,
+            "thumbnail": "58/25/2d165fad8996d218d9d765d17535/.thumb-878a08ad-7720-46eb-ac80-26c5f66ee912.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/58/25/2d165fad8996d218d9d765d17535/.thumb-878a08ad-7720-46eb-ac80-26c5f66ee912.png",
+            "uri": "/file/878a08ad-7720-46eb-ac80-26c5f66ee912",
+            "url": "/assets/58/25/2d165fad8996d218d9d765d17535/water_fig3-4_graph-c.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/acbfae5a-767e-4916-98d9-b467dd567872.json",
+    "identifier": "acbfae5a-767e-4916-98d9-b467dd567872",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2070-12-31T23:59:59",
+    "time_start": "1990-01-01T00:00:00",
+    "title": "Streamflow Projections for River Basins in the Western U.S. - Sacramento-San Joaquin Rivers at Delta",
+    "uri": "/image/acbfae5a-767e-4916-98d9-b467dd567872",
+    "url": null,
+    "usage_limits": null
+}

@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Analyses by NPS, USGS, USDA Forest Service, and the University of California provide data to Sequoia, Kings Canyon, and Yosemite National Parks and Sequoia National Forest to adapt fire management under climate change. Photo by Patrick Gonzales. ",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "68/b8/5336b6ce44e591456d5eb14595bd/OCP_2013_Page_23_Image_0001.jpg",
+            "href": "http://data.globalchange.gov/assets/68/b8/5336b6ce44e591456d5eb14595bd/OCP_2013_Page_23_Image_0001.jpg",
+            "identifier": "d809cbde-073b-4bb7-b56f-057c94f75cfc",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "9a6b852d1086ef30abc205824a5fd22afaa26bd6",
+            "size": 425626,
+            "thumbnail": "68/b8/5336b6ce44e591456d5eb14595bd/.thumb-d809cbde-073b-4bb7-b56f-057c94f75cfc.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/68/b8/5336b6ce44e591456d5eb14595bd/.thumb-d809cbde-073b-4bb7-b56f-057c94f75cfc.png",
+            "uri": "/file/d809cbde-073b-4bb7-b56f-057c94f75cfc",
+            "url": "/assets/68/b8/5336b6ce44e591456d5eb14595bd/OCP_2013_Page_23_Image_0001.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2013/figure/redwoods-in-california.json",
+    "identifier": "redwoods-in-california",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2013",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Redwoods in California",
+    "uri": "/report/usgcrp-ocpfy2013/figure/redwoods-in-california",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

@@ -1,0 +1,70 @@
+{
+    "attributes": "Temperature, projections, extremes, CMIP5, RCP 8.5",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-04-28T13:39:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Change in surface air temperature at the end of this century (2081-2100) relative to the turn of the last century (1986-2005) on the coldest and hottest days under a scenario that assumes a rapid reduction in heat trapping gases (RCP 2.6) and a scenario that assumes continued increases in these gases (RCP 8.5). This figure shows estimated changes in the average temperature of the hottest and coldest days in each 20-year period. In other words, the hottest days will get even hotter, and the coldest days will be less cold. (Figure source: NOAA NCDC / CICS-NC).",
+            "chapter_identifier": "our-changing-climate",
+            "create_dt": "2014-04-28T13:39:52",
+            "identifier": "projected-temperature-change-of-hottest-and-coldest-days",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 20,
+            "report_identifier": "nca3",
+            "source_citation": "NOAA NCDC / CICS-NC",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Projected Temperature Change of Hottest and Coldest Days",
+            "url": "http://nca2014.globalchange.gov/report/our-changing-climate/extreme-weather/graphics/projected-temperature-change-hottest-and",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "d0/f2/be405883e28f66ca98eb979530dc/2-20_b.png",
+            "href": "http://data.globalchange.gov/assets/d0/f2/be405883e28f66ca98eb979530dc/2-20_b.png",
+            "identifier": "58f75ccc-5f25-4efd-8a53-4c684e520dcc",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "cf7f305dfbee69bf64dabb4a2df9dba31f1e8407",
+            "size": 174301,
+            "thumbnail": "d0/f2/be405883e28f66ca98eb979530dc/.thumb-58f75ccc-5f25-4efd-8a53-4c684e520dcc.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/d0/f2/be405883e28f66ca98eb979530dc/.thumb-58f75ccc-5f25-4efd-8a53-4c684e520dcc.png",
+            "uri": "/file/58f75ccc-5f25-4efd-8a53-4c684e520dcc",
+            "url": "/assets/d0/f2/be405883e28f66ca98eb979530dc/2-20_b.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/f42c43dd-73d0-4b22-b479-690d3fd96812.json",
+    "identifier": "f42c43dd-73d0-4b22-b479-690d3fd96812",
+    "lat_max": "72",
+    "lat_min": "18",
+    "lon_max": "-66",
+    "lon_min": "-169",
+    "parents": [
+        {
+            "activity_uri": "/activity/f42c43dd-nca3-cmip5-r1-process",
+            "label": "dataset nca3-cmip5-r1",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-cmip5-r1"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2100-12-31T23:59:59",
+    "time_start": "1986-01-01T00:00:00",
+    "title": "Projected Temperature Change of Hottest and Coldest Days: Coldest Days - Continued Emissions Increases (RCP 8.5)",
+    "uri": "/image/f42c43dd-73d0-4b22-b479-690d3fd96812",
+    "url": null,
+    "usage_limits": null
+}

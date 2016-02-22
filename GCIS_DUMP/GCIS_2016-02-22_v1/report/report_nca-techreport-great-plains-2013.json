@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/nca-techreport-great-plains-2013.json",
+    "identifier": "nca-techreport-great-plains-2013",
+    "in_library": null,
+    "publication_year": 2012,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Great Plains Regional Climate Assessment Technical Report: a Report Prepared for the National Climate Assessment",
+    "topic": null,
+    "uri": "/report/nca-techreport-great-plains-2013",
+    "url": "http://downloads.globalchange.gov/nca/technical_inputs/Great_Plains_technical_input.pdf"
+}

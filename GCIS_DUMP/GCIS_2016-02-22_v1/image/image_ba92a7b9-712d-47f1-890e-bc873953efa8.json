@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-08-02T10:55:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "This figure summarizes results of measurements taken from satellites of the amount of energy coming in to and going out of Earth\u2019s climate system. It demonstrates that our scientific understanding of how the greenhouse effect operates, is, in fact, accurate, based on real world measurements. (Figure source: modified from Stephens et al. 2012<tbib>8e72ae73-6d3e-4995-8c96-764a82c9e6fb</tbib>).",
+            "chapter_identifier": "appendix-climate-science-supplement",
+            "create_dt": "2013-08-02T10:55:00",
+            "identifier": "earths-energy-balance",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 2,
+            "report_identifier": "nca3",
+            "source_citation": "modified from Stephens et al. 2012<tbib>8e72ae73-6d3e-4995-8c96-764a82c9e6fb</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Earth\u2019s Energy Balance",
+            "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/earth%E2%80%99s-energy-balance",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "bb/75/8b65f69a4c85237b57f5a9bc6d1b/app_energy_balance_v1_0.png",
+            "href": "http://data.globalchange.gov/assets/bb/75/8b65f69a4c85237b57f5a9bc6d1b/app_energy_balance_v1_0.png",
+            "identifier": "63afd119-e7f4-4ad8-bd14-14b477a4c21e",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "5f635f7b8638155bf73b3a4bc94b951bb2dfd8ad",
+            "size": 142211,
+            "thumbnail": "bb/75/8b65f69a4c85237b57f5a9bc6d1b/.thumb-63afd119-e7f4-4ad8-bd14-14b477a4c21e.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/bb/75/8b65f69a4c85237b57f5a9bc6d1b/.thumb-63afd119-e7f4-4ad8-bd14-14b477a4c21e.png",
+            "uri": "/file/63afd119-e7f4-4ad8-bd14-14b477a4c21e",
+            "url": "/assets/bb/75/8b65f69a4c85237b57f5a9bc6d1b/app_energy_balance_v1_0.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/ba92a7b9-712d-47f1-890e-bc873953efa8.json",
+    "identifier": "ba92a7b9-712d-47f1-890e-bc873953efa8",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Earth\u2019s Energy Balance",
+    "uri": "/image/ba92a7b9-712d-47f1-890e-bc873953efa8",
+    "url": null,
+    "usage_limits": null
+}

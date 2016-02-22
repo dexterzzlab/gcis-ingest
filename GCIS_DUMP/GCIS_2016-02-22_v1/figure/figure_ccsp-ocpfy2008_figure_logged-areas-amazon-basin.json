@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Spatial distribution and intensity of selectively logged areas summarized into 25 by 25 km grid cells in 1992, 1996, and 1999 for the Amazon Basin of Brazil. Credit: E.A.T. Matricardi, D.L. Skole, and W.H. Chomentowski, Michigan State University; M.A. Cochrane, South Dakota State University; and M. Pedlowski, Universidade Estadual do Norte Fluminense Darcy Ribeiro, Brazil (reproduced from the International Journal of Remote Sensing with permission from the publisher Taylor & Francis Group).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "d5/26/f0daca984f0d828ac4ec48271679/our_changing_planet_2008_74_20090708_1231302642.jpg",
+            "href": "http://data.globalchange.gov/assets/d5/26/f0daca984f0d828ac4ec48271679/our_changing_planet_2008_74_20090708_1231302642.jpg",
+            "identifier": "7324bfc2-bb55-4ff5-960b-0a00b0240b5a",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "5d14eb90dd3b02814edf8b956a3bfaa6d2b7479e",
+            "size": 44476,
+            "thumbnail": "d5/26/f0daca984f0d828ac4ec48271679/.thumb-7324bfc2-bb55-4ff5-960b-0a00b0240b5a.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/d5/26/f0daca984f0d828ac4ec48271679/.thumb-7324bfc2-bb55-4ff5-960b-0a00b0240b5a.png",
+            "uri": "/file/7324bfc2-bb55-4ff5-960b-0a00b0240b5a",
+            "url": "/assets/d5/26/f0daca984f0d828ac4ec48271679/our_changing_planet_2008_74_20090708_1231302642.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2008/figure/logged-areas-amazon-basin.json",
+    "identifier": "logged-areas-amazon-basin",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2008",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Logged Areas in the Amazon Basin",
+    "uri": "/report/ccsp-ocpfy2008/figure/logged-areas-amazon-basin",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "American Public Health Association",
+        ".reference_type": "0",
+        "Access Date": "2013/08/05",
+        "Author": "Hajat, Shakoor\rSheridan, Scott C.\rAllen, Michael J.\rPascal, Mathilde\rLaaidi, Karine\rYagouti, Abderrahmane\rBickis, Ugis\rTobias, Aurelio\rBourque, Denis\rArmstrong, Ben G.\rKosatsky, Tom",
+        "DOI": "10.2105/ajph.2009.169748",
+        "Date": "2010/06/01",
+        "ISSN": "0090-0036",
+        "Issue": "6",
+        "Journal": "American Journal of Public Health",
+        "Pages": "1137-1144",
+        "Title": "Heat\u2013health warning systems: A comparison of the predictive capacity of different approaches to identifying dangerously hot days",
+        "URL": "http://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.2009.169748",
+        "Volume": "100",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "4205",
+        "_uuid": "bf95b49e-19d1-4fce-9ee5-1f3018da768a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.2105/ajph.2009.169748",
+    "href": "http://data.globalchange.gov/reference/bf95b49e-19d1-4fce-9ee5-1f3018da768a.json",
+    "identifier": "bf95b49e-19d1-4fce-9ee5-1f3018da768a",
+    "uri": "/reference/bf95b49e-19d1-4fce-9ee5-1f3018da768a"
+}

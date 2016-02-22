@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "McNeeley, Shannon M.\rShulski, Martha D.",
+        "DOI": "10.1016/j.gloenvcha.2011.02.003",
+        "ISSN": "09593780",
+        "Issue": "2",
+        "Journal": "Global Environmental Change",
+        "Keywords": "Human health",
+        "Pages": "464-473",
+        "Title": "Anatomy of a closing window: Vulnerability to changing seasonality in Interior Alaska",
+        "Volume": "21",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "1965",
+        "_uuid": "d361b64c-5fef-4358-bb52-d1017726e75f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.gloenvcha.2011.02.003",
+    "href": "http://data.globalchange.gov/reference/d361b64c-5fef-4358-bb52-d1017726e75f.json",
+    "identifier": "d361b64c-5fef-4358-bb52-d1017726e75f",
+    "uri": "/reference/d361b64c-5fef-4358-bb52-d1017726e75f"
+}

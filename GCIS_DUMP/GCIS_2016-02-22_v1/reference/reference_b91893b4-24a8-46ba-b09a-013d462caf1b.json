@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Wuebbles, D.J.\rG. Meehl\rK. Hayhoe\rT. R. Karl\rK. Kunkel\rB. Santer\rM. Wehner\rB. Colle\rE. M. Fischer\rR. Fu\rA. Goodman\rE. Janssen\rH. Lee\rW. Li\rL. N. Long\rS. Olsen\rA.J. Sheffield\rL. Sun",
+        "DOI": "10.1175/BAMS-D-12-00172.1",
+        "ISSN": "1520-0477 ",
+        "Journal": "Bulletin of the American Meteorological Society",
+        "Title": "CMIP5 climate model analyses: Climate extremes in the United States",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/BAMS-D-12-00172.1",
+        "Volume": "in press",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "3493",
+        "_uuid": "b91893b4-24a8-46ba-b09a-013d462caf1b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/BAMS-D-12-00172.1",
+    "href": "http://data.globalchange.gov/reference/b91893b4-24a8-46ba-b09a-013d462caf1b.json",
+    "identifier": "b91893b4-24a8-46ba-b09a-013d462caf1b",
+    "uri": "/reference/b91893b4-24a8-46ba-b09a-013d462caf1b"
+}

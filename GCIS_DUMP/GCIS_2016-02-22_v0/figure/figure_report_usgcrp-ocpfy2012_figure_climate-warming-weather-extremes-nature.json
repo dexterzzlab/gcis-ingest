@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Climate warming and weather extremes studies highlighted in Nature Magazine. The Nature cover featuring the results of two studies highlights the significant effects of anthropogenic activities on observed trends in temperature and mean precipitation. The studies are among the first to formally identify the human fingerprint on extreme precipitation.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "d3/07/41768964f899ebb98ed9dfab0e3d/OCP_2012_Page_24_Image_0003.jpg",
+            "href": "http://data.globalchange.gov/assets/d3/07/41768964f899ebb98ed9dfab0e3d/OCP_2012_Page_24_Image_0003.jpg",
+            "identifier": "6859608e-b37d-498b-9c45-3ef49b041ea6",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "13c823365fde287f081f2f612de658f09a5f437c",
+            "size": 28858,
+            "thumbnail": "d3/07/41768964f899ebb98ed9dfab0e3d/.thumb-6859608e-b37d-498b-9c45-3ef49b041ea6.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/d3/07/41768964f899ebb98ed9dfab0e3d/.thumb-6859608e-b37d-498b-9c45-3ef49b041ea6.png",
+            "uri": "/file/6859608e-b37d-498b-9c45-3ef49b041ea6",
+            "url": "/assets/d3/07/41768964f899ebb98ed9dfab0e3d/OCP_2012_Page_24_Image_0003.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2012/figure/climate-warming-weather-extremes-nature.json",
+    "identifier": "climate-warming-weather-extremes-nature",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2012",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Climate Warming and Weather Extremes in Nature",
+    "uri": "/report/usgcrp-ocpfy2012/figure/climate-warming-weather-extremes-nature",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Carson, S. T., \rB. E. Montz",
+        "DOI": "10.3763/ehaz.2009.0009",
+        "Issue": "2",
+        "Journal": "Environmental Hazards",
+        "Pages": "133-148",
+        "Title": "Planning for climate change: An analysis of vulnerability in Suffolk County, New York",
+        "Volume": "8",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "1272",
+        "_uuid": "049dbf14-7554-450f-95f5-f412fbebddf3",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.3763/ehaz.2009.0009",
+    "href": "http://data.globalchange.gov/reference/049dbf14-7554-450f-95f5-f412fbebddf3.json",
+    "identifier": "049dbf14-7554-450f-95f5-f412fbebddf3",
+    "uri": "/reference/049dbf14-7554-450f-95f5-f412fbebddf3"
+}

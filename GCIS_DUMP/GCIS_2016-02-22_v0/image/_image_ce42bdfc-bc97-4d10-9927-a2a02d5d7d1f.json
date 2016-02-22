@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-20T17:59:54",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Flooded subway tracks in Coney Island after Hurricane Irene. (Photo credit: Metropolitan Transportation\r\n    Authority of the State of New York 2011).",
+            "chapter_identifier": "northeast",
+            "create_dt": "2013-11-20T17:59:54",
+            "identifier": "coney-island-after-hurricane-irene",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 6,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Coney Island after Hurricane Irene",
+            "url": "http://nca2014.globalchange.gov/report/regions/northeast/graphics/coney-island-after-hurricane-irene",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "fc/13/598aeee1aa127de6e4642386635e/ne_flooded_subway_tracks_v3.png",
+            "href": "http://data.globalchange.gov/assets/fc/13/598aeee1aa127de6e4642386635e/ne_flooded_subway_tracks_v3.png",
+            "identifier": "bd3d8e4f-f2e4-4151-85f9-b7e19dfd63e0",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "2a926719a72ca5be7322f231d4f7725e89e51533",
+            "size": 125969,
+            "thumbnail": "fc/13/598aeee1aa127de6e4642386635e/.thumb-bd3d8e4f-f2e4-4151-85f9-b7e19dfd63e0.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/fc/13/598aeee1aa127de6e4642386635e/.thumb-bd3d8e4f-f2e4-4151-85f9-b7e19dfd63e0.png",
+            "uri": "/file/bd3d8e4f-f2e4-4151-85f9-b7e19dfd63e0",
+            "url": "/assets/fc/13/598aeee1aa127de6e4642386635e/ne_flooded_subway_tracks_v3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/ce42bdfc-bc97-4d10-9927-a2a02d5d7d1f.json",
+    "identifier": "ce42bdfc-bc97-4d10-9927-a2a02d5d7d1f",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Coney Island after Hurricane Irene",
+    "uri": "/image/ce42bdfc-bc97-4d10-9927-a2a02d5d7d1f",
+    "url": null,
+    "usage_limits": null
+}

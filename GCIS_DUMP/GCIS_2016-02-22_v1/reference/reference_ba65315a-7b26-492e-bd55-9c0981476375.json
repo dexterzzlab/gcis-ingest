@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2012",
+        "Author": "MTA,",
+        "Place Published": "New York, New York",
+        "Publisher": "State of New York, Metropolitan Transportation Authority",
+        "Title": "MTA Service Advisory",
+        "URL": "http://alert.mta.info/",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 5: Transportation FINAL\"]",
+        "_record_number": "2009",
+        "_uuid": "ba65315a-7b26-492e-bd55-9c0981476375",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/eb7f4a33-5678-4488-8519-d07a132bab77",
+    "href": "http://data.globalchange.gov/reference/ba65315a-7b26-492e-bd55-9c0981476375.json",
+    "identifier": "ba65315a-7b26-492e-bd55-9c0981476375",
+    "uri": "/reference/ba65315a-7b26-492e-bd55-9c0981476375"
+}

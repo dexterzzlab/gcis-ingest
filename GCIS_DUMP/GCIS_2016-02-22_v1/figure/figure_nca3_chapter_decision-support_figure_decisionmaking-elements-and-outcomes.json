@@ -1,0 +1,96 @@
+{
+    "attributes": null,
+    "caption": "Decisions take place within a complex context. Decision support processes and tools can help structure decision-making, organize and analyze information, and build consensus around options for action.",
+    "chapter": {
+        "doi": "10.7930/J0H12ZXG",
+        "identifier": "decision-support",
+        "number": 26,
+        "report_identifier": "nca3",
+        "sort_key": 260,
+        "title": "Decision Support: Connecting Science, Risk Perception, and Decisions",
+        "url": "http://nca2014.globalchange.gov/report/response-strategies/decision-support"
+    },
+    "chapter_identifier": "decision-support",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/1922.json",
+            "id": 1922,
+            "organization": {
+                "country_code": "US",
+                "identifier": "university-corporation-atmospheric-research",
+                "name": "University Corporation for Atmospheric Research",
+                "organization_type_identifier": "research",
+                "url": "http://www2.ucar.edu/"
+            },
+            "organization_uri": "/organization/university-corporation-atmospheric-research",
+            "person": {
+                "first_name": "Emily Therese",
+                "id": 1036,
+                "last_name": "Cloyd",
+                "middle_name": null,
+                "orcid": "0000-0003-1277-1702",
+                "url": "http://www.globalchange.gov/about/staff/emily-therese-cloyd.html"
+            },
+            "person_id": 1036,
+            "person_uri": "/person/1036",
+            "role_type_identifier": "contributing_author",
+            "uri": "/contributor/1922"
+        }
+    ],
+    "create_dt": "2014-03-14T12:57:00",
+    "files": [
+        {
+            "file": "f2/21/118a390909f74e3c137e3ccdb2ce/DS_decision-context_V3.png",
+            "href": "http://data.globalchange.gov/assets/f2/21/118a390909f74e3c137e3ccdb2ce/DS_decision-context_V3.png",
+            "identifier": "ee6efb19-66ea-4333-8199-2019ea297489",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "582cef3c241ef845916ce2c732dc9a7d6eb15f7e",
+            "size": 323374,
+            "thumbnail": "f2/21/118a390909f74e3c137e3ccdb2ce/.thumb-ee6efb19-66ea-4333-8199-2019ea297489.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/f2/21/118a390909f74e3c137e3ccdb2ce/.thumb-ee6efb19-66ea-4333-8199-2019ea297489.png",
+            "uri": "/file/ee6efb19-66ea-4333-8199-2019ea297489",
+            "url": "/assets/f2/21/118a390909f74e3c137e3ccdb2ce/DS_decision-context_V3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/decision-support/figure/decisionmaking-elements-and-outcomes.json",
+    "identifier": "decisionmaking-elements-and-outcomes",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2014-03-14T12:57:00",
+            "description": null,
+            "identifier": "524f07cf-220d-46ab-9360-519a2a62cc4e",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Decision-Making Elements and Outcomes",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 1,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Decision-making Elements and Outcomes",
+    "uri": "/report/nca3/chapter/decision-support/figure/decisionmaking-elements-and-outcomes",
+    "url": "http://nca2014.globalchange.gov/highlights/report-findings/responses/graphics/decision-making-elements-and-outcomes",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

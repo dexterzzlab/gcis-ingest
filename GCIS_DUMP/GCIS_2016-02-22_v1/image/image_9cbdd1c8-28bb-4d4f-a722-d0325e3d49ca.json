@@ -1,0 +1,78 @@
+{
+    "attributes": "CONUS, temperature, observed",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-07-25T16:02:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": null,
+            "chapter_identifier": null,
+            "create_dt": null,
+            "identifier": "indicator-us-surface-temperature",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 1,
+            "report_identifier": "indicator-us-surface-temperature",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": "2013-12-31T23:59:59",
+            "time_start": "1895-01-01T00:00:00",
+            "title": null,
+            "url": null,
+            "usage_limits": "Free to use with credit to USGCRP."
+        }
+    ],
+    "files": [
+        {
+            "file": "51/8f/3ec4dd752f6f9ff5ec3d542b6fce/annual_surface_temp_contiguous_us_11_3_14.jpg",
+            "href": "http://data.globalchange.gov/assets/51/8f/3ec4dd752f6f9ff5ec3d542b6fce/annual_surface_temp_contiguous_us_11_3_14.jpg",
+            "identifier": "b35e76cf-9886-409c-aba2-c7bed92abd00",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "18afcdb7e15ec163bce012b879d342f0a8d6ad3c",
+            "size": 862011,
+            "thumbnail": "51/8f/3ec4dd752f6f9ff5ec3d542b6fce/.thumb-b35e76cf-9886-409c-aba2-c7bed92abd00.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/51/8f/3ec4dd752f6f9ff5ec3d542b6fce/.thumb-b35e76cf-9886-409c-aba2-c7bed92abd00.png",
+            "uri": "/file/b35e76cf-9886-409c-aba2-c7bed92abd00",
+            "url": "/assets/51/8f/3ec4dd752f6f9ff5ec3d542b6fce/annual_surface_temp_contiguous_us_11_3_14.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/9cbdd1c8-28bb-4d4f-a722-d0325e3d49ca.json",
+    "identifier": "9cbdd1c8-28bb-4d4f-a722-d0325e3d49ca",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [
+        {
+            "activity_uri": "/activity/9cbdd1c8-indicator-us-surface-temperature-process",
+            "label": "dataset noaa-ncdc-cag-us-temperature-nclimdiv",
+            "note": "",
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/noaa-ncdc-cag-us-temperature-nclimdiv"
+        },
+        {
+            "activity_uri": null,
+            "label": "table indicator-us-surface-temperature-data-pilot",
+            "note": "",
+            "publication_type_identifier": "table",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/indicator-us-surface-temperature/table/indicator-us-surface-temperature-data-pilot"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2013-12-31T23:59:59",
+    "time_start": "1895-01-01T00:00:00",
+    "title": null,
+    "uri": "/image/9cbdd1c8-28bb-4d4f-a722-d0325e3d49ca",
+    "url": null,
+    "usage_limits": "Free to use with credit to USGCRP."
+}

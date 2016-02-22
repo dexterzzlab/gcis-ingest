@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Harmon, M.E.\rMoreno, A.\rDomingo, J.B.",
+        "DOI": "10.1007/s10021-009-9256-2",
+        "ISSN": "1432-9840",
+        "Issue": "5",
+        "Journal": "Ecosystems",
+        "Pages": "777-791",
+        "Title": "Effects of partial harvest on the carbon stores in Douglas-fir/western hemlock forests: A simulation study",
+        "Volume": "12",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "610",
+        "_uuid": "979a5a51-50b0-4d09-ab5b-8b906688ba0c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10021-009-9256-2",
+    "href": "http://data.globalchange.gov/reference/979a5a51-50b0-4d09-ab5b-8b906688ba0c.json",
+    "identifier": "979a5a51-50b0-4d09-ab5b-8b906688ba0c",
+    "uri": "/reference/979a5a51-50b0-4d09-ab5b-8b906688ba0c"
+}

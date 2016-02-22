@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "9",
+        "Date": "March 1, 2012",
+        "Editor": "Winkler, Julie\rAndresen, Jeff\rHatfield, Jerry",
+        "Number of Pages": "236",
+        "Title": "Midwest Technical Input Report: Prepared for the US National Climate Assessment",
+        "URL": "http://data.globalchange.gov/report/midwest-technical-input-report",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\",\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "3453",
+        "_uuid": "2626b5ca-ec04-4e41-8405-9f582c779a7a",
+        "reftype": "Edited Book"
+    },
+    "child_publication": null,
+    "href": "http://data.globalchange.gov/reference/2626b5ca-ec04-4e41-8405-9f582c779a7a.json",
+    "identifier": "2626b5ca-ec04-4e41-8405-9f582c779a7a",
+    "uri": "/reference/2626b5ca-ec04-4e41-8405-9f582c779a7a"
+}

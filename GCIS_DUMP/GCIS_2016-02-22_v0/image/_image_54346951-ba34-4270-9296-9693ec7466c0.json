@@ -1,0 +1,95 @@
+{
+    "attributes": "Temperature, projections, CMIP5, RCP 2.6",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/3258.json",
+            "id": 3258,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Andrew",
+                "id": 1948,
+                "last_name": "Buddenberg",
+                "middle_name": null,
+                "orcid": "0000-0003-2047-6527",
+                "url": null
+            },
+            "person_id": 1948,
+            "person_uri": "/person/1948",
+            "role_type_identifier": "analyst",
+            "uri": "/contributor/3258"
+        }
+    ],
+    "create_dt": "2013-11-19T16:38:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "The largest uncertainty in projecting climate change beyond the next few decades is the level of heat-trapping gas emissions. The most recent model projections (CMIP5) take into account a wider range of options with regard to human behavior, including a lower scenario than has been considered before (RCP 2.6). This scenario assumes rapid reductions in emissions \u2013 more than 70% cuts from current levels by 2050 and further large decreases by 2100 \u2013 and the corresponding smaller amount of warming. On the higher end, the scenarios include one that assumes continued increases in emissions (RCP 8.5) and the corresponding greater amount of warming. Also shown are temperature changes for the intermediate scenarios RCP 4.5 (which is most similar to B1) and RCP 6.0 (which is most similar to A1B; see Appendix 3: Climate Science Supplement). Projections show change in average temperature in the later part of this century (2071-2099) relative to the late part of last century (1970-1999). (Figure source: NOAA NCDC / CICS-NC).",
+            "chapter_identifier": "our-changing-climate",
+            "create_dt": "2014-04-09T15:24:54",
+            "identifier": "projected-temperature-change-by-20712099-cmip5-models",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 9,
+            "report_identifier": "nca3",
+            "source_citation": "NOAA NCDC / CICS-NC",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Projected Temperature Change by 2071-2099 (CMIP5 models)",
+            "url": "http://nca2014.globalchange.gov/report/our-changing-climate/recent-us-temperature-trends/graphics/newer-simulations-projected",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "25/fb/eda66c4fa5b4b9c3f188ca5dff1a/2-9_a.png",
+            "href": "http://data.globalchange.gov/assets/25/fb/eda66c4fa5b4b9c3f188ca5dff1a/2-9_a.png",
+            "identifier": "ca79ab44-a5b2-438f-a984-3ceeda481bcb",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "9ecfabde4a733e1c3059cf590dd24afadc828870",
+            "size": 63542,
+            "thumbnail": "25/fb/eda66c4fa5b4b9c3f188ca5dff1a/.thumb-ca79ab44-a5b2-438f-a984-3ceeda481bcb.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/25/fb/eda66c4fa5b4b9c3f188ca5dff1a/.thumb-ca79ab44-a5b2-438f-a984-3ceeda481bcb.png",
+            "uri": "/file/ca79ab44-a5b2-438f-a984-3ceeda481bcb",
+            "url": "/assets/25/fb/eda66c4fa5b4b9c3f188ca5dff1a/2-9_a.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/54346951-ba34-4270-9296-9693ec7466c0.json",
+    "identifier": "54346951-ba34-4270-9296-9693ec7466c0",
+    "lat_max": "71.158",
+    "lat_min": "18.139",
+    "lon_max": "-73.125",
+    "lon_min": "-168.75",
+    "parents": [
+        {
+            "activity_uri": "/activity/54346951-nca3-cmip5-r1-process",
+            "label": "dataset nca3-cmip5-r1",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-cmip5-r1"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2050-12-31T23:59:59",
+    "time_start": "1970-01-01T00:00:00",
+    "title": "Newer Simulations for Projected Temperature (CMIP5 Models): RCP 2.6",
+    "uri": "/image/54346951-ba34-4270-9296-9693ec7466c0",
+    "url": null,
+    "usage_limits": null
+}

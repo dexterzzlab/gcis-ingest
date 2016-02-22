@@ -1,0 +1,136 @@
+{
+    "attributes": null,
+    "caption": "The maps show the current and projected probability of establishment of tick populations (Ixodes scapularis) that transmit Lyme disease. Projections are shown for 2020, 2050, and 2080. The projected expansion of tick habitat includes much of the eastern half of the country by 2080. For some areas around the Gulf Coast, the probability of tick population establishment is projected to decrease by 2080. (Figure source: adapted from Brownstein et al. 2005<tbib>c50c2ea8-a6e8-4d12-80cc-272598748b84</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0PN93H5",
+        "identifier": "human-health",
+        "number": 9,
+        "report_identifier": "nca3",
+        "sort_key": 90,
+        "title": "Human Health",
+        "url": "http://nca2014.globalchange.gov/report/sectors/human-health"
+    },
+    "chapter_identifier": "human-health",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-10-21T13:33:00",
+    "files": [
+        {
+            "file": "a1/4f/16c92c021aec4a1f4105d12ef6aa/health_tick_habitat_V4.png",
+            "href": "http://data.globalchange.gov/assets/a1/4f/16c92c021aec4a1f4105d12ef6aa/health_tick_habitat_V4.png",
+            "identifier": "0db68123-86dd-48ff-8949-e21c57bd6901",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "fb0f00bde83368f0f7a66f5a4f5e37664664440c",
+            "size": 1219095,
+            "thumbnail": "a1/4f/16c92c021aec4a1f4105d12ef6aa/.thumb-0db68123-86dd-48ff-8949-e21c57bd6901.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/a1/4f/16c92c021aec4a1f4105d12ef6aa/.thumb-0db68123-86dd-48ff-8949-e21c57bd6901.png",
+            "uri": "/file/0db68123-86dd-48ff-8949-e21c57bd6901",
+            "url": "/assets/a1/4f/16c92c021aec4a1f4105d12ef6aa/health_tick_habitat_V4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/human-health/figure/projected-changes-in-tick-habitat.json",
+    "identifier": "projected-changes-in-tick-habitat",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-10-21T13:33:00",
+            "description": null,
+            "identifier": "db129c5f-6aed-4f88-a71a-3a0d59849731",
+            "lat_max": "49.38",
+            "lat_min": "24.50",
+            "lon_max": "-66.95",
+            "lon_min": "-124.80",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2080-12-31T23:59:59",
+            "time_start": "2080-01-01T00:00:00",
+            "title": "Changes in Tick Habitat - 2080",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2013-10-21T13:33:00",
+            "description": null,
+            "identifier": "084a6b97-6dc4-4148-99fa-145bbb77f5ea",
+            "lat_max": "49.38",
+            "lat_min": "24.50",
+            "lon_max": "-66.95",
+            "lon_min": "-124.80",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2005-12-31T23:59:59",
+            "time_start": "2005-01-01T00:00:00",
+            "title": "Changes in Tick Habitat - Present",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2013-10-21T13:33:00",
+            "description": null,
+            "identifier": "22cdc95e-f424-44e1-80d0-1df0a2071c4e",
+            "lat_max": "49.38",
+            "lat_min": "24.50",
+            "lon_max": "-66.95",
+            "lon_min": "-124.80",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2020-12-31T23:59:59",
+            "time_start": "2020-01-01T00:00:00",
+            "title": "Changes in Tick Habitat - 2020",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2013-10-21T13:33:00",
+            "description": null,
+            "identifier": "cad82b07-fd81-4099-a4a5-7d59029767ef",
+            "lat_max": "49.38",
+            "lat_min": "24.50",
+            "lon_max": "-66.95",
+            "lon_min": "-124.80",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2050-12-31T23:59:59",
+            "time_start": "2050-01-01T00:00:00",
+            "title": "Changes in Tick Habitat - 2050",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 5,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Effect of Climate Change on Lyme Disease Risk in North America",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1007/s10393-004-0139-x"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/c50c2ea8-a6e8-4d12-80cc-272598748b84.json",
+            "uri": "/reference/c50c2ea8-a6e8-4d12-80cc-272598748b84"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "adapted from Brownstein et al. 2005<tbib>c50c2ea8-a6e8-4d12-80cc-272598748b84</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Projected Changes in Tick Habitat",
+    "uri": "/report/nca3/chapter/human-health/figure/projected-changes-in-tick-habitat",
+    "url": "http://nca2014.globalchange.gov/highlights/report-findings/human-health/graphics/projected-changes-tick-habitat",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

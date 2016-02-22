@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "This graph depicts the changes in carbon dioxide (CO<sub>2</sub>) emissions over time as a function of five driving forces: 1) the amount of CO<sub>2</sub> produced per unit of energy (CO<sub>2</sub> intensity); 2) the amount of energy used per unit of gross domestic product (energy intensity); 3) structural changes in the economy; 4) per capita income; and 5) population. Although CO<sub>2</sub> intensity and especially energy intensity have decreased significantly and the structure of the U.S. economy has changed, total CO<sub>2</sub> emissions have continued to rise as a result of the growth in both population and per capita income. (Baldwin and Sue Wing, 2013<tbib>4ae74fe5-51c5-4235-b9ab-3648489a2d9c</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0C8276J",
+        "identifier": "mitigation",
+        "number": 27,
+        "report_identifier": "nca3",
+        "sort_key": 270,
+        "title": "Mitigation",
+        "url": "http://nca2014.globalchange.gov/report/response-strategies/mitigation"
+    },
+    "chapter_identifier": "mitigation",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-10-21T14:15:00",
+    "files": [
+        {
+            "file": "9e/6b/bebcd1dbe0bba0ec5e444bf046cc/Mitigation_fossil_emissions_patterns_V7.png",
+            "href": "http://data.globalchange.gov/assets/9e/6b/bebcd1dbe0bba0ec5e444bf046cc/Mitigation_fossil_emissions_patterns_V7.png",
+            "identifier": "ea9d8c1a-794f-4311-bb98-33d8cae7883f",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "1e632f309852235567affb5d23d0ad33ae349444",
+            "size": 218400,
+            "thumbnail": "9e/6b/bebcd1dbe0bba0ec5e444bf046cc/.thumb-ea9d8c1a-794f-4311-bb98-33d8cae7883f.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/9e/6b/bebcd1dbe0bba0ec5e444bf046cc/.thumb-ea9d8c1a-794f-4311-bb98-33d8cae7883f.png",
+            "uri": "/file/ea9d8c1a-794f-4311-bb98-33d8cae7883f",
+            "url": "/assets/9e/6b/bebcd1dbe0bba0ec5e444bf046cc/Mitigation_fossil_emissions_patterns_V7.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/mitigation/figure/drivers-of-us-fossil-emissions.json",
+    "identifier": "drivers-of-us-fossil-emissions",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-10-21T14:15:00",
+            "description": null,
+            "identifier": "5640cc5e-1fae-45c4-97d5-dd53db0d8691",
+            "lat_max": "49.38",
+            "lat_min": "24.50",
+            "lon_max": "-66.95",
+            "lon_min": "-124.80",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2008-12-31T23:59:59",
+            "time_start": "1963-01-01T00:00:00",
+            "title": "Drivers of U.S. Fossil Emissions",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 2,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "The Spatiotemporal Evolution of U.S. Carbon Dioxide Emissions: Stylized Facts and Implications for Climate Policy",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1111/jors.12028"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/4ae74fe5-51c5-4235-b9ab-3648489a2d9c.json",
+            "uri": "/reference/4ae74fe5-51c5-4235-b9ab-3648489a2d9c"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Drivers of U.S. Fossil Emissions",
+    "uri": "/report/nca3/chapter/mitigation/figure/drivers-of-us-fossil-emissions",
+    "url": "http://nca2014.globalchange.gov/report/response-strategies/mitigation/graphics/drivers-us-fossil-emissions",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

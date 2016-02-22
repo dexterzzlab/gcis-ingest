@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": "10.7930/J0CZ353N",
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/usgcrp-archivingreqsworkshop-1998.json",
+    "identifier": "usgcrp-archivingreqsworkshop-1998",
+    "in_library": 1,
+    "publication_year": 1999,
+    "report_type_identifier": "workshop_report",
+    "summary": "The USGCRP workshop \"Global Change Science Requirements for Long-Term Archiving\" was held at the National Center for Atmospheric Research in Boulder, CO on October 28-30, 1998. Participants included scientists with extensive experience as users or producers of large and/or long-term data sets. Discussions centered around the purpose of a Long-Term Archiving program for Earth observation data and derived products, lessons to be learned from current and past experience, and the vision, guiding principles, and essential functions necessary for the success of such a program.",
+    "title": "Global Change Science Requirements For Long-Term Archiving",
+    "topic": null,
+    "uri": "/report/usgcrp-archivingreqsworkshop-1998",
+    "url": "http://dx.doi.org/10.7930/J0CZ353N"
+}

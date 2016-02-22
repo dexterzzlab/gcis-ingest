@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Beck, Michael W. \rBen Gilmer\rZach Ferda\u00f1a\rGeorge T. Raber\rChristine C. Shepard\rImen Meliane\rJeffrey D. Stone\rAdam W. Whelchel\rMark Hoover\rSarah Newkirk",
+        "Book Title": "The Role of Ecosystems in Disaster Risk Reduction",
+        "Editor": "Fabrice G. Renaud\rKaren Sudmeier-Rieux\rMarisol Estrella",
+        "ISBN": "978-92-808-1221-3",
+        "Pages": "140-163",
+        "Publisher": "United Nations University press",
+        "Reviewer": "3f303a73-89f9-4835-a164-7a141536e932",
+        "Title": "Ch. 6: Increasing the resilience of human and natural communities to coastal hazards: Supporting decisions in New York and Connecticut",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "3995",
+        "_uuid": "3f303a73-89f9-4835-a164-7a141536e932",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/a573035f-784d-43bc-adac-234870dfa6ea",
+    "href": "http://data.globalchange.gov/reference/3f303a73-89f9-4835-a164-7a141536e932.json",
+    "identifier": "3f303a73-89f9-4835-a164-7a141536e932",
+    "uri": "/reference/3f303a73-89f9-4835-a164-7a141536e932"
+}

@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Deaths due to summer heat are projected to increase in US cities, according to a study using time-dependent results (for greenhouse gas increase only) from several climate models (Kalkstein and Greene, 1997). Mortality rates (number of deaths per 100,000 population) are shown from the Max Planck Institute model, the results from which lie roughly in themiddle of the models examined (the other lcimate scenarios used were from Geophysical Fluid Dyanmics Laboratory (GFDL) and the Hadley Centre). Because heat-related illness and death appear to be related to temperatures much hotter than those to which the population is accustomed, cities that experience extreme heat only infrequently appear to be at greatest risk. For example, Philadelphia, New York, Chicago, and St. Louis have experienced heat waves that resulted in a large number of heat-related deaths, while heat related deaths in Atlanta and Los Angeles are much lower. In this study, statistical relationships between heat waves and increased death rates are constructed for each city based on historical experience. Deaths under a city's future climate are then projected by applying that city's projected incidence of extreme heat waves to the staistical relationship that was estimated for the city whose present climate is most similar to the projected climate for the city in question. This approach attempts to represent how people will acclimate to the new average climate that they experience.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "33/48/3981bdecce382023fe65f4e0ab44/health_section_of_climate_change_impacts_2001_1_20090708_1544412538.jpg",
+            "href": "http://data.globalchange.gov/assets/33/48/3981bdecce382023fe65f4e0ab44/health_section_of_climate_change_impacts_2001_1_20090708_1544412538.jpg",
+            "identifier": "69893f17-430a-441a-aa30-b69b09324e03",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "c64ab9bc6223ad8858cc041f371c54be57189136",
+            "size": 32488,
+            "thumbnail": "33/48/3981bdecce382023fe65f4e0ab44/.thumb-69893f17-430a-441a-aa30-b69b09324e03.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/33/48/3981bdecce382023fe65f4e0ab44/.thumb-69893f17-430a-441a-aa30-b69b09324e03.png",
+            "uri": "/file/69893f17-430a-441a-aa30-b69b09324e03",
+            "url": "/assets/33/48/3981bdecce382023fe65f4e0ab44/health_section_of_climate_change_impacts_2001_1_20090708_1544412538.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca1/figure/average-summer-mortality-rates.json",
+    "identifier": "average-summer-mortality-rates",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca1",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Average Summer Mortality Rates",
+    "uri": "/report/nca1/figure/average-summer-mortality-rates",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

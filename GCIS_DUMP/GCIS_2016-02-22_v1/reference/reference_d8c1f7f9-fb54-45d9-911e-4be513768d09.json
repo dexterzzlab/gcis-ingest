@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Grossman, Z.\rParker, A.\rFrank, B.",
+        "ISBN": "9780870716638",
+        "Number of Pages": "240",
+        "Place Published": "Corvallis, OR",
+        "Publisher": "Oregon State University Press",
+        "Reviewer": "d8c1f7f9-fb54-45d9-911e-4be513768d09",
+        "Title": "Asserting Native Resilience: Pacific Rim Indigenous Nations Face the Climate Crisis",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\"]",
+        "_record_number": "3899",
+        "_uuid": "d8c1f7f9-fb54-45d9-911e-4be513768d09",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/9ccab58b-e800-4cb0-b1c7-e6ff111013ea",
+    "href": "http://data.globalchange.gov/reference/d8c1f7f9-fb54-45d9-911e-4be513768d09.json",
+    "identifier": "d8c1f7f9-fb54-45d9-911e-4be513768d09",
+    "uri": "/reference/d8c1f7f9-fb54-45d9-911e-4be513768d09"
+}

@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/hawaiidnr-rain-2011.json",
+    "identifier": "hawaiidnr-rain-2011",
+    "in_library": null,
+    "publication_year": 2011,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "The Rain Follows The Forest: A Plan to Replenish Hawaii\u2019s Source of Water",
+    "topic": null,
+    "uri": "/report/hawaiidnr-rain-2011",
+    "url": "http://dlnr.hawaii.gov/rain/files/2014/02/The-Rain-Follows-the-Forest.pdf"
+}

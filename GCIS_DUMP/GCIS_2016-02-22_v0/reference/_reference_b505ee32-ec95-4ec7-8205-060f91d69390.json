@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Adger, W.N.\rNelson, D.R.",
+        "Book Title": "Climate Change, Ethics and Human Security",
+        "Editor": "O\u2019Brien, K.\rSt Clair, A.L.\rKristoffersen, B.",
+        "ISBN": "9780521197663",
+        "Pages": "83-94",
+        "Place Published": "Cambridge, UK and New York, New York, USA",
+        "Publisher": "Cambridge University Press",
+        "Reviewer": "b505ee32-ec95-4ec7-8205-060f91d69390",
+        "Title": "Ch. 5: Fair decision making in a new climate of risk",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 14: Rural Communities FINAL\"]",
+        "_record_number": "689",
+        "_uuid": "b505ee32-ec95-4ec7-8205-060f91d69390",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/40277ce6-9bf2-4396-8dcf-2342b7ed94b4",
+    "href": "http://data.globalchange.gov/reference/b505ee32-ec95-4ec7-8205-060f91d69390.json",
+    "identifier": "b505ee32-ec95-4ec7-8205-060f91d69390",
+    "uri": "/reference/b505ee32-ec95-4ec7-8205-060f91d69390"
+}

@@ -1,0 +1,78 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": null,
+            "chapter_identifier": null,
+            "create_dt": null,
+            "identifier": "indicator-heating-cooling-degree-days",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": null,
+            "report_identifier": "indicator-heating-cooling-degree-days",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": "2013-12-31T23:59:59",
+            "time_start": "1970-01-01T00:33:00",
+            "title": null,
+            "url": null,
+            "usage_limits": "Free to use with credit to USGCRP."
+        }
+    ],
+    "files": [
+        {
+            "file": "bc/23/96b07238604256c229f4bedd39b1/heating_and_cooling_degree_days_v2_11_3_14.jpg",
+            "href": "http://data.globalchange.gov/assets/bc/23/96b07238604256c229f4bedd39b1/heating_and_cooling_degree_days_v2_11_3_14.jpg",
+            "identifier": "936fd6cc-fe03-4d05-94b2-52afff37a06b",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "41e9e6d5f7546b36f47c4540c5746de7115e61df",
+            "size": 852006,
+            "thumbnail": "bc/23/96b07238604256c229f4bedd39b1/.thumb-936fd6cc-fe03-4d05-94b2-52afff37a06b.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/bc/23/96b07238604256c229f4bedd39b1/.thumb-936fd6cc-fe03-4d05-94b2-52afff37a06b.png",
+            "uri": "/file/936fd6cc-fe03-4d05-94b2-52afff37a06b",
+            "url": "/assets/bc/23/96b07238604256c229f4bedd39b1/heating_and_cooling_degree_days_v2_11_3_14.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/6e031181-2ca3-4986-9774-16a67af9dc8f.json",
+    "identifier": "6e031181-2ca3-4986-9774-16a67af9dc8f",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [
+        {
+            "activity_uri": "/activity/6e031181-indicator-heating-cooling-degree-days-process",
+            "label": "dataset noaa-ncdc-climdiv-heating-cooling-degree-days",
+            "note": "",
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/noaa-ncdc-climdiv-heating-cooling-degree-days"
+        },
+        {
+            "activity_uri": null,
+            "label": "table indicator-heating-cooling-degree-days-data-pilot",
+            "note": "",
+            "publication_type_identifier": "table",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/indicator-heating-cooling-degree-days/table/indicator-heating-cooling-degree-days-data-pilot"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": null,
+    "uri": "/image/6e031181-2ca3-4986-9774-16a67af9dc8f",
+    "url": null,
+    "usage_limits": "Free to use with credit to USGCRP."
+}

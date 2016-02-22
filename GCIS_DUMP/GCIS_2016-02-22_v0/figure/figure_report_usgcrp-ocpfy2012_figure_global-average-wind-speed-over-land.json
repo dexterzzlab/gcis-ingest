@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Global average observed wind speeds over land show a decrease over time while model data reanalysis systems indicate no trend.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "69/50/0f9d696d242bc3ef1d671ea85357/OCP_2012_Page_19_Image_0004.jpg",
+            "href": "http://data.globalchange.gov/assets/69/50/0f9d696d242bc3ef1d671ea85357/OCP_2012_Page_19_Image_0004.jpg",
+            "identifier": "f1f4387a-c718-4bfa-9361-06cfcea4df28",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "f6e41d2e17ce3a2ddaa44170010ada29cc059112",
+            "size": 43189,
+            "thumbnail": "69/50/0f9d696d242bc3ef1d671ea85357/.thumb-f1f4387a-c718-4bfa-9361-06cfcea4df28.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/69/50/0f9d696d242bc3ef1d671ea85357/.thumb-f1f4387a-c718-4bfa-9361-06cfcea4df28.png",
+            "uri": "/file/f1f4387a-c718-4bfa-9361-06cfcea4df28",
+            "url": "/assets/69/50/0f9d696d242bc3ef1d671ea85357/OCP_2012_Page_19_Image_0004.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2012/figure/global-average-wind-speed-over-land.json",
+    "identifier": "global-average-wind-speed-over-land",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2012",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Global Average Wind Speeds Over Land",
+    "uri": "/report/usgcrp-ocpfy2012/figure/global-average-wind-speed-over-land",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

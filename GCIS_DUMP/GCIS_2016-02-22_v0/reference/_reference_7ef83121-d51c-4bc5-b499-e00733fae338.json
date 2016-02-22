@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "NRC,",
+        "ISBN": "9780309128025",
+        "Number of Pages": "104",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "National Research Council. The National Academies Press",
+        "Reviewer": "7ef83121-d51c-4bc5-b499-e00733fae338",
+        "Title": "A Scientific Assessment of Alternatives for Reducing Water Management Effects on Threatened and Endangered Fishes in California's Bay Delta",
+        "URL": "http://www.nap.edu/catalog.php?record_id=12881",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "2298",
+        "_uuid": "7ef83121-d51c-4bc5-b499-e00733fae338",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/nrc-baydelta-2010",
+    "href": "http://data.globalchange.gov/reference/7ef83121-d51c-4bc5-b499-e00733fae338.json",
+    "identifier": "7ef83121-d51c-4bc5-b499-e00733fae338",
+    "uri": "/reference/7ef83121-d51c-4bc5-b499-e00733fae338"
+}

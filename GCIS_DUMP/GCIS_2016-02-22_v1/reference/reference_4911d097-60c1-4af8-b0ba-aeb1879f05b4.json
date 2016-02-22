@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "NRC,",
+        "ISBN": "0309101786",
+        "Notes": "(US)",
+        "Pages": "408",
+        "Place Published": "Washington D.C.",
+        "Publisher": "National Research Council, Committee on Disaster Research in the Social Sciences: Future Challenges and Opportunities, Division on Earth and Life Studies. National Academy Press",
+        "Reviewer": "4911d097-60c1-4af8-b0ba-aeb1879f05b4",
+        "Title": "Facing Hazards and Disasters: Understanding Human Dimensions",
+        "URL": "http://www.nap.edu/catalog.php?record_id=11671",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 11: Urban Systems FINAL\"]",
+        "_record_number": "2287",
+        "_uuid": "4911d097-60c1-4af8-b0ba-aeb1879f05b4",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/nrc-facinghazards-2006",
+    "href": "http://data.globalchange.gov/reference/4911d097-60c1-4af8-b0ba-aeb1879f05b4.json",
+    "identifier": "4911d097-60c1-4af8-b0ba-aeb1879f05b4",
+    "uri": "/reference/4911d097-60c1-4af8-b0ba-aeb1879f05b4"
+}

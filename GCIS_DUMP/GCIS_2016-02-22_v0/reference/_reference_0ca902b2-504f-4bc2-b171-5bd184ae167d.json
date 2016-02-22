@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".access_date": "5/20/2012",
+        ".reference_type": "16",
+        "Access Year": "2012",
+        "Author": "VANR,",
+        "Last Update Date": "5/20/2012",
+        "Place Published": "Waterbury, Vermont",
+        "Publisher": "Vermont Agency of National Resources",
+        "Title": "Tropical Storm Irene: By the Numbers",
+        "URL": "http://www.anr.state.vt.us/anr/climatechange/irenebythenumbers.html",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 5: Transportation FINAL\"]",
+        "_record_number": "3272",
+        "_uuid": "0ca902b2-504f-4bc2-b171-5bd184ae167d",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/c65f9f7d-c4ba-4bc4-9fbb-1e7768976f50",
+    "href": "http://data.globalchange.gov/reference/0ca902b2-504f-4bc2-b171-5bd184ae167d.json",
+    "identifier": "0ca902b2-504f-4bc2-b171-5bd184ae167d",
+    "uri": "/reference/0ca902b2-504f-4bc2-b171-5bd184ae167d"
+}

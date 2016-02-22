@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Pan, Y.\rChen, J.M.\rBirdsey, R.\rMcCullough, K.\rHe, L.\rDeng, F.",
+        "DOI": "10.5194/bg-8-715-2011",
+        "Journal": "Biogeosciences",
+        "Pages": "715\u2013732",
+        "Title": "Age structure and disturbance legacy of North American forests",
+        "URL": "http://www.biogeosciences.net/8/715/2011/bg-8-715-2011.pdf",
+        "Volume": "8",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "2412",
+        "_uuid": "2f38407f-72d7-4ab2-a166-fac9069cec6c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.5194/bg-8-715-2011",
+    "href": "http://data.globalchange.gov/reference/2f38407f-72d7-4ab2-a166-fac9069cec6c.json",
+    "identifier": "2f38407f-72d7-4ab2-a166-fac9069cec6c",
+    "uri": "/reference/2f38407f-72d7-4ab2-a166-fac9069cec6c"
+}

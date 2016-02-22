@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Global average nighttime lake surface temperatures show year-to-year variability, including a decrease during the last two years, yet over the full period for which data are available, the temperatures increased on average by 0.045\u00b0C per year.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "dc/be/ef985257d66301056c07b5460104/OCP_2012_Page_18_Image_0003.jpg",
+            "href": "http://data.globalchange.gov/assets/dc/be/ef985257d66301056c07b5460104/OCP_2012_Page_18_Image_0003.jpg",
+            "identifier": "70eae134-1137-4f07-998e-0dea9f84f03e",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "af08b1350f8452fcab4e420a4df49e03ea3b12e8",
+            "size": 60253,
+            "thumbnail": "dc/be/ef985257d66301056c07b5460104/.thumb-70eae134-1137-4f07-998e-0dea9f84f03e.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/dc/be/ef985257d66301056c07b5460104/.thumb-70eae134-1137-4f07-998e-0dea9f84f03e.png",
+            "uri": "/file/70eae134-1137-4f07-998e-0dea9f84f03e",
+            "url": "/assets/dc/be/ef985257d66301056c07b5460104/OCP_2012_Page_18_Image_0003.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2012/figure/global-average-nighttime-lake-surface-temperatures.json",
+    "identifier": "global-average-nighttime-lake-surface-temperatures",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2012",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Global Average Nighttime Lake Surface Temperatures",
+    "uri": "/report/usgcrp-ocpfy2012/figure/global-average-nighttime-lake-surface-temperatures",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

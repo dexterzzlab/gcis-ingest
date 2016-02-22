@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "North America is currently a net carbon source (1,336 \u00b1 334 MtC yr-1). A net terrestrial sink of 520 \u00b1 260 MtC yr-1 is equivalent to about 30% of fossil fuel emissions in 2003. Credit: CCSP Synthesis and Assessment Product 2.2.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "c4/7c/88a464d871717aff523e500f6f65/Figure_15.png",
+            "href": "http://data.globalchange.gov/assets/c4/7c/88a464d871717aff523e500f6f65/Figure_15.png",
+            "identifier": "28333a0b-92b1-46c6-ad97-94111b66417d",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "c110350cf30c49c1ac29037ccf844e077cae4261",
+            "size": 412967,
+            "thumbnail": "c4/7c/88a464d871717aff523e500f6f65/.thumb-28333a0b-92b1-46c6-ad97-94111b66417d.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/c4/7c/88a464d871717aff523e500f6f65/.thumb-28333a0b-92b1-46c6-ad97-94111b66417d.png",
+            "uri": "/file/28333a0b-92b1-46c6-ad97-94111b66417d",
+            "url": "/assets/c4/7c/88a464d871717aff523e500f6f65/Figure_15.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2009/figure/north-american-carbon-sources-sinks.json",
+    "identifier": "north-american-carbon-sources-sinks",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2009",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "North American Carbon Sources and Sinks",
+    "uri": "/report/usgcrp-ocpfy2009/figure/north-american-carbon-sources-sinks",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

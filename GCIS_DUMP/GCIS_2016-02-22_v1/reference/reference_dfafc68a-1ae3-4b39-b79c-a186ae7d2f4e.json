@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2013",
+        "Author": "CEPA,",
+        "Publisher": "California Environmental Protection Agency",
+        "Title": "Cap-and-Trade Program",
+        "URL": "http://arb.ca.gov/cc/capandtrade/capandtrade.htm",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "4561",
+        "_uuid": "dfafc68a-1ae3-4b39-b79c-a186ae7d2f4e",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/01b79098-0e7a-4c37-b424-5b63f041989b",
+    "href": "http://data.globalchange.gov/reference/dfafc68a-1ae3-4b39-b79c-a186ae7d2f4e.json",
+    "identifier": "dfafc68a-1ae3-4b39-b79c-a186ae7d2f4e",
+    "uri": "/reference/dfafc68a-1ae3-4b39-b79c-a186ae7d2f4e"
+}

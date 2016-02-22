@@ -1,0 +1,89 @@
+{
+    "attributes": null,
+    "caption": "Scientists examining an ice core used to reconstruct the evolution of Earth\u2019s climate during the Eemian interglacial period, a useful analog for present-day and expected future conditions. (Source: NEEM)",
+    "chapter": {
+        "doi": null,
+        "identifier": "federal-investments-global-change-research",
+        "number": 3,
+        "report_identifier": "usgcrp-ocpfy2014",
+        "sort_key": 30,
+        "title": "Federal Investments In Global Change Research",
+        "url": null
+    },
+    "chapter_identifier": "federal-investments-global-change-research",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/4176.json",
+            "id": 4176,
+            "organization": {
+                "country_code": "DK",
+                "identifier": "university-copenhagen",
+                "name": "University of Copenhagen",
+                "organization_type_identifier": "academic",
+                "url": "http://www.ku.dk/english/"
+            },
+            "organization_uri": "/organization/university-copenhagen",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "lead_agency",
+            "uri": "/contributor/4176"
+        }
+    ],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "40/a8/dde61d201c9d5a128e8a1ba4f80d/Box_6_NEEM_Med_Res.png",
+            "href": "http://data.globalchange.gov/assets/40/a8/dde61d201c9d5a128e8a1ba4f80d/Box_6_NEEM_Med_Res.png",
+            "identifier": "d2c2cf24-62e8-42b0-854f-6207a64ef6c0",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "086a59979b508ec322be2cdd66cedf069491f214",
+            "size": 7942637,
+            "thumbnail": "40/a8/dde61d201c9d5a128e8a1ba4f80d/.thumb-d2c2cf24-62e8-42b0-854f-6207a64ef6c0.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/40/a8/dde61d201c9d5a128e8a1ba4f80d/.thumb-d2c2cf24-62e8-42b0-854f-6207a64ef6c0.png",
+            "uri": "/file/d2c2cf24-62e8-42b0-854f-6207a64ef6c0",
+            "url": "/assets/40/a8/dde61d201c9d5a128e8a1ba4f80d/Box_6_NEEM_Med_Res.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2014/chapter/federal-investments-global-change-research/figure/ice-core-analysis.json",
+    "identifier": "ice-core-analysis",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": null,
+            "description": null,
+            "identifier": "f80012cc-8779-49af-922d-ffaa8fa01c60",
+            "lat_max": "77.5",
+            "lat_min": "77.5",
+            "lon_max": "-50.9",
+            "lon_min": "-50.9",
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Ice Core Analysis",
+            "url": null,
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": "77.5",
+    "lat_min": "77.5",
+    "lon_max": "-50.9",
+    "lon_min": "-50.9",
+    "ordinal": 5,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2014",
+    "source_citation": "Bedrock was reached Tuesday July 27, 2010 at the deep ice core drilling site NEEM on the Greenland Ice Sheet at the depth of 2537.36m, NEEM ice core drilling project, 2010. http://www.photo.neem.dk/2010/Bedrock/16799971_bBQgVZ#!i=1267544374&k=CSBfbpM",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Ice Core Analysis",
+    "uri": "/report/usgcrp-ocpfy2014/chapter/federal-investments-global-change-research/figure/ice-core-analysis",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source. "
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "32",
+        "Author": "Kunkel, K.E.\rStevens, L.E.\rStevens, S.E.\rSun, L.\rJanssen, E.\rWuebbles, D.\rRennells, J.\rDeGaetano, A.\rDobson, J.G.",
+        "Pages": "87",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "National Oceanic and Atmospheric Administration, National Environmental Satellite, Data, and Information Service",
+        "Series Title": "NOAA Technical Memorandum NESDIS xxx",
+        "Title": "Regional Climate Trends and Scenarios for the U.S. National Climate Assessment: Part 1. Climate of the Northeast U.S. NOAA Technical Report NESDIS 142-1",
+        "URL": "http://www.nesdis.noaa.gov/technical_reports/NOAA_NESDIS_Tech_Report_142-1-Climate_of_the_Northeast_U.S.pdf",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\",\"Ch. 4: Energy Supply and Use FINAL\"]",
+        "_record_number": "1409",
+        "_uuid": "2acefcdc-827f-4c52-a4d8-56fc73f8ed35",
+        "reftype": "Government Document"
+    },
+    "child_publication": "/report/noaa-techreport-nesdis-142-1",
+    "href": "http://data.globalchange.gov/reference/2acefcdc-827f-4c52-a4d8-56fc73f8ed35.json",
+    "identifier": "2acefcdc-827f-4c52-a4d8-56fc73f8ed35",
+    "uri": "/reference/2acefcdc-827f-4c52-a4d8-56fc73f8ed35"
+}

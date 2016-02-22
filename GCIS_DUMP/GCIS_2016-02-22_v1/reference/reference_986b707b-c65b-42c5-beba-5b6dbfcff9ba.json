@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Kaipainen, T.\rLiski, J.\rPussinen, A.\rKarjalainen, T.",
+        "DOI": "10.1016/j.envsci.2004.03.001",
+        "ISSN": "1462-9011",
+        "Issue": "3",
+        "Journal": "Environmental Science & Policy",
+        "Pages": "205-219",
+        "Title": "Managing carbon sinks by changing rotation length in European forests",
+        "Volume": "7",
+        "Year": "2004",
+        "_chapter": "[\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "1080",
+        "_uuid": "986b707b-c65b-42c5-beba-5b6dbfcff9ba",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.envsci.2004.03.001",
+    "href": "http://data.globalchange.gov/reference/986b707b-c65b-42c5-beba-5b6dbfcff9ba.json",
+    "identifier": "986b707b-c65b-42c5-beba-5b6dbfcff9ba",
+    "uri": "/reference/986b707b-c65b-42c5-beba-5b6dbfcff9ba"
+}

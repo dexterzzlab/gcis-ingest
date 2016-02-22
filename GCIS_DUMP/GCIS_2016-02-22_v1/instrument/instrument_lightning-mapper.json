@@ -1,0 +1,8 @@
+{
+    "description": "Lightning imager",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/lightning-mapper.json",
+    "identifier": "lightning-mapper",
+    "name": "Lightning Mapper",
+    "uri": "/instrument/lightning-mapper"
+}

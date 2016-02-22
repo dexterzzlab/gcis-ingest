@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Mimura, N.\rL. Nurse\rR.F. McLean\rJ. Agard\rL. Briguglio\rP. Lefale\rR. Payet\rG. Sem\rAgricole, W.\rEbi, K.\rForbes, D.\rHay, J.\rPulwarty, R.\rNakalevu, T.\rTakahashi, K.",
+        "Book Title": "Climate Change 2007: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change",
+        "Editor": "Parry, M.L.\rCanziani, O.F.\rPalutikof, J.P.\rvan der Linden, P.J.\rHanson, C.E.",
+        "ISBN": "0521705975",
+        "Pages": "687-716",
+        "Place Published": "Cambridge, UK",
+        "Publisher": "Cambridge University Press",
+        "Reviewer": "63e4948c-5b46-4deb-a37b-9f363a1a8316",
+        "Title": "Ch. 16: Small islands",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "2048",
+        "_uuid": "63e4948c-5b46-4deb-a37b-9f363a1a8316",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/ipcc-ar4-wg2",
+    "href": "http://data.globalchange.gov/reference/63e4948c-5b46-4deb-a37b-9f363a1a8316.json",
+    "identifier": "63e4948c-5b46-4deb-a37b-9f363a1a8316",
+    "uri": "/reference/63e4948c-5b46-4deb-a37b-9f363a1a8316"
+}

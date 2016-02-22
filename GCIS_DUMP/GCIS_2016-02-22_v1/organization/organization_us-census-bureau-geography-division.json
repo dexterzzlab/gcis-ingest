@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/us-census-bureau-geography-division.json",
+    "identifier": "us-census-bureau-geography-division",
+    "name": "U.S. Census Bureau Geography Division",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/us-census-bureau-geography-division",
+    "url": "https://www.census.gov/geo/"
+}

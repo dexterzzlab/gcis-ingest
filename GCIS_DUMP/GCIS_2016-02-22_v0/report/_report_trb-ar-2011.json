@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/trb-ar-2011.json",
+    "identifier": "trb-ar-2011",
+    "in_library": null,
+    "publication_year": 2011,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Annual report",
+    "topic": null,
+    "uri": "/report/trb-ar-2011",
+    "url": "http://onlinepubs.trb.org/onlinepubs/general/2011_TRB_Annual_Report.pdf"
+}

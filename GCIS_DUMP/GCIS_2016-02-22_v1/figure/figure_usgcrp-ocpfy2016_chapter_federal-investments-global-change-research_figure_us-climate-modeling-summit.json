@@ -1,0 +1,89 @@
+{
+    "attributes": null,
+    "caption": "The U.S. Climate Modeling Summit brought together representatives from the Nation\u2019s major experimental and operational climate modeling programs. Above, Summit participants gather at the NOAA Center for Weather and Climate Prediction. (Source: NOAA)",
+    "chapter": {
+        "doi": null,
+        "identifier": "federal-investments-global-change-research",
+        "number": 2,
+        "report_identifier": "usgcrp-ocpfy2016",
+        "sort_key": 20,
+        "title": "Federal Investments in Global Change Research ",
+        "url": null
+    },
+    "chapter_identifier": "federal-investments-global-change-research",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/4693.json",
+            "id": 4693,
+            "organization": {
+                "country_code": "US",
+                "identifier": "noaa-climate-program-office",
+                "name": "National Oceanic and Atmospheric Administration Climate Program Office",
+                "organization_type_identifier": "federal",
+                "url": "http://cpo.noaa.gov"
+            },
+            "organization_uri": "/organization/noaa-climate-program-office",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "host",
+            "uri": "/contributor/4693"
+        }
+    ],
+    "create_dt": "2015-02-11T00:00:00",
+    "files": [
+        {
+            "file": "bc/a2/0c117141827a032e9cca1a1ce413/HL9_US-Climate-Modeling-Summit.jpg",
+            "href": "http://data.globalchange.gov/assets/bc/a2/0c117141827a032e9cca1a1ce413/HL9_US-Climate-Modeling-Summit.jpg",
+            "identifier": "55b98d0b-c398-40e8-ae7d-d543753f53ab",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "9c1728fcc467ee19e0e803929af789e564f4e8c5",
+            "size": 3350373,
+            "thumbnail": "bc/a2/0c117141827a032e9cca1a1ce413/.thumb-55b98d0b-c398-40e8-ae7d-d543753f53ab.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/bc/a2/0c117141827a032e9cca1a1ce413/.thumb-55b98d0b-c398-40e8-ae7d-d543753f53ab.png",
+            "uri": "/file/55b98d0b-c398-40e8-ae7d-d543753f53ab",
+            "url": "/assets/bc/a2/0c117141827a032e9cca1a1ce413/HL9_US-Climate-Modeling-Summit.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2016/chapter/federal-investments-global-change-research/figure/us-climate-modeling-summit.json",
+    "identifier": "us-climate-modeling-summit",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2015-02-11T00:00:00",
+            "description": null,
+            "identifier": "2ca96461-eab8-4e7d-bd52-0807e3a2f80c",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "U.S. Climate Modeling Summit",
+            "url": null,
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 6,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2016",
+    "source_citation": "Photo taken February 11, 2015. Retrieved March 2015 from NOAA Climate Program Office.",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "U.S. Climate Modeling Summit",
+    "uri": "/report/usgcrp-ocpfy2016/chapter/federal-investments-global-change-research/figure/us-climate-modeling-summit",
+    "url": "http://cpo.noaa.gov/AboutCPO/AllNews/TabId/315/ArtMID/668/ArticleID/198149/NOAA-hosted-first-annual-US-Climate-Modeling-Summit.aspx",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "O\u2019Brien, K.\rLeichenko, R. ",
+        "Institution": "United Nations Development Program",
+        "Pages": "48",
+        "Series Title": "Human Development Report 2007/2008 - Fighting Climate Change: Human Solidaritiy in a Divided World",
+        "Title": "Human Security, Vulnerability and Sustainable Adaptation. Human Development Report 2007/2008",
+        "URL": "http://hdr.undp.org/sites/default/files/obrien_karen_and_leichenko_robin.pdf",
+        "Volume": "2008",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\"]",
+        "_record_number": "2338",
+        "_uuid": "8be39e11-6b13-4ae7-a8b0-aaf7955f7cf8",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/undp-humansecurity-2008",
+    "href": "http://data.globalchange.gov/reference/8be39e11-6b13-4ae7-a8b0-aaf7955f7cf8.json",
+    "identifier": "8be39e11-6b13-4ae7-a8b0-aaf7955f7cf8",
+    "uri": "/reference/8be39e11-6b13-4ae7-a8b0-aaf7955f7cf8"
+}

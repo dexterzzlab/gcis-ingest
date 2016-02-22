@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Gaughan, J.\rLacetera, N.\rValtorta, S.E.\rKhalifa, H.H.\rHahn, L.\rMader, T.",
+        "Book Title": "Biometeorology for Adaptation to Climate Variability and Change",
+        "DOI": "10.1007/978-1-4020-8921-3_7",
+        "Editor": "Ebi, K.L.\rBurton, I.\rMcGregor, G.R.",
+        "ISBN": "978-1-4020-8920-6",
+        "Pages": "131-170",
+        "Publisher": "Springer Netherlands",
+        "Reviewer": "9836570e-819f-461c-8e6c-4fbd5c02c8d8",
+        "Title": "Ch. 7: Response of domestic animals to climate challenges",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "1442",
+        "_uuid": "9836570e-819f-461c-8e6c-4fbd5c02c8d8",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/92adb884-6ab9-451c-bf4f-1d8a78622c01",
+    "href": "http://data.globalchange.gov/reference/9836570e-819f-461c-8e6c-4fbd5c02c8d8.json",
+    "identifier": "9836570e-819f-461c-8e6c-4fbd5c02c8d8",
+    "uri": "/reference/9836570e-819f-461c-8e6c-4fbd5c02c8d8"
+}

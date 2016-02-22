@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Emanuel, Kerry\rSobel, Adam",
+        "DOI": "10.1002/jame.20032",
+        "Date": "June 2013",
+        "ISSN": "1942-2466",
+        "Issue": "2",
+        "Journal": "Journal of Advances in Modeling Earth Systems",
+        "Keywords": "convection\rhurricane\rclimate\r1616 Climate variability\r3314 Convective processes\r3359 Radiative processes\r3371 Tropical convection\r3372 Tropical cyclones",
+        "Pages": "447-458",
+        "Title": "Response of tropical sea surface temperature, precipitation, and tropical cyclone-related variables to changes in global and local forcing",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1002/jame.20032/pdf",
+        "Volume": "5",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"RF 2\"]",
+        "_record_number": "3717",
+        "_uuid": "df5a6a41-28fe-4f52-8842-e2e3e5613067",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/jame.20032",
+    "href": "http://data.globalchange.gov/reference/df5a6a41-28fe-4f52-8842-e2e3e5613067.json",
+    "identifier": "df5a6a41-28fe-4f52-8842-e2e3e5613067",
+    "uri": "/reference/df5a6a41-28fe-4f52-8842-e2e3e5613067"
+}

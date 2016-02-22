@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "(Left) Observed response of temperature to an increase in vegetation greenness, calculated from satellite observations. The units are \u00b0C per 0.1 FPAR (fraction of photosynthetically available radiation absorbed by the plant canopy). This illustrates vegetation feedbacks on temperature resulting from month-to-month variability in leaf and plant amount. (Right) Same as the left figure, but showing the response of precipitation to a change in vegetation. Units are cm/month per 0.1 FPAR. Credit: Z. Liu, University of Wisconsin (reproduced from the Journal of Climate with permission from the American Meteorological Society).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "f1/83/e314a8715433c00489a621972ab2/our_changing_planet_2007_88_20090708_2060741001.jpg",
+            "href": "http://data.globalchange.gov/assets/f1/83/e314a8715433c00489a621972ab2/our_changing_planet_2007_88_20090708_2060741001.jpg",
+            "identifier": "051e1630-d406-4ac1-9f76-bfbe40df0d47",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "c4a928e15915bfe33ab8242ef013620dd0e959f6",
+            "size": 30849,
+            "thumbnail": "f1/83/e314a8715433c00489a621972ab2/.thumb-051e1630-d406-4ac1-9f76-bfbe40df0d47.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/f1/83/e314a8715433c00489a621972ab2/.thumb-051e1630-d406-4ac1-9f76-bfbe40df0d47.png",
+            "uri": "/file/051e1630-d406-4ac1-9f76-bfbe40df0d47",
+            "url": "/assets/f1/83/e314a8715433c00489a621972ab2/our_changing_planet_2007_88_20090708_2060741001.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/temperature-precipitation-response-vegetation-greenness.json",
+    "identifier": "temperature-precipitation-response-vegetation-greenness",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Temperature and Precipitation Response to Vegetation Greenness",
+    "uri": "/report/ccsp-ocpfy2007/figure/temperature-precipitation-response-vegetation-greenness",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

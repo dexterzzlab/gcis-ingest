@@ -1,0 +1,8 @@
+{
+    "description": "Imaging radar (SAR)",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/travers-sar.json",
+    "identifier": "travers-sar",
+    "name": "Travers SAR",
+    "uri": "/instrument/travers-sar"
+}

@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".place_published": "Waco, TX",
+        ".publisher": "American Society of Limnology and Oceanography",
+        ".reference_type": "0",
+        "Abstract": "Historical records of paralytic shellfish toxins (PSTs) in shellfish from a coastal embayment in the Pacific Northwest of the United States are used to examine the influence of large-scale climate variations on aspects of Alexandrium catenella bloom dynamics on interannual and interdecadal timescales. An annual index of shellfish toxicity covaries with the number of days annually that sea surface temperature (SST) exceeds 13\u00b0C-a known temperature threshold for increased shellfish toxicity in this region\u2014and with an index of the Pacific Decadal Oscillation (PDO). In contrast, no robust relationship exists between our shellfish toxicity index and an index of the El Ni\u00f1o-Southern Oscillation (ENSO). We hypothesize that this is because anomalously warm water temperatures created during El Ni\u00f1o winters do not generally persist into the seasonal time period that shellfish in this region accumulate PSTs, which is typically in the summer and fall. In contrast, anomalously warm water temperatures created during warm-phase PDO winters and springs typically persist into the summer and fall, thereby increasing the number of days annually that SST exceeds 13\u00b0C, and increasing the window of opportunity for Alexandrium blooms that ultimately lead to shellfish acquiring higher concentrations of PSTs.",
+        "Author": "Moore, Stephanie K.\rMantua, Nathan J.\rHickey, Barbara M.\rTrainer, Vera L.",
+        "DOI": "10.4319/lo.2010.55.6.2262",
+        "Issue": "6",
+        "Journal": "Limnology and Oceanography",
+        "Pages": "2262-2274",
+        "Title": "The relative influences of El Ni\u00f1o-Southern Oscillation and Pacific Decadal Oscillation on paralytic shellfish toxin accumulation in Pacific northwest shellfish",
+        "Volume": "55",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "3839",
+        "_uuid": "204fc4ae-3c39-4e8a-9b02-df612d520c81",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.4319/lo.2010.55.6.2262",
+    "href": "http://data.globalchange.gov/reference/204fc4ae-3c39-4e8a-9b02-df612d520c81.json",
+    "identifier": "204fc4ae-3c39-4e8a-9b02-df612d520c81",
+    "uri": "/reference/204fc4ae-3c39-4e8a-9b02-df612d520c81"
+}

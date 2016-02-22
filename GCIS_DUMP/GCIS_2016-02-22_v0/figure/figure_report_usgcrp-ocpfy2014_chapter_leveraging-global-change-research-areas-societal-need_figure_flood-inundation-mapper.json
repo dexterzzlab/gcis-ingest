@@ -1,0 +1,123 @@
+{
+    "attributes": null,
+    "caption": "USGS, USACE, and NOAA\u2019s National Weather Service collaborated to create this Flood Inundation Mapper. (Source: USGS)",
+    "chapter": {
+        "doi": null,
+        "identifier": "leveraging-global-change-research-areas-societal-need",
+        "number": 4,
+        "report_identifier": "usgcrp-ocpfy2014",
+        "sort_key": 40,
+        "title": "Leveraging Global Change Research In Areas of Societal Need",
+        "url": null
+    },
+    "chapter_identifier": "leveraging-global-change-research-areas-societal-need",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/3905.json",
+            "id": 3905,
+            "organization": {
+                "country_code": "US",
+                "identifier": "us-geological-survey",
+                "name": "U.S. Geological Survey",
+                "organization_type_identifier": "federal",
+                "url": "http://www.usgs.gov/"
+            },
+            "organization_uri": "/organization/us-geological-survey",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "contributing_agency",
+            "uri": "/contributor/3905"
+        },
+        {
+            "href": "http://data.globalchange.gov/contributor/4215.json",
+            "id": 4215,
+            "organization": {
+                "country_code": "US",
+                "identifier": "us-army-corps-engineers",
+                "name": "U.S. Army Corps of Engineers",
+                "organization_type_identifier": "federal",
+                "url": "http://www.usace.army.mil/"
+            },
+            "organization_uri": "/organization/us-army-corps-engineers",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "contributing_agency",
+            "uri": "/contributor/4215"
+        },
+        {
+            "href": "http://data.globalchange.gov/contributor/4197.json",
+            "id": 4197,
+            "organization": {
+                "country_code": "US",
+                "identifier": "national-weather-service",
+                "name": "National Weather Service",
+                "organization_type_identifier": "federal",
+                "url": "http://www.weather.gov"
+            },
+            "organization_uri": "/organization/national-weather-service",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "contributing_agency",
+            "uri": "/contributor/4197"
+        }
+    ],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "c0/de/15075ceee0f3f343e9f120d4fffd/Box_14_Forecasting_Flood_Mapper_Med_Res.png",
+            "href": "http://data.globalchange.gov/assets/c0/de/15075ceee0f3f343e9f120d4fffd/Box_14_Forecasting_Flood_Mapper_Med_Res.png",
+            "identifier": "9e7c074a-222e-447a-a6da-9aedf06d7d85",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "926f10398b8d4253bb328e4e8b2dd46ddb9a04de",
+            "size": 8265901,
+            "thumbnail": "c0/de/15075ceee0f3f343e9f120d4fffd/.thumb-9e7c074a-222e-447a-a6da-9aedf06d7d85.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/c0/de/15075ceee0f3f343e9f120d4fffd/.thumb-9e7c074a-222e-447a-a6da-9aedf06d7d85.png",
+            "uri": "/file/9e7c074a-222e-447a-a6da-9aedf06d7d85",
+            "url": "/assets/c0/de/15075ceee0f3f343e9f120d4fffd/Box_14_Forecasting_Flood_Mapper_Med_Res.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2014/chapter/leveraging-global-change-research-areas-societal-need/figure/flood-inundation-mapper.json",
+    "identifier": "flood-inundation-mapper",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": null,
+            "description": null,
+            "identifier": "59ed5a00-4051-4ff0-8074-810513f15724",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Flood Inundation Mapper",
+            "url": null,
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 14,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2014",
+    "source_citation": "Flood Inundation Mapper created by USGS, USACE, and the National Weather Service of NOAA. Image produced by USGCRP staff in 2013. http://wimcloud.usgs.gov/apps/FIM/FloodInundationMapper.html",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Flood Inundation Mapper",
+    "uri": "/report/usgcrp-ocpfy2014/chapter/leveraging-global-change-research-areas-societal-need/figure/flood-inundation-mapper",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

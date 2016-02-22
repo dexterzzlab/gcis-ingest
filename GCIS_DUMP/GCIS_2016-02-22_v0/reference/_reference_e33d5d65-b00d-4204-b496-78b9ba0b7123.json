@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Kaser, G.\rCogley, J. G.\rDyurgerov, M. B.\rMeier, M. F.\rOhmura, A.",
+        "DOI": "10.1029/2006GL027511",
+        "ISSN": "1944-8007",
+        "Issue": "19",
+        "Journal": "Geophysical Research Letters",
+        "Pages": "L19501",
+        "Title": "Mass balance of glaciers and ice caps: Consensus estimates for 1961\u20132004",
+        "URL": "http://www.agu.org/pubs/crossref/2006/2006GL027511.shtml",
+        "Volume": "33",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "1098",
+        "_uuid": "e33d5d65-b00d-4204-b496-78b9ba0b7123",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2006GL027511",
+    "href": "http://data.globalchange.gov/reference/e33d5d65-b00d-4204-b496-78b9ba0b7123.json",
+    "identifier": "e33d5d65-b00d-4204-b496-78b9ba0b7123",
+    "uri": "/reference/e33d5d65-b00d-4204-b496-78b9ba0b7123"
+}

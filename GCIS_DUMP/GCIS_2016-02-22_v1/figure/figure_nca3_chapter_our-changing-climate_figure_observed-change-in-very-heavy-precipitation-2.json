@@ -1,0 +1,87 @@
+{
+    "attributes": null,
+    "caption": "The map shows percent increases in the amount of precipitation falling in very heavy events (defined as the heaviest 1% of all daily events) from 1958 to 2012 for each region of the continental United States. These trends are larger than natural variations for the Northeast, Midwest, Puerto Rico, Southeast, Great Plains, and Alaska. The trends are not larger than natural variations for the Southwest, Hawai\u2018i, and the Northwest. The changes shown in this figure are calculated from the beginning and end points of the trends for 1958 to 2012. (Figure source: updated from Karl et al. 2009<tbib>e251f590-177e-4ba6-8ed1-6f68b5e54c8a</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0KW5CXT",
+        "identifier": "our-changing-climate",
+        "number": 2,
+        "report_identifier": "nca3",
+        "sort_key": 20,
+        "title": "Our Changing Climate",
+        "url": "http://nca2014.globalchange.gov/report/our-changing-climate/introduction"
+    },
+    "chapter_identifier": "our-changing-climate",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-09-19T14:05:00",
+    "files": [
+        {
+            "file": "1d/f7/020c8c233335fd1aeb4599ae29d3/CS_very_heavy_precip_V8.png",
+            "href": "http://data.globalchange.gov/assets/1d/f7/020c8c233335fd1aeb4599ae29d3/CS_very_heavy_precip_V8.png",
+            "identifier": "bb534afa-cb2e-4b41-9cf7-03643340d321",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "fedd4da9fdefe96bc0ffef97d4bebce2086602e6",
+            "size": 325057,
+            "thumbnail": "1d/f7/020c8c233335fd1aeb4599ae29d3/.thumb-bb534afa-cb2e-4b41-9cf7-03643340d321.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/1d/f7/020c8c233335fd1aeb4599ae29d3/.thumb-bb534afa-cb2e-4b41-9cf7-03643340d321.png",
+            "uri": "/file/bb534afa-cb2e-4b41-9cf7-03643340d321",
+            "url": "/assets/1d/f7/020c8c233335fd1aeb4599ae29d3/CS_very_heavy_precip_V8.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/our-changing-climate/figure/observed-change-in-very-heavy-precipitation-2.json",
+    "identifier": "observed-change-in-very-heavy-precipitation-2",
+    "images": [
+        {
+            "attributes": "Contiguous U.S., extreme precipitation, observed",
+            "create_dt": "2013-09-19T14:05:00",
+            "description": null,
+            "identifier": "2a8ed68d-02b8-4290-9924-0ed6f27c452c",
+            "lat_max": "71.441",
+            "lat_min": "18.912",
+            "lon_max": "-73.125",
+            "lon_min": "-179.151",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2012-12-31T23:59:00",
+            "time_start": "1958-01-01T00:00:00",
+            "title": "Observed Change in Very Heavy Precipitation",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [
+        "/report/nca3/chapter/executive-summary/figure/overview-observed-change-in-very-heavy-precipitation-2"
+    ],
+    "lat_max": "71.441",
+    "lat_min": "18.912",
+    "lon_max": "-73.125",
+    "lon_min": "-179.151",
+    "ordinal": 18,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Global Climate Change Impacts in the United States",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/nca2"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/e251f590-177e-4ba6-8ed1-6f68b5e54c8a.json",
+            "uri": "/reference/e251f590-177e-4ba6-8ed1-6f68b5e54c8a"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "updated from Karl et al. 2009<tbib>e251f590-177e-4ba6-8ed1-6f68b5e54c8a</tbib>",
+    "submission_dt": null,
+    "time_end": "2012-12-31T23:59:00",
+    "time_start": "1958-01-01T00:00:00",
+    "title": "Observed Change in Very Heavy Precipitation",
+    "uri": "/report/nca3/chapter/our-changing-climate/figure/observed-change-in-very-heavy-precipitation-2",
+    "url": "http://nca2014.globalchange.gov/highlights/overview/overview/graphics/observed-change-very-heavy-precipitation",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        ".publisher": "Springer-Verlag",
+        ".reference_type": "0",
+        "Alternate Journal": "Clim Dyn",
+        "Author": "Graham, Nicholas E.\rCayan, Daniel R.\rBromirski, Peter D.\rFlick, Reinhard E.",
+        "DOI": "10.1007/s00382-012-1435-8",
+        "Date": "2013/03/01",
+        "ISSN": "0930-7575",
+        "Issue": "5-6",
+        "Journal": "Climate Dynamics",
+        "Keywords": "Climate change\rOcean waves\rNorth Pacific",
+        "Language": "English",
+        "Pages": "1335-1360",
+        "Title": "Multi-model projections of twenty-first century North Pacific winter wave climate under the IPCC A2 scenario",
+        "Volume": "40",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\"]",
+        "_record_number": "3807",
+        "_uuid": "853ab468-e84f-4f81-a61a-2951632cd0e0",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s00382-012-1435-8",
+    "href": "http://data.globalchange.gov/reference/853ab468-e84f-4f81-a61a-2951632cd0e0.json",
+    "identifier": "853ab468-e84f-4f81-a61a-2951632cd0e0",
+    "uri": "/reference/853ab468-e84f-4f81-a61a-2951632cd0e0"
+}

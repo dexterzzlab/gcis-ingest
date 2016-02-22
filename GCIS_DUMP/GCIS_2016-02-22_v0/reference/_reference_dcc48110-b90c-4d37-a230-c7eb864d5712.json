@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Tzoulas, K.\rKorpela, K.\rVenn, S.\rYli-Pelkonen, V.\rKazmierczak, A.\rNiemela, J.\rJames, P.",
+        "DOI": "10.1016/j.landurbplan.2007.02.001",
+        "ISSN": "0169-2046",
+        "Issue": "3",
+        "Journal": "Landscape and Urban Planning",
+        "Pages": "167-178",
+        "Title": "Promoting ecosystem and human health in urban areas using Green Infrastructure: A literature review",
+        "Volume": "81",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "3108",
+        "_uuid": "dcc48110-b90c-4d37-a230-c7eb864d5712",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.landurbplan.2007.02.001",
+    "href": "http://data.globalchange.gov/reference/dcc48110-b90c-4d37-a230-c7eb864d5712.json",
+    "identifier": "dcc48110-b90c-4d37-a230-c7eb864d5712",
+    "uri": "/reference/dcc48110-b90c-4d37-a230-c7eb864d5712"
+}

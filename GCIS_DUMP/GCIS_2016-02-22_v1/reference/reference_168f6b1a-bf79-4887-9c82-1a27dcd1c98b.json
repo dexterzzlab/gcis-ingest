@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Mitchum, G. T.",
+        "Institution": "Florida Climate Institute",
+        "Pages": "20",
+        "Place Published": "Gainesville, FL",
+        "Title": "Sea Level Changes in the Southeastern United States: Past, Present and Future",
+        "URL": "http://www.FloridaClimateInstitute.org/images/reports/201108mitchum_sealevel.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "2064",
+        "_uuid": "168f6b1a-bf79-4887-9c82-1a27dcd1c98b",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/flcliminst-slchangesse-2011",
+    "href": "http://data.globalchange.gov/reference/168f6b1a-bf79-4887-9c82-1a27dcd1c98b.json",
+    "identifier": "168f6b1a-bf79-4887-9c82-1a27dcd1c98b",
+    "uri": "/reference/168f6b1a-bf79-4887-9c82-1a27dcd1c98b"
+}

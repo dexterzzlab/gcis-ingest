@@ -1,0 +1,8 @@
+{
+    "description": "Multi-purpose imaging Vis/IR radiometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/multi-spectral-imager-earthcare.json",
+    "identifier": "multi-spectral-imager-earthcare",
+    "name": "Multi-Spectral Imager (EarthCARE)",
+    "uri": "/instrument/multi-spectral-imager-earthcare"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Ebi, K.L.\rBalbus, J.\rKinney, P.L.\rLipp, E.\rMills, D.\rO\u2019Neill, M.S.\rWilson, M.L.",
+        "DOI": "10.1289/ehp.0800088",
+        "Issue": "6",
+        "Journal": "Environmental Health Perspectives",
+        "Pages": "857-862",
+        "Title": "US funding is insufficient to address the human health impacts of and public health responses to climate variability and change",
+        "URL": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2702397",
+        "Volume": "117",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "1743",
+        "_uuid": "b082a94b-df29-45a4-9215-f7778de2f136",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1289/ehp.0800088",
+    "href": "http://data.globalchange.gov/reference/b082a94b-df29-45a4-9215-f7778de2f136.json",
+    "identifier": "b082a94b-df29-45a4-9215-f7778de2f136",
+    "uri": "/reference/b082a94b-df29-45a4-9215-f7778de2f136"
+}

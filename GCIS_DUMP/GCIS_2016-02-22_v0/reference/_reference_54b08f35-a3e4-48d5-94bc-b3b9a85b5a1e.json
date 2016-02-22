@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Karplus, Valerie J.\rPaltsev, Sergey\rBabiker, Mustafa\rReilly, John M.",
+        "DOI": "10.1016/j.eneco.2012.09.001",
+        "Date": "March 2013",
+        "ISSN": "0140-9883",
+        "Journal": "Energy Economics",
+        "Keywords": "Fuel economy standard\rClimate policy\rVehicles\rCGE modeling",
+        "Pages": "322-333",
+        "Title": "Should a vehicle fuel economy standard be combined with an economy-wide greenhouse gas emissions constraint? Implications for energy and climate policy in the United States",
+        "Volume": "36",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "4090",
+        "_uuid": "54b08f35-a3e4-48d5-94bc-b3b9a85b5a1e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.eneco.2012.09.001",
+    "href": "http://data.globalchange.gov/reference/54b08f35-a3e4-48d5-94bc-b3b9a85b5a1e.json",
+    "identifier": "54b08f35-a3e4-48d5-94bc-b3b9a85b5a1e",
+    "uri": "/reference/54b08f35-a3e4-48d5-94bc-b3b9a85b5a1e"
+}

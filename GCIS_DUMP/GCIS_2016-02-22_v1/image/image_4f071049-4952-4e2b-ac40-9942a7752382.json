@@ -1,0 +1,95 @@
+{
+    "attributes": "Contiguous U.S., extreme precipitation, observed",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2522.json",
+            "id": 2522,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Kenneth",
+                "id": 1025,
+                "last_name": "Kunkel",
+                "middle_name": null,
+                "orcid": "0000-0001-6667-7047",
+                "url": "http://cicsnc.org/people/kenneth-kunkel/"
+            },
+            "person_id": 1025,
+            "person_uri": "/person/1025",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2522"
+        }
+    ],
+    "create_dt": "2013-12-17T15:48:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "One measure of a heavy precipitation event is a 2-day precipitation total that is exceeded on average only once in a five-year period, also known as a once-in-five-year event. As this extreme precipitation index for 1901-2012 shows, the occurrence of such events has become much more common in recent decades. Changes are compared to the period 1901-1960, and do not include Alaska or Hawai\u2018i. The 2000s decade (far right bar) includes 2001-2012. (Figure source: adapted from Kunkel et al. 2013<tbib>b37557ac-ee97-4c28-98ca-4f1f1afe163b</tbib>).",
+            "chapter_identifier": "our-changing-climate",
+            "create_dt": "2013-12-17T16:02:55",
+            "identifier": "observed-us-trend-in-heavy-precipitation",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 16,
+            "report_identifier": "nca3",
+            "source_citation": "adapted from Kunkel et al. 2013<tbib>b37557ac-ee97-4c28-98ca-4f1f1afe163b</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Observed U.S. Trend in Heavy Precipitation",
+            "url": "http://nca2014.globalchange.gov/highlights/report-findings/extreme-weather/graphics/observed-us-trends-heavy-precipitation",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "e8/83/1bb4a55e96242c8ebe35acc2a3fb/cs_extreme_precip_index_13263_v9.png",
+            "href": "http://data.globalchange.gov/assets/e8/83/1bb4a55e96242c8ebe35acc2a3fb/cs_extreme_precip_index_13263_v9.png",
+            "identifier": "27d0dfac-4bfa-4dc0-bf31-0aaace9abed2",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "951da919ac7284726744b2b3f1cecbd53356d8bf",
+            "size": 45123,
+            "thumbnail": "e8/83/1bb4a55e96242c8ebe35acc2a3fb/.thumb-27d0dfac-4bfa-4dc0-bf31-0aaace9abed2.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/e8/83/1bb4a55e96242c8ebe35acc2a3fb/.thumb-27d0dfac-4bfa-4dc0-bf31-0aaace9abed2.png",
+            "uri": "/file/27d0dfac-4bfa-4dc0-bf31-0aaace9abed2",
+            "url": "/assets/e8/83/1bb4a55e96242c8ebe35acc2a3fb/cs_extreme_precip_index_13263_v9.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/4f071049-4952-4e2b-ac40-9942a7752382.json",
+    "identifier": "4f071049-4952-4e2b-ac40-9942a7752382",
+    "lat_max": "49.38",
+    "lat_min": "24.50",
+    "lon_max": "-66.95",
+    "lon_min": "-124.80",
+    "parents": [
+        {
+            "activity_uri": "/activity/4f071049-nca3-ghcn-daily-r201305-process",
+            "label": "dataset nca3-ghcn-daily-r201305",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-ghcn-daily-r201305"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2012-12-31T00:00:00",
+    "time_start": "1901-01-01T00:00:00",
+    "title": "Observed U.S. Trend in Heavy Precipitation",
+    "uri": "/image/4f071049-4952-4e2b-ac40-9942a7752382",
+    "url": null,
+    "usage_limits": null
+}

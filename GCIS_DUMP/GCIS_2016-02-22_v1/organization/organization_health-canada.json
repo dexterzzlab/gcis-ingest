@@ -1,0 +1,9 @@
+{
+    "country_code": "CA",
+    "href": "http://data.globalchange.gov/organization/health-canada.json",
+    "identifier": "health-canada",
+    "name": "Health Canada",
+    "organization_type_identifier": "national",
+    "uri": "/organization/health-canada",
+    "url": "http://www.hc-sc.gc.ca/index-eng.php"
+}

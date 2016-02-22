@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Hoxie, F.E.",
+        "ISBN": "978-0803223233",
+        "Pages": "350",
+        "Place Published": "Lincoln, NE",
+        "Publisher": "University of Nebraska Press",
+        "Reviewer": "8970061c-5a35-4696-a545-c95119104ff3",
+        "Title": "A Final Promise: The Campaign to Assimilate the Indians, 1880-1920",
+        "Year": "2001",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\"]",
+        "_record_number": "3913",
+        "_uuid": "8970061c-5a35-4696-a545-c95119104ff3",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/d8a8e062-816b-4859-93f6-b1b4a84c04c1",
+    "href": "http://data.globalchange.gov/reference/8970061c-5a35-4696-a545-c95119104ff3.json",
+    "identifier": "8970061c-5a35-4696-a545-c95119104ff3",
+    "uri": "/reference/8970061c-5a35-4696-a545-c95119104ff3"
+}

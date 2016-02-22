@@ -1,0 +1,79 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/4266.json",
+            "id": 4266,
+            "organization": {
+                "country_code": "US",
+                "identifier": "climate-prediction-center",
+                "name": "National Weather Service Climate Prediction Center",
+                "organization_type_identifier": "federal",
+                "url": "http://www.cpc.ncep.noaa.gov/"
+            },
+            "organization_uri": "/organization/climate-prediction-center",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "contributing_agency",
+            "uri": "/contributor/4266"
+        }
+    ],
+    "create_dt": null,
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "A suite of forecasts of air temperature ~6.5 feet (2 meters) above the ground, initialized in November 2011, were able to effectively predict March 2012 conditions. Red indicates higher temperatures and blue indicates lower temperatures relative to historical averages from 1982 to 2010. (Source: NMME)",
+            "chapter_identifier": "federal-investments-global-change-research",
+            "create_dt": null,
+            "identifier": "nmme-forecasts-march-2012",
+            "lat_max": "70",
+            "lat_min": "10",
+            "lon_max": "-60",
+            "lon_min": "-170",
+            "ordinal": 6,
+            "report_identifier": "usgcrp-ocpfy2014",
+            "source_citation": "North American Multi-Model Ensemble (NMME), initialized in November 2011 http://www.cpc.ncep.noaa.gov/products/NMME/",
+            "submission_dt": null,
+            "time_end": "2012-03-31T23:59:00",
+            "time_start": "2012-03-01T00:00:00",
+            "title": "NMME Forecasts March 2012",
+            "url": null,
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "4b/47/bc263c08c67385058706c6e1dcde/CFSv1_ensemble_tmp2m_us_lead4.png",
+            "href": "http://data.globalchange.gov/assets/4b/47/bc263c08c67385058706c6e1dcde/CFSv1_ensemble_tmp2m_us_lead4.png",
+            "identifier": "8e632bf4-7587-4ff7-a275-ec016147cc90",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "b95755aa7f0b67c4249957b70db5874bbbe9422f",
+            "size": 19354,
+            "thumbnail": "4b/47/bc263c08c67385058706c6e1dcde/.thumb-8e632bf4-7587-4ff7-a275-ec016147cc90.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/4b/47/bc263c08c67385058706c6e1dcde/.thumb-8e632bf4-7587-4ff7-a275-ec016147cc90.png",
+            "uri": "/file/8e632bf4-7587-4ff7-a275-ec016147cc90",
+            "url": "/assets/4b/47/bc263c08c67385058706c6e1dcde/CFSv1_ensemble_tmp2m_us_lead4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/0ca48669-8d06-4389-9996-e8615f5d115b.json",
+    "identifier": "0ca48669-8d06-4389-9996-e8615f5d115b",
+    "lat_max": "70",
+    "lat_min": "10",
+    "lon_max": "-60",
+    "lon_min": "-170",
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2012-03-31T23:59:00",
+    "time_start": "2012-03-01T00:00:00",
+    "title": "Forecasts March 2012",
+    "uri": "/image/0ca48669-8d06-4389-9996-e8615f5d115b",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

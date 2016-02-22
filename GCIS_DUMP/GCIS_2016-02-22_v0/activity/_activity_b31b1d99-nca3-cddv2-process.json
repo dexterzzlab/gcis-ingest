@@ -1,0 +1,15 @@
+{
+    "computing_environment": "Mac OS X (darwin x86_64 m64)",
+    "data_usage": "Decadal average precipitation anomalies (difference between the decade and the 1901-1960 average precipitation) for the contiguous U.S were plotted as a bar graph. Note: the far right bar contains data for 12 years (2001-2012).",
+    "duration": "6 hours",
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/b31b1d99-nca3-cddv2-process.json",
+    "identifier": "b31b1d99-nca3-cddv2-process",
+    "methodology": "Annual total precipitation amounts were averaged for all gridpoints in the contiguous U.S. Decadal averages were then calculated. Finally the 1901-1960 average precipitation amount was subtracted from the decadal average amount, and a percentage change in precipitation was calculated.",
+    "notes": "IDL was used to perform numerical calculations and to visualize the data.",
+    "output_artifacts": "temp_precip_seasonal_averages.pro\r\nconus.ave.prcp\r\ntemp_precip_decadal_averages.pro\r\nUS.dec_avg.precip_ANN.txt\r\ntemp_precip_decadal_barchart.pro\r\nUS_precip_anom_1901-2012_ANN.eps",
+    "software": "IDL (version 8.0)",
+    "start_time": null,
+    "uri": "/activity/b31b1d99-nca3-cddv2-process",
+    "visualization_software": "IDL (version 8.0)"
+}

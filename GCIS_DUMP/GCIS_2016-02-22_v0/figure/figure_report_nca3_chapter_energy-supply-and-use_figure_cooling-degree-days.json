@@ -1,0 +1,152 @@
+{
+    "attributes": null,
+    "caption": "These maps show projected average changes in cooling degree days for two future time periods: 2021-2050 and 2070-2099 (as compared to the period 1971-2000). The higher emissions scenario (A2) assumes climate change associated with continued increases in emissions of heat-trapping gases, while the lower emissions scenario (B1) assumes significant reductions. The projections show significant regional variations, with the greatest increases in the southern United States by the end of this century under the higher emissions scenario. Furthermore, population projections suggest continued shifts toward areas that require air conditioning in the summer, thereby increasing the impact of temperature changes on increased energy demand.<tbib>b2e7f7f3-4801-4a70-821b-b37abd843843</tbib> (Figure source: NOAA NCDC / CICS-NC).",
+    "chapter": {
+        "doi": "10.7930/J0BG2KWD",
+        "identifier": "energy-supply-and-use",
+        "number": 4,
+        "report_identifier": "nca3",
+        "sort_key": 40,
+        "title": "Energy Supply and Use",
+        "url": "http://nca2014.globalchange.gov/report/sectors/energy"
+    },
+    "chapter_identifier": "energy-supply-and-use",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2522.json",
+            "id": 2522,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Kenneth",
+                "id": 1025,
+                "last_name": "Kunkel",
+                "middle_name": null,
+                "orcid": "0000-0001-6667-7047",
+                "url": "http://cicsnc.org/people/kenneth-kunkel/"
+            },
+            "person_id": 1025,
+            "person_uri": "/person/1025",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2522"
+        }
+    ],
+    "create_dt": "2013-11-19T16:55:16",
+    "files": [
+        {
+            "file": "c8/bc/4147cdd7e4a820b382fd0e7c6f2e/energy_increasing_number_of_cdd_V8.png",
+            "href": "http://data.globalchange.gov/assets/c8/bc/4147cdd7e4a820b382fd0e7c6f2e/energy_increasing_number_of_cdd_V8.png",
+            "identifier": "1c81b8dc-c20f-4101-9928-09eb900b6cba",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "0906d1b6a3c8c43cf386b6873849a29f80510506",
+            "size": 883261,
+            "thumbnail": "c8/bc/4147cdd7e4a820b382fd0e7c6f2e/.thumb-1c81b8dc-c20f-4101-9928-09eb900b6cba.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/c8/bc/4147cdd7e4a820b382fd0e7c6f2e/.thumb-1c81b8dc-c20f-4101-9928-09eb900b6cba.png",
+            "uri": "/file/1c81b8dc-c20f-4101-9928-09eb900b6cba",
+            "url": "/assets/c8/bc/4147cdd7e4a820b382fd0e7c6f2e/energy_increasing_number_of_cdd_V8.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/energy-supply-and-use/figure/cooling-degree-days.json",
+    "identifier": "cooling-degree-days",
+    "images": [
+        {
+            "attributes": "cooling degree days, temperature, projections, emissions scenarios",
+            "create_dt": "2013-11-15T13:43:00",
+            "description": null,
+            "identifier": "f6db3545-873b-4c9e-b857-c3bb5671aea4",
+            "lat_max": "49.31",
+            "lat_min": "25.19",
+            "lon_max": "-67.06",
+            "lon_min": "-124.69",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2050-12-31T23:59:59",
+            "time_start": "1971-01-01T00:00:00",
+            "title": "Increasing Numbers of Cooling Degree Days: Higher Emissions (A2), 2021-2050",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": "cooling degree days, temperature, projections, emissions scenarios",
+            "create_dt": "2013-11-15T13:43:00",
+            "description": null,
+            "identifier": "660796bf-e2eb-41d9-bc9e-2cd9114f1b55",
+            "lat_max": "49.31",
+            "lat_min": "25.19",
+            "lon_max": "-67.06",
+            "lon_min": "-124.69",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2099-12-31T23:59:59",
+            "time_start": "1971-01-01T00:00:00",
+            "title": "Increasing Numbers of Cooling Degree Days: Higher Emissions (A2), 2070-2099",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": "cooling degree days, temperature, projections, emissions scenarios",
+            "create_dt": "2013-11-15T13:43:00",
+            "description": null,
+            "identifier": "aeaa0610-768e-44b8-96fb-d5b411132c07",
+            "lat_max": "49.31",
+            "lat_min": "25.19",
+            "lon_max": "-67.06",
+            "lon_min": "-124.69",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2050-12-31T23:59:59",
+            "time_start": "1971-01-01T00:00:00",
+            "title": "Increasing Numbers of Cooling Degree Days: Lower Emissions (B1), 2021-2050",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": "cooling degree days, temperature, projections, emissions scenarios",
+            "create_dt": "2013-11-15T13:43:00",
+            "description": null,
+            "identifier": "a2433338-e69a-46eb-9db5-67b013c29c10",
+            "lat_max": "49.31",
+            "lat_min": "25.19",
+            "lon_max": "-67.06",
+            "lon_min": "-124.69",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2099-12-31T23:59:59",
+            "time_start": "1971-01-01T00:00:00",
+            "title": "Increasing Numbers of Cooling Degree Days: Lower Emissions (B1), 2070-2099",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 3,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/b2e7f7f3-4801-4a70-821b-b37abd843843.json",
+            "uri": "/reference/b2e7f7f3-4801-4a70-821b-b37abd843843"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "NOAA NCDC / CICS-NC",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Increasing Numbers of Cooling Degree Days",
+    "uri": "/report/nca3/chapter/energy-supply-and-use/figure/cooling-degree-days",
+    "url": "http://nca2014.globalchange.gov/report/sectors/energy/graphics/increasing-numbers-cooling-degree-days",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

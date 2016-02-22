@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Weinstein, N.D.\rKolb, K.\rGoldstein, B.D.",
+        "DOI": "10.1111/j.1539-6924.1996.tb01464.x",
+        "ISSN": "1539-6924",
+        "Issue": "3",
+        "Journal": "Risk Analysis",
+        "Pages": "305-308",
+        "Title": "Using time intervals between expected events to communicate risk magnitudes",
+        "Volume": "16",
+        "Year": "1996",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "3381",
+        "_uuid": "375bdcfb-a7fa-4085-a67e-05c6e8e54058",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1539-6924.1996.tb01464.x",
+    "href": "http://data.globalchange.gov/reference/375bdcfb-a7fa-4085-a67e-05c6e8e54058.json",
+    "identifier": "375bdcfb-a7fa-4085-a67e-05c6e8e54058",
+    "uri": "/reference/375bdcfb-a7fa-4085-a67e-05c6e8e54058"
+}

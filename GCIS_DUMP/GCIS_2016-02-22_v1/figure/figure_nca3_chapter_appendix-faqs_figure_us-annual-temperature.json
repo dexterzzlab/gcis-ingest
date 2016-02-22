@@ -1,0 +1,80 @@
+{
+    "attributes": null,
+    "caption": null,
+    "chapter": {
+        "doi": "10.7930/J0G15XS3",
+        "identifier": "appendix-faqs",
+        "number": 34,
+        "report_identifier": "nca3",
+        "sort_key": 340,
+        "title": "Appendix 4: Frequently Asked Questions",
+        "url": "http://nca2014.globalchange.gov/report/appendices/faqs"
+    },
+    "chapter_identifier": "appendix-faqs",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-07-31T17:01:55",
+    "files": [
+        {
+            "file": "69/e9/6d58a7266dfd4eefdb63efaa3d23/CAQ_US_annual_temp_v4.png",
+            "href": "http://data.globalchange.gov/assets/69/e9/6d58a7266dfd4eefdb63efaa3d23/CAQ_US_annual_temp_v4.png",
+            "identifier": "34174953-4384-490c-89ba-6fb1b715bbde",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "8efe457994ac6f029591ba1e5ed04b5f35b61e87",
+            "size": 59486,
+            "thumbnail": "69/e9/6d58a7266dfd4eefdb63efaa3d23/.thumb-34174953-4384-490c-89ba-6fb1b715bbde.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/69/e9/6d58a7266dfd4eefdb63efaa3d23/.thumb-34174953-4384-490c-89ba-6fb1b715bbde.png",
+            "uri": "/file/34174953-4384-490c-89ba-6fb1b715bbde",
+            "url": "/assets/69/e9/6d58a7266dfd4eefdb63efaa3d23/CAQ_US_annual_temp_v4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-faqs/figure/us-annual-temperature.json",
+    "identifier": "us-annual-temperature",
+    "images": [
+        {
+            "attributes": "Contiguous U.S., temperature, observed",
+            "create_dt": "2013-07-31T10:33:00",
+            "description": null,
+            "identifier": "fe1ad9b9-3516-4623-aa66-4956ceec6891",
+            "lat_max": "49.38",
+            "lat_min": "24.50",
+            "lon_max": "-66.95",
+            "lon_min": "-124.80",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2012-12-31T23:59:59",
+            "time_start": "1960-01-01T00:00:00",
+            "title": "U.S. Annual Average Temperature",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 1,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Regional Climate Trends and Scenarios for the U.S. National Climate Assessment: Part 9. Climate of the Contiguous United States. NOAA Technical Report NESDIS 142-9",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/noaa-techreport-nesdis-142-9"
+        }
+    ],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "U.S. Annual Temperature",
+    "uri": "/report/nca3/chapter/appendix-faqs/figure/us-annual-temperature",
+    "url": "http://nca2014.globalchange.gov/report/appendices/faqs/graphics/us-annual-average-temperature",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

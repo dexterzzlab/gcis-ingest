@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Riley, R.\rK. Monroe\rJ. Hocker\rM. Boone\rM. Shafer",
+        "Institution": "Southern Climate Impacts Planning Program, University of Oklahoma, Louisiana State University",
+        "Pages": "47",
+        "Title": "An Assessment of the Climate-Related Needs of Oklahoma Decision Makers",
+        "URL": "http://www.southernclimate.org/publications/OK_Climate_Needs_Assessment_Report_Final.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\"]",
+        "_record_number": "2637",
+        "_uuid": "23d16192-e3d7-489a-8e84-d5a761a54cb9",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/scipp-assessmentok-2012",
+    "href": "http://data.globalchange.gov/reference/23d16192-e3d7-489a-8e84-d5a761a54cb9.json",
+    "identifier": "23d16192-e3d7-489a-8e84-d5a761a54cb9",
+    "uri": "/reference/23d16192-e3d7-489a-8e84-d5a761a54cb9"
+}

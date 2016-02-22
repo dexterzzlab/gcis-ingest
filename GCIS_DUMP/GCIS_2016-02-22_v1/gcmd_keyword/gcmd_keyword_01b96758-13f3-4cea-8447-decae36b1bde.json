@@ -1,0 +1,8 @@
+{
+    "definition": "The NINO3.4 index is one of several El Ni\u00f1o/Southern Oscillation (ENSO) indicators based on sea surface temperatures. NINO3.4 is the average sea surface temperature anomaly in the region bounded by 5\u00b0N to 5\u00b0S, from 170\u00b0W to 120\u00b0W. This region has large variability on El Ni\u00f1o time scales, and is close to the region where changes in local sea-surface temperature are important for shifting the large region of rainfall typically located in the far western Pacific. An El Ni\u00f1o or La Ni\u00f1a event is identified if the 5-month running-average of the NINO3.4 index exceeds +0.4\u00b0C for El Ni\u00f1o or -0.4\u00b0C for La Ni\u00f1a for at least 6 consecutive months.",
+    "href": "http://data.globalchange.gov/gcmd_keyword/01b96758-13f3-4cea-8447-decae36b1bde.json",
+    "identifier": "01b96758-13f3-4cea-8447-decae36b1bde",
+    "label": "EAST CENTRAL TROPICAL PACIFIC SST",
+    "parent_identifier": "b83895e9-bac8-49fe-bcf5-8fe4d8fcaa16",
+    "uri": "/gcmd_keyword/01b96758-13f3-4cea-8447-decae36b1bde"
+}

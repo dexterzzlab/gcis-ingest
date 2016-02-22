@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Knorr, M.\rFrey, S. D.\rCurtis, P. S.",
+        "DOI": "10.1890/05-0150",
+        "Date": "Dec",
+        "ISSN": "0012-9658",
+        "Issue": "12",
+        "Journal": "Ecology",
+        "Pages": "3252-3257",
+        "Title": "Nitrogen additions and litter decomposition: A meta-analysis",
+        "Volume": "86",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "1174",
+        "_uuid": "c4ec73f8-97df-4dde-a6da-9ca3615b2cf3",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/05-0150",
+    "href": "http://data.globalchange.gov/reference/c4ec73f8-97df-4dde-a6da-9ca3615b2cf3.json",
+    "identifier": "c4ec73f8-97df-4dde-a6da-9ca3615b2cf3",
+    "uri": "/reference/c4ec73f8-97df-4dde-a6da-9ca3615b2cf3"
+}

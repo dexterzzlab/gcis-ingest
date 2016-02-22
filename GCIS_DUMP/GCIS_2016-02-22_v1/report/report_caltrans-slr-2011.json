@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/caltrans-slr-2011.json",
+    "identifier": "caltrans-slr-2011",
+    "in_library": null,
+    "publication_year": 2011,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Guidance on Incorporating Sea-Level Rise: For Use in the Planning and Development of Project Initiation Documents",
+    "topic": null,
+    "uri": "/report/caltrans-slr-2011",
+    "url": "http://www.dot.ca.gov/ser/downloads/sealevel/guide_incorp_slr.pdf"
+}

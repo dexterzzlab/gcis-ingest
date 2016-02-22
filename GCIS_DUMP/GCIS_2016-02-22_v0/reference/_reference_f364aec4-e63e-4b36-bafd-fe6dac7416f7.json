@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Boon, John D\rBrubaker, John M\rForrest, David R",
+        "Date": "November 2010",
+        "Institution": "Virginia Institute of Marine Science",
+        "Place Published": "Gloucester Point, Virginia",
+        "Title": "Chesapeake Bay Land Subsidence and Sea Level Change: An Evaluation of Past and Present Trends and Future Outlook. Special Report No. 425 in Applied Marine Science and Ocean Engineering",
+        "URL": "http://web.vims.edu/GreyLit/VIMS/sramsoe425.pdf",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "4318",
+        "_uuid": "f364aec4-e63e-4b36-bafd-fe6dac7416f7",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/vims-specialreport-425-2010",
+    "href": "http://data.globalchange.gov/reference/f364aec4-e63e-4b36-bafd-fe6dac7416f7.json",
+    "identifier": "f364aec4-e63e-4b36-bafd-fe6dac7416f7",
+    "uri": "/reference/f364aec4-e63e-4b36-bafd-fe6dac7416f7"
+}

@@ -1,0 +1,9 @@
+{
+    "country_code": null,
+    "href": "http://data.globalchange.gov/organization/european-centre-medium-range-weather-forecasts.json",
+    "identifier": "european-centre-medium-range-weather-forecasts",
+    "name": "European Centre for Medium-Range Weather Forecasts",
+    "organization_type_identifier": "intergovernmental",
+    "uri": "/organization/european-centre-medium-range-weather-forecasts",
+    "url": "http://www.ecmwf.int/"
+}

@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-10-23T16:19:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Inputs of freshwater to the ocean from mountain glaciers, small ice caps, and the Greenland Ice Sheet have increased dramatically in the past two decades. The size of the circles in the figure is proportional to the five-year average freshwater contributions to the ocean from melting of land-based ice. The coloring indicates the relative contributions from the Greenland Ice Sheet (brown) and mountain glaciers from the Greenland periphery (orange), Iceland-Scandinavia-Svalbard (dark blue), the Canadian Arctic (yellow), southern Alaska (light blue), and the Russian Arctic (medium blue). The largest contributions from mountain glaciers have been from the Canadian Arctic and southern Alaska. Note that contributions from mass changes of the Greenland Ice Sheet are not available prior to the mid-1990s, but they are assumed to have been small during this earlier period because annual snow accumulation was in approximate balance with annual meltwater discharge. (Figure source: AMAP 2011<tbib>2ecb64ff-f4e0-4acd-b049-e5d04f44c57a</tbib>).",
+            "chapter_identifier": "appendix-climate-science-supplement",
+            "create_dt": "2013-10-23T16:19:00",
+            "identifier": "melting-of-arctic-landbased-ice",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 39,
+            "report_identifier": "nca3",
+            "source_citation": "AMAP 2011<tbib>2ecb64ff-f4e0-4acd-b049-e5d04f44c57a</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Melting of Arctic Land-based Ice",
+            "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/melting-arctic-land-based-ice",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "d9/a0/b1ed9de5ebb8cde3922075cca755/app_arctic_land-based_ice_v5.png",
+            "href": "http://data.globalchange.gov/assets/d9/a0/b1ed9de5ebb8cde3922075cca755/app_arctic_land-based_ice_v5.png",
+            "identifier": "af55f4ef-5c8b-4397-8962-bd7e9b344f80",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "84dc7f71ad15a0b840dcef28924fd2b2870afd49",
+            "size": 111553,
+            "thumbnail": "d9/a0/b1ed9de5ebb8cde3922075cca755/.thumb-af55f4ef-5c8b-4397-8962-bd7e9b344f80.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/d9/a0/b1ed9de5ebb8cde3922075cca755/.thumb-af55f4ef-5c8b-4397-8962-bd7e9b344f80.png",
+            "uri": "/file/af55f4ef-5c8b-4397-8962-bd7e9b344f80",
+            "url": "/assets/d9/a0/b1ed9de5ebb8cde3922075cca755/app_arctic_land-based_ice_v5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/73f2eec6-660d-4a83-9336-7080a2fe0075.json",
+    "identifier": "73f2eec6-660d-4a83-9336-7080a2fe0075",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2006-12-31T23:59:59",
+    "time_start": "1960-01-01T00:00:00",
+    "title": "Permafrost Temperature Rising",
+    "uri": "/image/73f2eec6-660d-4a83-9336-7080a2fe0075",
+    "url": null,
+    "usage_limits": null
+}

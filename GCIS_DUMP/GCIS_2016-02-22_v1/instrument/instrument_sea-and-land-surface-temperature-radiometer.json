@@ -1,0 +1,8 @@
+{
+    "description": "Multi-channel/direction/polarisation radiometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/sea-and-land-surface-temperature-radiometer.json",
+    "identifier": "sea-and-land-surface-temperature-radiometer",
+    "name": "Sea and Land Surface Temperature Radiometer",
+    "uri": "/instrument/sea-and-land-surface-temperature-radiometer"
+}

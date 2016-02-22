@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Luthcke, S.B.\rArendt, A.A.\rRowlands, D.D.\rMcCarthy, J.J.\rLarsen, C.F.",
+        "DOI": "10.3189/002214308787779933",
+        "ISSN": "0022-1430",
+        "Issue": "188",
+        "Journal": "Journal of Glaciology",
+        "Pages": "767-777",
+        "Title": "Recent glacier mass changes in the Gulf of Alaska region from GRACE mascon solutions",
+        "Volume": "54",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "1383",
+        "_uuid": "f755e69d-3511-4ec0-baab-4c1d0663888e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.3189/002214308787779933",
+    "href": "http://data.globalchange.gov/reference/f755e69d-3511-4ec0-baab-4c1d0663888e.json",
+    "identifier": "f755e69d-3511-4ec0-baab-4c1d0663888e",
+    "uri": "/reference/f755e69d-3511-4ec0-baab-4c1d0663888e"
+}

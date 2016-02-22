@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "Observed changes, as analyzed by many independent groups in different ways, of a range of climate indicators. All of these are in fact changing as expected in a warming world. Further details underpinning this diagram can be found at http://www.ncdc.noaa.gov/bams-state-of-the-climate/. (Figure source: updated from Kennedy et al. 2010<tbib>25578196-95d0-4ac7-b889-0e863985423d</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0KS6PHH",
+        "identifier": "appendix-climate-science-supplement",
+        "number": 33,
+        "report_identifier": "nca3",
+        "sort_key": 330,
+        "title": "Appendix 3: Climate Science Supplement",
+        "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement"
+    },
+    "chapter_identifier": "appendix-climate-science-supplement",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-10-23T15:14:00",
+    "files": [
+        {
+            "file": "8e/af/2b35877325aabbe81d43547bb6fd/APP_indicators_V5.png",
+            "href": "http://data.globalchange.gov/assets/8e/af/2b35877325aabbe81d43547bb6fd/APP_indicators_V5.png",
+            "identifier": "c2fd08e1-269e-4ab4-9f66-3ee8c410fe41",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "1eac07e7f49a5ce895fd34d08821c0facd0e7249",
+            "size": 425552,
+            "thumbnail": "8e/af/2b35877325aabbe81d43547bb6fd/.thumb-c2fd08e1-269e-4ab4-9f66-3ee8c410fe41.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/8e/af/2b35877325aabbe81d43547bb6fd/.thumb-c2fd08e1-269e-4ab4-9f66-3ee8c410fe41.png",
+            "uri": "/file/c2fd08e1-269e-4ab4-9f66-3ee8c410fe41",
+            "url": "/assets/8e/af/2b35877325aabbe81d43547bb6fd/APP_indicators_V5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-climate-science-supplement/figure/indicators-of-warming-from-multiple-data-sets.json",
+    "identifier": "indicators-of-warming-from-multiple-data-sets",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-10-23T15:14:00",
+            "description": null,
+            "identifier": "4331b1b6-17bf-43b2-b180-8b568fe6e55f",
+            "lat_max": "90.00",
+            "lat_min": "-90.00",
+            "lon_max": "180.00",
+            "lon_min": "-180.00",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2010-12-31T23:59:59",
+            "time_start": "1850-01-01T00:00:00",
+            "title": "Indicators of Warming from Multiple Data Sets",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 10,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "State of the Climate in 2009",
+            "note": "",
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/bams-state-of-the-climate-2009"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/25578196-95d0-4ac7-b889-0e863985423d.json",
+            "uri": "/reference/25578196-95d0-4ac7-b889-0e863985423d"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "updated from Kennedy et al. 2010<tbib>25578196-95d0-4ac7-b889-0e863985423d</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Indicators of Warming from Multiple Data Sets",
+    "uri": "/report/nca3/chapter/appendix-climate-science-supplement/figure/indicators-of-warming-from-multiple-data-sets",
+    "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/indicators-warming-multiple-data-sets",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

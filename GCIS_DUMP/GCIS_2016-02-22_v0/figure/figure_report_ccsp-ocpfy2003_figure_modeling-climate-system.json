@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Models are an essential tool for synthesizing observations, theory, and experimental results to investigate how the Earth system works and how it is affected by human activities. Such models can be used in both a retrospective sense, to test the accuracy of modeled changes in Earth system forcing and response by comparing model results with observations of past change, and in a prognostic sense, for calculating the response of the Earth system to projected future forcing. Comprehensive climate models represent the major components of the climate system (atmosphere, oceans, land surface, cyrosphere, and biosphere) and the transfer of water, energy, organic chemicals, and mass among them.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "d3/db/5c64676c9667f976b449167cbc50/our_changing_planet_2003_26_20090708_2016304685.jpg",
+            "href": "http://data.globalchange.gov/assets/d3/db/5c64676c9667f976b449167cbc50/our_changing_planet_2003_26_20090708_2016304685.jpg",
+            "identifier": "70d9473d-1573-41bf-ac29-27739cf824cf",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "e86d27f6a335a6ec4be0264f877d05129b560ea9",
+            "size": 84244,
+            "thumbnail": "d3/db/5c64676c9667f976b449167cbc50/.thumb-70d9473d-1573-41bf-ac29-27739cf824cf.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/d3/db/5c64676c9667f976b449167cbc50/.thumb-70d9473d-1573-41bf-ac29-27739cf824cf.png",
+            "uri": "/file/70d9473d-1573-41bf-ac29-27739cf824cf",
+            "url": "/assets/d3/db/5c64676c9667f976b449167cbc50/our_changing_planet_2003_26_20090708_2016304685.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2003/figure/modeling-climate-system.json",
+    "identifier": "modeling-climate-system",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2003",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Modeling the Climate System",
+    "uri": "/report/ccsp-ocpfy2003/figure/modeling-climate-system",
+    "url": null,
+    "usage_limits": null
+}

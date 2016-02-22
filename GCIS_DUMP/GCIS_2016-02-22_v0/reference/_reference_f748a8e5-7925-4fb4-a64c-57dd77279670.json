@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".publisher": "American Meteorological Society",
+        ".reference_type": "0",
+        "Access Date": "2013/10/15",
+        "Author": "Kossin, James P.\rOlander, Timothy L.\rKnapp, Kenneth R.",
+        "DOI": "10.1175/JCLI-D-13-00262.1",
+        "Date": "December 2013",
+        "ISSN": "0894-8755",
+        "Issue": "24",
+        "Journal": "Journal of Climate",
+        "Pages": "9960-9976",
+        "Title": "Trend analysis with a new global record of tropical cyclone intensity",
+        "Volume": "26",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "4359",
+        "_uuid": "f748a8e5-7925-4fb4-a64c-57dd77279670",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/JCLI-D-13-00262.1",
+    "href": "http://data.globalchange.gov/reference/f748a8e5-7925-4fb4-a64c-57dd77279670.json",
+    "identifier": "f748a8e5-7925-4fb4-a64c-57dd77279670",
+    "uri": "/reference/f748a8e5-7925-4fb4-a64c-57dd77279670"
+}

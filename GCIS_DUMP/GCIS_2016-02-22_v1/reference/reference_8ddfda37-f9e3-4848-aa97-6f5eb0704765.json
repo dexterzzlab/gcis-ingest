@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Reid, Colleen E.\rMann, Jennifer K.\rAlfasso, Ruth\rEnglish, Paul B.\rKing, Galatea C.\rLincoln, Rebecca A.\rMargolis, Helene G.\rRubado, Dan J.\rSabato, Joseph E.\rWest, Nancy L.",
+        "DOI": "10.1289/ehp.1103766",
+        "Issue": "5",
+        "Journal": "Environmental Health Perspectives",
+        "Pages": "715-720",
+        "Title": "Evaluation of a heat vulnerability index on abnormally hot days: An environmental public health tracking study",
+        "URL": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3346770/pdf/ehp.1103766.pdf",
+        "Volume": "120",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "4227",
+        "_uuid": "8ddfda37-f9e3-4848-aa97-6f5eb0704765",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1289/ehp.1103766",
+    "href": "http://data.globalchange.gov/reference/8ddfda37-f9e3-4848-aa97-6f5eb0704765.json",
+    "identifier": "8ddfda37-f9e3-4848-aa97-6f5eb0704765",
+    "uri": "/reference/8ddfda37-f9e3-4848-aa97-6f5eb0704765"
+}

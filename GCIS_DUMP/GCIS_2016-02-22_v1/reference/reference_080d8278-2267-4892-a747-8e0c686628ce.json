@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Doney, Scott\rRosenberg, Andrew A.\rAlexander, Michael\rChavez, Francisco\rHarvell, C. Drew\rHofmann, Gretchen\rOrbach, Michael\rRuckelshaus, Mary",
+        "Book Title": "Climate Change Impacts in the United States: The Third National Climate Assessment",
+        "DOI": "(doi)",
+        "Editor": "Melillo, Jerry M.\rTerese (T.C.) Richmond,\rYohe, Gary W.",
+        "Pages": "24-1\u2013nn",
+        "Place Published": "Washington, DC",
+        "Publisher": "U.S. Global Change Research Program",
+        "Reviewer": "080d8278-2267-4892-a747-8e0c686628ce",
+        "Title": "Ch. 24: Oceans and Marine Resources",
+        "URL": "http://nca2014.globalchange.gov/report/regions/oceans",
+        "Year": "2014",
+        "_chapter": "[\"Ch. 0: About this Report FINAL\"]",
+        "_record_number": "4734",
+        "_uuid": "080d8278-2267-4892-a747-8e0c686628ce",
+        "reftype": "Book Section"
+    },
+    "child_publication": null,
+    "href": "http://data.globalchange.gov/reference/080d8278-2267-4892-a747-8e0c686628ce.json",
+    "identifier": "080d8278-2267-4892-a747-8e0c686628ce",
+    "uri": "/reference/080d8278-2267-4892-a747-8e0c686628ce"
+}

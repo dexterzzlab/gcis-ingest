@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"62\" /><run start=\"63\" /><run face=\"italic\" start=\"76\" /><run start=\"99\" /></field></record>",
+        "Author": "Rogers, C.A.\rWayne, P.M.\rMacklin, E.A.\rMuilenberg, M.L.\rWagner, C.J.\rEpstein, P.R.\rBazzaz, F.A.",
+        "DOI": "10.1289/ehp.8549",
+        "Issue": "6",
+        "Journal": "Environmental Health Perspectives",
+        "Pages": "865-869",
+        "Title": "Interaction of the onset of spring and elevated atmospheric CO2 on ragweed (Ambrosia artemisiifolia L.) pollen production",
+        "URL": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1480488/pdf/ehp0114-000865.pdf",
+        "Volume": "114",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "2660",
+        "_uuid": "1bc9d76c-14c8-4245-9ccb-1355cdc48d0b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1289/ehp.8549",
+    "href": "http://data.globalchange.gov/reference/1bc9d76c-14c8-4245-9ccb-1355cdc48d0b.json",
+    "identifier": "1bc9d76c-14c8-4245-9ccb-1355cdc48d0b",
+    "uri": "/reference/1bc9d76c-14c8-4245-9ccb-1355cdc48d0b"
+}

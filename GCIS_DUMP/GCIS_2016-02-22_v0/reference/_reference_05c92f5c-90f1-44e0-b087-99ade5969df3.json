@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"55\" /><run start=\"56\" /></field></record>",
+        "Access Year": "2012",
+        "Author": "Tans, P.\rKeeling, R.",
+        "Place Published": "Boulder, CO",
+        "Publisher": "NOAA\u2019s Earth System Research Laboratory",
+        "Title": "Trends in Atmospheric Carbon Dioxide, Full Mauna Loa CO2 Record",
+        "URL": "http://www.esrl.noaa.gov/gmd/ccgg/trends/",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\",\"RF 11\"]",
+        "_record_number": "3013",
+        "_uuid": "05c92f5c-90f1-44e0-b087-99ade5969df3",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/347b5af4-2ee6-4dd8-a95b-a04f50af08af",
+    "href": "http://data.globalchange.gov/reference/05c92f5c-90f1-44e0-b087-99ade5969df3.json",
+    "identifier": "05c92f5c-90f1-44e0-b087-99ade5969df3",
+    "uri": "/reference/05c92f5c-90f1-44e0-b087-99ade5969df3"
+}

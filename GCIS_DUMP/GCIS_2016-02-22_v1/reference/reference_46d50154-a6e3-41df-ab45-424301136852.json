@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Smit, B.\rWandel, J.",
+        "DOI": "10.1016/j.gloenvcha.2006.03.008",
+        "ISSN": "0959-3780",
+        "Issue": "3",
+        "Journal": "Global Environmental Change",
+        "Pages": "282-292",
+        "Title": "Adaptation, adaptive capacity and vulnerability",
+        "Volume": "16",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "2872",
+        "_uuid": "46d50154-a6e3-41df-ab45-424301136852",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.gloenvcha.2006.03.008",
+    "href": "http://data.globalchange.gov/reference/46d50154-a6e3-41df-ab45-424301136852.json",
+    "identifier": "46d50154-a6e3-41df-ab45-424301136852",
+    "uri": "/reference/46d50154-a6e3-41df-ab45-424301136852"
+}

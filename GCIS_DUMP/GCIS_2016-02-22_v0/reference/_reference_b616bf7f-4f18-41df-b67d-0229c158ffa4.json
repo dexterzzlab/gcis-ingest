@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Foster, J.\rWinkelman, S.\rLowe, A.",
+        "Institution": "The Center for Clean Air Policy",
+        "Pages": "23",
+        "Place Published": "Washington, D.C.",
+        "Title": "Lessons Learned on Local Climate Adaptation from the Urban Leaders Adaptation Initiative",
+        "URL": "http://www.ccap.org/docs/resources/988/Urban_Leaders_Lessons_Learned_FINAL.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 11: Urban Systems FINAL\",\"RF 6\"]",
+        "_record_number": "1047",
+        "_uuid": "b616bf7f-4f18-41df-b67d-0229c158ffa4",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/ccap-lessons-2011",
+    "href": "http://data.globalchange.gov/reference/b616bf7f-4f18-41df-b67d-0229c158ffa4.json",
+    "identifier": "b616bf7f-4f18-41df-b67d-0229c158ffa4",
+    "uri": "/reference/b616bf7f-4f18-41df-b67d-0229c158ffa4"
+}

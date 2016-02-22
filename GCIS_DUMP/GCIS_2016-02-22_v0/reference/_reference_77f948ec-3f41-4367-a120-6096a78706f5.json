@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"italic\" start=\"81\" /><run start=\"98\" /></field></record>",
+        "Author": "Diuk-Wasser, M.A.\rVourc\u2019h, G.\rCislo, P.\rHoen, A.G.\rMelton, F.\rHamer, S.A.\rRowland, M.\rCortinas, R.\rHickling, G.J.\rTsao, J.I.\rBarbour, A. G.\rKitron, U.\rPiesman, J. \rFish, D.",
+        "DOI": "10.1111/j.1466-8238.2010.00526.x",
+        "ISSN": "1466-8238",
+        "Issue": "4",
+        "Journal": "Global Ecology and Biogeography",
+        "Pages": "504-514",
+        "Title": "Field and climate-based model for predicting the density of host-seeking nymphal Ixodes scapularis, an important vector of tick-borne disease agents in the eastern United States",
+        "Volume": "19",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "696",
+        "_uuid": "77f948ec-3f41-4367-a120-6096a78706f5",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1466-8238.2010.00526.x",
+    "href": "http://data.globalchange.gov/reference/77f948ec-3f41-4367-a120-6096a78706f5.json",
+    "identifier": "77f948ec-3f41-4367-a120-6096a78706f5",
+    "uri": "/reference/77f948ec-3f41-4367-a120-6096a78706f5"
+}

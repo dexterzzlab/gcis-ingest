@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-03-13T10:25:06",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "The nation\u2019s busiest subway system sustained the worst damage in its 108 years of operation on October 29, 2012, as a result of Hurricane Sandy. Millions of people were left without service for at least one week after the storm, as the Metropolitan Transportation Authority rapidly worked to repair extensive flood damage (Photo credit: William Vantuono, Railway Age Magazine, 2012<tbib>fadc1df6-145a-4701-8833-3d9438d09fa1</tbib>).",
+            "chapter_identifier": "transportation",
+            "create_dt": "2014-03-13T10:25:06",
+            "identifier": "hurricane-sandy-causes-flooding-in-new-york-city-subway-stations",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 4,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Hurricane Sandy Causes Flooding in New York City Subway Stations",
+            "url": "http://nca2014.globalchange.gov/report/sectors/transportation/graphics/hurricane-sandy-causes-flooding-new-york-city-subway-stations",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "3d/ff/f65f34eed0b8d8145e2661c7dabe/transport_hurricane_sandy_subway_flooding_v4.png",
+            "href": "http://data.globalchange.gov/assets/3d/ff/f65f34eed0b8d8145e2661c7dabe/transport_hurricane_sandy_subway_flooding_v4.png",
+            "identifier": "8e692662-691f-46e6-adcf-29f9b6a2729f",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "d9929513af6f7b19e207a2c7a67cecf5b624e3df",
+            "size": 941934,
+            "thumbnail": "3d/ff/f65f34eed0b8d8145e2661c7dabe/.thumb-8e692662-691f-46e6-adcf-29f9b6a2729f.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/3d/ff/f65f34eed0b8d8145e2661c7dabe/.thumb-8e692662-691f-46e6-adcf-29f9b6a2729f.png",
+            "uri": "/file/8e692662-691f-46e6-adcf-29f9b6a2729f",
+            "url": "/assets/3d/ff/f65f34eed0b8d8145e2661c7dabe/transport_hurricane_sandy_subway_flooding_v4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/a0407362-d1ea-4957-8cab-2efd73524a3a.json",
+    "identifier": "a0407362-d1ea-4957-8cab-2efd73524a3a",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Hurricane Sandy Causes Flooding in New York City Subway Stations",
+    "uri": "/image/a0407362-d1ea-4957-8cab-2efd73524a3a",
+    "url": null,
+    "usage_limits": null
+}

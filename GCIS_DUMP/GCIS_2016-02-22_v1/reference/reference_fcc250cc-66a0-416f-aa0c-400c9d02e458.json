@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "The recent warming in the Arctic is affecting a broad spectrum of physical, ecological, and human/cultural systems that may be irreversible on century time scales and, have the potential to cause rapid changes in the earth system. The response of the carbon cycle of the Arctic to changes in climate is a major issue of global concern, yet there has not been a comprehensive review of the status of the contemporary carbon cycle of the Arctic and its response to climate change. This review is designed to clarify key uncertainties and vulnerabilities in the response of the carbon cycle of the Arctic to ongoing climatic change. While it is clear that there are substantial stocks of carbon in the Arctic, there are also significant uncertainties associated with the magnitude of organic matter stocks contained in permafrost and the storage of methane hydrates beneath both subterranean and submerged permafrost of the Arctic. In the context of the global carbon cycle, this review demonstrates that the Arctic plays an important role in the global dynamics of both CO2 and CH4. Studies suggest that the Arctic has been a sink for atmospheric CO2 of between 0 and 0.8 Pg C/yr in recent decades, which is between 0% and 25% of the global net land/ocean flux during the 1990s. The Arctic is a substantial source of CH4 to the atmosphere (between 32 and 112 Tg CH4/yr), primarily because of the large area of wetlands throughout the region. Analyses to date indicate that the sensitivity of the carbon cycle of the Arctic during the remainder of the 21st century is highly uncertain. To improve the capability to assess the sensitivity of the carbon cycle of the Arctic to projected climate change, we recommend that (I) integrated regional studies be conducted to link observations of carbon dynamics to the processes that are likely to influence those dynamics, and (2) the understanding gained from these integrated studies be incorporated into both uncoupled and fully coupled carbon-climate modeling efforts. [ABSTRACT FROM AUTHOR] Copyright of Ecological Monographs is the property of Ecological Society of America and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written permission. However, users may print, download, or email articles for individual use. This abstract may be abridged. No warranty is given about the accuracy of the copy. Users should refer to the original published version of the material for the full abstract. (Copyright applies to all Abstracts.)",
+        "Author": "McGuire, A. David\rAnderson, Leif G.\rChristensen, Torben R.\rDallimore, Scott\rGuo, Laodong\rHayes, Daniel J.\rHeimann, Martin\rLorenson, Thomas D.\rMacDonald, Robie W.\rRoulet, Nigel",
+        "DOI": "10.1890/08-2025.1",
+        "ISSN": "00129615",
+        "Issue": "4",
+        "Journal": "Ecological Monographs",
+        "Keywords": "Arctic; Arctic Ocean; ARCTIC regions; ATMOSPHERIC carbon dioxide; CARBON cycle (Biogeochemistry); carbon dioxide; Climate change; Climate Data; climate feedbacks; CLIMATIC changes; Ecosystem; horealforest; hydrates; methane; METHANE hydrates; ORGANIC compounds; permafrost; review; tundra",
+        "Pages": "523-555",
+        "Title": "Sensitivity of the carbon cycle in the Arctic to climate change",
+        "URL": "http://www.esajournals.org/doi/pdf/10.1890/08-2025.1",
+        "Volume": "79",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "1944",
+        "_uuid": "fcc250cc-66a0-416f-aa0c-400c9d02e458",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/08-2025.1",
+    "href": "http://data.globalchange.gov/reference/fcc250cc-66a0-416f-aa0c-400c9d02e458.json",
+    "identifier": "fcc250cc-66a0-416f-aa0c-400c9d02e458",
+    "uri": "/reference/fcc250cc-66a0-416f-aa0c-400c9d02e458"
+}

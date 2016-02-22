@@ -1,0 +1,102 @@
+{
+    "attributes": null,
+    "caption": "Left: Projected trend in Southeast-wide annual water yield (equivalent to water availability) due to climate\r\n    change. The green area represents the range in predicted water yield from four climate model projections based on the A1B and\r\n    B2 emissions scenarios. Right: Spatial pattern of change in water yield for 2010-2060 (decadal trend relative to 2010).\r\n    The hatched areas are those where the predicted negative trend in water\r\n    availability associated with the range of climate scenarios is statistically significant (with 95% confidence).\r\n    As shown on the map, the western part of the Southeast region is expected to see the largest reductions in water\r\n    availability. (Figure source: adapted from Sun et al. 2013<tbib>ea3445e7-7601-48c1-9a36-bbd7befc0964</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0NP22CB",
+        "identifier": "southeast",
+        "number": 17,
+        "report_identifier": "nca3",
+        "sort_key": 170,
+        "title": "Southeast and the Caribbean",
+        "url": "http://nca2014.globalchange.gov/report/regions/southeast"
+    },
+    "chapter_identifier": "southeast",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-18T16:23:00",
+    "files": [
+        {
+            "file": "21/45/2183f2093ae799143ff699c7ee43/SE_trends_in_water_availability_V4.png",
+            "href": "http://data.globalchange.gov/assets/21/45/2183f2093ae799143ff699c7ee43/SE_trends_in_water_availability_V4.png",
+            "identifier": "552bc656-7ba7-4dde-904e-fe683c5129e5",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "ba3cd7747365c4a5f175240fbdcfeed1484a511e",
+            "size": 117745,
+            "thumbnail": "21/45/2183f2093ae799143ff699c7ee43/.thumb-552bc656-7ba7-4dde-904e-fe683c5129e5.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/21/45/2183f2093ae799143ff699c7ee43/.thumb-552bc656-7ba7-4dde-904e-fe683c5129e5.png",
+            "uri": "/file/552bc656-7ba7-4dde-904e-fe683c5129e5",
+            "url": "/assets/21/45/2183f2093ae799143ff699c7ee43/SE_trends_in_water_availability_V4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/southeast/figure/trends-in-water-availability.json",
+    "identifier": "trends-in-water-availability",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-11-18T16:23:00",
+            "description": null,
+            "identifier": "37e35f4e-8e3e-417a-a000-5001864e5270",
+            "lat_max": "39.62",
+            "lat_min": "24.50",
+            "lon_max": "-75.22",
+            "lon_min": "-94.70",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2060-12-31T23:59:59",
+            "time_start": "2010-01-01T00:00:00",
+            "title": "Trends in Water Availability - Left",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2013-11-18T16:23:00",
+            "description": null,
+            "identifier": "433abd10-89d7-43f6-a721-26bc1033f143",
+            "lat_max": "39.62",
+            "lat_min": "24.50",
+            "lon_max": "-75.22",
+            "lon_min": "-94.70",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2060-12-31T23:59:59",
+            "time_start": "2010-01-01T00:00:00",
+            "title": "Trends in Water Availability - Right",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 11,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Climate of the Southeast Unite...",
+            "note": null,
+            "publication_type_identifier": "book",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/book/7951fbd8-5877-41aa-ae62-9da3eb56b5c5"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/ea3445e7-7601-48c1-9a36-bbd7befc0964.json",
+            "uri": "/reference/ea3445e7-7601-48c1-9a36-bbd7befc0964"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "adapted from Sun et al. 2013 <tbib>ea3445e7-7601-48c1-9a36-bbd7befc0964</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Trends in Water Availability",
+    "uri": "/report/nca3/chapter/southeast/figure/trends-in-water-availability",
+    "url": "http://nca2014.globalchange.gov/report/regions/southeast/graphics/trends-water-availability",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Ebi, K.L.\rSemenza, J.C.",
+        "DOI": "10.1016/j.amepre.2008.08.018",
+        "ISSN": "0749-3797",
+        "Issue": "5",
+        "Journal": "American Journal of Preventive Medicine",
+        "Pages": "501-507",
+        "Title": "Community-based adaptation to the health impacts of climate change",
+        "Volume": "35",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "429",
+        "_uuid": "9df9d372-1c41-4065-890e-9784acbd6005",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.amepre.2008.08.018",
+    "href": "http://data.globalchange.gov/reference/9df9d372-1c41-4065-890e-9784acbd6005.json",
+    "identifier": "9df9d372-1c41-4065-890e-9784acbd6005",
+    "uri": "/reference/9df9d372-1c41-4065-890e-9784acbd6005"
+}

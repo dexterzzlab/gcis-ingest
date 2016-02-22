@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Prinn, R.G.",
+        "DOI": "10.1073/pnas.1107470109",
+        "ISSN": "1091-6490",
+        "Issue": "Supplement 1",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Pages": "3673-3680",
+        "Title": "Development and application of earth system models",
+        "URL": "http://www.pnas.org/content/110/suppl.1/3673.full.pdf+html",
+        "Volume": "110",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "2535",
+        "_uuid": "9384983f-f44c-4fe6-b964-8cdbe66aa3ce",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.1107470109",
+    "href": "http://data.globalchange.gov/reference/9384983f-f44c-4fe6-b964-8cdbe66aa3ce.json",
+    "identifier": "9384983f-f44c-4fe6-b964-8cdbe66aa3ce",
+    "uri": "/reference/9384983f-f44c-4fe6-b964-8cdbe66aa3ce"
+}

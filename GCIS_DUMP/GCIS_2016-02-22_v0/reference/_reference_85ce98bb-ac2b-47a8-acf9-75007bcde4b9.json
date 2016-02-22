@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Benning, T. L.\rLaPointe, D. \rAtkinson, C. T.\rVitousek, P. M.",
+        "DOI": "10.1073/pnas.162372399",
+        "Issue": "22",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Notes": "Benning, T. L., LaPointe, D. A., Atkinson, C. T., & Vitousek, P. M. (2002). Interactions of climate change with biological invasions and land use in the Hawaiian Islands: Modeling the fate of endemic birds using a geographic information system. Proceedings of the National Academy of Sciences, 99, 14246-49",
+        "Pages": "14246-49",
+        "Title": "Interactions of climate change with biological invasions and land use in the Hawaiian Islands: Modeling the fate of endemic birds using a geographic information system",
+        "URL": "http://www.pnas.org/content/99/22/14246.full.pdf+html",
+        "Volume": "99",
+        "Year": "2002",
+        "_chapter": "[\"RG 8 Hawaii\",\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "985",
+        "_uuid": "85ce98bb-ac2b-47a8-acf9-75007bcde4b9",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.162372399",
+    "href": "http://data.globalchange.gov/reference/85ce98bb-ac2b-47a8-acf9-75007bcde4b9.json",
+    "identifier": "85ce98bb-ac2b-47a8-acf9-75007bcde4b9",
+    "uri": "/reference/85ce98bb-ac2b-47a8-acf9-75007bcde4b9"
+}

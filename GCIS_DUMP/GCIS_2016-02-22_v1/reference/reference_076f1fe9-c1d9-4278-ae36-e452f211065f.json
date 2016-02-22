@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Gardner, T.A.\rC\u00f4t\u00e9, I.M.\rGill, J.A.\rGrant, A.\rWatkinson, A.R.",
+        "DOI": "10.1126/science.1086050",
+        "ISSN": "0036-8075",
+        "Issue": "5635",
+        "Journal": "Science",
+        "Pages": "958-960",
+        "Title": "Long-term region-wide declines in Caribbean corals",
+        "Volume": "301",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\",\"Appendix 1: Process FINAL\"]",
+        "_record_number": "1067",
+        "_uuid": "076f1fe9-c1d9-4278-ae36-e452f211065f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1086050",
+    "href": "http://data.globalchange.gov/reference/076f1fe9-c1d9-4278-ae36-e452f211065f.json",
+    "identifier": "076f1fe9-c1d9-4278-ae36-e452f211065f",
+    "uri": "/reference/076f1fe9-c1d9-4278-ae36-e452f211065f"
+}

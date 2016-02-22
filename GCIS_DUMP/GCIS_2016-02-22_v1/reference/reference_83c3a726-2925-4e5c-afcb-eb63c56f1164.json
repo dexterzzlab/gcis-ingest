@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Luber, G.\rPrudent, N.",
+        "Journal": "Transactions of the American Clinical and Climatological Association",
+        "Pages": "113-117",
+        "Title": "Climate change and human health",
+        "URL": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2744549/pdf/tacca120000113.pdf",
+        "Volume": "120",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "284",
+        "_uuid": "83c3a726-2925-4e5c-afcb-eb63c56f1164",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/climate-change-and-human-health",
+    "href": "http://data.globalchange.gov/reference/83c3a726-2925-4e5c-afcb-eb63c56f1164.json",
+    "identifier": "83c3a726-2925-4e5c-afcb-eb63c56f1164",
+    "uri": "/reference/83c3a726-2925-4e5c-afcb-eb63c56f1164"
+}

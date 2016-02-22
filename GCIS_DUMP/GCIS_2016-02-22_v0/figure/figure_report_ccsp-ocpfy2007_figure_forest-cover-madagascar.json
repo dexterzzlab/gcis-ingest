@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Forest Cover of Madagascar, 1950s to ~2000",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "70/61/d4e800dcac8ef1362bfdb661b5c5/our_changing_planet_2007_56_20090708_1046535895.jpg",
+            "href": "http://data.globalchange.gov/assets/70/61/d4e800dcac8ef1362bfdb661b5c5/our_changing_planet_2007_56_20090708_1046535895.jpg",
+            "identifier": "2d18fb1c-92f4-4921-8bac-49b1e16af5bc",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "f04b665107d7a12487498b8f7b1bd35b246d5709",
+            "size": 50331,
+            "thumbnail": "70/61/d4e800dcac8ef1362bfdb661b5c5/.thumb-2d18fb1c-92f4-4921-8bac-49b1e16af5bc.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/70/61/d4e800dcac8ef1362bfdb661b5c5/.thumb-2d18fb1c-92f4-4921-8bac-49b1e16af5bc.png",
+            "uri": "/file/2d18fb1c-92f4-4921-8bac-49b1e16af5bc",
+            "url": "/assets/70/61/d4e800dcac8ef1362bfdb661b5c5/our_changing_planet_2007_56_20090708_1046535895.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/forest-cover-madagascar.json",
+    "identifier": "forest-cover-madagascar",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Forest Cover of Madagascar",
+    "uri": "/report/ccsp-ocpfy2007/figure/forest-cover-madagascar",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

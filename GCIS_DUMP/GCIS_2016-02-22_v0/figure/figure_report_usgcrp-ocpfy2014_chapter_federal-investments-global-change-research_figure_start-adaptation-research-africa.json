@@ -1,0 +1,89 @@
+{
+    "attributes": null,
+    "caption": "Farmers in Kenya meet to discuss agricultural risk management. (Source: START)",
+    "chapter": {
+        "doi": null,
+        "identifier": "federal-investments-global-change-research",
+        "number": 3,
+        "report_identifier": "usgcrp-ocpfy2014",
+        "sort_key": 30,
+        "title": "Federal Investments In Global Change Research",
+        "url": null
+    },
+    "chapter_identifier": "federal-investments-global-change-research",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/4302.json",
+            "id": 4302,
+            "organization": {
+                "country_code": "US",
+                "identifier": "start-org",
+                "name": "START - global change SysTem for Analysis, Research & Training",
+                "organization_type_identifier": "ngo",
+                "url": "http://start.org"
+            },
+            "organization_uri": "/organization/start-org",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "lead_agency",
+            "uri": "/contributor/4302"
+        }
+    ],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "b1/85/794a21ec70936e45e0b9d4d72a16/Box_12_ACCFP_High_Res_1.jpg",
+            "href": "http://data.globalchange.gov/assets/b1/85/794a21ec70936e45e0b9d4d72a16/Box_12_ACCFP_High_Res_1.jpg",
+            "identifier": "00868c30-5110-4c94-ac87-c6a0bfea46fa",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "b52423382e632aa29613a2aac1d42a3d25326cdd",
+            "size": 3779710,
+            "thumbnail": "b1/85/794a21ec70936e45e0b9d4d72a16/.thumb-00868c30-5110-4c94-ac87-c6a0bfea46fa.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/b1/85/794a21ec70936e45e0b9d4d72a16/.thumb-00868c30-5110-4c94-ac87-c6a0bfea46fa.png",
+            "uri": "/file/00868c30-5110-4c94-ac87-c6a0bfea46fa",
+            "url": "/assets/b1/85/794a21ec70936e45e0b9d4d72a16/Box_12_ACCFP_High_Res_1.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2014/chapter/federal-investments-global-change-research/figure/start-adaptation-research-africa.json",
+    "identifier": "start-adaptation-research-africa",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": null,
+            "description": null,
+            "identifier": "bb51007f-c5eb-4e28-9ae4-a6402d89dfc6",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "START Adaptation Research in Africa",
+            "url": null,
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source. "
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 11,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2014",
+    "source_citation": "START http://start.org/",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "START Adaptation Research in Africa",
+    "uri": "/report/usgcrp-ocpfy2014/chapter/federal-investments-global-change-research/figure/start-adaptation-research-africa",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source. "
+}

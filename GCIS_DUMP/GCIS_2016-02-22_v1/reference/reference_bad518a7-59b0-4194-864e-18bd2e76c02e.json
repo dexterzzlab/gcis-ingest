@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "The synoptic and subsynoptic atmospheric processes that accompany statistically determined periods of irrigation-induced rainfall increases during the warm season in the Texas Panhandle are examined. Major results are as follows.Irrigation appears to increase precipitation only when the synoptic condition provides low-level convergence and uplift, such that the additional moisture produced by irrigation (normally confined to the lowest 10-20 m of the atmosphere) is allowed to ascend to cloud base. Stationary fronts are the most favorable such synoptic condition because they fulfill the requirement for longer time durations than moving fronts or surface low pressure centers. The effect of irrigation is more noticeable during generally rainy periods because such periods often contain the types of significant rainfall events that provide sustained low-level convergence over the irrigated region. Because the mean storm track is closer to north Texas in June than in July and August, the irrigation-produced rainfall anomaly in June (which often is >20% in and somewhat downwind of the irrigation core) is the greatest of these three heavily irrigated months.Irrigation appears to lower the daily surface maximum temperature by 2\u00b0C during dry, hot conditions and by 1\u00b0C on damp, cooler days. When combining the temperature anomalies with known increases in surface dewpoint, the lifted index is estimated to decrease by up to 1\u00b0C, slightly increasing the probability of convection, even in the absence of convergence.Other possible mesoscale effects of irrigation are discussed. ",
+        "Author": "Barnston, A.G.\rSchickedanz, P.T.",
+        "DOI": "10.1175/1520-0450(1984)023<0865:TEOIOW>2.0.CO;2",
+        "ISSN": "0894-8763",
+        "Issue": "6",
+        "Journal": "Journal of Climate and Applied Meteorology",
+        "Pages": "865-888",
+        "Title": "The effect of irrigation on warm season precipitation in the southern Great Plains",
+        "Volume": "23",
+        "Year": "1984",
+        "_chapter": "[\"Ch. 13: Land Use and Land Cover Change FINAL\"]",
+        "_record_number": "586",
+        "_uuid": "bad518a7-59b0-4194-864e-18bd2e76c02e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/1520-0450(1984)023%3C0865:TEOIOW%3E2.0.CO;2",
+    "href": "http://data.globalchange.gov/reference/bad518a7-59b0-4194-864e-18bd2e76c02e.json",
+    "identifier": "bad518a7-59b0-4194-864e-18bd2e76c02e",
+    "uri": "/reference/bad518a7-59b0-4194-864e-18bd2e76c02e"
+}

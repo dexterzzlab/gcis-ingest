@@ -1,0 +1,8 @@
+{
+    "description": "Magnetometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/fluxgate-magnetometer.json",
+    "identifier": "fluxgate-magnetometer",
+    "name": "Fluxgate magnetometer",
+    "uri": "/instrument/fluxgate-magnetometer"
+}

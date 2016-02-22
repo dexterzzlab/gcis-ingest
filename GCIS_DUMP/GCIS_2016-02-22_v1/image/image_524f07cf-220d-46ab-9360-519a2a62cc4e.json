@@ -1,0 +1,86 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/1922.json",
+            "id": 1922,
+            "organization": {
+                "country_code": "US",
+                "identifier": "university-corporation-atmospheric-research",
+                "name": "University Corporation for Atmospheric Research",
+                "organization_type_identifier": "research",
+                "url": "http://www2.ucar.edu/"
+            },
+            "organization_uri": "/organization/university-corporation-atmospheric-research",
+            "person": {
+                "first_name": "Emily Therese",
+                "id": 1036,
+                "last_name": "Cloyd",
+                "middle_name": null,
+                "orcid": "0000-0003-1277-1702",
+                "url": "http://www.globalchange.gov/about/staff/emily-therese-cloyd.html"
+            },
+            "person_id": 1036,
+            "person_uri": "/person/1036",
+            "role_type_identifier": "contributing_author",
+            "uri": "/contributor/1922"
+        }
+    ],
+    "create_dt": "2014-03-14T12:57:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Decisions take place within a complex context. Decision support processes and tools can help structure decision-making, organize and analyze information, and build consensus around options for action.",
+            "chapter_identifier": "decision-support",
+            "create_dt": "2014-03-14T12:57:00",
+            "identifier": "decisionmaking-elements-and-outcomes",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 1,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Decision-making Elements and Outcomes",
+            "url": "http://nca2014.globalchange.gov/highlights/report-findings/responses/graphics/decision-making-elements-and-outcomes",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "f2/21/118a390909f74e3c137e3ccdb2ce/ds_decision-context_v3.png",
+            "href": "http://data.globalchange.gov/assets/f2/21/118a390909f74e3c137e3ccdb2ce/ds_decision-context_v3.png",
+            "identifier": "62728287-c8c5-4cd7-b80d-896ff9dc86bd",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "582cef3c241ef845916ce2c732dc9a7d6eb15f7e",
+            "size": 323374,
+            "thumbnail": "f2/21/118a390909f74e3c137e3ccdb2ce/.thumb-62728287-c8c5-4cd7-b80d-896ff9dc86bd.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/f2/21/118a390909f74e3c137e3ccdb2ce/.thumb-62728287-c8c5-4cd7-b80d-896ff9dc86bd.png",
+            "uri": "/file/62728287-c8c5-4cd7-b80d-896ff9dc86bd",
+            "url": "/assets/f2/21/118a390909f74e3c137e3ccdb2ce/ds_decision-context_v3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/524f07cf-220d-46ab-9360-519a2a62cc4e.json",
+    "identifier": "524f07cf-220d-46ab-9360-519a2a62cc4e",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Decision-Making Elements and Outcomes",
+    "uri": "/image/524f07cf-220d-46ab-9360-519a2a62cc4e",
+    "url": null,
+    "usage_limits": null
+}

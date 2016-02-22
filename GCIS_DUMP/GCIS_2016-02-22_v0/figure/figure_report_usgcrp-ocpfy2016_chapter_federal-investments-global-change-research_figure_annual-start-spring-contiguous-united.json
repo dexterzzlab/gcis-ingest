@@ -1,0 +1,132 @@
+{
+    "attributes": null,
+    "caption": "This graph shows the number of days by which the start of spring in each year differs from the average start of spring during the 20th century. The spring of 2012 (circled) set a record for earliest start. (Source: Adapted from the USGCRP indicators pilot, with data from USA-NPN and NOAA NCDC)",
+    "chapter": {
+        "doi": null,
+        "identifier": "federal-investments-global-change-research",
+        "number": 2,
+        "report_identifier": "usgcrp-ocpfy2016",
+        "sort_key": 20,
+        "title": "Federal Investments in Global Change Research ",
+        "url": null
+    },
+    "chapter_identifier": "federal-investments-global-change-research",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/1845.json",
+            "id": 1845,
+            "organization": {
+                "country_code": "US",
+                "identifier": "us-global-change-research-program",
+                "name": "U.S. Global Change Research Program",
+                "organization_type_identifier": "federal",
+                "url": "http://www.globalchange.gov"
+            },
+            "organization_uri": "/organization/us-global-change-research-program",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "author",
+            "uri": "/contributor/1845"
+        },
+        {
+            "href": "http://data.globalchange.gov/contributor/4706.json",
+            "id": 4706,
+            "organization": {
+                "country_code": "US",
+                "identifier": "usa-national-phenology-network",
+                "name": "USA National Phenology Network",
+                "organization_type_identifier": "federal",
+                "url": "https://www.usanpn.org"
+            },
+            "organization_uri": "/organization/usa-national-phenology-network",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "contributing_agency",
+            "uri": "/contributor/4706"
+        },
+        {
+            "href": "http://data.globalchange.gov/contributor/4707.json",
+            "id": 4707,
+            "organization": {
+                "country_code": "US",
+                "identifier": "noaa-national-climatic-data-center",
+                "name": "National Oceanic and Atmospheric Administration National Climatic Data Center",
+                "organization_type_identifier": "federal",
+                "url": "http://www.ncdc.noaa.gov"
+            },
+            "organization_uri": "/organization/noaa-national-climatic-data-center",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "contributing_agency",
+            "uri": "/contributor/4707"
+        }
+    ],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "65/91/6bc4e9fe492eb0a4bc6e5393a5db/HL5_start-of-spring-indicator_UPDATED-05-05-15.png",
+            "href": "http://data.globalchange.gov/assets/65/91/6bc4e9fe492eb0a4bc6e5393a5db/HL5_start-of-spring-indicator_UPDATED-05-05-15.png",
+            "identifier": "4c29815f-7f74-457a-8ac4-83e858712240",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "a9498267aca5efac3ed72f48d6b49beabbe9c028",
+            "size": 174019,
+            "thumbnail": "65/91/6bc4e9fe492eb0a4bc6e5393a5db/.thumb-4c29815f-7f74-457a-8ac4-83e858712240.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/65/91/6bc4e9fe492eb0a4bc6e5393a5db/.thumb-4c29815f-7f74-457a-8ac4-83e858712240.png",
+            "uri": "/file/4c29815f-7f74-457a-8ac4-83e858712240",
+            "url": "/assets/65/91/6bc4e9fe492eb0a4bc6e5393a5db/HL5_start-of-spring-indicator_UPDATED-05-05-15.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2016/chapter/federal-investments-global-change-research/figure/annual-start-spring-contiguous-united-states.json",
+    "identifier": "annual-start-spring-contiguous-united-states",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": null,
+            "description": "This graph shows the number of days by which the start of spring in each year differs from the average start of spring during the 20th century. The spring of 2012 (circled) set a record for earliest start. (Source: Adapted from the USGCRP indicators pilot, with data from USA-NPN and NOAA NCDC)",
+            "identifier": "bef72a49-1c54-4a24-ae53-7b813ac447d1",
+            "lat_max": "49.371742",
+            "lat_min": "24.545219",
+            "lon_max": "-66.957802",
+            "lon_min": "-124.762146",
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Annual Start of Spring for the Contiguous United States",
+            "url": null,
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": "49.371742",
+    "lat_min": "24.545219",
+    "lon_max": "-66.957802",
+    "lon_min": "-124.762146",
+    "ordinal": 4,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Indicator: Start of Spring",
+            "note": "",
+            "publication_type_identifier": "report",
+            "relationship": "cito:cites",
+            "url": "/report/indicator-start-of-spring"
+        }
+    ],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2016",
+    "source_citation": "Adapted from Start of Spring, USGCRP indicators pilot",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Annual Start of Spring for the Contiguous United States",
+    "uri": "/report/usgcrp-ocpfy2016/chapter/federal-investments-global-change-research/figure/annual-start-spring-contiguous-united-states",
+    "url": "https://data.globalchange.gov/report/indicator-start-of-spring",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

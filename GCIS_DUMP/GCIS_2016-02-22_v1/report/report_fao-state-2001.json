@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/fao-state-2001.json",
+    "identifier": "fao-state-2001",
+    "in_library": null,
+    "publication_year": 2001,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "The State of Food Insecurity in the World",
+    "topic": null,
+    "uri": "/report/fao-state-2001",
+    "url": "http://www.fao.org/docrep/003/y1500e/y1500e00.htm"
+}

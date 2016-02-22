@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Iverson, L.\rPrasad, A.\rMatthews, S.",
+        "DOI": "10.1007/s11027-007-9129-y",
+        "ISSN": "1381-2386",
+        "Issue": "5-6",
+        "Journal": "Mitigation and Adaptation Strategies for Global Change",
+        "Pages": "487-516",
+        "Title": "Modeling potential climate change impacts on the trees of the northeastern United States",
+        "Volume": "13",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "1283",
+        "_uuid": "27f1eded-38b4-4f45-9d06-e76980c30263",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s11027-007-9129-y",
+    "href": "http://data.globalchange.gov/reference/27f1eded-38b4-4f45-9d06-e76980c30263.json",
+    "identifier": "27f1eded-38b4-4f45-9d06-e76980c30263",
+    "uri": "/reference/27f1eded-38b4-4f45-9d06-e76980c30263"
+}

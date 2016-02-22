@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Cardona, O.D.\rvan Aalst, M. K.\rBirkmann, J.\rFordham, M.\rMcGregor, G.\rPerez, R.\rPulwarty, R. S.\rSchipper, E. L. F.\rSinh, B. T.\rI. Davis\rK.L. Ebi\rA. Lavell\rR. Mechler\rV. Murray\rM. Pelling\rJ. Pohl\rA.O. Smith\rF. Thomalla",
+        "Book Title": "A Special Report of Working Groups I and II of the Intergovernmental Panel on Climate Change",
+        "Editor": "Field, C. B.\rBarros, V. \rStocker, T. F. \rDahe, Q.\rDokken, D.J.\rEbi, K. L. \rMastrandrea, M. D. \rMach, K. J. \rPlattner, G.-K. \rAllen, S. K. \rTignor, M. \rMidgley, P. M. ",
+        "ISBN": "9781107025066",
+        "Pages": "65-108",
+        "Place Published": "Cambridge, UK",
+        "Publisher": "Cambridge University Press",
+        "Reviewer": "6d7209f8-ba52-4dc1-a779-aae07faafe12",
+        "Title": "Ch. 2: Determinants of risk: Exposure and vulnerability. Managing the risks of extreme events and disasters to advance climate change adaptation",
+        "URL": "https://www.ipcc.ch/pdf/special-reports/srex/SREX_Full_Report.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 11: Urban Systems FINAL\"]",
+        "_record_number": "511",
+        "_uuid": "6d7209f8-ba52-4dc1-a779-aae07faafe12",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/ipcc-srex",
+    "href": "http://data.globalchange.gov/reference/6d7209f8-ba52-4dc1-a779-aae07faafe12.json",
+    "identifier": "6d7209f8-ba52-4dc1-a779-aae07faafe12",
+    "uri": "/reference/6d7209f8-ba52-4dc1-a779-aae07faafe12"
+}

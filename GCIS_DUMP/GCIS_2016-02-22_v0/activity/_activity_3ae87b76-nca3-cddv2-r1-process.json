@@ -1,0 +1,15 @@
+{
+    "computing_environment": "LINUX\r\nWindows",
+    "data_usage": "The map displays the difference between the average total annual precipitation across the contiguous U.S. for the period 1991-2012, minus that for the period 1901-1960.",
+    "duration": "6 minutes",
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/3ae87b76-nca3-cddv2-r1-process.json",
+    "identifier": "3ae87b76-nca3-cddv2-r1-process",
+    "methodology": "At each grid point across the contiguous U.S., the annual total precipitation amount was averaged for the period 1901-1960. A second average precipitation amount was calculated for the period 1991-2012. At each gridpoint, the difference between the 1991-2012 precipitation and the 1901-1960 precipitation was calculated as a percentage change.",
+    "notes": "SAS version 9 \r\nArcMap version 10",
+    "output_artifacts": "prcp.diff.1991-2012.gz",
+    "software": "SAS version 9 \r\nArcMap version 10",
+    "start_time": null,
+    "uri": "/activity/3ae87b76-nca3-cddv2-r1-process",
+    "visualization_software": "SAS version 9 \r\nArcMap version 10"
+}

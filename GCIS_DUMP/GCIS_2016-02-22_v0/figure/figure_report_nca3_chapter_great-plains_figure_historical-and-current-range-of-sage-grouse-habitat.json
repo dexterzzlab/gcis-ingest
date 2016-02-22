@@ -1,0 +1,102 @@
+{
+    "attributes": null,
+    "caption": "Comparing estimates of Greater Sage Grouse distribution from before settlement of the area (light green: prior\r\n    to about 1800) with the current range (dark green: 2000) shows fragmentation of the sagebrush habitat required by this species.\r\n    Over the last century, the sagebrush ecosystem has been altered by fire, invasion by new plant species, and conversion of land\r\n    to agriculture, causing a decline in Sage Grouse populations. (Figure source: adapted from Aldridge et al.\r\n    2008.<tbib>7c7085fc-ad53-4b51-8fa1-8856ae91c411</tbib> Photo credit: U.S. Fish and Wildlife Service,\r\n    Wyoming Ecological Services).",
+    "chapter": {
+        "doi": "10.7930/J0D798BC",
+        "identifier": "great-plains",
+        "number": 19,
+        "report_identifier": "nca3",
+        "sort_key": 190,
+        "title": "Great Plains",
+        "url": "http://nca2014.globalchange.gov/report/regions/great-plains"
+    },
+    "chapter_identifier": "great-plains",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-12T10:48:00",
+    "files": [
+        {
+            "file": "af/1d/f74e8dbd56aa10ef7a014d991bf0/GP_habitat_fragmentation_V6.png",
+            "href": "http://data.globalchange.gov/assets/af/1d/f74e8dbd56aa10ef7a014d991bf0/GP_habitat_fragmentation_V6.png",
+            "identifier": "d45798da-1ede-4d6f-8482-48e5cefe30b0",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "9ae42413b8c2c7636bedcdce8e08d7fe7a1c72bd",
+            "size": 642357,
+            "thumbnail": "af/1d/f74e8dbd56aa10ef7a014d991bf0/.thumb-d45798da-1ede-4d6f-8482-48e5cefe30b0.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/af/1d/f74e8dbd56aa10ef7a014d991bf0/.thumb-d45798da-1ede-4d6f-8482-48e5cefe30b0.png",
+            "uri": "/file/d45798da-1ede-4d6f-8482-48e5cefe30b0",
+            "url": "/assets/af/1d/f74e8dbd56aa10ef7a014d991bf0/GP_habitat_fragmentation_V6.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/great-plains/figure/historical-and-current-range-of-sage-grouse-habitat.json",
+    "identifier": "historical-and-current-range-of-sage-grouse-habitat",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-11-12T10:48:00",
+            "description": null,
+            "identifier": "fc3d6f53-cef7-4590-a4d4-07a6898a8017",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Historical and Current Range of Sage Grouse Habitat - Map",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2013-11-12T10:48:00",
+            "description": null,
+            "identifier": "8b551ea9-2fa6-44d9-8958-da8404dbf08a",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Historical and Current Range of Sage Grouse Habitat - Photo",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 7,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Range-wide patterns of greater sage-grouse persistence",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1111/j.1472-4642.2008.00502.x"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/7c7085fc-ad53-4b51-8fa1-8856ae91c411.json",
+            "uri": "/reference/7c7085fc-ad53-4b51-8fa1-8856ae91c411"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "adapted from Aldridge et al. 2008.<tbib>7c7085fc-ad53-4b51-8fa1-8856ae91c411</tbib> Photo credit: U.S. Fish and Wildlife Service, Wyoming Ecological Services",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Historical and Current Range of Sage Grouse Habitat",
+    "uri": "/report/nca3/chapter/great-plains/figure/historical-and-current-range-of-sage-grouse-habitat",
+    "url": "http://nca2014.globalchange.gov/report/regions/great-plains/graphics/historical-and-current-range-sage-grouse-habitat",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

@@ -1,0 +1,8 @@
+{
+    "description": "The dual-frequency NASA radar altimeter, NRA, was the primary instrument aboard the spacecraft. It worked by sending radio pulses at 13.6 GHz and 5.3 GHz toward the earth and measuring the characteristics of the echo. By combining this measurement with data from the microwave radiometer and with other information from the spacecraft and the ground, scientists were able to calculate the height of the sea surface to within 4.3 centimeters.\n",
+    "description_attribution": "https://sealevel.jpl.nasa.gov/technology/technologyinstrumentdescription/instrumentdescriptaltimeter/\n",
+    "href": "http://data.globalchange.gov/instrument/topex-nasa-radar-altimeter.json",
+    "identifier": "topex-nasa-radar-altimeter",
+    "name": "TOPEX NASA Radar Altimeter",
+    "uri": "/instrument/topex-nasa-radar-altimeter"
+}

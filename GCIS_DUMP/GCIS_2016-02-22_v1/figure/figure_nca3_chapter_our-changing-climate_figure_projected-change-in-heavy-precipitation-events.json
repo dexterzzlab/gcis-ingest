@@ -1,0 +1,115 @@
+{
+    "attributes": null,
+    "caption": "Maps show the increase in frequency of extreme daily precipitation events (a daily amount that now occurs once in 20 years) by the later part of this century (2081-2100) compared to the later part of last century (1981-2000). Such extreme events are projected to occur more frequently everywhere in the United States. Under the rapid emissions reduction scenario (RCP 2.6), these events would occur nearly twice as often. For the scenario assuming continued increases in emissions (RCP 8.5), these events would occur up to five times as often. (Figure source: NOAA NCDC / CICS-NC).",
+    "chapter": {
+        "doi": "10.7930/J0KW5CXT",
+        "identifier": "our-changing-climate",
+        "number": 2,
+        "report_identifier": "nca3",
+        "sort_key": 20,
+        "title": "Our Changing Climate",
+        "url": "http://nca2014.globalchange.gov/report/our-changing-climate/introduction"
+    },
+    "chapter_identifier": "our-changing-climate",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/3757.json",
+            "id": 3757,
+            "organization": {
+                "country_code": "US",
+                "identifier": "lawrence-berkeley-national-laboratory",
+                "name": "Lawrence Berkeley National Laboratory",
+                "organization_type_identifier": "federally funded research and development center",
+                "url": "http://www.lbl.gov/"
+            },
+            "organization_uri": "/organization/lawrence-berkeley-national-laboratory",
+            "person": {
+                "first_name": "Michael",
+                "id": 1026,
+                "last_name": "Wehner",
+                "middle_name": null,
+                "orcid": "0000-0001-5991-0082",
+                "url": "http://crd.lbl.gov/groups-depts/SCG/staff/staff-members/michael-wehner/"
+            },
+            "person_id": 1026,
+            "person_uri": "/person/1026",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/3757"
+        }
+    ],
+    "create_dt": "2014-04-28T14:01:34",
+    "files": [
+        {
+            "file": "2e/c9/1610e702f149aacc0e19cc680cc7/CS_rare_precip_events_RCPs_V5.png",
+            "href": "http://data.globalchange.gov/assets/2e/c9/1610e702f149aacc0e19cc680cc7/CS_rare_precip_events_RCPs_V5.png",
+            "identifier": "7f315136-6d8b-4dc6-84c3-1fc9cd82a467",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "1b0641103b83b1d3a2b5d8b37bbea833b44ab3e4",
+            "size": 393789,
+            "thumbnail": "2e/c9/1610e702f149aacc0e19cc680cc7/.thumb-7f315136-6d8b-4dc6-84c3-1fc9cd82a467.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/2e/c9/1610e702f149aacc0e19cc680cc7/.thumb-7f315136-6d8b-4dc6-84c3-1fc9cd82a467.png",
+            "uri": "/file/7f315136-6d8b-4dc6-84c3-1fc9cd82a467",
+            "url": "/assets/2e/c9/1610e702f149aacc0e19cc680cc7/CS_rare_precip_events_RCPs_V5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/our-changing-climate/figure/projected-change-in-heavy-precipitation-events.json",
+    "identifier": "projected-change-in-heavy-precipitation-events",
+    "images": [
+        {
+            "attributes": "Precipitation, projections, extremes, CMIP5, RCP 2.6",
+            "create_dt": "2014-04-28T14:30:00",
+            "description": null,
+            "identifier": "bdbc59c7-c91e-496f-b4bd-9f584404df97",
+            "lat_max": "72",
+            "lat_min": "18",
+            "lon_max": "-66",
+            "lon_min": "-169",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2100-12-31T23:59:59",
+            "time_start": "1981-01-01T00:00:00",
+            "title": "Projected Change in Heavy Precipitation Events: Rapid Emissions Reductions (RCP 2.6)",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": "Precipitation, projections, extremes, CMIP5, RCP 8.5",
+            "create_dt": "2014-04-28T14:30:00",
+            "description": null,
+            "identifier": "add6d6e7-30f0-4f44-bc2a-5b4a2ee4ce14",
+            "lat_max": "72",
+            "lat_min": "18",
+            "lon_max": "-66",
+            "lon_min": "-169",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2100-12-31T23:59:59",
+            "time_start": "1981-01-01T00:00:00",
+            "title": "Projected Change in Heavy Precipitation Events: Continued Emissions Increases (RCP 8.5)",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [
+        "/report/nca3/chapter/human-health/figure/health-projected-change-in-heavy-precipitation-events"
+    ],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 19,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": "NOAA NCDC / CICS-NC",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Projected Change in Heavy Precipitation Events",
+    "uri": "/report/nca3/chapter/our-changing-climate/figure/projected-change-in-heavy-precipitation-events",
+    "url": "http://nca2014.globalchange.gov/report/our-changing-climate/heavy-downpours-increasing/graphics/projected-change-heavy-precipitation",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

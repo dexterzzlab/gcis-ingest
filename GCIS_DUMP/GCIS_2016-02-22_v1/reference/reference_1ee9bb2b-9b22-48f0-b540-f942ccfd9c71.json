@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"71\" /><run start=\"72\" /></field></record>",
+        "Author": "Feely, R. A.\rDoney, S. C.\rCooley, S. R.",
+        "DOI": "10.5670/oceanog.2009.95",
+        "Issue": "4",
+        "Journal": "Oceanography",
+        "Pages": "36-47",
+        "Title": "Ocean acidification: Present conditions and future changes in a high-CO2 world",
+        "URL": "http://www.tos.org/oceanography/archive/22-4_feely.pdf",
+        "Volume": "22",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\",\"Ch. 2: Our Changing Climate FINAL\",\"RF 11\",\"Ch. 23: Hawaii FINAL\",\"NCA Report Citations\"]",
+        "_record_number": "1206",
+        "_uuid": "1ee9bb2b-9b22-48f0-b540-f942ccfd9c71",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.5670/oceanog.2009.95",
+    "href": "http://data.globalchange.gov/reference/1ee9bb2b-9b22-48f0-b540-f942ccfd9c71.json",
+    "identifier": "1ee9bb2b-9b22-48f0-b540-f942ccfd9c71",
+    "uri": "/reference/1ee9bb2b-9b22-48f0-b540-f942ccfd9c71"
+}

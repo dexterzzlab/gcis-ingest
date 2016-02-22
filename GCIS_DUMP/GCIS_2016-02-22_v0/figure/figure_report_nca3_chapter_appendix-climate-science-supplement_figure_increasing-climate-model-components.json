@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "The development of climate models over the last 35 years showing how the different components were coupled into comprehensive climate models over time. In each aspect (for example, the atmosphere, which comprises a wide range of atmospheric processes) the complexity and range of processes has increased over time (illustrated by growing cylinders). Note that during the same time the horizontal and vertical resolution has increased considerably. (Figure source: adapted from Cubasch et al. 2013<tbib>559102a8-1511-4050-ab53-58c3d8c04869</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0KS6PHH",
+        "identifier": "appendix-climate-science-supplement",
+        "number": 33,
+        "report_identifier": "nca3",
+        "sort_key": 330,
+        "title": "Appendix 3: Climate Science Supplement",
+        "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement"
+    },
+    "chapter_identifier": "appendix-climate-science-supplement",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-04-03T14:52:00",
+    "files": [
+        {
+            "file": "76/06/98af726850120e1b23b723090c4a/APP_climate_model_components_V3.png",
+            "href": "http://data.globalchange.gov/assets/76/06/98af726850120e1b23b723090c4a/APP_climate_model_components_V3.png",
+            "identifier": "0b18a68b-5eb4-41cd-8224-7012b2c81075",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "4cb717916fd80e6e01e8a4093e8ec39c1f522ec0",
+            "size": 477349,
+            "thumbnail": "76/06/98af726850120e1b23b723090c4a/.thumb-0b18a68b-5eb4-41cd-8224-7012b2c81075.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/76/06/98af726850120e1b23b723090c4a/.thumb-0b18a68b-5eb4-41cd-8224-7012b2c81075.png",
+            "uri": "/file/0b18a68b-5eb4-41cd-8224-7012b2c81075",
+            "url": "/assets/76/06/98af726850120e1b23b723090c4a/APP_climate_model_components_V3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-climate-science-supplement/figure/increasing-climate-model-components.json",
+    "identifier": "increasing-climate-model-components",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2014-04-03T14:52:00",
+            "description": null,
+            "identifier": "20d57441-27b4-4d2e-92c1-f5e81a5599ab",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Increasing Climate Model Components",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 26,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Climate Change 2013: The Physical Science Basis",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/ipcc-ar5-wg1"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/559102a8-1511-4050-ab53-58c3d8c04869.json",
+            "uri": "/reference/559102a8-1511-4050-ab53-58c3d8c04869"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "adapted from Cubasch et al. 2013<tbib>559102a8-1511-4050-ab53-58c3d8c04869</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Increasing Climate Model Components",
+    "uri": "/report/nca3/chapter/appendix-climate-science-supplement/figure/increasing-climate-model-components",
+    "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/increasing-climate-model-components",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

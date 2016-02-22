@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/usgs-open-file-report-2002-1155.json",
+    "identifier": "usgs-open-file-report-2002-1155",
+    "in_library": null,
+    "publication_year": 2012,
+    "report_type_identifier": "technical_input",
+    "summary": null,
+    "title": "National Climate Assessment Technical Report on the Impacts of Climate and Land Use and Land Cover Change",
+    "topic": null,
+    "uri": "/report/usgs-open-file-report-2002-1155",
+    "url": "http://pubs.usgs.gov/of/2012/1155/of2012-1155.pdf"
+}

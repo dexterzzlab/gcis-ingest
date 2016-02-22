@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "This schematic illustrates the components of SERVIR environmental and disaster support for Mesoamerica. Credit: NASA/Science Mission Directorate.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "85/1a/f9056d75b7f9417751f5356beda9/our_changing_planet_2007_74_20090708_1417316685.jpg",
+            "href": "http://data.globalchange.gov/assets/85/1a/f9056d75b7f9417751f5356beda9/our_changing_planet_2007_74_20090708_1417316685.jpg",
+            "identifier": "6276aedb-d90a-4ccb-9f53-0576bfb1ef1b",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "cf213347bb942974c733cae36b50ebca92dd4326",
+            "size": 61756,
+            "thumbnail": "85/1a/f9056d75b7f9417751f5356beda9/.thumb-6276aedb-d90a-4ccb-9f53-0576bfb1ef1b.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/85/1a/f9056d75b7f9417751f5356beda9/.thumb-6276aedb-d90a-4ccb-9f53-0576bfb1ef1b.png",
+            "uri": "/file/6276aedb-d90a-4ccb-9f53-0576bfb1ef1b",
+            "url": "/assets/85/1a/f9056d75b7f9417751f5356beda9/our_changing_planet_2007_74_20090708_1417316685.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/servir-decision-support-mesoamerica.json",
+    "identifier": "servir-decision-support-mesoamerica",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "SERVIR - Decision Support for Mesoamerica ",
+    "uri": "/report/ccsp-ocpfy2007/figure/servir-decision-support-mesoamerica",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

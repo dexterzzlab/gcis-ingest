@@ -1,0 +1,71 @@
+{
+    "attributes": null,
+    "caption": null,
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "51/d7/547e5bba829cb1d44499c90c4c77/aggi_10_15_2014.jpg",
+            "href": "http://data.globalchange.gov/assets/51/d7/547e5bba829cb1d44499c90c4c77/aggi_10_15_2014.jpg",
+            "identifier": "a397d08d-e546-4d18-a055-ac3a7cd61ad4",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "fc514d56db6bb2a018c904ce8d2d892d23255200",
+            "size": 1117090,
+            "thumbnail": "51/d7/547e5bba829cb1d44499c90c4c77/.thumb-a397d08d-e546-4d18-a055-ac3a7cd61ad4.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/51/d7/547e5bba829cb1d44499c90c4c77/.thumb-a397d08d-e546-4d18-a055-ac3a7cd61ad4.png",
+            "uri": "/file/a397d08d-e546-4d18-a055-ac3a7cd61ad4",
+            "url": "/assets/51/d7/547e5bba829cb1d44499c90c4c77/aggi_10_15_2014.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/indicator-annual-greenhouse-gas-index/figure/indicator-annual-greenhouse-gas-index.json",
+    "identifier": "indicator-annual-greenhouse-gas-index",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": null,
+            "description": null,
+            "identifier": "dc3367e4-3fb9-448a-83fd-e27edbf019f3",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": null,
+            "url": null,
+            "usage_limits": "Free to use with credit to USGCRP."
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 1,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "table indicator-annual-greenhouse-gas-index-data-pilot",
+            "note": "",
+            "publication_type_identifier": "table",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/indicator-annual-greenhouse-gas-index/table/indicator-annual-greenhouse-gas-index-data-pilot"
+        }
+    ],
+    "references": [],
+    "report_identifier": "indicator-annual-greenhouse-gas-index",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": "2013-12-31T23:59:59",
+    "time_start": "1979-01-01T00:00:00",
+    "title": null,
+    "uri": "/report/indicator-annual-greenhouse-gas-index/figure/indicator-annual-greenhouse-gas-index",
+    "url": null,
+    "usage_limits": "Free to use with credit to USGCRP."
+}

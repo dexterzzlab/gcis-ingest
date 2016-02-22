@@ -1,0 +1,9 @@
+{
+    "country_code": "EU",
+    "href": "http://data.globalchange.gov/organization/european-commission.json",
+    "identifier": "european-commission",
+    "name": "European Commission",
+    "organization_type_identifier": "national",
+    "uri": "/organization/european-commission",
+    "url": "http://ec.europa.eu"
+}

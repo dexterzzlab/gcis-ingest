@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "9",
+        "Date": "December 2012",
+        "Editor": "Vose, J. M.\rPeterson, D.L.\rPatel-Weynand, T.",
+        "Number of Pages": "265",
+        "Place Published": "Portland, OR",
+        "Publisher": "U.S. Department of Agriculture, Forest Service, Pacific Northwest Research Station",
+        "Title": "Effects of Climatic Variability and Change on Forest Ecosystems: A Comprehensive Science Synthesis for the U.S. Forest Sector. General Technical Report PNW-GTR-870",
+        "URL": "http://www.usda.gov/oce/climate_change/effects_2012/FS_Climate1114%20opt.pdf",
+        "Year": "2012",
+        "_chapter": "[\"RF 10\",\"Ch. 28: Adaptation FINAL\",\"Ch. 17: Southeast and Caribbean FINAL\",\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "3307",
+        "_uuid": "78f2cbd8-d8f2-4d99-abbd-017bad4d52f1",
+        "reftype": "Edited Book"
+    },
+    "child_publication": "/report/usfs-pnw-gtr-870",
+    "href": "http://data.globalchange.gov/reference/78f2cbd8-d8f2-4d99-abbd-017bad4d52f1.json",
+    "identifier": "78f2cbd8-d8f2-4d99-abbd-017bad4d52f1",
+    "uri": "/reference/78f2cbd8-d8f2-4d99-abbd-017bad4d52f1"
+}

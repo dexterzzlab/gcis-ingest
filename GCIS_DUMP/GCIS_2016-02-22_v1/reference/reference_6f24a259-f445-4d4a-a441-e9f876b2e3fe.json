@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Creighton, J.L.",
+        "ISBN": "978-0787973070",
+        "Number of Pages": "288 ",
+        "Place Published": "San Fancisco, CA",
+        "Publisher": "Jossey-Bass",
+        "Reviewer": "6f24a259-f445-4d4a-a441-e9f876b2e3fe",
+        "Title": "The Public Participation Handbook: Making Better Decisions through Citizen Involvement",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4047",
+        "_uuid": "6f24a259-f445-4d4a-a441-e9f876b2e3fe",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/e5124e6e-fc6a-414e-aa0f-1de9122cf031",
+    "href": "http://data.globalchange.gov/reference/6f24a259-f445-4d4a-a441-e9f876b2e3fe.json",
+    "identifier": "6f24a259-f445-4d4a-a441-e9f876b2e3fe",
+    "uri": "/reference/6f24a259-f445-4d4a-a441-e9f876b2e3fe"
+}

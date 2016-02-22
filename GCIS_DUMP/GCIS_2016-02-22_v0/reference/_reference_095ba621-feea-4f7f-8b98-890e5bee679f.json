@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Overland, James E.\rWang, Muyin",
+        "DOI": "10.1002/grl.50316",
+        "ISSN": "1944-8007",
+        "Issue": "10",
+        "Journal": "Geophysical Research Letters",
+        "Keywords": "Sea ice\rArctic\rClimate change\r0750 Sea ice\r1621 Cryospheric change\r1626 Global climate models\r9315 Arctic region",
+        "Pages": "2097-2101",
+        "Title": "When will the summer Arctic be nearly sea ice free?",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1002/grl.50316/pdf",
+        "Volume": "40",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "4367",
+        "_uuid": "095ba621-feea-4f7f-8b98-890e5bee679f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/grl.50316",
+    "href": "http://data.globalchange.gov/reference/095ba621-feea-4f7f-8b98-890e5bee679f.json",
+    "identifier": "095ba621-feea-4f7f-8b98-890e5bee679f",
+    "uri": "/reference/095ba621-feea-4f7f-8b98-890e5bee679f"
+}

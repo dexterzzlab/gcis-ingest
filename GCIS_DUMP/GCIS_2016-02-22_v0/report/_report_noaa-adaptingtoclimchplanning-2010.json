@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/noaa-adaptingtoclimchplanning-2010.json",
+    "identifier": "noaa-adaptingtoclimchplanning-2010",
+    "in_library": null,
+    "publication_year": 2010,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Adapting to Climate Change: A Planning Guide for State Coastal Managers",
+    "topic": null,
+    "uri": "/report/noaa-adaptingtoclimchplanning-2010",
+    "url": "http://coastalmanagement.noaa.gov/climate/docs/adaptationguide.pdf"
+}

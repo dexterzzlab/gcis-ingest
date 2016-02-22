@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "As heat-trapping gases, primarily carbon dioxide (CO<sub>2</sub>) (panel A), have increased over the past decades, not only has air temperature increased worldwide, but so has the temperature of the ocean\u2019s surface (panel B). The increased ocean temperature, combined with melting of glaciers and ice sheets on land, is leading to higher sea levels (panel C). Increased air and ocean temperatures are also causing the continued, dramatic decline in Arctic sea ice during the summer (panel D). Additionally, the ocean is becoming more acidic as increased atmospheric CO<sub>2</sub> dissolves into it (panel E). (CO<sub>2</sub> data from Etheridge 2010,<tbib>db5a807b-cea0-4f88-a0d0-7ee64ebcf5ce</tbib> Tans and Keeling 2012,<tbib>05c92f5c-90f1-44e0-b087-99ade5969df3</tbib> and NOAA NCDC 2012;<tbib>4a1bd255-eecf-4bf9-9207-2d1350c49b66</tbib> SST data from NOAA NCDC 2012<tbib>4a1bd255-eecf-4bf9-9207-2d1350c49b66</tbib> and Smith et al. 2008;<tbib>62bcea98-c8db-4877-b9f3-e61798e0f8ae</tbib> Sea level data from CSIRO 2012<tbib>83f8a452-9ff2-4c44-ac38-dc2d8214de11</tbib> and Church and White 2011;<tbib>94a8514e-063e-45ef-b893-11c82b49a597</tbib> Sea ice data from University of Illinois 2012;<tbib>a7e275b8-ed69-4129-8b9b-9134bea7c5d4</tbib> pH data from Doney et al. 2012<tbib>cfdaea11-95e2-4789-914b-74901b2f26b0</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0RF5RZW",
+        "identifier": "oceans-marine-resources",
+        "number": 24,
+        "report_identifier": "nca3",
+        "sort_key": 240,
+        "title": "Oceans and Marine Resources",
+        "url": "http://nca2014.globalchange.gov/report/regions/oceans"
+    },
+    "chapter_identifier": "oceans-marine-resources",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "76/e1/4d039f1b160606890ae9916b1009/Oceans_5-panel_line_graphs_V10.png",
+            "href": "http://data.globalchange.gov/assets/76/e1/4d039f1b160606890ae9916b1009/Oceans_5-panel_line_graphs_V10.png",
+            "identifier": "06001903-a207-4ed8-ab3c-74409b8a1601",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "14801f48b555ba757c357267f8c58165659a886c",
+            "size": 250815,
+            "thumbnail": "76/e1/4d039f1b160606890ae9916b1009/.thumb-06001903-a207-4ed8-ab3c-74409b8a1601.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/76/e1/4d039f1b160606890ae9916b1009/.thumb-06001903-a207-4ed8-ab3c-74409b8a1601.png",
+            "uri": "/file/06001903-a207-4ed8-ab3c-74409b8a1601",
+            "url": "/assets/76/e1/4d039f1b160606890ae9916b1009/Oceans_5-panel_line_graphs_V10.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/oceans-marine-resources/figure/ocean-impacts-of-increased-atmospheric-carbon-dioxide.json",
+    "identifier": "ocean-impacts-of-increased-atmospheric-carbon-dioxide",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 2,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/05c92f5c-90f1-44e0-b087-99ade5969df3.json",
+            "uri": "/reference/05c92f5c-90f1-44e0-b087-99ade5969df3"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/4a1bd255-eecf-4bf9-9207-2d1350c49b66.json",
+            "uri": "/reference/4a1bd255-eecf-4bf9-9207-2d1350c49b66"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/62bcea98-c8db-4877-b9f3-e61798e0f8ae.json",
+            "uri": "/reference/62bcea98-c8db-4877-b9f3-e61798e0f8ae"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/83f8a452-9ff2-4c44-ac38-dc2d8214de11.json",
+            "uri": "/reference/83f8a452-9ff2-4c44-ac38-dc2d8214de11"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/94a8514e-063e-45ef-b893-11c82b49a597.json",
+            "uri": "/reference/94a8514e-063e-45ef-b893-11c82b49a597"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/a7e275b8-ed69-4129-8b9b-9134bea7c5d4.json",
+            "uri": "/reference/a7e275b8-ed69-4129-8b9b-9134bea7c5d4"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/cfdaea11-95e2-4789-914b-74901b2f26b0.json",
+            "uri": "/reference/cfdaea11-95e2-4789-914b-74901b2f26b0"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/db5a807b-cea0-4f88-a0d0-7ee64ebcf5ce.json",
+            "uri": "/reference/db5a807b-cea0-4f88-a0d0-7ee64ebcf5ce"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Ocean Impacts of Increased Atmospheric Carbon Dioxide",
+    "uri": "/report/nca3/chapter/oceans-marine-resources/figure/ocean-impacts-of-increased-atmospheric-carbon-dioxide",
+    "url": "http://nca2014.globalchange.gov/highlights/report-findings/oceans/graphics/ocean-impacts-increased-atmospheric-carbon-dioxide-0",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

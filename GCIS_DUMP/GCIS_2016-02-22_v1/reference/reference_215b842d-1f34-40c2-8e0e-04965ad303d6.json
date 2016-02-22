@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "P\u00f6rtner, H. O.\rKnust, R.",
+        "DOI": "10.1126/science.1135471",
+        "ISSN": "0036-8075, 1095-9203",
+        "Issue": "5808",
+        "Journal": "Science",
+        "Pages": "95-97",
+        "Title": "Climate change affects marine fishes through the oxygen limitation of thermal tolerance",
+        "URL": "http://www.sciencemag.org/cgi/doi/10.1126/science.1135471",
+        "Volume": "315",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "2519",
+        "_uuid": "215b842d-1f34-40c2-8e0e-04965ad303d6",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1135471",
+    "href": "http://data.globalchange.gov/reference/215b842d-1f34-40c2-8e0e-04965ad303d6.json",
+    "identifier": "215b842d-1f34-40c2-8e0e-04965ad303d6",
+    "uri": "/reference/215b842d-1f34-40c2-8e0e-04965ad303d6"
+}

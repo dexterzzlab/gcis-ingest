@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Oerlemans, J.",
+        "DOI": "10.1126/science.1107046",
+        "ISSN": "0036-8075, 1095-9203",
+        "Issue": "5722",
+        "Journal": "Science",
+        "Keywords": "glaciers",
+        "Pages": "675-677",
+        "Title": "Extracting a climate signal from 169 glacier records",
+        "URL": "http://www.geology.byu.edu/wp-content/uploads/file/Readings/Oerlemans%202005.pdf",
+        "Volume": "308",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "2340",
+        "_uuid": "ba743142-df80-42e3-ac92-6e20ba02ea27",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1107046",
+    "href": "http://data.globalchange.gov/reference/ba743142-df80-42e3-ac92-6e20ba02ea27.json",
+    "identifier": "ba743142-df80-42e3-ac92-6e20ba02ea27",
+    "uri": "/reference/ba743142-df80-42e3-ac92-6e20ba02ea27"
+}

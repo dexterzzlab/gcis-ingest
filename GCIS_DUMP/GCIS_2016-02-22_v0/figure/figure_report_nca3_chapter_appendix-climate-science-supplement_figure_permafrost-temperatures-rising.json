@@ -1,0 +1,76 @@
+{
+    "attributes": null,
+    "caption": "Ground temperatures at depths between 33 and 66 feet (10 and 20 meters) for boreholes across the circumpolar northern permafrost regions (Figure source: AMAP 2011<tbib>2ecb64ff-f4e0-4acd-b049-e5d04f44c57a</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0KS6PHH",
+        "identifier": "appendix-climate-science-supplement",
+        "number": 33,
+        "report_identifier": "nca3",
+        "sort_key": 330,
+        "title": "Appendix 3: Climate Science Supplement",
+        "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement"
+    },
+    "chapter_identifier": "appendix-climate-science-supplement",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-05-03T12:11:00",
+    "files": [
+        {
+            "file": "93/bc/657940e318a751180180db625e5b/APP_borehole_temperatures_V3.png",
+            "href": "http://data.globalchange.gov/assets/93/bc/657940e318a751180180db625e5b/APP_borehole_temperatures_V3.png",
+            "identifier": "774bd9db-a59a-4d63-b44b-e1b94aba0f53",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "46dcad37bf2690f6d63d4d03196dd37bde2fd421",
+            "size": 145861,
+            "thumbnail": "93/bc/657940e318a751180180db625e5b/.thumb-774bd9db-a59a-4d63-b44b-e1b94aba0f53.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/93/bc/657940e318a751180180db625e5b/.thumb-774bd9db-a59a-4d63-b44b-e1b94aba0f53.png",
+            "uri": "/file/774bd9db-a59a-4d63-b44b-e1b94aba0f53",
+            "url": "/assets/93/bc/657940e318a751180180db625e5b/APP_borehole_temperatures_V3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-climate-science-supplement/figure/permafrost-temperatures-rising.json",
+    "identifier": "permafrost-temperatures-rising",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-05-03T12:11:00",
+            "description": null,
+            "identifier": "c1296448-dab7-483a-9edb-6df2e2b7ae3c",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2010-12-31T23:59:59",
+            "time_start": "1975-01-01T00:00:00",
+            "title": "Permafrost Temperature Rising",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 38,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/2ecb64ff-f4e0-4acd-b049-e5d04f44c57a.json",
+            "uri": "/reference/2ecb64ff-f4e0-4acd-b049-e5d04f44c57a"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "AMAP 2011<tbib>2ecb64ff-f4e0-4acd-b049-e5d04f44c57a</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Permafrost Temperatures Rising",
+    "uri": "/report/nca3/chapter/appendix-climate-science-supplement/figure/permafrost-temperatures-rising",
+    "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/permafrost-temperatures-rising",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

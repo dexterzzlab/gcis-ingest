@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Significant changes in growing season have been detected in many of the 19 ecoregions across Kazakhstan. Credit: G. Henebry, University of Nebraska-Lincol",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "3c/2c/4671d13f03e5680774fbfc57dfb8/our_changing_planet_2006_10_20090708_1780830975.jpg",
+            "href": "http://data.globalchange.gov/assets/3c/2c/4671d13f03e5680774fbfc57dfb8/our_changing_planet_2006_10_20090708_1780830975.jpg",
+            "identifier": "188e4e30-14ca-49d7-b9dd-4ae093a456f2",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "b1337b472be8ca50081f670d066668bb96d8deee",
+            "size": 55917,
+            "thumbnail": "3c/2c/4671d13f03e5680774fbfc57dfb8/.thumb-188e4e30-14ca-49d7-b9dd-4ae093a456f2.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/3c/2c/4671d13f03e5680774fbfc57dfb8/.thumb-188e4e30-14ca-49d7-b9dd-4ae093a456f2.png",
+            "uri": "/file/188e4e30-14ca-49d7-b9dd-4ae093a456f2",
+            "url": "/assets/3c/2c/4671d13f03e5680774fbfc57dfb8/our_changing_planet_2006_10_20090708_1780830975.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocp-fy2006/figure/changes-growing-season-kazakhstan.json",
+    "identifier": "changes-growing-season-kazakhstan",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocp-fy2006",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Changes in Growing Season: Kazakhstan",
+    "uri": "/report/ccsp-ocp-fy2006/figure/changes-growing-season-kazakhstan",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

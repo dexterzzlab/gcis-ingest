@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "McPherson, R.A.\rStensrud, D.J.\rCrawford, K.C.",
+        "DOI": "10.1175/1520-0493(2004)132<CO;2>",
+        "ISSN": "1520-0493",
+        "Issue": "2",
+        "Journal": "Monthly Weather Review",
+        "Pages": "405-421",
+        "Title": "The impact of Oklahoma\u2019s winter wheat belt on the mesoscale environment",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/1520-0493(2004)132<CO;2>",
+        "Volume": "132",
+        "Year": "2004",
+        "_chapter": "[\"Ch. 13: Land Use and Land Cover Change FINAL\"]",
+        "_record_number": "1969",
+        "_uuid": "8c20da0d-2457-4f2b-b11e-76d7a3ba54cc",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/1520-0493(2004)132%3C0405:TIOOWW%3E2.0.CO;2",
+    "href": "http://data.globalchange.gov/reference/8c20da0d-2457-4f2b-b11e-76d7a3ba54cc.json",
+    "identifier": "8c20da0d-2457-4f2b-b11e-76d7a3ba54cc",
+    "uri": "/reference/8c20da0d-2457-4f2b-b11e-76d7a3ba54cc"
+}

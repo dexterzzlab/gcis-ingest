@@ -1,0 +1,12 @@
+{
+    "description": "PARASOL (Polarization and Anisotropy of Reflectances for Atmospheric Science coupled with Observations from a Lidar) is a French (CNES) science mission of the Myriade series, put forward by CNRS/LOA [Laboratoire d'Optique Atmosph\u00e9rique at USTL (Lille University of Science and Technology), Lille, France)], with the general objective to study the Earth's atmosphere. Of particular interest in this study is (fine particles in suspension in the air) (which effect has global warming on cloud cover? How do clouds and aerosols interact?).",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/p/parasol",
+    "end_date": "2013-10-11T00:00:00",
+    "href": "http://data.globalchange.gov/platform/polarization-and-anisotropy-of-reflectances-for-atmospheric-science-coupled-with-observations-from-a-lidar.json",
+    "identifier": "polarization-and-anisotropy-of-reflectances-for-atmospheric-science-coupled-with-observations-from-a-lidar",
+    "name": "Polarization and Anisotropy of Reflectances for Atmospheric Science coupled with Observations from a LIDAR",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "2004-12-18T00:00:00",
+    "uri": "/platform/polarization-and-anisotropy-of-reflectances-for-atmospheric-science-coupled-with-observations-from-a-lidar",
+    "url": "http://smsc.cnes.fr/PARASOL/index.htm"
+}

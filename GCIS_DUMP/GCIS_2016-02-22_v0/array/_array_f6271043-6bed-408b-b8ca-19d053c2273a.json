@@ -1,0 +1,26 @@
+{
+    "href": "http://data.globalchange.gov/array/f6271043-6bed-408b-b8ca-19d053c2273a.json",
+    "identifier": "f6271043-6bed-408b-b8ca-19d053c2273a",
+    "rows": [
+        [
+            "",
+            "Urban",
+            "Agriculture",
+            "Forestry"
+        ],
+        [
+            "Outcomes of interest",
+            "Amount of development Types of development Patterns of development Type of land converted Land planning Decline and redevelopment Social and economic segregation and inequality",
+            "Rates of clearing, plowing, and abandonment Crop mix Farm size Irrigation and fertilization Nonpoint source pollution Total production",
+            "Rates of clearing Rotation schedules Species mix Impacts on habitats and biodiversity Productivity"
+        ],
+        [
+            "Drivers",
+            "Population growth\nEconomic growth\nTransportation and communication technology and cost\nPublic vs. private ownership\nLand planning\nNatural amenities\nSocial segregation and inequality",
+            "Soil productivity\nClimate conditions and variability\nDistance to markets\nPrices and price fluctuations\nLocal, regional and global demand",
+            "In addition to those for agriculture:\nForest management strategies\nStronger effect of discount rates"
+        ]
+    ],
+    "rows_in_header": 1,
+    "uri": "/array/f6271043-6bed-408b-b8ca-19d053c2273a"
+}

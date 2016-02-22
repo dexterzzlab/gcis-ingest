@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/national-conservation-easement-database.json",
+    "identifier": "national-conservation-easement-database",
+    "name": "National Conservation Easement Database",
+    "organization_type_identifier": "consortium",
+    "uri": "/organization/national-conservation-easement-database",
+    "url": "http://conservationeasement.us/"
+}

@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".publisher": "Blackwell Publishing Ltd/Inc.",
+        ".reference_type": "0",
+        "Author": "Pastor, Manuel\rMorello-Frosch, Rachel\rSadd, James L.",
+        "DOI": "10.1111/j.0735-2166.2005.00228.x",
+        "ISSN": "1467-9906",
+        "Issue": "2",
+        "Journal": "Journal of Urban Affairs",
+        "Pages": "127-148",
+        "Title": "The air is always cleaner on the other side: Race, space, and ambient air toxics exposures in California",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/j.0735-2166.2005.00228.x/pdf",
+        "Volume": "27",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "4232",
+        "_uuid": "8f2d999a-4ee7-4abc-a254-b698ddd3203f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.0735-2166.2005.00228.x",
+    "href": "http://data.globalchange.gov/reference/8f2d999a-4ee7-4abc-a254-b698ddd3203f.json",
+    "identifier": "8f2d999a-4ee7-4abc-a254-b698ddd3203f",
+    "uri": "/reference/8f2d999a-4ee7-4abc-a254-b698ddd3203f"
+}

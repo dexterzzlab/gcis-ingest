@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2013",
+        "Author": "NASA,",
+        "Publisher": "National Aeronautics and Space Administration",
+        "Title": "Global Climate Change: Key Indicators",
+        "URL": "http://climate.nasa.gov/key_indicators",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4457",
+        "_uuid": "cf951fec-8cfe-4fdc-b37d-040a756ac1f2",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/a1cb2a69-d2b7-4d39-8fa9-470986ccb9bf",
+    "href": "http://data.globalchange.gov/reference/cf951fec-8cfe-4fdc-b37d-040a756ac1f2.json",
+    "identifier": "cf951fec-8cfe-4fdc-b37d-040a756ac1f2",
+    "uri": "/reference/cf951fec-8cfe-4fdc-b37d-040a756ac1f2"
+}

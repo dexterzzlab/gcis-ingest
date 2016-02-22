@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Oliver, J.\rKaper, J.",
+        "Book Title": "Food Microbiology: Fundamentals and Frontiers",
+        "Editor": "M. P. Doyle \rL. R. Beuchat",
+        "ISBN": "978-1-55581-626-1",
+        "Place Published": "Herndon, VA",
+        "Publisher": "ASM Press",
+        "Reviewer": "34d78a4c-2fde-476c-9e12-ca6a0bccb5f1",
+        "Title": "Ch. 17: Vibrio species",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\"]",
+        "_record_number": "2349",
+        "_uuid": "34d78a4c-2fde-476c-9e12-ca6a0bccb5f1",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/b8ace9bc-705f-4cc4-bea0-c20c968b9ce8",
+    "href": "http://data.globalchange.gov/reference/34d78a4c-2fde-476c-9e12-ca6a0bccb5f1.json",
+    "identifier": "34d78a4c-2fde-476c-9e12-ca6a0bccb5f1",
+    "uri": "/reference/34d78a4c-2fde-476c-9e12-ca6a0bccb5f1"
+}

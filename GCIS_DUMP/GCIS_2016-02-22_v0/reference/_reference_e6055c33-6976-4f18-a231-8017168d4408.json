@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Mote, P.W.\rHamlet, A.\rSalath\u00e9, E.",
+        "DOI": "10.5194/hess-12-193-2008",
+        "ISSN": "1607-7938",
+        "Issue": "1",
+        "Journal": "Hydrology and Earth System Sciences",
+        "Pages": "193-206",
+        "Title": "Has spring snowpack declined in the Washington Cascades?",
+        "URL": "http://www.hydrol-earth-syst-sci.net/12/193/2008/hess-12-193-2008.pdf",
+        "Volume": "12",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "2107",
+        "_uuid": "e6055c33-6976-4f18-a231-8017168d4408",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.5194/hess-12-193-2008",
+    "href": "http://data.globalchange.gov/reference/e6055c33-6976-4f18-a231-8017168d4408.json",
+    "identifier": "e6055c33-6976-4f18-a231-8017168d4408",
+    "uri": "/reference/e6055c33-6976-4f18-a231-8017168d4408"
+}

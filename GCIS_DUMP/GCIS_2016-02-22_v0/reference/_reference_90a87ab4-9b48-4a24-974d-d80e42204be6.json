@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "ICATF,",
+        "Institution": "U.S. Interagency Climate Change Adaptation Task Force,",
+        "Pages": "76",
+        "Title": "National Action Plan: Priorities for Managing Freshwater Resources in a Changing Climate",
+        "URL": "http://www.whitehouse.gov/sites/default/files/microsites/ceq/2011_national_action_plan.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "4420",
+        "_uuid": "90a87ab4-9b48-4a24-974d-d80e42204be6",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/eop-nap-2011",
+    "href": "http://data.globalchange.gov/reference/90a87ab4-9b48-4a24-974d-d80e42204be6.json",
+    "identifier": "90a87ab4-9b48-4a24-974d-d80e42204be6",
+    "uri": "/reference/90a87ab4-9b48-4a24-974d-d80e42204be6"
+}

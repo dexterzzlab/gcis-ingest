@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Near Howland, Maine, a partnership between the University of Maine, USDA Forest Service, and Woods Hole Research Center provides a platform for studies of ecosystem-atmosphere CO2 and energy exchange. Instruments visible on the tower include eddy flux instrumentation for measuring net CO2 and energy exchange [supported by DOE's Office of Science/ Biological and Environmental Research (BER)], a dry deposition and meteorological package for studying air quality (supported by NOAA\u2019s Air Resources Laboratory), and a sun photometer for assessing atmospheric aerosols (supported by NASA's Aerosol Robotic Network). Recent results from this and a nearby companion tower have quantified flux measurement uncertainties needed for data-model fusion efforts under the North American Carbon Program (NACP), and have shown that this 140-year-old coniferous forest remains a strong sink for atmospheric CO2. Researchers operate this site with support from DOE. Credit: J. Lee, University of Maine.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "b1/c8/bdc17492320c0a9822c6dc933a9f/our_changing_planet_2006_12_20090708_2066518281.jpg",
+            "href": "http://data.globalchange.gov/assets/b1/c8/bdc17492320c0a9822c6dc933a9f/our_changing_planet_2006_12_20090708_2066518281.jpg",
+            "identifier": "23a36aad-374d-4789-bd65-bbc1e891d4c7",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "ff165645568fd8ee13ce434370759ad02e83ee07",
+            "size": 120412,
+            "thumbnail": "b1/c8/bdc17492320c0a9822c6dc933a9f/.thumb-23a36aad-374d-4789-bd65-bbc1e891d4c7.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/b1/c8/bdc17492320c0a9822c6dc933a9f/.thumb-23a36aad-374d-4789-bd65-bbc1e891d4c7.png",
+            "uri": "/file/23a36aad-374d-4789-bd65-bbc1e891d4c7",
+            "url": "/assets/b1/c8/bdc17492320c0a9822c6dc933a9f/our_changing_planet_2006_12_20090708_2066518281.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocp-fy2006/figure/ameriflux-research-tower.json",
+    "identifier": "ameriflux-research-tower",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocp-fy2006",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "AmeriFlux Research Tower",
+    "uri": "/report/ccsp-ocp-fy2006/figure/ameriflux-research-tower",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        ".publisher": "BioMed Central",
+        ".reference_type": "0",
+        "Alternate Journal": "Environ Health",
+        "Article Number": "27",
+        "Author": "Toloo, Ghasem\rFitzGerald, Gerard\rAitken, Peter\rVerrall, Kenneth\rTong, Shilu",
+        "DOI": "10.1186/1476-069x-12-27",
+        "Date": "2013/04/05",
+        "Issue": "1",
+        "Journal": "Environmental Health",
+        "Keywords": "Heat warning system\rEffectiveness\rMortality\rMorbidity\rHealth beliefs\rHealth service utilization",
+        "Language": "English",
+        "Notes": "(Sam)",
+        "Pages": "1-4",
+        "Title": "Are heat warning systems effective?",
+        "URL": "http://www.ehjournal.net/content/12/1/27",
+        "Volume": "12",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "4226",
+        "_uuid": "c95f1e86-8c57-45f6-9254-36d5d535ab60",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1186/1476-069x-12-27",
+    "href": "http://data.globalchange.gov/reference/c95f1e86-8c57-45f6-9254-36d5d535ab60.json",
+    "identifier": "c95f1e86-8c57-45f6-9254-36d5d535ab60",
+    "uri": "/reference/c95f1e86-8c57-45f6-9254-36d5d535ab60"
+}

@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Aerosols can have both a warming and cooling influence on global climate through a variety of diverse regional effects. This figure shows the reduction of cloudiness in a geographical region due to smoke aerosols from biomass burning. The reduction in cloud cover causes the region to reflect less sunlight, thereby allowing the surface to become warmer by the increased absorption of direct sunlight. The two satellite images of regions of the Amazon show marked difference in cloud cover due to the presence of smoke from biomass burning. The panel to the left without smoke aerosols has 40% cloud cover while the panel to the right with smoke is virtually cloud free. The partially cloud-covered region reflects an average of 36 Wm-2 of the incident sunlight and the cloud-free area reflects a smaller 28 Wm-2. The fraction of the sunlight that is not reflected is absorbed by the atmosphere and surface. These satellite images were acquired by the MODIS instrument aboard the Aqua satellite on 3 August 2003. Credit: R. Simmon, J. Allen, and Y. Kaufman, NASA/ Goddard Space Flight Center.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "b6/c9/779005b3d4059405a8d066951615/our_changing_planet_2006_23_20090708_1900842253.jpg",
+            "href": "http://data.globalchange.gov/assets/b6/c9/779005b3d4059405a8d066951615/our_changing_planet_2006_23_20090708_1900842253.jpg",
+            "identifier": "b5047286-20a6-4774-b980-38704208c2b2",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "ec871f2d8f93dc3bc263a0e1e54159525251ed63",
+            "size": 77678,
+            "thumbnail": "b6/c9/779005b3d4059405a8d066951615/.thumb-b5047286-20a6-4774-b980-38704208c2b2.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/b6/c9/779005b3d4059405a8d066951615/.thumb-b5047286-20a6-4774-b980-38704208c2b2.png",
+            "uri": "/file/b5047286-20a6-4774-b980-38704208c2b2",
+            "url": "/assets/b6/c9/779005b3d4059405a8d066951615/our_changing_planet_2006_23_20090708_1900842253.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocp-fy2006/figure/reduction-amazon-cloud-cover-smoke.json",
+    "identifier": "reduction-amazon-cloud-cover-smoke",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocp-fy2006",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Reduction in Amazon Cloud Cover due to Smoke",
+    "uri": "/report/ccsp-ocp-fy2006/figure/reduction-amazon-cloud-cover-smoke",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

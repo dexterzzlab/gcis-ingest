@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Hu, Qi\rWeiss, Albert\rFeng, Song\rBaenziger, P. Stephen",
+        "DOI": "10.1016/j.agrformet.2006.01.001",
+        "ISSN": "0168-1923",
+        "Issue": "1\u20134",
+        "Journal": "Agricultural and Forest Meteorology",
+        "Keywords": "Plant phenology\rWinter wheat heading date\rTemperature\rClimate change\rU.S. Great Plains",
+        "Pages": "284-290",
+        "Title": "Earlier winter wheat heading dates and warmer spring in the U.S. Great Plains",
+        "Volume": "135",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\",\"RG 4 Great Plains\"]",
+        "_record_number": "3867",
+        "_uuid": "55d834fb-1331-4109-bf4f-de3bbd0e427c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.agrformet.2006.01.001",
+    "href": "http://data.globalchange.gov/reference/55d834fb-1331-4109-bf4f-de3bbd0e427c.json",
+    "identifier": "55d834fb-1331-4109-bf4f-de3bbd0e427c",
+    "uri": "/reference/55d834fb-1331-4109-bf4f-de3bbd0e427c"
+}

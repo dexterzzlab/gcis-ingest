@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Metcalf, G.E.",
+        "DOI": "10.5547/ISSN0195-6574-EJ-Vol29-No3-1",
+        "Issue": "3",
+        "Journal": "The Energy Journal",
+        "Pages": "1-26",
+        "Title": "An empirical analysis of energy intensity and its determinants at the state level",
+        "URL": "http://works.bepress.com/cgi/viewcontent.cgi?article=1005&context=gilbert_metcalf",
+        "Volume": "29",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "2007",
+        "_uuid": "b49e2223-b2b7-4aa6-ae07-53dfb62cbec9",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.5547/ISSN0195-6574-EJ-Vol29-No3-1",
+    "href": "http://data.globalchange.gov/reference/b49e2223-b2b7-4aa6-ae07-53dfb62cbec9.json",
+    "identifier": "b49e2223-b2b7-4aa6-ae07-53dfb62cbec9",
+    "uri": "/reference/b49e2223-b2b7-4aa6-ae07-53dfb62cbec9"
+}

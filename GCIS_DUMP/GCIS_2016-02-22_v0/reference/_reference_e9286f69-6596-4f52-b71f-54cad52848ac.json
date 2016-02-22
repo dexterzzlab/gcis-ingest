@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Wall, E.\rSmit, B.",
+        "DOI": "10.1300/J064v27n01_07",
+        "ISSN": "1044-0046",
+        "Issue": "1",
+        "Journal": "Journal of Sustainable Agriculture",
+        "Pages": "113-123",
+        "Title": "Climate change adaptation in light of sustainable agriculture",
+        "Volume": "27",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "3325",
+        "_uuid": "e9286f69-6596-4f52-b71f-54cad52848ac",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1300/J064v27n01_07",
+    "href": "http://data.globalchange.gov/reference/e9286f69-6596-4f52-b71f-54cad52848ac.json",
+    "identifier": "e9286f69-6596-4f52-b71f-54cad52848ac",
+    "uri": "/reference/e9286f69-6596-4f52-b71f-54cad52848ac"
+}

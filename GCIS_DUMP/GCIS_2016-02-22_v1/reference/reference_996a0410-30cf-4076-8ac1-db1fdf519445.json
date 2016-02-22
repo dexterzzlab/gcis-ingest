@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Bergengren, Jon C.\rWaliser, Duane E.\rYung, Yuk L.",
+        "DOI": "10.1007/s10584-011-0065-1",
+        "Date": "Aug",
+        "ISSN": "0165-0009",
+        "Issue": "3-4",
+        "Journal": "Climatic Change",
+        "Label": "IN",
+        "Pages": "433-457",
+        "Title": "Ecological sensitivity: A biospheric view of climate change",
+        "Volume": "107",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "557",
+        "_uuid": "996a0410-30cf-4076-8ac1-db1fdf519445",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-011-0065-1",
+    "href": "http://data.globalchange.gov/reference/996a0410-30cf-4076-8ac1-db1fdf519445.json",
+    "identifier": "996a0410-30cf-4076-8ac1-db1fdf519445",
+    "uri": "/reference/996a0410-30cf-4076-8ac1-db1fdf519445"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Whitehead, P.\rWade, A.\rButterfield, D.",
+        "DOI": "10.2166/nh.2009.078",
+        "Issue": "2-3",
+        "Journal": "Hydrological Research",
+        "Pages": "113-122",
+        "Title": "Potential impacts of climate change on water quality in six UK rivers",
+        "URL": "http://www.hydrology.org.uk/assets/2008%20papers/70.pdf",
+        "Volume": "40",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "3411",
+        "_uuid": "e23110d1-89e8-4709-9686-5bd8df5e4407",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.2166/nh.2009.078",
+    "href": "http://data.globalchange.gov/reference/e23110d1-89e8-4709-9686-5bd8df5e4407.json",
+    "identifier": "e23110d1-89e8-4709-9686-5bd8df5e4407",
+    "uri": "/reference/e23110d1-89e8-4709-9686-5bd8df5e4407"
+}

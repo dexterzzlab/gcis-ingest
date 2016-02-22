@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "American Meteorological Society",
+        ".reference_type": "0",
+        "Access Date": "2013/11/21",
+        "Author": "Liebmann, Brant\rDole, Randall M.\rJones, Charles\rBlad\u00e9, Ileana\rAllured, Dave",
+        "DOI": "10.1175/2010BAMS3030.1",
+        "Date": "2010/11/01",
+        "ISSN": "0003-0007",
+        "Issue": "11",
+        "Journal": "Bulletin of the American Meteorological Society",
+        "Pages": "1485-1491",
+        "Title": "Influence of choice of time period on global surface temperature trend estimates",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/2010BAMS3030.1",
+        "Volume": "91",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "4625",
+        "_uuid": "dcb67462-f0ef-48ac-8d24-26b0d910c0d2",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/2010BAMS3030.1",
+    "href": "http://data.globalchange.gov/reference/dcb67462-f0ef-48ac-8d24-26b0d910c0d2.json",
+    "identifier": "dcb67462-f0ef-48ac-8d24-26b0d910c0d2",
+    "uri": "/reference/dcb67462-f0ef-48ac-8d24-26b0d910c0d2"
+}

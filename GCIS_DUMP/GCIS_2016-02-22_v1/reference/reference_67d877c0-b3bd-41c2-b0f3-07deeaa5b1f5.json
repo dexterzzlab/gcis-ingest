@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Hurteau, M.D. ",
+        "Book Title": "Land Use and the Carbon Cycle: Advances in Integrated Science, Management and Policy",
+        "Editor": "Brown, D.G.\rRobinson, D.T.\rFrench, N.H.\rReed, B.C.",
+        "ISBN": "9781107011243",
+        "Pages": "359-380",
+        "Publisher": "Cambridge University Press",
+        "Reviewer": "67d877c0-b3bd-41c2-b0f3-07deeaa5b1f5",
+        "Title": "Ch. 14: Effects of wildland fire management on forest carbon stores",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 13: Land Use and Land Cover Change FINAL\"]",
+        "_record_number": "4177",
+        "_uuid": "67d877c0-b3bd-41c2-b0f3-07deeaa5b1f5",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/ddaadc62-d4cb-4fe2-84ac-eadf2ce7d522",
+    "href": "http://data.globalchange.gov/reference/67d877c0-b3bd-41c2-b0f3-07deeaa5b1f5.json",
+    "identifier": "67d877c0-b3bd-41c2-b0f3-07deeaa5b1f5",
+    "uri": "/reference/67d877c0-b3bd-41c2-b0f3-07deeaa5b1f5"
+}

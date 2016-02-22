@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "IPCC,",
+        "Editor": "Field, C.B.\rBarros, V.\rStocker, T.F.\rQin, D.\rDokken, D.J.\rEbi, K.L.\rMastrandrea, M.D.\rMach, K.J.\rPlattner, G.-K.\rAllen, S.K.\rTignor, M.\rMidgley, P.M.",
+        "Number of Pages": "582",
+        "Place Published": "Cambridge, UK and New York, NY, USA",
+        "Publisher": "Cambridge University Press",
+        "Reviewer": "089d8050-f4c8-4d07-bc35-25bf61691be3",
+        "Title": "Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation. A Special Report of Working Groups I and II of the Intergovernmental Panel on Climate Change",
+        "URL": "http://ipcc-wg2.gov/SREX/images/uploads/SREX-All_FINAL.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Ch. 25: Coastal Zone FINAL\",\"Ch. 26: Decision Support FINAL\",\"Ch. 24: Oceans FINAL\",\"RG 10 Coasts\",\"Ch. 4: Energy Supply and Use FINAL\",\"Ch. 28: Adaptation FINAL\",\"Ch. 7: Forests FINAL\",\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "1579",
+        "_uuid": "089d8050-f4c8-4d07-bc35-25bf61691be3",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/ipcc-srex",
+    "href": "http://data.globalchange.gov/reference/089d8050-f4c8-4d07-bc35-25bf61691be3.json",
+    "identifier": "089d8050-f4c8-4d07-bc35-25bf61691be3",
+    "uri": "/reference/089d8050-f4c8-4d07-bc35-25bf61691be3"
+}

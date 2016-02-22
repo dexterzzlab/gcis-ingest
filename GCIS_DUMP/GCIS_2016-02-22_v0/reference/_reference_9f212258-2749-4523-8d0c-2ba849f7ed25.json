@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Campanella, R.",
+        "ISBN": "9781932364859",
+        "Number of Pages": "224",
+        "Place Published": "Chicago, IL and Washinton, D.C.",
+        "Publisher": "American Planning Association",
+        "Reviewer": "9f212258-2749-4523-8d0c-2ba849f7ed25",
+        "Title": "Delta Urbanism: New Orleans",
+        "Year": "2010",
+        "_chapter": "[\"RG 2 Southeast\",\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "502",
+        "_uuid": "9f212258-2749-4523-8d0c-2ba849f7ed25",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/419fb266-eacf-40a1-b55e-03206feaecee",
+    "href": "http://data.globalchange.gov/reference/9f212258-2749-4523-8d0c-2ba849f7ed25.json",
+    "identifier": "9f212258-2749-4523-8d0c-2ba849f7ed25",
+    "uri": "/reference/9f212258-2749-4523-8d0c-2ba849f7ed25"
+}

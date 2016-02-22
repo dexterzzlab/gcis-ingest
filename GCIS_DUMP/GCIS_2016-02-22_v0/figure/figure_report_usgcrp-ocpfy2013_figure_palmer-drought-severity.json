@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "July 2002 Palmer Drought Severity Index (PDSI) maps for South Carolina. ",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "ca/f8/9fa09080f211c0d3868418810731/OCP_2013_Page_24_Image_0001.jpg",
+            "href": "http://data.globalchange.gov/assets/ca/f8/9fa09080f211c0d3868418810731/OCP_2013_Page_24_Image_0001.jpg",
+            "identifier": "e461b6de-0f5c-4556-bf5f-ffbd9b4114f4",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "6be7908575a5e28938f267de1c4b41b0b7084166",
+            "size": 282316,
+            "thumbnail": "ca/f8/9fa09080f211c0d3868418810731/.thumb-e461b6de-0f5c-4556-bf5f-ffbd9b4114f4.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/ca/f8/9fa09080f211c0d3868418810731/.thumb-e461b6de-0f5c-4556-bf5f-ffbd9b4114f4.png",
+            "uri": "/file/e461b6de-0f5c-4556-bf5f-ffbd9b4114f4",
+            "url": "/assets/ca/f8/9fa09080f211c0d3868418810731/OCP_2013_Page_24_Image_0001.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2013/figure/palmer-drought-severity.json",
+    "identifier": "palmer-drought-severity",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2013",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Palmer Drought Severity",
+    "uri": "/report/usgcrp-ocpfy2013/figure/palmer-drought-severity",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

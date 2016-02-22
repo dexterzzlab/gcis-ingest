@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Deisenhammer, E.A.",
+        "DOI": "10.1046/j.0001-690X.2003.00209.x",
+        "ISSN": "1600-0447",
+        "Issue": "6",
+        "Journal": "Acta Psychiatrica Scandinavica",
+        "Pages": "402-409",
+        "Title": "Weather and suicide: The present state of knowledge on the association of meteorological factors with suicidal behaviour",
+        "Volume": "108",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "1794",
+        "_uuid": "f3f74a8a-8d03-4770-8765-66c57dd40da3",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1046/j.0001-690X.2003.00209.x",
+    "href": "http://data.globalchange.gov/reference/f3f74a8a-8d03-4770-8765-66c57dd40da3.json",
+    "identifier": "f3f74a8a-8d03-4770-8765-66c57dd40da3",
+    "uri": "/reference/f3f74a8a-8d03-4770-8765-66c57dd40da3"
+}

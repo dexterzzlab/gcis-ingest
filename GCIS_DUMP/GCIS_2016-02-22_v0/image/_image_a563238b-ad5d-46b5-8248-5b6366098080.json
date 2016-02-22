@@ -1,0 +1,95 @@
+{
+    "attributes": "Southwest, precipitation, observed",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2523.json",
+            "id": 2523,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Laura",
+                "id": 1101,
+                "last_name": "Stevens",
+                "middle_name": null,
+                "orcid": "0000-0002-8842-702X",
+                "url": "http://www.cicsnc.org/people/laura-stevens"
+            },
+            "person_id": 1101,
+            "person_uri": "/person/1101",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2523"
+        }
+    ],
+    "create_dt": "2013-06-27T15:16:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "The colors on the map show annual total precipitation changes for 1991-2012 compared to the 1901-1960 average, and show wetter conditions in most areas. The bars on the graphs show average precipitation differences by decade for 1901-2012 (relative to the 1901-1960 average) for each region. The far right bar in each graph is for 2001-2012. (Figure source: adapted from Peterson et al. 2013<tbib>e15600d0-290f-44e2-9b58-9ffd295ee6d2</tbib>).",
+            "chapter_identifier": "our-changing-climate",
+            "create_dt": "2013-08-01T10:26:05",
+            "identifier": "observed-us-precipitation-change",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 12,
+            "report_identifier": "nca3",
+            "source_citation": "adapted from Peterson et al. 2013<tbib>e15600d0-290f-44e2-9b58-9ffd295ee6d2</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Observed U.S. Precipitation Change",
+            "url": "http://nca2014.globalchange.gov/highlights/report-findings/our-changing-climate/graphics/observed-us-precipitation-change",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "38/bd/6203bc7c7c97707025a68b614841/2-12_sw.png",
+            "href": "http://data.globalchange.gov/assets/38/bd/6203bc7c7c97707025a68b614841/2-12_sw.png",
+            "identifier": "688fa5f2-efa0-4ec1-a7d8-90cceb954853",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "285b372dea3b27cb8a36e25204293e491b65e3ed",
+            "size": 32764,
+            "thumbnail": "38/bd/6203bc7c7c97707025a68b614841/.thumb-688fa5f2-efa0-4ec1-a7d8-90cceb954853.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/38/bd/6203bc7c7c97707025a68b614841/.thumb-688fa5f2-efa0-4ec1-a7d8-90cceb954853.png",
+            "uri": "/file/688fa5f2-efa0-4ec1-a7d8-90cceb954853",
+            "url": "/assets/38/bd/6203bc7c7c97707025a68b614841/2-12_sw.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/a563238b-ad5d-46b5-8248-5b6366098080.json",
+    "identifier": "a563238b-ad5d-46b5-8248-5b6366098080",
+    "lat_max": "42.00",
+    "lat_min": "31.33",
+    "lon_max": "-102.00",
+    "lon_min": "-124.40",
+    "parents": [
+        {
+            "activity_uri": "/activity/a563238b-nca3-cddv2-r1-process",
+            "label": "dataset nca3-cddv2-r1",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-cddv2-r1"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2012-12-31T23:59:00",
+    "time_start": "1901-01-01T00:00:00",
+    "title": "Observed U.S. Precipitation Change Decadal Bar Graph - Southwest",
+    "uri": "/image/a563238b-ad5d-46b5-8248-5b6366098080",
+    "url": null,
+    "usage_limits": null
+}

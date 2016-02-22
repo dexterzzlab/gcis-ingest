@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Barsugli, J.\rAnderson, C.\rSmith, J.B.\rVogel, J.M.",
+        "Institution": "Water Utility Climate Alliance",
+        "Pages": "146",
+        "Place Published": "San Francisco, CA",
+        "Title": "Options for Improving Climate Modeling to Assist Water Utility Planning for Climate Change",
+        "URL": "http://www.wucaonline.org/assets/pdf/pubs_whitepaper_120909.pdf",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "1230",
+        "_uuid": "6f89df4a-1f6e-4b01-9bf2-9b428ba14013",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/wuca-options-2009",
+    "href": "http://data.globalchange.gov/reference/6f89df4a-1f6e-4b01-9bf2-9b428ba14013.json",
+    "identifier": "6f89df4a-1f6e-4b01-9bf2-9b428ba14013",
+    "uri": "/reference/6f89df4a-1f6e-4b01-9bf2-9b428ba14013"
+}

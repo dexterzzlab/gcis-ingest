@@ -1,0 +1,15 @@
+{
+    "computing_environment": "UNIX",
+    "data_usage": "Multi-model mean CMIP3 temperature change (historical and projected) under each emissions scenario (RCP2.6, 4.5, 6.0, and 8.5) was plotted as a time series for the contiguous United States, for 1901-2099 (relative to the 1901-1960 average temperature).",
+    "duration": null,
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/2d6fb90b-nca3-cmip5-r1-process.json",
+    "identifier": "2d6fb90b-nca3-cmip5-r1-process",
+    "methodology": "1. The contiguous U.S. annual temperature (using a latitude weighting of grid boxes) was computed for each year for each model listed below, both for the historical and future model runs under each emissions scenario (RCP2.6, 4.5, 6.0, and 8.5).\r\n2. A time series of temperature anomalies was computed for each model by subtracting the 1901-1960 average from the annual temperatures.\r\n3. The multi-model mean contiguous U.S. annual temperature anomaly was computed for each year, and plotted as time series for each scenario.\r\n\r\nThe following models were used for the RCP 2.6 scenario:\r\nbcc-csm1-1, BNU-ESM, CanESM2, CCSM4, CESM1-CAM5, CNRM-CM5, CSIRO-Mk3-6-0, EC-EARTH, FGOALS-g2, FGOALS-s2, FIO-ESM, GFDL-CM3, GFDL-ESM2G, GFDL-ESM2M, GISS-E2-R, HadGEM2-AO, HadGEM2-ES, IPSL-CM5A-LR, IPSL-CM5A-MR, MIROC5, MIROC-ESM-CHEM, MIROC-ESM, MPI-ESM-LR, MPI-ESM-MR, MRI-CGCM3, NorESM1-ME, and NorESM1-M.\r\n\r\nThe following models were used for the RCP 6.0 scenario:\r\nbcc-csm1-1, CCSM4, CESM1-CAM5, CSIRO-Mk3-6-0, FIO-ESM, GFDL-CM3, GFDL-ESM2G, GFDL-ESM2M, GISS-E2-R, HadGEM2-AO, HadGEM2-ES, IPSL-CM5A-LR, MIROC5, MIROC-ESM-CHEM, MIROC-ESM, MRI-CGCM3, NorESM1-ME, and NorESM1-M.\r\n\r\nThe following models were used for the RCP 4.5 scenario:\r\nACCESS1-0, ACCESS1-3, bcc-csm1-1, CanESM2, CCSM4, CESM1-BGC, CESM1-CAM5, CMCC-CM, CNRM-CM5, CSIRO-Mk3-6-0, EC-EARTH, FGOALS-g2, FGOALS-s2, FIO-ESM, GFDL-CM3, GFDL-ESM2G, GFDL-ESM2M, GISS-E2-R_p1, GISS-E2-R_p2, GISS-E2-R_p3, HadGEM2-CC, HadGEM2-ES, inmcm4, IPSL-CM5A-LR, IPSL-CM5A-MR, MIROC5, MIROC-ESM-CHEM, MIROC-ESM, MPI-ESM-LR, MPI-ESM-MR, MRI-CGCM3, NorESM1-ME, and NorESM1-M.\r\n\r\nThe following models were used for the RCP 8.5 scenario:\r\nACCESS1-0, ACCESS1-3, bcc-csm1-1, BNU-ESM, CanESM2, CCSM4, CESM1-BGC, CESM1-CAM5, CESM1-WACCM, CMCC-CM, CNRM-CM5, CSIRO-Mk3-6-0, EC-EARTH, FGOALS-g2, FGOALS-s2, FIO-ESM, GFDL-CM3, GFDL-ESM2G, GFDL-ESM2M, GISS-E2-R, HadGEM2-AO, HadGEM2-CC, HadGEM2-ES, inmcm4, IPSL-CM5A-LR, IPSL-CM5A-MR, MIROC5, MIROC-ESM-CHEM, MIROC-ESM, MPI-ESM-LR, MPI-ESM-MR, MRI-CGCM3, NorESM1-ME, and NorESM1-M.",
+    "notes": "Python",
+    "output_artifacts": "Custom python codes written by Michael Wehner\r\nCAQ_average annual temp_conus_original_v2.png\r\nCAQ_average annual temp_conus_V5.png",
+    "software": "Python",
+    "start_time": null,
+    "uri": "/activity/2d6fb90b-nca3-cmip5-r1-process",
+    "visualization_software": "Python (XMGRACE)"
+}

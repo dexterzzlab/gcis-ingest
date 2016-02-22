@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "These data compare two algorithms used to infer the global climatology. Chlorophyll a concentrations differ, approaching 100% at high latitudes. The right-hand panel shows the global estimate of colored dissolved organic material (CDOM). Credit: D.A. Siegel, University of California, Santa Barbara; S. Maritorena, University of California, Santa Barbara; N.B. Nelson, University of California, Santa Barbara; M.J. Behrenfeld, Oregon State University; and C.R. McClain NASA/Goddard Space Flight Center (reproduced from Geophysical Research Letters with permission from the American Geophysical Union).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "3b/a2/1ddbfdbb936a3fdf94ffec461121/our_changing_planet_2007_68_20090708_1747189855.jpg",
+            "href": "http://data.globalchange.gov/assets/3b/a2/1ddbfdbb936a3fdf94ffec461121/our_changing_planet_2007_68_20090708_1747189855.jpg",
+            "identifier": "2e883a8b-0180-4768-8333-d74f03e7df88",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "2a190d94f2edb3c5e32827dd57493982912181c1",
+            "size": 33159,
+            "thumbnail": "3b/a2/1ddbfdbb936a3fdf94ffec461121/.thumb-2e883a8b-0180-4768-8333-d74f03e7df88.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/3b/a2/1ddbfdbb936a3fdf94ffec461121/.thumb-2e883a8b-0180-4768-8333-d74f03e7df88.png",
+            "uri": "/file/2e883a8b-0180-4768-8333-d74f03e7df88",
+            "url": "/assets/3b/a2/1ddbfdbb936a3fdf94ffec461121/our_changing_planet_2007_68_20090708_1747189855.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/characterization-carbon-matter-ocean-ecosystems.json",
+    "identifier": "characterization-carbon-matter-ocean-ecosystems",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Characterization of Carbon Matter in Ocean Ecosystems",
+    "uri": "/report/ccsp-ocpfy2007/figure/characterization-carbon-matter-ocean-ecosystems",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

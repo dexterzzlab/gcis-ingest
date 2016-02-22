@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Flyer for the Southern Plains Drought Outlook webinar series",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "5d/ea/9219431c5e28321ff6f494ff6568/OCP_2012_Page_27_Image_0002.jpg",
+            "href": "http://data.globalchange.gov/assets/5d/ea/9219431c5e28321ff6f494ff6568/OCP_2012_Page_27_Image_0002.jpg",
+            "identifier": "8a1a8caf-8b24-44a6-a272-eef5094303a5",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "22bd517d9923518416141c0ec11a569473853b39",
+            "size": 71694,
+            "thumbnail": "5d/ea/9219431c5e28321ff6f494ff6568/.thumb-8a1a8caf-8b24-44a6-a272-eef5094303a5.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/5d/ea/9219431c5e28321ff6f494ff6568/.thumb-8a1a8caf-8b24-44a6-a272-eef5094303a5.png",
+            "uri": "/file/8a1a8caf-8b24-44a6-a272-eef5094303a5",
+            "url": "/assets/5d/ea/9219431c5e28321ff6f494ff6568/OCP_2012_Page_27_Image_0002.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2012/figure/managing-drought-southern-plains.json",
+    "identifier": "managing-drought-southern-plains",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2012",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Managing Drought In The Southern Plains",
+    "uri": "/report/usgcrp-ocpfy2012/figure/managing-drought-southern-plains",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

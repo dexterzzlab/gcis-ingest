@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Once created, a molecule of reactive nitrogen has a cascading impact on people and ecosystems as it contributes to a number of environmental issues. Molecular terms represent oxidized forms of nitrogen primarily from fossil fuel combustion (such as nitrogen oxides, NO<sub>x</sub>), reduced forms of nitrogen primarily from agriculture (such as ammonia, NH<sub>3</sub>), and organic forms of nitrogen (N<sub>org</sub>) from various processes. NO<sub>y</sub> is all nitrogen-containing atmospheric gases that have both nitrogen and oxygen, other than nitrous oxide (N<sub>2</sub>O). NH<sub>x</sub> is the sum of ammonia (NH<sub>3</sub>) and ammonium (NH<sub>4</sub>). (Figure source: adapted from EPA 2011;<tbib>346e77a5-93b9-4c37-bd95-d7db44091a4c</tbib> Galloway et al. 2003;<tbib>c713eeb5-4e17-41e2-b65d-da453bbf9f97</tbib> with input from USDA. USDA contributors were Adam Chambers and Margaret Walsh).",
+            "chapter_identifier": "biogeochemical-cycles",
+            "create_dt": null,
+            "identifier": "human-activities-that-form-reactive-nitrogen-and-resulting-consequences-in-environmental-reservoirs",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 2,
+            "report_identifier": "nca3",
+            "source_citation": "adapted from EPA 2011;<tbib>346e77a5-93b9-4c37-bd95-d7db44091a4c</tbib> Galloway et al. 2003;<tbib>c713eeb5-4e17-41e2-b65d-da453bbf9f97</tbib> with input from USDA. USDA contributors were Adam Chambers and Margaret Walsh",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Human Activities that Form Reactive Nitrogen and Resulting Consequences in Environmental Reservoirs",
+            "url": "http://nca2014.globalchange.gov/report/sectors/biogeochemical-cycles/graphics/human-activities-form-reactive-nitrogen-and-resulting",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "40/26/6c36b7986acf2077731e6e013452/BGC_nitrogen_cascade_V8.png",
+            "href": "http://data.globalchange.gov/assets/40/26/6c36b7986acf2077731e6e013452/BGC_nitrogen_cascade_V8.png",
+            "identifier": "97829278-ccf8-4608-b153-8c6108488058",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "5e46ddf87a6458c9ab8ecbb0ff639419878df687",
+            "size": 348089,
+            "thumbnail": "40/26/6c36b7986acf2077731e6e013452/.thumb-97829278-ccf8-4608-b153-8c6108488058.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/40/26/6c36b7986acf2077731e6e013452/.thumb-97829278-ccf8-4608-b153-8c6108488058.png",
+            "uri": "/file/97829278-ccf8-4608-b153-8c6108488058",
+            "url": "/assets/40/26/6c36b7986acf2077731e6e013452/BGC_nitrogen_cascade_V8.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/0bfda129-9818-4ef9-83a9-ecde7b086bd4.json",
+    "identifier": "0bfda129-9818-4ef9-83a9-ecde7b086bd4",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Human Activities that Form Reactive Nitrogen and Resulting Consequences in Environmental Reservoirs",
+    "uri": "/image/0bfda129-9818-4ef9-83a9-ecde7b086bd4",
+    "url": null,
+    "usage_limits": null
+}

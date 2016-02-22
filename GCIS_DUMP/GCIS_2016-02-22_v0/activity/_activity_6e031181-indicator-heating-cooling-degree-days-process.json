@@ -1,0 +1,15 @@
+{
+    "computing_environment": null,
+    "data_usage": null,
+    "duration": null,
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/6e031181-indicator-heating-cooling-degree-days-process.json",
+    "identifier": "6e031181-indicator-heating-cooling-degree-days-process",
+    "methodology": "Source data by month and state downloaded from http://www1.ncdc.noaa.gov/pub/data/cirs/climdiv/ in .txt format. Plotted data derived by aggregating all months into year bins, and all states into one national bin. Baseline is calculated as 1970-2010 average, and plotted percent is calculated as percent difference from this baseline.   \r\n\r\nThe data used are from January 1, 1970 to December 31, 2013.\r\n\r\nData was accessed on September 17, 2014.",
+    "notes": null,
+    "output_artifacts": null,
+    "software": null,
+    "start_time": null,
+    "uri": "/activity/6e031181-indicator-heating-cooling-degree-days-process",
+    "visualization_software": null
+}

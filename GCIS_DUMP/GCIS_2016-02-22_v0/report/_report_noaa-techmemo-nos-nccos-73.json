@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/noaa-techmemo-nos-nccos-73.json",
+    "identifier": "noaa-techmemo-nos-nccos-73",
+    "in_library": null,
+    "publication_year": 2008,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "The State of Coral Reef Ecosystems of the United States and Pacific Freely Associated States: 2008. NOAA Technical Memorandum NOS NCCOS 73",
+    "topic": null,
+    "uri": "/report/noaa-techmemo-nos-nccos-73",
+    "url": "http://ccma.nos.noaa.gov/ecosystems/coralreef/coral2008/pdf/CoralReport2008.pdf"
+}

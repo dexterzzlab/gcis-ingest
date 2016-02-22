@@ -1,0 +1,52 @@
+{
+    "attributes": null,
+    "caption": null,
+    "chapter": {
+        "doi": null,
+        "identifier": "capabilities-developing-us-population-scenarios",
+        "number": 4,
+        "report_identifier": "usgcrp-towards-scenarios-us-demographic-change-workshop-report-2015",
+        "sort_key": 40,
+        "title": "Capabilities for Developing US Population Scenarios",
+        "url": null
+    },
+    "chapter_identifier": "capabilities-developing-us-population-scenarios",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "25/c9/4e77012bbdf1fa7418b8fee89df4/Figure4.PNG",
+            "href": "http://data.globalchange.gov/assets/25/c9/4e77012bbdf1fa7418b8fee89df4/Figure4.PNG",
+            "identifier": "2ac65b08-382f-4aff-a169-706b8e563971",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "0201ff0e34c29303c204c15ef5f68b16470c1d83",
+            "size": 283393,
+            "thumbnail": "25/c9/4e77012bbdf1fa7418b8fee89df4/.thumb-2ac65b08-382f-4aff-a169-706b8e563971.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/25/c9/4e77012bbdf1fa7418b8fee89df4/.thumb-2ac65b08-382f-4aff-a169-706b8e563971.png",
+            "uri": "/file/2ac65b08-382f-4aff-a169-706b8e563971",
+            "url": "/assets/25/c9/4e77012bbdf1fa7418b8fee89df4/Figure4.PNG"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-towards-scenarios-us-demographic-change-workshop-report-2015/chapter/capabilities-developing-us-population-scenarios/figure/projection-feasibility-population-characteristic-geographic-resolution.json",
+    "identifier": "projection-feasibility-population-characteristic-geographic-resolution",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 4,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-towards-scenarios-us-demographic-change-workshop-report-2015",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Projection feasibility by population characteristic and geographic resolution",
+    "uri": "/report/usgcrp-towards-scenarios-us-demographic-change-workshop-report-2015/chapter/capabilities-developing-us-population-scenarios/figure/projection-feasibility-population-characteristic-geographic-resolution",
+    "url": null,
+    "usage_limits": null
+}

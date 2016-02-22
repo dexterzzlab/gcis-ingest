@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Millar, C.I.\rKing, J.C.\rWestfall, R.D.\rAlden, H.A.\rDelany, D.L.",
+        "DOI": "10.1016/j.yqres.2006.05.001",
+        "ISSN": "0033-5894",
+        "Issue": "2",
+        "Journal": "Quaternary Research",
+        "Pages": "273-287",
+        "Title": "Late Holocene forest dynamics, volcanism, and climate change at Whitewing Mountain and San Joaquin Ridge, Mono County, Sierra Nevada, CA, USA",
+        "URL": "http://ddr.nal.usda.gov/bitstream/10113/28118/1/IND44188834.pdf",
+        "Volume": "66",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "2026",
+        "_uuid": "f6937073-8ead-4353-89a4-1838fd3b2a2e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.yqres.2006.05.001",
+    "href": "http://data.globalchange.gov/reference/f6937073-8ead-4353-89a4-1838fd3b2a2e.json",
+    "identifier": "f6937073-8ead-4353-89a4-1838fd3b2a2e",
+    "uri": "/reference/f6937073-8ead-4353-89a4-1838fd3b2a2e"
+}

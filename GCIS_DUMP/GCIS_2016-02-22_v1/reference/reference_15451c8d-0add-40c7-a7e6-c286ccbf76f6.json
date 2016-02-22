@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "FitzGerald, D. M.\rFenster, M. S.\rArgow, B. A.\rBuynevich, I. V.",
+        "Book Title": "Annual Review of Earth and Planetary Sciences",
+        "DOI": "10.1146/annurev.earth.35.031306.140139",
+        "ISBN": "0084-6597; 978-0-8243-2036-2",
+        "Keywords": "barrier islands; tidal inlets; salt marsh; wetlands; inundation; estuaries; equilibrium slope; equilibrium beach profiles; mississippi delta plain; west-central; florida; wave-built terraces; salt-marsh; shoreface profile; north-carolina; united-states; sediment transport; tropical cyclones",
+        "Pages": "601-647",
+        "Place Published": "Palo Alto",
+        "Publisher": "Annual Reviews",
+        "Reviewer": "15451c8d-0add-40c7-a7e6-c286ccbf76f6",
+        "Series Title": "Annual Review of Earth and Planetary Sciences",
+        "Title": "Coastal impacts due to sea-level rise",
+        "Volume": "36",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "413",
+        "_uuid": "15451c8d-0add-40c7-a7e6-c286ccbf76f6",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/article/10.1146/annurev.earth.35.031306.140139",
+    "href": "http://data.globalchange.gov/reference/15451c8d-0add-40c7-a7e6-c286ccbf76f6.json",
+    "identifier": "15451c8d-0add-40c7-a7e6-c286ccbf76f6",
+    "uri": "/reference/15451c8d-0add-40c7-a7e6-c286ccbf76f6"
+}

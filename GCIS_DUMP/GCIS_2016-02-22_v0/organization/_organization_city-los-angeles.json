@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/city-los-angeles.json",
+    "identifier": "city-los-angeles",
+    "name": "City of Los Angeles",
+    "organization_type_identifier": "city",
+    "uri": "/organization/city-los-angeles",
+    "url": "https://www.lacity.org/"
+}

@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/census-sb-95-11.json",
+    "identifier": "census-sb-95-11",
+    "in_library": null,
+    "publication_year": 1995,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Housing of American Indians on Reservations - Equipment and Fuels. Bureau of the Census Statistical Brief, Issued April 1995, SB/95-11",
+    "topic": null,
+    "uri": "/report/census-sb-95-11",
+    "url": "http://www.census.gov/prod/1/statbrief/sb95_11.pdf"
+}

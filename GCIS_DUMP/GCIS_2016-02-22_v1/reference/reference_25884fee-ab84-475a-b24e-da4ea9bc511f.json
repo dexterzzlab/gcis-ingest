@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Gill, S.K.\rWright, R.\rTitus, J.G.\rKafalenos, R.\rWright, K.",
+        "Book Title": "Coastal Sensitivity to Sea Level Rise: A Focus on the Mid-Atlantic Region. A report by the U.S. Climate Change Science Program and the Subcommittee on Global Change Research",
+        "Pages": "105-116",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "U.S. Environmental Protection Agency",
+        "Reviewer": "25884fee-ab84-475a-b24e-da4ea9bc511f",
+        "Title": "Ch. 7: Population, land use, and infrastructure",
+        "URL": "http://library.globalchange.gov/downloads/download.php?id=29",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 14: Rural Communities FINAL\"]",
+        "_record_number": "1280",
+        "_uuid": "25884fee-ab84-475a-b24e-da4ea9bc511f",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/sap-4_1-coastal-sensitivity-sea-level-rise",
+    "href": "http://data.globalchange.gov/reference/25884fee-ab84-475a-b24e-da4ea9bc511f.json",
+    "identifier": "25884fee-ab84-475a-b24e-da4ea9bc511f",
+    "uri": "/reference/25884fee-ab84-475a-b24e-da4ea9bc511f"
+}

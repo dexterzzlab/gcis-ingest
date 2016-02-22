@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Hatfield, Jerry\rTakle, Gene\rGrotjahn, Richard\rHolden, Patrick\rIzaurralde, R. Cesar\rMader, Terry\rMarshall, Elizabeth\rLiverman, Diana",
+        "Book Title": "Climate Change Impacts in the United States: The Third National Climate Assessment",
+        "DOI": "(doi)",
+        "Editor": "Melillo, Jerry M.\rTerese (T.C.) Richmond,\rYohe, Gary W.",
+        "Pages": "6-1\u2013nn",
+        "Place Published": "Washington, DC",
+        "Publisher": "U.S. Global Change Research Program",
+        "Reviewer": "e3a33475-9c92-40f7-9745-3d5afcadb3f1",
+        "Title": "Ch. 6: Agriculture",
+        "URL": "http://nca2014.globalchange.gov/report/sectors/agriculture",
+        "Year": "2014",
+        "_chapter": "[\"Ch. 0: About this Report FINAL\"]",
+        "_record_number": "4717",
+        "_uuid": "e3a33475-9c92-40f7-9745-3d5afcadb3f1",
+        "reftype": "Book Section"
+    },
+    "child_publication": null,
+    "href": "http://data.globalchange.gov/reference/e3a33475-9c92-40f7-9745-3d5afcadb3f1.json",
+    "identifier": "e3a33475-9c92-40f7-9745-3d5afcadb3f1",
+    "uri": "/reference/e3a33475-9c92-40f7-9745-3d5afcadb3f1"
+}

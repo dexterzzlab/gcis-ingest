@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Schematic of major components needed to understand the climate system and climate change.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "da/95/f6b6a6091b050dc0f224026efbbe/our_changing_planet_2004-2005_12_20090708_1343538933.jpg",
+            "href": "http://data.globalchange.gov/assets/da/95/f6b6a6091b050dc0f224026efbbe/our_changing_planet_2004-2005_12_20090708_1343538933.jpg",
+            "identifier": "ccca7c78-8492-440d-9bea-dd76b9623ba5",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "f33bbbebb1b7c106f424f9947b5ad82299a007e1",
+            "size": 58903,
+            "thumbnail": "da/95/f6b6a6091b050dc0f224026efbbe/.thumb-ccca7c78-8492-440d-9bea-dd76b9623ba5.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/da/95/f6b6a6091b050dc0f224026efbbe/.thumb-ccca7c78-8492-440d-9bea-dd76b9623ba5.png",
+            "uri": "/file/ccca7c78-8492-440d-9bea-dd76b9623ba5",
+            "url": "/assets/da/95/f6b6a6091b050dc0f224026efbbe/our_changing_planet_2004-2005_12_20090708_1343538933.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2004and2005/figure/climate-system-climate-change.json",
+    "identifier": "climate-system-climate-change",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2004and2005",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "The Climate System and Climate Change",
+    "uri": "/report/ccsp-ocpfy2004and2005/figure/climate-system-climate-change",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

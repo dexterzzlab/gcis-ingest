@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Median ozone amounts above North America, in parts per billion, at 10 to 11 km during August 2006, after stratospheric ozone contribution was removed. The ozone enhancement is mainly due to nitrogen oxides emitted by lightning into the upper troposphere, followed by reactions with carbon monoxide, methane, and volatile organic compounds of both anthropogenic and natural origins. The white dots show the locations of observing stations. Credit: O.R. Cooper, CIRES and NOAA / Earth System Research Laboratory (reproduced from Journal of Geophysical Research with permission from the American Geophysical Union).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "87/44/85af390427b6d947874674937a04/Figure_5.png",
+            "href": "http://data.globalchange.gov/assets/87/44/85af390427b6d947874674937a04/Figure_5.png",
+            "identifier": "7a79b70f-b0b2-4b94-8e8d-2190fe05ed2d",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "0ce0d7b7e4d1e671cfe477289ef54ceca10aed80",
+            "size": 588090,
+            "thumbnail": "87/44/85af390427b6d947874674937a04/.thumb-7a79b70f-b0b2-4b94-8e8d-2190fe05ed2d.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/87/44/85af390427b6d947874674937a04/.thumb-7a79b70f-b0b2-4b94-8e8d-2190fe05ed2d.png",
+            "uri": "/file/7a79b70f-b0b2-4b94-8e8d-2190fe05ed2d",
+            "url": "/assets/87/44/85af390427b6d947874674937a04/Figure_5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2009/figure/median-ozone-north-america-august2006.json",
+    "identifier": "median-ozone-north-america-august2006",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2009",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Median Ozone Amounts above North America (August 2006)",
+    "uri": "/report/usgcrp-ocpfy2009/figure/median-ozone-north-america-august2006",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

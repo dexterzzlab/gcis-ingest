@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Radiative climate forcing by long-lived greenhouse gases. Direct radiative forcing (in Wm-2) by four classes of major long-lived greenhouse gases (left panel), and percentage of the total direct forcing for each of the four (right panel). Annual averages are from NOAA\u2019s Global Cooperative Air Sampling Network. Credit: NOAA Climate Monitoring and Diagnostics Laboratory.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "bf/28/6de06391cc50aef41d2a72c4fd7e/our_changing_planet_2004-2005_10_20090708_1906677243.jpg",
+            "href": "http://data.globalchange.gov/assets/bf/28/6de06391cc50aef41d2a72c4fd7e/our_changing_planet_2004-2005_10_20090708_1906677243.jpg",
+            "identifier": "5cde0839-f165-4d97-ab8d-2b2da5f7148c",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "83c55b39a99a36927441908c1a766c9844c94c69",
+            "size": 48454,
+            "thumbnail": "bf/28/6de06391cc50aef41d2a72c4fd7e/.thumb-5cde0839-f165-4d97-ab8d-2b2da5f7148c.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/bf/28/6de06391cc50aef41d2a72c4fd7e/.thumb-5cde0839-f165-4d97-ab8d-2b2da5f7148c.png",
+            "uri": "/file/5cde0839-f165-4d97-ab8d-2b2da5f7148c",
+            "url": "/assets/bf/28/6de06391cc50aef41d2a72c4fd7e/our_changing_planet_2004-2005_10_20090708_1906677243.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2004and2005/figure/climate-forcing-by-greenhouse-gases.json",
+    "identifier": "climate-forcing-by-greenhouse-gases",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2004and2005",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Climate Forcing by Greenhouse Gases",
+    "uri": "/report/ccsp-ocpfy2004and2005/figure/climate-forcing-by-greenhouse-gases",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

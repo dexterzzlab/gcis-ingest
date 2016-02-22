@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Feng, M.\rMcPhaden, M. J.\rLee, T.",
+        "DOI": "10.1029/2010gl042796",
+        "ISSN": "1994-8007",
+        "Issue": "9",
+        "Journal": "Geophysical Research Letters",
+        "Pages": "L09606",
+        "Title": "Decadal variability of the Pacific subtropical cells and their influence on the southeast Indian Ocean",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2010GL042796/pdf",
+        "Volume": "37",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "492",
+        "_uuid": "0aa83335-dfdc-49ed-bf01-350a4e5dbb7d",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2010gl042796",
+    "href": "http://data.globalchange.gov/reference/0aa83335-dfdc-49ed-bf01-350a4e5dbb7d.json",
+    "identifier": "0aa83335-dfdc-49ed-bf01-350a4e5dbb7d",
+    "uri": "/reference/0aa83335-dfdc-49ed-bf01-350a4e5dbb7d"
+}

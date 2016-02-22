@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "In March 2002, a few days earlier than usual, a large, dense plume of dust blew southward and eastward from the desert plains of Mongolia\u2014powerfully affecting air quality for the residents of Beijing and surrounding areas. Citizens of northeastern China call this annual event the \u201cshachenbao,\u201d or \u201cdust cloud tempest.\u201d The massive dust storm (brownish pixels) can easily be distinguished from clouds (bright white pixels) as it blows across northern Japan and eastward toward the open Pacific Ocean. Credit: NASA Goddard Space Flight Center, SeaWiFS Project; and ORBIMAGE.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "11/4d/09a7cc27b23fd2785906a884852f/our_changing_planet_2003_2_20090708_1677471997.jpg",
+            "href": "http://data.globalchange.gov/assets/11/4d/09a7cc27b23fd2785906a884852f/our_changing_planet_2003_2_20090708_1677471997.jpg",
+            "identifier": "2770d729-de07-45ed-a8a2-7efd25a58c1c",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "bcfc74e99332be49e618d6930c5d2ce637b47c2e",
+            "size": 130345,
+            "thumbnail": "11/4d/09a7cc27b23fd2785906a884852f/.thumb-2770d729-de07-45ed-a8a2-7efd25a58c1c.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/11/4d/09a7cc27b23fd2785906a884852f/.thumb-2770d729-de07-45ed-a8a2-7efd25a58c1c.png",
+            "uri": "/file/2770d729-de07-45ed-a8a2-7efd25a58c1c",
+            "url": "/assets/11/4d/09a7cc27b23fd2785906a884852f/our_changing_planet_2003_2_20090708_1677471997.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2003/figure/spring-dust-storm-beijing.json",
+    "identifier": "spring-dust-storm-beijing",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2003",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Spring Dust Storm Smothers Beijing",
+    "uri": "/report/ccsp-ocpfy2003/figure/spring-dust-storm-beijing",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

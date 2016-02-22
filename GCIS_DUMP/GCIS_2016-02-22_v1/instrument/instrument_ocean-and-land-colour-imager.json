@@ -1,0 +1,8 @@
+{
+    "description": "Medium-resolution spectro-radiometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/ocean-and-land-colour-imager.json",
+    "identifier": "ocean-and-land-colour-imager",
+    "name": "Ocean and Land Colour Imager",
+    "uri": "/instrument/ocean-and-land-colour-imager"
+}

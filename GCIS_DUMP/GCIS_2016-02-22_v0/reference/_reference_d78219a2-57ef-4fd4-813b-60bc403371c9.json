@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Eriksen, S.K.\rAldunce, P.\rBahinipati, C. S.\rD\u2019Almeida Martins, R. \rMolefe, J. I.\rNhemachena, C.\rO\u2019Brien, K.\rOlorunfemi, F.\rPark, J.\rSygna, L.\rUlsrud, K.",
+        "DOI": "10.3763/cdev.2010.0060",
+        "ISSN": "1756-5529",
+        "Issue": "1",
+        "Journal": "Climate and Development",
+        "Pages": "7-20",
+        "Title": "When not every response to climate change is a good one: Identifying principles of sustainable adaptation",
+        "URL": "http://www.tandfonline.com/doi/pdf/10.3763/cdev.2010.0060",
+        "Volume": "3",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\"]",
+        "_record_number": "1808",
+        "_uuid": "d78219a2-57ef-4fd4-813b-60bc403371c9",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.3763/cdev.2010.0060",
+    "href": "http://data.globalchange.gov/reference/d78219a2-57ef-4fd4-813b-60bc403371c9.json",
+    "identifier": "d78219a2-57ef-4fd4-813b-60bc403371c9",
+    "uri": "/reference/d78219a2-57ef-4fd4-813b-60bc403371c9"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "Space environment monitor",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/arina.json",
+    "identifier": "arina",
+    "name": "Arina",
+    "uri": "/instrument/arina"
+}

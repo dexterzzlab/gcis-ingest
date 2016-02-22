@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Rosenzweig, C.\rSolecki, W.\rHammer, S.A.\rMehrotra, S.",
+        "DOI": "10.1038/467909a",
+        "ISSN": "0028-0836",
+        "Issue": "7318",
+        "Journal": "Nature",
+        "Pages": "909-911",
+        "Title": "Cities lead the way in climate-change action",
+        "URL": "http://ccrun.org/sites/ccrun/files/attached_files/2010_Rosenzweig_etal_2.pdf",
+        "Volume": "467",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 11: Urban Systems FINAL\",\"RF 6\"]",
+        "_record_number": "2685",
+        "_uuid": "ff7337f9-b8df-4360-99b2-da6d82f44386",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/467909a",
+    "href": "http://data.globalchange.gov/reference/ff7337f9-b8df-4360-99b2-da6d82f44386.json",
+    "identifier": "ff7337f9-b8df-4360-99b2-da6d82f44386",
+    "uri": "/reference/ff7337f9-b8df-4360-99b2-da6d82f44386"
+}

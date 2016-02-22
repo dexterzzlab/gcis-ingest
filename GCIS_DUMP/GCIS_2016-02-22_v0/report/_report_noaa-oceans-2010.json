@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/noaa-oceans-2010.json",
+    "identifier": "noaa-oceans-2010",
+    "in_library": null,
+    "publication_year": 2010,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "NOAA Ocean and Great Lakes Acidification Research Plan, NOAA Special Report",
+    "topic": null,
+    "uri": "/report/noaa-oceans-2010",
+    "url": "http://www.nodc.noaa.gov/media/pdf/oceanacidification/NOAA_OA_Steering2010.pdf"
+}

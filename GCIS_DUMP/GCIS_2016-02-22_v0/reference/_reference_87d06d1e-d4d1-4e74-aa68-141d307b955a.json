@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Pan, Z.\rArritt, R.W.\rTakle, E.S.\rGutowski, W.J., Jr.\rAnderson, C.J.\rSegal, M.",
+        "DOI": "10.1029/2004GL020528",
+        "ISSN": "0094-8276",
+        "Issue": "17",
+        "Journal": "Geophysical Research Letters",
+        "Pages": "L17109",
+        "Title": "Altered hydrologic feedback in a warming climate introduces a \u201cwarming hole\u201d",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2004GL020528/pdf",
+        "Volume": "31",
+        "Year": "2004",
+        "_chapter": "[\"Appendix 4: FAQs FINAL\",\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "2413",
+        "_uuid": "87d06d1e-d4d1-4e74-aa68-141d307b955a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2004GL020528",
+    "href": "http://data.globalchange.gov/reference/87d06d1e-d4d1-4e74-aa68-141d307b955a.json",
+    "identifier": "87d06d1e-d4d1-4e74-aa68-141d307b955a",
+    "uri": "/reference/87d06d1e-d4d1-4e74-aa68-141d307b955a"
+}

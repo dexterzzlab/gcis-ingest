@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/nnhs-nchsnhis.json",
+    "identifier": "nnhs-nchsnhis",
+    "in_library": null,
+    "publication_year": null,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "NCHS National Health Interview Survey",
+    "topic": null,
+    "uri": "/report/nnhs-nchsnhis",
+    "url": null
+}

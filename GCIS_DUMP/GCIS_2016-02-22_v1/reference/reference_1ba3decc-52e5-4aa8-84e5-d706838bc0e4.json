@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Keesing, F.\rBrunner, J.\rDuerr, S.\rKillilea, M.\rLoGiudice, K.\rSchmidt, K.\rVuong, H.\rOstfeld, R.S.",
+        "DOI": "10.1098/rspb.2009.1159",
+        "ISSN": "0962-8452",
+        "Issue": "1675",
+        "Journal": "Proceedings of the Royal Society B: Biological Sciences",
+        "Pages": "3911-3919",
+        "Title": "Hosts as ecological traps for the vector of Lyme disease",
+        "Volume": "276",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Overview\"]",
+        "_record_number": "854",
+        "_uuid": "1ba3decc-52e5-4aa8-84e5-d706838bc0e4",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1098/rspb.2009.1159",
+    "href": "http://data.globalchange.gov/reference/1ba3decc-52e5-4aa8-84e5-d706838bc0e4.json",
+    "identifier": "1ba3decc-52e5-4aa8-84e5-d706838bc0e4",
+    "uri": "/reference/1ba3decc-52e5-4aa8-84e5-d706838bc0e4"
+}

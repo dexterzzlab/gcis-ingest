@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2012-10-02T10:02:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Scenario planning is an important component of decision-making. This \u201ccone of uncertainty\u201d is used to depict potential futures in Denver Water\u2019s scenario planning exercises. (Figure source: adapted from Waage 2010<tbib>f0de84c3-2097-47be-b7a7-e0d40ead0109</tbib>).",
+            "chapter_identifier": "decision-support",
+            "create_dt": "2012-10-02T10:02:00",
+            "identifier": "scenario-planning",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 6,
+            "report_identifier": "nca3",
+            "source_citation": "adapted from Waage 2010<tbib>f0de84c3-2097-47be-b7a7-e0d40ead0109</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Scenario Planning",
+            "url": "http://nca2014.globalchange.gov/report/response-strategies/decision-support/graphics/scenario-planning",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "b9/9e/dcb0b9906806dbfafca638b78f72/DS_scenario_planning_13673_v3.png",
+            "href": "http://data.globalchange.gov/assets/b9/9e/dcb0b9906806dbfafca638b78f72/DS_scenario_planning_13673_v3.png",
+            "identifier": "ce45d719-5185-45c1-91a7-f86e7bfed239",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "66f7c4ee0915a4de4ebc52735697e1b62af7fd10",
+            "size": 164306,
+            "thumbnail": "b9/9e/dcb0b9906806dbfafca638b78f72/.thumb-ce45d719-5185-45c1-91a7-f86e7bfed239.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/b9/9e/dcb0b9906806dbfafca638b78f72/.thumb-ce45d719-5185-45c1-91a7-f86e7bfed239.png",
+            "uri": "/file/ce45d719-5185-45c1-91a7-f86e7bfed239",
+            "url": "/assets/b9/9e/dcb0b9906806dbfafca638b78f72/DS_scenario_planning_13673_v3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/e03d8ed1-4f45-4f30-99fb-8a671e39d94b.json",
+    "identifier": "e03d8ed1-4f45-4f30-99fb-8a671e39d94b",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Scenario Planning",
+    "uri": "/image/e03d8ed1-4f45-4f30-99fb-8a671e39d94b",
+    "url": null,
+    "usage_limits": null
+}

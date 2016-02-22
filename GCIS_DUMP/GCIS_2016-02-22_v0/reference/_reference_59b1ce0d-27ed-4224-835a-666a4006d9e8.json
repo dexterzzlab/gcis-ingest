@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Mote, P.W.",
+        "DOI": "10.1175/JCLI3971.1",
+        "ISSN": "1520-0442",
+        "Issue": "23",
+        "Journal": "Journal of Climate",
+        "Pages": "6209-6220",
+        "Title": "Climate-driven variability and trends in mountain snowpack in western North America",
+        "Volume": "19",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\",\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "2110",
+        "_uuid": "59b1ce0d-27ed-4224-835a-666a4006d9e8",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/JCLI3971.1",
+    "href": "http://data.globalchange.gov/reference/59b1ce0d-27ed-4224-835a-666a4006d9e8.json",
+    "identifier": "59b1ce0d-27ed-4224-835a-666a4006d9e8",
+    "uri": "/reference/59b1ce0d-27ed-4224-835a-666a4006d9e8"
+}

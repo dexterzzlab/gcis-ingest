@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Climate changes (i.e., changes in temperature, precipitation, CO2 concentration, wind, or solar or terrestrial radiation) can affect terrestrial and aquatic ecosystems by altering primary production processes, reproduction, health and mortality of organisms, and rates and pathways of decomposition, community dynamics and biogeography, and exchanges of mass and energy between ecosystems and the atmosphere. Climate changes also have the potential to affect the frequency and magnitude of various ecosystem disturbances (e.g., fire, disease, insect infestations, storm frequency, and land-use change). In turn, changes in ecosystem-atmosphere exchanges of radiation, heat, or greenhouse gases caused directly or indirectly by climate change have the potential to dampen or enhance the initial climatic change through negative or positive feedbacks. Ecosystem changes caused by climatic changes can also affect the many ecosystem goods and services on which society depends. Likewise, climate change effects on ecosystem goods and services may elicit human actions that in turn affect climate, ecosystem disturbance, and/or ecosystem structure and functioning. Temporal and spatial scales are implicit; temporal scales range from seconds to millennia and spatial scales range from local to global. Credit: CCSP Ecosystems Interagency Working Group.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "a6/44/0310438f0f02afd7c9947111f032/Figure_16.png",
+            "href": "http://data.globalchange.gov/assets/a6/44/0310438f0f02afd7c9947111f032/Figure_16.png",
+            "identifier": "c4a56b30-f7b7-4254-8598-e7a64989851b",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "ee6f35119e9fd0bafe015f6bfa1ff343ad146012",
+            "size": 192872,
+            "thumbnail": "a6/44/0310438f0f02afd7c9947111f032/.thumb-c4a56b30-f7b7-4254-8598-e7a64989851b.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/a6/44/0310438f0f02afd7c9947111f032/.thumb-c4a56b30-f7b7-4254-8598-e7a64989851b.png",
+            "uri": "/file/c4a56b30-f7b7-4254-8598-e7a64989851b",
+            "url": "/assets/a6/44/0310438f0f02afd7c9947111f032/Figure_16.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2009/figure/key-linkages-climate-ecosystems.json",
+    "identifier": "key-linkages-climate-ecosystems",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2009",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Key Linkages between Climate and Ecosystems",
+    "uri": "/report/usgcrp-ocpfy2009/figure/key-linkages-climate-ecosystems",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

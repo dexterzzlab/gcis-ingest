@@ -1,0 +1,136 @@
+{
+    "attributes": null,
+    "caption": "Geographic distribution of linear trends in the U.S. Historical Climatology Network for the period 1895-2011. (Figure source: updated from Menne et al. 2009<tbib>9a18ff0d-ad2f-4176-856c-d54aea0a92e1</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0KS6PHH",
+        "identifier": "appendix-climate-science-supplement",
+        "number": 33,
+        "report_identifier": "nca3",
+        "sort_key": 330,
+        "title": "Appendix 3: Climate Science Supplement",
+        "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement"
+    },
+    "chapter_identifier": "appendix-climate-science-supplement",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2012-12-20T16:18:00",
+    "files": [
+        {
+            "file": "9a/ec/803ce93450bbdda20241a9e55981/APP_temp_trends_max___min_V2.png",
+            "href": "http://data.globalchange.gov/assets/9a/ec/803ce93450bbdda20241a9e55981/APP_temp_trends_max___min_V2.png",
+            "identifier": "e4f35f9c-210e-4a84-8800-5d5534dcdaf4",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "d2e22af03c613cc246eb544ba073abbd6d59a550",
+            "size": 662086,
+            "thumbnail": "9a/ec/803ce93450bbdda20241a9e55981/.thumb-e4f35f9c-210e-4a84-8800-5d5534dcdaf4.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/9a/ec/803ce93450bbdda20241a9e55981/.thumb-e4f35f9c-210e-4a84-8800-5d5534dcdaf4.png",
+            "uri": "/file/e4f35f9c-210e-4a84-8800-5d5534dcdaf4",
+            "url": "/assets/9a/ec/803ce93450bbdda20241a9e55981/APP_temp_trends_max___min_V2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-climate-science-supplement/figure/trends-in-maximum-and-minimum-temperatures.json",
+    "identifier": "trends-in-maximum-and-minimum-temperatures",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2012-12-20T16:18:00",
+            "description": null,
+            "identifier": "3044a31a-2d1b-4939-bd84-91c33fc74731",
+            "lat_max": "49.38",
+            "lat_min": "24.50",
+            "lon_max": "-66.95",
+            "lon_min": "-124.80",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2011-12-31T23:59:59",
+            "time_start": "1895-01-01T00:00:00",
+            "title": "Trends in Maximum and Minimum Temperatures - Maximum Temperature (Unadjusted) 1895-2011",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2012-12-20T16:18:00",
+            "description": null,
+            "identifier": "f3565610-3a41-445f-a8d1-fa8230da8e8c",
+            "lat_max": "49.38",
+            "lat_min": "24.50",
+            "lon_max": "-66.95",
+            "lon_min": "-124.80",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2011-12-31T23:59:59",
+            "time_start": "1895-01-01T00:00:00",
+            "title": "Trends in Maximum and Minimum Temperatures - Maximum Temperature (Adjusted) 1895-2011",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2012-12-20T16:18:00",
+            "description": null,
+            "identifier": "e00d14b5-858e-4f55-8989-869160b4a768",
+            "lat_max": "49.38",
+            "lat_min": "24.50",
+            "lon_max": "-66.95",
+            "lon_min": "-124.80",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2011-12-31T23:59:59",
+            "time_start": "1895-01-01T00:00:00",
+            "title": "Trends in Maximum and Minimum Temperatures - Minimum Temperature (Unadjusted) 1895-2011",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2012-12-20T16:18:00",
+            "description": null,
+            "identifier": "b099173f-1571-46dd-9bd7-06978956bdf4",
+            "lat_max": "49.38",
+            "lat_min": "24.50",
+            "lon_max": "-66.95",
+            "lon_min": "-124.80",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2011-12-31T23:59:59",
+            "time_start": "1895-01-01T00:00:00",
+            "title": "Trends in Maximum and Minimum Temperatures - Minimum Temperature (Adjusted) 1895-2011",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 27,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "The U.S. Historical Climatology Network Monthly Temperature Data, Version 2",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1175/2008BAMS2613.1"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/9a18ff0d-ad2f-4176-856c-d54aea0a92e1.json",
+            "uri": "/reference/9a18ff0d-ad2f-4176-856c-d54aea0a92e1"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "updated from Menne et al. 2009<tbib>9a18ff0d-ad2f-4176-856c-d54aea0a92e1</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Trends in Maximum and Minimum Temperatures",
+    "uri": "/report/nca3/chapter/appendix-climate-science-supplement/figure/trends-in-maximum-and-minimum-temperatures",
+    "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/trends-maximum-and-minimum-temperatures",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

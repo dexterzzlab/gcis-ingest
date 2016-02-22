@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Wei, M.\rNelson, J.H.\rTing, M.\rYang, C.\rGreenblatt, J.\rMcMahon, J.",
+        "Date": "October 31, 2012",
+        "Institution": "Lawrence Berkeley National Laboratory, UC Berkeley, UC Davis, and Itron to the California Energy Commission",
+        "Title": "California\u2019s Carbon Challenge. Scenarios for Achieving 80% Emissions Reductions in 2050",
+        "URL": "http://eaei.lbl.gov/sites/all/files/california_carbon_challenge_feb20_20131_0.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"RG 5 Southwest\"]",
+        "_record_number": "3377",
+        "_uuid": "ec3c0821-5258-4ddc-a904-0b216554e9cc",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/lbl-cacarbon-2012",
+    "href": "http://data.globalchange.gov/reference/ec3c0821-5258-4ddc-a904-0b216554e9cc.json",
+    "identifier": "ec3c0821-5258-4ddc-a904-0b216554e9cc",
+    "uri": "/reference/ec3c0821-5258-4ddc-a904-0b216554e9cc"
+}

@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": "10.17226/12782",
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/nrc-advancing-science-climate-change-2010.json",
+    "identifier": "nrc-advancing-science-climate-change-2010",
+    "in_library": null,
+    "publication_year": 2010,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Advancing the Science of Climate Change",
+    "topic": "Observations,Modeling,Physical Climate",
+    "uri": "/report/nrc-advancing-science-climate-change-2010",
+    "url": "http://www.nap.edu/catalog.php?record_id=12782"
+}

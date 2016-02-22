@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "EPA,",
+        "Institution": "U.S. Environmental Protection Agency, National Center for Environmental Assessment",
+        "Pages": "121",
+        "Place Published": "Washington, D.C.",
+        "Title": "A Framework for Categorizing the Relative Vulnerability of Threatened and Endangered Species to Climate Change. EPA/600/R-09/011",
+        "URL": "http://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=492883",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "733",
+        "_uuid": "c5f68784-215b-4edd-8d34-fee7843e7a1f",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/epa-600-r-09-011",
+    "href": "http://data.globalchange.gov/reference/c5f68784-215b-4edd-8d34-fee7843e7a1f.json",
+    "identifier": "c5f68784-215b-4edd-8d34-fee7843e7a1f",
+    "uri": "/reference/c5f68784-215b-4edd-8d34-fee7843e7a1f"
+}

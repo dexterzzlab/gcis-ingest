@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Observed seasonal trends in surface temperature (\u00b0C per 50 years) from 1950 to 2000 are displayed in column (a) for the 3-month seasons DJF, MAM, JJA, and SON. Column (b) shows comparable results from atmospheric model simulations driven by SST variations observed for the period; the correspondence with column (a) demonstrates the ability of the simulations to reproduce the main observed features. Columns (c) through (e) decompose the total modeled temperature responses in column (b) into components associated with each of the three leading SST patterns: (c) the global warming pattern, (d) the Pacific decadal SST pattern, and (e) the residual pattern, a manifestation of the Atlantic multi-decadal SST pattern. Credit: H. Wang and S. Schubert, NASA/ Goddard Space Flight Center (adapted from the Journal of Climate with permission from the American Meteorological Society).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "33/2c/180c77c2ab4fbf963ba14c49d8f6/our_changing_planet_2010_image__12_20091209_1511315666.jpg",
+            "href": "http://data.globalchange.gov/assets/33/2c/180c77c2ab4fbf963ba14c49d8f6/our_changing_planet_2010_image__12_20091209_1511315666.jpg",
+            "identifier": "1f324edd-a915-431f-b231-270ccbcacaa8",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "7095a70f5c6f7986eac56f259c16fd65ee18caee",
+            "size": 454671,
+            "thumbnail": "33/2c/180c77c2ab4fbf963ba14c49d8f6/.thumb-1f324edd-a915-431f-b231-270ccbcacaa8.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/33/2c/180c77c2ab4fbf963ba14c49d8f6/.thumb-1f324edd-a915-431f-b231-270ccbcacaa8.png",
+            "uri": "/file/1f324edd-a915-431f-b231-270ccbcacaa8",
+            "url": "/assets/33/2c/180c77c2ab4fbf963ba14c49d8f6/our_changing_planet_2010_image__12_20091209_1511315666.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2010/figure/influence-sea-surface-temperatures-continental-us.json",
+    "identifier": "influence-sea-surface-temperatures-continental-us",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2010",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Influence of Sea Surface Temperatures on Continental U.S. Temperatures",
+    "uri": "/report/usgcrp-ocpfy2010/figure/influence-sea-surface-temperatures-continental-us",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

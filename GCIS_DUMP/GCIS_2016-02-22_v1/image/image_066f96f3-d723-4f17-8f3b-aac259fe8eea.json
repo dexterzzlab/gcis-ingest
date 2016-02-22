@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-04-15T11:53:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "(Left) Projected increased winter flows and decreased summer flows in many Northwest rivers will cause widespread impacts. Mixed rain-snow watersheds, such as the Yakima River basin, an important agricultural area in eastern Washington, will see increased winter flows, earlier spring peak flows, and decreased summer flows in a warming climate. Changes in average monthly streamflow by the 2020s, 2040s, and 2080s (as compared to the period 1916 to 2006) indicate that the Yakima River basin could change from a snow-dominant to a rain-dominant basin by the 2080s under the A1B emissions scenario (with eventual reductions from current rising emissions trends). (Figure source: adapted from Elsner et al. 2010).<tbib>f05b7c3d-51e4-4a58-ae86-c684b3682dd4</tbib>\r\n\r\n\t(Right) Natural surface water availability during the already dry late summer period is projected to decrease across most of the Northwest. The map shows projected changes in local runoff (shading) and streamflow (colored circles) for the 2040s (compared to the period 1915 to 2006) under the same scenario as the left figure (A1B).<tbib>e51238d0-cf6c-4cea-88a6-8d61df7e8e3d</tbib> Streamflow reductions such as these would stress freshwater fish species (for instance, endangered salmon and bull trout) and necessitate increasing tradeoffs among conflicting uses of summer water. Watersheds with significant groundwater contributions to summer streamflow may be less responsive to climate change than indicated here.<tbib>4f07c4b9-ff00-4d78-8433-3c94ef2eb6db</tbib>",
+            "chapter_identifier": "northwest",
+            "create_dt": "2014-04-15T11:53:00",
+            "identifier": "future-shift-in-timing-of-stream-flows-reduced-summer-flows",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 2,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Future Shift in Timing of Stream Flows Reduced Summer Flows",
+            "url": "http://nca2014.globalchange.gov/highlights/regions/northwest/graphics/future-shift-timing-streamflows",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "89/8f/8c05c58c73babdee2512e605e4b3/fig21-2_graph-left.png",
+            "href": "http://data.globalchange.gov/assets/89/8f/8c05c58c73babdee2512e605e4b3/fig21-2_graph-left.png",
+            "identifier": "899f40b6-fd5c-4568-8536-b85ca84784de",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "ef403125a57e707e0ec32f56154ebbe68d4ea84d",
+            "size": 61199,
+            "thumbnail": "89/8f/8c05c58c73babdee2512e605e4b3/.thumb-899f40b6-fd5c-4568-8536-b85ca84784de.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/89/8f/8c05c58c73babdee2512e605e4b3/.thumb-899f40b6-fd5c-4568-8536-b85ca84784de.png",
+            "uri": "/file/899f40b6-fd5c-4568-8536-b85ca84784de",
+            "url": "/assets/89/8f/8c05c58c73babdee2512e605e4b3/fig21-2_graph-left.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/066f96f3-d723-4f17-8f3b-aac259fe8eea.json",
+    "identifier": "066f96f3-d723-4f17-8f3b-aac259fe8eea",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Future Shift in Timing of Stream Flows",
+    "uri": "/image/066f96f3-d723-4f17-8f3b-aac259fe8eea",
+    "url": null,
+    "usage_limits": null
+}

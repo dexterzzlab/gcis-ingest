@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "The melting of polar ice sheets is a major contributor to global sea-level rise. Early estimates of the mass lost from the Greenland ice cap, based on satellite gravity data collected by the Gravity Recovery and Climate Experiment, have widely varied. Although the continentally and decadally averaged estimated trends have now more or less converged, to this date, there has been little clarity on the detailed spatial distribution of Greenland\u2019s mass loss and how the geographical pattern has varied on relatively shorter time scales. Here, we present a spatially and temporally resolved estimation of the ice mass change over Greenland between April of 2002 and August of 2011. Although the total mass loss trend has remained linear, actively changing areas of mass loss were concentrated on the southeastern and northwestern coasts, with ice mass in the center of Greenland steadily increasing over the decade.",
+        "Author": "Harig, Christopher\rSimons, Frederik J.",
+        "DOI": "10.1073/pnas.1206785109",
+        "Date": "December 4, 2012",
+        "Issue": "49",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Pages": "19934-19937",
+        "Title": "Mapping Greenland\u2019s mass loss in space and time",
+        "URL": "http://www.pnas.org/content/109/49/19934.full.pdf+html",
+        "Volume": "109",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "4024",
+        "_uuid": "5a82ec8d-16e7-4089-b629-ffc99485ce17",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.1206785109",
+    "href": "http://data.globalchange.gov/reference/5a82ec8d-16e7-4089-b629-ffc99485ce17.json",
+    "identifier": "5a82ec8d-16e7-4089-b629-ffc99485ce17",
+    "uri": "/reference/5a82ec8d-16e7-4089-b629-ffc99485ce17"
+}

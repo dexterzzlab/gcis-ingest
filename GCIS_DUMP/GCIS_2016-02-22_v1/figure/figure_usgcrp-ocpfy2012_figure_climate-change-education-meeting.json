@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Participants at the 2nd Annual NASA, NOAA, NSF Climate Change Education Principal Investigators Meeting.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "52/3a/b4cd154cdfbb36ac1b6b0a0971de/OCP_2012_Page_37_Image_0003.jpg",
+            "href": "http://data.globalchange.gov/assets/52/3a/b4cd154cdfbb36ac1b6b0a0971de/OCP_2012_Page_37_Image_0003.jpg",
+            "identifier": "29224739-f02d-489b-a219-ecf4a5e72195",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "39caa437daa0511147f97d9c0be1cf9a964af870",
+            "size": 231138,
+            "thumbnail": "52/3a/b4cd154cdfbb36ac1b6b0a0971de/.thumb-29224739-f02d-489b-a219-ecf4a5e72195.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/52/3a/b4cd154cdfbb36ac1b6b0a0971de/.thumb-29224739-f02d-489b-a219-ecf4a5e72195.png",
+            "uri": "/file/29224739-f02d-489b-a219-ecf4a5e72195",
+            "url": "/assets/52/3a/b4cd154cdfbb36ac1b6b0a0971de/OCP_2012_Page_37_Image_0003.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2012/figure/climate-change-education-meeting.json",
+    "identifier": "climate-change-education-meeting",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2012",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Climate Change Education Meeting",
+    "uri": "/report/usgcrp-ocpfy2012/figure/climate-change-education-meeting",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

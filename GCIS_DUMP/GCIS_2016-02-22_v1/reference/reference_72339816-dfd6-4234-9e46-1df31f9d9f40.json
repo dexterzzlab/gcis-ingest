@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "NAST,",
+        "Institution": "U.S. Global Climate Research Program, National Assessment Synthesis Team",
+        "Pages": "163",
+        "Place Published": "Cambridge, UK",
+        "Publisher": "Cambridge University Press",
+        "Title": "Climate Change Impacts on the United States: The Potential Consequences of Climate Variability and Change, Report for the US Global Change Research Program",
+        "URL": "http://library.globalchange.gov/downloads/download.php?id=124",
+        "Year": "2000",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\",\"Ch. 30: NCA Long-Term Process FINAL\",\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "2141",
+        "_uuid": "72339816-dfd6-4234-9e46-1df31f9d9f40",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/nca1-overview",
+    "href": "http://data.globalchange.gov/reference/72339816-dfd6-4234-9e46-1df31f9d9f40.json",
+    "identifier": "72339816-dfd6-4234-9e46-1df31f9d9f40",
+    "uri": "/reference/72339816-dfd6-4234-9e46-1df31f9d9f40"
+}

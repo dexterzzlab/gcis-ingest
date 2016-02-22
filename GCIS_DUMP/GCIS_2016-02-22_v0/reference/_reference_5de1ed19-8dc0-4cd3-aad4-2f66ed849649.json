@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Cortes-Burns, Helen\rLapina, Irina\rKlein, Susan\rCarlson, Matthew\rFlagstad, Lindsey",
+        "Institution": "Bureau of Land Management \u2013 Alaska State Office. Alaska Natural Heritage Program, University of Alaska",
+        "Keywords": "forestry",
+        "Pages": "162",
+        "Place Published": "Anchorage, AK",
+        "Title": "Invasive Plant Species Monitoring and Control: Areas Impacted by 2004 and 2005 Fires in Interior Alaska: A survey of Alaska BLM lands along the Dalton, Steese, and Taylor Highways",
+        "URL": "http://aknhp.uaa.alaska.edu/wp-content/uploads/2010/11/Cortes_etal_2008.pdf",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "999",
+        "_uuid": "5de1ed19-8dc0-4cd3-aad4-2f66ed849649",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/aknhp-invasive-2008",
+    "href": "http://data.globalchange.gov/reference/5de1ed19-8dc0-4cd3-aad4-2f66ed849649.json",
+    "identifier": "5de1ed19-8dc0-4cd3-aad4-2f66ed849649",
+    "uri": "/reference/5de1ed19-8dc0-4cd3-aad4-2f66ed849649"
+}

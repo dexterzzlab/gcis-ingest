@@ -1,0 +1,7 @@
+{
+    "description": "Various resources from data.gov mapped to gcis resources.",
+    "href": "http://data.globalchange.gov/lexicon/datagov.json",
+    "identifier": "datagov",
+    "uri": "/lexicon/datagov",
+    "url": "http://data.gov"
+}

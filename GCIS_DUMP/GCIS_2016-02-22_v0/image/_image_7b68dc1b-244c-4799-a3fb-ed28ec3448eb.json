@@ -1,0 +1,86 @@
+{
+    "attributes": "Heavy precipitation, disease, exposure, flood, waterborne disease",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2226.json",
+            "id": 2226,
+            "organization": {
+                "country_code": "US",
+                "identifier": "centers-disease-control-and-prevention",
+                "name": "Centers for Disease Control and Prevention",
+                "organization_type_identifier": "federal",
+                "url": "http://www.cdc.gov"
+            },
+            "organization_uri": "/organization/centers-disease-control-and-prevention",
+            "person": {
+                "first_name": "George",
+                "id": 8541,
+                "last_name": "Luber",
+                "middle_name": null,
+                "orcid": null,
+                "url": null
+            },
+            "person_id": 8541,
+            "person_uri": "/person/8541",
+            "role_type_identifier": "lead_author",
+            "uri": "/contributor/2226"
+        }
+    ],
+    "create_dt": "2013-01-08T07:07:25",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Heavy downpours, which are increasing in the United States, have contributed to increases in heavy flood events (Ch. 2: Our Changing Climate, Key Message 6). The figure above illustrates how people can become exposed to waterborne diseases. Human exposures to waterborne diseases can occur via drinking water, as well as recreational waters.<tbib>45c78ce3-56d1-4ed8-864b-bca300114602</tbib><sup>,</sup><tbib>735320eb-92d5-401c-957d-993e06668fa8</tbib><sup>,</sup><tbib>c41878da-d01e-4bfc-a839-484d89334c7a</tbib><sup>,</sup><tbib>69d04f03-5ba1-46a6-a7e3-fa449d448bea</tbib><sup>,</sup><tbib>bedf8b57-6146-4e78-8aaf-defa8a1a03d3</tbib><sup>,</sup><tbib>3325ef64-347b-4c33-9289-9e05e905dcbe</tbib> (Figure source: NOAA NCDC / CICS-NC).",
+            "chapter_identifier": "human-health",
+            "create_dt": "2013-01-08T07:07:25",
+            "identifier": "heavy-downpours-disease",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 7,
+            "report_identifier": "nca3",
+            "source_citation": "NOAA NCDC / CICS-NC",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Heavy Downpours are Increasing Exposure to Disease",
+            "url": "http://nca2014.globalchange.gov/highlights/report-findings/human-health/graphics/heavy-downpours-are-increasing-exposure-disease",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "42/fc/c17b98fecddb6008658094458c82/health_heavy_downpour_link_to_disease_v3.png",
+            "href": "http://data.globalchange.gov/assets/42/fc/c17b98fecddb6008658094458c82/health_heavy_downpour_link_to_disease_v3.png",
+            "identifier": "287c640f-8f5c-4729-a15e-a09418a13ac6",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "64084fc889f3e17e7018f3609ef7ca62d493ae49",
+            "size": 3131987,
+            "thumbnail": "42/fc/c17b98fecddb6008658094458c82/.thumb-287c640f-8f5c-4729-a15e-a09418a13ac6.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/42/fc/c17b98fecddb6008658094458c82/.thumb-287c640f-8f5c-4729-a15e-a09418a13ac6.png",
+            "uri": "/file/287c640f-8f5c-4729-a15e-a09418a13ac6",
+            "url": "/assets/42/fc/c17b98fecddb6008658094458c82/health_heavy_downpour_link_to_disease_v3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/7b68dc1b-244c-4799-a3fb-ed28ec3448eb.json",
+    "identifier": "7b68dc1b-244c-4799-a3fb-ed28ec3448eb",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Heavy Downpours and Exposure to Disease",
+    "uri": "/image/7b68dc1b-244c-4799-a3fb-ed28ec3448eb",
+    "url": null,
+    "usage_limits": null
+}

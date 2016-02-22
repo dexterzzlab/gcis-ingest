@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Chetkiewicz, C.L.B. \rSt Clair, C.C.\rBoyce, M.S.",
+        "DOI": "10.1146/annurev.ecolsys.37.091305.110050",
+        "Journal": "Annual Review of Ecology, Evolution, and Systematics",
+        "Pages": "217-342",
+        "Title": "Corridors for conservation: Integrating pattern and process",
+        "Volume": "37",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "472",
+        "_uuid": "76a8a85c-0804-45e7-ba95-118887c7a142",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1146/annurev.ecolsys.37.091305.110050",
+    "href": "http://data.globalchange.gov/reference/76a8a85c-0804-45e7-ba95-118887c7a142.json",
+    "identifier": "76a8a85c-0804-45e7-ba95-118887c7a142",
+    "uri": "/reference/76a8a85c-0804-45e7-ba95-118887c7a142"
+}

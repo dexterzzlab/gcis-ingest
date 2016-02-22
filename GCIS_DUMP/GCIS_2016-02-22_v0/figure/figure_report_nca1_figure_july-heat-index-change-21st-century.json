@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Both models project substantial increases in the July heat index (which combines heat and humidity) over the 21st century. These maps show the projected increase in average daily July heat index relative to the present. The largest increases are in the south-eastern states, where the Canadian model projects increases of more that 25\u00b0F. For example, a July day in Atlanta that now reaches a heat index of 105\u00b0F would reach a heat index of 115\u00b0F in the Hadley model, and 130\u00b0F in the Canadian model. (Map by Benjamin Felzer, UCAR, based on data from Canadian and Hadley modeling centers.)",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "7d/a7/505aef8330926a34fdcd9966a99a/health_section_of_climate_change_impacts_2001_4_20090708_2004772627.jpg",
+            "href": "http://data.globalchange.gov/assets/7d/a7/505aef8330926a34fdcd9966a99a/health_section_of_climate_change_impacts_2001_4_20090708_2004772627.jpg",
+            "identifier": "47631599-c9c0-486c-9067-8671479ae275",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "6419cb59ffc1875f406aee5fcd0bce82f669a59a",
+            "size": 111370,
+            "thumbnail": "7d/a7/505aef8330926a34fdcd9966a99a/.thumb-47631599-c9c0-486c-9067-8671479ae275.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/7d/a7/505aef8330926a34fdcd9966a99a/.thumb-47631599-c9c0-486c-9067-8671479ae275.png",
+            "uri": "/file/47631599-c9c0-486c-9067-8671479ae275",
+            "url": "/assets/7d/a7/505aef8330926a34fdcd9966a99a/health_section_of_climate_change_impacts_2001_4_20090708_2004772627.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca1/figure/july-heat-index-change-21st-century.json",
+    "identifier": "july-heat-index-change-21st-century",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca1",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "July Heat Index Change - 21st Century",
+    "uri": "/report/nca1/figure/july-heat-index-change-21st-century",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

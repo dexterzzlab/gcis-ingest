@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Johnstone, J.A.\rDawson, T.E.",
+        "DOI": "10.1073/pnas.0915062107",
+        "ISSN": "1091-6490",
+        "Issue": "10",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Pages": "4533-4538",
+        "Title": "Climatic context and ecological implications of summer fog decline in the coast redwood region",
+        "URL": "http://www.pnas.org/content/107/10/4533.full.pdf+html",
+        "Volume": "107",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "398",
+        "_uuid": "beba4436-bbd0-43c2-bd04-e6000c5e4a27",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.0915062107",
+    "href": "http://data.globalchange.gov/reference/beba4436-bbd0-43c2-bd04-e6000c5e4a27.json",
+    "identifier": "beba4436-bbd0-43c2-bd04-e6000c5e4a27",
+    "uri": "/reference/beba4436-bbd0-43c2-bd04-e6000c5e4a27"
+}

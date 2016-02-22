@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Hunter, M.L., Jr.\rJacobson, G.L., Jr.\rWebb, T., III",
+        "DOI": "10.1111/j.1523-1739.1988.tb00202.x",
+        "ISSN": "1523-1739",
+        "Issue": "4",
+        "Journal": "Conservation Biology",
+        "Pages": "375-385",
+        "Title": "Paleoecology and the coarse-filter approach to maintaining biological diversity",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/j.1523-1739.1988.tb00202.x/pdf",
+        "Volume": "2",
+        "Year": "1988",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "3607",
+        "_uuid": "786410d9-a239-42cf-95b3-11e113b394e7",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1523-1739.1988.tb00202.x",
+    "href": "http://data.globalchange.gov/reference/786410d9-a239-42cf-95b3-11e113b394e7.json",
+    "identifier": "786410d9-a239-42cf-95b3-11e113b394e7",
+    "uri": "/reference/786410d9-a239-42cf-95b3-11e113b394e7"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Butler, C.J.",
+        "DOI": "10.1046/j.1474-919X.2003.00193.x",
+        "ISSN": "1474-919X",
+        "Issue": "3",
+        "Journal": "Ibis",
+        "Pages": "484-495",
+        "Title": "The disproportionate effect of global warming on the arrival dates of short\u2010distance migratory birds in North America",
+        "Volume": "145",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "529",
+        "_uuid": "d5e3af2d-c6e3-4325-942a-11864bddf820",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1046/j.1474-919X.2003.00193.x",
+    "href": "http://data.globalchange.gov/reference/d5e3af2d-c6e3-4325-942a-11864bddf820.json",
+    "identifier": "d5e3af2d-c6e3-4325-942a-11864bddf820",
+    "uri": "/reference/d5e3af2d-c6e3-4325-942a-11864bddf820"
+}

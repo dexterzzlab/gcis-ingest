@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Kutzman, D.\rScanlon, B.R.",
+        "DOI": "10.1029/2007WR005863",
+        "ISSN": "1944-7973",
+        "Issue": "10",
+        "Journal": "Water Resources Research",
+        "Pages": "W10427",
+        "Title": "El Ni\u00f1o-Southern Oscillation and Pacific Decadal Oscillation impacts on precipitation in the southern and central United States. Evaluation of spatial distribution and predictions",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2007WR005863/pdf",
+        "Volume": "43",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "618",
+        "_uuid": "d4766748-51b3-41e4-81cb-c51d441aeabb",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2007WR005863",
+    "href": "http://data.globalchange.gov/reference/d4766748-51b3-41e4-81cb-c51d441aeabb.json",
+    "identifier": "d4766748-51b3-41e4-81cb-c51d441aeabb",
+    "uri": "/reference/d4766748-51b3-41e4-81cb-c51d441aeabb"
+}

@@ -1,0 +1,120 @@
+{
+    "attributes": null,
+    "caption": "Left: A stylized representation of the natural greenhouse effect. Most of the sun\u2019s radiation reaches the Earth\u2019s surface. Naturally occurring heat-trapping gases, including water vapor, carbon dioxide, methane, and nitrous oxide, do not absorb the short-wave energy from the sun but do absorb the long-wave energy re-radiated from the Earth, keeping the planet much warmer than it would be otherwise. Right: In this stylized representation of the human-intensified greenhouse effect, human activities, predominantly the burning of fossil fuels (coal, oil, and gas), are increasing levels of carbon dioxide and other heat-trapping gases, increasing the natural greenhouse effect and thus Earth\u2019s temperature. (Figure source: modified from National Park Service<tbib>a6a29141-7f5c-4353-b0e0-38b8cc2f9dcf</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0KS6PHH",
+        "identifier": "appendix-climate-science-supplement",
+        "number": 33,
+        "report_identifier": "nca3",
+        "sort_key": 330,
+        "title": "Appendix 3: Climate Science Supplement",
+        "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement"
+    },
+    "chapter_identifier": "appendix-climate-science-supplement",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/3262.json",
+            "id": 3262,
+            "organization": {
+                "country_code": "US",
+                "identifier": "national-park-service",
+                "name": "National Park Service",
+                "organization_type_identifier": "federal",
+                "url": "http://www.nps.gov/"
+            },
+            "organization_uri": "/organization/national-park-service",
+            "person": {
+                "first_name": "William",
+                "id": 1949,
+                "last_name": "Elder",
+                "middle_name": null,
+                "orcid": null,
+                "url": null
+            },
+            "person_id": 1949,
+            "person_uri": "/person/1949",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/3262"
+        }
+    ],
+    "create_dt": "2013-10-23T10:33:00",
+    "files": [
+        {
+            "file": "9e/0e/812412ea8aac67e8ae346f4fcb02/APP_greenhouse_effect_V5.png",
+            "href": "http://data.globalchange.gov/assets/9e/0e/812412ea8aac67e8ae346f4fcb02/APP_greenhouse_effect_V5.png",
+            "identifier": "b50c4e09-f57c-4dc7-bd62-bfd26b6633a3",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "0d9fd70c8ce6f3fbf570bc06df6459b6b7680a82",
+            "size": 1563021,
+            "thumbnail": "9e/0e/812412ea8aac67e8ae346f4fcb02/.thumb-b50c4e09-f57c-4dc7-bd62-bfd26b6633a3.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/9e/0e/812412ea8aac67e8ae346f4fcb02/.thumb-b50c4e09-f57c-4dc7-bd62-bfd26b6633a3.png",
+            "uri": "/file/b50c4e09-f57c-4dc7-bd62-bfd26b6633a3",
+            "url": "/assets/9e/0e/812412ea8aac67e8ae346f4fcb02/APP_greenhouse_effect_V5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-climate-science-supplement/figure/human-influence-on-the-greenhouse-effect.json",
+    "identifier": "human-influence-on-the-greenhouse-effect",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-10-22T10:32:00",
+            "description": null,
+            "identifier": "03937439-cc5a-45c7-a0fd-78b863c49979",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Human Influence on the Greenhouse Effect - Natural Greenhouse Effect",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2013-10-22T10:32:00",
+            "description": null,
+            "identifier": "e13cdf2e-0699-4c52-a642-56c8fc3317c4",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Human Influence on the Greenhouse Effect - Human Enhanced Greenhouse Effect",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [
+        "/report/nca3/chapter/appendix-faqs/figure/caq-human-influence-on-the-greenhouse-effect"
+    ],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 1,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/a6a29141-7f5c-4353-b0e0-38b8cc2f9dcf.json",
+            "uri": "/reference/a6a29141-7f5c-4353-b0e0-38b8cc2f9dcf"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "modified from National Park Service<tbib>a6a29141-7f5c-4353-b0e0-38b8cc2f9dcf</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Human Influence on the Greenhouse Effect",
+    "uri": "/report/nca3/chapter/appendix-climate-science-supplement/figure/human-influence-on-the-greenhouse-effect",
+    "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/human-influence-greenhouse-effect",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

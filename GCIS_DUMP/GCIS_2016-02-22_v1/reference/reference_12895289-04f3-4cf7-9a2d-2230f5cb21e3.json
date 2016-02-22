@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "American Meteorological Society",
+        ".reference_type": "0",
+        "Access Date": "2013/06/07",
+        "Author": "Villarini, Gabriele\rVecchi, Gabriel A.\rSmith, James A.",
+        "DOI": "10.1175/mwr-d-11-00063.1",
+        "Date": "2012/01/01",
+        "ISSN": "0027-0644",
+        "Issue": "1",
+        "Journal": "Monthly Weather Review",
+        "Pages": "44-65",
+        "Title": "U.S. landfalling and North Atlantic hurricanes: Statistical modeling of their frequencies and ratios",
+        "URL": "http://journals.ametsoc.org/doi/pdf/10.1175/MWR-D-11-00063.1",
+        "Volume": "140",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "3753",
+        "_uuid": "12895289-04f3-4cf7-9a2d-2230f5cb21e3",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/mwr-d-11-00063.1",
+    "href": "http://data.globalchange.gov/reference/12895289-04f3-4cf7-9a2d-2230f5cb21e3.json",
+    "identifier": "12895289-04f3-4cf7-9a2d-2230f5cb21e3",
+    "uri": "/reference/12895289-04f3-4cf7-9a2d-2230f5cb21e3"
+}

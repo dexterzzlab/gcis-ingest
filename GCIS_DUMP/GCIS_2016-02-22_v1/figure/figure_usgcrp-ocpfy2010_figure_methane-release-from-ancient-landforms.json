@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "a) Conceptual diagram illustrates how glacial ice becomes unstable and begins collapsing en masse when pressure on underlying permafrost is reduced and CH4 is released into the atmosphere, initiating the positive feedback cycle shown, resulting in the possible release of 20 times the carbon in all estimated crude oil reserves. b) At the sea cliffs in South Australia, mineralized deposits (the yellow dolomite) from the fossil seeps are exposed within Precambrian tidal deposits. The yellow dolomite forms from a chemical reaction as the CH4 is oxidized in the sediment, providing a record of past methane release from the melting clathrates. Credit: M. Kennedy and D. Mrofka, University of California, Riverside; and C. von der Borch, Flinders University.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "31/2b/9f76a6465b5075dda4cd20c0c48f/our_changing_planet_2010_image__5_20091209_1568636232.jpg",
+            "href": "http://data.globalchange.gov/assets/31/2b/9f76a6465b5075dda4cd20c0c48f/our_changing_planet_2010_image__5_20091209_1568636232.jpg",
+            "identifier": "36b77aa3-d4d8-4b1d-a726-29f52b534d57",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "2de2e88d122223c32b53f55ad8ca0d3695a4fcb2",
+            "size": 214106,
+            "thumbnail": "31/2b/9f76a6465b5075dda4cd20c0c48f/.thumb-36b77aa3-d4d8-4b1d-a726-29f52b534d57.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/31/2b/9f76a6465b5075dda4cd20c0c48f/.thumb-36b77aa3-d4d8-4b1d-a726-29f52b534d57.png",
+            "uri": "/file/36b77aa3-d4d8-4b1d-a726-29f52b534d57",
+            "url": "/assets/31/2b/9f76a6465b5075dda4cd20c0c48f/our_changing_planet_2010_image__5_20091209_1568636232.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2010/figure/methane-release-from-ancient-landforms.json",
+    "identifier": "methane-release-from-ancient-landforms",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2010",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Methane Release from Ancient Landforms",
+    "uri": "/report/usgcrp-ocpfy2010/figure/methane-release-from-ancient-landforms",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

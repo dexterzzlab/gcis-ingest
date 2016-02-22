@@ -1,0 +1,16 @@
+{
+    "attrs": {
+        ".reference_type": "32",
+        "Author": "Carpenter, A.",
+        "Title": "Selected Climate-Change Related Water Sector References, Technical Input 2011-0057 to the National Climate Assessment, 2012",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "1522",
+        "_uuid": "f3b4b39d-37b1-417a-979a-11b1ebaff6b7",
+        "reftype": "Government Document"
+    },
+    "child_publication": "/report/nca-techreport-2011-0057",
+    "href": "http://data.globalchange.gov/reference/f3b4b39d-37b1-417a-979a-11b1ebaff6b7.json",
+    "identifier": "f3b4b39d-37b1-417a-979a-11b1ebaff6b7",
+    "uri": "/reference/f3b4b39d-37b1-417a-979a-11b1ebaff6b7"
+}

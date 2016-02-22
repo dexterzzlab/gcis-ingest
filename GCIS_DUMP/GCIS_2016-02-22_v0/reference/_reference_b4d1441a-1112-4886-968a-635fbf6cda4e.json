@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"italic\" start=\"45\" /><run start=\"59\" /></field></record>",
+        "Author": "Jones, S.J.\rMieszkowska, N.\rWethey, D.S.",
+        "ISSN": "0006-3185",
+        "Issue": "1",
+        "Journal": "The Biological Bulletin",
+        "Pages": "73-85",
+        "Title": "Linking thermal tolerances and biogeography: Mytilus edulis (l.) at its southern limit on the east coast of the United States",
+        "URL": "http://www.biolbull.org/content/217/1/73.full.pdf+html",
+        "Volume": "217",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "1058",
+        "_uuid": "b4d1441a-1112-4886-968a-635fbf6cda4e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/linking-thermal-tolerances-and-biogeography-mytilus-edulis-l-at-its-southern-limit-on-the-east-coast-of-the-united-states",
+    "href": "http://data.globalchange.gov/reference/b4d1441a-1112-4886-968a-635fbf6cda4e.json",
+    "identifier": "b4d1441a-1112-4886-968a-635fbf6cda4e",
+    "uri": "/reference/b4d1441a-1112-4886-968a-635fbf6cda4e"
+}

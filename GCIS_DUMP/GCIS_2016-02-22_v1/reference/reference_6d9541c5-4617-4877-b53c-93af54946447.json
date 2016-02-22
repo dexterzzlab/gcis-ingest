@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "City of Flagstaff,",
+        "Institution": "City of Flagstaff Climate and Adaptation Management",
+        "Pages": "57",
+        "Title": "City of Flagstaff Resiliency and Preparedness Study",
+        "URL": "http://flagstaff.az.gov/index.aspx?nid=1732",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "244",
+        "_uuid": "6d9541c5-4617-4877-b53c-93af54946447",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/cityflagstaff-resiliency-2012",
+    "href": "http://data.globalchange.gov/reference/6d9541c5-4617-4877-b53c-93af54946447.json",
+    "identifier": "6d9541c5-4617-4877-b53c-93af54946447",
+    "uri": "/reference/6d9541c5-4617-4877-b53c-93af54946447"
+}

@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Earlier observations on several of Greenland\u2019s outlet glaciers, starting near the turn of the 21st century, indicated rapid (annual-scale) and large (>100%) increases in glacier velocity. Combining data from several satellites, we produce a decade-long (2000 to 2010) record documenting the ongoing velocity evolution of nearly all (200+) of Greenland\u2019s major outlet glaciers, revealing complex spatial and temporal patterns. Changes on fast-flow marine-terminating glaciers contrast with steady velocities on ice-shelf\u2013terminating glaciers and slow speeds on land-terminating glaciers. Regionally, glaciers in the northwest accelerated steadily, with more variability in the southeast and relatively steady flow elsewhere. Intraregional variability shows a complex response to regional and local forcing. Observed acceleration indicates that sea level rise from Greenland may fall well below proposed upper bounds.",
+        "Author": "Moon, T.\rJoughin, I.\rSmith, B.\rHowat, I.",
+        "DOI": "10.1126/science.1219985",
+        "Date": "May 4, 2012",
+        "Issue": "6081",
+        "Journal": "Science",
+        "Pages": "576-578",
+        "Title": "21st-Century Evolution of Greenland Outlet Glacier Velocities",
+        "Volume": "336",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "3733",
+        "_uuid": "2f8e045d-fd97-4c9f-ad6f-b4ff0c1ab04f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1219985",
+    "href": "http://data.globalchange.gov/reference/2f8e045d-fd97-4c9f-ad6f-b4ff0c1ab04f.json",
+    "identifier": "2f8e045d-fd97-4c9f-ad6f-b4ff0c1ab04f",
+    "uri": "/reference/2f8e045d-fd97-4c9f-ad6f-b4ff0c1ab04f"
+}

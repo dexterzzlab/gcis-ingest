@@ -1,0 +1,8 @@
+{
+    "description": "High resolution optical imager",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/panchromatic-sensor.json",
+    "identifier": "panchromatic-sensor",
+    "name": "Panchromatic sensor",
+    "uri": "/instrument/panchromatic-sensor"
+}

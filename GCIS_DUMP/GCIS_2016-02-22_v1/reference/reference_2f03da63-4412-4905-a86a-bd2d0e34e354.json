@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Hamlet, A.F.\rLettenmaier, D.P.",
+        "DOI": "10.1175/JHM420.1",
+        "ISSN": "1525-755X",
+        "Issue": "3",
+        "Journal": "Journal of Hydrometeorology",
+        "Pages": "330-336",
+        "Title": "Production of temporally consistent gridded precipitation and temperature fields for the continental United States",
+        "URL": "http://journals.ametsoc.org/doi/full/10.1175/JHM420.1",
+        "Volume": "6",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "1325",
+        "_uuid": "2f03da63-4412-4905-a86a-bd2d0e34e354",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/JHM420.1",
+    "href": "http://data.globalchange.gov/reference/2f03da63-4412-4905-a86a-bd2d0e34e354.json",
+    "identifier": "2f03da63-4412-4905-a86a-bd2d0e34e354",
+    "uri": "/reference/2f03da63-4412-4905-a86a-bd2d0e34e354"
+}

@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Miles, E.L.\rSnover, A.K.\rHamlet, A.F.\rCallahan, B.\rFluharty, D.",
+        "DOI": "10.1111/j.1752-1688.2000.tb04277.x",
+        "ISSN": "1752-1688",
+        "Issue": "2",
+        "Journal": "JAWRA Journal of the American Water Resources Association",
+        "Pages": "399-420",
+        "Title": "Pacific Northwest regional assessment: The impacts of climate variability and climate change on the water resources of the Columbia River Basin",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/j.1752-1688.2000.tb04277.x/pdf",
+        "Volume": "36",
+        "Year": "2000",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "2023",
+        "_uuid": "5a70c6c0-9d63-49ea-82c5-a985ba2886bd",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1752-1688.2000.tb04277.x",
+    "href": "http://data.globalchange.gov/reference/5a70c6c0-9d63-49ea-82c5-a985ba2886bd.json",
+    "identifier": "5a70c6c0-9d63-49ea-82c5-a985ba2886bd",
+    "uri": "/reference/5a70c6c0-9d63-49ea-82c5-a985ba2886bd"
+}

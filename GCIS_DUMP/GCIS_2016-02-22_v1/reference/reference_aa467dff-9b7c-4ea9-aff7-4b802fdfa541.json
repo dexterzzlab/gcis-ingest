@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "McKenzie, D.\rGedalof, Z.\rPeterson, D.L.\rMote, P.",
+        "DOI": "10.1111/j.1523-1739.2004.00492.x",
+        "ISSN": "1523-1739",
+        "Issue": "4",
+        "Journal": "Conservation Biology",
+        "Pages": "890-902",
+        "Title": "Climatic change, wildfire, and conservation",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/j.1523-1739.2004.00492.x/pdf",
+        "Volume": "18",
+        "Year": "2004",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "1951",
+        "_uuid": "aa467dff-9b7c-4ea9-aff7-4b802fdfa541",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1523-1739.2004.00492.x",
+    "href": "http://data.globalchange.gov/reference/aa467dff-9b7c-4ea9-aff7-4b802fdfa541.json",
+    "identifier": "aa467dff-9b7c-4ea9-aff7-4b802fdfa541",
+    "uri": "/reference/aa467dff-9b7c-4ea9-aff7-4b802fdfa541"
+}

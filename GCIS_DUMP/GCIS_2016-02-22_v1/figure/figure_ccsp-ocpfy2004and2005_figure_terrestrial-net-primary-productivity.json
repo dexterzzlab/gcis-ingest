@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Global change in terrestrial net primary productivity (NPP), 1982-1999. NPP was calculated using mean fraction of absorbed photosynthetically active radiation and leaf area index derived from two different Advanced Very High- Resolution Radiometer (AVHRR) data sets. Areas of increase in NPP are colored green and areas of decrease in brown. Credit: R. Nemani, NASA Ames Research Center [first presented in Science, 300, 1560-1563 (6 June 2003)].",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "b0/ad/4e055e0e91a96b876878bf1ff7d4/our_changing_planet_2004-2005_11_20090708_1330744818.jpg",
+            "href": "http://data.globalchange.gov/assets/b0/ad/4e055e0e91a96b876878bf1ff7d4/our_changing_planet_2004-2005_11_20090708_1330744818.jpg",
+            "identifier": "2ae15abb-6ed1-49fc-904a-be1fcce96594",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "3f6ddf202f0d056c7dba1f13fb6de75886b7dfed",
+            "size": 47524,
+            "thumbnail": "b0/ad/4e055e0e91a96b876878bf1ff7d4/.thumb-2ae15abb-6ed1-49fc-904a-be1fcce96594.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/b0/ad/4e055e0e91a96b876878bf1ff7d4/.thumb-2ae15abb-6ed1-49fc-904a-be1fcce96594.png",
+            "uri": "/file/2ae15abb-6ed1-49fc-904a-be1fcce96594",
+            "url": "/assets/b0/ad/4e055e0e91a96b876878bf1ff7d4/our_changing_planet_2004-2005_11_20090708_1330744818.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2004and2005/figure/terrestrial-net-primary-productivity.json",
+    "identifier": "terrestrial-net-primary-productivity",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2004and2005",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Terrestrial Net Primary Productivity",
+    "uri": "/report/ccsp-ocpfy2004and2005/figure/terrestrial-net-primary-productivity",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

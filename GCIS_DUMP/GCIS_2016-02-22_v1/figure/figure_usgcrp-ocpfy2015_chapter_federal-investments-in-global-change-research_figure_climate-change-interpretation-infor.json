@@ -1,0 +1,113 @@
+{
+    "attributes": null,
+    "caption": "Megan Ennes, North Carolina Aquarium at Fort Fisher talks to aquarium visitors.  The photographer is Hannah Pickard from the New England Aquarium and it was taken on 11/13/12 at a NNOCCI Alumni Reunion at Aquarium of the Bay in San Francisco (Credit: NNOCCI)",
+    "chapter": {
+        "doi": null,
+        "identifier": "federal-investments-in-global-change-research",
+        "number": 2,
+        "report_identifier": "usgcrp-ocpfy2015",
+        "sort_key": 20,
+        "title": "Federal Investments in Global Change Research",
+        "url": null
+    },
+    "chapter_identifier": "federal-investments-in-global-change-research",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/4131.json",
+            "id": 4131,
+            "organization": {
+                "country_code": "US",
+                "identifier": "national-network-ocean-climate-change-interpretation",
+                "name": "National Network for Ocean and Climate Change Interpretation",
+                "organization_type_identifier": "ngo",
+                "url": "http://www.nnocci.org"
+            },
+            "organization_uri": "/organization/national-network-ocean-climate-change-interpretation",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "distributor",
+            "uri": "/contributor/4131"
+        },
+        {
+            "href": "http://data.globalchange.gov/contributor/4222.json",
+            "id": 4222,
+            "organization": {
+                "country_code": "US",
+                "identifier": "new-england-aquarium",
+                "name": "New England Aquarium",
+                "organization_type_identifier": "ngo",
+                "url": "http://www.neaq.org/index.php"
+            },
+            "organization_uri": "/organization/new-england-aquarium",
+            "person": {
+                "first_name": "Hannah",
+                "id": 2411,
+                "last_name": "Pickard",
+                "middle_name": null,
+                "orcid": null,
+                "url": "http://www.ncaquariums.com/"
+            },
+            "person_id": 2411,
+            "person_uri": "/person/2411",
+            "role_type_identifier": "contributor",
+            "uri": "/contributor/4222"
+        }
+    ],
+    "create_dt": "2012-11-13T00:00:00",
+    "files": [
+        {
+            "file": "9c/5e/4f0058c463e29b2f5a0da3faee13/NNOCCI-aquarium-interpreter.jpg",
+            "href": "http://data.globalchange.gov/assets/9c/5e/4f0058c463e29b2f5a0da3faee13/NNOCCI-aquarium-interpreter.jpg",
+            "identifier": "6c7e8322-04f0-470c-b077-7661f07d1b0c",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "9436cca4756dac0b0e7baf86c6345c701dab8f21",
+            "size": 95868,
+            "thumbnail": "9c/5e/4f0058c463e29b2f5a0da3faee13/.thumb-6c7e8322-04f0-470c-b077-7661f07d1b0c.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/9c/5e/4f0058c463e29b2f5a0da3faee13/.thumb-6c7e8322-04f0-470c-b077-7661f07d1b0c.png",
+            "uri": "/file/6c7e8322-04f0-470c-b077-7661f07d1b0c",
+            "url": "/assets/9c/5e/4f0058c463e29b2f5a0da3faee13/NNOCCI-aquarium-interpreter.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2015/chapter/federal-investments-in-global-change-research/figure/climate-change-interpretation-informal-education-settings.json",
+    "identifier": "climate-change-interpretation-informal-education-settings",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2012-11-13T00:00:00",
+            "description": null,
+            "identifier": "8d98887c-50ef-481c-b938-cf56e826e8f5",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Climate Change Interpretation in Informal Education Settings",
+            "url": null,
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source. "
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 10,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2015",
+    "source_citation": "Hannah Pickard, New England Aquarium at a NNOCCI Alumni Reunion at Aquarium of the Bay in San Francisco, 2012 (Credit: NNOCCI) ",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Climate Change Interpretation in Informal Education Settings",
+    "uri": "/report/usgcrp-ocpfy2015/chapter/federal-investments-in-global-change-research/figure/climate-change-interpretation-informal-education-settings",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source. "
+}

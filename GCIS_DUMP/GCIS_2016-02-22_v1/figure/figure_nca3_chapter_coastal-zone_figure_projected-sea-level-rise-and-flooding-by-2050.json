@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "caption": "The amount of sea level rise (SLR) by 2050 will vary along different stretches of \r\nthe U.S. coastline and under different SLR scenarios, mostly due to land subsidence or uplift \r\n(Ch.2: Our Changing Climate).<tbib>d8089822-678e-4834-a1ec-0dca1da35314</tbib> The \r\npanels show feet of sea level above 1992 levels at different tide gauge stations based on a) an 8 \r\ninch SLR and b) a 1.24 foot SLR by 2050. The flood level that has a 1% chance of occurring \r\nin any given year (\u201creturn level\u201d) is similarly projected to differ by region as a result of varying \r\nstorm surge risk. Panel c) shows return levels for a 1.05 foot SLR above mean high tide by 2050.  \r\nFinally, panel d) shows how a 1.05 foot SLR by 2050 could cause the level of flooding that \r\noccurs during today\u2019s 100-year storm to occur more frequently by mid-century, in some regions \r\nas often as once a decade or even annually. (Figure source: replicated Tebaldi et al. \r\n2012<tbib>be9c98a9-915f-4d78-80b9-239b70f93ae2</tbib> analysis with NCA sea level rise \r\nscenarios<tbib>d8089822-678e-4834-a1ec-0dca1da35314</tbib> for panels a) and \r\nb); data/ensemble SLR projections used for panels c) and d) from Tebaldi et al. \r\n2012<tbib>be9c98a9-915f-4d78-80b9-239b70f93ae2</tbib>; all estimates include the effect of \r\nland subsidence).",
+    "chapter": {
+        "doi": "10.7930/J0MS3QNW",
+        "identifier": "coastal-zone",
+        "number": 25,
+        "report_identifier": "nca3",
+        "sort_key": 250,
+        "title": "Coastal Zone Development and Ecosystems",
+        "url": "http://nca2014.globalchange.gov/report/regions/coasts"
+    },
+    "chapter_identifier": "coastal-zone",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "3b/15/e646f8dcf52fd4f59b79ebbf860b/Coastal_sea_level_rise_13118_V4.png",
+            "href": "http://data.globalchange.gov/assets/3b/15/e646f8dcf52fd4f59b79ebbf860b/Coastal_sea_level_rise_13118_V4.png",
+            "identifier": "1298e3bb-a9b7-4a4e-af41-3cdb7c1a91c6",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "3c8b2a28a8c2d4bf38fa00a94c35135fa24021ce",
+            "size": 565179,
+            "thumbnail": "3b/15/e646f8dcf52fd4f59b79ebbf860b/.thumb-1298e3bb-a9b7-4a4e-af41-3cdb7c1a91c6.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/3b/15/e646f8dcf52fd4f59b79ebbf860b/.thumb-1298e3bb-a9b7-4a4e-af41-3cdb7c1a91c6.png",
+            "uri": "/file/1298e3bb-a9b7-4a4e-af41-3cdb7c1a91c6",
+            "url": "/assets/3b/15/e646f8dcf52fd4f59b79ebbf860b/Coastal_sea_level_rise_13118_V4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/coastal-zone/figure/projected-sea-level-rise-and-flooding-by-2050.json",
+    "identifier": "projected-sea-level-rise-and-flooding-by-2050",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 3,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/be9c98a9-915f-4d78-80b9-239b70f93ae2.json",
+            "uri": "/reference/be9c98a9-915f-4d78-80b9-239b70f93ae2"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/d8089822-678e-4834-a1ec-0dca1da35314.json",
+            "uri": "/reference/d8089822-678e-4834-a1ec-0dca1da35314"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Projected Sea Level Rise and Flooding by 2050",
+    "uri": "/report/nca3/chapter/coastal-zone/figure/projected-sea-level-rise-and-flooding-by-2050",
+    "url": "http://nca2014.globalchange.gov/report/regions/coasts/graphics/projected-sea-level-rise-and-flooding-2050",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

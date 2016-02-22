@@ -1,0 +1,33 @@
+{
+    "attributes": null,
+    "caption": null,
+    "chapter": {
+        "doi": null,
+        "identifier": "introduction-report-background",
+        "number": 1,
+        "report_identifier": "usda-climate-change-global-food-security-us-food-system-2015",
+        "sort_key": 10,
+        "title": "Introduction and Report Background",
+        "url": null
+    },
+    "chapter_identifier": "introduction-report-background",
+    "cited_by": [],
+    "create_dt": null,
+    "href": "http://data.globalchange.gov/report/usda-climate-change-global-food-security-us-food-system-2015/chapter/introduction-report-background/figure/projected-changes-global-surface-temperature-precipitation.json",
+    "identifier": "projected-changes-global-surface-temperature-precipitation",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 2,
+    "report_identifier": "usda-climate-change-global-food-security-us-food-system-2015",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Projected changes in global surface temperature and precipitation",
+    "uri": "/report/usda-climate-change-global-food-security-us-food-system-2015/chapter/introduction-report-background/figure/projected-changes-global-surface-temperature-precipitation",
+    "url": null,
+    "usage_limits": null
+}

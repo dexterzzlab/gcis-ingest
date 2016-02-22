@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "NIFC,",
+        "Institution": "National Interagency Fire Center",
+        "Pages": "59",
+        "Place Published": "Boise, ID",
+        "Title": "Wildland Fire Summary and Statistics Annual Report 2011 ",
+        "URL": "http://www.predictiveservices.nifc.gov/intelligence/2011_statssumm/charts_tables.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\",\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "4275",
+        "_uuid": "4d24a997-855e-44e0-9693-2895851d9144",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/nifc-wildlandfire-2012",
+    "href": "http://data.globalchange.gov/reference/4d24a997-855e-44e0-9693-2895851d9144.json",
+    "identifier": "4d24a997-855e-44e0-9693-2895851d9144",
+    "uri": "/reference/4d24a997-855e-44e0-9693-2895851d9144"
+}

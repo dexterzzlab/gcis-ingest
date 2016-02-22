@@ -1,0 +1,8 @@
+{
+    "description": "Multi-purpose imaging Vis/IR radiometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/wide-field-sensor.json",
+    "identifier": "wide-field-sensor",
+    "name": "Wide Field Sensor",
+    "uri": "/instrument/wide-field-sensor"
+}

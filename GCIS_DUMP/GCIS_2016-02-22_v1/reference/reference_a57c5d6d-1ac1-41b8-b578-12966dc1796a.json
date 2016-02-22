@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "McMahon, P. B.\rB\u00f6hlke, J. K.\rChristenson, S. C.",
+        "DOI": "10.1016/j.apgeochem.2004.05.003",
+        "ISSN": "0883-2927",
+        "Issue": "11",
+        "Journal": "Applied Geochemistry",
+        "Pages": "1655-1686",
+        "Title": "Geochemistry, radiocarbon ages, and paleorecharge conditions along a transect in the central High Plains aquifer, southwestern Kansas, USA",
+        "URL": "http://ok.water.usgs.gov/publications/Journal_articles/AppliedGeochemistry.pdf",
+        "Volume": "19",
+        "Year": "2004",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\"]",
+        "_record_number": "3866",
+        "_uuid": "a57c5d6d-1ac1-41b8-b578-12966dc1796a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.apgeochem.2004.05.003",
+    "href": "http://data.globalchange.gov/reference/a57c5d6d-1ac1-41b8-b578-12966dc1796a.json",
+    "identifier": "a57c5d6d-1ac1-41b8-b578-12966dc1796a",
+    "uri": "/reference/a57c5d6d-1ac1-41b8-b578-12966dc1796a"
+}

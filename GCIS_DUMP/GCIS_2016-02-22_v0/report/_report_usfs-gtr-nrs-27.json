@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/usfs-gtr-nrs-27.json",
+    "identifier": "usfs-gtr-nrs-27",
+    "in_library": null,
+    "publication_year": 2008,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Family forest owners of the United States, 2006. A Technical Document Supporting the Forest Service 2010 RPA Assessment. Gen. Tech. Rep. NRS-27",
+    "topic": null,
+    "uri": "/report/usfs-gtr-nrs-27",
+    "url": "http://www.treesearch.fs.fed.us/pubs/15758"
+}

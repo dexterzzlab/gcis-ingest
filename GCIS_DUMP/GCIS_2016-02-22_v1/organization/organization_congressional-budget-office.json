@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/congressional-budget-office.json",
+    "identifier": "congressional-budget-office",
+    "name": "Congressional Budget Office",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/congressional-budget-office",
+    "url": "http://www.cbo.gov/"
+}

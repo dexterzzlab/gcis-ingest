@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Brook, B. W.\rSodhi, N. S. \rBradshaw, C. J. A.",
+        "DOI": "10.1016/j.tree.2008.03.011",
+        "Issue": "8",
+        "Journal": "Trends in Ecology & Evolution",
+        "Pages": "453-460",
+        "Title": "Synergies among extinction drivers under global change",
+        "Volume": "23",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "1639",
+        "_uuid": "5cee6e59-0713-4a56-abae-6f60119df8e5",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.tree.2008.03.011",
+    "href": "http://data.globalchange.gov/reference/5cee6e59-0713-4a56-abae-6f60119df8e5.json",
+    "identifier": "5cee6e59-0713-4a56-abae-6f60119df8e5",
+    "uri": "/reference/5cee6e59-0713-4a56-abae-6f60119df8e5"
+}

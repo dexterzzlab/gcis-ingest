@@ -1,0 +1,17 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "EPA,",
+        "Institution": "U.S. Environmental Protection Agency",
+        "Title": "Office of Water, EPA 800-R-1-001",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "1218",
+        "_uuid": "7a9b5648-9377-4019-b623-78b38046ea1b",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/epa-800-r-1-001d",
+    "href": "http://data.globalchange.gov/reference/7a9b5648-9377-4019-b623-78b38046ea1b.json",
+    "identifier": "7a9b5648-9377-4019-b623-78b38046ea1b",
+    "uri": "/reference/7a9b5648-9377-4019-b623-78b38046ea1b"
+}

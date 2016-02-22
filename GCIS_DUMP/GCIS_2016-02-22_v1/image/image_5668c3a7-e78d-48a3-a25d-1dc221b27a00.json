@@ -1,0 +1,95 @@
+{
+    "attributes": "Global, precipitation, projections, CMIP5, RCP8.5",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/3258.json",
+            "id": 3258,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Andrew",
+                "id": 1948,
+                "last_name": "Buddenberg",
+                "middle_name": null,
+                "orcid": "0000-0003-2047-6527",
+                "url": null
+            },
+            "person_id": 1948,
+            "person_uri": "/person/1948",
+            "role_type_identifier": "analyst",
+            "uri": "/contributor/3258"
+        }
+    ],
+    "create_dt": "2013-07-24T00:00:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Projected change in average annual precipitation over the period 2071-2099 (compared to the period 1970-1999) under a low scenario that assumes rapid reductions in emissions and concentrations of heat-trapping gasses (RCP 2.6), and a higher scenario that assumes continued increases in emissions (RCP 8.5). Hatched areas indicate confidence that the projected changes are significant and consistent among models. White areas indicate that the changes are not projected to be larger than could be expected from natural variability. In general, northern parts of the U.S. (especially the Northeast and Alaska) are projected to receive more precipitation, while southern parts (especially the Southwest) are projected to receive less. (Figure source: NOAA NCDC / CICS-NC).",
+            "chapter_identifier": "our-changing-climate",
+            "create_dt": "2013-09-05T13:43:25",
+            "identifier": "projected-change-in-average-annual-precipitation",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 6,
+            "report_identifier": "nca3",
+            "source_citation": "NOAA NCDC / CICS-NC",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Projected Change in Average Annual Precipitation",
+            "url": "http://nca2014.globalchange.gov/report/our-changing-climate/future-climate-change/graphics/projected-change-average-annual-0",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "6d/ed/7be1c940d97cc8be0c161d2ab3eb/2-6_b.png",
+            "href": "http://data.globalchange.gov/assets/6d/ed/7be1c940d97cc8be0c161d2ab3eb/2-6_b.png",
+            "identifier": "6b254c12-575c-4704-9af5-ef77290f48dd",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "9e8965894a6f824b149b55e24101d24d03d71c28",
+            "size": 431221,
+            "thumbnail": "6d/ed/7be1c940d97cc8be0c161d2ab3eb/.thumb-6b254c12-575c-4704-9af5-ef77290f48dd.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/6d/ed/7be1c940d97cc8be0c161d2ab3eb/.thumb-6b254c12-575c-4704-9af5-ef77290f48dd.png",
+            "uri": "/file/6b254c12-575c-4704-9af5-ef77290f48dd",
+            "url": "/assets/6d/ed/7be1c940d97cc8be0c161d2ab3eb/2-6_b.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/5668c3a7-e78d-48a3-a25d-1dc221b27a00.json",
+    "identifier": "5668c3a7-e78d-48a3-a25d-1dc221b27a00",
+    "lat_max": "90.00",
+    "lat_min": "-90.00",
+    "lon_max": "180.00",
+    "lon_min": "-180.00",
+    "parents": [
+        {
+            "activity_uri": "/activity/5668c3a7-nca3-cmip5-r1-process",
+            "label": "dataset nca3-cmip5-r1",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-cmip5-r1"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2099-12-31T23:59:59",
+    "time_start": "1970-01-01T00:00:00",
+    "title": "Projected Change in Average Annual Precipitation - Continued Emissions Increases (RCP 8.5)",
+    "uri": "/image/5668c3a7-e78d-48a3-a25d-1dc221b27a00",
+    "url": null,
+    "usage_limits": null
+}

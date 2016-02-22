@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Oregon Department of Land Conservation and Development,",
+        "Place Published": "Salem, OR",
+        "Title": "The Oregon Climate Change Adaptation Framework",
+        "URL": "http://www.oregon.gov/ENERGY/GBLWRM/docs/Framework_Final_DLCD.pdf",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\",\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "2936",
+        "_uuid": "7450bfd8-54cc-4c42-8058-7ae93f7692a5",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/orclimchframework-2010",
+    "href": "http://data.globalchange.gov/reference/7450bfd8-54cc-4c42-8058-7ae93f7692a5.json",
+    "identifier": "7450bfd8-54cc-4c42-8058-7ae93f7692a5",
+    "uri": "/reference/7450bfd8-54cc-4c42-8058-7ae93f7692a5"
+}

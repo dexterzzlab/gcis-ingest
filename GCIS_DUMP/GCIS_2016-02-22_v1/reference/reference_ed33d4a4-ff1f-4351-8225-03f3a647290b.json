@@ -1,0 +1,28 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Accession Number": "WOS:000265358900010",
+        "Alternate Journal": "Trends Ecol. Evol.",
+        "Author": "Smith, V. H.\rSchindler, D. W.",
+        "DOI": "10.1016/j.tree.2008.11.009",
+        "Date": "Apr",
+        "ISSN": "0169-5347",
+        "Issue": "4",
+        "Journal": "Trends in Ecology & Evolution",
+        "Keywords": "harmful algal blooms; baltic sea; nutrient limitation; trophic status; shallow lakes; regime shifts; fresh-water; ecosystems; cyanobacteria; phosphorus",
+        "Language": "English",
+        "Pages": "201-207",
+        "Title": "Eutrophication science: Where do we go from here?",
+        "Type of Article": "Review",
+        "Volume": "24",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "2885",
+        "_uuid": "ed33d4a4-ff1f-4351-8225-03f3a647290b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.tree.2008.11.009",
+    "href": "http://data.globalchange.gov/reference/ed33d4a4-ff1f-4351-8225-03f3a647290b.json",
+    "identifier": "ed33d4a4-ff1f-4351-8225-03f3a647290b",
+    "uri": "/reference/ed33d4a4-ff1f-4351-8225-03f3a647290b"
+}

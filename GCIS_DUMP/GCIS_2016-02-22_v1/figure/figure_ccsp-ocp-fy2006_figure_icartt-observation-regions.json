@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Observation regions used to study intercontinental transport and transformation of gases and aerosol particles during the Summer 2004 International Consortium for Atmospheric Research on Transport and Transformation (ICARTT) experiment. Credit: O. Cooper, NOAA/ Aeronomy Laboratory.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "7c/07/a71feb04c94280ce10a48f458b1e/our_changing_planet_2006_24_20090708_1976709275.jpg",
+            "href": "http://data.globalchange.gov/assets/7c/07/a71feb04c94280ce10a48f458b1e/our_changing_planet_2006_24_20090708_1976709275.jpg",
+            "identifier": "54237df3-6999-46bb-9f2f-769abbe850b6",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "aeb5d3b32bd53f9bc88768d129b79e5946f3411e",
+            "size": 40575,
+            "thumbnail": "7c/07/a71feb04c94280ce10a48f458b1e/.thumb-54237df3-6999-46bb-9f2f-769abbe850b6.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/7c/07/a71feb04c94280ce10a48f458b1e/.thumb-54237df3-6999-46bb-9f2f-769abbe850b6.png",
+            "uri": "/file/54237df3-6999-46bb-9f2f-769abbe850b6",
+            "url": "/assets/7c/07/a71feb04c94280ce10a48f458b1e/our_changing_planet_2006_24_20090708_1976709275.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocp-fy2006/figure/icartt-observation-regions.json",
+    "identifier": "icartt-observation-regions",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocp-fy2006",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "ICARTT Observation Regions",
+    "uri": "/report/ccsp-ocp-fy2006/figure/icartt-observation-regions",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

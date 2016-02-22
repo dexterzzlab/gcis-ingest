@@ -1,0 +1,70 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2012-10-19T09:25:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "U.S. agriculture exists in the context of global markets. Climate is among the important factors that affect these markets. For example, the increase in U.S. food exports in the 1970s is attributed to a combination of rising incomes in other nations, changes in national currency values and farm policies, and poor harvests in many nations in which climate was a factor. Through seasonal weather impacts on harvests and other impacts, climate change will continue to be a factor in global markets. The graph shows U.S. imports and exports for 1935-2011 in adjusted dollar values. (Data from USDA Economic Research Service 2012<tbib>1de4cf7f-01ac-4857-a86d-30494963d0d2</tbib>).",
+            "chapter_identifier": "agriculture",
+            "create_dt": "2012-10-19T09:25:00",
+            "identifier": "us-agricultural-trade",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 3,
+            "report_identifier": "nca3",
+            "source_citation": "USDA Economic Research Service 2012<tbib>1de4cf7f-01ac-4857-a86d-30494963d0d2</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "U.S. Agricultural Trade",
+            "url": "http://nca2014.globalchange.gov/report/sectors/agriculture/graphics/us-agricultural-trade",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "d5/d6/e13ace2092f0be7b044d2e9d9e2b/AG_trade_import_and_export_12357_v4.png",
+            "href": "http://data.globalchange.gov/assets/d5/d6/e13ace2092f0be7b044d2e9d9e2b/AG_trade_import_and_export_12357_v4.png",
+            "identifier": "fd9c44b4-dd4a-48e8-874b-d7d522f5ad0c",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "5216dcb6cdcf2b5402e48f6f9097267b2b19e518",
+            "size": 64291,
+            "thumbnail": "d5/d6/e13ace2092f0be7b044d2e9d9e2b/.thumb-fd9c44b4-dd4a-48e8-874b-d7d522f5ad0c.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/d5/d6/e13ace2092f0be7b044d2e9d9e2b/.thumb-fd9c44b4-dd4a-48e8-874b-d7d522f5ad0c.png",
+            "uri": "/file/fd9c44b4-dd4a-48e8-874b-d7d522f5ad0c",
+            "url": "/assets/d5/d6/e13ace2092f0be7b044d2e9d9e2b/AG_trade_import_and_export_12357_v4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/da9c8181-5b6f-455c-8405-83a04e51172e.json",
+    "identifier": "da9c8181-5b6f-455c-8405-83a04e51172e",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [
+        {
+            "activity_uri": "/activity/da9c8181-nca3-value-us-agricultural-trade-by-fiscal-year-r1-process",
+            "label": "dataset nca3-value-us-agricultural-trade-by-fiscal-year-r1",
+            "note": "",
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-value-us-agricultural-trade-by-fiscal-year-r1"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "U.S. Agricultural Trade",
+    "uri": "/image/da9c8181-5b6f-455c-8405-83a04e51172e",
+    "url": null,
+    "usage_limits": null
+}

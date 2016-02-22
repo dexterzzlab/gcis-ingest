@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Schoof, J.T.",
+        "Book Title": "Climate Change in the Midwest: Impacts, Risks, Vulnerability and Adaptation",
+        "Chapter": "11",
+        "Editor": "Pryor, S.C.",
+        "ISBN": "978-0-253-00682-0",
+        "Pages": "146-157",
+        "Place Published": "Bloomington, Indiana ",
+        "Publisher": "Indiana University Press",
+        "Reviewer": "9a70a3f4-3c60-4a8a-8cc9-bf5d7e112c12",
+        "Title": "Ch. 11: Historical and projected changes in human heat stress in the Midwestern United States",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "3681",
+        "_uuid": "9a70a3f4-3c60-4a8a-8cc9-bf5d7e112c12",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/434135ed-eb50-4c46-9484-77563769e657",
+    "href": "http://data.globalchange.gov/reference/9a70a3f4-3c60-4a8a-8cc9-bf5d7e112c12.json",
+    "identifier": "9a70a3f4-3c60-4a8a-8cc9-bf5d7e112c12",
+    "uri": "/reference/9a70a3f4-3c60-4a8a-8cc9-bf5d7e112c12"
+}

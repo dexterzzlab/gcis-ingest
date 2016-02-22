@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "This figure summarizes results of measurements taken from satellites of the amount of energy coming in to and going out of Earth\u2019s climate system. It demonstrates that our scientific understanding of how the greenhouse effect operates, is, in fact, accurate, based on real world measurements. (Figure source: modified from Stephens et al. 2012<tbib>8e72ae73-6d3e-4995-8c96-764a82c9e6fb</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0KS6PHH",
+        "identifier": "appendix-climate-science-supplement",
+        "number": 33,
+        "report_identifier": "nca3",
+        "sort_key": 330,
+        "title": "Appendix 3: Climate Science Supplement",
+        "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement"
+    },
+    "chapter_identifier": "appendix-climate-science-supplement",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-08-02T10:55:00",
+    "files": [
+        {
+            "file": "1d/ee/79390f8843cad5d6c6164853efc6/APP_energy_balance_V1.png",
+            "href": "http://data.globalchange.gov/assets/1d/ee/79390f8843cad5d6c6164853efc6/APP_energy_balance_V1.png",
+            "identifier": "c195b3b0-8613-49c7-a727-2db2fdec8f10",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "40f11975a0ae2e62e361887da8f303f1d457c5df",
+            "size": 333496,
+            "thumbnail": "1d/ee/79390f8843cad5d6c6164853efc6/.thumb-c195b3b0-8613-49c7-a727-2db2fdec8f10.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/1d/ee/79390f8843cad5d6c6164853efc6/.thumb-c195b3b0-8613-49c7-a727-2db2fdec8f10.png",
+            "uri": "/file/c195b3b0-8613-49c7-a727-2db2fdec8f10",
+            "url": "/assets/1d/ee/79390f8843cad5d6c6164853efc6/APP_energy_balance_V1.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-climate-science-supplement/figure/earths-energy-balance.json",
+    "identifier": "earths-energy-balance",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-08-02T10:55:00",
+            "description": null,
+            "identifier": "ba92a7b9-712d-47f1-890e-bc873953efa8",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Earth\u2019s Energy Balance",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 2,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "An update on Earth's energy balance in light of the latest global observations",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1038/ngeo1580"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/8e72ae73-6d3e-4995-8c96-764a82c9e6fb.json",
+            "uri": "/reference/8e72ae73-6d3e-4995-8c96-764a82c9e6fb"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "modified from Stephens et al. 2012<tbib>8e72ae73-6d3e-4995-8c96-764a82c9e6fb</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Earth\u2019s Energy Balance",
+    "uri": "/report/nca3/chapter/appendix-climate-science-supplement/figure/earths-energy-balance",
+    "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/earth%E2%80%99s-energy-balance",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

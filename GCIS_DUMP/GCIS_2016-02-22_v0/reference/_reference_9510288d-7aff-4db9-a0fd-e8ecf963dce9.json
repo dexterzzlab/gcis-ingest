@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "McClintock, S.E.",
+        "Book Title": "Climate Change And Arctic Sustainable Development: Scientific, Social, Cultural And Educational Challenges",
+        "ISBN": "9789231041396",
+        "Pages": "120",
+        "Place Published": "Paris, France",
+        "Publisher": "UNESCO",
+        "Reviewer": "9510288d-7aff-4db9-a0fd-e8ecf963dce9",
+        "Title": "Ch. 17: Coastal and riverine erosion challenges: Alaskan villages\u2019 sustainability",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\"]",
+        "_record_number": "1929",
+        "_uuid": "9510288d-7aff-4db9-a0fd-e8ecf963dce9",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/unesco-arctic-2009",
+    "href": "http://data.globalchange.gov/reference/9510288d-7aff-4db9-a0fd-e8ecf963dce9.json",
+    "identifier": "9510288d-7aff-4db9-a0fd-e8ecf963dce9",
+    "uri": "/reference/9510288d-7aff-4db9-a0fd-e8ecf963dce9"
+}

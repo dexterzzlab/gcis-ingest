@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Nicot, J.-P.\rScanlon, B.R.",
+        "DOI": "10.1021/es204602t",
+        "Issue": "6",
+        "Journal": "U.S. Environmental Science and Technology",
+        "Pages": "3580-3586",
+        "Title": "Water use for shale gas production in Texas, U.S.",
+        "Volume": "46",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\"]",
+        "_record_number": "2220",
+        "_uuid": "b9f0598c-741f-46aa-84e0-87fceb0bf1ac",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1021/es204602t",
+    "href": "http://data.globalchange.gov/reference/b9f0598c-741f-46aa-84e0-87fceb0bf1ac.json",
+    "identifier": "b9f0598c-741f-46aa-84e0-87fceb0bf1ac",
+    "uri": "/reference/b9f0598c-741f-46aa-84e0-87fceb0bf1ac"
+}

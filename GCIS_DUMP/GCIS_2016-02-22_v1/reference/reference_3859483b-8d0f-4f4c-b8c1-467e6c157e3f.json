@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "NOAA,",
+        "Issue": "249",
+        "Journal": "Federal Register",
+        "Pages": "76705-76738",
+        "Title": "Endangered and threatened species; threatened status for the Arctic, Okhotsk, and Baltic subspecies of the ringed seal and endangered status for the Ladoga subspecies of the ringed seal; final rule",
+        "URL": "http://www.gpo.gov/fdsys/pkg/FR-2012-12-28/html/2012-31066.htm",
+        "Volume": "77",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "4168",
+        "_uuid": "3859483b-8d0f-4f4c-b8c1-467e6c157e3f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/endangered-and-threatened-wildlife-and-plants-determination-of-threatened-status-for-the-polar-bear-ursus-maritimus-throughout-its-range-final-rule-national-oceanic-and-atmospheric-administration",
+    "href": "http://data.globalchange.gov/reference/3859483b-8d0f-4f4c-b8c1-467e6c157e3f.json",
+    "identifier": "3859483b-8d0f-4f4c-b8c1-467e6c157e3f",
+    "uri": "/reference/3859483b-8d0f-4f4c-b8c1-467e6c157e3f"
+}

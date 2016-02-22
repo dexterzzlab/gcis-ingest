@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Bowman, D.M.J.S.\rBalch, J.K.\rArtaxo, P.\rBond, W.J.\rCarlson, J.M.\rCochrane, M.A.\rD\u2019Antonio, C.M.\rDeFries, R.S.\rDoyle, J.C.\rHarrison, S.P.\rJohnston, F.H.\rKeeley, J.E.\rKrawchuk, M.A.\rKull, C.A.\rMarston, J.B.\rMoritz, M.A.\rPrentice, I.C.\rRoos, C.I.\rScott, A.C.\rSwetnam, T.W.\rvan der Werf, G. R.\rPyne, S.J.",
+        "DOI": "10.1126/science.1163886",
+        "ISSN": "0036-8075",
+        "Issue": "5926",
+        "Journal": "Science",
+        "Pages": "481-484",
+        "Title": "Fire in the Earth system",
+        "Volume": "324",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"RF 10\",\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "700",
+        "_uuid": "1639ecca-a0ca-48f4-b64c-a447fe137284",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1163886",
+    "href": "http://data.globalchange.gov/reference/1639ecca-a0ca-48f4-b64c-a447fe137284.json",
+    "identifier": "1639ecca-a0ca-48f4-b64c-a447fe137284",
+    "uri": "/reference/1639ecca-a0ca-48f4-b64c-a447fe137284"
+}

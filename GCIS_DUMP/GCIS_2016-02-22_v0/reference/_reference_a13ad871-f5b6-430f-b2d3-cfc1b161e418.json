@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Access Date": "June 17, 2012",
+        "Author": "WERF,",
+        "Institution": "Water Environment Research Foundation",
+        "Place Published": "Alexandria, VA",
+        "Title": "Implications of Climate Change for Adaptation by Wastewater and Stormwater Agencies.  Report # CC2R08",
+        "URL": "www.climatestrategies.us/library/library/download/960",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "3388",
+        "_uuid": "a13ad871-f5b6-430f-b2d3-cfc1b161e418",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/werf-reportcc2r08-2009",
+    "href": "http://data.globalchange.gov/reference/a13ad871-f5b6-430f-b2d3-cfc1b161e418.json",
+    "identifier": "a13ad871-f5b6-430f-b2d3-cfc1b161e418",
+    "uri": "/reference/a13ad871-f5b6-430f-b2d3-cfc1b161e418"
+}

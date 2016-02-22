@@ -1,0 +1,71 @@
+{
+    "attributes": null,
+    "caption": null,
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "23/b5/79b7848a8f2e786123264b1ee84b/terrestrial_CO2_emissions_v2_04_27_15.jpg",
+            "href": "http://data.globalchange.gov/assets/23/b5/79b7848a8f2e786123264b1ee84b/terrestrial_CO2_emissions_v2_04_27_15.jpg",
+            "identifier": "1c38571c-bbde-4683-a5ac-64a89859eae6",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "78550a33b658a6b1edfce09b931bb9c570d35b49",
+            "size": 1251384,
+            "thumbnail": "23/b5/79b7848a8f2e786123264b1ee84b/.thumb-1c38571c-bbde-4683-a5ac-64a89859eae6.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/23/b5/79b7848a8f2e786123264b1ee84b/.thumb-1c38571c-bbde-4683-a5ac-64a89859eae6.png",
+            "uri": "/file/1c38571c-bbde-4683-a5ac-64a89859eae6",
+            "url": "/assets/23/b5/79b7848a8f2e786123264b1ee84b/terrestrial_CO2_emissions_v2_04_27_15.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/indicator-terrestrial-carbon-storage/figure/indicator-terrestrial-carbon-storage.json",
+    "identifier": "indicator-terrestrial-carbon-storage",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": null,
+            "description": null,
+            "identifier": "7e2eaa2c-aa29-444d-864e-522849748197",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": null,
+            "url": null,
+            "usage_limits": "Free to use with credit to USGCRP"
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 1,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "table indicator-terrestrial-carbon-storage-data-pilot",
+            "note": "",
+            "publication_type_identifier": "table",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/indicator-terrestrial-carbon-storage/table/indicator-terrestrial-carbon-storage-data-pilot"
+        }
+    ],
+    "references": [],
+    "report_identifier": "indicator-terrestrial-carbon-storage",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": "2011-12-31T00:00:00",
+    "time_start": "1990-01-01T00:00:00",
+    "title": null,
+    "uri": "/report/indicator-terrestrial-carbon-storage/figure/indicator-terrestrial-carbon-storage",
+    "url": null,
+    "usage_limits": "Free to use with credit to USGCRP."
+}

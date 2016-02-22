@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/nca1.json",
+    "identifier": "nca1",
+    "in_library": 1,
+    "publication_year": 2001,
+    "report_type_identifier": "assessment",
+    "summary": "This document is the Foundation report, which provides the scientific underpinnings for the Assessment.",
+    "title": "Climate Change Impacts on the United States: The Potential Consequences of Climate Variability and Change: Foundation Report",
+    "topic": "Physical Climate,Observations,Modeling,Carbon Cycle,Agriculture & Food,Water Resources,Human Health,Coasts,Oceans,Ecosystems & Biodiversity",
+    "uri": "/report/nca1",
+    "url": "http://downloads.globalchange.gov/nca/nca-2000-foundation-report.pdf"
+}

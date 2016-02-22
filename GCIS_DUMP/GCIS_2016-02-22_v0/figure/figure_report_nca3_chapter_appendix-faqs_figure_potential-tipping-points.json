@@ -1,0 +1,80 @@
+{
+    "attributes": null,
+    "caption": "Stylized map of potential policy-relevant tipping elements in the Earth\u2019s climate system overlain on population density. Question marks indicate systems whose status as tipping elements is particularly uncertain. (Figure source: adapted from Lenton et al. 200817)",
+    "chapter": {
+        "doi": "10.7930/J0G15XS3",
+        "identifier": "appendix-faqs",
+        "number": 34,
+        "report_identifier": "nca3",
+        "sort_key": 340,
+        "title": "Appendix 4: Frequently Asked Questions",
+        "url": "http://nca2014.globalchange.gov/report/appendices/faqs"
+    },
+    "chapter_identifier": "appendix-faqs",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-01-10T15:48:00",
+    "files": [
+        {
+            "file": "25/6a/691c9b41b1fa8b52a95778f3c386/CAQ_tipping_points_V3.png",
+            "href": "http://data.globalchange.gov/assets/25/6a/691c9b41b1fa8b52a95778f3c386/CAQ_tipping_points_V3.png",
+            "identifier": "1142e2c3-c416-42df-8793-6a647937f4e6",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "c1e3f164bf8980d0346e31b8f0020ccaf2e2345f",
+            "size": 555771,
+            "thumbnail": "25/6a/691c9b41b1fa8b52a95778f3c386/.thumb-1142e2c3-c416-42df-8793-6a647937f4e6.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/25/6a/691c9b41b1fa8b52a95778f3c386/.thumb-1142e2c3-c416-42df-8793-6a647937f4e6.png",
+            "uri": "/file/1142e2c3-c416-42df-8793-6a647937f4e6",
+            "url": "/assets/25/6a/691c9b41b1fa8b52a95778f3c386/CAQ_tipping_points_V3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-faqs/figure/potential-tipping-points.json",
+    "identifier": "potential-tipping-points",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-01-10T15:48:00",
+            "description": null,
+            "identifier": "57db734f-7bfc-454d-95fb-777a40082cac",
+            "lat_max": "90.00",
+            "lat_min": "-90.00",
+            "lon_max": "180.00",
+            "lon_min": "-180.00",
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Potential Tipping Points",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 24,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Tipping elements in the Earth's climate system",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1073/pnas.0705414105"
+        }
+    ],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Potential Tipping Points",
+    "uri": "/report/nca3/chapter/appendix-faqs/figure/potential-tipping-points",
+    "url": "http://nca2014.globalchange.gov/report/appendices/faqs/graphics/potential-tipping-points",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

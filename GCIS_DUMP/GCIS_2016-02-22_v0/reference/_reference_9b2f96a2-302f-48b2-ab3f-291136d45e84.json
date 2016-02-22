@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "31",
+        "Author": "Woodall, C.W.\rSkog, K.\rSmith, J.E.\rPerry, C.H. ",
+        "Custom 4": "9b2f96a2-302f-48b2-ab3f-291136d45e84",
+        "Pages": "II-59 - II-65",
+        "Place Published": "Washington D.C.",
+        "Publisher": "U.S. Department of Agriculture, U.S. Forest Service",
+        "Secondary Author": "Robertson, G.\rGaulke, P.\rMcWilliams, R.",
+        "Secondary Title": "National Report on Sustainable Forests -- 2010. FS-979",
+        "Title": "Maintenance of forest contribution to global carbon cycles (criterion 5)",
+        "URL": "http://www.fs.fed.us/research/sustain/2010SustainabilityReport/documents/draft2010sustainabilityreport.pdf",
+        "Year": "2011",
+        "_chapter": "[\"RF 10\",\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "3471",
+        "_uuid": "9b2f96a2-302f-48b2-ab3f-291136d45e84",
+        "reftype": "Generic"
+    },
+    "child_publication": "/report/usfs-fs-979",
+    "href": "http://data.globalchange.gov/reference/9b2f96a2-302f-48b2-ab3f-291136d45e84.json",
+    "identifier": "9b2f96a2-302f-48b2-ab3f-291136d45e84",
+    "uri": "/reference/9b2f96a2-302f-48b2-ab3f-291136d45e84"
+}

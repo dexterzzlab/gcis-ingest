@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "MTA,",
+        "Institution": "Metropolitan Transportation Authority",
+        "Pages": "115",
+        "Place Published": "New York, New York",
+        "Title": "August 8, 2007 Storm Report",
+        "URL": "http://www.mta.info/mta/pdf/storm_report_2007.pdf",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\",\"Ch. 11: Urban Systems FINAL\"]",
+        "_record_number": "2117",
+        "_uuid": "31a7ff37-2411-463b-a2ea-5752d0b29edc",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/mta-aug82007sr",
+    "href": "http://data.globalchange.gov/reference/31a7ff37-2411-463b-a2ea-5752d0b29edc.json",
+    "identifier": "31a7ff37-2411-463b-a2ea-5752d0b29edc",
+    "uri": "/reference/31a7ff37-2411-463b-a2ea-5752d0b29edc"
+}

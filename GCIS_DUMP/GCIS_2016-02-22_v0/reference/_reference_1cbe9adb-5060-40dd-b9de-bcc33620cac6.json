@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Crosbie, Russell S.\rScanlon, Bridget R.\rMpelasoka, Freddie S.\rReedy, Robert C.\rGates, John B.\rZhang, Lu",
+        "DOI": "10.1002/wrcr.20292",
+        "Date": "July 2013",
+        "ISSN": "1944-7973",
+        "Issue": "7",
+        "Journal": "Water Resources Research",
+        "Keywords": "global warming\rrecharge\rHigh Plains\rWAVES\r1829 Groundwater hydrology\r1807 Climate impacts",
+        "Title": "Potential climate change effects on groundwater recharge in the High Plains Aquifer, USA",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1002/wrcr.20292/pdf",
+        "Volume": "49",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "4104",
+        "_uuid": "1cbe9adb-5060-40dd-b9de-bcc33620cac6",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/wrcr.20292",
+    "href": "http://data.globalchange.gov/reference/1cbe9adb-5060-40dd-b9de-bcc33620cac6.json",
+    "identifier": "1cbe9adb-5060-40dd-b9de-bcc33620cac6",
+    "uri": "/reference/1cbe9adb-5060-40dd-b9de-bcc33620cac6"
+}

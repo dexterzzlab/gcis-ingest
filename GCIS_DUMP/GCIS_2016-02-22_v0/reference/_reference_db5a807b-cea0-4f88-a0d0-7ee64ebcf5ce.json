@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "31",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"30\" /><run start=\"31\" /><run face=\"subscript\" start=\"35\" /><run start=\"36\" /><run face=\"subscript\" start=\"43\" /><run start=\"44\" /></field></record>",
+        "Author": "Etheridge, D.M., et al.",
+        "Custom 4": "db5a807b-cea0-4f88-a0d0-7ee64ebcf5ce",
+        "Date": "7/2010",
+        "Place Published": "Boulder, CO",
+        "Publisher": "IGBP PAGES/World Data Center for Paleoclimatology. Data Contribution Series #2010-070. NOAA/NCDC Paleoclimatology Program",
+        "Subsidiary Author": "NOAA/NCDC Paleoclimatology Program,",
+        "Title": "Law Dome Ice Core 2000-Year CO2, CH4, and N2O Data",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\",\"RF 11\"]",
+        "_record_number": "1042",
+        "_uuid": "db5a807b-cea0-4f88-a0d0-7ee64ebcf5ce",
+        "reftype": "Generic"
+    },
+    "child_publication": null,
+    "href": "http://data.globalchange.gov/reference/db5a807b-cea0-4f88-a0d0-7ee64ebcf5ce.json",
+    "identifier": "db5a807b-cea0-4f88-a0d0-7ee64ebcf5ce",
+    "uri": "/reference/db5a807b-cea0-4f88-a0d0-7ee64ebcf5ce"
+}

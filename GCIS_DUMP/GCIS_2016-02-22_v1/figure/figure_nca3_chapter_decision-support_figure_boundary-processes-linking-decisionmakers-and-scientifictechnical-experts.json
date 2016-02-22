@@ -1,0 +1,96 @@
+{
+    "attributes": null,
+    "caption": "Boundary processes facilitate the flow of information and sharing of knowledge between decision-makers and scientists/technical experts. Processes that bring these groups together and help translate between different areas of expertise can provide substantial benefits.",
+    "chapter": {
+        "doi": "10.7930/J0H12ZXG",
+        "identifier": "decision-support",
+        "number": 26,
+        "report_identifier": "nca3",
+        "sort_key": 260,
+        "title": "Decision Support: Connecting Science, Risk Perception, and Decisions",
+        "url": "http://nca2014.globalchange.gov/report/response-strategies/decision-support"
+    },
+    "chapter_identifier": "decision-support",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/1922.json",
+            "id": 1922,
+            "organization": {
+                "country_code": "US",
+                "identifier": "university-corporation-atmospheric-research",
+                "name": "University Corporation for Atmospheric Research",
+                "organization_type_identifier": "research",
+                "url": "http://www2.ucar.edu/"
+            },
+            "organization_uri": "/organization/university-corporation-atmospheric-research",
+            "person": {
+                "first_name": "Emily Therese",
+                "id": 1036,
+                "last_name": "Cloyd",
+                "middle_name": null,
+                "orcid": "0000-0003-1277-1702",
+                "url": "http://www.globalchange.gov/about/staff/emily-therese-cloyd.html"
+            },
+            "person_id": 1036,
+            "person_uri": "/person/1036",
+            "role_type_identifier": "contributing_author",
+            "uri": "/contributor/1922"
+        }
+    ],
+    "create_dt": "2013-08-14T11:24:00",
+    "files": [
+        {
+            "file": "9e/01/4a97f7d8ba626e319a3118d9ec91/DS_boundary_processes_13670_v8.png",
+            "href": "http://data.globalchange.gov/assets/9e/01/4a97f7d8ba626e319a3118d9ec91/DS_boundary_processes_13670_v8.png",
+            "identifier": "9615bfaa-8e2a-4498-b91c-dd1661e4fa80",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "aaa0c58e48deac3a3694b139219d7c8e61840060",
+            "size": 250882,
+            "thumbnail": "9e/01/4a97f7d8ba626e319a3118d9ec91/.thumb-9615bfaa-8e2a-4498-b91c-dd1661e4fa80.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/9e/01/4a97f7d8ba626e319a3118d9ec91/.thumb-9615bfaa-8e2a-4498-b91c-dd1661e4fa80.png",
+            "uri": "/file/9615bfaa-8e2a-4498-b91c-dd1661e4fa80",
+            "url": "/assets/9e/01/4a97f7d8ba626e319a3118d9ec91/DS_boundary_processes_13670_v8.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/decision-support/figure/boundary-processes-linking-decisionmakers-and-scientifictechnical-experts.json",
+    "identifier": "boundary-processes-linking-decisionmakers-and-scientifictechnical-experts",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-08-14T11:24:00",
+            "description": null,
+            "identifier": "dc185e00-278e-42e8-babd-d8aba4faf1ee",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Boundary Processes Linking Decision-Makers and Scientific/Technical",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 2,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Boundary Processes Linking Decision-Makers and Scientific/Technical Experts",
+    "uri": "/report/nca3/chapter/decision-support/figure/boundary-processes-linking-decisionmakers-and-scientifictechnical-experts",
+    "url": "http://nca2014.globalchange.gov/report/response-strategies/decision-support/graphics/boundary-processes-linking-decision-makers-and",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

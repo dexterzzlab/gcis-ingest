@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Pellizzari, E.D.\rPerritt, R.L.\rClayton, C.A.",
+        "DOI": "10.1038/sj.jea.7500025",
+        "ISSN": "1053-4245",
+        "Issue": "1",
+        "Journal": "Journal of Exposure Analysis and Environmental Epidemiology",
+        "Pages": "49",
+        "Title": "National human exposure assessment survey (NHEXAS): Exploratory survey of exposure among population subgroups in EPA Region V",
+        "URL": "http://www.nature.com/jea/journal/v9/n1/pdf/7500025a.pdf",
+        "Volume": "9",
+        "Year": "1999",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "2457",
+        "_uuid": "ce92ec18-8b0f-4a5f-b752-1d1aaeb21cd9",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/sj.jea.7500025",
+    "href": "http://data.globalchange.gov/reference/ce92ec18-8b0f-4a5f-b752-1d1aaeb21cd9.json",
+    "identifier": "ce92ec18-8b0f-4a5f-b752-1d1aaeb21cd9",
+    "uri": "/reference/ce92ec18-8b0f-4a5f-b752-1d1aaeb21cd9"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "IPCC,",
+        "ISBN": "0521564360",
+        "Pages": "1-50",
+        "Place Published": "New York, New York",
+        "Publisher": "Cambridge University Press",
+        "Reviewer": "fb708661-1e9c-4088-ab35-28fe4a99324d",
+        "Series Editor": "Lakeman, J.A.",
+        "Title": "The Science of Climate Change. Contribution of Working Group I to the Second Assessment Report of the Intergovernmental Panel on Climate Change. Summary for Policymakers and Technical Summary",
+        "Year": "1995",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "1499",
+        "_uuid": "fb708661-1e9c-4088-ab35-28fe4a99324d",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/ipcc-ar2-wg1",
+    "href": "http://data.globalchange.gov/reference/fb708661-1e9c-4088-ab35-28fe4a99324d.json",
+    "identifier": "fb708661-1e9c-4088-ab35-28fe4a99324d",
+    "uri": "/reference/fb708661-1e9c-4088-ab35-28fe4a99324d"
+}

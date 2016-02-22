@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "9",
+        "Editor": "Farrell, A.\rJ\u00e4ger, J.",
+        "ISBN": "1933115041",
+        "Number of Pages": "301",
+        "Place Published": "Washington, D.C.",
+        "Series Title": "Resources for the Future",
+        "Title": "Assessments of Regional and Global Environmental Risks: Designing Processes for the Effective Use of Science in Decision-Making",
+        "URL": "http://www.amazon.com/Assessments-Regional-Global-Environmental-Risks/dp/1933115041",
+        "Year": "2005",
+        "_chapter": "[\"RX 1 Future\",\"Ch. 30: NCA Long-Term Process FINAL\"]",
+        "_record_number": "124",
+        "_uuid": "defe63ec-cf41-4e43-b3d0-cf05d9b87833",
+        "reftype": "Edited Book"
+    },
+    "child_publication": "/book/cb60baed-218a-42f7-96ad-81166ca3af01",
+    "href": "http://data.globalchange.gov/reference/defe63ec-cf41-4e43-b3d0-cf05d9b87833.json",
+    "identifier": "defe63ec-cf41-4e43-b3d0-cf05d9b87833",
+    "uri": "/reference/defe63ec-cf41-4e43-b3d0-cf05d9b87833"
+}

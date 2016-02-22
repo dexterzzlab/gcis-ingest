@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-18T07:24:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Many perennial plants (such as fruit trees and grape vines) require exposure to particular numbers of chilling hours (hours in which the temperatures are between 32\u00b0F and 50\u00b0F over the winter). This number varies among species, and many trees require chilling hours before flowering and fruit production can occur. With rising temperatures, chilling hours will be reduced. One example of this change is shown here for California\u2019s Central Valley, assuming that observed climate trends in that area continue through 2050 and 2090. Under such a scenario, a rapid decrease in the number of chilling hours is projected to occur.\r\n\r\n\tBy 2000, the number of chilling hours in some regions was 30% lower than in 1950. Based on the A2 emissions scenario that assumes continued increases in heat-trapping gases relative to 1950, the number of chilling hours is projected to decline by 30% to 60% by 2050 and by up to 80% by 2100. These are very conservative estimates of the reductions in chilling hours because climate models project not just simple continuations of observed trends (as assumed here), but temperature trends rising at an increasing rate.<tbib>fd24f371-4519-45c3-aacc-9c1fcc9a2407</tbib> To adapt to these kinds of changes, trees with a lower chilling requirement would have to be planted and reach productive age.\r\n\r\n\tVarious trees and grape vines differ in their chilling requirements, with grapes requiring 90 hours, peaches 225, apples 400, and cherries more than 1,000.<tbib>fd24f371-4519-45c3-aacc-9c1fcc9a2407</tbib> Increasing temperatures are likely to shift grape production for premium wines to different regions, but with a higher risk of extremely hot conditions that are detrimental to such varieties.<tbib>395769c5-1d9b-40fc-adae-4c4c26b00fbe</tbib> The area capable of consistently producing grapes required for the highest-quality wines is projected to decline by more than 50% by late this century.<tbib>395769c5-1d9b-40fc-adae-4c4c26b00fbe</tbib> (Figure source: adapted from Luedeling et al. 2009<tbib>fd24f371-4519-45c3-aacc-9c1fcc9a2407</tbib>).",
+            "chapter_identifier": "agriculture",
+            "create_dt": "2013-11-18T07:24:00",
+            "identifier": "reduced-winter-chilling-projected-for-california",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 6,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Reduced Winter Chilling Projected for California",
+            "url": "http://nca2014.globalchange.gov/report/sectors/agriculture/graphics/reduced-winter-chilling-projected-california",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "04/99/0b17d060fce0e3dc36649b8b6e87/ag_6-6_2050.png",
+            "href": "http://data.globalchange.gov/assets/04/99/0b17d060fce0e3dc36649b8b6e87/ag_6-6_2050.png",
+            "identifier": "116d1897-ee5f-4987-954b-8526febfcc80",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "e06f96b41df6341b279477ff546590b590ba9139",
+            "size": 449127,
+            "thumbnail": "04/99/0b17d060fce0e3dc36649b8b6e87/.thumb-116d1897-ee5f-4987-954b-8526febfcc80.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/04/99/0b17d060fce0e3dc36649b8b6e87/.thumb-116d1897-ee5f-4987-954b-8526febfcc80.png",
+            "uri": "/file/116d1897-ee5f-4987-954b-8526febfcc80",
+            "url": "/assets/04/99/0b17d060fce0e3dc36649b8b6e87/ag_6-6_2050.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/d0d768f5-5999-4bb0-bce6-2ff2859b73dd.json",
+    "identifier": "d0d768f5-5999-4bb0-bce6-2ff2859b73dd",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "1950-12-31T23:59:59",
+    "time_start": "1950-01-01T00:00:00",
+    "title": "Reduced Winter Chilling Projected for Callifornia - 2050",
+    "uri": "/image/d0d768f5-5999-4bb0-bce6-2ff2859b73dd",
+    "url": null,
+    "usage_limits": null
+}

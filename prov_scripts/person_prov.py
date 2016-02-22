@@ -28,6 +28,14 @@ def get_doc_prov(j, gcis_url, refList):
         ]
 
     doc.agent('bibo:%s' % j['id'], doc_attrs)
+    del_id = GCIS["%s"%get_uuid("%s:%s:%s"%(j['id'], None, None))]
+
+    doc.delegation('bibo:%s'%j['id'], None, None, del_id, None)
+    #for org_id in agent_ids[agent_id]:
+    #   del_id = GCIS["%s"%get_uuid("%s:%s:%s"%(agent_id, org_id, act_id))]
+    #doc.delegation(agent_id, org_id, act_id, del_id, {'prov:type':'gcis:worksAt'})
+
+
     prov_json = json.loads(doc.serialize())
 
     return prov_json

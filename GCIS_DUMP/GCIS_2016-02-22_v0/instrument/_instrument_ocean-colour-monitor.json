@@ -1,0 +1,8 @@
+{
+    "description": "Medium-resolution spectro-radiometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/ocean-colour-monitor.json",
+    "identifier": "ocean-colour-monitor",
+    "name": "Ocean Colour Monitor",
+    "uri": "/instrument/ocean-colour-monitor"
+}

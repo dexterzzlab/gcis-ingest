@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/noaa-usda-technicalreport-2008-1.json",
+    "identifier": "noaa-usda-technicalreport-2008-1",
+    "in_library": null,
+    "publication_year": 2008,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "The Easter Freeze of April 2007: A Climatological Perspective and Assessment of Impacts and Services. NOAA/USDA Tech Report 2008-1",
+    "topic": null,
+    "uri": "/report/noaa-usda-technicalreport-2008-1",
+    "url": "http://www1.ncdc.noaa.gov/pub/data/techrpts/tr200801/tech-report-200801.pdf"
+}

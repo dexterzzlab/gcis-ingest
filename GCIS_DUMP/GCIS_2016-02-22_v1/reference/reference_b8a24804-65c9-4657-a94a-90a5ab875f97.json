@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Snodgrass, J.W.\rKomoroski, M.J.\rBryan, A.L., Jr.\rBurger, J.",
+        "DOI": "10.1046/j.1523-1739.2000.99161.x",
+        "ISSN": "1523-1739",
+        "Issue": "2",
+        "Journal": "Conservation Biology",
+        "Pages": "414-419",
+        "Title": "Relationships among isolated wetland size, hydroperiod, and amphibian species richness: Implications for wetland regulations",
+        "Volume": "14",
+        "Year": "2001",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\"]",
+        "_record_number": "2890",
+        "_uuid": "b8a24804-65c9-4657-a94a-90a5ab875f97",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1046/j.1523-1739.2000.99161.x",
+    "href": "http://data.globalchange.gov/reference/b8a24804-65c9-4657-a94a-90a5ab875f97.json",
+    "identifier": "b8a24804-65c9-4657-a94a-90a5ab875f97",
+    "uri": "/reference/b8a24804-65c9-4657-a94a-90a5ab875f97"
+}

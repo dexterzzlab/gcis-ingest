@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Rosenzweig, C.\rParry, M.L.",
+        "DOI": "10.1038/367133a0",
+        "ISSN": "0028-0836",
+        "Issue": "6459",
+        "Journal": "Nature",
+        "Pages": "133-138",
+        "Title": "Potential impact of climate change on world food supply",
+        "Volume": "367",
+        "Year": "1994",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "2680",
+        "_uuid": "c4eb63e8-6208-4917-a063-380bc0aa2e81",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/367133a0",
+    "href": "http://data.globalchange.gov/reference/c4eb63e8-6208-4917-a063-380bc0aa2e81.json",
+    "identifier": "c4eb63e8-6208-4917-a063-380bc0aa2e81",
+    "uri": "/reference/c4eb63e8-6208-4917-a063-380bc0aa2e81"
+}

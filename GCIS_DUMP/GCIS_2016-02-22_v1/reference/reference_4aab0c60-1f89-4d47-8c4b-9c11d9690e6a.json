@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "SFRPC",
+        "Institution": "South Florida Regional Planning Council ",
+        "Publisher": "South Florida Regional Planning Council ",
+        "Title": "Turkey Point Expansion \u2013 Draft Agency Report on the Power Plant and Non-Transmission Associated Facilities",
+        "URL": "http://www.sfrpc.com/council/05-07-12/Agenda%20May12_IIIG.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "3796",
+        "_uuid": "4aab0c60-1f89-4d47-8c4b-9c11d9690e6a",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/sfrpc-turkeypt-2012",
+    "href": "http://data.globalchange.gov/reference/4aab0c60-1f89-4d47-8c4b-9c11d9690e6a.json",
+    "identifier": "4aab0c60-1f89-4d47-8c4b-9c11d9690e6a",
+    "uri": "/reference/4aab0c60-1f89-4d47-8c4b-9c11d9690e6a"
+}

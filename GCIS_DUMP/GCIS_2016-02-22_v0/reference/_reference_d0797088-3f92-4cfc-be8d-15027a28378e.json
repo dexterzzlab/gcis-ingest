@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Obeysekera, J.\rIrizarry, M.\rPark, J.\rBarnes, J.\rDessalegne, T.",
+        "DOI": "10.1007/s00477-010-0418-8",
+        "ISSN": "1436-3240",
+        "Issue": "4",
+        "Journal": "Stochastic Environmental Research and Risk Assessment",
+        "Pages": "495-516",
+        "Title": "Climate change and its implications for water resources management in south Florida",
+        "Volume": "25",
+        "Year": "2011",
+        "_chapter": "[\"RG 2 Southeast\",\"Ch. 17: Southeast and Caribbean FINAL\",\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "2337",
+        "_uuid": "d0797088-3f92-4cfc-be8d-15027a28378e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s00477-010-0418-8",
+    "href": "http://data.globalchange.gov/reference/d0797088-3f92-4cfc-be8d-15027a28378e.json",
+    "identifier": "d0797088-3f92-4cfc-be8d-15027a28378e",
+    "uri": "/reference/d0797088-3f92-4cfc-be8d-15027a28378e"
+}

@@ -1,0 +1,95 @@
+{
+    "attributes": "Precipitation, projections, seasonal, CMIP3, A2",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2522.json",
+            "id": 2522,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Kenneth",
+                "id": 1025,
+                "last_name": "Kunkel",
+                "middle_name": null,
+                "orcid": "0000-0001-6667-7047",
+                "url": "http://cicsnc.org/people/kenneth-kunkel/"
+            },
+            "person_id": 1025,
+            "person_uri": "/person/1025",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2522"
+        }
+    ],
+    "create_dt": "2013-07-24T00:00:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Projected change in seasonal precipitation for 2071-2099 (compared to 1970-1999) under an emissions scenario that assumes continued increases in emissions (A2).Hatched areas indicate that the projected changes are significant and consistent among models. White areas indicate that the changes are not projected to be larger than could be expected from natural variability. In general, the northern part of the U.S. is projected to see more winter and spring precipitation, while the southwestern U.S. is projected to experience less precipitation in the spring. (Figure source: NOAA NCDC / CICS-NC).",
+            "chapter_identifier": "our-changing-climate",
+            "create_dt": "2013-11-18T16:33:25",
+            "identifier": "projected-precipitation-change-by-season",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 14,
+            "report_identifier": "nca3",
+            "source_citation": "NOAA NCDC / CICS-NC",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Projected Precipitation Change by Season",
+            "url": "http://nca2014.globalchange.gov/highlights/report-findings/future-climate/graphics/projected-precipitation-change-season",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "c3/6a/06a66c0f6713bbbc29a8ce39f663/2-14_a.png",
+            "href": "http://data.globalchange.gov/assets/c3/6a/06a66c0f6713bbbc29a8ce39f663/2-14_a.png",
+            "identifier": "344582f0-01cf-4a5d-9cf0-de5f7d722b5b",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "261ed98259ee4fe1a8444a0d959056e1cf8c64d8",
+            "size": 291822,
+            "thumbnail": "c3/6a/06a66c0f6713bbbc29a8ce39f663/.thumb-344582f0-01cf-4a5d-9cf0-de5f7d722b5b.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/c3/6a/06a66c0f6713bbbc29a8ce39f663/.thumb-344582f0-01cf-4a5d-9cf0-de5f7d722b5b.png",
+            "uri": "/file/344582f0-01cf-4a5d-9cf0-de5f7d722b5b",
+            "url": "/assets/c3/6a/06a66c0f6713bbbc29a8ce39f663/2-14_a.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/006264b2-8594-4e09-9430-a1d0cc056ff7.json",
+    "identifier": "006264b2-8594-4e09-9430-a1d0cc056ff7",
+    "lat_max": "82.31",
+    "lat_min": "18.14",
+    "lon_max": "-53.44",
+    "lon_min": "-165.94",
+    "parents": [
+        {
+            "activity_uri": "/activity/006264b2-nca3-cmip3-r201205-process",
+            "label": "dataset nca3-cmip3-r201205",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-cmip3-r201205"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2099-12-31T23:59:59",
+    "time_start": "1971-01-01T00:00:00",
+    "title": "Projected Precipitation Change by Season (Winter)",
+    "uri": "/image/006264b2-8594-4e09-9430-a1d0cc056ff7",
+    "url": null,
+    "usage_limits": null
+}

@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/usgs-core-science-systems-mission-area.json",
+    "identifier": "usgs-core-science-systems-mission-area",
+    "name": "USGS Core Science Systems Mission Area",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/usgs-core-science-systems-mission-area",
+    "url": "http://www.usgs.gov/core_science_systems/"
+}

@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "UC Davis Tahoe Environmental Research Center,",
+        "Pages": "78",
+        "Title": "Tahoe: State of the Lake Report",
+        "URL": "http://terc.ucdavis.edu/stateofthelake/StateOfTheLake2012.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "3182",
+        "_uuid": "0bd9cfef-4cd5-4b20-b953-04ecad0bd71c",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/ucdavis-tahoe-state-of-lake-2012",
+    "href": "http://data.globalchange.gov/reference/0bd9cfef-4cd5-4b20-b953-04ecad0bd71c.json",
+    "identifier": "0bd9cfef-4cd5-4b20-b953-04ecad0bd71c",
+    "uri": "/reference/0bd9cfef-4cd5-4b20-b953-04ecad0bd71c"
+}

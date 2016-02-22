@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Watersheds with thermally suitable bull trout habitat based on current and future temperature predictions. Credit B.E. Rieman, D. Isaak, S. Adams, D. Horan, D. Nagel, and C. Luce, U.S. Forest Service, and D. Myers.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "57/53/a1d7ef70de6248965f46f9390b50/our_changing_planet_2010_image__6_20091209_1018370375.jpg",
+            "href": "http://data.globalchange.gov/assets/57/53/a1d7ef70de6248965f46f9390b50/our_changing_planet_2010_image__6_20091209_1018370375.jpg",
+            "identifier": "4c6287af-360b-419f-be6c-3cc7daa2fa79",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "5bfe6e78a06d48d8ffc3ee616fe588d98a400c6b",
+            "size": 619904,
+            "thumbnail": "57/53/a1d7ef70de6248965f46f9390b50/.thumb-4c6287af-360b-419f-be6c-3cc7daa2fa79.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/57/53/a1d7ef70de6248965f46f9390b50/.thumb-4c6287af-360b-419f-be6c-3cc7daa2fa79.png",
+            "uri": "/file/4c6287af-360b-419f-be6c-3cc7daa2fa79",
+            "url": "/assets/57/53/a1d7ef70de6248965f46f9390b50/our_changing_planet_2010_image__6_20091209_1018370375.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2010/figure/climate-induced-changes-in-bull-trout-habitat.json",
+    "identifier": "climate-induced-changes-in-bull-trout-habitat",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2010",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Climate-Induced Changes in Bull Trout Habitat",
+    "uri": "/report/usgcrp-ocpfy2010/figure/climate-induced-changes-in-bull-trout-habitat",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

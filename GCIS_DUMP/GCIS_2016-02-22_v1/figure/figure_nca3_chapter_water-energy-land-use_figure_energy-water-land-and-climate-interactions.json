@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "The interactions between and among the energy, water, land, and climate systems take place within a social and economic context. (Figure source: Skaggs et al. 2012<tbib>552cc5f5-a7b3-4a64-8bee-98ae0cced150</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0JW8BSF",
+        "identifier": "water-energy-land-use",
+        "number": 10,
+        "report_identifier": "nca3",
+        "sort_key": 100,
+        "title": "Energy, Water, and Land Use",
+        "url": "http://nca2014.globalchange.gov/report/sectors/energy-water-and-land"
+    },
+    "chapter_identifier": "water-energy-land-use",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-06T13:59:04",
+    "files": [
+        {
+            "file": "57/3a/74972511fee83b8d241f62632774/WEL-interactions-conceptual-figure_V4.png",
+            "href": "http://data.globalchange.gov/assets/57/3a/74972511fee83b8d241f62632774/WEL-interactions-conceptual-figure_V4.png",
+            "identifier": "848b12a6-a123-465f-846e-8f55788ae3aa",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "e8b669e7ae0cb70ff99d0d213ed93cecab4ab0e5",
+            "size": 233323,
+            "thumbnail": "57/3a/74972511fee83b8d241f62632774/.thumb-848b12a6-a123-465f-846e-8f55788ae3aa.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/57/3a/74972511fee83b8d241f62632774/.thumb-848b12a6-a123-465f-846e-8f55788ae3aa.png",
+            "uri": "/file/848b12a6-a123-465f-846e-8f55788ae3aa",
+            "url": "/assets/57/3a/74972511fee83b8d241f62632774/WEL-interactions-conceptual-figure_V4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/water-energy-land-use/figure/energy-water-land-and-climate-interactions.json",
+    "identifier": "energy-water-land-and-climate-interactions",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-11-06T13:59:04",
+            "description": null,
+            "identifier": "1ff03285-7b3a-49dc-9111-76eb7ab419e8",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Energy, Water, Land, and Climate Interactions",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 1,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Climate and Energy-Water-Land System Interactions. Technical Report to the U.S. Department of Energy in Support of the National Climate Assessment. PNNL-21185",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/pnnl-21185"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/552cc5f5-a7b3-4a64-8bee-98ae0cced150.json",
+            "uri": "/reference/552cc5f5-a7b3-4a64-8bee-98ae0cced150"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "Skaggs et al. 2012<tbib>552cc5f5-a7b3-4a64-8bee-98ae0cced150</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Energy, Water, Land, and Climate Interactions",
+    "uri": "/report/nca3/chapter/water-energy-land-use/figure/energy-water-land-and-climate-interactions",
+    "url": "http://nca2014.globalchange.gov/highlights/report-findings/water-supply/graphics/energy-water-land-and-climate-interactions",
+    "usage_limits": null
+}

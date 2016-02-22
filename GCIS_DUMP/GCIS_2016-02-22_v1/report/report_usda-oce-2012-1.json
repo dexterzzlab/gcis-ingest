@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/usda-oce-2012-1.json",
+    "identifier": "usda-oce-2012-1",
+    "in_library": null,
+    "publication_year": 2012,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Agricultural Projections to 2021",
+    "topic": null,
+    "uri": "/report/usda-oce-2012-1",
+    "url": "http://usda01.library.cornell.edu/usda/ers/94005/2012/OCE121.pdf"
+}

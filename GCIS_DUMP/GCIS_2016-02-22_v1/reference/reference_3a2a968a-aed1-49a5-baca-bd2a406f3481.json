@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Sheridan, S.\rC. Lee\rM. Allen\rL. Kalkstein",
+        "Institution": "California Air Resources Board and the California Environmental Protection Agency",
+        "Pages": "155",
+        "Title": "A Spatial Synoptic Classification Approach to Projected Heat Vulnerability in California Under Future Climate Change Scenarios. Final Report to the California Air Resources Board. Research Contract 07-304",
+        "URL": "http://www.arb.ca.gov/newsrel/2011/HeatImpa.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"Overview\"]",
+        "_record_number": "2841",
+        "_uuid": "3a2a968a-aed1-49a5-baca-bd2a406f3481",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/kentstate-umiami-spatial-2011",
+    "href": "http://data.globalchange.gov/reference/3a2a968a-aed1-49a5-baca-bd2a406f3481.json",
+    "identifier": "3a2a968a-aed1-49a5-baca-bd2a406f3481",
+    "uri": "/reference/3a2a968a-aed1-49a5-baca-bd2a406f3481"
+}

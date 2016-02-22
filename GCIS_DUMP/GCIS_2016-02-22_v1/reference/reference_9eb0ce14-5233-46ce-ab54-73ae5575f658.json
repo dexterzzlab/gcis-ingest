@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Robertson, G. P.\rBruulsema, T. W.\rGehl, R. J.\rKanter, D.\rMauzerall, D.L.\rRotz, C. A.\rWilliams, C. O.",
+        "DOI": "10.1007/s10533-012-9802-4",
+        "ISSN": "0168-2563",
+        "Issue": "1-3",
+        "Journal": "Biogeochemistry",
+        "Pages": "41-70",
+        "Title": "Nitrogen-climate interactions in US agriculture",
+        "URL": "http://link.springer.com/content/pdf/10.1007%2Fs10533-012-9802-4.pdf",
+        "Volume": "114",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\",\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "2646",
+        "_uuid": "9eb0ce14-5233-46ce-ab54-73ae5575f658",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10533-012-9802-4",
+    "href": "http://data.globalchange.gov/reference/9eb0ce14-5233-46ce-ab54-73ae5575f658.json",
+    "identifier": "9eb0ce14-5233-46ce-ab54-73ae5575f658",
+    "uri": "/reference/9eb0ce14-5233-46ce-ab54-73ae5575f658"
+}

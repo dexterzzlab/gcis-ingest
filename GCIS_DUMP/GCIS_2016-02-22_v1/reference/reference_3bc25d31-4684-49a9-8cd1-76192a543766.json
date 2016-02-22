@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Men\u00e9ndez, Melisa\rM\u00e9ndez, Fernando J.\rLosada, Inigo J.\rGraham, Nicholas E.",
+        "DOI": "10.1029/2008gl035394",
+        "ISSN": "1944-8007",
+        "Issue": "22",
+        "Journal": "Geophysical Research Letters",
+        "Keywords": "extreme model\rvariability\rwave climate\r4215 Climate and interannual variability\r4560 Surface waves and tides\r4594 Instruments and techniques",
+        "Pages": "L22607",
+        "Title": "Variability of extreme wave heights in the northeast Pacific Ocean based on buoy measurements",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2008GL035394/pdf",
+        "Volume": "35",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\"]",
+        "_record_number": "3810",
+        "_uuid": "3bc25d31-4684-49a9-8cd1-76192a543766",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2008gl035394",
+    "href": "http://data.globalchange.gov/reference/3bc25d31-4684-49a9-8cd1-76192a543766.json",
+    "identifier": "3bc25d31-4684-49a9-8cd1-76192a543766",
+    "uri": "/reference/3bc25d31-4684-49a9-8cd1-76192a543766"
+}

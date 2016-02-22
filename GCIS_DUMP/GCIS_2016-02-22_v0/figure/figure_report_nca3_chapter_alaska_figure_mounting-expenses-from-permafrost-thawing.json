@@ -1,0 +1,57 @@
+{
+    "attributes": null,
+    "caption": "Effects of permafrost thaw on houses in interior Alaska (2001, top left), roads in eastern Alaska (1982, top\r\n    right), and the estimated costs (with and without climate change) of replacing public infrastructure in\r\n    Alaska, assuming a mid-range emissions scenario (A1B, with some decrease from current emissions growth trends).\r\n    (Photo credits: (top left) Larry Hinzman;  (top right) Joe Moore. Figure source: adapted from Larsen and Goldsmith\r\n    2007<tbib>ce0047f3-9e08-42d7-a6cd-11299bc5a829</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J00Z7150",
+        "identifier": "alaska",
+        "number": 22,
+        "report_identifier": "nca3",
+        "sort_key": 220,
+        "title": "Alaska",
+        "url": "http://nca2014.globalchange.gov/report/regions/alaska"
+    },
+    "chapter_identifier": "alaska",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "74/bd/0409019dbf0c7744f59366525dcf/AK_public_infrastructure_cost_V2.png",
+            "href": "http://data.globalchange.gov/assets/74/bd/0409019dbf0c7744f59366525dcf/AK_public_infrastructure_cost_V2.png",
+            "identifier": "b9bfb873-84bb-44a7-9744-948e3bc932f1",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "2c2c285487a3befde22d90561fa07c1475603e5d",
+            "size": 876909,
+            "thumbnail": "74/bd/0409019dbf0c7744f59366525dcf/.thumb-b9bfb873-84bb-44a7-9744-948e3bc932f1.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/74/bd/0409019dbf0c7744f59366525dcf/.thumb-b9bfb873-84bb-44a7-9744-948e3bc932f1.png",
+            "uri": "/file/b9bfb873-84bb-44a7-9744-948e3bc932f1",
+            "url": "/assets/74/bd/0409019dbf0c7744f59366525dcf/AK_public_infrastructure_cost_V2.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/alaska/figure/mounting-expenses-from-permafrost-thawing.json",
+    "identifier": "mounting-expenses-from-permafrost-thawing",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 6,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/ce0047f3-9e08-42d7-a6cd-11299bc5a829.json",
+            "uri": "/reference/ce0047f3-9e08-42d7-a6cd-11299bc5a829"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "(top left) Larry Hinzman; (top right) Joe Moore. Figure source: adapted from Larsen and Goldsmith 2007<tbib>ce0047f3-9e08-42d7-a6cd-11299bc5a829</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Mounting Expenses from Permafrost Thawing",
+    "uri": "/report/nca3/chapter/alaska/figure/mounting-expenses-from-permafrost-thawing",
+    "url": "http://nca2014.globalchange.gov/report/regions/alaska/graphics/mounting-expenses-permafrost-thawing",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

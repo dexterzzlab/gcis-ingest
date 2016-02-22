@@ -1,0 +1,65 @@
+{
+    "attributes": null,
+    "caption": "U.S. regions differ in the manner and intensity with which they use, or have available, energy, water, and land. Water bars represent total water withdrawals in billions of gallons per day (except Alaska and Hawai\u2018i, which are in millions of gallons per day); energy bars represent energy production for the region in 2012; and land represents land cover by type (green bars) or number of people (white and green bars). Only water withdrawals, not consumption, are shown (see Ch. 3: Water). Agricultural water withdrawals include irrigation, livestock, and aquaculture uses. (Data from EIA 2012<tbib>2af3709d-81eb-48b7-9183-afc6c27015ea</tbib> [energy], Kenny et al. 2009<tbib>f532697a-e122-4502-8c18-9504efa60700</tbib> [water], and USDA ERS 2007<tbib>6e583da5-d83a-4912-b729-8a1123e2bde9</tbib> [land]).",
+    "chapter": {
+        "doi": "10.7930/J0JW8BSF",
+        "identifier": "water-energy-land-use",
+        "number": 10,
+        "report_identifier": "nca3",
+        "sort_key": 100,
+        "title": "Energy, Water, and Land Use",
+        "url": "http://nca2014.globalchange.gov/report/sectors/energy-water-and-land"
+    },
+    "chapter_identifier": "water-energy-land-use",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "07/52/cf0ef9137a94429b81176c414801/WEL_climate_impact_graphs_V7_AK_HI.png",
+            "href": "http://data.globalchange.gov/assets/07/52/cf0ef9137a94429b81176c414801/WEL_climate_impact_graphs_V7_AK_HI.png",
+            "identifier": "bc21623c-c82b-40dc-afbe-74493c3261e7",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "f91f655f10afefac5ae65f29e9ce6f486717e2f4",
+            "size": 144217,
+            "thumbnail": "07/52/cf0ef9137a94429b81176c414801/.thumb-bc21623c-c82b-40dc-afbe-74493c3261e7.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/07/52/cf0ef9137a94429b81176c414801/.thumb-bc21623c-c82b-40dc-afbe-74493c3261e7.png",
+            "uri": "/file/bc21623c-c82b-40dc-afbe-74493c3261e7",
+            "url": "/assets/07/52/cf0ef9137a94429b81176c414801/WEL_climate_impact_graphs_V7_AK_HI.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/water-energy-land-use/figure/regional-water-energy-and-land-use-with-projected-climate-change-impacts.json",
+    "identifier": "regional-water-energy-and-land-use-with-projected-climate-change-impacts",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 4,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/2af3709d-81eb-48b7-9183-afc6c27015ea.json",
+            "uri": "/reference/2af3709d-81eb-48b7-9183-afc6c27015ea"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/6e583da5-d83a-4912-b729-8a1123e2bde9.json",
+            "uri": "/reference/6e583da5-d83a-4912-b729-8a1123e2bde9"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/f532697a-e122-4502-8c18-9504efa60700.json",
+            "uri": "/reference/f532697a-e122-4502-8c18-9504efa60700"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "EIA 2012<tbib>2af3709d-81eb-48b7-9183-afc6c27015ea</tbib> [energy], Kenny et al. 2009<tbib>f532697a-e122-4502-8c18-9504efa60700</tbib> [water], and USDA ERS 2007<tbib>6e583da5-d83a-4912-b729-8a1123e2bde9</tbib> [land]",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Regional Water, Energy, and Land Use, with Projected Climate Change Impacts",
+    "uri": "/report/nca3/chapter/water-energy-land-use/figure/regional-water-energy-and-land-use-with-projected-climate-change-impacts",
+    "url": "http://nca2014.globalchange.gov/report/sectors/energy-water-and-land/graphics/regional-water-energy-and-land-use-projected-climate",
+    "usage_limits": null
+}

@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Groisman, P.Y.\rKnight, R.W.\rZolina, O.G.",
+        "Book Title": "Climate Vulnerability",
+        "Chapter": "5.03",
+        "DOI": "10.1016/b978-0-12-384703-4.00501-3",
+        "Editor": "Pielke, Roger A., Sr.",
+        "ISBN": "9780123847041",
+        "Pages": "25-55",
+        "Place Published": "Oxford",
+        "Publisher": "Academic Press",
+        "Reviewer": "97e0383b-4119-4f9b-b621-436739dbae51",
+        "Short Title": "Recent Trends in Regional and Global Intense Precipitation Patterns",
+        "Title": "Recent trends in regional and global intense precipitation patterns",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\",\"RG 1 Northeast\"]",
+        "_record_number": "3997",
+        "_uuid": "97e0383b-4119-4f9b-b621-436739dbae51",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/d733a480-c42d-4b32-a2ef-8d8b41d4e2ff",
+    "href": "http://data.globalchange.gov/reference/97e0383b-4119-4f9b-b621-436739dbae51.json",
+    "identifier": "97e0383b-4119-4f9b-b621-436739dbae51",
+    "uri": "/reference/97e0383b-4119-4f9b-b621-436739dbae51"
+}

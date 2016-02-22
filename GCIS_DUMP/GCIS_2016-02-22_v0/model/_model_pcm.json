@@ -1,0 +1,12 @@
+{
+    "description": "This is a joint effort to develop a DOE-sponsored parallel climate model between Los Alamos National Laboratory (LANL), the Naval Postgraduate School (NPG), the US Army Corps of Engineers' Cold Regions Research and Engineering Lab (CRREL) and the National Center for Atmospheric Research (NCAR). We have coupled the NCAR Community Climate Model version 3, the LANL Parallel Ocean Program, and a sea ice model from the Naval Postgraduate School together in a massively parallel computer environment. This is Version 1 of the PCM (PCM1).\n",
+    "description_attribution": "http://www.cgd.ucar.edu/pcm/",
+    "href": "http://data.globalchange.gov/model/pcm.json",
+    "identifier": "pcm",
+    "name": "Parallel Climate Model",
+    "project_identifier": "cmip3",
+    "reference_url": "http://www-pcmdi.llnl.gov/ipcc/model_documentation/PCM.htm",
+    "uri": "/model/pcm",
+    "version": null,
+    "website": "http://www.cgd.ucar.edu/pcm/"
+}

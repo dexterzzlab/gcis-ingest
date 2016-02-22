@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Friel, S.\rDangour, A.D.\rGarnett, T.\rLock, K.\rChalabi, Z.\rRoberts, I.\rButler, A.\rButler, C.D.\rWaage, J.\rMcMichael, A.J.\rHaines, A.",
+        "DOI": "10.1016/S0140-6736(09)61753-",
+        "ISSN": "0140-6736",
+        "Issue": "9706",
+        "Journal": "The Lancet",
+        "Pages": "2016-2025",
+        "Title": "Public health benefits of strategies to reduce greenhouse-gas emissions: Food and agriculture",
+        "URL": "http://download.thelancet.com/pdfs/journals/lancet/PIIS0140673609617530.pdf",
+        "Volume": "374",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "1348",
+        "_uuid": "dd58bf02-3d55-4bc1-b21b-06bafd579786",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/S0140-6736(09)61753-0",
+    "href": "http://data.globalchange.gov/reference/dd58bf02-3d55-4bc1-b21b-06bafd579786.json",
+    "identifier": "dd58bf02-3d55-4bc1-b21b-06bafd579786",
+    "uri": "/reference/dd58bf02-3d55-4bc1-b21b-06bafd579786"
+}

@@ -1,0 +1,86 @@
+{
+    "attributes": "Coastal, ecosystem, services, cultural, employment, biodiversity, tourism",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/1017.json",
+            "id": 1017,
+            "organization": {
+                "country_code": "US",
+                "identifier": "susanne-moser-research-consulting",
+                "name": "Susanne Moser Research & Consulting",
+                "organization_type_identifier": "private",
+                "url": "http://www.susannemoser.com"
+            },
+            "organization_uri": "/organization/susanne-moser-research-consulting",
+            "person": {
+                "first_name": "Susanne",
+                "id": 896,
+                "last_name": "Moser",
+                "middle_name": null,
+                "orcid": "0000-0001-6375-895X",
+                "url": "http://www.susannemoser.com/"
+            },
+            "person_id": 896,
+            "person_uri": "/person/896",
+            "role_type_identifier": "convening_lead_author",
+            "uri": "/contributor/1017"
+        }
+    ],
+    "create_dt": "2013-07-09T12:00:14",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Coastal ecosystems provide a suite of valuable benefits (ecosystem services) on which \r\nhumans depend for food, economic activities, inspiration, and enjoyment. This schematic \r\nillustrates many of these services situated in a Pacific or Caribbean island setting, but many \r\nof them can also be found along mainland coastlines.",
+            "chapter_identifier": "coastal-zone",
+            "create_dt": "2013-07-09T12:00:14",
+            "identifier": "coastal-ecosystem-services",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 8,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Coastal Ecosystem Services",
+            "url": "http://nca2014.globalchange.gov/report/regions/coasts/graphics/coastal-ecosystem-services",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "e0/44/f3e9902aaf572e615ab5c51be0d5/coastal_ecosystems_diagram_11452_v4.png",
+            "href": "http://data.globalchange.gov/assets/e0/44/f3e9902aaf572e615ab5c51be0d5/coastal_ecosystems_diagram_11452_v4.png",
+            "identifier": "02695e0b-b7bb-4dfb-a73e-c6cdfe5471be",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "ad111b5f83aabacfac87e110c6eeb7924d6fa1c1",
+            "size": 4926635,
+            "thumbnail": "e0/44/f3e9902aaf572e615ab5c51be0d5/.thumb-02695e0b-b7bb-4dfb-a73e-c6cdfe5471be.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/e0/44/f3e9902aaf572e615ab5c51be0d5/.thumb-02695e0b-b7bb-4dfb-a73e-c6cdfe5471be.png",
+            "uri": "/file/02695e0b-b7bb-4dfb-a73e-c6cdfe5471be",
+            "url": "/assets/e0/44/f3e9902aaf572e615ab5c51be0d5/coastal_ecosystems_diagram_11452_v4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/7ac71c09-b530-41cf-91c6-df7be931f007.json",
+    "identifier": "7ac71c09-b530-41cf-91c6-df7be931f007",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Coastal Ecosystem Services",
+    "uri": "/image/7ac71c09-b530-41cf-91c6-df7be931f007",
+    "url": null,
+    "usage_limits": null
+}

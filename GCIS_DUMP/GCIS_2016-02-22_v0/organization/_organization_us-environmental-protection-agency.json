@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/us-environmental-protection-agency.json",
+    "identifier": "us-environmental-protection-agency",
+    "name": "U.S. Environmental Protection Agency",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/us-environmental-protection-agency",
+    "url": "http://www.epa.gov/"
+}

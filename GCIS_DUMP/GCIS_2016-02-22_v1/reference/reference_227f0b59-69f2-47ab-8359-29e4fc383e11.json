@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "California\u2019s mountainous topography, exposure to occasional heavily moisture-laden storm systems, and varied communities and infrastructures in low lying areas make it highly vulnerable to floods. An important question facing the state\u2014in terms of protecting the public and formulating water management responses to climate change\u2014is \u201chow might future climate changes affect flood characteristics in California?\u201d To help address this, we simulate floods on the western slopes of the Sierra Nevada Mountains, the state\u2019s primary catchment, based on downscaled daily precipitation and temperature projections from three General Circulation Models (GCMs). These climate projections are fed into the Variable Infiltration Capacity (VIC) hydrologic model, and the VIC-simulated streamflows and hydrologic conditions, from historical and from projected climate change runs, allow us to evaluate possible changes in annual maximum 3-day flood magnitudes and frequencies of floods. By the end of the 21st Century, all projections yield larger-than-historical floods, for both the Northern Sierra Nevada (NSN) and for the Southern Sierra Nevada (SSN). The increases in flood magnitude are statistically significant (at p\u2009<=\u20090.01) for all the three GCMs in the period 2051\u20132099. The frequency of flood events above selected historical thresholds also increases under projections from CNRM CM3 and NCAR PCM1 climate models, while under the third scenario, GFDL CM2.1, frequencies remain constant or decline slightly, owing to an overall drying trend. These increases appear to derive jointly from increases in heavy precipitation amount, storm frequencies, and days with more precipitation falling as rain and less as snow. Increases in antecedent winter soil moisture also play a role in some areas. Thus, a complex, as-yet unpredictable interplay of several different climatic influences threatens to cause increased flood hazards in California\u2019s complex western Sierra landscapes.",
+        "Author": "Das, T.\rDettinger, M.D.\rCayan, D.R.\rHidalgo, H.G.",
+        "DOI": "10.1007/s10584-011-0298-z",
+        "ISSN": "0165-0009",
+        "Issue": "1 Supplement",
+        "Journal": "Climatic Change",
+        "Pages": "71-94",
+        "Title": "Potential increase in floods in California\u2019s Sierra Nevada under future climate projections",
+        "Volume": "109",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "1298",
+        "_uuid": "227f0b59-69f2-47ab-8359-29e4fc383e11",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-011-0298-z",
+    "href": "http://data.globalchange.gov/reference/227f0b59-69f2-47ab-8359-29e4fc383e11.json",
+    "identifier": "227f0b59-69f2-47ab-8359-29e4fc383e11",
+    "uri": "/reference/227f0b59-69f2-47ab-8359-29e4fc383e11"
+}

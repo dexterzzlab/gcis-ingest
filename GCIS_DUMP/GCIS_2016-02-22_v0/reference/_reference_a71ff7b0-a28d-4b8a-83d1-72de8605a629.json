@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Watson, T.A.\rAnthony Barnett, F.\rGray, S.T.\rTootle, G.A.",
+        "DOI": "10.1111/j.1752-1688.2008.00274.x",
+        "ISSN": "1752-1688",
+        "Issue": "1",
+        "Journal": "JAWRA Journal of the American Water Resources Association",
+        "Pages": "224-236",
+        "Title": "Reconstructed streamflows for the headwaters of the Wind River, Wyoming, United States",
+        "Volume": "45",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "3359",
+        "_uuid": "a71ff7b0-a28d-4b8a-83d1-72de8605a629",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1752-1688.2008.00274.x",
+    "href": "http://data.globalchange.gov/reference/a71ff7b0-a28d-4b8a-83d1-72de8605a629.json",
+    "identifier": "a71ff7b0-a28d-4b8a-83d1-72de8605a629",
+    "uri": "/reference/a71ff7b0-a28d-4b8a-83d1-72de8605a629"
+}

@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2012",
+        "Author": "NOAA,",
+        "Publisher": "National Ocean Service",
+        "Series Title": "NOAA's Spatial Trends in Coastal Socioeconomics",
+        "Title": "Spatial Trends in Coastal Socioeconomics Demographic Trends Database: 1970-2010",
+        "URL": "http://coastalsocioeconomics.noaa.gov/download/download2.html",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "2246",
+        "_uuid": "9cd33eba-e836-4460-af4e-8c0b08b7bed1",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/efad9f25-37c0-4d47-9960-27c21da97e94",
+    "href": "http://data.globalchange.gov/reference/9cd33eba-e836-4460-af4e-8c0b08b7bed1.json",
+    "identifier": "9cd33eba-e836-4460-af4e-8c0b08b7bed1",
+    "uri": "/reference/9cd33eba-e836-4460-af4e-8c0b08b7bed1"
+}

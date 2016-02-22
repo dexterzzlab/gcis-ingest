@@ -1,0 +1,105 @@
+{
+    "attributes": null,
+    "caption": "Graph shows average summer temperature and total rainfall in Texas from 1895 through 2012. The red dots illustrate the range of temperatures and rainfall observed over time. The record temperatures and drought during the summer of 2011 (large red dot) represent conditions far outside those that have occurred since the instrumental record began.<tbib>11d768c2-a4c6-479e-ae58-29cbeff601ce</tbib> An analysis has shown that the probability of such an event has more than doubled as a result of human-induced climate change. <tbib>2c8387dc-24b4-4293-b51c-46871cac064f</tbib> (Figure source: NOAA NCDC / CICS-NC).",
+    "chapter": {
+        "doi": "10.7930/J0JW8BSF",
+        "identifier": "water-energy-land-use",
+        "number": 10,
+        "report_identifier": "nca3",
+        "sort_key": 100,
+        "title": "Energy, Water, and Land Use",
+        "url": "http://nca2014.globalchange.gov/report/sectors/energy-water-and-land"
+    },
+    "chapter_identifier": "water-energy-land-use",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2522.json",
+            "id": 2522,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Kenneth",
+                "id": 1025,
+                "last_name": "Kunkel",
+                "middle_name": null,
+                "orcid": "0000-0001-6667-7047",
+                "url": "http://cicsnc.org/people/kenneth-kunkel/"
+            },
+            "person_id": 1025,
+            "person_uri": "/person/1025",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2522"
+        }
+    ],
+    "create_dt": "2013-07-03T10:07:37",
+    "files": [
+        {
+            "file": "2f/5e/7dfc535ffbe8503a6725b9fdcaa0/WEL_texas_scatter_plot_V3.png",
+            "href": "http://data.globalchange.gov/assets/2f/5e/7dfc535ffbe8503a6725b9fdcaa0/WEL_texas_scatter_plot_V3.png",
+            "identifier": "468622bc-5db9-4bcb-9b4e-2d61a2cf5716",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "911c2fdb9f7bcb823f17f84652e9fbe8f28284b2",
+            "size": 113924,
+            "thumbnail": "2f/5e/7dfc535ffbe8503a6725b9fdcaa0/.thumb-468622bc-5db9-4bcb-9b4e-2d61a2cf5716.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/2f/5e/7dfc535ffbe8503a6725b9fdcaa0/.thumb-468622bc-5db9-4bcb-9b4e-2d61a2cf5716.png",
+            "uri": "/file/468622bc-5db9-4bcb-9b4e-2d61a2cf5716",
+            "url": "/assets/2f/5e/7dfc535ffbe8503a6725b9fdcaa0/WEL_texas_scatter_plot_V3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/water-energy-land-use/figure/texas-summer-2011-record-heat-and-drought.json",
+    "identifier": "texas-summer-2011-record-heat-and-drought",
+    "images": [
+        {
+            "attributes": "Temperature, precipitation, observed, Texas",
+            "create_dt": "2013-07-03T09:12:00",
+            "description": null,
+            "identifier": "02c53cf7-75f8-4243-a925-f59a0025f04e",
+            "lat_max": "36.50",
+            "lat_min": "25.83",
+            "lon_max": "-93.52",
+            "lon_min": "-106.65",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2012-12-31T00:00:00",
+            "time_start": "1895-01-01T00:00:00",
+            "title": "Texas Summer 2011: Record Heat and Drought",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 3,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/11d768c2-a4c6-479e-ae58-29cbeff601ce.json",
+            "uri": "/reference/11d768c2-a4c6-479e-ae58-29cbeff601ce"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/2c8387dc-24b4-4293-b51c-46871cac064f.json",
+            "uri": "/reference/2c8387dc-24b4-4293-b51c-46871cac064f"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "NOAA NCDC / CICS-NC",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Texas Summer 2011: Record Heat and Drought",
+    "uri": "/report/nca3/chapter/water-energy-land-use/figure/texas-summer-2011-record-heat-and-drought",
+    "url": "http://nca2014.globalchange.gov/highlights/report-findings/extreme-weather/graphics/texas-summer-2011-record-heat-and-drought",
+    "usage_limits": null
+}

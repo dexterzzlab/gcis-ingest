@@ -1,0 +1,83 @@
+{
+    "attributes": null,
+    "caption": "These are just some of the many indicators measured globally over many decades that demonstrate that the Earth\u2019s climate is warming. White arrows indicate increases, and black arrows show decreases. All the indicators expected to increase in a warming world are increasing, and all those expected to decrease in a warming world are decreasing. See Figure 3 for measurements showing these trends. (Figure source: NOAA NCDC; based on data updated from Kennedy et al. 20102).",
+    "chapter": {
+        "doi": "10.7930/J0G15XS3",
+        "identifier": "appendix-faqs",
+        "number": 34,
+        "report_identifier": "nca3",
+        "sort_key": 340,
+        "title": "Appendix 4: Frequently Asked Questions",
+        "url": "http://nca2014.globalchange.gov/report/appendices/faqs"
+    },
+    "chapter_identifier": "appendix-faqs",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-10-21T13:19:02",
+    "files": [
+        {
+            "file": "6d/42/b03e04ff86824e0fe7e6ea26c66f/CAQ_ten_indicators_of_a_warming_world_V5.png",
+            "href": "http://data.globalchange.gov/assets/6d/42/b03e04ff86824e0fe7e6ea26c66f/CAQ_ten_indicators_of_a_warming_world_V5.png",
+            "identifier": "4635c38d-87ba-4ae9-8299-28dd99fdac48",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "6d0d8ecb3dc989ec98f1140f64d6d897165acc1a",
+            "size": 1840738,
+            "thumbnail": "6d/42/b03e04ff86824e0fe7e6ea26c66f/.thumb-4635c38d-87ba-4ae9-8299-28dd99fdac48.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/6d/42/b03e04ff86824e0fe7e6ea26c66f/.thumb-4635c38d-87ba-4ae9-8299-28dd99fdac48.png",
+            "uri": "/file/4635c38d-87ba-4ae9-8299-28dd99fdac48",
+            "url": "/assets/6d/42/b03e04ff86824e0fe7e6ea26c66f/CAQ_ten_indicators_of_a_warming_world_V5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-faqs/figure/caq-ten-indicators-of-a-warming-world.json",
+    "identifier": "caq-ten-indicators-of-a-warming-world",
+    "images": [
+        {
+            "attributes": "indicators, observed, atmosphere, cryosphere, ocean, terrestrial, warming world, composite",
+            "create_dt": "2013-10-21T13:19:02",
+            "description": null,
+            "identifier": "0bcb7984-50c0-4f94-9946-c3fa635125a4",
+            "lat_max": "90.00",
+            "lat_min": "-90.00",
+            "lon_max": "180.00",
+            "lon_min": "-180.00",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2009-12-31T23:59:59",
+            "time_start": "1850-01-01T00:00:00",
+            "title": "Ten Indicators of a Warming World",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [
+        "/report/nca3/chapter/executive-summary/figure/overview-ten-indicators-of-a-warming-world",
+        "/report/nca3/chapter/our-changing-climate/figure/ten-indicators-of-a-warming-world"
+    ],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 2,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "2009 State of the Climate Highlights",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/noaa-state-of-the-climate-highlights-2009"
+        }
+    ],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Ten Indicators of a Warming World",
+    "uri": "/report/nca3/chapter/appendix-faqs/figure/caq-ten-indicators-of-a-warming-world",
+    "url": "http://nca2014.globalchange.gov/report/appendices/faqs/graphics/ten-indicators-warming-world",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

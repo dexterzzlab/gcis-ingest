@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Swetnam, T.W.\rBaisan, C.H.\rCaprio, A.C.\rBrown, P.M.\rTouchan, R.\rAnderson, R.S.\rHallett, D.J.",
+        "DOI": "10.4996/fireecology.0503120",
+        "Issue": "3",
+        "Journal": "Fire Ecology",
+        "Pages": "120-150",
+        "Title": "Multi-millennial fire history of the Giant Forest, Sequoia National Park, California, USA",
+        "Volume": "5",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "3004",
+        "_uuid": "3e807297-3ee2-48b8-a3b8-66dc94d0f307",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.4996/fireecology.0503120",
+    "href": "http://data.globalchange.gov/reference/3e807297-3ee2-48b8-a3b8-66dc94d0f307.json",
+    "identifier": "3e807297-3ee2-48b8-a3b8-66dc94d0f307",
+    "uri": "/reference/3e807297-3ee2-48b8-a3b8-66dc94d0f307"
+}

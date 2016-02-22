@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "These products provide examples of LEDAPS forest disturbance mapping: (a) 0.05\u00b0 modeling grid showing the percent of each cell area disturbed (harvested) per year for the mid-Atlantic from 1990 to 2000; (b) atmospherically corrected Landsat surface reflectance image for the Richmond, Virginia, region; and (c) high-resolution map of forest disturbance (red) and regrowth (green) for the Richmond region, 1990 to 2000. Credit: J.G. Masek, E.F. Vermote, N.E. Saleous, R. Wolfe, F.G. Hall, K. Huemmrich, F. Gao, J. Kutler, and T.K. Lim, NASA/ Goddard Space Flight Center and the University of Maryland (reproduced from Geoscience and Remote Sensing Letters with permission from the Institute of Electrical and Electronics Engineers \u00a92006).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "e2/54/1ef4d0e687b0e938def0a939a97a/our_changing_planet_2007_55_20090708_1999857772.jpg",
+            "href": "http://data.globalchange.gov/assets/e2/54/1ef4d0e687b0e938def0a939a97a/our_changing_planet_2007_55_20090708_1999857772.jpg",
+            "identifier": "6019022a-ba08-4fa4-b63a-76d056eb4fd4",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "231f20e7f353f6629abf439ad4687aea985dd844",
+            "size": 48406,
+            "thumbnail": "e2/54/1ef4d0e687b0e938def0a939a97a/.thumb-6019022a-ba08-4fa4-b63a-76d056eb4fd4.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/e2/54/1ef4d0e687b0e938def0a939a97a/.thumb-6019022a-ba08-4fa4-b63a-76d056eb4fd4.png",
+            "uri": "/file/6019022a-ba08-4fa4-b63a-76d056eb4fd4",
+            "url": "/assets/e2/54/1ef4d0e687b0e938def0a939a97a/our_changing_planet_2007_55_20090708_1999857772.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/ledaps-forest-disturbance-mapping.json",
+    "identifier": "ledaps-forest-disturbance-mapping",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "LEDAPS Forest Disturbance Mapping",
+    "uri": "/report/ccsp-ocpfy2007/figure/ledaps-forest-disturbance-mapping",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

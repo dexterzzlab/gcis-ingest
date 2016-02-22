@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Population trends for three penguin species in the Anvers Island vicinity, 1975 to 2006. The numbers on the graph indicate percentage change from initial sampling year for each species. Credit: H. Ducklow, Marine Biological Laboratory; K. Baker and M. Vernet, University of California, San Diego; D.G. Martinson and S.E. Stammerjohn, Lamont- Doherty Earth Observatory; L.B. Quetin, R.M. Ross, and R.C. Smith, University of California, Santa Barbara; and W. Fraser, Polar Oceans Research Group (reproduced from Philosophical Transactions of the Royal Society B with permission from Royal Society Publishing).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "ea/7a/b745be65f5e7a5ccf6912cc3e13a/our_changing_planet_2008_67_20090708_1579760154.jpg",
+            "href": "http://data.globalchange.gov/assets/ea/7a/b745be65f5e7a5ccf6912cc3e13a/our_changing_planet_2008_67_20090708_1579760154.jpg",
+            "identifier": "18c52237-fb4a-4c8d-b935-0b328094d55f",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "e0d515d88a0b79fb7da358939dce153ecbfe17a0",
+            "size": 40524,
+            "thumbnail": "ea/7a/b745be65f5e7a5ccf6912cc3e13a/.thumb-18c52237-fb4a-4c8d-b935-0b328094d55f.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/ea/7a/b745be65f5e7a5ccf6912cc3e13a/.thumb-18c52237-fb4a-4c8d-b935-0b328094d55f.png",
+            "uri": "/file/18c52237-fb4a-4c8d-b935-0b328094d55f",
+            "url": "/assets/ea/7a/b745be65f5e7a5ccf6912cc3e13a/our_changing_planet_2008_67_20090708_1579760154.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2008/figure/population-trends-penguin-species.json",
+    "identifier": "population-trends-penguin-species",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2008",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Population Trends for Three Penguin Species ",
+    "uri": "/report/ccsp-ocpfy2008/figure/population-trends-penguin-species",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

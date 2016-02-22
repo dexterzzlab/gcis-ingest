@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Accession Number": "193",
+        "Author": "Hatfield, J.\rBoote, K.\rFay, P.\rHahn, L.\rIzaurralde, C\rKimball, B.A.\rMader, T.\rMorgan, J.\rOrt, D.\rPolley, W.\rThompson, A.\rWolfe, D.",
+        "Book Title": "The Effects of Climate Change on Agriculture, Land Resources, and Biodiversity in the United States. A Report by the U.S. Climate Change Science Program and the Subcommittee on Global Change Research",
+        "Chapter": "Agriculture",
+        "Editor": "Backlund, P.\rJanetos, A.\rSchimel, D.\rHatfield, J.\rBoote, K.\rFay, P.\rHahn, L.\rIzaurralde, C.\rKimball, B.A.\rMader, T.\rMorgan, J.\rOrt, D.\rPolley, W.\rThomson, A.\rWolfe, D.\rRyan, M.G.\rArcher, S.R.\rBirdsey, R.\rDahm, C.\rHeath, L.\rHicke, J.\rHollinger, D.\rHuxman, T.\rOkin, G.\rOren, R.\rRanderson, J.\rSchlesinger, W.\rLettenmaier, D.\rMajor, D.\rPoff, L.\rRunning, S.\rHansen, L.\rInouye, D.\rKelly, B.P.\rMeyerson, L.\rPeterson, B.\rShaw, R.",
+        "Pages": "21-74",
+        "Place Published": "Washington, D.C.",
+        "Publisher": "U.S. Department of Agriculture",
+        "Reviewer": "190f2677-f5e4-4015-862e-71e982509814",
+        "Title": "Ch. 2: Agriculture",
+        "URL": "http://library.globalchange.gov/products/sap-3-4-the-effects-of-climate-change-on-agcriculture-land-resources-water-resources-and-biodiversity",
+        "Volume": "Synthesis and Assessment Product 4.3",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"RG 2 Southeast\",\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "56",
+        "_uuid": "190f2677-f5e4-4015-862e-71e982509814",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/ccsp-sap-4_3-2008",
+    "href": "http://data.globalchange.gov/reference/190f2677-f5e4-4015-862e-71e982509814.json",
+    "identifier": "190f2677-f5e4-4015-862e-71e982509814",
+    "uri": "/reference/190f2677-f5e4-4015-862e-71e982509814"
+}

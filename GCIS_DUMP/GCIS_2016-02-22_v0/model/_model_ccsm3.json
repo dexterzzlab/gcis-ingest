@@ -1,0 +1,12 @@
+{
+    "description": "The Community Climate Model (CCM) was created by NCAR in 1983 as a freely available global atmosphere model for use by the wider climate research community. The formulation of the CCM has steadily improved over the past two decades, computers powerful enough to run the model have become relatively inexpensive and widely available, and usage of the model has become widespread in the university community, and at some national laboratories.\n",
+    "description_attribution": "http://www2.cesm.ucar.edu/about",
+    "href": "http://data.globalchange.gov/model/ccsm3.json",
+    "identifier": "ccsm3",
+    "name": "Community Climate System Model, version 3.0 (CCSM3)",
+    "project_identifier": "cmip3",
+    "reference_url": "http://www-pcmdi.llnl.gov/ipcc/model_documentation/CCSM3.htm",
+    "uri": "/model/ccsm3",
+    "version": null,
+    "website": "http://www2.cesm.ucar.edu/"
+}

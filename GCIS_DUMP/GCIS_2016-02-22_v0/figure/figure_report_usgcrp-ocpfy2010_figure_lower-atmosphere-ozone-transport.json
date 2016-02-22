@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Tropospheric column ozone (in Dobson units) determined using the difference between the total column ozone measured by OMI and stratospheric ozone measured by the MLS instrument on the Aura satellite. A transport model was used to increase the horizontal resolution of the MLS-derived stratospheric column ozone. Global depictions for July and October 2008 show streams of tropospheric ozone crossing oceans, an important result for understanding both climate and air quality. Credit: M. Schoeberl and J. Ziemke, NASA/Goddard Space Flight Center.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "54/3c/fb300a526795ef6c991f63514d00/our_changing_planet_2010_image__11_20091209_1453454804.jpg",
+            "href": "http://data.globalchange.gov/assets/54/3c/fb300a526795ef6c991f63514d00/our_changing_planet_2010_image__11_20091209_1453454804.jpg",
+            "identifier": "42b7acee-7d91-4ed5-860a-88b1b2f7a685",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "204338cb0ed5e118ef149f965b8624c72f3177bf",
+            "size": 592435,
+            "thumbnail": "54/3c/fb300a526795ef6c991f63514d00/.thumb-42b7acee-7d91-4ed5-860a-88b1b2f7a685.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/54/3c/fb300a526795ef6c991f63514d00/.thumb-42b7acee-7d91-4ed5-860a-88b1b2f7a685.png",
+            "uri": "/file/42b7acee-7d91-4ed5-860a-88b1b2f7a685",
+            "url": "/assets/54/3c/fb300a526795ef6c991f63514d00/our_changing_planet_2010_image__11_20091209_1453454804.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2010/figure/lower-atmosphere-ozone-transport.json",
+    "identifier": "lower-atmosphere-ozone-transport",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2010",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Lower Atmosphere Ozone Transport",
+    "uri": "/report/usgcrp-ocpfy2010/figure/lower-atmosphere-ozone-transport",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

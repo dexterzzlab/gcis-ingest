@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "A climate model (CCSM4) is used to investigate the influence of anthropogenic forcing on late 20th century and early 21st century Arctic sea ice extent trends. On all timescales examined (2\u201350+ years), the most extreme negative observed late 20th century trends cannot be explained by modeled natural variability alone. Modeled late 20th century ice extent loss also cannot be explained by natural causes alone, but the six available CCSM4 ensemble members exhibit a large spread in their late 20th century ice extent loss. Comparing trends from the CCSM4 ensemble to observed trends suggests that internal variability explains approximately half of the observed 1979\u20132005 September Arctic sea ice extent loss. In a warming world, CCSM4 shows that multi-decadal negative trends increase in frequency and magnitude, and that trend variability on 2\u201310 year timescales increases. Furthermore, when internal variability counteracts anthropogenic forcing, positive trends on 2\u201320 year timescales occur until the middle of the 21st century. ",
+        "Author": "Kay, J.E.\rM.M. Holland\rA. Jahn",
+        "DOI": "10.1029/2011GL048008",
+        "ISSN": "1944-8007",
+        "Issue": "15",
+        "Journal": "Geophysical Research Letters",
+        "Pages": "L15708",
+        "Title": "Inter-annual to multi-decadal Arctic sea ice extent trends in a warming world",
+        "URL": "http://www.agu.org/pubs/crossref/2011/2011GL048008.shtml",
+        "Volume": "38",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "988",
+        "_uuid": "fbae726d-5c20-4abf-9567-2d2539990f21",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2011GL048008",
+    "href": "http://data.globalchange.gov/reference/fbae726d-5c20-4abf-9567-2d2539990f21.json",
+    "identifier": "fbae726d-5c20-4abf-9567-2d2539990f21",
+    "uri": "/reference/fbae726d-5c20-4abf-9567-2d2539990f21"
+}

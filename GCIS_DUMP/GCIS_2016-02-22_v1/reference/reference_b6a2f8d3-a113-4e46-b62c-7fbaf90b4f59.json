@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Global environmental change and sustainability science increasingly recognize the need to address the consequences of changes taking place in the structure and function of the biosphere. These changes raise questions such as: Who and what are vulnerable to the multiple environmental changes underway, and where? Research demonstrates that vulnerability is registered not by exposure to hazards (perturbations and stresses) alone but also resides in the sensitivity and resilience of the system experiencing such hazards. This recognition requires revisions and enlargements in the basic design of vulnerability assessments, including the capacity to treat coupled human\u2013environment systems and those linkages within and without the systems that affect their vulnerability. A vulnerability framework for the assessment of coupled human\u2013environment systems is presented.",
+        "Author": "Turner, B. L.\rKasperson, Roger E.\rMatson, Pamela A.\rMcCarthy, James J.\rCorell, Robert W.\rChristensen, Lindsey\rEckley, Noelle\rKasperson, Jeanne X.\rLuers, Amy\rMartello, Marybeth L.\rPolsky, Colin\rPulsipher, Alexander\rSchiller, Andrew",
+        "DOI": "10.1073/pnas.1231335100",
+        "Date": "July 8, 2003",
+        "Issue": "14",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Pages": "8074-8079",
+        "Title": "A framework for vulnerability analysis in sustainability science",
+        "URL": "http://www.pnas.org/content/100/14/8074.abstract; http://www.pnas.org/content/100/14/8074.full.pdf",
+        "Volume": "100",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "3104",
+        "_uuid": "b6a2f8d3-a113-4e46-b62c-7fbaf90b4f59",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.1231335100",
+    "href": "http://data.globalchange.gov/reference/b6a2f8d3-a113-4e46-b62c-7fbaf90b4f59.json",
+    "identifier": "b6a2f8d3-a113-4e46-b62c-7fbaf90b4f59",
+    "uri": "/reference/b6a2f8d3-a113-4e46-b62c-7fbaf90b4f59"
+}

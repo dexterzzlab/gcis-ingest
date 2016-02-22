@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Goodale, C.L.\rApps, M.J.\rBirdsey, R.A.\rField, C.B.\rHeath, L.S.\rHoughton, R.A.\rJenkins, J.C.\rKohlmaier, G.H.\rKurz, W.\rLiu, S.\rLiu, Shirong\rNabuurs, Gert-Jan\rNilsson, Sten\rShvidenko, Anatoly Z.",
+        "DOI": "10.1890/1051-0761(2002)012[0891:FCSITN]2.0.CO;2",
+        "ISSN": "1051-0761",
+        "Issue": "3",
+        "Journal": "Ecological Applications",
+        "Pages": "891-899",
+        "Title": "Forest carbon sinks in the Northern Hemisphere",
+        "Volume": "12",
+        "Year": "2002",
+        "_chapter": "[\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "729",
+        "_uuid": "97be2553-2941-4e54-8a88-a2d9d6ca1434",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/1051-0761(2002)012%5B0891:FCSITN%5D2.0.CO;2",
+    "href": "http://data.globalchange.gov/reference/97be2553-2941-4e54-8a88-a2d9d6ca1434.json",
+    "identifier": "97be2553-2941-4e54-8a88-a2d9d6ca1434",
+    "uri": "/reference/97be2553-2941-4e54-8a88-a2d9d6ca1434"
+}

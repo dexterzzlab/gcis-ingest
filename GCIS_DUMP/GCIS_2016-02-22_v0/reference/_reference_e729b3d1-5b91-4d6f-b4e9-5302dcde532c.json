@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Brown, T.C.\rPeterson, G.L.\rTonn, B.E.",
+        "DOI": "10.2307/3146505",
+        "ISSN": "0023-7639",
+        "Issue": "2",
+        "Journal": "Land Economics",
+        "Pages": "250-260",
+        "Title": "The values jury to aid natural resource decisions",
+        "Volume": "71",
+        "Year": "1995",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "1754",
+        "_uuid": "e729b3d1-5b91-4d6f-b4e9-5302dcde532c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.2307/3146505",
+    "href": "http://data.globalchange.gov/reference/e729b3d1-5b91-4d6f-b4e9-5302dcde532c.json",
+    "identifier": "e729b3d1-5b91-4d6f-b4e9-5302dcde532c",
+    "uri": "/reference/e729b3d1-5b91-4d6f-b4e9-5302dcde532c"
+}

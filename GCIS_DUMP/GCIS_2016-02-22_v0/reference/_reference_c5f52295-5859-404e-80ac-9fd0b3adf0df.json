@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "McNeeley, S. M.",
+        "DOI": "10.1007/s10584-011-0158-x",
+        "Journal": "Climate Change",
+        "Pages": "835-857",
+        "Title": "Examining barriers and opportunities for sustainable adaptation to climate change in Interior Alaska",
+        "URL": "http://link.springer.com/content/pdf/10.1007%2Fs10584-011-0158-x",
+        "Volume": "111",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"Ch. 19: Great Plains FINAL\",\"Ch. 28: Adaptation FINAL\",\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "1964",
+        "_uuid": "c5f52295-5859-404e-80ac-9fd0b3adf0df",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-011-0158-x",
+    "href": "http://data.globalchange.gov/reference/c5f52295-5859-404e-80ac-9fd0b3adf0df.json",
+    "identifier": "c5f52295-5859-404e-80ac-9fd0b3adf0df",
+    "uri": "/reference/c5f52295-5859-404e-80ac-9fd0b3adf0df"
+}

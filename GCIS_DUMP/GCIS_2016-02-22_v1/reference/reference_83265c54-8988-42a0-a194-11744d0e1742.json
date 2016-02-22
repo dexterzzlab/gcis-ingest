@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "California\u2019s coastal observations and global model projections indicate that California\u2019s open coast and estuaries will experience rising sea levels over the next century. During the last several decades, the upward historical trends, quantified from a small set of California tide gages, have been approximately 20 cm/century, quite similar to that estimated for global mean sea level. In the next several decades, warming produced by climate model simulations indicates that sea level rise (SLR) could substantially exceed the rate experienced during modern human development along the California coast and estuaries. A range of future SLR is estimated from a set of climate simulations governed by lower (B1), middle\u2013upper (A2), and higher (A1fi) GHG emission scenarios. Projecting SLR from the ocean warming in GCMs, observational evidence of SLR, and separate calculations using a simple climate model yields a range of potential sea level increases, from 11 to 72 cm, by the 2070\u20132099 period. The combination of predicted astronomical tides with projected weather forcing, El Ni\u00f1o related variability, and secular SLR, gives a series of hourly sea level projections for 2005\u20132100. Gradual sea level rise progressively worsens the impacts of high tides, surge and waves resulting from storms, and also freshwater floods from Sierra and coastal mountain catchments. The occurrence of extreme sea levels is pronounced when these factors coincide. The frequency and magnitude of extreme events, relative to current levels, follows a sharply escalating pattern as the magnitude of future sea level rise increases.",
+        "Author": "Cayan, D.R.\rBromirski, P.D.\rHayhoe, K.\rTyree, M.\rDettinger, M.D.\rFlick, R.E.",
+        "DOI": "10.1007/s10584-007-9376-7",
+        "ISSN": "0165-0009",
+        "Issue": "1 Supplement",
+        "Journal": "Climatic Change",
+        "Keywords": "Earth and Environmental Science",
+        "Pages": "57-73",
+        "Title": "Climate change projections of sea level extremes along the California coast",
+        "Volume": "87",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 4: Energy Supply and Use FINAL\"]",
+        "_record_number": "323",
+        "_uuid": "83265c54-8988-42a0-a194-11744d0e1742",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-007-9376-7",
+    "href": "http://data.globalchange.gov/reference/83265c54-8988-42a0-a194-11744d0e1742.json",
+    "identifier": "83265c54-8988-42a0-a194-11744d0e1742",
+    "uri": "/reference/83265c54-8988-42a0-a194-11744d0e1742"
+}

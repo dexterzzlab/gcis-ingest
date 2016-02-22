@@ -1,0 +1,17 @@
+{
+    "attrs": {
+        ".reference_type": "9",
+        "Editor": "Garfin, G.\rJardine, A.\rMerideth, R.\rBlack, Mary\rOverpeck, J. ",
+        "Publisher": "Southwest Climate Alliance",
+        "Title": "Assessment of Climate Change in the Southwest United States: a Technical Report Prepared for the U.S. National Climate Assessment. A report by the Southwest Climate Alliance",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "4075",
+        "_uuid": "17ad4429-1321-4e7c-9cd5-3554eb0c3b38",
+        "reftype": "Edited Book"
+    },
+    "child_publication": "/report/swccar-assessment-climate-change-in-southwest-us",
+    "href": "http://data.globalchange.gov/reference/17ad4429-1321-4e7c-9cd5-3554eb0c3b38.json",
+    "identifier": "17ad4429-1321-4e7c-9cd5-3554eb0c3b38",
+    "uri": "/reference/17ad4429-1321-4e7c-9cd5-3554eb0c3b38"
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Misselhorn, A.\rAggarwal, P.\rEricksen, P.\rGregory, P.\rHorn-Phathanothai, L.\rIngram, J.\rWiebe, K.",
+        "DOI": "10.1016/j.cosust.2012.01.008",
+        "ISSN": "1877-3435",
+        "Issue": "1",
+        "Journal": "Current Opinion in Environmental Sustainability",
+        "Pages": "7-17",
+        "Title": "A vision for attaining food security",
+        "Volume": "4",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "2059",
+        "_uuid": "56da8899-8c9e-4ded-968a-770460ea2454",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.cosust.2012.01.008",
+    "href": "http://data.globalchange.gov/reference/56da8899-8c9e-4ded-968a-770460ea2454.json",
+    "identifier": "56da8899-8c9e-4ded-968a-770460ea2454",
+    "uri": "/reference/56da8899-8c9e-4ded-968a-770460ea2454"
+}

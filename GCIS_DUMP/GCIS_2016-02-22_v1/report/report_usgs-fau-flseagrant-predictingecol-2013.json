@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/usgs-fau-flseagrant-predictingecol-2013.json",
+    "identifier": "usgs-fau-flseagrant-predictingecol-2013",
+    "in_library": null,
+    "publication_year": 2013,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Predicting Ecological Changes in the Florida Everglades Under a Future Climate Scenario",
+    "topic": null,
+    "uri": "/report/usgs-fau-flseagrant-predictingecol-2013",
+    "url": "http://www.ces.fau.edu/climate_change/ecology-february-2013/PECFEFCS_Report.pdf"
+}

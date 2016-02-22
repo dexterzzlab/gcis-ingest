@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Roy, S.B.\rChen, L.\rGirvetz, E.H.\rMaurer, E.P\rMills, W.B\rGrieb, T.M.",
+        "DOI": "10.1021/es2030774",
+        "Issue": "5",
+        "Journal": "Environmental Science & Technology",
+        "Pages": "2545\u22122556",
+        "Title": "Projecting water withdrawal and supply for future decades in the U.S. under climate change scenarios",
+        "Volume": "46",
+        "Year": "2012",
+        "_chapter": "[\"RF 7\",\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "2701",
+        "_uuid": "1bd31364-5aab-4219-9389-b17fd03daa08",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1021/es2030774",
+    "href": "http://data.globalchange.gov/reference/1bd31364-5aab-4219-9389-b17fd03daa08.json",
+    "identifier": "1bd31364-5aab-4219-9389-b17fd03daa08",
+    "uri": "/reference/1bd31364-5aab-4219-9389-b17fd03daa08"
+}

@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Becker, M.\rMeyssignac, B.\rLetetrel, C.\rLlovel, W.\rCazenave, A.\rDelcroix, T.",
+        "DOI": "10.1016/j.gloplacha.2011.09.004",
+        "Journal": "Global and Planetary Change",
+        "Pages": "85-98",
+        "Title": "Sea level variations at Tropical Pacific Islands since 1950",
+        "Volume": "80-81",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "1510",
+        "_uuid": "cc032910-1557-4eb7-ac24-d183ad14a8da",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.gloplacha.2011.09.004",
+    "href": "http://data.globalchange.gov/reference/cc032910-1557-4eb7-ac24-d183ad14a8da.json",
+    "identifier": "cc032910-1557-4eb7-ac24-d183ad14a8da",
+    "uri": "/reference/cc032910-1557-4eb7-ac24-d183ad14a8da"
+}

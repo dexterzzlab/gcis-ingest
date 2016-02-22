@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"subscript\" start=\"34\" /><run start=\"35\" /></field></record>",
+        "Author": "Wieser, H.\rManderscheid, R.\rErbs, M.\rWeigel, H.J.",
+        "DOI": "10.1021/jf8008603",
+        "ISSN": "0021-8561",
+        "Issue": "15",
+        "Journal": "Journal of Agricultural and Food Chemistry",
+        "Pages": "6531-6535",
+        "Title": "Effects of elevated atmospheric CO2 concentrations on the quantitative protein composition of wheat grain",
+        "Volume": "56",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "3417",
+        "_uuid": "b018fd79-4e1f-4d51-ba53-acf4917e73e2",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1021/jf8008603",
+    "href": "http://data.globalchange.gov/reference/b018fd79-4e1f-4d51-ba53-acf4917e73e2.json",
+    "identifier": "b018fd79-4e1f-4d51-ba53-acf4917e73e2",
+    "uri": "/reference/b018fd79-4e1f-4d51-ba53-acf4917e73e2"
+}

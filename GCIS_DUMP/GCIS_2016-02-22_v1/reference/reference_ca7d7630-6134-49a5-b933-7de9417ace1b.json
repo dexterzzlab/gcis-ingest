@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Meyssignac, B.\rSalas y Melia, D.\rBecker, M.\rLlovel, W.\rCazenave, A.",
+        "DOI": "10.5194/cp-8-787-2012",
+        "Journal": "Climate of the Past",
+        "Pages": "787-802",
+        "Title": "Tropical Pacific spatial trend patterns in observed sea level: Internal variability and/or anthropogenic signature?",
+        "URL": "http://www.clim-past.net/8/787/2012/cp-8-787-2012.pdf",
+        "Volume": "8",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "2012",
+        "_uuid": "ca7d7630-6134-49a5-b933-7de9417ace1b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.5194/cp-8-787-2012",
+    "href": "http://data.globalchange.gov/reference/ca7d7630-6134-49a5-b933-7de9417ace1b.json",
+    "identifier": "ca7d7630-6134-49a5-b933-7de9417ace1b",
+    "uri": "/reference/ca7d7630-6134-49a5-b933-7de9417ace1b"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "Absorption-band MW radiometer/spectrometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/microwave-atmospheric-sounder.json",
+    "identifier": "microwave-atmospheric-sounder",
+    "name": "MicroWave Atmospheric Sounder",
+    "uri": "/instrument/microwave-atmospheric-sounder"
+}

@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "In 2008, the USGS completed an extensive conversion from an inefficient, on-demand data ordering and processing system to a fully automated access and distribution mechanism. The previous range of options for processing semi-custom digital Landsat products for paying customers was replaced by free Internet access to the entire Landsat archive of over 3 million scenes from around the globe. Users can now select an area of interest and easily download standardized image files. Shortly after this conversion, demand for Landsat data surged from around 20,000 scenes sold per year to over 2 million downloaded for free per year.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "a9/cf/d827d13c961cb183013ce719b8c8/OCP_2012_Page_17_Image_0003.jpg",
+            "href": "http://data.globalchange.gov/assets/a9/cf/d827d13c961cb183013ce719b8c8/OCP_2012_Page_17_Image_0003.jpg",
+            "identifier": "014f6d78-0920-485f-a5f0-06761d95f27a",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "98400d90882d58908dc9df02f782476ac53af04f",
+            "size": 58393,
+            "thumbnail": "a9/cf/d827d13c961cb183013ce719b8c8/.thumb-014f6d78-0920-485f-a5f0-06761d95f27a.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/a9/cf/d827d13c961cb183013ce719b8c8/.thumb-014f6d78-0920-485f-a5f0-06761d95f27a.png",
+            "uri": "/file/014f6d78-0920-485f-a5f0-06761d95f27a",
+            "url": "/assets/a9/cf/d827d13c961cb183013ce719b8c8/OCP_2012_Page_17_Image_0003.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2012/figure/landsat-web-enabled-imagery.json",
+    "identifier": "landsat-web-enabled-imagery",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2012",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Landsat Web-Enabled Imagery",
+    "uri": "/report/usgcrp-ocpfy2012/figure/landsat-web-enabled-imagery",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

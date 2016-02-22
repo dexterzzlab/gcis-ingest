@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2013",
+        "Author": "NCDC,",
+        "Place Published": "Asheville, NC",
+        "Publisher": "NOAA's National Climatic Data Center",
+        "Title": "BAMS State of the Climate",
+        "URL": "http://www.ncdc.noaa.gov/bams-state-of-the-climate/",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4458",
+        "_uuid": "0d705a6b-d5c5-438d-a549-13e9832d94b9",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/f65bb0ea-427a-4894-86c0-4629c86a0c28",
+    "href": "http://data.globalchange.gov/reference/0d705a6b-d5c5-438d-a549-13e9832d94b9.json",
+    "identifier": "0d705a6b-d5c5-438d-a549-13e9832d94b9",
+    "uri": "/reference/0d705a6b-d5c5-438d-a549-13e9832d94b9"
+}

@@ -1,0 +1,12 @@
+{
+    "description": "TRMM is a joint NASA/JAXA (formerly NASDA) mission within NASA's ESE (Earth Science Enterprise) program with a low-inclination (equatorial) orbit. NASA/GSFC provides the satellite, four passive sensors, and mission operations, NASDA the launch vehicle (H-II rocket) and the precipitation radar instrument. Each agency processes the data from its own instruments. TRMM is the first mission dedicated to observing and understanding tropical and subtropical rainfall, one of the most important, but least understood parameters in global change.",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/t/trmm",
+    "end_date": "2016-02-01T00:00:00",
+    "href": "http://data.globalchange.gov/platform/tropical-rainfall-measuring-mission.json",
+    "identifier": "tropical-rainfall-measuring-mission",
+    "name": "Tropical Rainfall Measuring Mission",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "1997-11-27T00:00:00",
+    "uri": "/platform/tropical-rainfall-measuring-mission",
+    "url": "http://trmm.gsfc.nasa.gov/, http://www.eorc.jaxa.jp/TRMM/"
+}

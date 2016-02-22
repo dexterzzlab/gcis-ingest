@@ -1,0 +1,86 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/1922.json",
+            "id": 1922,
+            "organization": {
+                "country_code": "US",
+                "identifier": "university-corporation-atmospheric-research",
+                "name": "University Corporation for Atmospheric Research",
+                "organization_type_identifier": "research",
+                "url": "http://www2.ucar.edu/"
+            },
+            "organization_uri": "/organization/university-corporation-atmospheric-research",
+            "person": {
+                "first_name": "Emily Therese",
+                "id": 1036,
+                "last_name": "Cloyd",
+                "middle_name": null,
+                "orcid": "0000-0003-1277-1702",
+                "url": "http://www.globalchange.gov/about/staff/emily-therese-cloyd.html"
+            },
+            "person_id": 1036,
+            "person_uri": "/person/1036",
+            "role_type_identifier": "contributing_author",
+            "uri": "/contributor/1922"
+        }
+    ],
+    "create_dt": "2013-07-17T14:45:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "This figure highlights the importance of incorporating both experts\u2019 assessment of the climate change risk and general public perceptions of this risk in developing risk management strategies for reducing the negative impacts of climate change. As indicated by the arrows, how the public perceives risk should be considered when experts communicate data on the risks associated with climate change so the public refines its understanding of these risks. As the arrows indicate, the general public\u2019s views must also be considered in addition to experts\u2019 judgments when developing risk management strategies that achieve decision-makers\u2019 desired objectives. Climate change policies that are implemented will, in turn, affect both expert assessment and public perception of this risk in the future, as indicated by the feedback loop from risk management to these two boxes.",
+            "chapter_identifier": "decision-support",
+            "create_dt": "2013-07-17T14:45:00",
+            "identifier": "linking-risk-assessment-and-risk-perception-with-risk-management-of-climate-change",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 4,
+            "report_identifier": "nca3",
+            "source_citation": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Linking Risk Assessment and Risk Perception with Risk Management of Climate Change",
+            "url": "http://nca2014.globalchange.gov/report/response-strategies/decision-support/graphics/linking-risk-assessment-and-risk-perception",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "50/6a/aa76bb7a4e875b58d635804371b4/ds_risk_flowchart_13672_v5.png",
+            "href": "http://data.globalchange.gov/assets/50/6a/aa76bb7a4e875b58d635804371b4/ds_risk_flowchart_13672_v5.png",
+            "identifier": "a51ce184-1aa2-4ec7-958d-1c91f3169915",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "3a02491a5985c4e01c05d245dea35c52a977fafc",
+            "size": 189426,
+            "thumbnail": "50/6a/aa76bb7a4e875b58d635804371b4/.thumb-a51ce184-1aa2-4ec7-958d-1c91f3169915.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/50/6a/aa76bb7a4e875b58d635804371b4/.thumb-a51ce184-1aa2-4ec7-958d-1c91f3169915.png",
+            "uri": "/file/a51ce184-1aa2-4ec7-958d-1c91f3169915",
+            "url": "/assets/50/6a/aa76bb7a4e875b58d635804371b4/ds_risk_flowchart_13672_v5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/99391ad1-643e-4e9b-834a-743ff4c58a70.json",
+    "identifier": "99391ad1-643e-4e9b-834a-743ff4c58a70",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Linking Risk Assessment and Risk Perception with Risk Management of Climate Change",
+    "uri": "/image/99391ad1-643e-4e9b-834a-743ff4c58a70",
+    "url": null,
+    "usage_limits": null
+}

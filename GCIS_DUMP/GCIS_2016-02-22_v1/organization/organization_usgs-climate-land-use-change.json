@@ -1,0 +1,9 @@
+{
+    "country_code": "US",
+    "href": "http://data.globalchange.gov/organization/usgs-climate-land-use-change.json",
+    "identifier": "usgs-climate-land-use-change",
+    "name": "USGS Climate and Land Use Change",
+    "organization_type_identifier": "federal",
+    "uri": "/organization/usgs-climate-land-use-change",
+    "url": "http://www.usgs.gov/climate_landuse/"
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Dolan, Garrett\rWallace, Davin J.",
+        "DOI": "10.1016/j.ocecoaman.2011.12.021",
+        "ISSN": "0964-5691",
+        "Journal": "Ocean & Coastal Management",
+        "Pages": "77-82",
+        "Title": "Policy and management hazards along the Upper Texas coast",
+        "Volume": "59",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "3768",
+        "_uuid": "49022072-bbaf-47d4-9f25-0858d902d875",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.ocecoaman.2011.12.021",
+    "href": "http://data.globalchange.gov/reference/49022072-bbaf-47d4-9f25-0858d902d875.json",
+    "identifier": "49022072-bbaf-47d4-9f25-0858d902d875",
+    "uri": "/reference/49022072-bbaf-47d4-9f25-0858d902d875"
+}

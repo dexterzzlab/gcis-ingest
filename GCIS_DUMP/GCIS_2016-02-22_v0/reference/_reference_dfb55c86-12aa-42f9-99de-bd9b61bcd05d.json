@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2012",
+        "Author": "FAA,",
+        "Publisher": "Federal Aviation Administration",
+        "Title": "Federal Aviation Administration: U.S. & Territories Airport Lookup",
+        "URL": "https://nfdc.faa.gov/nfdcApps/airportLookup/",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 5: Transportation FINAL\"]",
+        "_record_number": "3934",
+        "_uuid": "dfb55c86-12aa-42f9-99de-bd9b61bcd05d",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/dc710324-7799-40ae-98ad-d176d4e177c2",
+    "href": "http://data.globalchange.gov/reference/dfb55c86-12aa-42f9-99de-bd9b61bcd05d.json",
+    "identifier": "dfb55c86-12aa-42f9-99de-bd9b61bcd05d",
+    "uri": "/reference/dfb55c86-12aa-42f9-99de-bd9b61bcd05d"
+}

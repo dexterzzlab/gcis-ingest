@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        ".text_styles": "<record><field id=\"4\"><run start=\"0\" /><run face=\"italic\" start=\"8\" /><run start=\"30\" /></field></record>",
+        "Author": "Muller, R.N.\rBormann, F.H.",
+        "DOI": "10.1126/science.193.4258.1126",
+        "Issue": "4258",
+        "Journal": "Science",
+        "Pages": "1126-1128",
+        "Title": "Role of Erythronium americanum Ker. in energy flow and nutrient dynamics of a northern hardwood forest ecosystem",
+        "Volume": "193",
+        "Year": "1976",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "3623",
+        "_uuid": "07c900a3-621e-4cd9-a8c9-53a3419541c2",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.193.4258.1126",
+    "href": "http://data.globalchange.gov/reference/07c900a3-621e-4cd9-a8c9-53a3419541c2.json",
+    "identifier": "07c900a3-621e-4cd9-a8c9-53a3419541c2",
+    "uri": "/reference/07c900a3-621e-4cd9-a8c9-53a3419541c2"
+}

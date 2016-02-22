@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        ".reference_type": "32",
+        "Author": "NIDIS Act,",
+        "Publisher": "U.S. Government Printing Office",
+        "Title": "National Integrated Drought Information System Act of 2006. Public Law 109\u2013430. 109th Congress, December 20th, 2006",
+        "URL": "http://www.gpo.gov/fdsys/pkg/PLAW-109publ430/pdf/PLAW-109publ430.pdf",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4478",
+        "_uuid": "c12731bc-83c0-4b7d-ab40-1042db86cf0d",
+        "reftype": "Government Document"
+    },
+    "child_publication": "/report/nidis-act-2006",
+    "href": "http://data.globalchange.gov/reference/c12731bc-83c0-4b7d-ab40-1042db86cf0d.json",
+    "identifier": "c12731bc-83c0-4b7d-ab40-1042db86cf0d",
+    "uri": "/reference/c12731bc-83c0-4b7d-ab40-1042db86cf0d"
+}

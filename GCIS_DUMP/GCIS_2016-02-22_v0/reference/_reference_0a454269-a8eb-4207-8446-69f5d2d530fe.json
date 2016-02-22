@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        ".publisher": "Springer Netherlands",
+        ".reference_type": "0",
+        "Alternate Journal": "Wetlands",
+        "Author": "Bischof, Matthew M.\rHanson, Mark A.\rFulton, Mark R.\rKolka, Randy K.\rSebestyen, Stephen D.\rButler, Malcolm G.",
+        "DOI": "10.1007/s13157-012-0374-9",
+        "Date": "2013/04/01",
+        "ISSN": "0277-5212",
+        "Issue": "2",
+        "Journal": "Wetlands",
+        "Keywords": "Seasonal ponds\rInvertebrate communities\rHydrology\rGradient analysis",
+        "Language": "English",
+        "Pages": "245-256",
+        "Title": "Invertebrate community patterns in seasonal ponds in Minnesota, USA: Response to hydrologic and environmental variability",
+        "Volume": "33",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "4142",
+        "_uuid": "0a454269-a8eb-4207-8446-69f5d2d530fe",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s13157-012-0374-9",
+    "href": "http://data.globalchange.gov/reference/0a454269-a8eb-4207-8446-69f5d2d530fe.json",
+    "identifier": "0a454269-a8eb-4207-8446-69f5d2d530fe",
+    "uri": "/reference/0a454269-a8eb-4207-8446-69f5d2d530fe"
+}

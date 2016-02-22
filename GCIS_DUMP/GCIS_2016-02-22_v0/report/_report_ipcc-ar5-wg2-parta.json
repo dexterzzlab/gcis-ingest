@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/ipcc-ar5-wg2-parta.json",
+    "identifier": "ipcc-ar5-wg2-parta",
+    "in_library": null,
+    "publication_year": 2014,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part A: Global and Sectoral Aspects. Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change",
+    "topic": null,
+    "uri": "/report/ipcc-ar5-wg2-parta",
+    "url": "http://www.ipcc.ch/report/ar5/wg2/"
+}

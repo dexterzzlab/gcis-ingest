@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Morgan, Jack A.",
+        "DOI": "10.1126/science.1079808",
+        "Date": "December 6, 2002",
+        "Issue": "5600",
+        "Journal": "Science",
+        "Pages": "1903-1904",
+        "Title": "Looking beneath the surface",
+        "Volume": "298",
+        "Year": "2002",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "3948",
+        "_uuid": "af555ecd-5d3a-4e79-9d50-73749df9bec4",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1079808",
+    "href": "http://data.globalchange.gov/reference/af555ecd-5d3a-4e79-9d50-73749df9bec4.json",
+    "identifier": "af555ecd-5d3a-4e79-9d50-73749df9bec4",
+    "uri": "/reference/af555ecd-5d3a-4e79-9d50-73749df9bec4"
+}

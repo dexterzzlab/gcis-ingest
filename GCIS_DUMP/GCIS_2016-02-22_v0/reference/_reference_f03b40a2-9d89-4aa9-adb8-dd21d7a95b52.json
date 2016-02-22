@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "American Meteorological Society",
+        ".reference_type": "0",
+        "Access Date": "2013/07/24",
+        "Author": "Bell, G. D.\rE. S. Blake\rC. W. Landsea \rT. B. Kimberlain\rS. B. Goldenberg\rJ. Schemm\rR. J. Pasch",
+        "DOI": "10.1175/2012BAMSStateoftheClimate.1",
+        "Date": "2012/07/01",
+        "ISSN": "0003-0007",
+        "Issue": "7",
+        "Journal": "Bulletin of the American Meteorological Society",
+        "Pages": "S99-S105",
+        "Title": "[Tropical cyclones] Atlantic basin [in \"State of the Climate in 2011\"]",
+        "URL": "http://www1.ncdc.noaa.gov/pub/data/cmb/bams-sotc/climate-assessment-2011-lo-rez.pdf",
+        "Volume": "93",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"RF 2\"]",
+        "_record_number": "3761",
+        "_uuid": "f03b40a2-9d89-4aa9-adb8-dd21d7a95b52",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/report/bams-state-of-the-climate-2011",
+    "href": "http://data.globalchange.gov/reference/f03b40a2-9d89-4aa9-adb8-dd21d7a95b52.json",
+    "identifier": "f03b40a2-9d89-4aa9-adb8-dd21d7a95b52",
+    "uri": "/reference/f03b40a2-9d89-4aa9-adb8-dd21d7a95b52"
+}

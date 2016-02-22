@@ -1,0 +1,8 @@
+{
+    "description": "High resolution optical imager",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/high-resolution-ccd-camera.json",
+    "identifier": "high-resolution-ccd-camera",
+    "name": "High Resolution CCD Camera",
+    "uri": "/instrument/high-resolution-ccd-camera"
+}

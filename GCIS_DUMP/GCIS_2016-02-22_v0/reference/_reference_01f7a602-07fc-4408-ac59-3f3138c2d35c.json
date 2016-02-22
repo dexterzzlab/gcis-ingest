@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Deloria, V., Jr.\rDeMallie, R.J.",
+        "ISBN": "9780806131184",
+        "Number of Volumes": "2",
+        "Place Published": "Norman, OK",
+        "Publisher": "University of Oklahoma Press",
+        "Reviewer": "01f7a602-07fc-4408-ac59-3f3138c2d35c",
+        "Title": "Documents of American Indian Diplomacy: Treaties, Agreements, and Conventions, 1775-1979",
+        "Year": "1999",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\"]",
+        "_record_number": "3880",
+        "_uuid": "01f7a602-07fc-4408-ac59-3f3138c2d35c",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/05ba1b46-54f0-4baf-ba02-517dd58c6786",
+    "href": "http://data.globalchange.gov/reference/01f7a602-07fc-4408-ac59-3f3138c2d35c.json",
+    "identifier": "01f7a602-07fc-4408-ac59-3f3138c2d35c",
+    "uri": "/reference/01f7a602-07fc-4408-ac59-3f3138c2d35c"
+}

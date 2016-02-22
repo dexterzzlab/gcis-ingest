@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "CCSP,",
+        "Editor": "Allen, Craig D.\rBirkeland, Charles\rChapin, F.S., III\rGroffman, Peter M.\rGuntenspergen, Glenn R.\rKnapp, A.K.\rMcGuire, A.D.\rMulholland, P.J.\rPeters, D.P.C.\rRoby, D.D.\rSugihara, G.",
+        "Number of Pages": "157",
+        "Place Published": "Reston, VA",
+        "Publisher": "U.S. Geological Survey",
+        "Reviewer": "291c90fe-6766-40c2-9580-aea56178ecaa",
+        "Title": "Thresholds of Climate Change in Ecosystems. A Report by the U.S. Climate Change Science Program and the Subcommittee on Global Change Research. U.S. Climate Change Science Program Synthesis and Assessment Product 4.2",
+        "URL": "http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1009&context=usgspubs",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\",\"RG 9 Rural\",\"Ch. 14: Rural Communities FINAL\",\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "1666",
+        "_uuid": "291c90fe-6766-40c2-9580-aea56178ecaa",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/ccsp-sap-4_2-2009",
+    "href": "http://data.globalchange.gov/reference/291c90fe-6766-40c2-9580-aea56178ecaa.json",
+    "identifier": "291c90fe-6766-40c2-9580-aea56178ecaa",
+    "uri": "/reference/291c90fe-6766-40c2-9580-aea56178ecaa"
+}

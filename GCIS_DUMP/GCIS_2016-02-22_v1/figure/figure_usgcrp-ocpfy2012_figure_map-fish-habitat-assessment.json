@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Map showing initial assessment regions for the \u201cManaging the Nation\u2019s Fish Habitat at Multiple Spatial Scales in a Rapidly Changing Climate\u201d project, which uses downscaled climate and land use models composed of variables that influence fish habitat health, such as surface temperature and agricultural inputs. The map was created by Jodi Whittier at the University of Missouri.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "b0/e7/55ec4aaca24c4ae2da59a7c7810a/OCP_2012_Page_30_Image_0002.jpg",
+            "href": "http://data.globalchange.gov/assets/b0/e7/55ec4aaca24c4ae2da59a7c7810a/OCP_2012_Page_30_Image_0002.jpg",
+            "identifier": "b73b7c45-97e9-4c92-806b-eff21f4ebeee",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "537841d5d877f54a759232c179bd072435781e7d",
+            "size": 85386,
+            "thumbnail": "b0/e7/55ec4aaca24c4ae2da59a7c7810a/.thumb-b73b7c45-97e9-4c92-806b-eff21f4ebeee.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/b0/e7/55ec4aaca24c4ae2da59a7c7810a/.thumb-b73b7c45-97e9-4c92-806b-eff21f4ebeee.png",
+            "uri": "/file/b73b7c45-97e9-4c92-806b-eff21f4ebeee",
+            "url": "/assets/b0/e7/55ec4aaca24c4ae2da59a7c7810a/OCP_2012_Page_30_Image_0002.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2012/figure/map-fish-habitat-assessment.json",
+    "identifier": "map-fish-habitat-assessment",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2012",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Map for Fish Habitat Assessment",
+    "uri": "/report/usgcrp-ocpfy2012/figure/map-fish-habitat-assessment",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

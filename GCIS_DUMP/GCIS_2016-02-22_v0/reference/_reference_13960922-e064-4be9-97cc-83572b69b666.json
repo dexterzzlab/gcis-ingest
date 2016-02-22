@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Blake, Eric S.\rKimberlain, Todd B. \rBerg, Robert J. \rCangialosi, John P. \rBeven, John L., II ",
+        "Date": "February 12, 2013",
+        "Institution": "National Oceanic and Atmospheric Administration, National Hurricane Center ",
+        "Pages": "157",
+        "Title": "Tropical Cyclone Report: Hurricane Sandy. (AL182012) 22 \u2013 29 October 2012",
+        "URL": "http://www.nhc.noaa.gov/data/tcr/AL182012_Sandy.pdf",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\",\"Ch. 5: Transportation FINAL\",\"Ch. 11: Urban Systems FINAL\",\"RG 1 Northeast\"]",
+        "_record_number": "3937",
+        "_uuid": "13960922-e064-4be9-97cc-83572b69b666",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/nhc-al182012",
+    "href": "http://data.globalchange.gov/reference/13960922-e064-4be9-97cc-83572b69b666.json",
+    "identifier": "13960922-e064-4be9-97cc-83572b69b666",
+    "uri": "/reference/13960922-e064-4be9-97cc-83572b69b666"
+}

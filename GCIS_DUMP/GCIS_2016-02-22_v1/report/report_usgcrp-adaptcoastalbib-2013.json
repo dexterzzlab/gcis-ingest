@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/usgcrp-adaptcoastalbib-2013.json",
+    "identifier": "usgcrp-adaptcoastalbib-2013",
+    "in_library": 1,
+    "publication_year": 2013,
+    "report_type_identifier": "report",
+    "summary": "This annotated bibliography presents the results of the review of the relevant peer-reviewed literature and reports from Federal, state, and local governments. It includes journal articles and publicly available reports in addition to a number of guides, websites, tools, and other resources developed for program and project managers interested in planning and conducting evaluations.",
+    "title": "Resources for Evaluating and Monitoring Climate Change Adaptation Actions in Coastal Regions: An Annotated Bibliography",
+    "topic": "Coasts,Adaptation",
+    "uri": "/report/usgcrp-adaptcoastalbib-2013",
+    "url": null
+}

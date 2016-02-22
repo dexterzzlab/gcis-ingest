@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Klein, Eric\rBerg, Edward E.\rDial, Roman",
+        "DOI": "10.1139/x05-129",
+        "ISSN": "0045-5067",
+        "Issue": "8",
+        "Journal": "Canadian Journal of Forest Research",
+        "Keywords": "fire regime; forestry",
+        "Pages": "1931-1941",
+        "Title": "Wetland drying and succession across the Kenai Peninsula Lowlands, south-central Alaska",
+        "URL": "http://www.nrcresearchpress.com/doi/abs/10.1139/x05-129",
+        "Volume": "35",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "1802",
+        "_uuid": "ee2472a3-6b64-4c93-a86d-fa170f166664",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1139/x05-129",
+    "href": "http://data.globalchange.gov/reference/ee2472a3-6b64-4c93-a86d-fa170f166664.json",
+    "identifier": "ee2472a3-6b64-4c93-a86d-fa170f166664",
+    "uri": "/reference/ee2472a3-6b64-4c93-a86d-fa170f166664"
+}

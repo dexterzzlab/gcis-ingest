@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Hayes, D.J.\rTurner, D.P.\rStinson, G.\rMcGuire, A.D.\rWei, Y.\rWest, T.O.\rHeath, L.S.\rde Jong, B.\rMcConkey, B.G.\rBirdsey, R.A.\rJacobson, Andrew R.\rHuntzinger, Deborah N.\rPan, Yude\rPost, W. Mac\rCook, Robert B.",
+        "DOI": "10.1111/j.1365-2486.2011.02627.x",
+        "ISSN": "1365-2486",
+        "Issue": "4",
+        "Journal": "Global Change Biology",
+        "Pages": "1282-1299",
+        "Title": "Reconciling estimates of the contemporary North American carbon balance among terrestrial biosphere models, atmospheric inversions, and a new approach for estimating net ecosystem exchange from inventory-based data",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2486.2011.02627.x/pdf",
+        "Volume": "18",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 15: Biogeochemical FINAL\"]",
+        "_record_number": "1392",
+        "_uuid": "3f886db6-ca75-43db-988a-3727ebc687f4",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1365-2486.2011.02627.x",
+    "href": "http://data.globalchange.gov/reference/3f886db6-ca75-43db-988a-3727ebc687f4.json",
+    "identifier": "3f886db6-ca75-43db-988a-3727ebc687f4",
+    "uri": "/reference/3f886db6-ca75-43db-988a-3727ebc687f4"
+}

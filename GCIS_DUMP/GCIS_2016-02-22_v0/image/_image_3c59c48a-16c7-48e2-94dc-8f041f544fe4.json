@@ -1,0 +1,95 @@
+{
+    "attributes": "Precipitation, projections, seasonal, CMIP5, RCP8.5",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/3258.json",
+            "id": 3258,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Andrew",
+                "id": 1948,
+                "last_name": "Buddenberg",
+                "middle_name": null,
+                "orcid": "0000-0003-2047-6527",
+                "url": null
+            },
+            "person_id": 1948,
+            "person_uri": "/person/1948",
+            "role_type_identifier": "analyst",
+            "uri": "/contributor/3258"
+        }
+    ],
+    "create_dt": "2013-10-23T13:25:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Projected changes in wintertime precipitation at the end of this century (2071-2099) relative to the average for 1970-1999. The older generation of models (CMIP3) and emissions scenarios are on the left side; the new models (CMIP5) and scenarios are on the right side. Hatched areas indicate that the projected changes are significant and consistent among models. White areas indicate that the changes are not projected to be larger than could be expected from natural variability. In both sets of projections, the northern parts of the U.S. (and Alaska) become wetter. Increases in both the amount of precipitation change and the confidence in the projections go up as the projected temperature rises. In the farthest northern parts of the U.S., much of the additional winter precipitation will still fall as snow. This is not likely to be the case farther south. (Figure source: NOAA NCDC / CICS-NC).",
+            "chapter_identifier": "appendix-climate-science-supplement",
+            "create_dt": "2013-10-23T13:25:05",
+            "identifier": "projected-wintertime-precipitation-changes",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 21,
+            "report_identifier": "nca3",
+            "source_citation": "NOAA NCDC / CICS-NC",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Projected Wintertime Precipitation Changes",
+            "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/projected-wintertime-precipitation-changes",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "56/f0/a7052de81aa9356d2081ebbaf81a/rcp85_0.png",
+            "href": "http://data.globalchange.gov/assets/56/f0/a7052de81aa9356d2081ebbaf81a/rcp85_0.png",
+            "identifier": "6be25a26-845a-4ef6-8a9b-b2beb0ec78d7",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "6e95a6ddfcde75da5986ab2fc699ca58d02dda6b",
+            "size": 269665,
+            "thumbnail": "56/f0/a7052de81aa9356d2081ebbaf81a/.thumb-6be25a26-845a-4ef6-8a9b-b2beb0ec78d7.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/56/f0/a7052de81aa9356d2081ebbaf81a/.thumb-6be25a26-845a-4ef6-8a9b-b2beb0ec78d7.png",
+            "uri": "/file/6be25a26-845a-4ef6-8a9b-b2beb0ec78d7",
+            "url": "/assets/56/f0/a7052de81aa9356d2081ebbaf81a/rcp85_0.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/3c59c48a-16c7-48e2-94dc-8f041f544fe4.json",
+    "identifier": "3c59c48a-16c7-48e2-94dc-8f041f544fe4",
+    "lat_max": "82.31",
+    "lat_min": "18.14",
+    "lon_max": "-53.44",
+    "lon_min": "-165.94",
+    "parents": [
+        {
+            "activity_uri": "/activity/3c59c48a-nca3-cmip5-r1-process",
+            "label": "dataset nca3-cmip5-r1",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-cmip5-r1"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2099-12-31T23:59:59",
+    "time_start": "1970-01-01T00:00:00",
+    "title": "Projected Wintertime Precipitation Changes: RCP8.5",
+    "uri": "/image/3c59c48a-16c7-48e2-94dc-8f041f544fe4",
+    "url": null,
+    "usage_limits": null
+}

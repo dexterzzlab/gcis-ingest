@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Weller, G.",
+        "Book Title": "Arctic Climate Impact Assessment",
+        "ISBN": "978-0-521- 86509 - 8",
+        "Keywords": "Human health",
+        "Pages": "989-1020",
+        "Place Published": "Cambridge, UK",
+        "Publisher": "Cambridge University Press",
+        "Reviewer": "0465e95a-9c22-441f-b35a-43066640746f",
+        "Title": "Summary and Synthesis of the ACIA",
+        "URL": "http://www.amap.no/documents/doc/arctic-arctic-climate-impact-assessment/796",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "3386",
+        "_uuid": "0465e95a-9c22-441f-b35a-43066640746f",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/acia-2005",
+    "href": "http://data.globalchange.gov/reference/0465e95a-9c22-441f-b35a-43066640746f.json",
+    "identifier": "0465e95a-9c22-441f-b35a-43066640746f",
+    "uri": "/reference/0465e95a-9c22-441f-b35a-43066640746f"
+}

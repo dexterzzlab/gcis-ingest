@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Mailhot, A.\rDuchesne, S.",
+        "DOI": "10.1061/(ASCE)WR.1943-5452.0000023",
+        "Issue": "2",
+        "Journal": "Journal of Water Resources Planning and Management",
+        "Pages": "201-208",
+        "Title": "Design criteria of urban drainage infrastructures under climate change",
+        "Volume": "136",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "1857",
+        "_uuid": "1643c284-b178-4630-8e13-3f34fb99b800",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1061/(ASCE)WR.1943-5452.0000023",
+    "href": "http://data.globalchange.gov/reference/1643c284-b178-4630-8e13-3f34fb99b800.json",
+    "identifier": "1643c284-b178-4630-8e13-3f34fb99b800",
+    "uri": "/reference/1643c284-b178-4630-8e13-3f34fb99b800"
+}

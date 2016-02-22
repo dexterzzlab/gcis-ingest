@@ -1,0 +1,96 @@
+{
+    "attributes": null,
+    "caption": "The area of the western U.S. in moderately to extremely dry conditions during summer (June-July-August) varies greatly from year to year but shows a long-term increasing trend from 1900 to 2012. (Data from NOAA NCDC State of the Climate Drought analysis).",
+    "chapter": {
+        "doi": "10.7930/J0KS6PHH",
+        "identifier": "appendix-climate-science-supplement",
+        "number": 33,
+        "report_identifier": "nca3",
+        "sort_key": 330,
+        "title": "Appendix 3: Climate Science Supplement",
+        "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement"
+    },
+    "chapter_identifier": "appendix-climate-science-supplement",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/3758.json",
+            "id": 3758,
+            "organization": {
+                "country_code": "US",
+                "identifier": "texas-tech-university",
+                "name": "Texas Tech University",
+                "organization_type_identifier": "academic",
+                "url": "http://www.ttu.edu"
+            },
+            "organization_uri": "/organization/texas-tech-university",
+            "person": {
+                "first_name": "Katharine",
+                "id": 1024,
+                "last_name": "Hayhoe",
+                "middle_name": null,
+                "orcid": "0000-0003-3625-1402",
+                "url": "http://www.katharinehayhoe.com/"
+            },
+            "person_id": 1024,
+            "person_uri": "/person/1024",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/3758"
+        }
+    ],
+    "create_dt": "2013-08-16T14:47:00",
+    "files": [
+        {
+            "file": "ab/f0/eaba6088aded831cb5a40ec4ba6b/APP_summer_drought_in_west_V4.png",
+            "href": "http://data.globalchange.gov/assets/ab/f0/eaba6088aded831cb5a40ec4ba6b/APP_summer_drought_in_west_V4.png",
+            "identifier": "9968e543-b7e7-42f2-88fa-724a0083530e",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "339fe199ea74eedcea3bf352c08f995d4c2a8155",
+            "size": 41300,
+            "thumbnail": "ab/f0/eaba6088aded831cb5a40ec4ba6b/.thumb-9968e543-b7e7-42f2-88fa-724a0083530e.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/ab/f0/eaba6088aded831cb5a40ec4ba6b/.thumb-9968e543-b7e7-42f2-88fa-724a0083530e.png",
+            "uri": "/file/9968e543-b7e7-42f2-88fa-724a0083530e",
+            "url": "/assets/ab/f0/eaba6088aded831cb5a40ec4ba6b/APP_summer_drought_in_west_V4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-climate-science-supplement/figure/percent-of-west-in-summer-drought.json",
+    "identifier": "percent-of-west-in-summer-drought",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-08-16T14:47:00",
+            "description": null,
+            "identifier": "5f5cd75f-4efb-4162-ae0f-b456269f08c3",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2012-12-31T23:59:59",
+            "time_start": "1900-01-01T00:00:00",
+            "title": "Percent of West in Summer Drought",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 33,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": "NOAA NCDC State of the Climate Drought analysis",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Percent of West in Summer Drought",
+    "uri": "/report/nca3/chapter/appendix-climate-science-supplement/figure/percent-of-west-in-summer-drought",
+    "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/percent-west-summer-drought",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

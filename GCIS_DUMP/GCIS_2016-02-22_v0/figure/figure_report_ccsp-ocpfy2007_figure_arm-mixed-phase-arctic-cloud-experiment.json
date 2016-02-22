@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Temporal and vertical distribution of observed and simulated clouds from the European Centre for Medium-Range Weather Forecasts (ECMWF), CAM3, and AM2 at Barrow, Alaska, during the M-PACE periods. Credit: S. Xie, Lawrence Livermore National Laboratory; S.A. Klein, Lawrence Livermore National Laboratory; J.J. Yio, Lawrence Livermore National Laboratory; A.C.M. Beljarrs, ECMWF; C.N. Long, Pacific Northwest National Laboratory; and M. Zhang, State University of New York, Stony Brook (reproduced from Journal of Geophysical Research with permission from the American Geophysical Union).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "dc/a5/2272f80170a3b62ca1b3b4bad80c/our_changing_planet_2007_47_20090708_1897095975.jpg",
+            "href": "http://data.globalchange.gov/assets/dc/a5/2272f80170a3b62ca1b3b4bad80c/our_changing_planet_2007_47_20090708_1897095975.jpg",
+            "identifier": "d1f892b6-bc10-487d-9615-cc3605092554",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "d3df537e8370c9a7c3b33128b25e86013e5da100",
+            "size": 55824,
+            "thumbnail": "dc/a5/2272f80170a3b62ca1b3b4bad80c/.thumb-d1f892b6-bc10-487d-9615-cc3605092554.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/dc/a5/2272f80170a3b62ca1b3b4bad80c/.thumb-d1f892b6-bc10-487d-9615-cc3605092554.png",
+            "uri": "/file/d1f892b6-bc10-487d-9615-cc3605092554",
+            "url": "/assets/dc/a5/2272f80170a3b62ca1b3b4bad80c/our_changing_planet_2007_47_20090708_1897095975.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2007/figure/arm-mixed-phase-arctic-cloud-experiment.json",
+    "identifier": "arm-mixed-phase-arctic-cloud-experiment",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2007",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "ARM Mixed-Phase Arctic Cloud Experiment",
+    "uri": "/report/ccsp-ocpfy2007/figure/arm-mixed-phase-arctic-cloud-experiment",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

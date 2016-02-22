@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "McKenzie, D.\rPeterson, D.L.\rLittell, J.J.",
+        "Book Title": "Developments in Environmental Sciences",
+        "DOI": "10.1016/S1474-8177(08)00015-6",
+        "Editor": "Bytnerowicz, Andrzej\rArbaugh, Michael J.\rRiebau, Allen R.\rAndersen, Christian",
+        "ISBN": "978-0-08-055609-3",
+        "Pages": "319-337",
+        "Publisher": "Elsevier, Ltd.",
+        "Reviewer": "6a236496-3436-481f-a3a4-ce35b52c0f0b",
+        "Title": "Ch. 15: Global warming and stress complexes in forests of western North America",
+        "URL": "http://www.fs.fed.us/psw/publications/4451/psw_2009_4451-001_319-338.pdf",
+        "Volume": "8",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "1953",
+        "_uuid": "6a236496-3436-481f-a3a4-ce35b52c0f0b",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/book/90797532-c388-4ee0-8635-ea25b3261754",
+    "href": "http://data.globalchange.gov/reference/6a236496-3436-481f-a3a4-ce35b52c0f0b.json",
+    "identifier": "6a236496-3436-481f-a3a4-ce35b52c0f0b",
+    "uri": "/reference/6a236496-3436-481f-a3a4-ce35b52c0f0b"
+}

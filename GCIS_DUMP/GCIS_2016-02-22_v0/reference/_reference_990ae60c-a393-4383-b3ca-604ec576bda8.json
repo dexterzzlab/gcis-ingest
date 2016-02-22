@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Daigle, J.J.\rPutnam, D.",
+        "Book Title": "Maine\u2019s Climate Future: An Initial Assessment",
+        "Editor": "Jacobson, G.L.\rFernandez, I.J.\rMayewski, P.A.\rSchmitt, C.V.",
+        "Pages": "37-40",
+        "Place Published": "Orono, ME",
+        "Publisher": "University of Maine",
+        "Reviewer": "990ae60c-a393-4383-b3ca-604ec576bda8",
+        "Title": "The meaning of a changed environment: Initial assessment of climate change impacts in Maine \u2013 indigenous peoples",
+        "URL": "http://climatechange.umaine.edu/files/Maines_Climate_Future.pdf",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\"]",
+        "_record_number": "3894",
+        "_uuid": "990ae60c-a393-4383-b3ca-604ec576bda8",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/umaine-mainesclimatefuture-2009",
+    "href": "http://data.globalchange.gov/reference/990ae60c-a393-4383-b3ca-604ec576bda8.json",
+    "identifier": "990ae60c-a393-4383-b3ca-604ec576bda8",
+    "uri": "/reference/990ae60c-a393-4383-b3ca-604ec576bda8"
+}

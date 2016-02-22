@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Dengue along the US-Mexico border. Dengue, a mosquito-borne viral disease, was once common in Texas (where there were an estimated 500,000 cases in 1922), and the mosquito that transmits it remians abundant. The striking contrast in the incidence of dengue in Texas versus three Mexican states that border Texas (64 caes vs. 62,514) in the period from 1980-1999 provides a graphic illustration of the importance of factors other than temperature, such as use of air conditioning and window screens, in the transmission of vector-borne diseases. (National Institute of Heatlh, Mexico; Texas Department of Health; US Public Health Service. Unpublished data.)",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "37/35/3c9f132edce4a9332564fcc9728a/health_section_of_climate_change_impacts_2001_8_20090708_1559906036.jpg",
+            "href": "http://data.globalchange.gov/assets/37/35/3c9f132edce4a9332564fcc9728a/health_section_of_climate_change_impacts_2001_8_20090708_1559906036.jpg",
+            "identifier": "6430d3c8-27dc-46c7-877f-8aaf82b16b0d",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "87d72626078812df1ec9d032a94af3a03c75c296",
+            "size": 58522,
+            "thumbnail": "37/35/3c9f132edce4a9332564fcc9728a/.thumb-6430d3c8-27dc-46c7-877f-8aaf82b16b0d.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/37/35/3c9f132edce4a9332564fcc9728a/.thumb-6430d3c8-27dc-46c7-877f-8aaf82b16b0d.png",
+            "uri": "/file/6430d3c8-27dc-46c7-877f-8aaf82b16b0d",
+            "url": "/assets/37/35/3c9f132edce4a9332564fcc9728a/health_section_of_climate_change_impacts_2001_8_20090708_1559906036.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca1/figure/cases-dengue-1980-1999.json",
+    "identifier": "cases-dengue-1980-1999",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca1",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Reported Cases of Dengue 1980-1999",
+    "uri": "/report/nca1/figure/cases-dengue-1980-1999",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

@@ -1,0 +1,93 @@
+{
+    "attributes": null,
+    "caption": "Areas of Seattle projected by Seattle Public Utilities to be below sea level during high tide\r\n    (Mean Higher High Water) and therefore at risk of flooding or inundation are shaded in blue under three levels of sea level\r\n    rise,<tbib>6ed217d6-4e42-49bd-ba0a-80e8df462b45</tbib> assuming no adaptation. (High [50 inches] and\r\n    medium [13 inches] levels are within the range projected for the Northwest by 2100; the highest level [88 inches] includes the\r\n    compounding effect of storm surge, derived from the highest observed historical tide in\r\n    Seattle<tbib>fd73d381-d3df-4079-b48d-20027a7ba63b</tbib>). Unconnected inland areas shown to be below\r\n    sea level may not be inundated, but could experience problems due to areas of standing water caused by a rise in the water\r\n    table and drainage pipes backed up with seawater. (Figure source: Seattle Public\r\n    Utilities<tbib>7fdde2b7-0a3a-4f98-8434-c4040a41f3ac</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J04Q7RWX",
+        "identifier": "northwest",
+        "number": 21,
+        "report_identifier": "nca3",
+        "sort_key": 210,
+        "title": "Northwest",
+        "url": "http://nca2014.globalchange.gov/report/regions/northwest"
+    },
+    "chapter_identifier": "northwest",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-18T11:42:00",
+    "files": [
+        {
+            "file": "2c/4f/27e943b81e1eb876b728d1bb4011/NW_sea_level_rise_V3.png",
+            "href": "http://data.globalchange.gov/assets/2c/4f/27e943b81e1eb876b728d1bb4011/NW_sea_level_rise_V3.png",
+            "identifier": "383737e4-cfe9-4040-a75a-468c56161dba",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "1ae215e344d311df272c8641f55782901a3babc0",
+            "size": 1225119,
+            "thumbnail": "2c/4f/27e943b81e1eb876b728d1bb4011/.thumb-383737e4-cfe9-4040-a75a-468c56161dba.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/2c/4f/27e943b81e1eb876b728d1bb4011/.thumb-383737e4-cfe9-4040-a75a-468c56161dba.png",
+            "uri": "/file/383737e4-cfe9-4040-a75a-468c56161dba",
+            "url": "/assets/2c/4f/27e943b81e1eb876b728d1bb4011/NW_sea_level_rise_V3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/northwest/figure/rising-sea-levels-and-changing-flood-risks-in-seattle.json",
+    "identifier": "rising-sea-levels-and-changing-flood-risks-in-seattle",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-11-18T11:42:00",
+            "description": null,
+            "identifier": "2f478000-16d6-4b67-8008-830b04f10fbc",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Rising Sea Levels and Changing Flood Risks in Seattle",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 4,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Seattle Public Utilities and Sea Level Rise",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/seattlepubutilities-sea-level-rise-2012"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/6ed217d6-4e42-49bd-ba0a-80e8df462b45.json",
+            "uri": "/reference/6ed217d6-4e42-49bd-ba0a-80e8df462b45"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/7fdde2b7-0a3a-4f98-8434-c4040a41f3ac.json",
+            "uri": "/reference/7fdde2b7-0a3a-4f98-8434-c4040a41f3ac"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/fd73d381-d3df-4079-b48d-20027a7ba63b.json",
+            "uri": "/reference/fd73d381-d3df-4079-b48d-20027a7ba63b"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "Seattle Public Utilities<tbib>7fdde2b7-0a3a-4f98-8434-c4040a41f3ac</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Rising Sea Levels and Changing Flood Risks in Seattle",
+    "uri": "/report/nca3/chapter/northwest/figure/rising-sea-levels-and-changing-flood-risks-in-seattle",
+    "url": "http://nca2014.globalchange.gov/report/regions/northwest/graphics/rising-sea-levels-and-changing-flood-risks-seattle",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

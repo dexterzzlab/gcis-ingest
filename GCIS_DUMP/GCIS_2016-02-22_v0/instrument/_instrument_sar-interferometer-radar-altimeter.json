@@ -1,0 +1,8 @@
+{
+    "description": "Radar altimeter",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/sar-interferometer-radar-altimeter.json",
+    "identifier": "sar-interferometer-radar-altimeter",
+    "name": "SAR Interferometer Radar Altimeter",
+    "uri": "/instrument/sar-interferometer-radar-altimeter"
+}

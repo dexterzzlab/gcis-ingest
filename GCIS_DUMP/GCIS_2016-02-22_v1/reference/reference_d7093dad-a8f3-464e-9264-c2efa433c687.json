@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Favis-Mortlock, D.T.\rSavabi, M.R.\rAnderson, M.G.\rBrooks, SM",
+        "Book Title": "Advances in hillslope processes: volume 1.",
+        "Editor": "Anderson, M.G.\rBrooks, S.M.",
+        "ISBN": "0471967742",
+        "Pages": "529-560",
+        "Reviewer": "d7093dad-a8f3-464e-9264-c2efa433c687",
+        "Title": "Shifts in rates and spatial distributions of soil erosion and deposition under climate change",
+        "Year": "1996",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "1530",
+        "_uuid": "d7093dad-a8f3-464e-9264-c2efa433c687",
+        "reftype": "Book Section"
+    },
+    "child_publication": null,
+    "href": "http://data.globalchange.gov/reference/d7093dad-a8f3-464e-9264-c2efa433c687.json",
+    "identifier": "d7093dad-a8f3-464e-9264-c2efa433c687",
+    "uri": "/reference/d7093dad-a8f3-464e-9264-c2efa433c687"
+}

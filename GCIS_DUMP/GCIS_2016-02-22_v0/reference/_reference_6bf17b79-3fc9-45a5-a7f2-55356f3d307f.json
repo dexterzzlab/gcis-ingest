@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "3",
+        "Author": "Levin, S.A.\rClark, W.C.",
+        "Conference Location": "Airlie Center, Warrenton, Virginia ",
+        "Conference Name": "Toward a Science of Sustainability",
+        "Date": "November 29 -December 2, 2009",
+        "Publisher": "Center for International Development Working Papers",
+        "Title": "Toward a science of sustainability: Report from Toward a Science of Sustainability Conference ",
+        "URL": "http://www.nsf.gov/mps/dms/documents/SustainabilityWorkshop2009Report.pdf",
+        "Year of Conference": "2010",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "1678",
+        "_uuid": "6bf17b79-3fc9-45a5-a7f2-55356f3d307f",
+        "reftype": "Conference Proceedings"
+    },
+    "child_publication": "/report/nsf-sustainabilityreport-2010",
+    "href": "http://data.globalchange.gov/reference/6bf17b79-3fc9-45a5-a7f2-55356f3d307f.json",
+    "identifier": "6bf17b79-3fc9-45a5-a7f2-55356f3d307f",
+    "uri": "/reference/6bf17b79-3fc9-45a5-a7f2-55356f3d307f"
+}

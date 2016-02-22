@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Over the contiguous United States, precipitation, temperature, streamflow, and heavy and very heavy precipitation have increased during the twentieth century. In the east, high streamflow has increased as well. Soil wetness (as described by the Keetch\u2013Byram Drought index) has increased over the northern and eastern regions of the United States, but in the southwestern quadrant of the country soil dryness has increased, making the region more susceptible to forest fires. In addition to these changes during the past 50 yr, increases in evaporation, near-surface humidity, total cloud cover, and low stratiform and cumulonimbus clouds have been observed. Snow cover has diminished earlier in the year in the west, and a decrease in near-surface wind speed has also occurred in many areas. Much of the increase in heavy and very heavy precipitation has occurred during the past three decades.",
+        "Author": "Groisman, P.Y.\rR.W. Knight\rT.R. Karl\rD.R. Easterling\rB. Sun\rJ.H. Lawrimore",
+        "DOI": "10.1175/1525-7541(2004)005<0064:CCOTHC>2.0.CO;2",
+        "ISSN": "1525-755X",
+        "Issue": "1",
+        "Journal": "Journal of Hydrometeorology",
+        "Pages": "64-85",
+        "Title": "Contemporary changes of the hydrological cycle over the contiguous United States: Trends derived from in situ observations",
+        "URL": "http://journals.ametsoc.org/doi/abs/10.1175/1525-7541(2004)005%3C0064:CCOTHC%3E2.0.CO;2",
+        "Volume": "5",
+        "Year": "2004",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\",\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "453",
+        "_uuid": "dd26dcd2-9abb-4533-9763-d56b2e1f0a1a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/1525-7541(2004)005%3C0064:CCOTHC%3E2.0.CO;2",
+    "href": "http://data.globalchange.gov/reference/dd26dcd2-9abb-4533-9763-d56b2e1f0a1a.json",
+    "identifier": "dd26dcd2-9abb-4533-9763-d56b2e1f0a1a",
+    "uri": "/reference/dd26dcd2-9abb-4533-9763-d56b2e1f0a1a"
+}

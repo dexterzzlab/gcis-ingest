@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/ipcc-ar5-wg1.json",
+    "identifier": "ipcc-ar5-wg1",
+    "in_library": null,
+    "publication_year": 2013,
+    "report_type_identifier": "report",
+    "summary": "The Working Group I contribution to the IPCC Fifth Assessment Report (WGI AR5) provides a comprehensive assessment of the physical science basis of climate change, drawing on the scientific literature accepted for publication up to 15 March 2013. The WGI AR5 Summary for Policymakers was approved at the Twelfth Session of Working Group I, held in Stockholm, Sweden, from 23 to 26 September, 2013. The Session also accepted the underlying scientific and technical assessment.",
+    "title": "Climate Change 2013: The Physical Science Basis",
+    "topic": null,
+    "uri": "/report/ipcc-ar5-wg1",
+    "url": "http://www.ipcc.ch/report/ar5/wg1/"
+}

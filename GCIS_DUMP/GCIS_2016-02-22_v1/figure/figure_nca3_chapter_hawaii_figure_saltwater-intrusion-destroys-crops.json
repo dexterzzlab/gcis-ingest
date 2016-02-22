@@ -1,0 +1,80 @@
+{
+    "attributes": null,
+    "caption": "Taro crops destroyed by encroaching saltwater at Lukunoch Atoll, Chuuk State, FSM. Giant swamp taro is a staple crop in Micronesia that requires a two- to three-year growing period from initial planting to harvest. After a saltwater inundation from a storm surge or very high tide, it may take two years of normal rainfall to flush brackish water from a taro patch, resulting in a five-year gap before the next harvest if no further saltwater intrusion takes place. (Photo credit: John Quidachay, USDA Forest Service).",
+    "chapter": {
+        "doi": "10.7930/J0W66HPM",
+        "identifier": "hawaii",
+        "number": 23,
+        "report_identifier": "nca3",
+        "sort_key": 230,
+        "title": "Hawai'i and U.S. Affiliated Pacific Islands",
+        "url": "http://nca2014.globalchange.gov/report/regions/hawaii-and-pacific-islands"
+    },
+    "chapter_identifier": "hawaii",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-12T13:52:00",
+    "files": [
+        {
+            "file": "d8/09/7fc9906d63bd4954e3d2114052e4/ch23_html_m50dfc831.jpg",
+            "href": "http://data.globalchange.gov/assets/d8/09/7fc9906d63bd4954e3d2114052e4/ch23_html_m50dfc831.jpg",
+            "identifier": "11ccb3c8-c3e1-4bbb-bdeb-01563a0f3fe7",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "c1c2a0708f93c49dea3376b3e394450e4bb0fdda",
+            "size": 236612,
+            "thumbnail": "d8/09/7fc9906d63bd4954e3d2114052e4/.thumb-11ccb3c8-c3e1-4bbb-bdeb-01563a0f3fe7.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/d8/09/7fc9906d63bd4954e3d2114052e4/.thumb-11ccb3c8-c3e1-4bbb-bdeb-01563a0f3fe7.png",
+            "uri": "/file/11ccb3c8-c3e1-4bbb-bdeb-01563a0f3fe7",
+            "url": "/assets/d8/09/7fc9906d63bd4954e3d2114052e4/ch23_html_m50dfc831.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/hawaii/figure/saltwater-intrusion-destroys-crops.json",
+    "identifier": "saltwater-intrusion-destroys-crops",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": null,
+            "description": null,
+            "identifier": "24d79dcb-43ca-465b-a21b-097c1ecde021",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Saltwater Intrusion Destroys Crops",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 6,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Climate Change and Pacific  Islands: Indicators and Impacts",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/pirca-climate-change-and-pacific-islands"
+        }
+    ],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Saltwater Intrusion Destroys Crops",
+    "uri": "/report/nca3/chapter/hawaii/figure/saltwater-intrusion-destroys-crops",
+    "url": "http://nca2014.globalchange.gov/report/regions/hawaii-and-pacific-islands/graphics/saltwater-intrusion-destroys-crops",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

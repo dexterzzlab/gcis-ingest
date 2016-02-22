@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/2014car.json",
+    "identifier": "2014car",
+    "in_library": 0,
+    "publication_year": 2014,
+    "report_type_identifier": "report",
+    "summary": "The 2014 U.S. Climate Action Report fulfills a commitment under the United Nations Framework Convention on Climate Change (UNFCCC) to publish every four years a National Communication that provides a comprehensive report on actions taken to combat climate change and thereby meet the objectives and provisions of the UNFCCC.",
+    "title": "2014 Climate Action Report (CAR)",
+    "topic": "Mitigation,Adaptation,International,Energy,Observing Systems,Carbon Cycle",
+    "uri": "/report/2014car",
+    "url": "http://www.state.gov/documents/organization/219038.pdf"
+}

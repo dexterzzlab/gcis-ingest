@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Moser, S.C.\rEkstrom, J.A.",
+        "DOI": "10.1007/s13412-011-0012-5",
+        "ISSN": "2190-6483",
+        "Issue": "1",
+        "Journal": "Journal of Environmental Studies and Sciences",
+        "Pages": "63-74",
+        "Title": "Taking ownership of climate change: Participatory adaptation planning in two local case studies from California",
+        "URL": "http://link.springer.com/content/pdf/10.1007%2Fs13412-011-0012-5",
+        "Volume": "1",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 11: Urban Systems FINAL\"]",
+        "_record_number": "2099",
+        "_uuid": "027aad4c-611b-48e1-89d2-da0769617f1a",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s13412-011-0012-5",
+    "href": "http://data.globalchange.gov/reference/027aad4c-611b-48e1-89d2-da0769617f1a.json",
+    "identifier": "027aad4c-611b-48e1-89d2-da0769617f1a",
+    "uri": "/reference/027aad4c-611b-48e1-89d2-da0769617f1a"
+}

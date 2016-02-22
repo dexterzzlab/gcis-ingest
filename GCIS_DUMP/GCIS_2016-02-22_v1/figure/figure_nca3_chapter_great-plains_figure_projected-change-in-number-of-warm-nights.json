@@ -1,0 +1,130 @@
+{
+    "attributes": null,
+    "caption": "The number of nights with the warmest temperatures is projected to increase dramatically. The historical (1971-2000) distribution of temperature for the warmest 2% of nights (Top: about seven days each year) echoes the distinct north-south gradient in average temperatures. By mid-century (2041-2070), the projected change in number of nights exceeding those warmest temperatures is greatest in the south for both the lower emissions scenario (B1) and for the higher emissions scenario (A2). (Figure source: NOAA NCDC / CICS-NC).",
+    "chapter": {
+        "doi": "10.7930/J0D798BC",
+        "identifier": "great-plains",
+        "number": 19,
+        "report_identifier": "nca3",
+        "sort_key": 190,
+        "title": "Great Plains",
+        "url": "http://nca2014.globalchange.gov/report/regions/great-plains"
+    },
+    "chapter_identifier": "great-plains",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2522.json",
+            "id": 2522,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Kenneth",
+                "id": 1025,
+                "last_name": "Kunkel",
+                "middle_name": null,
+                "orcid": "0000-0001-6667-7047",
+                "url": "http://cicsnc.org/people/kenneth-kunkel/"
+            },
+            "person_id": 1025,
+            "person_uri": "/person/1025",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2522"
+        }
+    ],
+    "create_dt": "2013-11-12T10:43:08",
+    "files": [
+        {
+            "file": "a7/44/cf21741c75ffb2430a5b6a35d962/GP_warm_nights_projected_V4.png",
+            "href": "http://data.globalchange.gov/assets/a7/44/cf21741c75ffb2430a5b6a35d962/GP_warm_nights_projected_V4.png",
+            "identifier": "cb2749e0-9b1e-4427-9c5a-e4ecac94f34c",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "7cc99c0e160e08aed9c572336dd705853fb83626",
+            "size": 319549,
+            "thumbnail": "a7/44/cf21741c75ffb2430a5b6a35d962/.thumb-cb2749e0-9b1e-4427-9c5a-e4ecac94f34c.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/a7/44/cf21741c75ffb2430a5b6a35d962/.thumb-cb2749e0-9b1e-4427-9c5a-e4ecac94f34c.png",
+            "uri": "/file/cb2749e0-9b1e-4427-9c5a-e4ecac94f34c",
+            "url": "/assets/a7/44/cf21741c75ffb2430a5b6a35d962/GP_warm_nights_projected_V4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/great-plains/figure/projected-change-in-number-of-warm-nights.json",
+    "identifier": "projected-change-in-number-of-warm-nights",
+    "images": [
+        {
+            "attributes": "Great Plains, temperature, observed",
+            "create_dt": "2013-11-13T11:47:00",
+            "description": null,
+            "identifier": "063fd83f-f5ad-4e74-8315-506eeaa202ba",
+            "lat_max": "48.94",
+            "lat_min": "25.94",
+            "lon_max": "-116.06",
+            "lon_min": "-93.56",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2000-12-31T23:59:59",
+            "time_start": "1971-01-01T00:00:00",
+            "title": "Projected Change in Number of Warm Nights: Historical Climate",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": "Great Plains, temperature, projected",
+            "create_dt": "2013-08-01T09:26:00",
+            "description": null,
+            "identifier": "0de8b1ee-0f0f-421e-97ce-27230eef2cc1",
+            "lat_max": "48.94",
+            "lat_min": "25.94",
+            "lon_max": "-116.06",
+            "lon_min": "-93.56",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2070-12-31T23:59:59",
+            "time_start": "1971-01-01T00:00:00",
+            "title": "Projected Change in Number of Warm Nights: Higher Emissions (A2)",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": "Great Plains, temperature, projected",
+            "create_dt": "2013-08-01T09:26:00",
+            "description": null,
+            "identifier": "975d7ccf-1a6e-4d79-85fb-cd8806767f68",
+            "lat_max": "48.94",
+            "lat_min": "25.94",
+            "lon_max": "-116.06",
+            "lon_min": "-93.56",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2070-12-31T23:59:59",
+            "time_start": "1971-01-01T00:00:00",
+            "title": "Projected Change in Number of Warm Nights: Lower Emissions (B1)",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 3,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": "NOAA NCDC / CICS-NC",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Projected Change in Number of Warm Nights",
+    "uri": "/report/nca3/chapter/great-plains/figure/projected-change-in-number-of-warm-nights",
+    "url": "http://nca2014.globalchange.gov/report/regions/great-plains/graphics/projected-change-number-warm-nights",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

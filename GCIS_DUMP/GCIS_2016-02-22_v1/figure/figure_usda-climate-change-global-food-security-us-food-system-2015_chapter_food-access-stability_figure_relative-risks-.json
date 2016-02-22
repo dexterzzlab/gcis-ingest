@@ -1,0 +1,33 @@
+{
+    "attributes": null,
+    "caption": null,
+    "chapter": {
+        "doi": null,
+        "identifier": "food-access-stability",
+        "number": 6,
+        "report_identifier": "usda-climate-change-global-food-security-us-food-system-2015",
+        "sort_key": 60,
+        "title": "Food Access and Stability",
+        "url": null
+    },
+    "chapter_identifier": "food-access-stability",
+    "cited_by": [],
+    "create_dt": null,
+    "href": "http://data.globalchange.gov/report/usda-climate-change-global-food-security-us-food-system-2015/chapter/food-access-stability/figure/relative-risks-food-access-different-ssps-6.json",
+    "identifier": "relative-risks-food-access-different-ssps-6",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 33,
+    "report_identifier": "usda-climate-change-global-food-security-us-food-system-2015",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Relative risks to food access for different SSPs",
+    "uri": "/report/usda-climate-change-global-food-security-us-food-system-2015/chapter/food-access-stability/figure/relative-risks-food-access-different-ssps-6",
+    "url": null,
+    "usage_limits": null
+}

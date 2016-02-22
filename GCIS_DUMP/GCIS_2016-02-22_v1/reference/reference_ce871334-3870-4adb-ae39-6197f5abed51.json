@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "3",
+        "Author": "Hawkes, P.J.\rMoser, H.\rArntsen, \u00d8.\rGaufres, P.\rMai, S.\rWhite, K.",
+        "Conference Location": "Beijing, China",
+        "Conference Name": "PIANC Annual General Assembly 2008 & International Navigation Seminar",
+        "DOI": "10.1680/cien.2010.163.5.55",
+        "Date": "May 2008",
+        "ISBN": "0965-089X",
+        "Title": "Impacts of climate change on navigation",
+        "Volume": "5",
+        "Year of Conference": "2010",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "907",
+        "_uuid": "ce871334-3870-4adb-ae39-6197f5abed51",
+        "reftype": "Conference Proceedings"
+    },
+    "child_publication": "/generic/15029a34-f754-4033-a486-5536ce679663",
+    "href": "http://data.globalchange.gov/reference/ce871334-3870-4adb-ae39-6197f5abed51.json",
+    "identifier": "ce871334-3870-4adb-ae39-6197f5abed51",
+    "uri": "/reference/ce871334-3870-4adb-ae39-6197f5abed51"
+}

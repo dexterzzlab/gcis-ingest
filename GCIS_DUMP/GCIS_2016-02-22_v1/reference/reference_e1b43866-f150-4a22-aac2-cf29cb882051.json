@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Ramanathan, V.\rRodhe, Henning \rAgrawal, M.\rAkimoto, H.\rAuffhammer, M.\rChopra, U.K.\rEmberson, Lisa\rHasnain, Syed Iqbal\rIyngararasan, M.\rJayaraman, A.\rLawrence, M.\rNakajima, T.\rRuchirawat, M.\rSingh, A.K.\rVincent, Jerry R.\rZhang, Yuanhang",
+        "Date": "2009-01-21",
+        "Institution": "United Nations Environment Programme, Nairobi, Kenya",
+        "Pages": "367",
+        "Title": "Atmospheric Brown Clouds: Regional Assessment Report with Focus on Asia",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "4509",
+        "_uuid": "e1b43866-f150-4a22-aac2-cf29cb882051",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/unep-rrcap-abc-2008",
+    "href": "http://data.globalchange.gov/reference/e1b43866-f150-4a22-aac2-cf29cb882051.json",
+    "identifier": "e1b43866-f150-4a22-aac2-cf29cb882051",
+    "uri": "/reference/e1b43866-f150-4a22-aac2-cf29cb882051"
+}

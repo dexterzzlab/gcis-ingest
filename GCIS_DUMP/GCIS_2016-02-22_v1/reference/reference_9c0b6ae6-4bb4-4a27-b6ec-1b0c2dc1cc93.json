@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Wood, A.W.\rLettenmaier, D.P.",
+        "DOI": "10.1175/BAMS-87-12-1699",
+        "ISSN": "0003-0007",
+        "Issue": "12",
+        "Journal": "Bulletin of the American Meteorological Society",
+        "Pages": "1699-1712",
+        "Title": "A test bed for new seasonal hydrologic forecasting approaches in the western United States",
+        "Volume": "87",
+        "Year": "2006",
+        "_chapter": "[\"RF 3\",\"Ch. 2: Our Changing Climate FINAL\"]",
+        "_record_number": "3469",
+        "_uuid": "9c0b6ae6-4bb4-4a27-b6ec-1b0c2dc1cc93",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/BAMS-87-12-1699",
+    "href": "http://data.globalchange.gov/reference/9c0b6ae6-4bb4-4a27-b6ec-1b0c2dc1cc93.json",
+    "identifier": "9c0b6ae6-4bb4-4a27-b6ec-1b0c2dc1cc93",
+    "uri": "/reference/9c0b6ae6-4bb4-4a27-b6ec-1b0c2dc1cc93"
+}

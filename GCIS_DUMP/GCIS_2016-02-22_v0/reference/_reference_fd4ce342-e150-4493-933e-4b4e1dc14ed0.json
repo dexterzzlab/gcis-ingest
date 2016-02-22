@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Accession Number": "WOS:000253652700004",
+        "Author": "Lobell, David B.\rField, Christopher B.",
+        "DOI": "10.1088/1748-9326/2/1/014002",
+        "Date": "Jan-Mar",
+        "ISSN": "1748-9326",
+        "Issue": "1",
+        "Journal": "Environmental Research Letters",
+        "Title": "Global scale climate - crop yield relationships and the impacts of recent warming",
+        "URL": "http://iopscience.iop.org/1748-9326/2/1/014002/pdf/1748-9326_2_1_014002.pdf",
+        "Volume": "2",
+        "Year": "2007",
+        "_chapter": "[\"RG 3 Midwest\",\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "784",
+        "_uuid": "fd4ce342-e150-4493-933e-4b4e1dc14ed0",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1088/1748-9326/2/1/014002",
+    "href": "http://data.globalchange.gov/reference/fd4ce342-e150-4493-933e-4b4e1dc14ed0.json",
+    "identifier": "fd4ce342-e150-4493-933e-4b4e1dc14ed0",
+    "uri": "/reference/fd4ce342-e150-4493-933e-4b4e1dc14ed0"
+}

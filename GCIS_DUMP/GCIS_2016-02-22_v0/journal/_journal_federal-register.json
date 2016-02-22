@@ -1,0 +1,12 @@
+{
+    "country": "US",
+    "href": "http://data.globalchange.gov/journal/federal-register.json",
+    "identifier": "federal-register",
+    "notes": null,
+    "online_issn": null,
+    "print_issn": "0097-6326",
+    "publisher": "Office of the Federal Register",
+    "title": "Federal Register",
+    "uri": "/journal/federal-register",
+    "url": "https://www.federalregister.gov/"
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "UNEP,",
+        "Number of Pages": "92",
+        "Place Published": "Panama City, Panama",
+        "Publisher": "United Nations Environment Programme, Regional Office for Latin America and the Caribbean",
+        "Reviewer": "c45dfbb6-da30-49d5-9efd-86cdda77f62f",
+        "Title": "Climate Change in the Caribbean and the Challenge of Adaptation",
+        "URL": "http://www.pnuma.org/deat1/pdf/Climate_Change_in_the_Caribbean_Final_LOW20oct.pdf",
+        "Year": "2008",
+        "_chapter": "[\"RG 2 Southeast\",\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "3186",
+        "_uuid": "c45dfbb6-da30-49d5-9efd-86cdda77f62f",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/unep-climate-change-caribbean-2008",
+    "href": "http://data.globalchange.gov/reference/c45dfbb6-da30-49d5-9efd-86cdda77f62f.json",
+    "identifier": "c45dfbb6-da30-49d5-9efd-86cdda77f62f",
+    "uri": "/reference/c45dfbb6-da30-49d5-9efd-86cdda77f62f"
+}

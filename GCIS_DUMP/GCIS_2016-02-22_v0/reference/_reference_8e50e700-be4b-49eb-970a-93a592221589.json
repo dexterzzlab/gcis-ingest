@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Wang, J.\rZhang, X.",
+        "DOI": "10.1175/2007JCLI1671.1",
+        "ISSN": "1520-0442",
+        "Issue": "5",
+        "Journal": "Journal of Climate",
+        "Pages": "923-937",
+        "Title": "Downscaling and projection of winter extreme daily precipitation over North America",
+        "Volume": "21",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "3336",
+        "_uuid": "8e50e700-be4b-49eb-970a-93a592221589",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/2007JCLI1671.1",
+    "href": "http://data.globalchange.gov/reference/8e50e700-be4b-49eb-970a-93a592221589.json",
+    "identifier": "8e50e700-be4b-49eb-970a-93a592221589",
+    "uri": "/reference/8e50e700-be4b-49eb-970a-93a592221589"
+}

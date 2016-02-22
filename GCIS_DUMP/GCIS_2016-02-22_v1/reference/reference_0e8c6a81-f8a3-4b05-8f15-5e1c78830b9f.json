@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Walsh, John\rWuebbles, Donald\rHayhoe, Katharine\rKossin, James\rKunkel, Kenneth\rStephens, Graeme\rThorne, Peter\rVose, Russell\rWehner, Michael\rWillis, Josh\rAnderson, David\rKharin, Viatcheslav\rKnutson, Thomas\rLanderer, Felix\rLenton, Tim\rKennedy, John\rSomerville, Richard",
+        "Book Title": "Climate Change Impacts in the United States: The Third National Climate Assessment",
+        "DOI": "(doi)",
+        "Editor": "Melillo, Jerry M.\rTerese (T.C.) Richmond,\rYohe, Gary W.",
+        "Pages": "A3-1\u2013nn",
+        "Place Published": "Washington, DC",
+        "Publisher": "U.S. Global Change Research Program",
+        "Reviewer": "0e8c6a81-f8a3-4b05-8f15-5e1c78830b9f",
+        "Title": "Appendix 3: Climate Science Supplement",
+        "URL": "http://nca2014.globalchange.gov",
+        "Year": "2014",
+        "_chapter": "[\"Ch. 0: About this Report FINAL\"]",
+        "_record_number": "4743",
+        "_uuid": "0e8c6a81-f8a3-4b05-8f15-5e1c78830b9f",
+        "reftype": "Book Section"
+    },
+    "child_publication": null,
+    "href": "http://data.globalchange.gov/reference/0e8c6a81-f8a3-4b05-8f15-5e1c78830b9f.json",
+    "identifier": "0e8c6a81-f8a3-4b05-8f15-5e1c78830b9f",
+    "uri": "/reference/0e8c6a81-f8a3-4b05-8f15-5e1c78830b9f"
+}

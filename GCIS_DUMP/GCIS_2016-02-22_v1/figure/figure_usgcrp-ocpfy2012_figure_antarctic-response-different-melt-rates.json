@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Examples of the Antarctic Response to Different Hypothetical Melt Rates",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "01/32/a517fb503dbfe5e67a7f7e6d90c8/OCP_2012_Page_25_Image_0003.jpg",
+            "href": "http://data.globalchange.gov/assets/01/32/a517fb503dbfe5e67a7f7e6d90c8/OCP_2012_Page_25_Image_0003.jpg",
+            "identifier": "28ca4e01-adc6-4f4a-8f44-9a436ac984f8",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "c5d738483e964fb9079c4f4bc052602518e40fcb",
+            "size": 367718,
+            "thumbnail": "01/32/a517fb503dbfe5e67a7f7e6d90c8/.thumb-28ca4e01-adc6-4f4a-8f44-9a436ac984f8.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/01/32/a517fb503dbfe5e67a7f7e6d90c8/.thumb-28ca4e01-adc6-4f4a-8f44-9a436ac984f8.png",
+            "uri": "/file/28ca4e01-adc6-4f4a-8f44-9a436ac984f8",
+            "url": "/assets/01/32/a517fb503dbfe5e67a7f7e6d90c8/OCP_2012_Page_25_Image_0003.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2012/figure/antarctic-response-different-melt-rates.json",
+    "identifier": "antarctic-response-different-melt-rates",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2012",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Antarctic Response to Different Melt Rates",
+    "uri": "/report/usgcrp-ocpfy2012/figure/antarctic-response-different-melt-rates",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

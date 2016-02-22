@@ -1,0 +1,102 @@
+{
+    "attributes": null,
+    "caption": "The spatial extent of Arctic sea ice cover in September has decreased substantially in the past two decades, as shown in this pair of satellite images depicting sea ice concentrations. The reduction of September sea ice extent from 1992 (left) to 2012 (right) has been nearly 50%, or about 1.2 million square miles (3 million square kilometers), which is nearly one-third the area of the contiguous United States. (Figure source: University of Illinois, The Cryosphere Today<tbib>9cb10eed-73cb-4531-85bd-0331f3a16f33</tbib>; Data from the National Snow and Ice Data Center).",
+    "chapter": {
+        "doi": "10.7930/J0KS6PHH",
+        "identifier": "appendix-climate-science-supplement",
+        "number": 33,
+        "report_identifier": "nca3",
+        "sort_key": 330,
+        "title": "Appendix 3: Climate Science Supplement",
+        "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement"
+    },
+    "chapter_identifier": "appendix-climate-science-supplement",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-10T13:49:00",
+    "files": [
+        {
+            "file": "0d/3d/85f596ea63dcc54ad38ee10b6d7c/APP_arctic_sea_ice_V6.png",
+            "href": "http://data.globalchange.gov/assets/0d/3d/85f596ea63dcc54ad38ee10b6d7c/APP_arctic_sea_ice_V6.png",
+            "identifier": "ba0130db-27c5-46cb-a6e7-7bf868c74bcd",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "12d464c3799bffbadce3cfb9ce463a3f1ffc8870",
+            "size": 246806,
+            "thumbnail": "0d/3d/85f596ea63dcc54ad38ee10b6d7c/.thumb-ba0130db-27c5-46cb-a6e7-7bf868c74bcd.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/0d/3d/85f596ea63dcc54ad38ee10b6d7c/.thumb-ba0130db-27c5-46cb-a6e7-7bf868c74bcd.png",
+            "uri": "/file/ba0130db-27c5-46cb-a6e7-7bf868c74bcd",
+            "url": "/assets/0d/3d/85f596ea63dcc54ad38ee10b6d7c/APP_arctic_sea_ice_V6.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-climate-science-supplement/figure/arctic-sea-ice-decline.json",
+    "identifier": "arctic-sea-ice-decline",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-11-10T13:49:00",
+            "description": null,
+            "identifier": "a7688fb9-f42a-4461-ad0c-abe1addf6141",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": "1992-09-12T23:59:59",
+            "time_start": "1992-09-12T00:00:00",
+            "title": "Arctic Sea Ice Decline - 09/12/1992",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2013-11-10T13:49:00",
+            "description": null,
+            "identifier": "073fc0ba-f5af-4648-89f3-57eadcdc8c70",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2012-09-12T23:59:59",
+            "time_start": "2012-09-12T00:00:00",
+            "title": "Arctic Sea Ice Decline - 09/12/2012",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 37,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "webpage The Cryosphere Today",
+            "note": null,
+            "publication_type_identifier": "webpage",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/webpage/e4a9eb6a-9421-42c3-94b1-47caf588d41d"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/9cb10eed-73cb-4531-85bd-0331f3a16f33.json",
+            "uri": "/reference/9cb10eed-73cb-4531-85bd-0331f3a16f33"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "University of Illinois, The Cryosphere Today<tbib>9cb10eed-73cb-4531-85bd-0331f3a16f33</tbib>; Data from the National Snow and Ice Data Center",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Arctic Sea Ice Decline",
+    "uri": "/report/nca3/chapter/appendix-climate-science-supplement/figure/arctic-sea-ice-decline",
+    "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/arctic-sea-ice-decline",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

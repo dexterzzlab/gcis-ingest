@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "Photovoltaic panels convert sunlight directly into electricity. Utility-sized solar power plants require large tracts of land. Photo shows Duke Energy\u2019s 113-acre Blue Wing Solar Project in San Antonio, Texas, one of the largest photovoltaic solar farms in the country. (Photo credit: Duke Energy 2010<tbib>1e821a18-4f6f-406e-92f8-dee3657864d6</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0JW8BSF",
+        "identifier": "water-energy-land-use",
+        "number": 10,
+        "report_identifier": "nca3",
+        "sort_key": 100,
+        "title": "Energy, Water, and Land Use",
+        "url": "http://nca2014.globalchange.gov/report/sectors/energy-water-and-land"
+    },
+    "chapter_identifier": "water-energy-land-use",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2012-10-29T10:24:48",
+    "files": [
+        {
+            "file": "b4/57/a74fd27bc72af8462be8cbd74c5b/WEL_photovoltaic_panels_V1.png",
+            "href": "http://data.globalchange.gov/assets/b4/57/a74fd27bc72af8462be8cbd74c5b/WEL_photovoltaic_panels_V1.png",
+            "identifier": "ae897a68-a8a5-4138-a37d-69d6553014c6",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "7ff708acaa227921460436716b954ac2de10d9d6",
+            "size": 557571,
+            "thumbnail": "b4/57/a74fd27bc72af8462be8cbd74c5b/.thumb-ae897a68-a8a5-4138-a37d-69d6553014c6.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/b4/57/a74fd27bc72af8462be8cbd74c5b/.thumb-ae897a68-a8a5-4138-a37d-69d6553014c6.png",
+            "uri": "/file/ae897a68-a8a5-4138-a37d-69d6553014c6",
+            "url": "/assets/b4/57/a74fd27bc72af8462be8cbd74c5b/WEL_photovoltaic_panels_V1.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/water-energy-land-use/figure/renewable-energy-and-land-use.json",
+    "identifier": "renewable-energy-and-land-use",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2012-10-29T10:24:48",
+            "description": null,
+            "identifier": "c7b771-9112-420b-a538-dac5491d7cb3",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2011-11-08T00:00:00",
+            "time_start": "2010-11-08T00:00:00",
+            "title": "Renewable Energy and Land Use",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 8,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "webpage BlueWing (21) | Flickr - Photo Sharing!",
+            "note": null,
+            "publication_type_identifier": "webpage",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/webpage/4e2caecf-3283-44f4-aa82-053434201283"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/1e821a18-4f6f-406e-92f8-dee3657864d6.json",
+            "uri": "/reference/1e821a18-4f6f-406e-92f8-dee3657864d6"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Renewable Energy and Land Use",
+    "uri": "/report/nca3/chapter/water-energy-land-use/figure/renewable-energy-and-land-use",
+    "url": "http://nca2014.globalchange.gov/report/sectors/energy-water-and-land/graphics/renewable-energy-and-land-use",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Mohan, J.E.\rCox, R.M.\rIverson, L.R.",
+        "DOI": "10.1139/X08-185",
+        "ISSN": "0045-5067",
+        "Issue": "2",
+        "Journal": "Canadian Journal of Forest Research",
+        "Pages": "213-230",
+        "Title": "Composition and carbon dynamics of forests in northeastern North America in a future, warmer world",
+        "Volume": "39",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "2067",
+        "_uuid": "47276498-02c2-4947-88c6-c8421dc68baf",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1139/X08-185",
+    "href": "http://data.globalchange.gov/reference/47276498-02c2-4947-88c6-c8421dc68baf.json",
+    "identifier": "47276498-02c2-4947-88c6-c8421dc68baf",
+    "uri": "/reference/47276498-02c2-4947-88c6-c8421dc68baf"
+}

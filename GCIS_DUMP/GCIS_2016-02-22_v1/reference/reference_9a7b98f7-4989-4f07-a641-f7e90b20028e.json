@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Kahan, D.M.\rJenkins-Smith, H.\rBraman, D.",
+        "DOI": "10.1080/13669877.2010.511246",
+        "ISSN": "1366-9877",
+        "Issue": "2",
+        "Journal": "Journal of Risk Research",
+        "Pages": "147-174",
+        "Title": "Cultural cognition of scientific consensus",
+        "Volume": "14",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\"]",
+        "_record_number": "488",
+        "_uuid": "9a7b98f7-4989-4f07-a641-f7e90b20028e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1080/13669877.2010.511246",
+    "href": "http://data.globalchange.gov/reference/9a7b98f7-4989-4f07-a641-f7e90b20028e.json",
+    "identifier": "9a7b98f7-4989-4f07-a641-f7e90b20028e",
+    "uri": "/reference/9a7b98f7-4989-4f07-a641-f7e90b20028e"
+}

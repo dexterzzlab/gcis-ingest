@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Reclamation,",
+        "Institution": "U.S. Department of the Interior, Bureau of Reclamation",
+        "Place Published": "Denver, CO",
+        "Title": "Reclamation Managing Water in the West: Interim Report No. 1, Colorado River Basin Water Supply and Demand Study, Status Report",
+        "URL": "http://www.usbr.gov/lc/region/programs/crbstudy/Report1/StatusRpt.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 28: Adaptation FINAL\",\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "3119",
+        "_uuid": "ad8c9969-ccf5-47ef-8f13-2e3c53fb3697",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usbr-interimreport1-2011",
+    "href": "http://data.globalchange.gov/reference/ad8c9969-ccf5-47ef-8f13-2e3c53fb3697.json",
+    "identifier": "ad8c9969-ccf5-47ef-8f13-2e3c53fb3697",
+    "uri": "/reference/ad8c9969-ccf5-47ef-8f13-2e3c53fb3697"
+}

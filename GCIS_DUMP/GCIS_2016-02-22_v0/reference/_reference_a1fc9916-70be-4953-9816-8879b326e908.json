@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Kahan, Dan M.\rBraman, Donald",
+        "ISSN": "0740-8048",
+        "Issue": "1",
+        "Journal": "Yale Law & Policy Review",
+        "Pages": "149-172",
+        "Title": "Cultural cognition and public policy",
+        "Volume": "24",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\",\"RF 12\"]",
+        "_record_number": "4050",
+        "_uuid": "a1fc9916-70be-4953-9816-8879b326e908",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/cultural-cognition-and-public-policy",
+    "href": "http://data.globalchange.gov/reference/a1fc9916-70be-4953-9816-8879b326e908.json",
+    "identifier": "a1fc9916-70be-4953-9816-8879b326e908",
+    "uri": "/reference/a1fc9916-70be-4953-9816-8879b326e908"
+}

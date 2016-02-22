@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "8",
+        "Abstract": "The predicted Earth warming based on recent increases in concentrations of greenhouse gases is slightly more than the observed warming of the atmosphere. In addition, the warming trend in North America does not appear to follow the global pattern. What might account for these and other deviations of fact from theory The answer is ironic. In all probability, aerosols primarily composed of sulfates, themselves the result of commercial activity, enhance the ability of the atmosphere to reflect sunlight back into space before it can reach the planet's surface and participate in the warming process. The sulfate particles, about 0.1 to one micron in diameter, are particularly concentrated over the industrial area of the Northern Hemisphere. Their capacity to cool by scattering sunlight has become a recognized force in climatic change only recently. Clearly, both the cooling effects of aerosols and the warming caused by greenhouse gases must be taken into account if we are to attain accurate climate models and effective industrial policies. 4 refs., 6 figs.",
+        "Accession Number": "OSTI ID: 5036577",
+        "Author": "Charlson, R.J.\rWigley, T.M.L.",
+        "ISSN": "0036-8733",
+        "Issue Number": "2",
+        "Keywords": "54 ENVIRONMENTAL SCIENCES\rGREENHOUSE EFFECT\rEVALUATION\rSOLAR RADIATION\rREFLECTION\rSCATTERING\rAEROSOLS\rAIR POLLUTION\rSULFATES\rCLIMATIC CHANGE\rCOLLOIDS\rDISPERSIONS\rOXYGEN COMPOUNDS\rPOLLUTION\rRADIATIONS\rSOLS\rSTELLAR RADIATION\rSULFUR COMPOUNDS",
+        "Magazine": "Scientific American",
+        "Pages": "48-57",
+        "Title": "Sulfate aerosol and climatic change",
+        "Volume": "270",
+        "Year": "1994",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "4081",
+        "_uuid": "c1ac9f69-81ef-48bc-9bd7-9d9c0b1f0a0e",
+        "reftype": "Magazine Article"
+    },
+    "child_publication": "/generic/8819772f-9f86-4e2f-b214-f58293206356",
+    "href": "http://data.globalchange.gov/reference/c1ac9f69-81ef-48bc-9bd7-9d9c0b1f0a0e.json",
+    "identifier": "c1ac9f69-81ef-48bc-9bd7-9d9c0b1f0a0e",
+    "uri": "/reference/c1ac9f69-81ef-48bc-9bd7-9d9c0b1f0a0e"
+}

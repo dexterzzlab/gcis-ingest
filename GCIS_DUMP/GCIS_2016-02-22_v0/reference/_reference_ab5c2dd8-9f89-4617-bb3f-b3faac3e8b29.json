@@ -1,0 +1,16 @@
+{
+    "attrs": {
+        ".reference_type": "4",
+        "Author": "USACE,",
+        "Title": "U.S. Army Corps of Engineers, personal communication",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 5: Transportation FINAL\"]",
+        "_record_number": "3655",
+        "_uuid": "ab5c2dd8-9f89-4617-bb3f-b3faac3e8b29",
+        "reftype": "Personal Communication"
+    },
+    "child_publication": "/generic/a12eb020-faf2-47ae-ba09-4b360574d1a5",
+    "href": "http://data.globalchange.gov/reference/ab5c2dd8-9f89-4617-bb3f-b3faac3e8b29.json",
+    "identifier": "ab5c2dd8-9f89-4617-bb3f-b3faac3e8b29",
+    "uri": "/reference/ab5c2dd8-9f89-4617-bb3f-b3faac3e8b29"
+}

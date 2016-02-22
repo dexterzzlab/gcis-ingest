@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-18T11:47:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "In Washington\u2019s Nisqually River Delta, estuary restoration on a large scale to assist\r\n    salmon and wildlife recovery provides an example of adaptation to climate change and sea level rise. After a century of\r\n    isolation behind dikes (left), much of the Nisqually National Wildlife Refuge was reconnected with tidal flow in 2009 by\r\n    removal of a major dike and restoration of 762 acres (right), with the assistance of Ducks Unlimited and the Nisqually Indian\r\n    Tribe. This reconnected more than 21 miles of historical tidal channels and floodplains with Puget\r\n    Sound.<tbib>57ade57f-f478-4008-882f-9e46fd08ae2d</tbib> A new exterior dike was constructed to protect\r\n    freshwater wetland habitat for migratory birds from tidal inundation and future sea level rise. Combined with expansion of the\r\n    authorized Refuge boundary, ongoing acquisition efforts to expand the Refuge will enhance the ability to provide diverse\r\n    estuary and freshwater habitats despite rising sea level, increasing river floods, and loss of estuarine habitat elsewhere in\r\n    Puget Sound. This project is considered a major step in increasing estuary habitat and recovering the greater Puget Sound\r\n    estuary. (Photo credits: (left) Jesse Barham, U.S. Fish and Wildlife Service; (right) Jean Takekawa, U.S. Fish and Wildlife\r\n    Service).",
+            "chapter_identifier": "northwest",
+            "create_dt": "2013-11-18T11:47:00",
+            "identifier": "adapting-the-nisqually-river-delta-to-sea-level-rise",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 5,
+            "report_identifier": "nca3",
+            "source_citation": "(left) Jesse Barham, U.S. Fish and Wildlife Service; (right) Jean Takekawa, U.S. Fish and Wildlife Service",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Adapting the Nisqually River Delta to Sea Level Rise",
+            "url": "http://nca2014.globalchange.gov/report/regions/northwest/graphics/adapting-nisqually-river-delta-sea-level-rise",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "99/89/76e0237b8b092802e1fdfecf68ca/nw_nisqually_2_downscaled.jpg",
+            "href": "http://data.globalchange.gov/assets/99/89/76e0237b8b092802e1fdfecf68ca/nw_nisqually_2_downscaled.jpg",
+            "identifier": "2e8934a9-e5bd-421e-8123-2d2f0d693fcd",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "cd651946d0cef36851a3fcc26a7e64fd455820ea",
+            "size": 1116581,
+            "thumbnail": "99/89/76e0237b8b092802e1fdfecf68ca/.thumb-2e8934a9-e5bd-421e-8123-2d2f0d693fcd.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/99/89/76e0237b8b092802e1fdfecf68ca/.thumb-2e8934a9-e5bd-421e-8123-2d2f0d693fcd.png",
+            "uri": "/file/2e8934a9-e5bd-421e-8123-2d2f0d693fcd",
+            "url": "/assets/99/89/76e0237b8b092802e1fdfecf68ca/nw_nisqually_2_downscaled.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/33df5e0d-8b3f-4970-9713-bae06b96ae99.json",
+    "identifier": "33df5e0d-8b3f-4970-9713-bae06b96ae99",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Adapting the Nisqually River Delta to Sea Level Rise - Right",
+    "uri": "/image/33df5e0d-8b3f-4970-9713-bae06b96ae99",
+    "url": null,
+    "usage_limits": null
+}

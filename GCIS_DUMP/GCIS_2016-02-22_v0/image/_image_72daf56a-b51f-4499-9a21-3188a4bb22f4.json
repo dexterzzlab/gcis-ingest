@@ -1,0 +1,88 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/4303.json",
+            "id": 4303,
+            "organization": {
+                "country_code": "US",
+                "identifier": "foodnet-diseases-active-surveillance-network",
+                "name": "Foodborne Diseases Active Surveillance Network",
+                "organization_type_identifier": "federal",
+                "url": "http://www.cdc.gov/foodnet/"
+            },
+            "organization_uri": "/organization/foodnet-diseases-active-surveillance-network",
+            "person": {},
+            "person_id": null,
+            "person_uri": null,
+            "role_type_identifier": "contributing_agency",
+            "uri": "/contributor/4303"
+        }
+    ],
+    "create_dt": null,
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "While the rates of infection for most food-borne diseases have decreased in recent years, the rate of Vibrio infections has increased (rates are shown relative to 1996\u20131998 rates, signified by the line intersecting 1.00 on the vertical axis). Because Vibrio thrives in warm waters, infection rates have the potential to rise as ocean temperatures increase. (Source: CDC)",
+            "chapter_identifier": "leveraging-global-change-research-areas-societal-need",
+            "create_dt": null,
+            "identifier": "vibrio-infection-rates",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 16,
+            "report_identifier": "usgcrp-ocpfy2014",
+            "source_citation": "Morbidity and Mortality Weekly Report, 2013",
+            "submission_dt": null,
+            "time_end": "2012-12-31T23:59:00",
+            "time_start": "1996-01-01T00:00:00",
+            "title": "Vibrio Infection Rates",
+            "url": null,
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "3b/17/5fe60ff18bcadbc2c5ac526106d4/Box_16_Vibrio_Highest_Possible_Res_1.png",
+            "href": "http://data.globalchange.gov/assets/3b/17/5fe60ff18bcadbc2c5ac526106d4/Box_16_Vibrio_Highest_Possible_Res_1.png",
+            "identifier": "6d47c7b8-54f5-482e-a257-2fce6e3def83",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "2e65d2e9432a9586b2e51cdfe3da53b5cbb43546",
+            "size": 96657,
+            "thumbnail": "3b/17/5fe60ff18bcadbc2c5ac526106d4/.thumb-6d47c7b8-54f5-482e-a257-2fce6e3def83.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/3b/17/5fe60ff18bcadbc2c5ac526106d4/.thumb-6d47c7b8-54f5-482e-a257-2fce6e3def83.png",
+            "uri": "/file/6d47c7b8-54f5-482e-a257-2fce6e3def83",
+            "url": "/assets/3b/17/5fe60ff18bcadbc2c5ac526106d4/Box_16_Vibrio_Highest_Possible_Res_1.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/72daf56a-b51f-4499-9a21-3188a4bb22f4.json",
+    "identifier": "72daf56a-b51f-4499-9a21-3188a4bb22f4",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Incidence and Trends of Infection with Pathogens Transmitted Commonly Through Food \u2014 Foodborne Diseases Active Surveillance Network, 10 U.S. Sites, 1996\u20132012",
+            "note": "",
+            "publication_type_identifier": "article",
+            "relationship": "cito:cites",
+            "url": "/article/incidence-trends-infection-pathogens-transmitted-commonly-food-foodborne-diseases-active-surveillance-network-10-us-sites-1996-2012"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2012-12-31T23:59:00",
+    "time_start": "1996-01-01T00:00:00",
+    "title": "Vibrio Infection Rates",
+    "uri": "/image/72daf56a-b51f-4499-9a21-3188a4bb22f4",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "NRC,",
+        "Number of Pages": "192",
+        "Place Published": "Washington, DC",
+        "Publisher": "National Research Council, Commission on Behavioral and Social Sciences and Education. The National Academies Press ",
+        "Reviewer": "54c3e6c2-16a5-44fb-a9ae-a7b38ca82b90",
+        "Series Editor": "Stern, P.C.\rEasterling, W.E.",
+        "Title": "Making Climate Forecasts Matter. Panel on the Human Dimensions of Seasonal-to-Interannual Climate Variability",
+        "URL": "http://www.nap.edu/catalog.php?record_id=6370",
+        "Year": "1999",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "2281",
+        "_uuid": "54c3e6c2-16a5-44fb-a9ae-a7b38ca82b90",
+        "reftype": "Book"
+    },
+    "child_publication": "/report/nrc-forecasts-1999",
+    "href": "http://data.globalchange.gov/reference/54c3e6c2-16a5-44fb-a9ae-a7b38ca82b90.json",
+    "identifier": "54c3e6c2-16a5-44fb-a9ae-a7b38ca82b90",
+    "uri": "/reference/54c3e6c2-16a5-44fb-a9ae-a7b38ca82b90"
+}

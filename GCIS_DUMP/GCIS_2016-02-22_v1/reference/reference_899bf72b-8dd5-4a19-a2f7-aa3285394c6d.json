@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Lempert, R.J.\rGroves, D.G.",
+        "DOI": "10.1016/j.techfore.2010.04.007",
+        "ISSN": "0040-1625",
+        "Issue": "6",
+        "Journal": "Technological Forecasting and Social Change",
+        "Pages": "960-974",
+        "Title": "Identifying and evaluating robust adaptive policy responses to climate change for water management agencies in the American west",
+        "Volume": "77",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "872",
+        "_uuid": "899bf72b-8dd5-4a19-a2f7-aa3285394c6d",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.techfore.2010.04.007",
+    "href": "http://data.globalchange.gov/reference/899bf72b-8dd5-4a19-a2f7-aa3285394c6d.json",
+    "identifier": "899bf72b-8dd5-4a19-a2f7-aa3285394c6d",
+    "uri": "/reference/899bf72b-8dd5-4a19-a2f7-aa3285394c6d"
+}

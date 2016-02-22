@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Amishev, D.Y.\rFox, T.R.",
+        "DOI": "10.1016/j.foreco.2006.08.339",
+        "ISSN": "0378-1127",
+        "Issue": "1",
+        "Journal": "Forest Ecology and Management",
+        "Pages": "93-101",
+        "Title": "The effect of weed control and fertilization on survival and growth of four pine species in the Virginia Piedmont",
+        "Volume": "236",
+        "Year": "2006",
+        "_chapter": "[\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "588",
+        "_uuid": "7732f027-b3ea-43d7-aa67-813823fbbc57",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.foreco.2006.08.339",
+    "href": "http://data.globalchange.gov/reference/7732f027-b3ea-43d7-aa67-813823fbbc57.json",
+    "identifier": "7732f027-b3ea-43d7-aa67-813823fbbc57",
+    "uri": "/reference/7732f027-b3ea-43d7-aa67-813823fbbc57"
+}

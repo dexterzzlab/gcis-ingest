@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Barrett, K.\rMcGuire, A. D.\rHoy, E. E.\rKasischke, E. S.",
+        "DOI": "10.190/10-0896.1",
+        "ISSN": "1051-0761",
+        "Issue": "7",
+        "Journal": "Ecological Applications",
+        "Keywords": "fire regime",
+        "Pages": "2380-2396",
+        "Title": "Potential shifts in dominant forest cover in interior Alaska driven by variations in fire severity",
+        "Volume": "21",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "1299",
+        "_uuid": "ea92c82d-60a2-47e5-b48e-31b32ae85b6d",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1890/10-0896.1",
+    "href": "http://data.globalchange.gov/reference/ea92c82d-60a2-47e5-b48e-31b32ae85b6d.json",
+    "identifier": "ea92c82d-60a2-47e5-b48e-31b32ae85b6d",
+    "uri": "/reference/ea92c82d-60a2-47e5-b48e-31b32ae85b6d"
+}

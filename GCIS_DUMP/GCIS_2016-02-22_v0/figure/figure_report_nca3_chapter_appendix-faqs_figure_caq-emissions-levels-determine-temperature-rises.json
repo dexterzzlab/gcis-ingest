@@ -1,0 +1,115 @@
+{
+    "attributes": null,
+    "caption": "Projected global average annual temperature changes for multiple future scenarios relative to the 1901-1960 average temperature. Each line represents a central estimate of global average temperature rise for a specific emissions pathway. Shading indicates the range (5th to 95th percentile) of results from a suite of climate models. The left panel shows results from the previous generation of climate models (CMIP3), and the right panel shows results from the most recent generation of climate models (CMIP5). Projections in 2099 for additional emissions pathways are indicated by the bars to the right of each panel. In all cases, temperatures are expected to rise, although the difference between lower and higher emissions pathways is substantial. (Data from CMIP3, CMIP5, and NOAA NCDC).",
+    "chapter": {
+        "doi": "10.7930/J0G15XS3",
+        "identifier": "appendix-faqs",
+        "number": 34,
+        "report_identifier": "nca3",
+        "sort_key": 340,
+        "title": "Appendix 4: Frequently Asked Questions",
+        "url": "http://nca2014.globalchange.gov/report/appendices/faqs"
+    },
+    "chapter_identifier": "appendix-faqs",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2522.json",
+            "id": 2522,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Kenneth",
+                "id": 1025,
+                "last_name": "Kunkel",
+                "middle_name": null,
+                "orcid": "0000-0001-6667-7047",
+                "url": "http://cicsnc.org/people/kenneth-kunkel/"
+            },
+            "person_id": 1025,
+            "person_uri": "/person/1025",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2522"
+        }
+    ],
+    "create_dt": "2014-03-17T09:43:07",
+    "files": [
+        {
+            "file": "05/9d/6a3c3b4c87fe362a4da81dcb98df/CS_average_annual_temp_global_V7.png",
+            "href": "http://data.globalchange.gov/assets/05/9d/6a3c3b4c87fe362a4da81dcb98df/CS_average_annual_temp_global_V7.png",
+            "identifier": "a4db7e46-ade9-4036-a377-64ac9f87c87d",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "267d3d64f6a9ad1625856a8eff36a60daa01a697",
+            "size": 187993,
+            "thumbnail": "05/9d/6a3c3b4c87fe362a4da81dcb98df/.thumb-a4db7e46-ade9-4036-a377-64ac9f87c87d.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/05/9d/6a3c3b4c87fe362a4da81dcb98df/.thumb-a4db7e46-ade9-4036-a377-64ac9f87c87d.png",
+            "uri": "/file/a4db7e46-ade9-4036-a377-64ac9f87c87d",
+            "url": "/assets/05/9d/6a3c3b4c87fe362a4da81dcb98df/CS_average_annual_temp_global_V7.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-faqs/figure/caq-emissions-levels-determine-temperature-rises.json",
+    "identifier": "caq-emissions-levels-determine-temperature-rises",
+    "images": [
+        {
+            "attributes": "Global, temperature, projections, CMIP5",
+            "create_dt": "2013-12-13T10:18:00",
+            "description": null,
+            "identifier": "6dafc8d5-9e40-4dd6-a63d-d456ec61a551",
+            "lat_max": "90",
+            "lat_min": "-90",
+            "lon_max": "180",
+            "lon_min": "-180",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2100-12-31T23:59:59",
+            "time_start": "1900-01-01T00:00:00",
+            "title": "Emissions Levels Determine Temperature Rises: CMIP5",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": "Global, temperature, projections, CMIP3",
+            "create_dt": "2013-12-13T10:18:00",
+            "description": null,
+            "identifier": "a405fab3-ee62-401c-8d93-347261d9eab9",
+            "lat_max": "90",
+            "lat_min": "-90",
+            "lon_max": "180",
+            "lon_min": "-180",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2100-12-31T23:59:59",
+            "time_start": "1900-01-01T00:00:00",
+            "title": "Emissions Levels Determine Temperature Rises: CMIP3",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [
+        "/report/nca3/chapter/our-changing-climate/figure/emissions-levels-determine-temperature-rises"
+    ],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 23,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Emissions Levels Determine Temperature Rises",
+    "uri": "/report/nca3/chapter/appendix-faqs/figure/caq-emissions-levels-determine-temperature-rises",
+    "url": "http://nca2014.globalchange.gov/report/appendices/faqs/graphics/emissions-levels-determine-temperature-rises",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

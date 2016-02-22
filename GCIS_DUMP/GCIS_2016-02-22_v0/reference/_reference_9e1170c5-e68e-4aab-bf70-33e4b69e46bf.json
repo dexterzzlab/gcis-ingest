@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Li, Tiantian\rHorton, Radley M.\rKinney, Patrick L.",
+        "DOI": "10.1038/nclimate1902",
+        "ISSN": "1758-678X",
+        "Issue": "8",
+        "Journal": "Nature Climate Change",
+        "Pages": "717-721",
+        "Short Title": "Projections of seasonal patterns in temperature- related deaths for Manhattan, New York",
+        "Title": "Projections of seasonal patterns in temperature-related deaths for Manhattan, New York",
+        "Type of Article": "Letter",
+        "Volume": "3",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Ch. 16: Northeast FINAL\",\"Overview\"]",
+        "_record_number": "4000",
+        "_uuid": "9e1170c5-e68e-4aab-bf70-33e4b69e46bf",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1038/nclimate1902",
+    "href": "http://data.globalchange.gov/reference/9e1170c5-e68e-4aab-bf70-33e4b69e46bf.json",
+    "identifier": "9e1170c5-e68e-4aab-bf70-33e4b69e46bf",
+    "uri": "/reference/9e1170c5-e68e-4aab-bf70-33e4b69e46bf"
+}

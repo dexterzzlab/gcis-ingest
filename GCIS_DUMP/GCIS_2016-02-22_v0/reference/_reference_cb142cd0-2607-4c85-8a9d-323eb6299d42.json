@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "This article builds on the previous studies on storminess conditions in the northeast North Atlantic\u2013European region. The period of surface pressure data analyzed is extended from 1881\u20131998 to 1874\u20132007. The seasonality and regional differences of storminess conditions in this region are also explored in more detail. The results show that storminess conditions in this region have undergone substantial decadal or longer time scale fluctuations, with considerable seasonal and regional differences. The most notable differences are seen between winter and summer, and between the North Sea area and other parts of the region. In particular, winter storminess shows an unprecedented maximum in the early 1990s in the North Sea area and a steady upward trend in the northeastern part of the region, while it appears to have declined in the western part of the region. In summer, storminess appears to have declined in most parts of this region. In the transition seasons, the storminess trend is characterized by increases in the northern part of the region and decreases in the southeastern part, with increases in the north being larger in spring. In particular, the results also show that the earliest storminess maximum occurred in summer (around 1880), while the latest storminess maximum occurred in winter (in the early 1990s). Looking at the annual metrics alone (as in previous studies), one would conclude that the latest storminess maximum is at about the same level as the earliest storminess maximum, without realizing that this is comparing the highest winter storminess level with the highest summer storminess level in the period of record analyzed, while winter and summer storminess conditions have undergone very different long-term variability and trends. Also, storminess conditions in the NE Atlantic region are found to be significantly correlated with the simultaneous NAO index in all seasons but autumn. The higher the NAO index, the rougher the NE Atlantic storminess conditions, especially in winter and spring.",
+        "Author": "Wang, X.L.\rZwiers, F.W.\rSwail, V.R.\rFeng, Y.",
+        "DOI": "10.1007/s00382-008-0504-5",
+        "ISSN": "0930-7575",
+        "Issue": "7-8",
+        "Journal": "Climate Dynamics",
+        "Pages": "1179-1195",
+        "Title": "Trends and variability of storminess in the Northeast Atlantic region, 1874\u20132007",
+        "Volume": "33",
+        "Year": "2009",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "3343",
+        "_uuid": "cb142cd0-2607-4c85-8a9d-323eb6299d42",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s00382-008-0504-5",
+    "href": "http://data.globalchange.gov/reference/cb142cd0-2607-4c85-8a9d-323eb6299d42.json",
+    "identifier": "cb142cd0-2607-4c85-8a9d-323eb6299d42",
+    "uri": "/reference/cb142cd0-2607-4c85-8a9d-323eb6299d42"
+}

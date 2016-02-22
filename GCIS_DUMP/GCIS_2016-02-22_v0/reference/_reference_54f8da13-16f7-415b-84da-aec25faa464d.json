@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Finney, M.A.\rMcHugh, C.W.\rGrenfell, I.C.",
+        "DOI": "10.1139/X05-090",
+        "ISSN": "0045-5067",
+        "Issue": "7",
+        "Journal": "Canadian Journal of Forest Research",
+        "Pages": "1714-1722",
+        "Title": "Stand-and landscape-level effects of prescribed burning on two Arizona wildfires",
+        "URL": "http://www.nrcresearchpress.com/doi/pdf/10.1139/x05-090",
+        "Volume": "35",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "1588",
+        "_uuid": "54f8da13-16f7-415b-84da-aec25faa464d",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1139/X05-090",
+    "href": "http://data.globalchange.gov/reference/54f8da13-16f7-415b-84da-aec25faa464d.json",
+    "identifier": "54f8da13-16f7-415b-84da-aec25faa464d",
+    "uri": "/reference/54f8da13-16f7-415b-84da-aec25faa464d"
+}

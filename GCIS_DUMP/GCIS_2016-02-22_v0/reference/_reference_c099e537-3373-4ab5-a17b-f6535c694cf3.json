@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Climate change may impact water resources management conditions in difficult-to-predict ways. A key challenge for water managers is how to incorporate highly uncertain information about potential climate change from global models into local- and regional-scale water management models and tools to support local planning. This paper presents a new method for developing large ensembles of local daily weather that reflect a wide range of plausible future climate change scenarios while preserving many statistical properties of local historical weather patterns. This method is demonstrated by evaluating the possible impact of climate change on the Inland Empire Utilities Agency service area in southern California. The analysis shows that climate change could impact the region, increasing outdoor water demand by up to 10% by 2040, decreasing local water supply by up to 40% by 2040, and decreasing sustainable groundwater yields by up to 15% by 2040. The range of plausible climate projections suggests the need for the region to augment its long-range water management plans to reduce its vulnerability to climate change. ",
+        "Author": "Groves, D.G.\rYates, D.\rTebaldi, C.",
+        "DOI": "10.1029/2008WR006964",
+        "ISSN": "1944-7973",
+        "Issue": "12",
+        "Journal": "Water Resources Research",
+        "Pages": "W12413",
+        "Title": "Developing and applying uncertain global climate change projections for regional water management planning",
+        "URL": "http://www.agu.org/pubs/crossref/2008/2008WR006964.shtml",
+        "Volume": "44",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "514",
+        "_uuid": "c099e537-3373-4ab5-a17b-f6535c694cf3",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2008WR006964",
+    "href": "http://data.globalchange.gov/reference/c099e537-3373-4ab5-a17b-f6535c694cf3.json",
+    "identifier": "c099e537-3373-4ab5-a17b-f6535c694cf3",
+    "uri": "/reference/c099e537-3373-4ab5-a17b-f6535c694cf3"
+}

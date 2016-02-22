@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "(Top) Areas where the NMME system provides high degrees of skill in predictiing precipitation patterns two months in advance are indicated by warm colors. (Bottom) Warm colors indicate regions where value was added by using a multi-model approach. Image courtesy of Ben Kirtman. ",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "8d/6e/681c72860c8f98c2e9a07f766120/OCP_2013_Page_19_Image_0001.jpg",
+            "href": "http://data.globalchange.gov/assets/8d/6e/681c72860c8f98c2e9a07f766120/OCP_2013_Page_19_Image_0001.jpg",
+            "identifier": "cdf16b60-aa8c-4b1c-b3f8-bc8554cfff43",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "5be58ce4130c7a73e3ce4c60d901005ca2ecad79",
+            "size": 335907,
+            "thumbnail": "8d/6e/681c72860c8f98c2e9a07f766120/.thumb-cdf16b60-aa8c-4b1c-b3f8-bc8554cfff43.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/8d/6e/681c72860c8f98c2e9a07f766120/.thumb-cdf16b60-aa8c-4b1c-b3f8-bc8554cfff43.png",
+            "uri": "/file/cdf16b60-aa8c-4b1c-b3f8-bc8554cfff43",
+            "url": "/assets/8d/6e/681c72860c8f98c2e9a07f766120/OCP_2013_Page_19_Image_0001.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2013/figure/precipitation-model-ensemble.json",
+    "identifier": "precipitation-model-ensemble",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2013",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Precipitation Model Ensemble",
+    "uri": "/report/usgcrp-ocpfy2013/figure/precipitation-model-ensemble",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

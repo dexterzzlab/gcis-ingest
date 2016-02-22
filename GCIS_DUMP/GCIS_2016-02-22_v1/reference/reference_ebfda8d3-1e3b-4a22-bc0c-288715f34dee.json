@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Gutowski, W.J.\rHegerl, G.C.\rHolland, G.J.\rKnutson, T.R.\rMearns, L.O.\rStouffer, R.J.\rWebster, P.J.\rWehner, M.F.\rZwiers, F.W.",
+        "Book Title": "Weather and Climate Extremes in a Changing Climate. Regions of Focus: North America, Hawaii, Caribbean, and US Pacific Islands. A Report by the U.S. Climate Change Science Program and the Subcommittee on Global Change Research",
+        "Editor": "T.R. Karl\rG.A. Meehl\rC.D. Miller\rS.J. Hassol\rA.M. Waple\rW.L. Murray",
+        "Pages": "81-116",
+        "Place Published": "Washington, D.C.",
+        "Reviewer": "ebfda8d3-1e3b-4a22-bc0c-288715f34dee",
+        "Title": "Ch. 3: Causes of observed changes in extremes and projections of future changes",
+        "URL": "http://library.globalchange.gov/products/assessments/sap-3-3-weather-and-climate-extremes-in-a-changing-climate",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\",\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "191",
+        "_uuid": "ebfda8d3-1e3b-4a22-bc0c-288715f34dee",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/ccsp-sap-3_3-2008",
+    "href": "http://data.globalchange.gov/reference/ebfda8d3-1e3b-4a22-bc0c-288715f34dee.json",
+    "identifier": "ebfda8d3-1e3b-4a22-bc0c-288715f34dee",
+    "uri": "/reference/ebfda8d3-1e3b-4a22-bc0c-288715f34dee"
+}

@@ -1,0 +1,97 @@
+{
+    "attributes": null,
+    "caption": "King tides, which typically happen twice a year as a result of a gravitational alignment of the sun, moon, and\r\n    Earth, provide a preview of the risks rising sea levels may present along California coasts in the future. While king tides are\r\n    the extreme high tides today, with projected future sea level rise, this level of water and flooding will occur during regular\r\n    monthly high tides. During storms and future king tides, more coastal flooding and damage will occur. The King Tide Photo Initiative encourages the public to visually document the impact of rising waters on the California\r\n    coast, as exemplified during current king tide events. Photos show water levels along the Embarcadero in San Francisco,\r\n    California during relatively normal tides (top), and during an extreme high tide or \u201cking tide\u201d (bottom). (Photo\r\n    credit: Mark Johnsson).",
+    "chapter": {
+        "doi": "10.7930/J08G8HMN",
+        "identifier": "southwest",
+        "number": 20,
+        "report_identifier": "nca3",
+        "sort_key": 200,
+        "title": "Southwest",
+        "url": "http://nca2014.globalchange.gov/report/regions/southwest"
+    },
+    "chapter_identifier": "southwest",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-18T16:38:00",
+    "files": [
+        {
+            "file": "5c/e3/2cf9b2a076e7c2a341918cd24784/SW_king_tide_V4.png",
+            "href": "http://data.globalchange.gov/assets/5c/e3/2cf9b2a076e7c2a341918cd24784/SW_king_tide_V4.png",
+            "identifier": "9911ecf8-0705-488a-b6af-af11a2009ee3",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "38904b7ff0f1f69056a0ff15a91090195da4629b",
+            "size": 552683,
+            "thumbnail": "5c/e3/2cf9b2a076e7c2a341918cd24784/.thumb-9911ecf8-0705-488a-b6af-af11a2009ee3.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/5c/e3/2cf9b2a076e7c2a341918cd24784/.thumb-9911ecf8-0705-488a-b6af-af11a2009ee3.png",
+            "uri": "/file/9911ecf8-0705-488a-b6af-af11a2009ee3",
+            "url": "/assets/5c/e3/2cf9b2a076e7c2a341918cd24784/SW_king_tide_V4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/southwest/figure/coastal-risks-posed-by-sea-level-rise-and-high-tides.json",
+    "identifier": "coastal-risks-posed-by-sea-level-rise-and-high-tides",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-11-18T16:38:00",
+            "description": null,
+            "identifier": "f3e41e3d-7e8c-4f3a-a3e7-09c4e612e57e",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2011-02-01T16:51:00",
+            "time_start": "2011-02-01T16:51:00",
+            "title": "Coastal Risks Posed by Sea Level Rise and High Tides - 1 February 2011: 16:51",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2013-11-18T16:38:00",
+            "description": null,
+            "identifier": "e9ab5ad6-98e8-4ecd-8dfd-888d3da5cda3",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2011-01-20T11:32:00",
+            "time_start": "2011-01-20T11:32:00",
+            "title": "Coastal Risks Posed by Sea Level Rise and High Tides - 20 January 2011: 11:32 7.20 ft MLLW",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 5,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "webpage BlueWing (21) | Flickr - Photo Sharing!",
+            "note": null,
+            "publication_type_identifier": "webpage",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/webpage/4e2caecf-3283-44f4-aa82-053434201283"
+        }
+    ],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Coastal Risks Posed by Sea Level Rise and High Tides",
+    "uri": "/report/nca3/chapter/southwest/figure/coastal-risks-posed-by-sea-level-rise-and-high-tides",
+    "url": "http://nca2014.globalchange.gov/report/regions/southwest/graphics/coastal-risks-posed-sea-level-rise-and-high-tides",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Horton, Radley\rYohe, Gary\rEasterling, William\rKates, Robert\rRuth, Matthias\rSussman, Edna\rWhelchel, Adam\rWolfe, David\rLipschultz, Fredric",
+        "Book Title": "Climate Change Impacts in the United States: The Third National Climate Assessment",
+        "DOI": "(doi)",
+        "Editor": "Melillo, Jerry M.\rTerese (T.C.) Richmond,\rYohe, Gary W.",
+        "Pages": "16-1\u2013nn",
+        "Place Published": "Washington, DC",
+        "Publisher": "U.S. Global Change Research Program",
+        "Reviewer": "4cba1cf7-b8e6-477b-88fb-e9d0a4195ae1",
+        "Title": "Ch. 16: Northeast",
+        "URL": "http://nca2014.globalchange.gov/report/regions/northeast",
+        "Year": "2014",
+        "_chapter": "[\"Ch. 0: About this Report FINAL\"]",
+        "_record_number": "4726",
+        "_uuid": "4cba1cf7-b8e6-477b-88fb-e9d0a4195ae1",
+        "reftype": "Book Section"
+    },
+    "child_publication": null,
+    "href": "http://data.globalchange.gov/reference/4cba1cf7-b8e6-477b-88fb-e9d0a4195ae1.json",
+    "identifier": "4cba1cf7-b8e6-477b-88fb-e9d0a4195ae1",
+    "uri": "/reference/4cba1cf7-b8e6-477b-88fb-e9d0a4195ae1"
+}

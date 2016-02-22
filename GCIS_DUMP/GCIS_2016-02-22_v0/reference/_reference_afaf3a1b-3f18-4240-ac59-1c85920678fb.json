@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Brubaker, M.\rBell, J.\rRolin, A.",
+        "Institution": "Alaska Native Tribal Health Consortium, Center for Climate and Health",
+        "Pages": "7",
+        "Title": "Climate Change Effects on Traditional Inupiaq Food Cellars. CCH Bulletin No. 1",
+        "URL": "http://www4.nau.edu/tribalclimatechange/tribes/docs/tribes_InupiaqFoodCellars.pdf",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\"]",
+        "_record_number": "301",
+        "_uuid": "afaf3a1b-3f18-4240-ac59-1c85920678fb",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/aknativetribalhealth-cchbulletin-1-2009",
+    "href": "http://data.globalchange.gov/reference/afaf3a1b-3f18-4240-ac59-1c85920678fb.json",
+    "identifier": "afaf3a1b-3f18-4240-ac59-1c85920678fb",
+    "uri": "/reference/afaf3a1b-3f18-4240-ac59-1c85920678fb"
+}

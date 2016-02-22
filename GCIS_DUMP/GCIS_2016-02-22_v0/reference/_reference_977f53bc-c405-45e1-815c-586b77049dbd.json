@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Accession Number": "ISI:A1984TK68600006",
+        "Author": "Alley, W.M.",
+        "Author Address": "ALLEY, WM (reprint author), US GEOL SURVEY,RESTON,VA 22092",
+        "DOI": "10.1175/1520-0450(1984)023<1100:TPDSIL>2.0.CO;2",
+        "Date": "1984",
+        "ISSN": "0733-3021",
+        "Issue": "7",
+        "Journal": "Journal of Climate and Applied Meteorology",
+        "Language": "English",
+        "Pages": "1100-1109",
+        "Title": "The Palmer Drought Severity Index - limitations and assumptions",
+        "Volume": "23",
+        "Year": "1984",
+        "_chapter": "[\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "1248",
+        "_uuid": "977f53bc-c405-45e1-815c-586b77049dbd",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1175/1520-0450(1984)023%3C1100:TPDSIL%3E2.0.CO;2",
+    "href": "http://data.globalchange.gov/reference/977f53bc-c405-45e1-815c-586b77049dbd.json",
+    "identifier": "977f53bc-c405-45e1-815c-586b77049dbd",
+    "uri": "/reference/977f53bc-c405-45e1-815c-586b77049dbd"
+}

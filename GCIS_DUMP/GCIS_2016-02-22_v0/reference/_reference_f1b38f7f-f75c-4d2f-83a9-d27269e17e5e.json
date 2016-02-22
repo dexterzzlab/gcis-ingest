@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2013",
+        "Author": "NOAA, ",
+        "Publisher": "National Oceanic and Atmospheric Administration ",
+        "Title": "Billion Dollar Weather/Climate Disasters, List of Events",
+        "URL": "http://www.ncdc.noaa.gov/billions/events",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\",\"RG 2 Southeast\",\"Ch. 17: Southeast and Caribbean FINAL\",\"RG 1 Northeast\"]",
+        "_record_number": "4610",
+        "_uuid": "f1b38f7f-f75c-4d2f-83a9-d27269e17e5e",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/d70d7a59-45d7-4b38-baf2-86a7fcf12da3",
+    "href": "http://data.globalchange.gov/reference/f1b38f7f-f75c-4d2f-83a9-d27269e17e5e.json",
+    "identifier": "f1b38f7f-f75c-4d2f-83a9-d27269e17e5e",
+    "uri": "/reference/f1b38f7f-f75c-4d2f-83a9-d27269e17e5e"
+}

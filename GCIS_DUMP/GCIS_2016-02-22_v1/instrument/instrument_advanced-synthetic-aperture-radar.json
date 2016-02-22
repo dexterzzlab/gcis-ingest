@@ -1,0 +1,8 @@
+{
+    "description": "Imaging radar (SAR)",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/advanced-synthetic-aperture-radar.json",
+    "identifier": "advanced-synthetic-aperture-radar",
+    "name": "Advanced Synthetic-Aperture Radar",
+    "uri": "/instrument/advanced-synthetic-aperture-radar"
+}

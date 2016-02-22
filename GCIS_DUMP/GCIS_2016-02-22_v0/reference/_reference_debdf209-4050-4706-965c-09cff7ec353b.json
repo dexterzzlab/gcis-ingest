@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        ".publisher": "Springer Netherlands",
+        ".reference_type": "0",
+        "Alternate Journal": "Climatic Change",
+        "Author": "Voggesser, Garrit\rLynn, Kathy\rDaigle, John\rLake, Frank K.\rRanco, Darren",
+        "DOI": "10.1007/s10584-013-0733-4",
+        "Date": "October 2013",
+        "Epub Date": "2013/03/29",
+        "ISSN": "0165-0009",
+        "Issue": "3",
+        "Journal": "Climatic Change",
+        "Language": "English",
+        "Pages": "615-626",
+        "Title": "Cultural impacts to tribes from climate change influences on forests",
+        "Volume": "120",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 12: Indigenous FINAL\",\"RG 6 Northwest\",\"Ch. 1: Overview FINAL\",\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "3852",
+        "_uuid": "debdf209-4050-4706-965c-09cff7ec353b",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-013-0733-4",
+    "href": "http://data.globalchange.gov/reference/debdf209-4050-4706-965c-09cff7ec353b.json",
+    "identifier": "debdf209-4050-4706-965c-09cff7ec353b",
+    "uri": "/reference/debdf209-4050-4706-965c-09cff7ec353b"
+}

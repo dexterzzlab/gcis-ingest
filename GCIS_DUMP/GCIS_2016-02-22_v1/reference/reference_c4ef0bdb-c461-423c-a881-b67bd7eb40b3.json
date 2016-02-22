@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Mundy, P. R.\rEvenson, D. F.",
+        "DOI": "10.1093/icesjms/fsr080",
+        "ISSN": "1054-3139, 1095-9289",
+        "Issue": "6",
+        "Journal": "ICES Journal of Marine Science",
+        "Keywords": "native",
+        "Pages": "1155-1164",
+        "Title": "Environmental controls of phenology of high-latitude Chinook salmon populations of the Yukon River, North America, with application to fishery management",
+        "URL": "http://icesjms.oxfordjournals.org/content/68/6/1155.full.pdf+html",
+        "Volume": "68",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "2128",
+        "_uuid": "c4ef0bdb-c461-423c-a881-b67bd7eb40b3",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1093/icesjms/fsr080",
+    "href": "http://data.globalchange.gov/reference/c4ef0bdb-c461-423c-a881-b67bd7eb40b3.json",
+    "identifier": "c4ef0bdb-c461-423c-a881-b67bd7eb40b3",
+    "uri": "/reference/c4ef0bdb-c461-423c-a881-b67bd7eb40b3"
+}

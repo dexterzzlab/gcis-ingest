@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Following the suggestions of a recent National Research Council report [NRC (National Research Council) (2006) Surface Temperature Reconstructions for the Last 2,000 Years (Natl Acad Press, Washington, DC).], we reconstruct surface temperature at hemispheric and global scale for much of the last 2,000 years using a greatly expanded set of proxy data for decadal-to-centennial climate changes, recently updated instrumental data, and complementary methods that have been thoroughly tested and validated with model simulation experiments. Our results extend previous conclusions that recent Northern Hemisphere surface temperature increases are likely anomalous in a long-term context. Recent warmth appears anomalous for at least the past 1,300 years whether or not tree-ring data are used. If tree-ring data are used, the conclusion can be extended to at least the past 1,700 years, but with additional strong caveats. The reconstructed amplitude of change over past centuries is greater than hitherto reported, with somewhat greater Medieval warmth in the Northern Hemisphere, albeit still not reaching recent levels.",
+        "Accession Number": "48",
+        "Author": "Mann, M.E.\rZhang, Z.\rHughes, M.K.\rBradley, R.S.\rMiller, S.K.\rRutherford, S.\rNi, F.",
+        "Author Address": "Mann, ME (reprint author), Penn State Univ, Dept Meteorol, University Pk, PA 16802 USA; Penn State Univ, Dept Meteorol, University Pk, PA 16802 USA; Penn State Univ, Earth & Environm Syst Inst, University Pk, PA 16802 USA; Univ Arizona, Tree Ring Res Lab, Tucson, AZ 85721 USA; Univ Massachusetts, Dept Geosci, Amherst, MA 01003 USA; Roger Williams Univ, Dept Environm Sci, Bristol, RI 02809 USA",
+        "DOI": "10.1073/pnas.0805721105",
+        "Date": "SEP 9 2008",
+        "ISSN": "0027-8424",
+        "Issue": "36",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Keywords": "climate change; global warming; TREE-RING CHRONOLOGIES; MEDIEVAL WARM PERIOD; NORTHERN-HEMISPHERE; FIELD RECONSTRUCTION; CLIMATE; VARIABILITY; CENTURIES; ATLANTIC; SENSITIVITY; RESOLUTION",
+        "Language": "English",
+        "Pages": "13252-13257",
+        "Title": "Proxy-based reconstructions of hemispheric and global surface temperature variations over the past two millennia",
+        "URL": "http://www.jstor.org/stable/pdfplus/25464030.pdf",
+        "Volume": "105",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\",\"Ch. 2: Our Changing Climate FINAL\",\"Appendix 4: FAQs FINAL\",\"Appendix 3: Climate Science FINAL\"]",
+        "_record_number": "1869",
+        "_uuid": "ade3fd09-603e-4fae-b252-1a4142392ea0",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.0805721105",
+    "href": "http://data.globalchange.gov/reference/ade3fd09-603e-4fae-b252-1a4142392ea0.json",
+    "identifier": "ade3fd09-603e-4fae-b252-1a4142392ea0",
+    "uri": "/reference/ade3fd09-603e-4fae-b252-1a4142392ea0"
+}

@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Richardson, A.D.\rAndy Black, T.\rCiais, P.\rDelbart, N.\rFriedl, M.A.\rGobron, N.\rHollinger, D.Y.\rKutsch, W.L.\rLongdoz, B.\rLuyssaert, S.\rMigliavacca, Mirco\rMontagnani, Leonardo\rWilliam Munger, J.\rMoors, Eddy\rPiao, Shilong\rRebmann, Corinna\rReichstein, Markus\rSaigusa, Nobuko\rTomelleri, Enrico\rVargas, Rodrigo\rVarlagin, Andrej",
+        "DOI": "10.1098/rstb.2010.0102",
+        "ISSN": "0962-8436",
+        "Issue": "1555",
+        "Journal": "Philosophical Transactions of the Royal Society B: Biological Sciences",
+        "Pages": "3227-3246",
+        "Title": "Influence of spring and autumn phenological transitions on forest ecosystem productivity",
+        "URL": "http://rstb.royalsocietypublishing.org/content/365/1555/3227.full.pdf+html",
+        "Volume": "365",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 27: Mitigation FINAL\"]",
+        "_record_number": "2628",
+        "_uuid": "40546624-86ee-401c-9535-ef1d3bc71432",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1098/rstb.2010.0102",
+    "href": "http://data.globalchange.gov/reference/40546624-86ee-401c-9535-ef1d3bc71432.json",
+    "identifier": "40546624-86ee-401c-9535-ef1d3bc71432",
+    "uri": "/reference/40546624-86ee-401c-9535-ef1d3bc71432"
+}

@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2012",
+        "Author": "NWS,",
+        "Title": "Weather Fatalities",
+        "URL": "http://www.nws.noaa.gov/os/hazstats/resources/weather_fatalities.pdf",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\",\"Overview\"]",
+        "_record_number": "3629",
+        "_uuid": "7ba99ad0-32b3-4d1c-aef7-f898e7e87b07",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/33685a97-cf78-4862-a9d4-26c9ab81c6ea",
+    "href": "http://data.globalchange.gov/reference/7ba99ad0-32b3-4d1c-aef7-f898e7e87b07.json",
+    "identifier": "7ba99ad0-32b3-4d1c-aef7-f898e7e87b07",
+    "uri": "/reference/7ba99ad0-32b3-4d1c-aef7-f898e7e87b07"
+}

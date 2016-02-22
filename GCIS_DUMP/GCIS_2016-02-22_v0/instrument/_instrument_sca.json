@@ -1,0 +1,8 @@
+{
+    "description": "Radar scatterometer",
+    "description_attribution": null,
+    "href": "http://data.globalchange.gov/instrument/sca.json",
+    "identifier": "sca",
+    "name": "SCA",
+    "uri": "/instrument/sca"
+}

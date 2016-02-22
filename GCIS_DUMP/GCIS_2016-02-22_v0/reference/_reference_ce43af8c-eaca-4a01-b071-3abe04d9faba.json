@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "1",
+        "Author": "Berkes, F.\rC. Folke",
+        "ISBN": "0521591406",
+        "Number of Pages": "476",
+        "Place Published": "Cambridge, UK, New York, New York, Melbourne, Australia, and Madrid, Spain",
+        "Publisher": "University of Cambridge",
+        "Reviewer": "ce43af8c-eaca-4a01-b071-3abe04d9faba",
+        "Title": "Linking Social and Ecological Systems: Management Practices and Social Mechanisms for Building Resilience",
+        "Year": "1998",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\"]",
+        "_record_number": "1056",
+        "_uuid": "ce43af8c-eaca-4a01-b071-3abe04d9faba",
+        "reftype": "Book"
+    },
+    "child_publication": "/book/5b008dc7-5774-4d0f-88e8-54663c2cc95a",
+    "href": "http://data.globalchange.gov/reference/ce43af8c-eaca-4a01-b071-3abe04d9faba.json",
+    "identifier": "ce43af8c-eaca-4a01-b071-3abe04d9faba",
+    "uri": "/reference/ce43af8c-eaca-4a01-b071-3abe04d9faba"
+}

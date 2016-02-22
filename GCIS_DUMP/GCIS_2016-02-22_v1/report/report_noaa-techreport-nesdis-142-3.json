@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/noaa-techreport-nesdis-142-3.json",
+    "identifier": "noaa-techreport-nesdis-142-3",
+    "in_library": null,
+    "publication_year": 2013,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Regional Climate Trends and Scenarios for the U.S. National Climate Assessment: Part 3. Climate of the Midwest U.S. NOAA Technical Report NESDIS 142-3",
+    "topic": null,
+    "uri": "/report/noaa-techreport-nesdis-142-3",
+    "url": "http://www.nesdis.noaa.gov/technical_reports/NOAA_NESDIS_Tech_Report_142-3-Climate_of_the_Midwest_U.S.pdf"
+}

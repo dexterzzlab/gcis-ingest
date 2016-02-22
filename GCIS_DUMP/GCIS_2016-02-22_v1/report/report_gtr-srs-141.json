@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/gtr-srs-141.json",
+    "identifier": "gtr-srs-141",
+    "in_library": null,
+    "publication_year": 2011,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Forecasts of County-Level Land Uses under Three Future Scenarios: A Technical Document Supporting the Forest Service 2010 RPA Assessment. General Technical Report SRS-141",
+    "topic": null,
+    "uri": "/report/gtr-srs-141",
+    "url": "http://www.srs.fs.usda.gov/pubs/gtr/gtr_srs141.pdf"
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Cooley, S.R.\rKite-Powell, H.L.\rHauke, L.\rDoney, S.C.",
+        "DOI": "10.5670/oceanog.2009.106",
+        "Issue": "4",
+        "Journal": "Oceanography",
+        "Pages": "172-181",
+        "Title": "Ocean acidification\u2019s potential to alter global marine ecosystem services",
+        "Volume": "22",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\",\"RF 11\"]",
+        "_record_number": "1208",
+        "_uuid": "2f1dcb89-554b-42ed-86bd-2c6e6a5bb27e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.5670/oceanog.2009.106",
+    "href": "http://data.globalchange.gov/reference/2f1dcb89-554b-42ed-86bd-2c6e6a5bb27e.json",
+    "identifier": "2f1dcb89-554b-42ed-86bd-2c6e6a5bb27e",
+    "uri": "/reference/2f1dcb89-554b-42ed-86bd-2c6e6a5bb27e"
+}

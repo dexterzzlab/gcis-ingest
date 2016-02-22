@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Trends in surface temperature, vegetation greenness, and duration of growing season, North America and Eurasia, 1982-1999 (left) Temperature and greenness; (right) Changes in growing season duration. An analysis of two decades of satellite data confirms that the growing season in the Northern Hemisphere is getting longer and that plant life is also becoming more lush. Ground-based temperature data and satellite-based vegetation data indicate that year-to-year changes in growth and duration of the growing season of northern vegetation are tightly linked to year-to-year changes in temperature. The greening trend is more pronounced in Eurasia than in North America, particularly throughout the forests and woodlands in central Europe, Siberia, and the Russian far east. Credit: Boston University Climate and Vegetation Research Group; NASA Goddard Space Flight Center.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "20/c3/6c3de05609f361d8e2ece1ccc6a9/our_changing_planet_2003_22_20090708_1347619788.jpg",
+            "href": "http://data.globalchange.gov/assets/20/c3/6c3de05609f361d8e2ece1ccc6a9/our_changing_planet_2003_22_20090708_1347619788.jpg",
+            "identifier": "28758021-ae57-486f-ac1b-6646fbcd4bbc",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "eb0acae43818e9c83056d789d3b2777411a58722",
+            "size": 86743,
+            "thumbnail": "20/c3/6c3de05609f361d8e2ece1ccc6a9/.thumb-28758021-ae57-486f-ac1b-6646fbcd4bbc.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/20/c3/6c3de05609f361d8e2ece1ccc6a9/.thumb-28758021-ae57-486f-ac1b-6646fbcd4bbc.png",
+            "uri": "/file/28758021-ae57-486f-ac1b-6646fbcd4bbc",
+            "url": "/assets/20/c3/6c3de05609f361d8e2ece1ccc6a9/our_changing_planet_2003_22_20090708_1347619788.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2003/figure/trends-surface-temperature-vegetation-greenness-b.json",
+    "identifier": "trends-surface-temperature-vegetation-greenness-b",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2003",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Trends in Surface Temperature and Vegetation Greenness (b)",
+    "uri": "/report/ccsp-ocpfy2003/figure/trends-surface-temperature-vegetation-greenness-b",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

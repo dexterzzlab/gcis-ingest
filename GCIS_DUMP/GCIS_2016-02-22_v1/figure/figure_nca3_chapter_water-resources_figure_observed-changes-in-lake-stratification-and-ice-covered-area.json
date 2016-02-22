@@ -1,0 +1,114 @@
+{
+    "attributes": null,
+    "caption": "The length of the season in which differences in lake temperatures with depth cause stratification (separate density layers) is increasing in many lakes. In this case, measurements show stratification has been increasing in Lake Tahoe (top left) since the 1960s and in Lake Superior (top right) since the early 1900s in response to increasing air and surface water temperatures (see also Ch. 18: Midwest). In Lake Tahoe, because of its large size (relative to inflow) and resulting long water-residence times, other influences on stratification have been largely overwhelmed, and warming air and water temperatures have caused progressive declines in near-surface density, leading to longer stratification seasons (by an average of 20 days), decreasing the opportunities for deep lake mixing, reducing oxygen levels, and causing impacts to many species and numerous aspects of aquatic ecosytems.<tbib>0bd9cfef-4cd5-4b20-b953-04ecad0bd71c</tbib> Similar effects are observed in Lake Superior,<tbib>5d9dedb4-4383-471f-9cee-05e0b16a457c</tbib> where the stratification season is lengthening (top right) and annual ice-covered area is declining (bottom); both observed changes are consistent with increasing air and water temperatures.",
+    "chapter": {
+        "doi": "10.7930/J0G44N6T",
+        "identifier": "water-resources",
+        "number": 3,
+        "report_identifier": "nca3",
+        "sort_key": 30,
+        "title": "Water Resources",
+        "url": "http://nca2014.globalchange.gov/report/sectors/water"
+    },
+    "chapter_identifier": "water-resources",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-08-28T16:38:00",
+    "files": [
+        {
+            "file": "49/d1/31c8428b01dcea2a9f24aaef3681/Water_lake_stratification_V5.png",
+            "href": "http://data.globalchange.gov/assets/49/d1/31c8428b01dcea2a9f24aaef3681/Water_lake_stratification_V5.png",
+            "identifier": "37a53cfb-4a9d-48a5-9eec-85386905d4f2",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "9390760eba1cdaa0f89e6daf09b01e53201feee4",
+            "size": 243049,
+            "thumbnail": "49/d1/31c8428b01dcea2a9f24aaef3681/.thumb-37a53cfb-4a9d-48a5-9eec-85386905d4f2.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/49/d1/31c8428b01dcea2a9f24aaef3681/.thumb-37a53cfb-4a9d-48a5-9eec-85386905d4f2.png",
+            "uri": "/file/37a53cfb-4a9d-48a5-9eec-85386905d4f2",
+            "url": "/assets/49/d1/31c8428b01dcea2a9f24aaef3681/Water_lake_stratification_V5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/water-resources/figure/observed-changes-in-lake-stratification-and-ice-covered-area.json",
+    "identifier": "observed-changes-in-lake-stratification-and-ice-covered-area",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-08-28T16:38:00",
+            "description": null,
+            "identifier": "2b483d0b-dc48-4007-943a-2bd38d5aaa76",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Observed Changes in Lake Stratification and Ice Covered Area - Lake Tahoe: Stratification Season Length (Top Left)",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2013-08-28T16:38:00",
+            "description": null,
+            "identifier": "43ad9e77-0e20-461a-9e1c-9959d3b7c407",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Observed Changes in Lake Stratification Season and Ice Covered Area - Lake Superior: Stratification Season Length (Top Right)",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": null,
+            "create_dt": "2013-08-28T16:38:00",
+            "description": null,
+            "identifier": "83f975af-ad98-4911-b540-9c2d3f49293e",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Observed Changes in Lake Stratification Season and Ice Covered Area - Lake Superior: Ice Covered Area (Bottom)",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 7,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/0bd9cfef-4cd5-4b20-b953-04ecad0bd71c.json",
+            "uri": "/reference/0bd9cfef-4cd5-4b20-b953-04ecad0bd71c"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/5d9dedb4-4383-471f-9cee-05e0b16a457c.json",
+            "uri": "/reference/5d9dedb4-4383-471f-9cee-05e0b16a457c"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Observed Changes in Lake Stratification and Ice Covered Area",
+    "uri": "/report/nca3/chapter/water-resources/figure/observed-changes-in-lake-stratification-and-ice-covered-area",
+    "url": "http://nca2014.globalchange.gov/report/sectors/water/graphics/observed-changes-lake-stratification-and-ice-covered-area",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

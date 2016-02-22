@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "U.S. Census Bureau,",
+        "Institution": "U.S. Census Bureau, U.S Department of Commerce",
+        "Pages": "533-558",
+        "Place Published": "Washington, D.C.",
+        "Title": "The 2012 Statistical Abstract: Agriculture",
+        "URL": "http://www.census.gov/prod/2011pubs/12statab/agricult.pdf",
+        "Volume": "2012",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\",\"RF 8\"]",
+        "_record_number": "4298",
+        "_uuid": "299e7a00-e916-4838-aa48-3100991d5fec",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/census-saagriculture-2012",
+    "href": "http://data.globalchange.gov/reference/299e7a00-e916-4838-aa48-3100991d5fec.json",
+    "identifier": "299e7a00-e916-4838-aa48-3100991d5fec",
+    "uri": "/reference/299e7a00-e916-4838-aa48-3100991d5fec"
+}

@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/epa-greenhousegasinventory-1990-2009.json",
+    "identifier": "epa-greenhousegasinventory-1990-2009",
+    "in_library": null,
+    "publication_year": 2011,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Inventory of U.S. Greenhouse Gas Emissions and Sinks: 2000 \u2013 2009. EPA 430-R-11-005",
+    "topic": null,
+    "uri": "/report/epa-greenhousegasinventory-1990-2009",
+    "url": "http://www.epa.gov/climatechange/Downloads/ghgemissions/US-GHG-Inventory-2011-Complete_Report.pdf"
+}

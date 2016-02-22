@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Vanderwel, Mark C.\rCoomes, David A.\rPurves, Drew W.",
+        "DOI": "10.1111/gcb.12152",
+        "ISSN": "1365-2486",
+        "Issue": "5",
+        "Journal": "Global Change Biology",
+        "Keywords": "CAIN\rcarbon fluxes\rforest inventory and analysis\rhierarchical Bayes\rmortality\rsimulation modeling\rtree demography",
+        "Pages": "1504-1517",
+        "Title": "Quantifying variation in forest disturbance, and its effects on aboveground biomass dynamics, across the eastern United States",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/gcb.12152/pdf",
+        "Volume": "19",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "4148",
+        "_uuid": "0c427475-7d17-4825-9728-c629435ef9ad",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/gcb.12152",
+    "href": "http://data.globalchange.gov/reference/0c427475-7d17-4825-9728-c629435ef9ad.json",
+    "identifier": "0c427475-7d17-4825-9728-c629435ef9ad",
+    "uri": "/reference/0c427475-7d17-4825-9728-c629435ef9ad"
+}

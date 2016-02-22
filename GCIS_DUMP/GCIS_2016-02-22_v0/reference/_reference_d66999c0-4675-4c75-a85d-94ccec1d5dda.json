@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "Ince, P.J.\rSchuler, A.\rSpelter, H.\rLuppold, W.",
+        "Institution": "U.S. Department of Agriculture, Forest Service, Forest Products Laboratory",
+        "Pages": "62",
+        "Place Published": "Madison, WI",
+        "Title": "Globalization and Structural Change in the U.S. Forest Sector: An Evolving Context for Sustainable Forest Management. General Technical Report FPL-GTR-170",
+        "URL": "http://www.fpl.fs.fed.us/documnts/fplgtr/fpl_gtr170.pdf",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 7: Forests FINAL\"]",
+        "_record_number": "794",
+        "_uuid": "d66999c0-4675-4c75-a85d-94ccec1d5dda",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/usfs-fpl-gtr-170",
+    "href": "http://data.globalchange.gov/reference/d66999c0-4675-4c75-a85d-94ccec1d5dda.json",
+    "identifier": "d66999c0-4675-4c75-a85d-94ccec1d5dda",
+    "uri": "/reference/d66999c0-4675-4c75-a85d-94ccec1d5dda"
+}

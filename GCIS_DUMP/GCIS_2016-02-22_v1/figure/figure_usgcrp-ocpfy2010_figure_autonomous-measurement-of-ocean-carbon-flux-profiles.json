@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Left: the Carbon Flux Explorer at dawn near San Diego awaiting recovery after its first two day mission monitoring carbon sedimentation at depths of 800 m. Schematics on right illustrate (a) the Carbon Flux Explorer, the integration of Berkeley Lab\u2019s Optical Sedimentation Recorder (OSR) and Scripps\u2019 Sounding Oceanographic Lagrangian Observer (SOLO) profiling float. (b) Detail of the OSR. The SOLO communicates to the OSR its dive status and pending actions. The OSR communicates reduced data to the SOLO for real-time relay to Iridium satellites and shore. Credit: J.K.B. Bishop, University of California.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "f4/e8/6ebccfb9c205d3956fba2568f769/our_changing_planet_2010_image__8_20091209_2067287700.jpg",
+            "href": "http://data.globalchange.gov/assets/f4/e8/6ebccfb9c205d3956fba2568f769/our_changing_planet_2010_image__8_20091209_2067287700.jpg",
+            "identifier": "dc7784c5-ab6b-4872-83d4-3800c80570ca",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "089cb879d0a864c1ff328dda033b7ec24301fae2",
+            "size": 268640,
+            "thumbnail": "f4/e8/6ebccfb9c205d3956fba2568f769/.thumb-dc7784c5-ab6b-4872-83d4-3800c80570ca.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/f4/e8/6ebccfb9c205d3956fba2568f769/.thumb-dc7784c5-ab6b-4872-83d4-3800c80570ca.png",
+            "uri": "/file/dc7784c5-ab6b-4872-83d4-3800c80570ca",
+            "url": "/assets/f4/e8/6ebccfb9c205d3956fba2568f769/our_changing_planet_2010_image__8_20091209_2067287700.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2010/figure/autonomous-measurement-of-ocean-carbon-flux-profiles.json",
+    "identifier": "autonomous-measurement-of-ocean-carbon-flux-profiles",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2010",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Autonomous Measurement of Ocean Carbon Flux Profiles",
+    "uri": "/report/usgcrp-ocpfy2010/figure/autonomous-measurement-of-ocean-carbon-flux-profiles",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

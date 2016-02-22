@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "9",
+        "Editor": "Krupnik, I.\rJolly, D.",
+        "ISBN": "0-9720449-0-6",
+        "Number of Pages": "383",
+        "Publisher": "Arctic Research Consortium of the United States",
+        "Series Title": "Fairbanks, AK",
+        "Title": "The Earth Is Faster Now: Indigenous Observations of Arctic Environmental Change. Frontiers in Polar Social Science",
+        "Year": "2002",
+        "_chapter": "[\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "552",
+        "_uuid": "cbd0ab6c-10d6-45f0-9c90-9054bbd94b49",
+        "reftype": "Edited Book"
+    },
+    "child_publication": "/book/476cbe38-3da5-4799-96b6-a35e2fd103d4",
+    "href": "http://data.globalchange.gov/reference/cbd0ab6c-10d6-45f0-9c90-9054bbd94b49.json",
+    "identifier": "cbd0ab6c-10d6-45f0-9c90-9054bbd94b49",
+    "uri": "/reference/cbd0ab6c-10d6-45f0-9c90-9054bbd94b49"
+}

@@ -1,0 +1,87 @@
+{
+    "attributes": null,
+    "caption": "Trend magnitude (triangle size) and direction (green = increasing trend, brown = decreasing trend) of annual flood magnitude from the 1920s through 2008. Flooding in local areas can be affected by multiple factors, including land-use change, dams, and diversions of water for use. Most significant are increasing trends for floods in Midwest and Northeast, and a decreasing trend in the Southwest.(Figure source: Peterson et al. 2013<tbib>e15600d0-290f-44e2-9b58-9ffd295ee6d2</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0G44N6T",
+        "identifier": "water-resources",
+        "number": 3,
+        "report_identifier": "nca3",
+        "sort_key": 30,
+        "title": "Water Resources",
+        "url": "http://nca2014.globalchange.gov/report/sectors/water"
+    },
+    "chapter_identifier": "water-resources",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-06T11:23:00",
+    "files": [
+        {
+            "file": "1d/89/e66b10ac42eeb870dd8146d6128b/CS-Water_flood_trends_v5.png",
+            "href": "http://data.globalchange.gov/assets/1d/89/e66b10ac42eeb870dd8146d6128b/CS-Water_flood_trends_v5.png",
+            "identifier": "bdba73bc-2e14-4609-a50c-cde0ed54e12a",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "ad5bb554741113cd0c62c6551f50c367c20abf63",
+            "size": 171699,
+            "thumbnail": "1d/89/e66b10ac42eeb870dd8146d6128b/.thumb-bdba73bc-2e14-4609-a50c-cde0ed54e12a.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/1d/89/e66b10ac42eeb870dd8146d6128b/.thumb-bdba73bc-2e14-4609-a50c-cde0ed54e12a.png",
+            "uri": "/file/bdba73bc-2e14-4609-a50c-cde0ed54e12a",
+            "url": "/assets/1d/89/e66b10ac42eeb870dd8146d6128b/CS-Water_flood_trends_v5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/water-resources/figure/trends-in-flood-magnitude.json",
+    "identifier": "trends-in-flood-magnitude",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2013-11-06T11:23:00",
+            "description": null,
+            "identifier": "eab9f2d3-6ebf-40ef-9d9b-fc7f9d62e693",
+            "lat_max": "49.38",
+            "lat_min": "24.50",
+            "lon_max": "-66.95",
+            "lon_min": "-124.80",
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Trends in Flood Magnitude",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [
+        "/report/nca3/chapter/our-changing-climate/figure/cs-trends-in-flood-magnitude"
+    ],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 5,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Monitoring and Understanding Changes in Heat Waves, Cold Waves, Floods, and Droughts in the United States: State of Knowledge",
+            "note": null,
+            "publication_type_identifier": "article",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/article/10.1175/BAMS-D-12-00066.1"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/e15600d0-290f-44e2-9b58-9ffd295ee6d2.json",
+            "uri": "/reference/e15600d0-290f-44e2-9b58-9ffd295ee6d2"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "Peterson et al. 2013<tbib>e15600d0-290f-44e2-9b58-9ffd295ee6d2</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Trends in Flood Magnitude",
+    "uri": "/report/nca3/chapter/water-resources/figure/trends-in-flood-magnitude",
+    "url": "http://nca2014.globalchange.gov/highlights/report-findings/extreme-weather/graphics/trends-flood-magnitude",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

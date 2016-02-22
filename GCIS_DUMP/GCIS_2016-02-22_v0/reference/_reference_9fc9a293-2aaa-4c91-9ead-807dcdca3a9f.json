@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Keith, P.",
+        "DOI": "10.1046/j.1095-8649.2003.00197.x",
+        "ISSN": "0195-8649",
+        "Issue": "4",
+        "Journal": "Journal of Fish Biology",
+        "Notes": "Keith, P. (2003). Biology and ecology of amphidromous Gobiidae of the Indo-Pacific and the Caribbean regions. <i>Journal of Fish Biology, 63</i>, 831-847",
+        "Pages": "831-847",
+        "Title": "Biology and ecology of amphidromous Gobiidae of the Indo-Pacific and the Caribbean regions",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1046/j.1095-8649.2003.00197.x/pdf",
+        "Volume": "63",
+        "Year": "2003",
+        "_chapter": "[\"Ch. 23: Hawaii FINAL\"]",
+        "_record_number": "159",
+        "_uuid": "9fc9a293-2aaa-4c91-9ead-807dcdca3a9f",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1046/j.1095-8649.2003.00197.x",
+    "href": "http://data.globalchange.gov/reference/9fc9a293-2aaa-4c91-9ead-807dcdca3a9f.json",
+    "identifier": "9fc9a293-2aaa-4c91-9ead-807dcdca3a9f",
+    "uri": "/reference/9fc9a293-2aaa-4c91-9ead-807dcdca3a9f"
+}

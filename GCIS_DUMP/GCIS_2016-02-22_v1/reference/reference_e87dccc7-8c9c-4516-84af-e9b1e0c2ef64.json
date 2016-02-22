@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        ".publisher": "John Wiley & Sons, Ltd",
+        ".reference_type": "0",
+        "Author": "Reba, Michele L.\rPomeroy, John\rMarks, Danny\rLink, Timothy E.",
+        "DOI": "10.1002/hyp.8372",
+        "ISSN": "1099-1085",
+        "Issue": "24",
+        "Journal": "Hydrological Processes",
+        "Keywords": "eddy covariance\rsnow\rsublimation",
+        "Pages": "3699-3711",
+        "Title": "Estimating surface sublimation losses from snowpacks in a mountain catchment using eddy covariance and turbulent transfer calculations",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1002/hyp.8372/pdf",
+        "Volume": "26",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "4132",
+        "_uuid": "e87dccc7-8c9c-4516-84af-e9b1e0c2ef64",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1002/hyp.8372",
+    "href": "http://data.globalchange.gov/reference/e87dccc7-8c9c-4516-84af-e9b1e0c2ef64.json",
+    "identifier": "e87dccc7-8c9c-4516-84af-e9b1e0c2ef64",
+    "uri": "/reference/e87dccc7-8c9c-4516-84af-e9b1e0c2ef64"
+}

@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "WSDOT,",
+        "Institution": "Washington State Department of Transportation",
+        "Pages": "70",
+        "Title": "Climate Impacts Vulnerability Assessment",
+        "URL": "http://www.wsdot.wa.gov/NR/rdonlyres/B290651B-24FD-40EC-BEC3-EE5097ED0618/0/WSDOTClimateImpactsVulnerabilityAssessmentforFHWAFinal.pdf",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "3486",
+        "_uuid": "16d2d20e-2766-4590-89b2-817e6233034e",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/wsdot-civa-2011",
+    "href": "http://data.globalchange.gov/reference/16d2d20e-2766-4590-89b2-817e6233034e.json",
+    "identifier": "16d2d20e-2766-4590-89b2-817e6233034e",
+    "uri": "/reference/16d2d20e-2766-4590-89b2-817e6233034e"
+}

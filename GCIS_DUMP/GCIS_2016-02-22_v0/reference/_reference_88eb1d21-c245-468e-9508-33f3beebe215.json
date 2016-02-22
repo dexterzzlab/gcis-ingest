@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Levitus, S.\rAntonov, J.I.\rBoyer, T.P.\rLocarnini, R.A.\rGarcia, H.E.\rMishonov, A.V.",
+        "DOI": "10.1029/2008GL037155",
+        "Issue": "7",
+        "Journal": "Geophysical Research Letters",
+        "Pages": "L07608",
+        "Title": "Global ocean heat content 1955\u20132008 in light of recently revealed instrumentation problems",
+        "Volume": "36",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 24: Oceans FINAL\"]",
+        "_record_number": "778",
+        "_uuid": "88eb1d21-c245-468e-9508-33f3beebe215",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2008GL037155",
+    "href": "http://data.globalchange.gov/reference/88eb1d21-c245-468e-9508-33f3beebe215.json",
+    "identifier": "88eb1d21-c245-468e-9508-33f3beebe215",
+    "uri": "/reference/88eb1d21-c245-468e-9508-33f3beebe215"
+}

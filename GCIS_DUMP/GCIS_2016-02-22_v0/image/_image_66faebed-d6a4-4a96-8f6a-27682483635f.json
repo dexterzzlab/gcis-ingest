@@ -1,0 +1,61 @@
+{
+    "attributes": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2013-11-19T20:15:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "(a) Groundwater aquifers are found throughout the U.S., but they vary widely in terms of ability to store and recharge water. The colors on this map illustrate aquifer location and geology: blue colors indicate unconsolidated sand and gravel; yellow is semi-consolidated sand; green is sandstone; blue or purple is sandstone and carbonate\u2010rock; browns are carbonate-rock; red is igneous and metamorphic rock; and white is other aquifer types. (Figure source: USGS).\r\n\t(b) Ratio of groundwater withdrawals to total water withdrawals from all surface and groundwater sources by county. The map illustrates that aquifers are the main (and often exclusive) water supply source for many U.S. regions, especially in the Great Plains, Misssissippi Valley, east central U.S., Great Lakes region, Florida, and other coastal areas. Groundwater aquifers in these regions are prone to impacts due to combined climate and water-use change. (Data from USGS 2005).",
+            "chapter_identifier": "water-resources",
+            "create_dt": "2013-11-19T20:15:00",
+            "identifier": "principal-us-groundwater-aquifers-and-use",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 6,
+            "report_identifier": "nca3",
+            "source_citation": "USGS",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Principal U.S. Groundwater Aquifers and Use",
+            "url": "http://nca2014.globalchange.gov/report/sectors/water/graphics/principal-us-groundwater-aquifers-and-use",
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "d1/38/3535a1d6a5bcb7b9464698852987/water_fig3-6_top.png",
+            "href": "http://data.globalchange.gov/assets/d1/38/3535a1d6a5bcb7b9464698852987/water_fig3-6_top.png",
+            "identifier": "a6c89805-a94f-42f4-8c21-3e940fb6a2db",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "591f210b3648484c5e69922f5cf4b2818d367d16",
+            "size": 838244,
+            "thumbnail": "d1/38/3535a1d6a5bcb7b9464698852987/.thumb-a6c89805-a94f-42f4-8c21-3e940fb6a2db.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/d1/38/3535a1d6a5bcb7b9464698852987/.thumb-a6c89805-a94f-42f4-8c21-3e940fb6a2db.png",
+            "uri": "/file/a6c89805-a94f-42f4-8c21-3e940fb6a2db",
+            "url": "/assets/d1/38/3535a1d6a5bcb7b9464698852987/water_fig3-6_top.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/66faebed-d6a4-4a96-8f6a-27682483635f.json",
+    "identifier": "66faebed-d6a4-4a96-8f6a-27682483635f",
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "parents": [],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Principal U.S. Groundwater Aquifers and Use - Top",
+    "uri": "/image/66faebed-d6a4-4a96-8f6a-27682483635f",
+    "url": null,
+    "usage_limits": null
+}

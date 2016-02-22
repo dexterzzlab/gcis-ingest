@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Hofmann, G.E.\rTodgham, A.E.",
+        "DOI": "10.1146/annurev-physiol-021909-135900",
+        "ISSN": "0066-4278",
+        "Issue": "1",
+        "Journal": "Annual Review of Physiology",
+        "Pages": "127-145",
+        "Title": "Living in the now: Physiological mechanisms to tolerate a rapidly changing environment",
+        "Volume": "72",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "1059",
+        "_uuid": "7176874c-7ebc-414b-b3f3-bbd6f018f536",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1146/annurev-physiol-021909-135900",
+    "href": "http://data.globalchange.gov/reference/7176874c-7ebc-414b-b3f3-bbd6f018f536.json",
+    "identifier": "7176874c-7ebc-414b-b3f3-bbd6f018f536",
+    "uri": "/reference/7176874c-7ebc-414b-b3f3-bbd6f018f536"
+}

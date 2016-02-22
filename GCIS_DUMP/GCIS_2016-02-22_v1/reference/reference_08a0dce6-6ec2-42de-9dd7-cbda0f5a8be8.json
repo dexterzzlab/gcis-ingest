@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Walker, B.\rJ. A. Meyers",
+        "Issue": "2",
+        "Journal": "Ecology and Society",
+        "Pages": "3",
+        "Title": "Thresholds in ecological and social-ecological systems: A developing data base",
+        "URL": "http://web.usal.es/~ansa/sosa/articulos/jose_artoni_garcia_rodriguez_articulos/estados%20est%20alter.pdf",
+        "Volume": "9",
+        "Year": "2004",
+        "_chapter": "[\"Ch. 19: Great Plains FINAL\"]",
+        "_record_number": "3321",
+        "_uuid": "08a0dce6-6ec2-42de-9dd7-cbda0f5a8be8",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/thresholds-in-ecological-and-socialecological-systems-a-developing-database",
+    "href": "http://data.globalchange.gov/reference/08a0dce6-6ec2-42de-9dd7-cbda0f5a8be8.json",
+    "identifier": "08a0dce6-6ec2-42de-9dd7-cbda0f5a8be8",
+    "uri": "/reference/08a0dce6-6ec2-42de-9dd7-cbda0f5a8be8"
+}

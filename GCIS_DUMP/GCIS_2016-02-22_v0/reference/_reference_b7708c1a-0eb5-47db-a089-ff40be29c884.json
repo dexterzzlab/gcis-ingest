@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Chan, F.\rBarth, J.A.\rLubchenco, J.\rKirincich, A.\rWeeks, H.\rPeterson, W.T.\rMenge, B.A.",
+        "Author Address": "Chan, F (reprint author), Oregon State Univ, Dept Zool, Corvallis, OR 97331 USA Oregon State Univ, Dept Zool, Corvallis, OR 97331 USA Oregon State Univ, Coll Ocean & Atmospher Sci, Corvallis, OR 97331 USA Oregon Dept Fish & Wildlife, Newport, OR 97365 USA Natl Ocean & Atmospher Adm, NW Fisheries Sci Ctr, Newport, OR 97365 USA",
+        "DOI": "10.1126/science.1149016",
+        "Date": "FEB 15 2008",
+        "ISSN": "0036-8075",
+        "Issue": "5865",
+        "Journal": "Science",
+        "Keywords": "HYPOXIA",
+        "Language": "English",
+        "Pages": "920",
+        "Short Title": "Emergence of anoxia in the California current large marine ecosystem",
+        "Title": "Emergence of anoxia in the California Current large marine ecosystem",
+        "Volume": "319",
+        "Year": "2008",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "623",
+        "_uuid": "b7708c1a-0eb5-47db-a089-ff40be29c884",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1149016",
+    "href": "http://data.globalchange.gov/reference/b7708c1a-0eb5-47db-a089-ff40be29c884.json",
+    "identifier": "b7708c1a-0eb5-47db-a089-ff40be29c884",
+    "uri": "/reference/b7708c1a-0eb5-47db-a089-ff40be29c884"
+}

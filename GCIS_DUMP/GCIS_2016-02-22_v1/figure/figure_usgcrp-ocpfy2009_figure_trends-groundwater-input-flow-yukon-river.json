@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Observed trends in groundwater input (denoted by left side of symbol) and annual flow (denoted by right side of symbol) at Yukon River Basin streamflow stations. Circles and squares indicate flow records longer and shorter than 35 years, respectively. Symbol color scheme indicates statistical significance of Mann-Kendall trend analysis: red = very highly significant (P<0.01) increasing trend, orange = highly significant (0.01<P<0.05) increasing trend, yellow = moderately significant (0.05<P<0.1) increasing trend, light blue = moderately significant (0.05<P<0.1) decreasing trend. Credit: M.A. Walvoord and R.G. Striegl, USGS (reproduced from Geophysical Research Letters with permission from the American Geophysical Union).",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "84/8d/346ff448a0bd5729d04233a37fdf/Figure_13.png",
+            "href": "http://data.globalchange.gov/assets/84/8d/346ff448a0bd5729d04233a37fdf/Figure_13.png",
+            "identifier": "800d4df3-d622-406a-8245-0ea3a6394bf4",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "8777d27031a390f8e0dcb5264955fd5bd3f14c4a",
+            "size": 639961,
+            "thumbnail": "84/8d/346ff448a0bd5729d04233a37fdf/.thumb-800d4df3-d622-406a-8245-0ea3a6394bf4.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/84/8d/346ff448a0bd5729d04233a37fdf/.thumb-800d4df3-d622-406a-8245-0ea3a6394bf4.png",
+            "uri": "/file/800d4df3-d622-406a-8245-0ea3a6394bf4",
+            "url": "/assets/84/8d/346ff448a0bd5729d04233a37fdf/Figure_13.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2009/figure/trends-groundwater-input-flow-yukon-river.json",
+    "identifier": "trends-groundwater-input-flow-yukon-river",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2009",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Observed Trends in Groundwater Input and Annual Flow - Yukon River",
+    "uri": "/report/usgcrp-ocpfy2009/figure/trends-groundwater-input-flow-yukon-river",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

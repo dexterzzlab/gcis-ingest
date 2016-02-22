@@ -1,0 +1,15 @@
+{
+    "computing_environment": "Unknown",
+    "data_usage": "Data were downloaded and plotted via Microsoft Excel",
+    "duration": "2 hours",
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/8f0eba22-nca3-epica-ice-core-r20080515-process.json",
+    "identifier": "8f0eba22-nca3-epica-ice-core-r20080515-process",
+    "methodology": "Data were downloaded and plotted via Microsoft Excel",
+    "notes": "Microsoft Excel",
+    "output_artifacts": "Unknown",
+    "software": "Unknown",
+    "start_time": null,
+    "uri": "/activity/8f0eba22-nca3-epica-ice-core-r20080515-process",
+    "visualization_software": "Microsoft Excel"
+}

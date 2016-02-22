@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Rohrmann, Sabine\rKim Overvad\rBueno-de-Mesquita, H. Bas\rJakobsen, Marianne U.\rRikke Egeberg\rAnne Tj\u00f8nneland\rLaura Nailler\rBoutron-Ruault, Marie-Christine\rClavel-Chapelon, Fran\u00e7oise\rVittorio Krogh\rDomenico Palli\rSalvatore Panico\rRosario Tumino\rFulvio Ricceri\rBergmann, Manuela M.\rHeiner Boeing\rKuanrong Li\rRudolf Kaaks\rKay-Tee Khaw\rWareham, Nicholas J.\rCrowe, Francesca L.\rKey, Timothy J.\rAndroniki Naska\rAntonia Trichopoulou\rDimitirios Trichopoulos \rMax Leenders\rPeeters, Petra H.M.\rDagrun Engeset\rParr, Christine L.\rGuri Skeie\rPaula Jakszyn\rMar\u00eda-Jos\u00e9 S\u00e1nchez\rHuerta, Jos\u00e9 M.\rRedondo, M. Luisa\rAurelio Barricarte\rPilar Amiano\rIsabel Drake\rEmily Sonestedt\rG\u00f6ran Hallmans\rIngegerd Johansson\rVeronika Fedirko\rIsabelle Romieux\rPietro Ferrari\rTeresa Norat\rVergnaud, Anne C.\rElio Riboli\rJakob Linseisen",
+        "DOI": "10.1186/1741-7015-11-63",
+        "Date": "3/7/2013",
+        "Issue": "63",
+        "Journal": "BMC Medicine",
+        "Pages": "1-12",
+        "Title": "Meat consumption and mortality - results from the European Prospective Investigation into Cancer and Nutrition",
+        "URL": "http://www.biomedcentral.com/content/pdf/1741-7015-11-63.pdf",
+        "Volume": "11",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "4582",
+        "_uuid": "abd00e0c-8c0b-4eaa-89b7-a391b6cd685d",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1186/1741-7015-11-63",
+    "href": "http://data.globalchange.gov/reference/abd00e0c-8c0b-4eaa-89b7-a391b6cd685d.json",
+    "identifier": "abd00e0c-8c0b-4eaa-89b7-a391b6cd685d",
+    "uri": "/reference/abd00e0c-8c0b-4eaa-89b7-a391b6cd685d"
+}

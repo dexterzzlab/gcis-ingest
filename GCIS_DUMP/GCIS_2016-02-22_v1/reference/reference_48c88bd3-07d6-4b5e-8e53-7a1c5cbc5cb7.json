@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Sardans, J.\rPe\u00f1uelas, J.",
+        "DOI": "10.1104/pp.112.208785",
+        "ISSN": "0032-0889",
+        "Issue": "4",
+        "Journal": "Plant Physiology",
+        "Pages": "1741-1761",
+        "Title": "The role of plants in the effects of global change on nutrient availability and stoichiometry in the plant-soil system",
+        "URL": "http://www.plantphysiology.org/content/160/4/1741.full.pdf",
+        "Volume": "160",
+        "Year": "2012",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\"]",
+        "_record_number": "2749",
+        "_uuid": "48c88bd3-07d6-4b5e-8e53-7a1c5cbc5cb7",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1104/pp.112.208785",
+    "href": "http://data.globalchange.gov/reference/48c88bd3-07d6-4b5e-8e53-7a1c5cbc5cb7.json",
+    "identifier": "48c88bd3-07d6-4b5e-8e53-7a1c5cbc5cb7",
+    "uri": "/reference/48c88bd3-07d6-4b5e-8e53-7a1c5cbc5cb7"
+}

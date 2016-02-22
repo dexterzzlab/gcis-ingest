@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Nilsen, V.\rLier, J.A.\rBjerkholt, J.T.\rLindholm, O.G.",
+        "DOI": "10.2166/wcc.2011.042",
+        "Issue": "4",
+        "Journal": "Journal of water and climate change",
+        "Pages": "260-271",
+        "Title": "Analysing urban floods and combined sewer overflows in a changing climate",
+        "Volume": "2",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 3: Water Resources FINAL\"]",
+        "_record_number": "2224",
+        "_uuid": "4b5da3ea-6838-4e60-ae65-27a552656032",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.2166/wcc.2011.042",
+    "href": "http://data.globalchange.gov/reference/4b5da3ea-6838-4e60-ae65-27a552656032.json",
+    "identifier": "4b5da3ea-6838-4e60-ae65-27a552656032",
+    "uri": "/reference/4b5da3ea-6838-4e60-ae65-27a552656032"
+}

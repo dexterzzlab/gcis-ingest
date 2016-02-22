@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/indicator-frost-free-season.json",
+    "identifier": "indicator-frost-free-season",
+    "in_library": null,
+    "publication_year": 2015,
+    "report_type_identifier": "indicator",
+    "summary": "Key Points:\r\n\r\n1.\tObserved changes in the length of the frost-free season, defined as the number of frost-free days in a year, reflect the overall warming trend in the climate system. The bars on the graph show the difference between the number of frost-free days in each year and the average number of frost-free days from 1979 to 2010. \r\n\r\n2.\tDuring the past 30 years, there has been an increase in the length of the frost-free season over the contiguous United States and Alaska, relative to the 1979\u20132010 average.\r\n\t\r\n3.\tThis indicator can inform decisions about agricultural and natural resource management, including crop planning and wildfire risk management. \r\n\r\nFull Summary:\r\n\t\r\nDuring the past 30 years, there has been an increase in the length of the frost-free season (defined as the number of frost-free days in a year) over the contiguous United States and Alaska, relative to the 1979\u20132010 average. This change in the frost-free season reflects the overall warming trend in the climate system.\r\n\r\nThe bars on the graph show the difference between the number of frost-free days in each year and the average number of frost-free days from 1979 to 2010. Global daily freeze-thaw data are provided by the National Aeronautics and Space Administration (NASA) Freeze-Thaw Earth Systems Data Record, which represents one of the longest continuous global records from satellite-based observations. Satellite microwave sensors are used to determine the frozen or thawed status of water on the land surface at a given time. Measurements are taken over the contiguous United States and Alaska and include all vegetated land areas where seasonal frozen temperatures are a major constraint to plant growth. Collecting these data over time provides information on the number of frost-free days in a given year.\r\n\r\nThe frost-free season can be an important factor in determining the potential growing season for vegetation. This indicator can help decision makers understand and anticipate possible impacts on agricultural and natural resource sectors. For instance, some pests and pathogens affecting forests and crops are projected to benefit from warmer temperatures and longer frost-free seasons. A lengthening frost-free season may also impact habitat conditions and wildfire risk. \r\n",
+    "title": "Indicator: Frost-Free Season",
+    "topic": null,
+    "uri": "/report/indicator-frost-free-season",
+    "url": "http://www.globalchange.gov/browse/indicators/indicator-frost-free-season"
+}

@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "\u00d6stblom, G.\rSamakovlis, E.",
+        "DOI": "10.1080/14693062.2007.9685663",
+        "ISSN": "1469-3062",
+        "Issue": "5",
+        "Journal": "Climate Policy",
+        "Pages": "379-391",
+        "Title": "Linking health and productivity impacts to climate policy costs: A general equilibrium analysis",
+        "URL": "://www.tandfonline.com/",
+        "Volume": "7",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\"]",
+        "_record_number": "2373",
+        "_uuid": "1d4a7e45-6cfc-4aa1-8ba2-22f89020e44d",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1080/14693062.2007.9685663",
+    "href": "http://data.globalchange.gov/reference/1d4a7e45-6cfc-4aa1-8ba2-22f89020e44d.json",
+    "identifier": "1d4a7e45-6cfc-4aa1-8ba2-22f89020e44d",
+    "uri": "/reference/1d4a7e45-6cfc-4aa1-8ba2-22f89020e44d"
+}

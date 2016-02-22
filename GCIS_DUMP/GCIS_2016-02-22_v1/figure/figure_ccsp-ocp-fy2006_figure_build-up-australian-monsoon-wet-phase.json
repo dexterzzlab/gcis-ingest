@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "During the wet phase of the Australia monsoon (Dec-Feb) and the build-up to the wet phase (Nov), convection is a common occurrence at Darwin. This image from the centimeter-wavelength radar operated at Darwin illustrates the intense convection that typifies the monsoon build-up period. Such convection may exhibit strong updrafts (reds and yellows in the image) reaching altitudes of 18 km or greater. Convection during the active wet phase of the monsoon exhibits weaker updrafts more representative of oceanic conditions. During TWP-ICE both types of convection will be encountered, providing a means of relating cloud properties to convective strength. Credit: P. May, Australian Bureau of Meteorology Research Centre.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "d6/b2/ff8500109e73448bafa829632360/our_changing_planet_2006_5_20090708_1671205998.jpg",
+            "href": "http://data.globalchange.gov/assets/d6/b2/ff8500109e73448bafa829632360/our_changing_planet_2006_5_20090708_1671205998.jpg",
+            "identifier": "96b8a37a-c08c-48ee-b3c2-59dcecb3677f",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "b45ced3a2a490d2322b9a9344f486598a4040666",
+            "size": 77495,
+            "thumbnail": "d6/b2/ff8500109e73448bafa829632360/.thumb-96b8a37a-c08c-48ee-b3c2-59dcecb3677f.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/d6/b2/ff8500109e73448bafa829632360/.thumb-96b8a37a-c08c-48ee-b3c2-59dcecb3677f.png",
+            "uri": "/file/96b8a37a-c08c-48ee-b3c2-59dcecb3677f",
+            "url": "/assets/d6/b2/ff8500109e73448bafa829632360/our_changing_planet_2006_5_20090708_1671205998.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocp-fy2006/figure/build-up-australian-monsoon-wet-phase.json",
+    "identifier": "build-up-australian-monsoon-wet-phase",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocp-fy2006",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Build-Up to the Australian Monsoon Wet Phase ",
+    "uri": "/report/ccsp-ocp-fy2006/figure/build-up-australian-monsoon-wet-phase",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

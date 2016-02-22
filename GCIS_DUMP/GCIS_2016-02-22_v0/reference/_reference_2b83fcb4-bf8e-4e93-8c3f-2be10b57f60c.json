@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Howden, S.M.\rSoussana, Jean-Fran\u00e7ois\rTubiello, F.N.\rChhetri, N.\rDunlop, M.\rMeinke, H.",
+        "DOI": "10.1073/pnas.0701890104",
+        "Epub Date": "December 6, 2007",
+        "ISSN": "0027-8424",
+        "Issue": "50",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Pages": "19691-19696",
+        "Title": "Adapting agriculture to climate change",
+        "URL": "http://www.pnas.org/content/104/50/19691.full",
+        "Volume": "104",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 6: Agriculture FINAL\",\"Ch. 17: Southeast and Caribbean FINAL\"]",
+        "_record_number": "3590",
+        "_uuid": "2b83fcb4-bf8e-4e93-8c3f-2be10b57f60c",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.0701890104",
+    "href": "http://data.globalchange.gov/reference/2b83fcb4-bf8e-4e93-8c3f-2be10b57f60c.json",
+    "identifier": "2b83fcb4-bf8e-4e93-8c3f-2be10b57f60c",
+    "uri": "/reference/2b83fcb4-bf8e-4e93-8c3f-2be10b57f60c"
+}

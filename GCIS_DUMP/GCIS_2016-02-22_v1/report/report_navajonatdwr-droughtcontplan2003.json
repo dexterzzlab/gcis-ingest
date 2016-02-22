@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/navajonatdwr-droughtcontplan2003.json",
+    "identifier": "navajonatdwr-droughtcontplan2003",
+    "in_library": null,
+    "publication_year": 2003,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "Navajo Nation Drought Contingency Plan 2003",
+    "topic": null,
+    "uri": "/report/navajonatdwr-droughtcontplan2003",
+    "url": "http://www.frontiernet.net/~nndwr_wmb/PDF/drought/drghtcon_plan2003_final.pdf"
+}

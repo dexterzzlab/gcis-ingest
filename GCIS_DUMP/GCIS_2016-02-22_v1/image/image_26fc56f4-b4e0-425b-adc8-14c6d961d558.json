@@ -1,0 +1,103 @@
+{
+    "attributes": "temperature, carbon dioxide, global, observed",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2522.json",
+            "id": 2522,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Kenneth",
+                "id": 1025,
+                "last_name": "Kunkel",
+                "middle_name": null,
+                "orcid": "0000-0001-6667-7047",
+                "url": "http://cicsnc.org/people/kenneth-kunkel/"
+            },
+            "person_id": 1025,
+            "person_uri": "/person/1025",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2522"
+        }
+    ],
+    "create_dt": "2013-07-31T14:30:05",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Global annual average temperature (as measured over both land and oceans) has increased by more than 1.5\u00b0F (0.8\u00b0C) since 1880 (through 2012). Red bars show temperatures above the long-term average, and blue bars indicate temperatures below the long-term average. The black line shows atmospheric carbon dioxide (CO<sub>2</sub>) concentration in parts per million (ppm). While there is a clear long-term global warming trend, some years do not show a temperature increase relative to the previous year, and some years show greater changes than others. These year-to-year fluctuations in temperature are due to natural processes, such as the effects of El Ni\u00f1os, La Ni\u00f1as, and volcanic eruptions. (Figure source: updated from Karl et al. 2009<tbib>e251f590-177e-4ba6-8ed1-6f68b5e54c8a</tbib>).",
+            "chapter_identifier": "our-changing-climate",
+            "create_dt": "2013-11-06T09:53:23",
+            "identifier": "global-temperature-and-carbon-dioxide",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 2,
+            "report_identifier": "nca3",
+            "source_citation": "updated from Karl et al. 2009<tbib>e251f590-177e-4ba6-8ed1-6f68b5e54c8a</tbib>",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Global Temperature and Carbon Dioxide",
+            "url": "http://nca2014.globalchange.gov/highlights/report-findings/our-changing-climate/graphics/global-temperature-and-carbon-dioxide",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "22/05/f91f3e0f9de762a469592dc44804/cs_global_temp_and_co2_1880-2012_v3.png",
+            "href": "http://data.globalchange.gov/assets/22/05/f91f3e0f9de762a469592dc44804/cs_global_temp_and_co2_1880-2012_v3.png",
+            "identifier": "fca6de6f-6e79-4937-9aff-984939354c79",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "d6f53425150a0ac0b8626b7e01a3aa4ddb5ddf3f",
+            "size": 118671,
+            "thumbnail": "22/05/f91f3e0f9de762a469592dc44804/.thumb-fca6de6f-6e79-4937-9aff-984939354c79.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/22/05/f91f3e0f9de762a469592dc44804/.thumb-fca6de6f-6e79-4937-9aff-984939354c79.png",
+            "uri": "/file/fca6de6f-6e79-4937-9aff-984939354c79",
+            "url": "/assets/22/05/f91f3e0f9de762a469592dc44804/cs_global_temp_and_co2_1880-2012_v3.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/26fc56f4-b4e0-425b-adc8-14c6d961d558.json",
+    "identifier": "26fc56f4-b4e0-425b-adc8-14c6d961d558",
+    "lat_max": "90.00",
+    "lat_min": "-90.00",
+    "lon_max": "180.00",
+    "lon_min": "-180.00",
+    "parents": [
+        {
+            "activity_uri": "/activity/26fc56f4-nca3-ncdc-gst-anomalies-r201307-process",
+            "label": "dataset nca3-ncdc-gst-anomalies-r201307",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-ncdc-gst-anomalies-r201307"
+        },
+        {
+            "activity_uri": "/activity/26fc56f4-nca3-epi-co2-r201307-process",
+            "label": "dataset nca3-epi-co2-r201307",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-epi-co2-r201307"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2012-12-31T23:59:59",
+    "time_start": "1880-01-01T00:00:00",
+    "title": "Global Temperature and Carbon Dioxide",
+    "uri": "/image/26fc56f4-b4e0-425b-adc8-14c6d961d558",
+    "url": null,
+    "usage_limits": null
+}

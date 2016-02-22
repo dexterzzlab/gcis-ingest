@@ -1,0 +1,7 @@
+{
+    "description": "NASA EarthData Acronyms",
+    "href": "http://data.globalchange.gov/lexicon/nasa-earthdata.json",
+    "identifier": "nasa-earthdata",
+    "uri": "/lexicon/nasa-earthdata",
+    "url": "https://earthdata.nasa.gov/user-resources/acronym-list"
+}

@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Understanding the influence of past land use changes on climate is needed to improve regional projections of future climate change and inform debates about the tradeoffs associated with land use decisions. The effects of rapid expansion of irrigated area in the 20th century has remained unclear relative to other land use changes, such as urbanization, that affected a similar total land area. Using spatial and temporal variations in temperature and irrigation extent observed in California, we show that irrigation expansion has had a large cooling effect on summertime average daily daytime temperatures (\u22120.14\u00b0C to \u22120.25\u00b0C per decade), which corresponds to an estimated cooling of \u22121.8\u00b0C to \u22123.2\u00b0C since the introduction of irrigation practices. Irrigation has negligible effects on nighttime temperatures, leading to a net cooling effect of irrigation on climate (\u22120.06\u00b0C to \u22120.19\u00b0C per decade). Stabilization of irrigated area has occurred in California since 1980 and is expected in the near future for many irrigated regions. The suppression of past human-induced greenhouse warming by increased irrigation is therefore likely to slow in the future, and a potential decrease in irrigation may even contribute to a more rapid warming. Changes in irrigation alone are not expected to influence broad-scale temperatures, but they may introduce large uncertainties in climate projections for irrigated agricultural regions, which provide \u224840% of global food production. ",
+        "Author": "Bonfils, C.\rLobell, D.",
+        "DOI": "10.1073/pnas.0700144104",
+        "ISSN": "0027-8424",
+        "Issue": "34",
+        "Journal": "Proceedings of the National Academy of Sciences",
+        "Keywords": "climate; irrigation effect; observations",
+        "Pages": "13582-13587",
+        "Title": "Empirical evidence for a recent slowdown in irrigation-induced cooling",
+        "Volume": "104",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 13: Land Use and Land Cover Change FINAL\"]",
+        "_record_number": "629",
+        "_uuid": "5fcceae3-3fd5-485c-83cc-ac2f844556c9",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1073/pnas.0700144104",
+    "href": "http://data.globalchange.gov/reference/5fcceae3-3fd5-485c-83cc-ac2f844556c9.json",
+    "identifier": "5fcceae3-3fd5-485c-83cc-ac2f844556c9",
+    "uri": "/reference/5fcceae3-3fd5-485c-83cc-ac2f844556c9"
+}

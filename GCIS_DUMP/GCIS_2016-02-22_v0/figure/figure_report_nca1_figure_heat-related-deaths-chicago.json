@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "This graph tracks the maximum temperature (Tmax), heat index (HI), and heat-related deaths in Chicago each day from July 11 to 23, 1995. The gray line shows maximum daily temperature, the blue line shows the heat index, and the bars indicate thenumber of deaths each day. (Source: NOAA/NCDC)",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "fa/e8/689290d423725af6e2d09ef087b1/health_section_of_climate_change_impacts_2001_5_20090708_1738537990.jpg",
+            "href": "http://data.globalchange.gov/assets/fa/e8/689290d423725af6e2d09ef087b1/health_section_of_climate_change_impacts_2001_5_20090708_1738537990.jpg",
+            "identifier": "0a5fbc9b-03c5-4de2-8aff-9e5f75d8b38f",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "3e6dc76eeedd520801b654a829628f674399b7c8",
+            "size": 168391,
+            "thumbnail": "fa/e8/689290d423725af6e2d09ef087b1/.thumb-0a5fbc9b-03c5-4de2-8aff-9e5f75d8b38f.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/fa/e8/689290d423725af6e2d09ef087b1/.thumb-0a5fbc9b-03c5-4de2-8aff-9e5f75d8b38f.png",
+            "uri": "/file/0a5fbc9b-03c5-4de2-8aff-9e5f75d8b38f",
+            "url": "/assets/fa/e8/689290d423725af6e2d09ef087b1/health_section_of_climate_change_impacts_2001_5_20090708_1738537990.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca1/figure/heat-related-deaths-chicago.json",
+    "identifier": "heat-related-deaths-chicago",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca1",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Heat Related Deaths in Chicago",
+    "uri": "/report/nca1/figure/heat-related-deaths-chicago",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

@@ -1,0 +1,17 @@
+{
+    "_public": 1,
+    "contact_email": null,
+    "contact_note": null,
+    "doi": null,
+    "frequency": null,
+    "href": "http://data.globalchange.gov/report/whitehouse-secureenergy-2012.json",
+    "identifier": "whitehouse-secureenergy-2012",
+    "in_library": null,
+    "publication_year": 2012,
+    "report_type_identifier": "report",
+    "summary": null,
+    "title": "A Secure Energy Future: Progress Report",
+    "topic": null,
+    "uri": "/report/whitehouse-secureenergy-2012",
+    "url": "http://www.whitehouse.gov/sites/default/files/email-files/the_blueprint_for_a_secure_energy_future_oneyear_progress_report.pdf"
+}

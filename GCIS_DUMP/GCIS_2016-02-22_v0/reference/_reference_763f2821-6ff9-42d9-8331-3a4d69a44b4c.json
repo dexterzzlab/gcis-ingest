@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2012",
+        "Author": "Ferris, Gregg",
+        "Keywords": "Climate change",
+        "Publisher": "Environment Canada and United States Environmental Protection Agency",
+        "Title": "State of the Great Lakes 2009. Climate change: Ice duration on the Great Lakes",
+        "URL": "http://www.epa.gov/solec/sogl2009/",
+        "Year": "2009",
+        "_chapter": "[\"RG 3 Midwest\",\"Ch. 18: Midwest FINAL\"]",
+        "_record_number": "1601",
+        "_uuid": "763f2821-6ff9-42d9-8331-3a4d69a44b4c",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/7cd98bc6-7f75-4829-a80f-ce47d68824be",
+    "href": "http://data.globalchange.gov/reference/763f2821-6ff9-42d9-8331-3a4d69a44b4c.json",
+    "identifier": "763f2821-6ff9-42d9-8331-3a4d69a44b4c",
+    "uri": "/reference/763f2821-6ff9-42d9-8331-3a4d69a44b4c"
+}

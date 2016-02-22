@@ -1,0 +1,97 @@
+{
+    "attributes": null,
+    "caption": "Remote sensing color image of harmful algal bloom in Lake Erie on October 9, 2011. The bright green areas have high concentrations of algae, which can be harmful to human health. The frequency and range of harmful blooms of algae are increasing.<tbib>bedf8b57-6146-4e78-8aaf-defa8a1a03d3</tbib><sup>,</sup><tbib>3325ef64-347b-4c33-9289-9e05e905dcbe</tbib> Because algal blooms are closely related to climate factors, projected changes in climate could affect algal blooms and lead to increases in water- and food-borne exposures and subsequent cases of illness.<tbib>3325ef64-347b-4c33-9289-9e05e905dcbe</tbib> Other factors related to increases in harmful algal blooms include shifts in ocean conditions such as excess nutrient inputs.<tbib>69d04f03-5ba1-46a6-a7e3-fa449d448bea</tbib><sup>,</sup><tbib>bedf8b57-6146-4e78-8aaf-defa8a1a03d3</tbib><sup>,</sup><tbib>3325ef64-347b-4c33-9289-9e05e905dcbe</tbib> (Figure source: NASA Earth Observatory<tbib>8c172cce-ec6c-417e-83fd-d646f79edfb4</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0PN93H5",
+        "identifier": "human-health",
+        "number": 9,
+        "report_identifier": "nca3",
+        "sort_key": 90,
+        "title": "Human Health",
+        "url": "http://nca2014.globalchange.gov/report/sectors/human-health"
+    },
+    "chapter_identifier": "human-health",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2012-11-06T15:50:00",
+    "files": [
+        {
+            "file": "6b/e3/24f6bd1f1f2919da98eaa784a764/Health_algal_bloom_satellite_V1.png",
+            "href": "http://data.globalchange.gov/assets/6b/e3/24f6bd1f1f2919da98eaa784a764/Health_algal_bloom_satellite_V1.png",
+            "identifier": "6c72ad0e-e5c7-4f7c-8b78-988dafa4de55",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "c66d30216ec9df594c3b4113b32386a6589f87d9",
+            "size": 1219340,
+            "thumbnail": "6b/e3/24f6bd1f1f2919da98eaa784a764/.thumb-6c72ad0e-e5c7-4f7c-8b78-988dafa4de55.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/6b/e3/24f6bd1f1f2919da98eaa784a764/.thumb-6c72ad0e-e5c7-4f7c-8b78-988dafa4de55.png",
+            "uri": "/file/6c72ad0e-e5c7-4f7c-8b78-988dafa4de55",
+            "url": "/assets/6b/e3/24f6bd1f1f2919da98eaa784a764/Health_algal_bloom_satellite_V1.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/human-health/figure/harmful-bloom-of-algae.json",
+    "identifier": "harmful-bloom-of-algae",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2012-11-06T15:50:00",
+            "description": null,
+            "identifier": "48a4b0a8-96c3-406a-a91c-02b5b0a16677",
+            "lat_max": "43.25",
+            "lat_min": "41.25",
+            "lon_max": "-78.25",
+            "lon_min": "-83.75",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2011-10-09T23:59:59",
+            "time_start": "2011-10-09T00:00:00",
+            "title": "Harmful Bloom of Algae",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 8,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "webpage Toxic Algae Bloom in Lake Erie",
+            "note": null,
+            "publication_type_identifier": "webpage",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/webpage/afe12af6-a7d3-4b70-99e5-0f80b67b7047"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/3325ef64-347b-4c33-9289-9e05e905dcbe.json",
+            "uri": "/reference/3325ef64-347b-4c33-9289-9e05e905dcbe"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/69d04f03-5ba1-46a6-a7e3-fa449d448bea.json",
+            "uri": "/reference/69d04f03-5ba1-46a6-a7e3-fa449d448bea"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/8c172cce-ec6c-417e-83fd-d646f79edfb4.json",
+            "uri": "/reference/8c172cce-ec6c-417e-83fd-d646f79edfb4"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/bedf8b57-6146-4e78-8aaf-defa8a1a03d3.json",
+            "uri": "/reference/bedf8b57-6146-4e78-8aaf-defa8a1a03d3"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "NASA Earth Observatory<tbib>8c172cce-ec6c-417e-83fd-d646f79edfb4</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Harmful Bloom of Algae",
+    "uri": "/report/nca3/chapter/human-health/figure/harmful-bloom-of-algae",
+    "url": "http://nca2014.globalchange.gov/report/sectors/human-health/graphics/harmful-bloom-algae",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

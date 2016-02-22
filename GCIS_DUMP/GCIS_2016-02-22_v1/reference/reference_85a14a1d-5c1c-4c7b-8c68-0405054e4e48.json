@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Heal, G.",
+        "DOI": "10.2307/3658664",
+        "ISSN": "1432-9840",
+        "Issue": "1",
+        "Journal": "Ecosystems",
+        "Pages": "24-30",
+        "Title": "Valuing ecosystem services",
+        "URL": "http://www.jstor.org/stable/3658664",
+        "Volume": "3",
+        "Year": "2000",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "1755",
+        "_uuid": "85a14a1d-5c1c-4c7b-8c68-0405054e4e48",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s100210000006",
+    "href": "http://data.globalchange.gov/reference/85a14a1d-5c1c-4c7b-8c68-0405054e4e48.json",
+    "identifier": "85a14a1d-5c1c-4c7b-8c68-0405054e4e48",
+    "uri": "/reference/85a14a1d-5c1c-4c7b-8c68-0405054e4e48"
+}

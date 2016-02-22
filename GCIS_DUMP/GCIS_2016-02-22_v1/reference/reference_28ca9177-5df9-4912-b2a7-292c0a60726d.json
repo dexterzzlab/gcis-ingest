@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "This article described three heuristics that are employed in making judgements under uncertainty: (i) representativeness, which is usually employed when people are asked to judge the probability that an object or event A belongs to class or process B; (ii) availability of instances or scenarios, which is often employed when people are asked to assess the frequency of a class or the plausibility of a particular development; and (iii) adjustment from an anchor, which is usually employed in numerical prediction when a relevant value is available. These heuristics are highly economical and usually effective, but they lead to systematic and predictable errors. A better understanding of these heuristics and of the biases to which they lead could improve judgements and decisions in situations of uncertainty.",
+        "Author": "Tversky, Amos\rKahneman, Daniel",
+        "DOI": "10.1126/science.185.4157.1124",
+        "Date": "September 27, 1974",
+        "Issue": "4157",
+        "Journal": "Science",
+        "Pages": "1124-1131",
+        "Title": "Judgment under uncertainty: Heuristics and biases",
+        "Volume": "185",
+        "Year": "1974",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4459",
+        "_uuid": "28ca9177-5df9-4912-b2a7-292c0a60726d",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.185.4157.1124",
+    "href": "http://data.globalchange.gov/reference/28ca9177-5df9-4912-b2a7-292c0a60726d.json",
+    "identifier": "28ca9177-5df9-4912-b2a7-292c0a60726d",
+    "uri": "/reference/28ca9177-5df9-4912-b2a7-292c0a60726d"
+}

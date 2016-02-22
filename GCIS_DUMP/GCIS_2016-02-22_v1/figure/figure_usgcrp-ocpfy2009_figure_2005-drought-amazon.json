@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "During the 2005 drought in the Amazon, intact primary forest showed an increase in photosynthetic activity (right image) despite below-average rainfall (left image). Data from NASA's Terra satellite (right) showed areas of higher (green) and lower (red) growth during the peak of the drought (July-September). Data from the Tropical Rainfall Measuring Mission satellite (left) showed areas of severe rainfall reduction due to the drought (yellow to red) and few areas with above normal rainfall (green to blue). Credit: K. Didan, University of Arizona.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "14/74/bc183fac133d25d615c6c622936e/Figure_14.png",
+            "href": "http://data.globalchange.gov/assets/14/74/bc183fac133d25d615c6c622936e/Figure_14.png",
+            "identifier": "31a4a756-07fe-4028-928c-34882f64517a",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "3ad636dd8b33b07b911712ea857ab8de3ea0717e",
+            "size": 535741,
+            "thumbnail": "14/74/bc183fac133d25d615c6c622936e/.thumb-31a4a756-07fe-4028-928c-34882f64517a.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/14/74/bc183fac133d25d615c6c622936e/.thumb-31a4a756-07fe-4028-928c-34882f64517a.png",
+            "uri": "/file/31a4a756-07fe-4028-928c-34882f64517a",
+            "url": "/assets/14/74/bc183fac133d25d615c6c622936e/Figure_14.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2009/figure/2005-drought-amazon.json",
+    "identifier": "2005-drought-amazon",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2009",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "2005 Drought in the Amazon",
+    "uri": "/report/usgcrp-ocpfy2009/figure/2005-drought-amazon",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "10",
+        "Author": "IUGLSB,",
+        "Institution": "International Upper Great Lakes Study Board",
+        "Pages": "244",
+        "Title": "Impacts on Upper Great Lakes Water Levels: St. Clair River",
+        "URL": "http://www.iugls.org/files/tinymce/uploaded/content_pdfs/IUGLS_St_Clair_River_Final_Report.pdf",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4041",
+        "_uuid": "fd92f142-545d-4d68-836f-2866b9f22f31",
+        "reftype": "Report"
+    },
+    "child_publication": "/report/iugls-stclair-2009",
+    "href": "http://data.globalchange.gov/reference/fd92f142-545d-4d68-836f-2866b9f22f31.json",
+    "identifier": "fd92f142-545d-4d68-836f-2866b9f22f31",
+    "uri": "/reference/fd92f142-545d-4d68-836f-2866b9f22f31"
+}

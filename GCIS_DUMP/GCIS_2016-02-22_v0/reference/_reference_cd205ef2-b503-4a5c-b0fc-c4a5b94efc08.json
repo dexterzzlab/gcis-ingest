@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Changes in vegetative growing seasons are dominant indicators of the dynamic response of ecosystems to climate change. Therefore, knowledge of growing seasons over the past decades is essential to predict ecosystem changes. In this study, the long-term changes in the growing seasons of temperate vegetation over the Northern Hemisphere were examined by analyzing satellite-measured normalized difference vegetation index and reanalysis temperature during 1982\u20132008. Results showed that the length of the growing season (LOS) increased over the analysis period; however, the role of changes at the start of the growing season (SOS) and at the end of the growing season (EOS) differed depending on the time period. On a hemispheric scale, SOS advanced by 5.2 days in the early period (1982\u20131999) but advanced by only 0.2 days in the later period (2000\u20132008). EOS was delayed by 4.3 days in the early period, and it was further delayed by another 2.3 days in the later period. The difference between SOS and EOS in the later period was due to less warming during the preseason (January\u2013April) before SOS compared with the magnitude of warming in the preseason (June\u2013September) before EOS. At a regional scale, delayed EOS in later periods was shown. In North America, EOS was delayed by 8.1 days in the early period and delayed by another 1.3 days in the later period. In Europe, the delayed EOS by 8.2 days was more significant than the advanced SOS by 3.2 days in the later period. However, in East Asia, the overall increase in LOS during the early period was weakened in the later period. Admitting regional heterogeneity, changes in hemispheric features suggest that the longer-lasting vegetation growth in recent decades can be attributed to extended leaf senescence in autumn rather than earlier spring leaf-out.",
+        "Author": "Jeong, S. J.\rC.H. Ho\rH.J. Gim\rM.E. Brown",
+        "DOI": "10.1111/j.1365-2486.2011.02397.x",
+        "Date": "Jul",
+        "ISSN": "1365-2486",
+        "Issue": "7",
+        "Journal": "Global Change Biology",
+        "Keywords": "climate change;; growing season;; NDVI (normalized difference vegetation index);; Northern Hemisphere;; phenology;; temperate vegetation",
+        "Pages": "2385-2399",
+        "Title": "Phenology shifts at start vs. end of growing season in temperate vegetation over the Northern Hemisphere for the period 1982-2008",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2486.2011.02397.x/pdf",
+        "Volume": "17",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "1261",
+        "_uuid": "cd205ef2-b503-4a5c-b0fc-c4a5b94efc08",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1111/j.1365-2486.2011.02397.x",
+    "href": "http://data.globalchange.gov/reference/cd205ef2-b503-4a5c-b0fc-c4a5b94efc08.json",
+    "identifier": "cd205ef2-b503-4a5c-b0fc-c4a5b94efc08",
+    "uri": "/reference/cd205ef2-b503-4a5c-b0fc-c4a5b94efc08"
+}

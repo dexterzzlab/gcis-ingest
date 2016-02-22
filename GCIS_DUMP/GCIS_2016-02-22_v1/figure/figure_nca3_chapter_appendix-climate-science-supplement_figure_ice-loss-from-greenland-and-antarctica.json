@@ -1,0 +1,122 @@
+{
+    "attributes": null,
+    "caption": "Rate of local ice sheet mass loss (in inches of water-equivalent-height per year) from Greenland (left) and Antarctica (right) from 2003 to 2012. The GRACE (Gravity Recovery and Climate Experiment) satellites measure changes in the pull of gravity over these two regions. As they lose ice to the oceans, the gravitational pull of Greenland and Antarctica is reduced. Analyses of GRACE data have now proven that both of the major ice sheets are currently contributing to global sea level rise due to ice loss. Over the periods plotted here, Greenland lost enough ice to raise sea level at a rate of 0.028 inches per year (0.72 mm/yr), and Antarctica lost ice at a rate that caused 0.0091 inches of sea level rise per year (0.24 mm/yr). (Figure source: NASA Jet Propulsion Laboratory, (left) updated from Velicogna and Wahr 2013;<tbib>b21d6677-8e22-4714-b8c3-9eac39a15cc0</tbib> (right) updated from Ivins et al. 2013 <tbib>453ecdc3-bf9f-4e7a-b4d9-0a349a5a8c73</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0KS6PHH",
+        "identifier": "appendix-climate-science-supplement",
+        "number": 33,
+        "report_identifier": "nca3",
+        "sort_key": 330,
+        "title": "Appendix 3: Climate Science Supplement",
+        "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement"
+    },
+    "chapter_identifier": "appendix-climate-science-supplement",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2547.json",
+            "id": 2547,
+            "organization": {
+                "country_code": "US",
+                "identifier": "jet-propulsion-laboratory",
+                "name": "NASA Jet Propulsion Laboratory",
+                "organization_type_identifier": "federally funded research and development center",
+                "url": "http://www.jpl.nasa.gov"
+            },
+            "organization_uri": "/organization/jet-propulsion-laboratory",
+            "person": {
+                "first_name": "Felix",
+                "id": 1040,
+                "last_name": "Landerer",
+                "middle_name": null,
+                "orcid": null,
+                "url": "http://scienceandtechnology.jpl.nasa.gov/people/f_landerer/"
+            },
+            "person_id": 1040,
+            "person_uri": "/person/1040",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2547"
+        }
+    ],
+    "create_dt": "2013-08-05T08:41:03",
+    "files": [
+        {
+            "file": "43/36/cb2fb55f5cd57001d760f3ff5d49/APP_ice_loss_greenland___antarctica_v6.png",
+            "href": "http://data.globalchange.gov/assets/43/36/cb2fb55f5cd57001d760f3ff5d49/APP_ice_loss_greenland___antarctica_v6.png",
+            "identifier": "cbe8ace2-a64b-47a7-bfbf-d66ff5490230",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "6b995b76dba7743544d8276468a9d9612d29aa53",
+            "size": 1085834,
+            "thumbnail": "43/36/cb2fb55f5cd57001d760f3ff5d49/.thumb-cbe8ace2-a64b-47a7-bfbf-d66ff5490230.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/43/36/cb2fb55f5cd57001d760f3ff5d49/.thumb-cbe8ace2-a64b-47a7-bfbf-d66ff5490230.png",
+            "uri": "/file/cbe8ace2-a64b-47a7-bfbf-d66ff5490230",
+            "url": "/assets/43/36/cb2fb55f5cd57001d760f3ff5d49/APP_ice_loss_greenland___antarctica_v6.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-climate-science-supplement/figure/ice-loss-from-greenland-and-antarctica.json",
+    "identifier": "ice-loss-from-greenland-and-antarctica",
+    "images": [
+        {
+            "attributes": "ice mass loss, sea level change, GRACE",
+            "create_dt": "2013-08-05T08:41:03",
+            "description": null,
+            "identifier": "ef839340-d43c-4aae-8c06-caa60c1368bd",
+            "lat_max": "84",
+            "lat_min": "57",
+            "lon_max": "-28",
+            "lon_min": "-63",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2012-12-31T23:59:59",
+            "time_start": "2003-01-01T00:00:00",
+            "title": "Ice Loss from Greenland and Antarctica - Rate of Ice Mass Loss from Greenland",
+            "url": null,
+            "usage_limits": null
+        },
+        {
+            "attributes": "ice mass loss, sea level change, GRACE",
+            "create_dt": "2013-08-05T08:41:03",
+            "description": null,
+            "identifier": "3ed26d18-8183-4a06-bc17-c7479e2ae83d",
+            "lat_max": "60",
+            "lat_min": "90",
+            "lon_max": "180.00",
+            "lon_min": "-180.00",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2012-12-31T23:59:59",
+            "time_start": "2003-01-01T00:00:00",
+            "title": "Ice Loss from Greenland and Antarctica - Rate of Ice Mass Loss from Antartica",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 42,
+    "parents": [],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/453ecdc3-bf9f-4e7a-b4d9-0a349a5a8c73.json",
+            "uri": "/reference/453ecdc3-bf9f-4e7a-b4d9-0a349a5a8c73"
+        },
+        {
+            "href": "http://data.globalchange.gov/reference/b21d6677-8e22-4714-b8c3-9eac39a15cc0.json",
+            "uri": "/reference/b21d6677-8e22-4714-b8c3-9eac39a15cc0"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "NASA Jet Propulsion Laboratory, (left) updated from Velicogna and Wahr 2013;<tbib>b21d6677-8e22-4714-b8c3-9eac39a15cc0</tbib> (right) updated from Ivins et al. 2013 <tbib>453ecdc3-bf9f-4e7a-b4d9-0a349a5a8c73</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Ice Loss from Greenland and Antarctica",
+    "uri": "/report/nca3/chapter/appendix-climate-science-supplement/figure/ice-loss-from-greenland-and-antarctica",
+    "url": "http://nca2014.globalchange.gov/report/appendices/climate-science-supplement/graphics/ice-loss-greenland-and-antarctica",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

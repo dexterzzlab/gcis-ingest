@@ -1,0 +1,12 @@
+{
+    "description": "DEMETER is a French microsatellite mission (the first mission of the CNES microsatellite program referred to as ) with the objective to observe geophysical parameters of the terrestrial environment. This involves the study of ionospheric perturbations (measurement of electromagnetic waves and their effects), caused by natural phenomena, such as earthquakes and volcanic eruptions, or resulting from human activities (power lines, VLF, HF broadcasting). Of particular interest is the potential occurrence of electromagnetic perturbations in relation to earthquakes. One hypothesis is that they might offer an early warning prior to earthquakes or eruptions.",
+    "description_attribution": "https://directory.eoportal.org/web/eoportal/satellite-missions/d/demeter",
+    "end_date": "2010-12-10T00:00:00",
+    "href": "http://data.globalchange.gov/platform/detection-of-electro-magnetic-emissions-transmitted-from-earthquake-regions.json",
+    "identifier": "detection-of-electro-magnetic-emissions-transmitted-from-earthquake-regions",
+    "name": "Detection of Electro-Magnetic Emissions Transmitted from Earthquake Regions",
+    "platform_type_identifier": "spacecraft",
+    "start_date": "2004-06-29T00:00:00",
+    "uri": "/platform/detection-of-electro-magnetic-emissions-transmitted-from-earthquake-regions",
+    "url": "http://smsc.cnes.fr/DEMETER/index.htm"
+}

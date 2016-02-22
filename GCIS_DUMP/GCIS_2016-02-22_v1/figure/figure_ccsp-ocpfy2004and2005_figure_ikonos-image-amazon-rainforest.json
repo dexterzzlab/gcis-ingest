@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Remotely sensed image identifying areas of undisturbed forest, selectively logged forest, deforestation (clear cut), and secondary regrowth. The image of Amazon forest degradation was acquired by the Space Imaging Ikonos satellite over Mato Grosso, Brazil (11o\u00b034\u2019S and 54\u00b039\u2019W), on 13 June 2000. It was band- sharpened to 1-m resolution and the display is color composite (3,4,1). Credit: David Skole, Michigan State University.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "8a/8c/a54eadd5f93e9d2f55e78f481730/our_changing_planet_2004-2005_8_20090708_2066944170.jpg",
+            "href": "http://data.globalchange.gov/assets/8a/8c/a54eadd5f93e9d2f55e78f481730/our_changing_planet_2004-2005_8_20090708_2066944170.jpg",
+            "identifier": "3685fdd9-2659-4bc6-b4c3-d83df9a00ae5",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "a8ca75b42854fb6d47d4b19847638d1ee34eb509",
+            "size": 95970,
+            "thumbnail": "8a/8c/a54eadd5f93e9d2f55e78f481730/.thumb-3685fdd9-2659-4bc6-b4c3-d83df9a00ae5.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/8a/8c/a54eadd5f93e9d2f55e78f481730/.thumb-3685fdd9-2659-4bc6-b4c3-d83df9a00ae5.png",
+            "uri": "/file/3685fdd9-2659-4bc6-b4c3-d83df9a00ae5",
+            "url": "/assets/8a/8c/a54eadd5f93e9d2f55e78f481730/our_changing_planet_2004-2005_8_20090708_2066944170.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2004and2005/figure/ikonos-image-amazon-rainforest.json",
+    "identifier": "ikonos-image-amazon-rainforest",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2004and2005",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Ikonos Image of Amazon Rainforest ",
+    "uri": "/report/ccsp-ocpfy2004and2005/figure/ikonos-image-amazon-rainforest",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

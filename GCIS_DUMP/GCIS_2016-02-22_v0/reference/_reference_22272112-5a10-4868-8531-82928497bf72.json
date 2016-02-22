@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        ".reference_type": "16",
+        "Access Year": "2013",
+        "Author": "WDOE,",
+        "Publisher": "Washington State Department of Ecology",
+        "Title": "2008 Climate Action Team (CAT) Archive",
+        "URL": "http://www.ecy.wa.gov/climatechange/2008cat_overview.htm",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 26: Decision Support FINAL\"]",
+        "_record_number": "4480",
+        "_uuid": "22272112-5a10-4868-8531-82928497bf72",
+        "reftype": "Web Page"
+    },
+    "child_publication": "/webpage/e53be35f-068d-47c4-8b55-e5ef7f615764",
+    "href": "http://data.globalchange.gov/reference/22272112-5a10-4868-8531-82928497bf72.json",
+    "identifier": "22272112-5a10-4868-8531-82928497bf72",
+    "uri": "/reference/22272112-5a10-4868-8531-82928497bf72"
+}

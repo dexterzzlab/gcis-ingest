@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "As part of the Cloud and Land Surface Interaction Campaign (CLASIC), three supersites were instrumented to obtain ground-based measurements to link observed carbon fluxes to atmospheric structure. Nine aircraft\u2014including a helicopter\u2014participated. The SGP site\u2019s Central Facility served as the primary source of information for cloud distribution and carbon feedbacks. The other two supersites were located in pastured lands near the Little Washita Watershed and oak forests near Okmulgee State Park. This image is from a millimeter wavelength cloud radar, which probes the extent and composition of clouds to provide information about cloud boundaries and reflectivity. On the morning of June 14, the radar detected a thunderstorm as it descended on the SGP site, followed by about 5 hours of heavy rain and then brief showers throughout the rest of the day. These data represent a rather complicated case from a modeling perspective, and therefore the need to better understand interactions and feedbacks at the land surface. Credit: W. Ferrell, DOE.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "dc/b9/1e33cbf4371a6ff4778feef93edb/Figure_8.png",
+            "href": "http://data.globalchange.gov/assets/dc/b9/1e33cbf4371a6ff4778feef93edb/Figure_8.png",
+            "identifier": "a15f34a9-902e-4af0-94d8-82941e2ee5ae",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "371157ed131f86da08843b73ad9b920005fe623e",
+            "size": 624078,
+            "thumbnail": "dc/b9/1e33cbf4371a6ff4778feef93edb/.thumb-a15f34a9-902e-4af0-94d8-82941e2ee5ae.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/dc/b9/1e33cbf4371a6ff4778feef93edb/.thumb-a15f34a9-902e-4af0-94d8-82941e2ee5ae.png",
+            "uri": "/file/a15f34a9-902e-4af0-94d8-82941e2ee5ae",
+            "url": "/assets/dc/b9/1e33cbf4371a6ff4778feef93edb/Figure_8.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2009/figure/cloud-boundaries-reflectivity.json",
+    "identifier": "cloud-boundaries-reflectivity",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2009",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Cloud Boundaries and Reflectivity",
+    "uri": "/report/usgcrp-ocpfy2009/figure/cloud-boundaries-reflectivity",
+    "url": null,
+    "usage_limits": "Free to use with credit to the original figure source."
+}

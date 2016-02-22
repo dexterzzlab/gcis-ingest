@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "The increase in anthropogenic carbon dioxide emissions and attendant increase in ocean acidification and sea ice melt act together to decrease the saturation state of calcium carbonate in the Canada Basin of the Arctic Ocean. In 2008, surface waters were undersaturated with respect to aragonite, a relatively soluble form of calcium carbonate found in plankton and invertebrates. Undersaturation was found to be a direct consequence of the recent extensive melting of sea ice in the Canada Basin. In addition, the retreat of the ice edge well past the shelf-break has produced conditions favorable to enhanced upwelling of subsurface, aragonite-undersaturated water onto the Arctic continental shelf. Undersaturation will affect both planktonic and benthic calcifying biota and therefore the composition of the Arctic ecosystem.",
+        "Author": "Yamamoto-Kawai, M.\rMcLaughlin, F.A.\rCarmack, E.C.\rNishino, S.\rShimada, K.",
+        "DOI": "10.1126/science.1174190",
+        "Issue": "5956",
+        "Journal": "Science",
+        "Keywords": "Arctic Ocean; carbon dioxide; Marine; ocean acidification; sea ice",
+        "Pages": "1098-1100",
+        "Title": "Aragonite undersaturation in the Arctic ocean: Effects of ocean acidification and sea ice melt",
+        "Volume": "326",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 2: Our Changing Climate FINAL\",\"Ch. 22: Alaska FINAL\"]",
+        "_record_number": "3502",
+        "_uuid": "a1e455ee-be7a-46dc-986a-955dc2f1f3fb",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1126/science.1174190",
+    "href": "http://data.globalchange.gov/reference/a1e455ee-be7a-46dc-986a-955dc2f1f3fb.json",
+    "identifier": "a1e455ee-be7a-46dc-986a-955dc2f1f3fb",
+    "uri": "/reference/a1e455ee-be7a-46dc-986a-955dc2f1f3fb"
+}

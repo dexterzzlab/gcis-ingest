@@ -1,0 +1,15 @@
+{
+    "computing_environment": "Linux (Red Hat Enterprise Linux Server release 6.4)\r\nMac OS X (darwin x86_64 m64)",
+    "data_usage": "The observed threshold value for days with a maximum daily temperature above the 98th percentile for 1971-2000 was plotted for the U.S. Great Plains.",
+    "duration": "56 hours",
+    "end_time": null,
+    "href": "http://data.globalchange.gov/activity/a57d8b1b-nca3-maurer-r201304-process.json",
+    "identifier": "a57d8b1b-nca3-maurer-r201304-process",
+    "methodology": "1. At each grid point, the threshold value for days with a maximum daily temperature above the 98th percentile was calculated for each year (provided data were available for 95% of the days at that grid point).\r\n2. At each grid point, the mean threshold daily maximum temperature was computed for the period 1971-2000.\r\n3. Data were plotted for all grid points in the U.S. Great Plains.",
+    "notes": "SciPy, IDL, GrADS",
+    "output_artifacts": "array_ops.py\r\narray_ops.pyc\r\nclusterify_each_year.py\r\nclusterify.py\r\nconfig.py\r\nconfig.pyc\r\npi_calc_percentiles.py\r\ntmax98th_1971-2000.txt\r\ntmax98th_plot.pro\r\ntmax98th_1971-2000.nc\r\ntmax98th_1971-2000.ctl\r\ntmax98th_plot.gs\r\ntmax98th_maurer.png\r\nHotDays_1971_2000_GP.png\r\n19-2-a.png\r\nGP_hot days projected_V3.png",
+    "software": "SciPy (v0.10.1), IDL (v8.0), GrADS (v2.0.2)",
+    "start_time": null,
+    "uri": "/activity/a57d8b1b-nca3-maurer-r201304-process",
+    "visualization_software": "GrADS"
+}

@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Schematic view of the coupled ocean-atmosphere-land system in the vicinity of the southeast Pacific. The interactions among clouds, aerosols, coastal upwelling and currents, upper ocean dynamics, and regional circulations influenced by the Andes are poorly understood and not well modeled, and yet these interactions over the southeast Pacific affect regional and global climate. Surface winds, faced with the Andes barrier, flow parallel to the coast and bring deep, nutrient-rich waters to the surface. These cold waters, aided by an air mass made stable in part by effects of the Andes, help support the largest and most persistent subtropical sheet of stratus and stratocumulus clouds on the planet. This cloud deck, affected by aerosols from both natural and human sources, helps in turn to maintain cool ocean waters beneath. A field campaign, VOCALS, is planned in 2008 to obtain measurements to better understand this complex system and to provide a basis for model improvements. Credit: R. Wood, University of Washington.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "af/46/1382301a94e2485eadf5d88225f2/our_changing_planet_2008_65_20090708_1224931848.jpg",
+            "href": "http://data.globalchange.gov/assets/af/46/1382301a94e2485eadf5d88225f2/our_changing_planet_2008_65_20090708_1224931848.jpg",
+            "identifier": "21d14095-3619-4652-8c03-2c8196aa4baa",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "185235bd924d4c97a8e43789b7a6f9dcb3118a80",
+            "size": 43516,
+            "thumbnail": "af/46/1382301a94e2485eadf5d88225f2/.thumb-21d14095-3619-4652-8c03-2c8196aa4baa.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/af/46/1382301a94e2485eadf5d88225f2/.thumb-21d14095-3619-4652-8c03-2c8196aa4baa.png",
+            "uri": "/file/21d14095-3619-4652-8c03-2c8196aa4baa",
+            "url": "/assets/af/46/1382301a94e2485eadf5d88225f2/our_changing_planet_2008_65_20090708_1224931848.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2008/figure/southeast-pacific-climate-system.json",
+    "identifier": "southeast-pacific-climate-system",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2008",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "The Southeast Pacific Climate System",
+    "uri": "/report/ccsp-ocpfy2008/figure/southeast-pacific-climate-system",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

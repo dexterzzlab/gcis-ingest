@@ -1,0 +1,33 @@
+{
+    "attributes": null,
+    "caption": null,
+    "chapter": {
+        "doi": null,
+        "identifier": "food-access-stability",
+        "number": 6,
+        "report_identifier": "usda-climate-change-global-food-security-us-food-system-2015",
+        "sort_key": 60,
+        "title": "Food Access and Stability",
+        "url": null
+    },
+    "chapter_identifier": "food-access-stability",
+    "cited_by": [],
+    "create_dt": null,
+    "href": "http://data.globalchange.gov/report/usda-climate-change-global-food-security-us-food-system-2015/chapter/food-access-stability/figure/trend-us-grain-production-food-security-unemployment.json",
+    "identifier": "trend-us-grain-production-food-security-unemployment",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 30,
+    "report_identifier": "usda-climate-change-global-food-security-us-food-system-2015",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Trend in U.S. grain production, food insecurity, and unemployment",
+    "uri": "/report/usda-climate-change-global-food-security-us-food-system-2015/chapter/food-access-stability/figure/trend-us-grain-production-food-security-unemployment",
+    "url": null,
+    "usage_limits": null
+}

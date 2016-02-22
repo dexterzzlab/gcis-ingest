@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        ".publisher": "Springer Netherlands",
+        ".reference_type": "0",
+        "Alternate Journal": "Climatic Change",
+        "Author": "Franco, Guido\rCayan, Daniel R.\rMoser, Susanne\rHanemann, Michael\rJones, Myoung-Ae",
+        "DOI": "10.1007/s10584-011-0318-z",
+        "Date": "2011/12/01",
+        "ISSN": "0165-0009",
+        "Issue": "1",
+        "Journal": "Climatic Change",
+        "Language": "English",
+        "Pages": "1-19",
+        "Title": "Second California Assessment: Integrated climate change impacts assessment of natural and managed systems. Guest editorial",
+        "Volume": "109",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 4: Energy Supply and Use FINAL\"]",
+        "_record_number": "4342",
+        "_uuid": "660742b8-af3d-4999-9ac9-e7fed7754c52",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-011-0318-z",
+    "href": "http://data.globalchange.gov/reference/660742b8-af3d-4999-9ac9-e7fed7754c52.json",
+    "identifier": "660742b8-af3d-4999-9ac9-e7fed7754c52",
+    "uri": "/reference/660742b8-af3d-4999-9ac9-e7fed7754c52"
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Wood, A.J.M.\rCollie, J.S.\rHare, J.A.",
+        "ISSN": "0090-0656",
+        "Issue": "1",
+        "Journal": "Fishery Bulletin",
+        "Pages": "89-100",
+        "Title": "A comparison between warm-water fish assemblages of Narragansett Bay and those of Long Island Sound waters",
+        "Volume": "107",
+        "Year": "2009",
+        "_chapter": "[\"RF 10\",\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "3467",
+        "_uuid": "3a1edc2f-8491-40aa-aa58-9fb838df6821",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/a-comparison-between-warmwater-fish-assemblages-of-narragansett-bay-and-those-of-long-island-sound-waters",
+    "href": "http://data.globalchange.gov/reference/3a1edc2f-8491-40aa-aa58-9fb838df6821.json",
+    "identifier": "3a1edc2f-8491-40aa-aa58-9fb838df6821",
+    "uri": "/reference/3a1edc2f-8491-40aa-aa58-9fb838df6821"
+}

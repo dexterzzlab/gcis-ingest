@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        ".publisher": "Springer-Verlag",
+        ".reference_type": "0",
+        "Alternate Journal": "EcoHealth",
+        "Author": "Brownstein, John S.\rHolford, Theodore R.\rFish, Durland",
+        "DOI": "10.1007/s10393-004-0139-x",
+        "Date": "2005/03/01",
+        "ISSN": "1612-9202",
+        "Issue": "1",
+        "Journal": "EcoHealth",
+        "Keywords": "autologistic model\rglobal climate model\rgeographic information systems\rIxodes scapularis\rgreenhouse effect\rspatial model",
+        "Language": "English",
+        "Pages": "38-46",
+        "Title": "Effect of climate change on Lyme disease risk in North America",
+        "Volume": "2",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Ch. 16: Northeast FINAL\",\"Overview\"]",
+        "_record_number": "3980",
+        "_uuid": "c50c2ea8-a6e8-4d12-80cc-272598748b84",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10393-004-0139-x",
+    "href": "http://data.globalchange.gov/reference/c50c2ea8-a6e8-4d12-80cc-272598748b84.json",
+    "identifier": "c50c2ea8-a6e8-4d12-80cc-272598748b84",
+    "uri": "/reference/c50c2ea8-a6e8-4d12-80cc-272598748b84"
+}

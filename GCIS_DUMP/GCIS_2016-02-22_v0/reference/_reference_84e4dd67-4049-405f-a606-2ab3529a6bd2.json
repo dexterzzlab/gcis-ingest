@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Salzer, M.W.\rKipfmueller, K.F.",
+        "DOI": "10.1007/s10584-005-5922-3",
+        "ISSN": "0165-0009",
+        "Issue": "3",
+        "Journal": "Climatic Change",
+        "Pages": "465-487",
+        "Title": "Reconstructed temperature and precipitation on a millennial timescale from tree-rings in the southern Colorado plateau, USA",
+        "URL": "http://download.springer.com/static/pdf/247/art%253A10.1007%252Fs10584-005-5922-3.pdf?auth66=1363268131_5745ecda624c785dd5bd1d405bad721b&ext=.pdf",
+        "Volume": "70",
+        "Year": "2005",
+        "_chapter": "[\"Ch. 20: Southwest FINAL\"]",
+        "_record_number": "2735",
+        "_uuid": "84e4dd67-4049-405f-a606-2ab3529a6bd2",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1007/s10584-005-5922-3",
+    "href": "http://data.globalchange.gov/reference/84e4dd67-4049-405f-a606-2ab3529a6bd2.json",
+    "identifier": "84e4dd67-4049-405f-a606-2ab3529a6bd2",
+    "uri": "/reference/84e4dd67-4049-405f-a606-2ab3529a6bd2"
+}

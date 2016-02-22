@@ -1,0 +1,43 @@
+{
+    "attributes": null,
+    "caption": "Based upon satellite measurements of city lights, this image is a map of the urban population density of North America. Red, yellow, and green are urban areas, and blue is the urban periphery. The city light data is laid over elevation data (black is sea level, light gray is over 10,000 feet). Most major cities are in level areas along an ocean, bay, large lake, or navigable river. Credit: NASA Goddard Space Flight Center; Flashback Imaging Corporation, Ontario, Canada.",
+    "chapter_identifier": null,
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "65/95/3305999678c2d9e98162fc975242/our_changing_planet_2003_24_20090708_1948274609.jpg",
+            "href": "http://data.globalchange.gov/assets/65/95/3305999678c2d9e98162fc975242/our_changing_planet_2003_24_20090708_1948274609.jpg",
+            "identifier": "49ba31d5-33a8-441b-8702-a9f4bd3006d7",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "863612c48f16cfcac1680957e5fb17a49f850ba2",
+            "size": 155625,
+            "thumbnail": "65/95/3305999678c2d9e98162fc975242/.thumb-49ba31d5-33a8-441b-8702-a9f4bd3006d7.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/65/95/3305999678c2d9e98162fc975242/.thumb-49ba31d5-33a8-441b-8702-a9f4bd3006d7.png",
+            "uri": "/file/49ba31d5-33a8-441b-8702-a9f4bd3006d7",
+            "url": "/assets/65/95/3305999678c2d9e98162fc975242/our_changing_planet_2003_24_20090708_1948274609.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/ccsp-ocpfy2003/figure/urban-population-density-north-america.json",
+    "identifier": "urban-population-density-north-america",
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": null,
+    "parents": [],
+    "references": [],
+    "report_identifier": "ccsp-ocpfy2003",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Urban Population Density of North America",
+    "uri": "/report/ccsp-ocpfy2003/figure/urban-population-density-north-america",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

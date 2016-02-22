@@ -1,0 +1,95 @@
+{
+    "attributes": "Midwest, temperature, projections, emissions scenarios",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2523.json",
+            "id": 2523,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Laura",
+                "id": 1101,
+                "last_name": "Stevens",
+                "middle_name": null,
+                "orcid": "0000-0002-8842-702X",
+                "url": "http://www.cicsnc.org/people/laura-stevens"
+            },
+            "person_id": 1101,
+            "person_uri": "/person/1101",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2523"
+        }
+    ],
+    "create_dt": "2013-07-02T14:27:00",
+    "description": null,
+    "figures": [
+        {
+            "attributes": null,
+            "caption": "Projected increase in annual average temperatures\u00a0by mid-century (2041-2070) as compared to the 1971-2000 period tell only part of the climate change story. Maps also show annual projected increases in the number of the hottest days (days over 95\u00b0F), longer frost-free seasons, and an increase in cooling degree days, defined as the number of degrees that a day\u2019s average temperature is above 65\u00b0F, which generally leads to an increase in energy use for air conditioning. Projections are from global climate models that assume emissions of heat-trapping gases continue to rise (A2 scenario). (Figure source: NOAA NCDC / CICS-NC).",
+            "chapter_identifier": "midwest",
+            "create_dt": "2013-11-19T16:16:52",
+            "identifier": "projected-midcentury-temperature-changes-in-the-midwest",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "ordinal": 2,
+            "report_identifier": "nca3",
+            "source_citation": "NOAA NCDC / CICS-NC",
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Projected Mid-Century Temperature Changes in the Midwest",
+            "url": "http://nca2014.globalchange.gov/highlights/regions/midwest/graphics/projected-climate-change",
+            "usage_limits": "Free to use with credit to the original figure source."
+        }
+    ],
+    "files": [
+        {
+            "file": "fe/19/b76540f333580d34886e6f7e1bce/18-2b.png",
+            "href": "http://data.globalchange.gov/assets/fe/19/b76540f333580d34886e6f7e1bce/18-2b.png",
+            "identifier": "e431a7be-40ab-40a1-a7af-2bbdc839b125",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "ba4681bdbb3a0dd08d68d9dae1a5b3eabe117fa6",
+            "size": 34469,
+            "thumbnail": "fe/19/b76540f333580d34886e6f7e1bce/.thumb-e431a7be-40ab-40a1-a7af-2bbdc839b125.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/fe/19/b76540f333580d34886e6f7e1bce/.thumb-e431a7be-40ab-40a1-a7af-2bbdc839b125.png",
+            "uri": "/file/e431a7be-40ab-40a1-a7af-2bbdc839b125",
+            "url": "/assets/fe/19/b76540f333580d34886e6f7e1bce/18-2b.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/image/5cf71079-41ec-4c40-b9fe-a0b598868423.json",
+    "identifier": "5cf71079-41ec-4c40-b9fe-a0b598868423",
+    "lat_max": "49.31",
+    "lat_min": "36.06",
+    "lon_max": "-80.56",
+    "lon_min": "-97.19",
+    "parents": [
+        {
+            "activity_uri": "/activity/5cf71079-nca3-cmip3-downscaled-r201304-process",
+            "label": "dataset nca3-cmip3-downscaled-r201304",
+            "note": null,
+            "publication_type_identifier": "dataset",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/dataset/nca3-cmip3-downscaled-r201304"
+        }
+    ],
+    "position": null,
+    "references": [],
+    "submission_dt": null,
+    "time_end": "2070-12-31T23:59:59",
+    "time_start": "1971-01-01T00:00:00",
+    "title": "Projected Mid-Century Temperature Changes in the Midwest: Days Over 95\u00b0F",
+    "uri": "/image/5cf71079-41ec-4c40-b9fe-a0b598868423",
+    "url": null,
+    "usage_limits": null
+}

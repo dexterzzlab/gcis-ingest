@@ -1,0 +1,30 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Abstract": "Background: The adverse respiratory effects of ground-level ozone are well established. Ozone is the air pollutant most consistently projected to increase under future climate change.; Purpose: To project future pediatric asthma emergency department visits associated with ground-level ozone changes, comparing 1990s to 2020s.; Methods: This study assessed future numbers of asthma emergency department visits for children aged 0-17 years using (1) baseline New York City metropolitan area emergency department rates; (2) a dose-response relationship between ozone levels and pediatric asthma emergency department visits; and (3) projected daily 8-hour maximum ozone concentrations for the 2020s as simulated by a global-to-regional climate change and atmospheric chemistry model. Sensitivity analyses included population projections and ozone precursor changes. This analysis occurred in 2010.; Results: In this model, climate change could cause an increase in regional summer ozone-related asthma emergency department visits for children aged 0-17 years of 7.3% across the New York City metropolitan region by the 2020s. This effect diminished with inclusion of ozone precursor changes. When population growth is included, the projections of morbidity related to ozone are even larger.; Conclusions: The results of this analysis demonstrate that the use of regional climate and atmospheric chemistry models make possible the projection of local climate change health effects for specific age groups and specific disease outcomes, such as emergency department visits for asthma. Efforts should be made to improve on this type of modeling to inform local and wider-scale climate change mitigation and adaptation policy. (Am J Prev Med 2011; 41(3): 251-257) (C) 2011 American Journal of Preventive Medicine",
+        "Alternate Journal": "Am J Prev Med",
+        "Author": "Sheffield, P. E.\rCarr, J. L.\rKinney, P. L.\rKnowlton, K.",
+        "Author Address": "Sheffield, PE; Mt Sinai Sch Med, Dept Pediat, Box 1057, New York, NY 10029 USA; Mt Sinai Sch Med, Dept Pediat, Box 1057, New York, NY 10029 USA; Mt Sinai Sch Med, Dept Pediat, New York, NY 10029 USA; Mt Sinai Sch Med, Dept Prevent Med, New York, NY 10029 USA; Nat Resources Def Council, New York, NY USA; Columbia Climate & Hlth Program, New York, NY USA; Columbia Univ, Mailman Sch Publ Hlth, Dept Environm Hlth Sci, New York, NY USA",
+        "DOI": "10.1016/j.amepre.2011.04.017",
+        "Date": "Sep",
+        "ISSN": "0749-3797",
+        "Issue": "3",
+        "Journal": "American Journal of Preventive Medicine",
+        "Keywords": "emergency-department visits; ambient air-pollution; respiratory symptoms; human health; childrens health; united-states; room visits; quality; association; atlanta",
+        "Language": "English",
+        "Notes": "808TW; Times Cited:1; Cited References Count:53",
+        "Pages": "251-257",
+        "Title": "Modeling of regional climate change effects on ground-level ozone and childhood asthma",
+        "URL": "http://download.journals.elsevierhealth.com/pdfs/journals/0749-3797/PIIS0749379711003461.pdf",
+        "Volume": "41",
+        "Year": "2011",
+        "_chapter": "[\"Ch. 9: Human Health FINAL\",\"Ch. 16: Northeast FINAL\",\"Overview\"]",
+        "_record_number": "2833",
+        "_uuid": "13baa2f8-b25e-4372-91c8-3c76e0c8dc07",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.amepre.2011.04.017",
+    "href": "http://data.globalchange.gov/reference/13baa2f8-b25e-4372-91c8-3c76e0c8dc07.json",
+    "identifier": "13baa2f8-b25e-4372-91c8-3c76e0c8dc07",
+    "uri": "/reference/13baa2f8-b25e-4372-91c8-3c76e0c8dc07"
+}

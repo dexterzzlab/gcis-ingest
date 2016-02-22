@@ -1,0 +1,96 @@
+{
+    "attributes": null,
+    "caption": "The NMME (yellow column) is a seasonal forecasting system that combines individual models (purple columns N1-N6) to produce more accurate predictions of climate. In forecasts of precipitation (top two panels) and temperature (bottom two panels)\u2014 key factors for predicting drought\u2014the NMME performs better than any of the individual models. The NMME\u2019s  better performance is indicated by the heights of the bars, which show performance relative to a reference forecast. (Credit: Adapted from results by E. Wood, Princeton University)",
+    "chapter": {
+        "doi": null,
+        "identifier": "leveraging-global-change-research-societal-needs",
+        "number": 3,
+        "report_identifier": "usgcrp-ocpfy2015",
+        "sort_key": 30,
+        "title": "Leveraging Global Change Research for Societal Needs",
+        "url": null
+    },
+    "chapter_identifier": "leveraging-global-change-research-societal-needs",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/4301.json",
+            "id": 4301,
+            "organization": {
+                "country_code": "US",
+                "identifier": "princeton-university",
+                "name": "Princeton University",
+                "organization_type_identifier": "academic",
+                "url": "http://www.princeton.edu"
+            },
+            "organization_uri": "/organization/princeton-university",
+            "person": {
+                "first_name": "Eric F.",
+                "id": 2395,
+                "last_name": "Wood",
+                "middle_name": null,
+                "orcid": null,
+                "url": "https://www.princeton.edu/cee/people/display_person/?netid=efwood"
+            },
+            "person_id": 2395,
+            "person_uri": "/person/2395",
+            "role_type_identifier": "contributor",
+            "uri": "/contributor/4301"
+        }
+    ],
+    "create_dt": null,
+    "files": [
+        {
+            "file": "96/ab/ffb910cbb1952f35752471d84cf7/NMME-comparison-graph-simplified.jpg",
+            "href": "http://data.globalchange.gov/assets/96/ab/ffb910cbb1952f35752471d84cf7/NMME-comparison-graph-simplified.jpg",
+            "identifier": "4e348048-40f6-48c3-908f-5a220ebb675e",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/jpeg",
+            "sha1": "168c0b5a3e6e52d0669c59a5b88ad4fc931fdd98",
+            "size": 567320,
+            "thumbnail": "96/ab/ffb910cbb1952f35752471d84cf7/.thumb-4e348048-40f6-48c3-908f-5a220ebb675e.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/96/ab/ffb910cbb1952f35752471d84cf7/.thumb-4e348048-40f6-48c3-908f-5a220ebb675e.png",
+            "uri": "/file/4e348048-40f6-48c3-908f-5a220ebb675e",
+            "url": "/assets/96/ab/ffb910cbb1952f35752471d84cf7/NMME-comparison-graph-simplified.jpg"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/usgcrp-ocpfy2015/chapter/leveraging-global-change-research-societal-needs/figure/better-seasonal-forecasts-multi-model-ensemble.json",
+    "identifier": "better-seasonal-forecasts-multi-model-ensemble",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": null,
+            "description": null,
+            "identifier": "a267544c-72f7-4fb7-8b2c-71dd7ed48cf2",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "Better Seasonal Forecasts with a Multi-Model Ensemble",
+            "url": null,
+            "usage_limits": "Copyright protected. Obtain permission from the original figure source. "
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 4,
+    "parents": [],
+    "references": [],
+    "report_identifier": "usgcrp-ocpfy2015",
+    "source_citation": "Eric Wood, Princeton (2014). Adapted by Dan Barrie (NOAA)",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Better Seasonal Forecasts with a Multi-Model Ensemble",
+    "uri": "/report/usgcrp-ocpfy2015/chapter/leveraging-global-change-research-societal-needs/figure/better-seasonal-forecasts-multi-model-ensemble",
+    "url": null,
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source. "
+}

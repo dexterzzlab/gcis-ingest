@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Rudd, Murray A.\rLawton, Ricky N.",
+        "DOI": "10.1016/j.marpol.2012.09.004",
+        "ISSN": "0308-597X",
+        "Journal": "Marine Policy",
+        "Keywords": "Coastal science\rCollaboration\rResearch priorities\rResearch orientation\rInterdisciplinary\rBest-worst scaling",
+        "Pages": "101-111",
+        "Title": "Scientists\u2019 prioritization of global coastal research questions",
+        "Volume": "39",
+        "Year": "2013",
+        "_chapter": "[\"Ch. 25: Coastal Zone FINAL\"]",
+        "_record_number": "3793",
+        "_uuid": "ce5b6f46-24fa-4fe8-adce-f58fcdefa798",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1016/j.marpol.2012.09.004",
+    "href": "http://data.globalchange.gov/reference/ce5b6f46-24fa-4fe8-adce-f58fcdefa798.json",
+    "identifier": "ce5b6f46-24fa-4fe8-adce-f58fcdefa798",
+    "uri": "/reference/ce5b6f46-24fa-4fe8-adce-f58fcdefa798"
+}

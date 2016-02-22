@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Camacho, Alejandro\rDoremus, Holly\rMcLachlan, Jason\rMinteer, Ben",
+        "Issue": "4",
+        "Journal": "Issues In Science and Technology",
+        "Pages": "2012-48",
+        "Title": "Reassessing conservation goals in a changing climate",
+        "URL": "http://www.issues.org/26.4/p_camacho.html",
+        "Volume": "26",
+        "Year": "2010",
+        "_chapter": "[\"Ch. 8: Ecosystems FINAL\"]",
+        "_record_number": "4255",
+        "_uuid": "4c48b13e-f9f5-4ddf-8bd3-230b66c87fd6",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/reassessing-conservation-goals-in-a-changing-climate",
+    "href": "http://data.globalchange.gov/reference/4c48b13e-f9f5-4ddf-8bd3-230b66c87fd6.json",
+    "identifier": "4c48b13e-f9f5-4ddf-8bd3-230b66c87fd6",
+    "uri": "/reference/4c48b13e-f9f5-4ddf-8bd3-230b66c87fd6"
+}

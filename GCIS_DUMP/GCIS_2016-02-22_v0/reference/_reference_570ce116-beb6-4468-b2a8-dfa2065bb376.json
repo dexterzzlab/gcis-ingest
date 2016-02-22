@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        ".reference_type": "7",
+        "Author": "Frumhoff, Peter C. \rJames J. McCarthy\rJerry M. Melillo \rSusanne C. Moser\rDonald J. Wuebbles",
+        "Book Title": "Confronting Climate Change in the U.S. Northeast: Science, Impacts, and Solutions. Synthesis Report of the Northeast Climate Impacts Assessment (NECIA)",
+        "Pages": "39-46",
+        "Place Published": "Cambridge, MA",
+        "Publisher": "Union of Concerned Scientists ",
+        "Reviewer": "570ce116-beb6-4468-b2a8-dfa2065bb376",
+        "Title": "Ch. 3: Marine impacts",
+        "URL": "http://www.climatechoices.org/assets/documents/climatechoices/confronting-climate-change-in-the-u-s-northeast.pdf",
+        "Year": "2007",
+        "_chapter": "[\"Ch. 16: Northeast FINAL\"]",
+        "_record_number": "3993",
+        "_uuid": "570ce116-beb6-4468-b2a8-dfa2065bb376",
+        "reftype": "Book Section"
+    },
+    "child_publication": "/report/ucusa-confronting-2007",
+    "href": "http://data.globalchange.gov/reference/570ce116-beb6-4468-b2a8-dfa2065bb376.json",
+    "identifier": "570ce116-beb6-4468-b2a8-dfa2065bb376",
+    "uri": "/reference/570ce116-beb6-4468-b2a8-dfa2065bb376"
+}

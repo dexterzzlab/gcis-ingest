@@ -1,0 +1,85 @@
+{
+    "attributes": null,
+    "caption": "Rising sea levels will combine with storm surges and high tides to threaten power-generating facilities located in California coastal communities and around the San Francisco Bay. Sea level rise and more intense heavy precipitation events increase the risk of coastal flooding and damages to infrastructure (Ch. 3: Water). (Figure source: Sathaye et al. 2011<tbib>8a427e85-f9a1-45bd-a6cb-2421f8eb4277</tbib>).",
+    "chapter": {
+        "doi": "10.7930/J0BG2KWD",
+        "identifier": "energy-supply-and-use",
+        "number": 4,
+        "report_identifier": "nca3",
+        "sort_key": 40,
+        "title": "Energy Supply and Use",
+        "url": "http://nca2014.globalchange.gov/report/sectors/energy"
+    },
+    "chapter_identifier": "energy-supply-and-use",
+    "cited_by": [],
+    "contributors": [],
+    "create_dt": "2014-03-13T12:13:15",
+    "files": [
+        {
+            "file": "2b/ab/0135c8d93214302117287db45a55/Energy_power_plants___SLR_13430_V5.png",
+            "href": "http://data.globalchange.gov/assets/2b/ab/0135c8d93214302117287db45a55/Energy_power_plants___SLR_13430_V5.png",
+            "identifier": "e82d74fe-6c2b-4ac6-8bb2-3da0bd3bdca8",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "ef4128f50b86f86a5f26a1a214cbc6637c7c24d9",
+            "size": 619246,
+            "thumbnail": "2b/ab/0135c8d93214302117287db45a55/.thumb-e82d74fe-6c2b-4ac6-8bb2-3da0bd3bdca8.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/2b/ab/0135c8d93214302117287db45a55/.thumb-e82d74fe-6c2b-4ac6-8bb2-3da0bd3bdca8.png",
+            "uri": "/file/e82d74fe-6c2b-4ac6-8bb2-3da0bd3bdca8",
+            "url": "/assets/2b/ab/0135c8d93214302117287db45a55/Energy_power_plants___SLR_13430_V5.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/energy-supply-and-use/figure/california-power-plants-potentially-at-risk-from-sea-level-rise.json",
+    "identifier": "california-power-plants-potentially-at-risk-from-sea-level-rise",
+    "images": [
+        {
+            "attributes": null,
+            "create_dt": "2014-03-13T12:13:15",
+            "description": null,
+            "identifier": "3257594d-5bbc-44d2-95e0-515bcdd19089",
+            "lat_max": null,
+            "lat_min": null,
+            "lon_max": null,
+            "lon_min": null,
+            "position": null,
+            "submission_dt": null,
+            "time_end": null,
+            "time_start": null,
+            "title": "California Power Plants Potentially at Risk from Sea Level Rise",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 5,
+    "parents": [
+        {
+            "activity_uri": null,
+            "label": "Estimating Risk to California Energy Infrastructure from Projected Climate Change",
+            "note": null,
+            "publication_type_identifier": "report",
+            "relationship": "prov:wasDerivedFrom",
+            "url": "/report/osti-1026811"
+        }
+    ],
+    "references": [
+        {
+            "href": "http://data.globalchange.gov/reference/8a427e85-f9a1-45bd-a6cb-2421f8eb4277.json",
+            "uri": "/reference/8a427e85-f9a1-45bd-a6cb-2421f8eb4277"
+        }
+    ],
+    "report_identifier": "nca3",
+    "source_citation": "Sathaye et al. 2011<tbib>8a427e85-f9a1-45bd-a6cb-2421f8eb4277</tbib>",
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "California Power Plants Potentially at Risk from Sea Level Rise",
+    "uri": "/report/nca3/chapter/energy-supply-and-use/figure/california-power-plants-potentially-at-risk-from-sea-level-rise",
+    "url": "http://nca2014.globalchange.gov/report/sectors/energy/graphics/california-power-plants-potentially-risk-sea-level-rise",
+    "usage_limits": "Copyright protected. Obtain permission from the original figure source."
+}

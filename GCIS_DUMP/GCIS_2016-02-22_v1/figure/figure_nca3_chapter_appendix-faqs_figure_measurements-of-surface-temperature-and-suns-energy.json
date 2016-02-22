@@ -1,0 +1,96 @@
+{
+    "attributes": null,
+    "caption": "Changes in the global surface temperature (top) and the solar flux (bottom) since 1900 (temperatures are relative to 1961-1990; solar flux is relative to the total average irradiance from the sun of about 1360 watts per square meter). The temperatures are based on thermometer observations of the Earth\u2019s surface temperature, while the solar flux at the top of Earth\u2019s atmosphere is based on satellite observations starting in 1978 and on proxy observations before then. (Figure source: NOAA NCDC / CICS-NC).",
+    "chapter": {
+        "doi": "10.7930/J0G15XS3",
+        "identifier": "appendix-faqs",
+        "number": 34,
+        "report_identifier": "nca3",
+        "sort_key": 340,
+        "title": "Appendix 4: Frequently Asked Questions",
+        "url": "http://nca2014.globalchange.gov/report/appendices/faqs"
+    },
+    "chapter_identifier": "appendix-faqs",
+    "cited_by": [],
+    "contributors": [
+        {
+            "href": "http://data.globalchange.gov/contributor/2522.json",
+            "id": 2522,
+            "organization": {
+                "country_code": "US",
+                "identifier": "cooperative-institute-climate-satellites-nc",
+                "name": "Cooperative Institute for Climate and Satellites - NC",
+                "organization_type_identifier": "academic",
+                "url": "http://www.cicsnc.org/"
+            },
+            "organization_uri": "/organization/cooperative-institute-climate-satellites-nc",
+            "person": {
+                "first_name": "Kenneth",
+                "id": 1025,
+                "last_name": "Kunkel",
+                "middle_name": null,
+                "orcid": "0000-0001-6667-7047",
+                "url": "http://cicsnc.org/people/kenneth-kunkel/"
+            },
+            "person_id": 1025,
+            "person_uri": "/person/1025",
+            "role_type_identifier": "scientist",
+            "uri": "/contributor/2522"
+        }
+    ],
+    "create_dt": "2013-11-01T15:13:00",
+    "files": [
+        {
+            "file": "6e/3a/733c6ef707aff30b0f7fc4055f94/CAQ_surface_temp_and_sun_energy_V4.png",
+            "href": "http://data.globalchange.gov/assets/6e/3a/733c6ef707aff30b0f7fc4055f94/CAQ_surface_temp_and_sun_energy_V4.png",
+            "identifier": "a8973f92-b86a-42db-bd31-7a6b8e1cac61",
+            "landing_page": null,
+            "location": null,
+            "mime_type": "image/png",
+            "sha1": "d776d9888b8ca3ee0a4abefa61094f2b8f173362",
+            "size": 143364,
+            "thumbnail": "6e/3a/733c6ef707aff30b0f7fc4055f94/.thumb-a8973f92-b86a-42db-bd31-7a6b8e1cac61.png",
+            "thumbnail_href": "http://data.globalchange.gov/assets/6e/3a/733c6ef707aff30b0f7fc4055f94/.thumb-a8973f92-b86a-42db-bd31-7a6b8e1cac61.png",
+            "uri": "/file/a8973f92-b86a-42db-bd31-7a6b8e1cac61",
+            "url": "/assets/6e/3a/733c6ef707aff30b0f7fc4055f94/CAQ_surface_temp_and_sun_energy_V4.png"
+        }
+    ],
+    "href": "http://data.globalchange.gov/report/nca3/chapter/appendix-faqs/figure/measurements-of-surface-temperature-and-suns-energy.json",
+    "identifier": "measurements-of-surface-temperature-and-suns-energy",
+    "images": [
+        {
+            "attributes": "global temperature, solar irradiance",
+            "create_dt": "2013-11-01T15:13:00",
+            "description": null,
+            "identifier": "991826ea-5f98-45f2-827e-8fdfc48d07fb",
+            "lat_max": "90",
+            "lat_min": "-90",
+            "lon_max": "180",
+            "lon_min": "-180",
+            "position": null,
+            "submission_dt": null,
+            "time_end": "2013-12-31T23:59:59",
+            "time_start": "1976-01-01T00:00:00",
+            "title": "Measurements of Surface Temperature and Sun's Energy",
+            "url": null,
+            "usage_limits": null
+        }
+    ],
+    "kindred_figures": [],
+    "lat_max": null,
+    "lat_min": null,
+    "lon_max": null,
+    "lon_min": null,
+    "ordinal": 12,
+    "parents": [],
+    "references": [],
+    "report_identifier": "nca3",
+    "source_citation": null,
+    "submission_dt": null,
+    "time_end": null,
+    "time_start": null,
+    "title": "Measurements of Surface Temperature and Sun\u2019s Energy",
+    "uri": "/report/nca3/chapter/appendix-faqs/figure/measurements-of-surface-temperature-and-suns-energy",
+    "url": "http://nca2014.globalchange.gov/report/appendices/faqs/graphics/measurements-surface-temperature-and-sun%E2%80%99s-energy",
+    "usage_limits": "Free to use with credit to the original figure source."
+}

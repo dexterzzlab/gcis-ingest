@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        ".reference_type": "0",
+        "Author": "Chapman, James S.\rMelbourne, Timothy I.",
+        "DOI": "10.1029/2009gl040465",
+        "ISSN": "1944-8007",
+        "Issue": "22",
+        "Journal": "Geophysical Research Letters",
+        "Keywords": "ETS\rsubduction\rearthquake\r7240 Subduction zones\r7212 Earthquake ground motions and engineering seismology\r7215 Earthquake source observations",
+        "Pages": "L22301",
+        "Title": "Future Cascadia megathrust rupture delineated by episodic tremor and slip",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1029/2009GL040465/pdf",
+        "Volume": "36",
+        "Year": "2009",
+        "_chapter": "[\"Ch. 21: Northwest FINAL\"]",
+        "_record_number": "3835",
+        "_uuid": "dbfe5a51-ff82-4b26-83c8-6a7a1bab146e",
+        "reftype": "Journal Article"
+    },
+    "child_publication": "/article/10.1029/2009gl040465",
+    "href": "http://data.globalchange.gov/reference/dbfe5a51-ff82-4b26-83c8-6a7a1bab146e.json",
+    "identifier": "dbfe5a51-ff82-4b26-83c8-6a7a1bab146e",
+    "uri": "/reference/dbfe5a51-ff82-4b26-83c8-6a7a1bab146e"
+}
